@@ -1,0 +1,529 @@
+<bht key="db/conf/mdm/mdm2003.bht" title="Mobile Data Management 2003">  
+<h1>4th <ref href="db/conf/mdm/index.html">MDM</ref> 2003:
+Melbourne, Australia</h1> <dblpcites><r><proceedings key="conf/mdm/2003" mdate="2022-04-09">
+<editor pid="c/MingSyanChen">Ming-Syan Chen</editor>
+<editor orcid="0000-0001-7189-9816" pid="c/PKChrysanthis">Panos K. Chrysanthis</editor>
+<editor pid="97/5000">Morris Sloman</editor>
+<editor pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</editor>
+<title>Mobile Data Management, 4th International Conference, MDM 2003, Melbourne, Australia, January 21-24, 2003, Proceedings</title>
+<booktitle>Mobile Data Management</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2574</volume>
+<publisher>Springer</publisher>
+<year>2003</year>
+<isbn>3-540-00393-2</isbn>
+<ee>https://doi.org/10.1007/3-540-36389-0</ee>
+<url>db/conf/mdm/mdm2003.html</url>
+</proceedings>
+</r>
+</dblpcites>
+  
+<h2>Storage Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/mdm/RicheB03" mdate="2017-05-26">
+<author pid="00/4370">St&#233;phanie Rich&#233;</author>
+<author pid="11/5480">Gavin Brebner</author>
+<title>Storing and Accessing User Context.</title>
+<pages>1-12</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_1</ee>
+<url>db/conf/mdm/mdm2003.html#RicheB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/SailhanI03" mdate="2017-05-26">
+<author pid="98/990">Fran&#231;oise Sailhan</author>
+<author pid="i/ValerieIssarny">Val&#233;rie Issarny</author>
+<title>Cooperative Caching in Ad Hoc Networks.</title>
+<pages>13-28</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_2</ee>
+<url>db/conf/mdm/mdm2003.html#SailhanI03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/WangKDS03" mdate="2019-09-10">
+<author pid="37/1593-1">Zhijun Wang 0001</author>
+<author pid="68/5181">Mohan Kumar</author>
+<author pid="d/SajalKDas">Sajal K. Das 0001</author>
+<author pid="13/5894">Huaping Shen</author>
+<title>Investigation of Cache Maintenance Strategies for Multi-cell Environments.</title>
+<pages>29-44</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_3</ee>
+<url>db/conf/mdm/mdm2003.html#WangKDS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/GhoseGC03" mdate="2023-01-13">
+<author pid="39/1380-2">Abhishek Ghose 0002</author>
+<author pid="28/3855">Jens Grossklags</author>
+<author pid="c/JohnChuang">John Chuang</author>
+<title>Resilient Data-Centric Storage in Wireless Ad-Hoc Sensor Networks.</title>
+<pages>45-62</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_4</ee>
+<url>db/conf/mdm/mdm2003.html#GhoseGC03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Location Tracking</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/mdm/YanagisawaAS03" mdate="2017-05-26">
+<author pid="23/676">Yutaka Yanagisawa</author>
+<author pid="54/6387">Jun-ichi Akahani</author>
+<author pid="57/6558">Tetsuji Satoh</author>
+<title>Shape-Based Similarity Query for Trajectory of Mobile Objects.</title>
+<pages>63-77</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_5</ee>
+<url>db/conf/mdm/mdm2003.html#YanagisawaAS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/ParkSK03" mdate="2017-05-26">
+<author pid="60/2576">Hyun Kyoo Park</author>
+<author pid="48/5825">Jin Hyun Son</author>
+<author pid="k/Myoung-HoKim">Myoung-Ho Kim</author>
+<title>An Efficient Spatiotemporal Indexing Method for Moving Objects in Mobile Communication Environments.</title>
+<pages>78-91</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_6</ee>
+<url>db/conf/mdm/mdm2003.html#ParkSK03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/MyllymakiK03" mdate="2017-05-26">
+<author pid="m/JussiMyllymaki">Jussi Myllymaki</author>
+<author pid="90/4949">James H. Kaufman</author>
+<title>DynaMark: A Benchmark for Dynamic Spatial Indexing.</title>
+<pages>92-105</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_7</ee>
+<url>db/conf/mdm/mdm2003.html#MyllymakiK03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Information Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/mdm/ChanLL03" mdate="2017-05-26">
+<author pid="53/4860">Eddie Y. M. Chan</author>
+<author pid="l/VictorCSLee">Victor C. S. Lee</author>
+<author pid="75/2236">Kwok-Wa Lam</author>
+<title>Using Separate Processing for Read-Only Transactions in Mobile Environment.</title>
+<pages>106-121</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_8</ee>
+<url>db/conf/mdm/mdm2003.html#ChanLL03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/HuangG03" mdate="2017-05-26">
+<author pid="28/5912">Yongqiang Huang</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<title>Publish/Subscribe Tree Construction in Wireless Ad-Hoc Networks.</title>
+<pages>122-140</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_9</ee>
+<url>db/conf/mdm/mdm2003.html#HuangG03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/HwangC03" mdate="2017-05-26">
+<author pid="22/852">San-Yih Hwang</author>
+<author pid="85/2993">Ya-Fan Chen</author>
+<title>Personal Workflows: Modeling and Management.</title>
+<pages>141-152</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_10</ee>
+<url>db/conf/mdm/mdm2003.html#HwangC03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Location-Aware Services</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/mdm/DearleKMMMYCWW03" mdate="2021-07-07">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="97/304">Kevin Mullen</author>
+<author pid="80/6818">Yanyan Yang</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="88/5671">Paula Welen</author>
+<author pid="98/3802">Andy Wilson</author>
+<title>Architectural Support for Global Smart Spaces.</title>
+<pages>153-164</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_11</ee>
+<url>db/conf/mdm/mdm2003.html#DearleKMMMYCWW03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/ChonAA03" mdate="2017-05-26">
+<author pid="90/1505">Hae Don Chon</author>
+<author pid="a/DivyakantAgrawal">Divyakant Agrawal</author>
+<author pid="a/AmrElAbbadi">Amr El Abbadi</author>
+<title>FATES: Finding A Time dEpendent Shortest path.</title>
+<pages>165-180</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_12</ee>
+<url>db/conf/mdm/mdm2003.html#ChonAA03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/ZhengLL03" mdate="2017-09-16">
+<author orcid="0000-0001-9792-9171" pid="93/4303">Baihua Zheng</author>
+<author pid="14/716">Wang-Chien Lee</author>
+<author pid="l/DikLunLee">Dik Lun Lee</author>
+<title>Search K Nearest Neighbors on Air.</title>
+<pages>181-195</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_13</ee>
+<url>db/conf/mdm/mdm2003.html#ZhengLL03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/MajumdarRX03" mdate="2017-05-26">
+<author pid="47/1957">Ratul kr. Majumdar</author>
+<author pid="r/KrithiRamamritham">Krithi Ramamritham</author>
+<author pid="x/MingXiong">Ming Xiong</author>
+<title>Adaptive Location Management in Mobile Environments.</title>
+<pages>196-211</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_14</ee>
+<url>db/conf/mdm/mdm2003.html#MajumdarRX03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Context-Aware Services</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/mdm/BellavistaCMS03" mdate="2017-05-26">
+<author pid="b/PaoloBellavista">Paolo Bellavista</author>
+<author pid="90/2390">Antonio Corradi</author>
+<author pid="38/5309">Rebecca Montanari</author>
+<author pid="19/4945">Cesare Stefanelli</author>
+<title>Policy-Driven Binding to Information Resources in Mobility-Enabled Scenarios.</title>
+<pages>212-229</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_15</ee>
+<url>db/conf/mdm/mdm2003.html#BellavistaCMS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/TakashioMFT03" mdate="2017-05-26">
+<author pid="15/1455">Kazunori Takashio</author>
+<author pid="77/6020">Masakazu Mori</author>
+<author pid="64/5362">Masataka Funayama</author>
+<author pid="41/679">Hideyuki Tokuda</author>
+<title>Constructing Environment-Aware Mobile Applications Adaptive to Small, Networked Appliances in Ubiquitous Computing Environment.</title>
+<pages>230-246</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_16</ee>
+<url>db/conf/mdm/mdm2003.html#TakashioMFT03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/IndulskaRRH03" mdate="2021-10-14">
+<author orcid="0000-0001-8083-4299" pid="i/JadwigaIndulska">Jadwiga Indulska</author>
+<author pid="85/6544">Ricky Robinson</author>
+<author pid="60/382">Andry Rakotonirainy</author>
+<author pid="17/1584">Karen Henricksen</author>
+<title>Experiences in Using CC/PP in Context-Aware Systems.</title>
+<pages>247-261</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_17</ee>
+<url>db/conf/mdm/mdm2003.html#IndulskaRRH03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/HoiLX03" mdate="2017-05-26">
+<author pid="05/2556">Ka Kit Hoi</author>
+<author pid="l/DikLunLee">Dik Lun Lee</author>
+<author pid="x/JianliangXu">Jianliang Xu</author>
+<title>Document Visualization on Small Displays.</title>
+<pages>262-278</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_18</ee>
+<url>db/conf/mdm/mdm2003.html#HoiLX03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Resource Discovery</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/mdm/Strang03" mdate="2017-05-26">
+<author pid="s/ThomasStrang">Thomas Strang</author>
+<title>Towards Autonomous Services for Smart Mobile Devices.</title>
+<pages>279-293</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_19</ee>
+<url>db/conf/mdm/mdm2003.html#Strang03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/BubendorferH03" mdate="2017-05-26">
+<author pid="56/1124">Kris Bubendorfer</author>
+<author pid="91/5987">John H. Hine</author>
+<title>Nomad: Application Participation in a Global Location Service.</title>
+<pages>294-306</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_20</ee>
+<url>db/conf/mdm/mdm2003.html#BubendorferH03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/DennyFCP03" mdate="2019-12-04">
+<author pid="72/5226">Matthew Denny</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="146/7689">Paul C. Castro</author>
+<author pid="85/3925">Apratim Purakayastha</author>
+<title>Mobiscope: A Scalable Spatial Discovery Service for Mobile Network Resources.</title>
+<pages>307-324</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_21</ee>
+<url>db/conf/mdm/mdm2003.html#DennyFCP03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Location Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/mdm/PeddemorsLH03" mdate="2017-05-26">
+<author pid="00/4087">Arjan J. H. Peddemors</author>
+<author pid="57/2069">Marc M. Lankhorst</author>
+<author pid="37/5316">Johan de Heer</author>
+<title>Presence, Location, and Instant Messaging in a Context-Aware Application Framework.</title>
+<pages>325-330</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_22</ee>
+<url>db/conf/mdm/mdm2003.html#PeddemorsLH03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/ChenRYL03" mdate="2019-08-22">
+<author pid="21/5521-4">Ying Chen 0004</author>
+<author pid="40/1817">Fangyan Rao</author>
+<author pid="44/1712">Xiulan Yu</author>
+<author pid="98/1737-14">Dong Liu 0014</author>
+<title>CAMEL: A Moving Object Database Approach for Intelligent Location Aware Services.</title>
+<pages>331-334</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_23</ee>
+<url>db/conf/mdm/mdm2003.html#ChenRYL03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/HeB03" mdate="2017-05-26">
+<author pid="11/4257">Weiping He</author>
+<author pid="01/458">Athman Bouguettaya</author>
+<title>Using Hashing and Caching for Location Management in Wireless Mobile Systems.</title>
+<pages>335-339</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_24</ee>
+<url>db/conf/mdm/mdm2003.html#HeB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/SongR03" mdate="2017-05-26">
+<author pid="56/234">Zhexuan Song</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<title>SEB-tree: An Approach to Index Continuously Moving Objects.</title>
+<pages>340-344</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_25</ee>
+<url>db/conf/mdm/mdm2003.html#SongR03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/ChenLK03" mdate="2017-05-26">
+<author pid="67/883">Chao-Chun Chen</author>
+<author pid="96/5639">Chiang Lee</author>
+<author pid="66/4845">Chih-Horng Ke</author>
+<title>Best Movement of Mobile Agent in Mobile Computing Systems.</title>
+<pages>345-350</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_26</ee>
+<url>db/conf/mdm/mdm2003.html#ChenLK03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Storage Management and Query Processing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/mdm/RichardNC03" mdate="2019-03-22">
+<author pid="91/1927-2">Bruno Richard 0002</author>
+<author pid="10/998">Donal Mac Nioclais</author>
+<author pid="70/3127">Denis Chalon</author>
+<title>Clique: A Transparent, Peer-to-Peer Replicated File System.</title>
+<pages>351-355</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_27</ee>
+<url>db/conf/mdm/mdm2003.html#RichardNC03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/HallerSS03" mdate="2017-05-26">
+<author pid="60/895">Klaus Haller</author>
+<author pid="s/HSchuldt">Heiko Schuldt</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<title>Transactional Peer-to-Peer Information Processing: The AMOR Approach.</title>
+<pages>356-362</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_28</ee>
+<url>db/conf/mdm/mdm2003.html#HallerSS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/ShenLB03" mdate="2019-11-26">
+<author pid="s/BoShen-3">Bo Shen 0003</author>
+<author pid="28/1552">Sung-Ju Lee</author>
+<author pid="51/6127">Sujoy Basu</author>
+<title>Performance Evaluation of Transcoding-Enabled Streaming Media Caching System.</title>
+<pages>363-368</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_29</ee>
+<url>db/conf/mdm/mdm2003.html#ShenLB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/MeiB03" mdate="2017-05-26">
+<author pid="56/630">Jiangmei Mei</author>
+<author pid="25/3083">Richard B. Bunt</author>
+<title>Adaptive File Cache Management for Mobile Computing.</title>
+<pages>369-373</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_30</ee>
+<url>db/conf/mdm/mdm2003.html#MeiB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/HuXL03" mdate="2019-12-23">
+<author pid="90/5236-1">Haibo Hu 0001</author>
+<author pid="x/JianliangXu">Jianliang Xu</author>
+<author pid="l/DikLunLee">Dik Lun Lee</author>
+<title>Adaptive Power-Aware Prefetching Schemes for Mobile Broadcast Environments.</title>
+<pages>374-380</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_31</ee>
+<url>db/conf/mdm/mdm2003.html#HuXL03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/MadriaFB03" mdate="2021-09-01">
+<author pid="m/SanjayKumarMadria">Sanjay Kumar Madria</author>
+<author pid="09/4381-1">Yongjian Fu 0001</author>
+<author pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<title>A Multi-layered Database Model for Mobile Environment.</title>
+<pages>381-385</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_32</ee>
+<url>db/conf/mdm/mdm2003.html#MadriaFB03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Context-Aware Information Services</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/mdm/ParadisCO03" mdate="2017-05-26">
+<author pid="04/5949">Fran&#231;ois Paradis</author>
+<author pid="04/488">Francis Crimmins</author>
+<author pid="93/3733">Nadine Ozkan</author>
+<title>A Task Oriented Approach to Delivery in Mobile Environments.</title>
+<pages>386-390</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_33</ee>
+<url>db/conf/mdm/mdm2003.html#ParadisCO03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/SotamaaI03" mdate="2020-10-25">
+<author pid="11/3688">Olli Sotamaa</author>
+<author orcid="0000-0001-8157-7482" pid="60/1523">Veikko Ikonen</author>
+<title>Picturing the Future Personal Navigation Products and Services by Means of Scenarios.</title>
+<pages>391-395</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_34</ee>
+<url>db/conf/mdm/mdm2003.html#SotamaaI03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/HashimotoKI03" mdate="2017-05-26">
+<author pid="29/3564">Takako Hashimoto</author>
+<author pid="76/4352">Takashi Katooka</author>
+<author pid="95/154">Atsushi Iizawa</author>
+<title>Personal Digest System for Professional Baseball Programs in Mobile Environment.</title>
+<pages>396-400</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_35</ee>
+<url>db/conf/mdm/mdm2003.html#HashimotoKI03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/KulkarniSR03" mdate="2017-05-26">
+<author pid="48/2303">Purushottam Kulkarni</author>
+<author pid="s/PrashantJShenoy">Prashant J. Shenoy</author>
+<author pid="r/KrithiRamamritham">Krithi Ramamritham</author>
+<title>Handling Client Mobility and Intermittent Connectivity in Mobile Web Accesses.</title>
+<pages>401-407</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_36</ee>
+<url>db/conf/mdm/mdm2003.html#KulkarniSR03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/mdm/NiuLX03" mdate="2017-05-26">
+<author pid="59/3651">Yongbo Niu</author>
+<author pid="35/1103">Shanping Li</author>
+<author pid="x/JianliangXu">Jianliang Xu</author>
+<title>Enabling Web-Based Location-Dependent Information Services in Mobile Environments.</title>
+<pages>408-412</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_37</ee>
+<url>db/conf/mdm/mdm2003.html#NiuLX03</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

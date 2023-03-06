@@ -1,0 +1,673 @@
+<bht key="db/conf/cp/cp2018.bht" title="CP 2018">  
+<h1>24th <ref href="db/conf/cp/index.html">CP</ref> 2018:
+Lille, France</h1> <dblpcites><r><proceedings key="conf/cp/2018" mdate="2019-05-14">
+<editor pid="h/JohnNHooker">John N. Hooker</editor>
+<title>Principles and Practice of Constraint Programming - 24th International Conference, CP 2018, Lille, France, August 27-31, 2018, Proceedings</title>
+<booktitle>CP</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11008</volume>
+<isbn>978-3-319-98333-2</isbn>
+<isbn>978-3-319-98334-9</isbn>
+<ee>https://doi.org/10.1007/978-3-319-98334-9</ee>
+<url>db/conf/cp/cp2018.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Main Technical Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AkgunGJMNS18" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<title>Automatic Discovery and Exploitation of Promising Subproblems for Tabulation.</title>
+<pages>3-12</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_1</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#AkgunGJMNS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AmadiniGS18" mdate="2018-08-23">
+<author pid="123/4603">Roberto Amadini</author>
+<author pid="76/3059">Graeme Gange</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Propagating Regular Membership with Dashed Strings.</title>
+<pages>13-29</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_2</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#AmadiniGS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Bit-Monnot18" mdate="2018-08-23">
+<author pid="134/0615">Arthur Bit-Monnot</author>
+<title>A Constraint-Based Encoding for Domain-Independent Temporal Planning.</title>
+<pages>30-46</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_3</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#Bit-Monnot18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BonoG18" mdate="2018-08-23">
+<author pid="225/1572">Massimo Bono</author>
+<author pid="73/3274">Alfonso Emilio Gerevini</author>
+<title>Decremental Consistency Checking of Temporal Constraints: Algorithms for the Point Algebra and the ORD-Horn Class.</title>
+<pages>47-63</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_4</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#BonoG18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CooperJC18" mdate="2019-09-16">
+<author orcid="0000-0003-4853-053X" pid="04/5623">Martin C. Cooper</author>
+<author pid="220/3627">Wafa Jguirim</author>
+<author pid="50/3733">David A. Cohen</author>
+<title>Domain Reduction for Valued Constraints by Generalising Methods from CSP.</title>
+<pages>64-80</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_5</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#CooperJC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DekkerBSST18" mdate="2018-09-13">
+<author orcid="0000-0002-0053-6724" pid="204/5900">Jip J. Dekker</author>
+<author orcid="0000-0002-6666-514X" pid="b/MariaJGarciadelaBanda">Maria Garcia de la Banda</author>
+<author orcid="0000-0001-5452-4086" pid="82/2883">Andreas Schutt</author>
+<author orcid="0000-0003-2186-0459" pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author orcid="0000-0003-3357-6498" pid="41/5343">Guido Tack</author>
+<title>Solver-Independent Large Neighbourhood Search.</title>
+<pages>81-98</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_6</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#DekkerBSST18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DemirovicCS18" mdate="2018-08-23">
+<author pid="115/4370">Emir Demirovic</author>
+<author pid="16/7407">Geoffrey Chu</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Solution-Based Phase Saving for CP: A Value-Selection Heuristic to Simulate Local Search Behavior in Complete Solvers.</title>
+<pages>99-108</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_7</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#DemirovicCS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FichteHLS18" mdate="2018-08-23">
+<author pid="46/7137">Johannes Klaus Fichte</author>
+<author pid="150/8127">Markus Hecher</author>
+<author pid="181/3420">Neha Lodha</author>
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<title>An SMT Approach to Fractional Hypertree Width.</title>
+<pages>109-127</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_8</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#FichteHLS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FosseS18" mdate="2018-08-23">
+<author pid="225/1589">Rohan Foss&#233;</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>On the Non-degeneracy of Unsatisfiability Proof Graphs Produced by SAT Solvers.</title>
+<pages>128-143</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_9</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#FosseS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GangeS18" mdate="2018-08-23">
+<author pid="76/3059">Graeme Gange</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Sequential Precede Chain for Value Symmetry Elimination.</title>
+<pages>144-159</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_10</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#GangeS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GlorianLMS18" mdate="2020-10-25">
+<author pid="204/8167">Gael Glorian</author>
+<author pid="28/7480">Jean-Marie Lagniez</author>
+<author orcid="0000-0002-2540-8657" pid="183/0871">Valentin Montmirail</author>
+<author orcid="0000-0001-7562-2443" pid="117/5970">Michael Sioutis</author>
+<title>An Incremental SAT-Based Approach to Reason Efficiently on Qualitative Constraint Networks.</title>
+<pages>160-178</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_11</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#GlorianLMS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HebrardK18" mdate="2022-04-09">
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<author pid="61/6509">George Katsirelos</author>
+<title>Clause Learning and New Bounds for Graph Coloring.</title>
+<pages>179-194</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_12</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#HebrardK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HoosPSS18" mdate="2018-08-23">
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author pid="181/3386">Tom&#225;s Peitl</author>
+<author pid="55/10962">Friedrich Slivovsky</author>
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Portfolio-Based Algorithm Selection for Circuit QBFs.</title>
+<pages>195-209</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_13</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#HoosPSS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/IngmarS18" mdate="2020-10-25">
+<author orcid="0000-0002-9578-5407" pid="225/1681">Linnea Ingmar</author>
+<author pid="s/ChristianSchulte">Christian Schulte 0001</author>
+<title>Making Compact-Table Compact.</title>
+<pages>210-218</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_14</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#IngmarS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/0001KMR18" mdate="2020-10-25">
+<author pid="13/4416-1">Saurabh Joshi 0001</author>
+<author orcid="0000-0003-2089-8463" pid="124/1102-1">Prateek Kumar 0001</author>
+<author pid="14/8296">Ruben Martins</author>
+<author orcid="0000-0001-8896-7619" pid="217/3276">Sukrut Rao</author>
+<title>Approximation Strategies for Incomplete MaxSAT.</title>
+<pages>219-228</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_15</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#0001KMR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KhelifaBA18" mdate="2019-12-27">
+<author pid="160/4783">Meriem Khelifa</author>
+<author orcid="0000-0001-5210-8951" pid="68/5284">Dalila Boughaci</author>
+<author pid="91/2661">Esma A&#239;meur</author>
+<title>A Novel Graph-Based Heuristic Approach for Solving Sport Scheduling Problem.</title>
+<pages>229-241</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_16</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#KhelifaBA18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LeeLZ18" mdate="2018-08-23">
+<author pid="150/4950">Jasper C. H. Lee</author>
+<author pid="l/JimmyHoManLee">Jimmy H. M. Lee</author>
+<author pid="222/1910">Allen Z. Zhong</author>
+<title>Augmenting Stream Constraint Programming with Eventuality Conditions.</title>
+<pages>242-258</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_17</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#LeeLZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LiuCM18" mdate="2021-05-10">
+<author pid="119/1038-2">Fanghui Liu 0002</author>
+<author pid="204/8100">Waldemar Cruz</author>
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<title>A Complete Tolerant Algebraic Side-Channel Attack for AES with CP.</title>
+<pages>259-275</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_18</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#LiuCM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LonsingE18" mdate="2020-10-25">
+<author orcid="0000-0002-5715-7231" pid="85/828">Florian Lonsing</author>
+<author pid="e/UweEgly">Uwe Egly</author>
+<title>Evaluating QBF Solvers: Quantifier Alternations Matter.</title>
+<pages>276-294</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_19</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#LonsingE18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MadelaineS18" mdate="2018-09-13">
+<author orcid="0000-0002-8528-7105" pid="54/937">Florent R. Madelaine</author>
+<author pid="225/1603">St&#233;phane Secouard</author>
+<title>Quantified Valued Constraint Satisfaction Problem.</title>
+<pages>295-311</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_20</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#MadelaineS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MaliotovM18" mdate="2019-02-13">
+<author pid="141/4359">Dmitry Malioutov</author>
+<author pid="129/1623">Kuldeep S. Meel</author>
+<title>MLIC: A MaxSAT-Based Framework for Learning Interpretable Classification Rules.</title>
+<pages>312-327</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_21</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#MaliotovM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PalmieriP18" mdate="2018-08-23">
+<author pid="163/0185">Anthony Palmieri</author>
+<author pid="150/4949">Guillaume Perez</author>
+<title>Objective as a Feature for Robust Search Strategies.</title>
+<pages>328-344</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_22</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#PalmieriP18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SchneiderC18" mdate="2019-02-13">
+<author pid="150/4928">Anthony Schneider</author>
+<author pid="64/4385">Berthe Y. Choueiry</author>
+<title>PW-AC: Extending Compact-Table to Enforce Pairwise Consistency on Table Constraints.</title>
+<pages>345-361</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_23</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#SchneiderC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SpracklenAM18" mdate="2020-03-27">
+<author pid="166/7452">Patrick Spracklen</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Automatic Generation and Selection of Streamlined Constraint Models via Monte Carlo Search on a Model Lattice.</title>
+<pages>362-372</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_24</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#SpracklenAM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TsourosSS18" mdate="2021-10-14">
+<author orcid="0000-0002-3040-0959" pid="208/6771">Dimosthenis C. Tsouros</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<author orcid="0000-0001-6042-0355" pid="00/605">Panagiotis G. Sarigiannidis</author>
+<title>Efficient Methods for Constraint Acquisition.</title>
+<pages>373-388</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_25</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#TsourosSS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/VismaraB18" mdate="2018-08-23">
+<author pid="22/1260">Philippe Vismara</author>
+<author pid="166/7451">Nicolas Briot</author>
+<title>A Circuit Constraint for Multiple Tours Problems.</title>
+<pages>389-402</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_26</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#VismaraB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ZeighamiLTB18" mdate="2019-09-25">
+<author pid="225/1658">Kiana Zeighami</author>
+<author pid="132/9415">Kevin Leo</author>
+<author pid="41/5343">Guido Tack</author>
+<author orcid="0000-0002-6666-514X" pid="b/MariaJGarciadelaBanda">Maria Garcia de la Banda</author>
+<title>Towards Semi-Automatic Learning-Based Model Transformation.</title>
+<pages>403-419</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_27</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#ZeighamiLTB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ZiatPTM18" mdate="2018-08-23">
+<author pid="225/1596">Ghiles Ziat</author>
+<author pid="51/7479">Marie Pelleau</author>
+<author pid="76/1220">Charlotte Truchet</author>
+<author pid="68/1479">Antoine Min&#233;</author>
+<title>Finding Solutions by Finding Inconsistencies.</title>
+<pages>420-435</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_28</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#ZiatPTM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ZulkoskiMWLCG18" mdate="2022-12-30">
+<author pid="146/0151">Edward Zulkoski</author>
+<author pid="14/8296">Ruben Martins</author>
+<author orcid="0000-0003-0102-4381" pid="17/3100">Christoph M. Wintersteiger</author>
+<author pid="133/7634">Jia Hui Liang</author>
+<author pid="72/6806">Krzysztof Czarnecki 0001</author>
+<author orcid="0000-0002-6029-2047" pid="g/VijayGanesh">Vijay Ganesh</author>
+<title>The Effect of Structural Measures and Merges on SAT Solver Performance.</title>
+<pages>436-452</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_29</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#ZulkoskiMWLCG18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ZulkoskiMWRLCG18" mdate="2022-12-30">
+<author pid="146/0151">Edward Zulkoski</author>
+<author pid="14/8296">Ruben Martins</author>
+<author orcid="0000-0003-0102-4381" pid="17/3100">Christoph M. Wintersteiger</author>
+<author pid="122/2714">Robert Robere</author>
+<author pid="133/7634">Jia Hui Liang</author>
+<author pid="72/6806">Krzysztof Czarnecki 0001</author>
+<author orcid="0000-0002-6029-2047" pid="g/VijayGanesh">Vijay Ganesh</author>
+<title>Learning-Sensitive Backdoors with Restarts.</title>
+<pages>453-469</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_30</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#ZulkoskiMWRLCG18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BelovCBKSSW018" mdate="2020-09-05">
+<author orcid="0000-0002-6120-8484" pid="96/2575">Gleb Belov</author>
+<author orcid="0000-0002-1788-9593" pid="46/7967">Tobias Czauderna</author>
+<author orcid="0000-0002-6666-514X" pid="b/MariaJGarciadelaBanda">Maria Garcia de la Banda</author>
+<author pid="58/7967">Matthias Klapperst&#252;ck</author>
+<author pid="119/2044">Ilankaikone Senthooran</author>
+<author pid="225/1637">Mitch Smith</author>
+<author orcid="0000-0001-5536-7780" pid="33/6209">Michael Wybrow</author>
+<author orcid="0000-0001-7326-8110" pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>Process Plant Layout Optimization: Equipment Allocation.</title>
+<pages>473-489</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_31</ee>
+<ee>https://www.wikidata.org/entity/Q62037354</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#BelovCBKSSW018</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Cappart0SR18" mdate="2020-10-25">
+<author pid="164/5606">Quentin Cappart</author>
+<author orcid="0000-0002-7360-5372" pid="220/7810">Charles Thomas 0005</author>
+<author pid="78/2903">Pierre Schaus</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<title>A Constraint Programming Approach for Solving Patient Transportation Problems.</title>
+<pages>490-506</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_32</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#Cappart0SR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Justeau-Allaire18" mdate="2019-10-19">
+<author orcid="0000-0003-4129-0764" pid="225/1580">Dimitri Justeau-Allaire</author>
+<author pid="93/10071">Philippe Birnbaum</author>
+<author orcid="0000-0002-6534-8644" pid="94/2497">Xavier Lorca</author>
+<title>Unifying Reserve Design Strategies with Graph Theory and Constraint Programming.</title>
+<pages>507-523</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_33</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#Justeau-Allaire18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AnsoteguiST18" mdate="2019-09-16">
+<author pid="32/2567">Carlos Ans&#243;tegui</author>
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<author orcid="0000-0002-5931-4907" pid="13/7407">Kevin Tierney</author>
+<title>Self-configuring Cost-Sensitive Hierarchical Clustering with Recourse.</title>
+<pages>524-534</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_34</ee>
+<ee>https://www.wikidata.org/entity/Q60145747</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#AnsoteguiST18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CP and Data Science Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BessiereLM18" mdate="2020-10-25">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author orcid="0000-0003-2524-9462" pid="17/8149">Nadjib Lazaar</author>
+<author pid="179/2168">Mehdi Maamar</author>
+<title>User's Constraints in Itemset Mining.</title>
+<pages>537-553</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_35</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#BessiereLM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JabbourMDRS18" mdate="2018-08-23">
+<author pid="35/2227">Sa&#239;d Jabbour</author>
+<author pid="220/7028">Fatima Ezzahra Mana</author>
+<author pid="155/8094">Imen Ouled Dlala</author>
+<author pid="52/9798">Badran Raddaoui</author>
+<author pid="s/LakhdarSais">Lakhdar Sais</author>
+<title>On Maximal Frequent Itemsets Mining with Constraints.</title>
+<pages>554-569</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_36</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#JabbourMDRS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DlalaJRS18" mdate="2018-08-23">
+<author pid="155/8094">Imen Ouled Dlala</author>
+<author pid="35/2227">Sa&#239;d Jabbour</author>
+<author pid="52/9798">Badran Raddaoui</author>
+<author pid="s/LakhdarSais">Lakhdar Sais</author>
+<title>A Parallel SAT-Based Framework for Closed Frequent Itemsets Mining.</title>
+<pages>570-587</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_37</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#DlalaJRS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/0003KK18" mdate="2018-09-13">
+<author orcid="0000-0001-7874-4518" pid="01/5265-3">Hong Xu 0003</author>
+<author pid="k/SvenKoenig">Sven Koenig</author>
+<author pid="22/6935">T. K. Satish Kumar</author>
+<title>Towards Effective Deep Learning for Constraint Satisfaction Problems.</title>
+<pages>588-597</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_38</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#0003KK18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CP and Music Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/PerezRG18" mdate="2018-08-23">
+<author pid="150/4949">Guillaume Perez</author>
+<author pid="188/6000">Brendan Rappazzo</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<title>Extending the Capacity of 1 / f Noise Generation.</title>
+<pages>601-610</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_39</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#PerezRG18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CP and Operations Research Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/CruzLM18" mdate="2021-05-10">
+<author pid="204/8100">Waldemar Cruz</author>
+<author pid="119/1038-2">Fanghui Liu 0002</author>
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<title>Securely and Automatically Deploying Micro-services in an Hybrid Cloud Infrastructure.</title>
+<pages>613-628</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_40</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#CruzLM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Tesch18" mdate="2018-08-23">
+<author pid="184/6475">Alexander Tesch</author>
+<title>Improving Energetic Propagations for Cumulative Scheduling.</title>
+<pages>629-645</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_41</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#Tesch18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CP, Optimization, and Power System Management Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/He0GLW18" mdate="2020-03-27">
+<author pid="14/1570">Shan He</author>
+<author orcid="0000-0001-7326-8110" pid="w/MarkWallace">Mark Wallace 0001</author>
+<author orcid="0000-0002-1354-431X" pid="76/3059">Graeme Gange</author>
+<author orcid="0000-0002-5679-4140" pid="183/7856">Ariel Liebman</author>
+<author orcid="0000-0001-5144-411X" pid="w/CampbellWilson">Campbell Wilson</author>
+<title>A Fast and Scalable Algorithm for Scheduling Large Numbers of Devices Under Real-Time Pricing.</title>
+<pages>649-666</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_42</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#He0GLW18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Multiagent and Parallel CP Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/CohenZ18" mdate="2020-10-25">
+<author orcid="0000-0001-6909-4779" pid="199/6554">Liel Cohen</author>
+<author pid="38/2041">Roie Zivan</author>
+<title>Balancing Asymmetry in Max-sum Using Split Constraint Factor Graphs.</title>
+<pages>669-687</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_43</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#CohenZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HoangF0PZ18" mdate="2020-10-25">
+<author pid="180/1403">Khoi D. Hoang</author>
+<author orcid="0000-0002-1381-6776" pid="119/6404">Ferdinando Fioretto</author>
+<author pid="97/4283-1">William Yeoh 0001</author>
+<author orcid="0000-0002-7753-1737" pid="p/EnricoPontelli">Enrico Pontelli</author>
+<author pid="38/2041">Roie Zivan</author>
+<title>A Large Neighboring Search Schema for Multi-agent Optimization.</title>
+<pages>688-706</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_44</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#HoangF0PZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LevitM18" mdate="2021-06-23">
+<author pid="181/2457">Vadim Levit 0001</author>
+<author pid="m/AmnonMeisels">Amnon Meisels</author>
+<title>Distributed Constrained Search by Selfish Agents for Efficient Equilibria.</title>
+<pages>707-724</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_45</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#LevitM18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Testing and Verification Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AkgunGJMN18" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Metamorphic Testing of Constraint Solvers.</title>
+<pages>727-736</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_46</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#AkgunGJMN18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NejatiHGG18" mdate="2022-01-03">
+<author pid="185/0665">Saeed Nejati</author>
+<author pid="12/10537">Jan Hor&#225;cek</author>
+<author pid="00/3818">Catherine H. Gebotys</author>
+<author orcid="0000-0002-6029-2047" pid="g/VijayGanesh">Vijay Ganesh</author>
+<title>Algebraic Fault Attack on SHA Hash Functions Using Programmatic SAT Solvers.</title>
+<pages>737-754</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_47</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#NejatiHGG18</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

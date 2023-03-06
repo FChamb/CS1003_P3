@@ -1,0 +1,2813 @@
+<bht key="db/journals/cacm/cacm39.bht" title="CACM, Volume 39, 1996"> 
+
+<h1><ref href="db/journals/cacm/index.html">Communications of the ACM (CACM)</ref>, Volume 39, 1996</h1>
+<h2>Volume 39, Number 1, January 1996</h2> Viewpoint 
+<dblpcites><r style="ee"><article key="journals/cacm/Erickson96" mdate="2018-11-06">
+<author pid="e/ThomasErickson">Thomas Erickson</author>
+<title>The World-Wide Web as Social Hypertext.</title>
+<pages>15-17</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#Erickson96</url>
+<ee>https://doi.org/10.1145/234173.234174</ee>
+</article>
+</r>
+</dblpcites>
+Sharing Standards 
+<dblpcites><r style="ee"><article key="journals/cacm/Rada96" mdate="2018-11-06">
+<author pid="r/RoyRada">Roy Rada</author>
+<title>Who Will Test Conformance?</title>
+<pages>19-22</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#Rada96</url>
+<ee>https://doi.org/10.1145/234173.234175</ee>
+</article>
+</r>
+</dblpcites>
+Legally Speaking 
+<dblpcites><r style="ee"><article key="journals/cacm/Samuelson96" mdate="2018-11-06">
+<author pid="s/PamelaSamuelson">Pamela Samuelson</author>
+<title>Intellectual Property Rights and the Global Information Economy.</title>
+<pages>23-28</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#Samuelson96</url>
+<ee>https://doi.org/10.1145/234173.234176</ee>
+</article>
+</r>
+</dblpcites>
+Articles 
+<dblpcites><r style="ee"><article key="journals/cacm/Berghel96" mdate="2018-11-14">
+<author pid="b/HalBerghel">Hal Berghel</author>
+<title>The Client's Side of the World-Wide Web.</title>
+<pages>30-40</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#Berghel96</url>
+<ee>https://doi.org/10.1145/234173.234177</ee>
+<ee>https://www.wikidata.org/entity/Q56083777</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/HaagRS96" mdate="2018-11-06">
+<author pid="34/3560">Stephen Haag</author>
+<author pid="48/5659">M. K. Raja</author>
+<author pid="42/4593">Lawrence L. Schkade</author>
+<title>Quality Function Deployment Usage in Software Development.</title>
+<pages>41-49</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#HaagRS96</url>
+<ee>https://doi.org/10.1145/234173.234178</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/CheyneyGJMMM96" mdate="2021-05-18">
+<author pid="29/5311">Matthew Cheyney</author>
+<author pid="50/4287">Peter A. Gloor</author>
+<author pid="80/1719">Donald B. Johnson 0001</author>
+<author pid="m/FilliaMakedon">Fillia Makedon</author>
+<author pid="80/2129">James Matthews</author>
+<author pid="m/PTMetaxas">Panagiotis Takis Metaxas</author>
+<title>Toward Multimedia Conference Proceedings.</title>
+<pages>50-59</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#CheyneyGJMMM96</url>
+<ee>https://doi.org/10.1145/234173.234179</ee>
+</article>
+</r>
+</dblpcites>
+Natural Language Processing 
+<dblpcites><r style="ee"><article key="journals/cacm/Wilks96" mdate="2018-11-06">
+<author pid="w/YorickWilks">Yorick Wilks</author>
+<title>Natural Language Processing - Introduction to the Special Section.</title>
+<pages>60-62</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#Wilks96</url>
+<ee>https://doi.org/10.1145/234173.234180</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/GuthriePWS96" mdate="2018-11-06">
+<author pid="07/3870">Louise Guthrie</author>
+<author pid="75/534">James Pustejovsky</author>
+<author pid="w/YorickWilks">Yorick Wilks</author>
+<author pid="86/4860">Brian M. Slator</author>
+<title>The Role of Lexicons in Natural Language Processing.</title>
+<pages>63-72</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#GuthriePWS96</url>
+<ee>https://doi.org/10.1145/234173.234204</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/King96" mdate="2018-11-06">
+<author pid="88/1661">Margaret King</author>
+<title>Evaluating Natural Language Processing Systems.</title>
+<pages>73-79</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#King96</url>
+<ee>https://doi.org/10.1145/234173.234208</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/CowieL96" mdate="2018-11-06">
+<author pid="48/3113">James R. Cowie</author>
+<author pid="l/WendyGLehnert">Wendy G. Lehnert</author>
+<title>Information Extraction.</title>
+<pages>80-91</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#CowieL96</url>
+<ee>https://doi.org/10.1145/234173.234209</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/LewisJ96" mdate="2018-11-06">
+<author pid="l/DavidDLewis">David D. Lewis</author>
+<author pid="j/KarenSparckJones">Karen Sparck Jones</author>
+<title>Natural Language Processing for Information Retrieval.</title>
+<pages>92-101</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#LewisJ96</url>
+<ee>https://doi.org/10.1145/234173.234210</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/WiebeHH96" mdate="2018-11-06">
+<author pid="16/4001">Janyce Wiebe</author>
+<author pid="h/GraemeHirst">Graeme Hirst</author>
+<author pid="h/DianeHorton">Diane Horton</author>
+<title>Language Use in Context.</title>
+<pages>102-111</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#WiebeHH96</url>
+<ee>https://doi.org/10.1145/234173.234212</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r style="ee"><article key="journals/cacm/Neumann96" mdate="2018-11-06">
+<author pid="n/PeterGNeumann">Peter G. Neumann</author>
+<title>Risks in Digital Commerce.</title>
+<pages>154</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>1</number>
+<url>db/journals/cacm/cacm39.html#Neumann96</url>
+<ee>https://doi.org/10.1145/234173.234214</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 2, February 1996</h2> Digital Village 
+<dblpcites><r style="ee"><article key="journals/cacm/Berghel96b" mdate="2018-11-06">
+<author pid="b/HalBerghel">Hal Berghel</author>
+<title>HTML Compliance and the Return of the Test Pattern.</title>
+<pages>19-22</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#Berghel96b</url>
+<ee>https://doi.org/10.1145/230798.230799</ee>
+</article>
+</r>
+</dblpcites>
+Personal Computing 
+<dblpcites><r style="ee"><article key="journals/cacm/Press96a" mdate="2018-11-06">
+<author pid="p/LarryPress">Larry Press</author>
+<title>The Role of Computer Networks in Development.</title>
+<pages>23-29</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#Press96a</url>
+<ee>https://doi.org/10.1145/230798.230800</ee>
+</article>
+</r>
+</dblpcites>
+Computing in Manufacturing 
+<dblpcites><r style="ee"><article key="journals/cacm/WoznyR96" mdate="2018-11-06">
+<author pid="44/5105">Michael J. Wozny</author>
+<author pid="r/WCRegli">William C. Regli</author>
+<title>Computing in Manufacturing (Introduction to the Special Section).</title>
+<pages>32-33</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#WoznyR96</url>
+<ee>https://doi.org/10.1145/230798.230801</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/ErkesKLSSS96" mdate="2018-11-06">
+<author pid="82/459">Joseph W. Erkes</author>
+<author pid="65/6099">Kevin B. Kenny</author>
+<author pid="86/4322">John W. Lewis</author>
+<author pid="59/2666">Brion D. Sarachan</author>
+<author pid="s/MichaelWSobolewski">Michael W. Sobolewski</author>
+<author pid="18/4616">Robert N. Sum Jr.</author>
+<title>Implementing Shared Manufacturing Services on the World-Wide Web.</title>
+<pages>34-45</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#ErkesKLSSS96</url>
+<ee>https://doi.org/10.1145/230798.230802</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/HardwickSRM96" mdate="2022-06-07">
+<author pid="h/MartinHardwick">Martin Hardwick</author>
+<author pid="s/DavidLSpooner">David L. Spooner</author>
+<author pid="75/2485">Tom Rando</author>
+<author pid="50/3964">K. C. Morris 0001</author>
+<title>Sharing Manufacturing Information in Virtual Enterprises.</title>
+<pages>46-54</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#HardwickSRM96</url>
+<ee>https://doi.org/10.1145/230798.230803</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/KumarBHH96" mdate="2019-06-02">
+<author pid="k/VijayKumar-1">Vijay Kumar 0001</author>
+<author pid="b/RuzenaBajcsy">Ruzena Bajcsy</author>
+<author orcid="0000-0002-3928-3381" pid="h/WilliamSHarwin">William S. Harwin</author>
+<author pid="44/182">Patrick Harker</author>
+<title>Rapid Design and Prototyping of Customized Rehabilitation Aids.</title>
+<pages>55-61</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#KumarBHH96</url>
+<ee>https://doi.org/10.1145/230798.230804</ee>
+<ee>https://www.wikidata.org/entity/Q59331084</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Bekey96" mdate="2018-11-06">
+<author pid="33/3115">George A. Bekey</author>
+<title>Trends in Robotics.</title>
+<pages>62</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#Bekey96</url>
+<ee>https://doi.org/10.1145/230798.230805</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/FingerTSKPSSSW96" mdate="2022-04-09">
+<author pid="f/SusanFinger">Susan Finger</author>
+<author pid="01/2580">M. Terk</author>
+<author orcid="0000-0002-4639-627X" pid="15/5472">Eswaran Subrahmanian</author>
+<author pid="68/532">Chris Kasabach</author>
+<author pid="66/666">Fritz B. Prinz</author>
+<author pid="50/842">Daniel P. Siewiorek</author>
+<author pid="68/3947">Asim Smailagic</author>
+<author pid="09/632">John Stivoric</author>
+<author pid="w/LeeEWeiss">Lee E. Weiss</author>
+<title>Rapid Design and Manufacture of Wearable Computers.</title>
+<pages>63-70</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#FingerTSKPSSSW96</url>
+<ee>https://doi.org/10.1145/230798.230806</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Requicha96" mdate="2018-11-06">
+<author pid="42/417">Aristides A. G. Requicha</author>
+<title>Geometric Reasoning for Intelligent Manufacturing.</title>
+<pages>71-76</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#Requicha96</url>
+<ee>https://doi.org/10.1145/230798.230807</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/MantylaNS96" mdate="2018-11-06">
+<author pid="m/MarttiMantyla">Martti M&#228;ntyl&#228;</author>
+<author pid="n/DanaSNau">Dana S. Nau</author>
+<author pid="s/JamiJShah">Jami J. Shah</author>
+<title>Challenges in Feature-Based Manufacturing Research.</title>
+<pages>77-85</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#MantylaNS96</url>
+<ee>https://doi.org/10.1145/230798.230808</ee>
+</article>
+</r>
+</dblpcites>
+Articles 
+<dblpcites><r style="ee"><article key="journals/cacm/Bernstein96" mdate="2018-11-06">
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Middleware: A Model for Distributed System Services.</title>
+<pages>86-98</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#Bernstein96</url>
+<cdrom>CACMs1/CACM3902/P0086.pdf</cdrom>
+<ee>https://doi.org/10.1145/230798.230809</ee>
+<cite>journals/cacm/Bernstein90</cite>
+<cite>books/aw/BernsteinHG87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/CandlerPTZ96" mdate="2018-11-06">
+<author pid="34/1863">James W. Candler</author>
+<author pid="p/PrashantPalvia">Prashant C. Palvia</author>
+<author pid="95/656">Jane D. Thompson</author>
+<author pid="72/5331">Steven M. Zeltmann</author>
+<title>The ORION Project: Staged Business Process Reengineering at FedEx.</title>
+<pages>99-107</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#CandlerPTZ96</url>
+<ee>https://doi.org/10.1145/230798.230810</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/FayadTF96" mdate="2018-11-06">
+<author pid="f/MohamedFayad">Mohamed E. Fayad</author>
+<author pid="87/3960">Wei-Tek Tsai</author>
+<author pid="09/2975">Milton L. Fulghum</author>
+<title>Transition To Object-Oriented Software Development.</title>
+<pages>108-121</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#FayadTF96</url>
+<ee>https://doi.org/10.1145/230798.230811</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r style="ee"><article key="journals/cacm/NeumannD96" mdate="2018-11-06">
+<author pid="n/PeterGNeumann">Peter G. Neumann</author>
+<author pid="d/PJDenning">Peter J. Denning</author>
+<title>W(h)ither Research and Education?</title>
+<pages>154</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<url>db/journals/cacm/cacm39.html#NeumannD96</url>
+<ee>https://doi.org/10.1145/230798.230813</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 3, March 1996</h2> Sharing Standards 
+<dblpcites><r style="ee"><article key="journals/cacm/Rada96a" mdate="2018-11-06">
+<author pid="r/RoyRada">Roy Rada</author>
+<title>ISO 9000 Reflects the Best in Standards.</title>
+<pages>17-20</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#Rada96a</url>
+<ee>https://doi.org/10.1145/227234.227236</ee>
+</article>
+</r>
+</dblpcites>
+Report 
+<dblpcites><r style="ee"><article key="journals/cacm/DavisSKR96" mdate="2018-11-06">
+<author pid="98/5170">Randall Davis</author>
+<author pid="s/PamelaSamuelson">Pamela Samuelson</author>
+<author pid="73/5277">Mitchell Kapor</author>
+<author pid="85/5272">Jerome Reichman</author>
+<title>A New View of Intellectual Property and Software.</title>
+<pages>21-30</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#DavisSKR96</url>
+<ee>https://doi.org/10.1145/227234.227237</ee>
+</article>
+</r>
+</dblpcites>
+How to Use Key Escrow 
+<dblpcites><r style="ee"><article key="journals/cacm/Ganesan96" mdate="2018-11-06">
+<author pid="96/1795">Ravi Ganesan</author>
+<title>How to Use Key Escrow (Introduction to the Special Section).</title>
+<pages>32-33</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#Ganesan96</url>
+<ee>https://doi.org/10.1145/227234.227238</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/DenningB96" mdate="2018-11-06">
+<author pid="d/DorothyEDenning">Dorothy E. Denning</author>
+<author pid="54/1135">Dennis K. Branstad</author>
+<title>A Taxonomy for Key Escrow Encryption Systems.</title>
+<pages>34-40</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#DenningB96</url>
+<ee>https://doi.org/10.1145/227234.227239</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/WalkerLEB96" mdate="2018-11-06">
+<author pid="72/2818">Stephen T. Walker</author>
+<author pid="99/2021">Steven B. Lipner</author>
+<author pid="59/154">Carl M. Ellison</author>
+<author pid="57/1201">David M. Balenson</author>
+<title>Commercial Key Recovery.</title>
+<pages>41-47</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#WalkerLEB96</url>
+<ee>https://doi.org/10.1145/227234.227240</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Maher96" mdate="2018-11-06">
+<author pid="72/478">David Paul Maher</author>
+<title>Crypto Backup and Key Escrow.</title>
+<pages>48-53</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#Maher96</url>
+<ee>https://doi.org/10.1145/227234.227241</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Ganesan96a" mdate="2018-11-06">
+<author pid="96/1795">Ravi Ganesan</author>
+<title>The Yaksha Security System.</title>
+<pages>55-60</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#Ganesan96a</url>
+<ee>https://doi.org/10.1145/227234.227242</ee>
+</article>
+</r>
+</dblpcites>
+Articles 
+<dblpcites><r style="ee"><article key="journals/cacm/Brooks96" mdate="2018-11-06">
+<author pid="b/FrederickPBrooksJr">Frederick P. Brooks Jr.</author>
+<title>The Computer Scientist as a Toolsmith II.</title>
+<pages>61-68</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#Brooks96</url>
+<ee>https://doi.org/10.1145/227234.227243</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Wood-HarperCWW96" mdate="2018-11-06">
+<author pid="21/2428">A. T. Wood-Harper</author>
+<author pid="73/837">Steve Corder</author>
+<author pid="68/2090">J. R. G. Wood</author>
+<author pid="85/5731">Heather Watson</author>
+<title>How We Profess: The Ethical Systems Analyst.</title>
+<pages>69-77</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#Wood-HarperCWW96</url>
+<ee>https://doi.org/10.1145/227234.227244</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Ralston96" mdate="2018-11-06">
+<author pid="12/4330">Anthony Ralston</author>
+<title>The Demographics of Candidates for Faculty Positions in Computer Science.</title>
+<pages>78-84</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#Ralston96</url>
+<ee>https://doi.org/10.1145/227234.227245</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Blelloch96" mdate="2019-06-02">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<title>Programming Parallel Algorithms.</title>
+<pages>85-97</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#Blelloch96</url>
+<ee>https://doi.org/10.1145/227234.227246</ee>
+<ee>https://www.wikidata.org/entity/Q60307633</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r style="ee"><article key="journals/cacm/Charette96" mdate="2018-11-06">
+<author pid="79/3772">Robert N. Charette</author>
+<title>Taking Responsibility for Our Risks.</title>
+<pages>122</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<url>db/journals/cacm/cacm39.html#Charette96</url>
+<ee>https://doi.org/10.1145/227234.227599</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 4, April 1996</h2> International Perspectives 
+<dblpcites><r style="ee"><article key="journals/cacm/Myers96" mdate="2018-11-14">
+<author orcid="0000-0001-8525-6395" pid="m/MDMyers">Michael D. Myers</author>
+<title>Can Kiwis Fly? Computing in New Zealand.</title>
+<pages>11-15</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#Myers96</url>
+<ee>https://doi.org/10.1145/227210.227212</ee>
+<ee>https://www.wikidata.org/entity/Q58284238</ee>
+</article>
+</r>
+</dblpcites>
+Log on Education 
+<dblpcites><r style="ee"><article key="journals/cacm/SolowayP96a" mdate="2018-11-06">
+<author pid="16/2925">Elliot Soloway</author>
+<author pid="25/561">Amanda Pryor</author>
+<title>The Next Generation in Human-Computer Interaction.</title>
+<pages>16-18</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#SolowayP96a</url>
+<ee>https://doi.org/10.1145/227210.227213</ee>
+</article>
+</r>
+</dblpcites>
+Learner-Centered Design 
+<dblpcites><r style="ee"><article key="journals/cacm/NormanS96" mdate="2018-11-06">
+<author orcid="0000-0002-8273-6534" pid="50/784">Donald A. Norman</author>
+<author pid="s/JamesCSpohrer">James C. Spohrer</author>
+<title>Learner-Centered Education (Introduction to the Special Section).</title>
+<pages>24-27</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#NormanS96</url>
+<ee>https://doi.org/10.1145/227210.227215</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/SchankK96" mdate="2018-11-06">
+<author pid="74/6045">Roger C. Schank</author>
+<author pid="57/3538">Alex Kass</author>
+<title>A Goal-Based Scenario for High School Students.</title>
+<pages>28-29</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#SchankK96</url>
+<ee>https://doi.org/10.1145/227210.227216</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Woolf96" mdate="2018-11-06">
+<author pid="w/BeverlyParkWoolf">Beverly Park Woolf</author>
+<title>Intelligent Multimedia Tutoring Systems.</title>
+<pages>30-31</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#Woolf96</url>
+<ee>https://doi.org/10.1145/227210.227217</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/EdelsonPG96" mdate="2022-10-02">
+<author orcid="0000-0003-2261-4065" pid="e/DCEdelson">Daniel C. Edelson</author>
+<author orcid="0000-0001-6301-3536" pid="44/2996">Roy D. Pea</author>
+<author pid="58/2722">Louis M. Gomez</author>
+<title>The Collaboratory Notebook.</title>
+<pages>32-33</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#EdelsonPG96</url>
+<ee>https://doi.org/10.1145/227210.227218</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Linn96" mdate="2018-11-06">
+<author pid="62/6282">Marcia C. Linn</author>
+<title>Key to the Information Highway.</title>
+<pages>34-35</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#Linn96</url>
+<ee>https://doi.org/10.1145/227210.227219</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/ScardamaliaB96" mdate="2018-11-06">
+<author pid="39/5827">Marlene Scardamalia</author>
+<author pid="64/735">Carl Bereiter</author>
+<title>Student Cummunities for the Advancement of Knowledge.</title>
+<pages>36-37</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#ScardamaliaB96</url>
+<ee>https://doi.org/10.1145/227210.227220</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Kafai96" mdate="2018-11-06">
+<author pid="k/YBKafai">Yasmin B. Kafai</author>
+<title>Software by Kids for Kids.</title>
+<pages>38-39</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#Kafai96</url>
+<ee>https://doi.org/10.1145/227210.227221</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/EdenEFR96" mdate="2018-11-06">
+<author pid="63/1425">Hal Eden</author>
+<author pid="35/507">Michael Eisenberg</author>
+<author pid="f/GerhardFischer">Gerhard Fischer</author>
+<author orcid="0000-0002-2165-7533" pid="97/1755">Alexander Repenning</author>
+<title>Making Learning a Part of Life.</title>
+<pages>40-42</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#EdenEFR96</url>
+<ee>https://doi.org/10.1145/227210.227222</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/GuzdialKHNCRHTN96" mdate="2021-10-14">
+<author orcid="0000-0003-4427-9763" pid="g/MarkGuzdial">Mark Guzdial</author>
+<author pid="k/JLKolodner">Janet L. Kolodner</author>
+<author pid="56/1997">Cindy E. Hmelo</author>
+<author pid="28/5174">N. Hari Narayanan</author>
+<author pid="65/1911">David Carlson</author>
+<author pid="37/4445">Noel Rappin</author>
+<author pid="55/6714">Roland H&#252;bscher</author>
+<author pid="71/5891">Jennifer Turns</author>
+<author pid="12/5879">Wendy Newstetter</author>
+<title>Computer Support for Learning through Complex Problem Solving.</title>
+<pages>43-45</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#GuzdialKHNCRHTN96</url>
+<ee>https://doi.org/10.1145/227210.227600</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/RossonC96" mdate="2018-11-06">
+<author pid="r/MBRosson">Mary Beth Rosson</author>
+<author orcid="0000-0001-5189-337X" pid="c/JohnMCarroll">John M. Carroll</author>
+<title>Scaffolded Examples for Learning Object-Oriented Design.</title>
+<pages>46-47</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#RossonC96</url>
+<ee>https://doi.org/10.1145/227210.227223</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/JacksonSKS96" mdate="2018-11-06">
+<author pid="52/5325">Shari L. Jackson</author>
+<author pid="69/4315">Steven J. Stratford</author>
+<author pid="19/2600">Joseph Krajcik</author>
+<author pid="16/2925">Elliot Soloway</author>
+<title>A Learner-Centered Tool for Students Building Models.</title>
+<pages>48-49</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#JacksonSKS96</url>
+<ee>https://doi.org/10.1145/227210.227224</ee>
+</article>
+</r>
+</dblpcites>
+Group Communication 
+<dblpcites><r style="ee"><article key="journals/cacm/Powell96" mdate="2018-11-06">
+<author pid="84/5398">David Powell</author>
+<title>Group Communication (Introduction to the Special Section).</title>
+<pages>50-53</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#Powell96</url>
+<ee>https://doi.org/10.1145/227210.227225</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/MoserMABL96" mdate="2021-10-14">
+<author pid="m/LEMoser">Louise E. Moser</author>
+<author pid="m/PMMelliarSmith">P. M. Melliar-Smith</author>
+<author orcid="0000-0001-5045-2396" pid="a/DeborahAAgarwal">Deborah A. Agarwal</author>
+<author pid="79/2860">Ravi K. Budhia</author>
+<author pid="14/2364">Colleen A. Lingley-Papadopoulos</author>
+<title>Totem: A Fault-Tolerant Multicast Group Communication System.</title>
+<pages>54-63</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#MoserMABL96</url>
+<ee>https://doi.org/10.1145/227210.227226</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/DolevM96" mdate="2018-11-06">
+<author orcid="0000-0001-8853-0644" pid="d/DannyDolev">Danny Dolev</author>
+<author pid="m/DahliaMalkhi">Dalia Malki</author>
+<title>The Transis Approach to High Availability Cluster Communication.</title>
+<pages>64-70</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#DolevM96</url>
+<ee>https://doi.org/10.1145/227210.227227</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Reiter96" mdate="2018-11-06">
+<author pid="r/MichaelKReiter">Michael K. Reiter</author>
+<title>Distributed Trust with the Rampart Toolkit.</title>
+<pages>71-74</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#Reiter96</url>
+<ee>https://doi.org/10.1145/227210.227228</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/RenesseBM96" mdate="2018-11-06">
+<author pid="r/RvRenesse">Robbert van Renesse</author>
+<author pid="b/KPBirman">Kenneth P. Birman</author>
+<author pid="22/2203">Silvano Maffeis</author>
+<title>Horus: A Flexible Group Communication System.</title>
+<pages>76-83</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#RenesseBM96</url>
+<ee>https://doi.org/10.1145/227210.227229</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/SchiperR96" mdate="2018-11-06">
+<author pid="s/AndreSchiper">Andr&#233; Schiper</author>
+<author pid="r/MichelRaynal">Michel Raynal</author>
+<title>From Group Communication to Transactions in Distributed Systems.</title>
+<pages>84-87</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#SchiperR96</url>
+<ee>https://doi.org/10.1145/227210.227230</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Cristian96" mdate="2018-11-06">
+<author pid="43/190">Flaviu Cristian</author>
+<title>Synchronous and Asynchronous Group Communication.</title>
+<pages>88-97</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#Cristian96</url>
+<ee>https://doi.org/10.1145/227210.227231</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r style="ee"><article key="journals/cacm/Neumann96d" mdate="2018-11-06">
+<author pid="n/PeterGNeumann">Peter G. Neumann</author>
+<title>A Risks-related Bookshelf.</title>
+<pages>122</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>4</number>
+<url>db/journals/cacm/cacm39.html#Neumann96d</url>
+<ee>https://doi.org/10.1145/227210.247240</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 5, May 1996</h2> Viewpoint 
+<dblpcites><r><article key="journals/cacm/Katz96" mdate="2003-11-20">
+<author pid="k/RandyHKatz">Randy H. Katz</author>
+<title>Professor Katz Goes to Washington.</title>
+<pages>13-17</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#Katz96</url>
+</article>
+</r>
+</dblpcites>
+Personal Computing 
+<dblpcites><r style="ee"><article key="journals/cacm/Press96b" mdate="2018-11-06">
+<author pid="p/LarryPress">Larry Press</author>
+<title>Windows NT as a Personal or Intranet Server.</title>
+<pages>19-23</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#Press96b</url>
+<ee>https://doi.org/10.1145/229459.229460</ee>
+</article>
+</r>
+</dblpcites>
+Electronic Frontier 
+<dblpcites><r style="ee"><article key="journals/cacm/Meeks96" mdate="2018-11-06">
+<author pid="61/4621">Brock N. Meeks</author>
+<title>The Game Plan to Save Cyberspace.</title>
+<pages>24-26</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#Meeks96</url>
+<ee>https://doi.org/10.1145/229459.229461</ee>
+</article>
+</r>
+</dblpcites>
+Editorial 
+<dblpcites><r style="ee"><article key="journals/cacm/Denning96" mdate="2018-11-06">
+<author pid="d/PJDenning">Peter J. Denning</author>
+<title>The University's Next Challenges.</title>
+<pages>27-30</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#Denning96</url>
+<ee>https://doi.org/10.1145/229459.229462</ee>
+</article>
+</r>
+</dblpcites>
+Virtual Reality Software and Technology 
+<dblpcites><r><article key="journals/cacm/SinghFT96" mdate="2003-11-20">
+<author pid="55/1948">Gurminder Singh</author>
+<author pid="f/StevenFeiner">Steven Feiner</author>
+<author pid="t/DanielThalmann">Daniel Thalmann</author>
+<title>Virtual Reality Software and Technology (Introduction to the Special Section).</title>
+<pages>33-36</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#SinghFT96</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/PostonS96" mdate="2018-11-06">
+<author pid="p/TimPoston">Tim Poston</author>
+<author pid="23/2480">Luis Serra</author>
+<title>Dextrous Virtual Work.</title>
+<pages>37-45</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#PostonS96</url>
+<ee>https://doi.org/10.1145/229459.229464</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/GreenH96" mdate="2022-12-02">
+<author pid="59/5344">Mark Green 0001</author>
+<author pid="77/6923">Sean Halliday</author>
+<title>A Geometric Modeling and Animation System.</title>
+<pages>46-53</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#GreenH96</url>
+<ee>https://doi.org/10.1145/229459.229465</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Deering96" mdate="2018-11-06">
+<author pid="14/4417">Michael F. Deering</author>
+<title>The HoloSketch VR Sketching System.</title>
+<pages>54-61</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#Deering96</url>
+<ee>https://doi.org/10.1145/229459.229466</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Bryson96" mdate="2018-11-06">
+<author pid="b/SteveBryson">Steve Bryson</author>
+<title>Virtual Reality in Scientific Visualization.</title>
+<pages>62-71</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#Bryson96</url>
+<ee>https://doi.org/10.1145/229459.229467</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/BayarriFP96" mdate="2020-10-26">
+<author pid="67/3829">Salvador Bayarri</author>
+<author pid="64/1637-1">Marcos Fern&#225;ndez 0001</author>
+<author orcid="0000-0002-0380-451X" pid="41/4723">Mariano P&#233;rez</author>
+<title>Virtual Reality for Driving Simulation.</title>
+<pages>72-76</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#BayarriFP96</url>
+<ee>https://doi.org/10.1145/229459.229468</ee>
+</article>
+</r>
+</dblpcites>
+Articles 
+<dblpcites><r style="ee"><article key="journals/cacm/FaginNW96" mdate="2018-11-06">
+<author pid="f/RonaldFagin">Ronald Fagin</author>
+<author pid="n/MoniNaor">Moni Naor</author>
+<author pid="w/PeterMWinkler">Peter Winkler 0001</author>
+<title>Comparing Information Without Leaking It.</title>
+<pages>77-85</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#FaginNW96</url>
+<ee>https://doi.org/10.1145/229459.229469</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/LucasBT96" mdate="2018-11-06">
+<author pid="l/HCLucas">Henry C. Lucas Jr.</author>
+<author pid="74/5942">Donald J. Berndt</author>
+<author pid="50/2002">Greg Truman</author>
+<title>A Reengineering Framework for Evaluating a Financial Imaging System.</title>
+<pages>86-96</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#LucasBT96</url>
+<ee>https://doi.org/10.1145/229459.229470</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Feigenbaum96" mdate="2018-11-06">
+<author pid="f/EdwardAFeigenbaum">Edward A. Feigenbaum</author>
+<title>How the &#34;What&#34; Becomes the &#34;How&#34; - Turing Award Lecture.</title>
+<pages>97-104</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#Feigenbaum96</url>
+<ee>https://doi.org/10.1145/229459.229471</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Reddy96" mdate="2018-11-14">
+<author pid="r/RajReddy">Raj Reddy</author>
+<title>To Dream The Possible Dream - Turing Award Lecture.</title>
+<pages>105-112</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#Reddy96</url>
+<ee>https://doi.org/10.1145/229459.233436</ee>
+<ee>https://www.wikidata.org/entity/Q55899741</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/McLeod96" mdate="2018-11-06">
+<author pid="37/4848">Raymond McLeod Jr.</author>
+<title>Comparing Undergraduate Courses in Systems Analysis and Design.</title>
+<pages>113-121</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#McLeod96</url>
+<ee>https://doi.org/10.1145/229459.229472</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r style="ee"><article key="journals/cacm/Neumann96e" mdate="2018-11-06">
+<author pid="n/PeterGNeumann">Peter G. Neumann</author>
+<title>Linguistic Risks.</title>
+<pages>154</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<url>db/journals/cacm/cacm39.html#Neumann96e</url>
+<ee>https://doi.org/10.1145/229459.247239</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 6, June 1996</h2>Log on Education 
+<dblpcites><r style="ee"><article key="journals/cacm/Soloway96" mdate="2018-11-06">
+<author pid="16/2925">Elliot Soloway</author>
+<title>Teachers are the Key.</title>
+<pages>11-14</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Soloway96</url>
+<ee>https://doi.org/10.1145/228503.228504</ee>
+</article>
+</r>
+</dblpcites>
+Digital Village 
+<dblpcites><r style="ee"><article key="journals/cacm/Berghel96c" mdate="2018-11-06">
+<author pid="b/HalBerghel">Hal Berghel</author>
+<title>U.S. Technology Policy in the Information Age.</title>
+<pages>15-18</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Berghel96c</url>
+<ee>https://doi.org/10.1145/228503.228506</ee>
+</article>
+</r>
+</dblpcites>
+Electronic Commerce and the Internet 
+<dblpcites><r><article key="journals/cacm/Pyle96" mdate="2003-11-20">
+<author pid="47/1627">Raymond Pyle</author>
+<title>Electronic Commerce and the Internet (Introduction to the Special Section).</title>
+<pages>22</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Pyle96</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Rivori96" mdate="2018-11-06">
+<author pid="11/4897">John R. Sivori</author>
+<title>Evaluated Receipts and Settlements at Bell Atlantic.</title>
+<pages>24-28</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Rivori96</url>
+<ee>https://doi.org/10.1145/228503.228508</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Bhimani96" mdate="2018-11-06">
+<author pid="66/2794">Anish Bhimani</author>
+<title>Securing The Commercial Internet.</title>
+<pages>29-35</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Bhimani96</url>
+<ee>https://doi.org/10.1145/228503.228509</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Borenstein96" mdate="2018-11-06">
+<author pid="19/2782">Nathaniel S. Borenstein</author>
+<title>Perils and Pitfalls of Practical Cybercommerce.</title>
+<pages>36-44</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Borenstein96</url>
+<ee>https://doi.org/10.1145/228503.228510</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Panurach96" mdate="2018-11-06">
+<author pid="91/1289">Patiwat Panurach</author>
+<title>Money in Electronic Commerce: Digital Cash, Electronic Funds Transfer, and Ecash.</title>
+<pages>45-50</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Panurach96</url>
+<ee>https://doi.org/10.1145/228503.228512</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/HamalainenWV96" mdate="2018-11-06">
+<author pid="72/3157">Matti H&#228;m&#228;l&#228;inen</author>
+<author pid="06/891">Andrew B. Whinston</author>
+<author pid="18/6642">Svetlana Vishik</author>
+<title>Electronic Markets for Learning: Education Brokerages on the Internet.</title>
+<pages>51-58</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#HamalainenWV96</url>
+<ee>https://doi.org/10.1145/228503.228513</ee>
+</article>
+</r>
+</dblpcites>
+Internet Inroads 
+<dblpcites><r style="ee"><article key="journals/cacm/Chon96" mdate="2018-11-06">
+<author pid="29/6845">Kilnam Chon</author>
+<title>Internet Inroads (Introduction to the Special Section).</title>
+<pages>59-60</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Chon96</url>
+<ee>https://doi.org/10.1145/228503.228515</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Hinden96" mdate="2018-11-06">
+<author pid="69/2927">Robert M. Hinden</author>
+<title>IP Next Generation Overview.</title>
+<pages>61-71</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Hinden96</url>
+<ee>https://doi.org/10.1145/228503.228517</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/AngN96" mdate="2020-10-26">
+<author orcid="0000-0002-4941-2589" pid="33/2632">Peng Hwa Ang</author>
+<author pid="39/5049">Berlinda Nadarjan</author>
+<title>Censorship and the Internet: A Singapore Perspective.</title>
+<pages>72-78</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#AngN96</url>
+<ee>https://doi.org/10.1145/228503.228520</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/OReilly96" mdate="2018-11-06">
+<author pid="90/3808">Tim O'Reilly</author>
+<title>Publishing Models for Internet Commerce.</title>
+<pages>79-86</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#OReilly96</url>
+<ee>https://doi.org/10.1145/228503.228522</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/KirsteinM96" mdate="2018-11-06">
+<author pid="55/745">Peter T. Kirstein</author>
+<author pid="72/3030">Goli Montasser-Kohsari</author>
+<title>The C-ODA Project: Online Access to Electronic Journals.</title>
+<pages>87-99</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#KirsteinM96</url>
+<ee>https://doi.org/10.1145/228503.228523</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Mannoni96" mdate="2018-11-06">
+<author pid="92/675">Bruno Mannoni</author>
+<title>Bringing Museums Online.</title>
+<pages>100-105</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Mannoni96</url>
+<ee>https://doi.org/10.1145/228503.228524</ee>
+</article>
+</r>
+</dblpcites>
+Report 
+<dblpcites><r style="ee"><article key="journals/cacm/PitkowK96" mdate="2018-11-06">
+<author pid="21/827">James E. Pitkow</author>
+<author pid="28/2753">Colleen M. Kehoe</author>
+<title>Emerging Trends in the WWW User Population.</title>
+<pages>106-108</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#PitkowK96</url>
+<ee>https://doi.org/10.1145/228503.228525</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r style="ee"><article key="journals/cacm/Lunt96" mdate="2018-11-06">
+<author pid="66/3816">Teresa F. Lunt</author>
+<title>Securing the Information Infrastructure.</title>
+<pages>130</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm39.html#Lunt96</url>
+<ee>https://doi.org/10.1145/228503.247241</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 7, July 1996</h2>International Perspectives 
+<dblpcites><r style="ee"><article key="journals/cacm/GreenbergG96" mdate="2018-11-06">
+<author pid="41/2814">Lawrence T. Greenberg</author>
+<author pid="g/SEGoodman">Seymour E. Goodman</author>
+<title>Is Big Brother Hanging by His Bootstrap?</title>
+<pages>11-15</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#GreenbergG96</url>
+<ee>https://doi.org/10.1145/233977.233978</ee>
+</article>
+</r>
+</dblpcites>
+Legally Speaking 
+<dblpcites><r style="ee"><article key="journals/cacm/Samuelson96b" mdate="2018-11-06">
+<author pid="s/PamelaSamuelson">Pamela Samuelson</author>
+<title>Regulation of Technologies to Protect Copyrighted Works.</title>
+<pages>17-22</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#Samuelson96b</url>
+<ee>https://doi.org/10.1145/233977.233980</ee>
+</article>
+</r>
+</dblpcites>
+Viewpoint 
+<dblpcites><r style="ee"><article key="journals/cacm/Grosso96" mdate="2018-11-06">
+<author pid="18/4983">Andrew Grosso</author>
+<title>Why Won't the President Enforce the Constitution?</title>
+<pages>25-26</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#Grosso96</url>
+<ee>https://doi.org/10.1145/233977.233982</ee>
+</article>
+</r>
+</dblpcites>
+Information Systems Outsourcing 
+<dblpcites><r style="ee"><article key="journals/cacm/RaoNC96" mdate="2021-07-16">
+<author pid="r/HRaghavRao">H. Raghav Rao</author>
+<author orcid="0000-0001-5128-5227" pid="62/4813">Kichan Nam</author>
+<author pid="05/3794">Abhijit Chaudhury</author>
+<title>Information Systems Outsourcing (Introduction to the Special Section).</title>
+<pages>27-28</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#RaoNC96</url>
+<ee>https://doi.org/10.1145/233977.233984</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/NelsonRS96" mdate="2018-11-06">
+<author pid="08/1940">Paul Nelson</author>
+<author pid="55/5550">William B. Richmond</author>
+<author pid="59/3896">Abraham Seidmann</author>
+<title>Two Dimensions of Software Acquisition.</title>
+<pages>29-35</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#NelsonRS96</url>
+<ee>https://doi.org/10.1145/233977.233986</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/NamRC96" mdate="2021-07-16">
+<author orcid="0000-0001-5128-5227" pid="62/4813">Kichan Nam</author>
+<author pid="r/HRaghavRao">H. Raghav Rao</author>
+<author pid="05/3794">Abhijit Chaudhury</author>
+<title>A Two-Level Investigation of Information Systems Outsourcing.</title>
+<pages>36-44</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#NamRC96</url>
+<ee>https://doi.org/10.1145/233977.233989</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Gurbaxani96" mdate="2018-11-06">
+<author pid="59/3612">Vijay Gurbaxani</author>
+<title>The New World of Information Technology Outsourcing.</title>
+<pages>45-46</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#Gurbaxani96</url>
+<ee>https://doi.org/10.1145/233977.233992</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/SlaughterA96" mdate="2018-11-06">
+<author pid="s/SandraSlaughter">Sandra Slaughter</author>
+<author pid="87/1843">Soon Ang</author>
+<title>Employment Outsourcing in Information Systems.</title>
+<pages>47-54</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#SlaughterA96</url>
+<ee>https://doi.org/10.1145/233977.233994</ee>
+</article>
+</r>
+</dblpcites>
+Articles 
+<dblpcites><r style="ee"><article key="journals/cacm/BellG96" mdate="2018-11-06">
+<author pid="b/GBell">Gordon Bell</author>
+<author pid="g/JimGemmell">Jim Gemmell</author>
+<title>On-ramp Prospects for the Information Superhighway Dream.</title>
+<pages>55-61</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#BellG96</url>
+<ee>https://doi.org/10.1145/233977.233995</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/StreeterKLC96" mdate="2018-11-06">
+<author pid="32/5128">Lynn A. Streeter</author>
+<author pid="k/RobertEKraut">Robert E. Kraut</author>
+<author pid="l/HCLucas">Henry C. Lucas Jr.</author>
+<author pid="43/4043">Laurence Caby</author>
+<title>How Open Data Networks Influence Business Performance and Market Structure.</title>
+<pages>62-73</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#StreeterKLC96</url>
+<ee>https://doi.org/10.1145/233977.233998</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/LochC96" mdate="2018-11-06">
+<author pid="l/KDLoch">Karen D. Loch</author>
+<author pid="53/5160">Sue A. Conger</author>
+<title>Evaluating Ethical Decision Making and Computer Use.</title>
+<pages>74-83</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#LochC96</url>
+<ee>https://doi.org/10.1145/233977.233999</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/DongarraOSW96" mdate="2018-11-06">
+<author pid="d/JackDongarra">Jack J. Dongarra</author>
+<author pid="33/2006">Steve W. Otto</author>
+<author pid="40/3047">Marc Snir</author>
+<author pid="w/DavidWWalker">David W. Walker</author>
+<title>A Message Passing Standard for MPP and Workstations.</title>
+<pages>84-90</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#DongarraOSW96</url>
+<ee>https://doi.org/10.1145/233977.234000</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r style="ee"><article key="journals/cacm/Neumann96f" mdate="2018-11-06">
+<author pid="n/PeterGNeumann">Peter G. Neumann</author>
+<title>Using Formal Methods to Reduce Risks.</title>
+<pages>114</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<url>db/journals/cacm/cacm39.html#Neumann96f</url>
+<ee>https://doi.org/10.1145/233977.234595</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 8, August 1996</h2>From Washington 
+<dblpcites><r style="ee"><article key="journals/cacm/Sieger96" mdate="2018-11-06">
+<author pid="14/5397">Jonah Sieger</author>
+<title>Communications Decency Act is Defeated: Landmark Victory for Netizens.</title>
+<pages>13-15</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Sieger96</url>
+<ee>https://doi.org/10.1145/232014.232018</ee>
+</article>
+</r>
+</dblpcites>
+Sharing Standards 
+<dblpcites><r style="ee"><article key="journals/cacm/MooreR96" mdate="2018-11-06">
+<author pid="15/2259">James W. Moore</author>
+<author pid="r/RoyRada">Roy Rada</author>
+<title>Organizational Badge Collecting.</title>
+<pages>17-21</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#MooreR96</url>
+<ee>https://doi.org/10.1145/232014.232020</ee>
+</article>
+</r>
+</dblpcites>
+Viewpoint 
+<dblpcites><r style="ee"><article key="journals/cacm/Mann96" mdate="2018-11-06">
+<author pid="m/SteveMann">Steve Mann</author>
+<title>Smart Clothing: The Shift to Wearable Computing.</title>
+<pages>23-24</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Mann96</url>
+<ee>https://doi.org/10.1145/232014.232021</ee>
+</article>
+</r>
+</dblpcites>
+New Paradigms for Computing 
+<dblpcites><r style="ee"><article key="journals/cacm/Selker96" mdate="2018-11-06">
+<author pid="s/TedSelker">Ted Selker</author>
+<title>New Paradigms for Computing (Introduction to the Special Section).</title>
+<pages>28-30</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Selker96</url>
+<ee>https://doi.org/10.1145/232014.232022</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Brown96" mdate="2018-11-06">
+<author pid="b/JSBrown">John Seely Brown</author>
+<title>To Dream the Invisible Dream.</title>
+<pages>30</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Brown96</url>
+<ee>https://doi.org/10.1145/232014.232024</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Bushnell96" mdate="2018-11-06">
+<author pid="45/1305">Nolan Bushnell</author>
+<title>Relationships between Fun and the Computer Business: Playing games can have serious consequences.</title>
+<pages>31-37</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Bushnell96</url>
+<ee>https://doi.org/10.1145/232014.232025</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Lieberman96" mdate="2018-11-06">
+<author pid="39/3002">Henry Lieberman</author>
+<title>Intelligent Graphics.</title>
+<pages>38-48</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Lieberman96</url>
+<ee>https://doi.org/10.1145/232014.232026</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Kahn96" mdate="2018-11-06">
+<author pid="k/KennethMKahn">Kenneth M. Kahn</author>
+<title>Drawings on Napkins, Video-Game Animation, and Other Ways to Program Computers: Programming can be as easy as child's play.</title>
+<pages>49-59</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Kahn96</url>
+<ee>https://doi.org/10.1145/232014.232028</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Selker96a" mdate="2018-11-06">
+<author pid="s/TedSelker">Ted Selker</author>
+<title>New Paradigms for Using Computers.</title>
+<pages>60-69</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Selker96a</url>
+<ee>https://doi.org/10.1145/232014.232030</ee>
+</article>
+</r>
+</dblpcites>
+Article 
+<dblpcites><r style="ee"><article key="journals/cacm/GentnerN96" mdate="2021-03-30">
+<author pid="57/4487">Don Gentner</author>
+<author pid="n/JakobNielsen">Jakob Nielsen</author>
+<title>The Anti-Mac Interface.</title>
+<pages>70-82</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#GentnerN96</url>
+<ee>https://doi.org/10.1145/232014.232032</ee>
+<ee>https://www.wikidata.org/entity/Q30040781</ee>
+</article>
+</r>
+</dblpcites>
+Using Computational Media to Facilitate Learning 
+<dblpcites><r style="ee"><article key="journals/cacm/SolowayP96" mdate="2018-11-06">
+<author pid="16/2925">Elliot Soloway</author>
+<author pid="25/561">Amanda Pryor</author>
+<title>Using Computational Media to Facilitate Learning (Introduction to the Special Section).</title>
+<pages>83</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#SolowayP96</url>
+<ee>https://doi.org/10.1145/232014.232033</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/RubinBD96" mdate="2018-11-06">
+<author pid="90/3167">Andee Rubin</author>
+<author pid="84/5298">Scott Bresnahan</author>
+<author pid="66/2865">Ted Ducas</author>
+<title>Cartwheeling Through CamMotion.</title>
+<pages>84-85</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#RubinBD96</url>
+<ee>https://doi.org/10.1145/232014.232035</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/ConfreyM96" mdate="2018-11-06">
+<author pid="41/906">Jere Confrey</author>
+<author pid="23/792">Alan Maloney</author>
+<title>Function Probe.</title>
+<pages>86-87</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#ConfreyM96</url>
+<ee>https://doi.org/10.1145/232014.232036</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/FeurzeigR96" mdate="2018-11-06">
+<author pid="84/2416">Wallace Feurzeig</author>
+<author pid="02/4757">John Richards</author>
+<title>Function Machines.</title>
+<pages>88-90</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#FeurzeigR96</url>
+<ee>https://doi.org/10.1145/232014.232038</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/CappoD96" mdate="2018-11-06">
+<author pid="31/5398">Margo Cappo</author>
+<author pid="37/7024">Kathy Darling</author>
+<title>Measurement In Motion.</title>
+<pages>9193</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#CappoD96</url>
+<ee>https://doi.org/10.1145/232014.232039</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Schwartz96" mdate="2018-11-06">
+<author pid="95/31">Judah L. Schwartz</author>
+<title>Motion Toys for Eye and Mind.</title>
+<pages>94-96</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Schwartz96</url>
+<ee>https://doi.org/10.1145/232014.232040</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/RoschelleK96" mdate="2021-04-09">
+<author orcid="0000-0003-2219-0506" pid="39/1998">Jeremy Roschelle</author>
+<author pid="51/4228">James J. Kaput</author>
+<title>SimCalc Mathworlds for the Mathematics of Change.</title>
+<pages>97-99</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#RoschelleK96</url>
+<ee>https://doi.org/10.1145/232014.232041</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/HorwitzNS96" mdate="2018-11-06">
+<author pid="19/5765">Paul Horwitz</author>
+<author pid="30/6001">Eric P. Neumann</author>
+<author pid="42/1376">Joyce Schwartz</author>
+<title>Teaching Science at Multiple Space Time Scales.</title>
+<pages>100-102</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#HorwitzNS96</url>
+<ee>https://doi.org/10.1145/232014.232042</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/DillenbourgS96" mdate="2018-11-06">
+<author pid="03/4041">Pierre Dillenbourg</author>
+<author pid="53/3149">John A. Self</author>
+<title>What If the Computer Doesn't Know the Answer?</title>
+<pages>103-105</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#DillenbourgS96</url>
+<ee>https://doi.org/10.1145/232014.232044</ee>
+</article>
+</r>
+<r><article key="journals/cacm/Vanderbilt96" mdate="2003-11-20">
+<title>A Multimedia Literacy Series.</title>
+<pages>106-109</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Vanderbilt96</url>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r><article key="journals/cacm/Lin96" mdate="2003-11-20">
+<author pid="26/2512">Herbert Lin</author>
+<title>Cryptography's Role in Securing Information.</title>
+<pages>130</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>8</number>
+<url>db/journals/cacm/cacm39.html#Lin96</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 9, September 1996</h2>Viewpoint
+<dblpcites><r style="ee"><article key="journals/cacm/Sterling96" mdate="2018-11-06">
+<author pid="34/2635">Thomas L. Sterling</author>
+<title>The Scientific Workstation of the Future May Be a Pile of PCs.</title>
+<pages>11-12</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Sterling96</url>
+<ee>https://doi.org/10.1145/234215.234461</ee>
+</article>
+</r>
+</dblpcites>
+Electronic Frontier
+<dblpcites><r style="ee"><article key="journals/cacm/Meeks96a" mdate="2018-11-06">
+<author pid="61/4621">Brock N. Meeks</author>
+<title>Dragging a Kicking-and-Screaming Government into the 21st Century.</title>
+<pages>13-15</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Meeks96a</url>
+<ee>https://doi.org/10.1145/234215.234462</ee>
+</article>
+</r>
+</dblpcites>
+Technology Transfer 
+<dblpcites><r style="ee"><article key="journals/cacm/IsaacsT96" mdate="2018-11-06">
+<author pid="93/3250">Ellen Isaacs</author>
+<author pid="75/3390">John C. Tang</author>
+<title>Technology Transfer: So Much Research, So Few Godd Producs (Introduction to the Special Section).</title>
+<pages>22-25</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#IsaacsT96</url>
+<ee>https://doi.org/10.1145/234215.234463</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Scholtz96" mdate="2018-11-06">
+<author pid="08/4180">Jean Scholtz</author>
+<title>Technology Transfer Through Prototypes.</title>
+<pages>26-27</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Scholtz96</url>
+<ee>https://doi.org/10.1145/234215.234464</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Kuchinsky96" mdate="2018-11-06">
+<author pid="98/3430">Allan Kuchinsky</author>
+<title>Transfer Means More Than Just Technology.</title>
+<pages>28-29</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Kuchinsky96</url>
+<ee>https://doi.org/10.1145/234215.234465</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Foley96" mdate="2018-11-06">
+<author pid="f/JamesDFoley">James D. Foley</author>
+<title>Technology Transfer from University to Industry.</title>
+<pages>30-31</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Foley96</url>
+<ee>https://doi.org/10.1145/234215.234466</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Johnson96" mdate="2018-11-06">
+<author pid="23/5707">Jeff A. Johnson</author>
+<title>R&#60;-&#62;D, Not R&#38;D.</title>
+<pages>32-34</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Johnson96</url>
+<ee>https://doi.org/10.1145/234215.234467</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Bennett96" mdate="2018-11-06">
+<author pid="98/4207">John L. Bennett</author>
+<title>Building Relationships for Technology Transfer.</title>
+<pages>35-36</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Bennett96</url>
+<ee>https://doi.org/10.1145/234215.234468</ee>
+</article>
+</r>
+</dblpcites>
+Latest Developments in Operating Systems 
+<dblpcites><r style="ee"><article key="journals/cacm/IslamC96" mdate="2018-11-06">
+<author pid="38/3967">Nayeem Islam</author>
+<author pid="c/RoyHCampbell">Roy H. Campbell</author>
+<title>Latest Developments in Operating Systems (Introduction to the Special Section).</title>
+<pages>38-40</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#IslamC96</url>
+<ee>https://doi.org/10.1145/234215.234469</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Druschel96" mdate="2018-11-06">
+<author pid="d/PDruschel">Peter Druschel</author>
+<title>Operating System Support for High-Speed Communication: Techniques to Eliminate Processing Bottlenecks in High-Speed Networking are Present.</title>
+<pages>41-51</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Druschel96</url>
+<ee>https://doi.org/10.1145/234215.234470</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/RosenblumCTDLG96" mdate="2018-11-06">
+<author pid="r/MendelRosenblum">Mendel Rosenblum</author>
+<author pid="18/2307">John Chapin</author>
+<author pid="00/5676-2">Dan Teodosiu 0002</author>
+<author pid="16/3914">Scott Devine</author>
+<author pid="46/49">Tirthankar Lahiri</author>
+<author pid="g/AnoopGupta">Anoop Gupta</author>
+<title>Implementing Efficient Fault Containment for Multiprocessors: Confining Faults in a Shared-Memory Multiprocessor Environment.</title>
+<pages>52-61</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#RosenblumCTDLG96</url>
+<ee>https://doi.org/10.1145/234215.234471</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/RosenbergDHLN96" mdate="2018-11-06">
+<author pid="17/3411">John Rosenberg</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="89/4105">David Hulse</author>
+<author pid="73/5473">Anders Lindstr&#246;m</author>
+<author pid="57/4555">Stephen Norris</author>
+<title>Operating System Support for Persistant and Recoverable Computations: Guaranteeing data recovery and consistency, the authors' experimental Grasshopper persistent operating system simplifies application development and encourages construction of integrated systems.</title>
+<pages>62-69</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#RosenbergDHLN96</url>
+<ee>https://doi.org/10.1145/234215.234472</ee>
+</article>
+</r>
+<r><article key="journals/cacm/Liedtke96" mdate="2003-11-20">
+<author pid="07/1586">Jochen Liedtke</author>
+<title>Toward Real Microkernels: The inefficient, inflexible first generation inspired development of the vastly improved second generation, which may yet support a variety of operating systems.</title>
+<pages>70-77</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Liedtke96</url>
+</article>
+</r>
+</dblpcites>
+Articles 
+<dblpcites><r style="ee"><article key="journals/cacm/CutkoskyTG96" mdate="2018-11-06">
+<author pid="34/2886">Mark R. Cutkosky</author>
+<author pid="81/673">Jay M. Tenenbaum</author>
+<author pid="28/2430">Jay Glicksman</author>
+<title>Madefast: Collaborative Engineering over the Internet.</title>
+<pages>78-87</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#CutkoskyTG96</url>
+<ee>https://doi.org/10.1145/234215.234474</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Vishkin96" mdate="2018-11-06">
+<author pid="v/UziVishkin">Uzi Vishkin</author>
+<title>Can Parallel Algorithms Enhance Seriel Implementation?</title>
+<pages>88-91</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Vishkin96</url>
+<ee>https://doi.org/10.1145/234215.234475</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Laudon96" mdate="2018-11-06">
+<author pid="53/191">Kenneth C. Laudon</author>
+<title>Markets and Privacy.</title>
+<pages>92-104</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Laudon96</url>
+<ee>https://doi.org/10.1145/234215.234476</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks
+<dblpcites><r style="ee"><article key="journals/cacm/Weinstein96" mdate="2018-11-06">
+<author pid="11/5037">Lauren Weinstein</author>
+<title>Behind the State of the Art.</title>
+<pages>130</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#Weinstein96</url>
+<ee>https://doi.org/10.1145/234215.234478</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 10, October 1996</h2> Personal Computing 
+<dblpcites><r style="ee"><article key="journals/cacm/Press96" mdate="2018-11-06">
+<author pid="p/LarryPress">Larry Press</author>
+<title>Seeding Networks: The Federal Role.</title>
+<pages>11-17</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#Press96</url>
+<ee>https://doi.org/10.1145/236156.240575</ee>
+</article>
+</r>
+</dblpcites>
+Digital Village 
+<dblpcites><r style="ee"><article key="journals/cacm/Berghel96a" mdate="2018-11-06">
+<author pid="b/HalBerghel">Hal Berghel</author>
+<title>Digital Politics.</title>
+<pages>19-25</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#Berghel96a</url>
+<ee>https://doi.org/10.1145/236156.236158</ee>
+</article>
+</r>
+</dblpcites>
+Viewpoint 
+<dblpcites><r style="ee"><article key="journals/cacm/Luker96" mdate="2018-11-06">
+<author pid="16/5789">Mark Luker</author>
+<title>NSF's New Program for High-Performance Internet Connections.</title>
+<pages>27-28</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#Luker96</url>
+<ee>https://doi.org/10.1145/236156.236160</ee>
+</article>
+</r>
+</dblpcites>
+Software Patterns
+<dblpcites><r><article key="journals/cacm/SchmidtFJ96" mdate="2003-11-20">
+<author pid="s/DouglasCSchmidt">Douglas C. Schmidt</author>
+<author pid="f/MohamedFayad">Mohamed Fayad</author>
+<author pid="j/RalphEJohnson">Ralph E. Johnson</author>
+<title>Software Patterns (Introduction to the Special Section).</title>
+<pages>36-39</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#SchmidtFJ96</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Cockburn96" mdate="2018-11-06">
+<author pid="50/556">Alistair Cockburn</author>
+<title>The Interaction of Social Issues and Software Architecture.</title>
+<pages>40-46</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#Cockburn96</url>
+<ee>https://doi.org/10.1145/236156.236165</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Cline96" mdate="2018-11-06">
+<author pid="42/5612">Marshall Cline</author>
+<title>The Pros and Cons of Adopting and Applying Design Patterns in the Real World.</title>
+<pages>47-49</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#Cline96</url>
+<ee>https://doi.org/10.1145/236156.236167</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/AarstenBM96" mdate="2018-11-06">
+<author pid="93/1003">Amund Aarsten</author>
+<author orcid="0000-0002-1024-3941" pid="15/1517">Davide Brugali</author>
+<author pid="92/1094">Giuseppe Menga</author>
+<title>Designing Concurrent and Distributed Control Systems.</title>
+<pages>50-58</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#AarstenBM96</url>
+<ee>https://doi.org/10.1145/236156.236168</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/FayadC96" mdate="2018-11-06">
+<author pid="f/MohamedFayad">Mohamed E. Fayad</author>
+<author pid="42/5612">Marshall Cline</author>
+<title>Aspects of Software Adaptability.</title>
+<pages>58-59</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#FayadC96</url>
+<ee>https://doi.org/10.1145/236156.236170</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/GoldfedderR96" mdate="2018-11-06">
+<author pid="74/5228">Brandon Goldfedder</author>
+<author pid="29/5693">Linda Rising</author>
+<title>A Training Experience with Aptterns.</title>
+<pages>60-64</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#GoldfedderR96</url>
+<ee>https://doi.org/10.1145/236156.236171</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/IslamD96" mdate="2018-11-06">
+<author pid="38/3967">Nayeem Islam</author>
+<author pid="41/3022">Murthy V. Devarakonda</author>
+<title>An Essential Design Pattern for Fault-Tolerant Distributed State Sharing.</title>
+<pages>65-74</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#IslamD96</url>
+<ee>https://doi.org/10.1145/236156.236172</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/McKenney96" mdate="2018-11-06">
+<author pid="12/1073">Paul E. McKenney</author>
+<title>Selecting Locking Primitives for Parallel Programming.</title>
+<pages>75-82</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#McKenney96</url>
+<ee>https://doi.org/10.1145/236156.236174</ee>
+</article>
+</r>
+</dblpcites>
+Articles 
+<dblpcites><r style="ee"><article key="journals/cacm/ResnickM96" mdate="2018-11-14">
+<author pid="r/PaulResnick">Paul Resnick</author>
+<author pid="44/7043">James Miller</author>
+<title>PICS: Internet Access Controls Without Censorship.</title>
+<pages>87-93</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#ResnickM96</url>
+<ee>https://doi.org/10.1145/236156.236175</ee>
+<ee>https://www.wikidata.org/entity/Q56386530</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Iivari96" mdate="2018-11-06">
+<author pid="15/3765">Juhani Iivari</author>
+<title>Why Are Case Tools Not Used?</title>
+<pages>94-103</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#Iivari96</url>
+<ee>https://doi.org/10.1145/236156.236183</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/BasiliBM96" mdate="2018-11-06">
+<author pid="b/VRBasili">Victor R. Basili</author>
+<author pid="93/1501">Lionel C. Briand</author>
+<author pid="74/5353">Walc&#233;lio L. Melo</author>
+<title>How Reuse Influences Productivity in Object-Oriented Systems.</title>
+<pages>104-116</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#BasiliBM96</url>
+<ee>https://doi.org/10.1145/236156.236184</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r style="ee"><article key="journals/cacm/Neumann96a" mdate="2011-06-07">
+<author pid="n/PeterGNeumann">Peter G. Neumann</author>
+<title>Disinformation Theory.</title>
+<pages>138</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm39.html#Neumann96a</url>
+<ee>http://doi.acm.org/10.1145/236156.765657</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 11, November 1996</h2> Practical Programmer 
+<dblpcites><r style="ee"><article key="journals/cacm/Glass96" mdate="2018-11-06">
+<author pid="23/4277">Robert L. Glass</author>
+<title>The Relationship Between Theory and Practice in Software Engineering.</title>
+<pages>11-13</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#Glass96</url>
+<ee>https://doi.org/10.1145/240455.240458</ee>
+</article>
+</r>
+</dblpcites>
+From Washington 
+<dblpcites><r style="ee"><article key="journals/cacm/Munro96" mdate="2018-11-06">
+<author pid="86/2999">Neil Munro</author>
+<title>Sketching a National Information Warfare Defense Plan.</title>
+<pages>15-17</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#Munro96</url>
+<ee>https://doi.org/10.1145/240455.240459</ee>
+</article>
+</r>
+</dblpcites>
+Data Mining and Knowledge Discovery in Databases 
+<dblpcites><r style="ee"><article key="journals/cacm/FayyadU96" mdate="2018-11-06">
+<author pid="f/UsamaMFayyad">Usama M. Fayyad</author>
+<author pid="07/20">Ramasamy Uthurusamy</author>
+<title>Data Mining and Knowledge Discovery in Databases (Introduction to the Special Section).</title>
+<pages>24-26</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#FayyadU96</url>
+<cdrom>CACMs1/CACM3911/P0024.pdf</cdrom>
+<ee>https://doi.org/10.1145/240455.240463</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/FayyadPS96" mdate="2020-12-29">
+<author pid="f/UsamaMFayyad">Usama M. Fayyad</author>
+<author pid="p/GPiatetskyShapiro">Gregory Piatetsky-Shapiro</author>
+<author orcid="0000-0001-9971-8378" pid="s/PadhraicSmyth">Padhraic Smyth</author>
+<title>The KDD Process for Extracting Useful Knowledge from Volumes of Data.</title>
+<pages>27-34</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#FayyadPS96</url>
+<cdrom>CACMs1/CACM3911/P0027.pdf</cdrom>
+<ee>https://doi.org/10.1145/240455.240464</ee>
+<cite>books/mit/fayyadPSU96/AgrawalMSTV96</cite>
+<cite>books/mit/fayyadPSU96/ElderP96</cite>
+<cite>conf/kdd/1995</cite>
+<cite>books/mit/fayyadPSU96/FayyadPS96</cite>
+<cite>books/mit/FayyadPSU96</cite>
+<cite>books/mit/fayyadPSU96/Heckerman96</cite>
+<cite>journals/cacm/LangleyS95</cite>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/GlymourMPS96" mdate="2020-12-29">
+<author pid="88/16">Clark Glymour</author>
+<author pid="22/1891">David Madigan</author>
+<author pid="02/4450">Daryl Pregibon</author>
+<author orcid="0000-0001-9971-8378" pid="s/PadhraicSmyth">Padhraic Smyth</author>
+<title>Statistical Inference and Data Mining.</title>
+<pages>35-41</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#GlymourMPS96</url>
+<cdrom>CACMs1/CACM3911/P0035.pdf</cdrom>
+<ee>https://doi.org/10.1145/240455.240466</ee>
+<cite>...</cite>
+<cite>journals/datamine/Heckerman97</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/BrachmanKKPS96" mdate="2018-11-06">
+<author pid="b/RJBrachman">Ronald J. Brachman</author>
+<author pid="96/2860">Tom Khabaza</author>
+<author pid="54/1538">Willi Kl&#246;sgen</author>
+<author pid="p/GPiatetskyShapiro">Gregory Piatetsky-Shapiro</author>
+<author pid="74/3862">Evangelos Simoudis</author>
+<title>Mining Business Databases.</title>
+<pages>42-48</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#BrachmanKKPS96</url>
+<cdrom>CACMs1/CACM3911/P0042.pdf</cdrom>
+<ee>https://doi.org/10.1145/240455.240468</ee>
+<cite>journals/jiis/Anand95</cite>
+<cite>...</cite>
+<cite>books/mit/fayyadPSU96/BrachmanA96</cite>
+<cite>journals/ijcis/BrachmanSTAHKL93</cite>
+<cite>books/mit/FayyadPSU96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/kdd/MannilaTV95</cite>
+<cite>books/mit/fayyadPSU96/MatheusPM96</cite>
+<cite>conf/sigmod/SelfridgeSW96</cite>
+<cite>journals/aim/SenatorGWCKKLMW95</cite>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Inmon96" mdate="2021-04-08">
+<author pid="36/6580">William H. Inmon</author>
+<title>The Data Warehouse and Data Mining.</title>
+<pages>49-50</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#Inmon96</url>
+<cdrom>CACMs1/CACM3911/P0049.pdf</cdrom>
+<ee>https://doi.org/10.1145/240455.240470</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/FayyadHS96" mdate="2018-11-06">
+<author pid="f/UsamaMFayyad">Usama M. Fayyad</author>
+<author pid="h/DavidHaussler">David Haussler</author>
+<author pid="04/4070">Paul E. Stolorz</author>
+<title>Mining Scientific Data.</title>
+<pages>51-57</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#FayyadHS96</url>
+<cdrom>CACMs1/CACM3911/P0051.pdf</cdrom>
+<ee>https://doi.org/10.1145/240455.240471</ee>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/mit/FayyadPSU96</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/kdd/StolorzD96</cite>
+<cite>conf/kdd/StolorzNMMSSYNCMF95</cite>
+<cite>...</cite>
+<cite>...</cite>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/ImielinskiM96" mdate="2018-11-14">
+<author pid="i/TomaszImielinski">Tomasz Imielinski</author>
+<author pid="m/HMannila">Heikki Mannila</author>
+<title>A Database Perspective on Knowledge Discovery.</title>
+<pages>58-64</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#ImielinskiM96</url>
+<cdrom>CACMs1/CACM3911/P0058.pdf</cdrom>
+<ee>https://doi.org/10.1145/240455.240472</ee>
+<ee>https://www.wikidata.org/entity/Q56091877</ee>
+<cite>conf/sigmod/AgrawalIS93</cite>
+<cite>journals/tkde/AgrawalIS93</cite>
+<cite>books/mit/fayyadPSU96/AgrawalMSTV96</cite>
+<cite>conf/kdd/AgrawalS96</cite>
+<cite>conf/ijcai/RaedtB93</cite>
+<cite>journals/jiis/FayyadSWD95</cite>
+<cite>conf/icde/GrayBLP96</cite>
+<cite>conf/icde/HatonenKMRT96</cite>
+<cite>...</cite>
+<cite>conf/kdd/ImielinskiVA96</cite>
+<cite>conf/vldb/MeoPC96</cite>
+<cite>conf/vldb/SavasereON95</cite>
+<cite>books/mit/fayyadPSU96/ShenOMZ96</cite>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Etzioni96" mdate="2018-11-06">
+<author pid="e/OEtzioni">Oren Etzioni</author>
+<title>The World-Wide Web: Quagmire or Gold Mine?</title>
+<pages>65-68</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#Etzioni96</url>
+<cdrom>CACMs1/CACM3911/P0065.pdf</cdrom>
+<ee>https://doi.org/10.1145/240455.240473</ee>
+<cite>journals/cn/BowmanDHMS95</cite>
+<cite>conf/sigir/CuttingPKT92</cite>
+<cite>conf/agents/DoorenbosEW97</cite>
+<cite>conf/aaai/Etzioni96</cite>
+<cite>journals/cacm/EtzioniW94</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigir/LewisG94</cite>
+<cite>conf/ijcai/PerkowitzE95</cite>
+<cite>journals/cn/Whitehead95</cite>
+<cite>conf/kdd/ZaianeH95</cite>
+</article>
+</r>
+</dblpcites>
+Articles 
+<dblpcites><r style="ee"><article key="journals/cacm/AbramsonFMS96" mdate="2018-11-06">
+<author orcid="0000-0003-0441-4596" pid="09/6203">David Abramson</author>
+<author pid="f/IanTFoster">Ian T. Foster</author>
+<author pid="56/2325">John Michalakes</author>
+<author pid="s/RokSosic">Rok Sosic</author>
+<title>A New Methodology for Debugging Scientific Applications.</title>
+<pages>69-77</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#AbramsonFMS96</url>
+<ee>https://doi.org/10.1145/240455.240475</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/CullerKPSSSSE96" mdate="2018-11-06">
+<author pid="c/DavidECuller">David E. Culler</author>
+<author pid="k/RichardMKarp">Richard M. Karp</author>
+<author pid="p/DAPatterson">David A. Patterson</author>
+<author pid="03/5553">Abhijit Sahay</author>
+<author pid="57/5831">Eunice E. Santos</author>
+<author pid="s/KlausESchauser">Klaus E. Schauser</author>
+<author pid="96/3273">Ramesh Subramonian</author>
+<author pid="76/5208">Thorsten von Eicken</author>
+<title>LogP: A Practical Model of Parallel Computation.</title>
+<pages>78-85</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#CullerKPSSSSE96</url>
+<ee>https://doi.org/10.1145/240455.240477</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/WandW96" mdate="2018-11-06">
+<author pid="66/626">Yair Wand</author>
+<author pid="w/RichardYWang">Richard Y. Wang</author>
+<title>Anchoring Data Quality Dimensions in Ontological Foundations.</title>
+<pages>86-95</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#WandW96</url>
+<ee>https://doi.org/10.1145/240455.240479</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r><article key="journals/cacm/Neumann96b" mdate="2003-11-20">
+<author pid="n/PeterGNeumann">Peter G. Neumann</author>
+<title>Distributed Systems have Distributed Risks.</title>
+<pages>130</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm39.html#Neumann96b</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 39, Number 12, December 1996</h2> International Perspectives 
+<dblpcites><r style="ee"><article key="journals/cacm/Goodman96" mdate="2018-11-06">
+<author pid="g/SEGoodman">Seymour E. Goodman</author>
+<title>War, Information Technologies, and International Asymmetries.</title>
+<pages>11-15</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#Goodman96</url>
+<ee>https://doi.org/10.1145/240483.240485</ee>
+</article>
+</r>
+</dblpcites>
+Legally Speaking 
+<dblpcites><r style="ee"><article key="journals/cacm/Samuelson96a" mdate="2018-11-06">
+<author pid="s/PamelaSamuelson">Pamela Samuelson</author>
+<title>Legal Protection for Database Contents.</title>
+<pages>17-23</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#Samuelson96a</url>
+<ee>https://doi.org/10.1145/240483.240486</ee>
+</article>
+</r>
+</dblpcites>
+Technical Opinon 
+<dblpcites><r style="ee"><article key="journals/cacm/Noll96" mdate="2018-11-06">
+<author pid="91/2251">A. Michael Noll</author>
+<title>CyberNetwork Technology: Issues and Uncertainties.</title>
+<pages>27-31</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#Noll96</url>
+<ee>https://doi.org/10.1145/240483.240488</ee>
+</article>
+</r>
+</dblpcites>
+The Internet @ Home 
+<dblpcites><r><article key="journals/cacm/Kraut96" mdate="2003-11-20">
+<author pid="k/RobertEKraut">Robert E. Kraut</author>
+<title>The Internet @ Home (Introduction to the Special Section).</title>
+<pages>33-35</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#Kraut96</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/HoffmanKN96" mdate="2018-11-06">
+<author pid="15/470">Donna L. Hoffman</author>
+<author pid="85/3135">William D. Kalsbeek</author>
+<author pid="83/4450">Thomas P. Novak</author>
+<title>Internet and Web Use in the US.</title>
+<pages>36-46</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#HoffmanKN96</url>
+<ee>https://doi.org/10.1145/240483.240490</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Venkatesh96" mdate="2018-11-06">
+<author pid="50/6610">Alladi Venkatesh</author>
+<title>Computers and Other Interactive Technologies for the Home.</title>
+<pages>47-54</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#Venkatesh96</url>
+<ee>https://doi.org/10.1145/240483.240491</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/KrautSMMK96" mdate="2018-11-06">
+<author pid="k/RobertEKraut">Robert E. Kraut</author>
+<author pid="s/WilliamLScherlis">William L. Scherlis</author>
+<author pid="87/450">Tridas Mukhopadhyay</author>
+<author pid="17/4879">Jane Manning</author>
+<author pid="k/SaraBKiesler">Sara B. Kiesler</author>
+<title>The HomeNet Field Trial of Residential Internet Services.</title>
+<pages>55-63</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#KrautSMMK96</url>
+<ee>https://doi.org/10.1145/240483.240493</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/FranzkeM96" mdate="2018-11-06">
+<author pid="95/550">Marita Franzke</author>
+<author pid="74/5163">Anne P. McClard</author>
+<title>Winona Gets Wired: Technical Difficulties in the Home.</title>
+<pages>64-66</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#FranzkeM96</url>
+<ee>https://doi.org/10.1145/240483.240496</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Duncan96" mdate="2018-11-06">
+<author pid="22/764">George T. Duncan</author>
+<title>Is My Research Ethical?</title>
+<pages>67-68</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#Duncan96</url>
+<ee>https://doi.org/10.1145/240483.240497</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/CarrollR96" mdate="2018-11-06">
+<author pid="c/JohnMCarroll">John M. Carroll</author>
+<author pid="r/MBRosson">Mary Beth Rosson</author>
+<title>Developing the Blacksburg Electronic Village.</title>
+<pages>69-74</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#CarrollR96</url>
+<ee>https://doi.org/10.1145/240483.240498</ee>
+</article>
+</r>
+</dblpcites>
+Articles 
+<dblpcites><r style="ee"><article key="journals/cacm/MartinHGM96" mdate="2022-01-21">
+<author pid="m/CDMartin">C. Dianne Martin</author>
+<author pid="69/956">Chuck Huff</author>
+<author pid="86/1579">Donald Gotterbarn</author>
+<author orcid="0000-0001-5336-8181" pid="83/4725">Keith W. Miller 0001</author>
+<title>Implementing A Tenth Strand in the CS Curriculum.</title>
+<pages>75-84</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#MartinHGM96</url>
+<ee>https://doi.org/10.1145/240483.240499</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/WalkerS96" mdate="2018-11-06">
+<author pid="w/HenryMacKayWalker">Henry MacKay Walker</author>
+<author pid="49/2888">G. Michael Schneider</author>
+<title>A Revised Model Curriculum for a Liberal Arts Degree in Computer Science.</title>
+<pages>85-95</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#WalkerS96</url>
+<ee>https://doi.org/10.1145/240483.240502</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/GeistCHT96" mdate="2018-11-06">
+<author pid="g/RobertGeist">Robert Geist</author>
+<author pid="61/6933">Madhu Chetuparambil</author>
+<author pid="29/6752">Stephen T. Hedetniemi</author>
+<author pid="t/AJoeTurner">A. Joe Turner</author>
+<title>Computing Research Programs in the US.</title>
+<pages>96-99</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#GeistCHT96</url>
+<ee>https://doi.org/10.1145/240483.240505</ee>
+</article>
+</r>
+</dblpcites>
+Inside Risks 
+<dblpcites><r style="ee"><article key="journals/cacm/Neumann96c" mdate="2011-06-07">
+<author pid="n/PeterGNeumann">Peter G. Neumann</author>
+<title>Risks of Anonymity.</title>
+<pages>162</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12</number>
+<url>db/journals/cacm/cacm39.html#Neumann96c</url>
+<ee>http://doi.acm.org/10.1145/240483.765656</ee>
+</article>
+</r>
+</dblpcites>
+<a href="http://www.acm.org/cacm/extension/">Virtual Extension</a> 
+<dblpcites><r style="ee"><article key="journals/cacm/Kemp96" mdate="2018-11-06">
+<author pid="81/6842">C. David Kemp</author>
+<title>The Construction of Fast Portable Multiplicative Congruential Random Number Generators.</title>
+<pages>163-166</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#Kemp96</url>
+<ee>https://doi.org/10.1145/272682.272709</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Barrero96" mdate="2018-11-06">
+<author pid="42/6376">Alejandro Barrero</author>
+<title>Implementation of Abstract Data Types with Arrays of Unbounded Dimensions.</title>
+<pages>167-174</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#Barrero96</url>
+<ee>https://doi.org/10.1145/272682.272710</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/MichalewiczJ96" mdate="2019-10-19">
+<author orcid="0000-0001-5609-5457" pid="m/ZMichalewicz">Zbigniew Michalewicz</author>
+<author pid="09/1931">Cezary Z. Janikow</author>
+<title>GENOCOP: A Genetic Algorithm for Numerical Optimization Problems with Linear Constraints.</title>
+<pages>175-201</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#MichalewiczJ96</url>
+<ee>https://doi.org/10.1145/272682.272711</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Pearlmutter96" mdate="2018-11-06">
+<author orcid="0000-0003-0521-4553" pid="36/3031">Barak A. Pearlmutter</author>
+<title>Garbage Collection with Pointers to Individual Cells.</title>
+<pages>202-206</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#Pearlmutter96</url>
+<ee>https://doi.org/10.1145/272682.272712</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Rojas96" mdate="2020-11-23">
+<author pid="r/RaulRojas">Ra&#250;l Rojas 0001</author>
+<title>A Graph Labelling Proof of the Backpropagation Algorithm.</title>
+<pages>207-215</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#Rojas96</url>
+<ee>https://doi.org/10.1145/272682.272713</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/ChuCHY96" mdate="2018-11-06">
+<author pid="c/WesleyWChu">Wesley W. Chu</author>
+<author pid="64/219">Kuorong Chiang</author>
+<author pid="48/6526">Chih-Cheng Hsu</author>
+<author pid="23/6170">Henrick Yau</author>
+<title>An Error-based Conceptual Clustering Method for Providing Approximate Query Answers.</title>
+<pages>216-230</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#ChuCHY96</url>
+<cdrom>CACMs1/CACM3912/P0216.pdf</cdrom>
+<ee>https://doi.org/10.1145/272682.272714</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Nelson96" mdate="2018-11-06">
+<author pid="44/3687">Randolph D. Nelson</author>
+<title>Including Queueing Effects in Amdahl's Law.</title>
+<pages>231-238</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#Nelson96</url>
+<ee>https://doi.org/10.1145/272682.272715</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Prather96" mdate="2018-11-06">
+<author pid="14/67">Ronald E. Prather</author>
+<title>Harmonic Analysis from the Computer Representation of a Musical Score.</title>
+<pages>239-255</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#Prather96</url>
+<ee>https://doi.org/10.1145/272682.272716</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Staskausas96" mdate="2018-11-06">
+<author pid="73/607">Mark G. Staskausas</author>
+<title>An Experience in the Formal Verification of Industrial Software.</title>
+<pages>256-272</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#Staskausas96</url>
+<ee>https://doi.org/10.1145/272682.272719</ee>
+</article>
+</r>
+<r><article key="journals/cacm/BlellochLMPSZ96" mdate="2003-11-20">
+<author pid="b/GEBlelloch">Guy E. Blelloch</author>
+<author pid="l/CELeiserson">Charles E. Leiserson</author>
+<author pid="m/BruceMMaggs">Bruce M. Maggs</author>
+<author pid="p/CGPlaxton">C. Greg Plaxton</author>
+<author pid="83/5500">Stephen J. Smith</author>
+<author pid="z/MarcoZagha">Marco Zagha</author>
+<title>A Comparison of Sorting Algorithms for the Connection Machine CM-2.</title>
+<pages>273-297</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#BlellochLMPSZ96</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Borenstein96a" mdate="2018-11-14">
+<author pid="19/2782">Nathaniel S. Borenstein</author>
+<title>CMU's Andrew Project: A Retrospective.</title>
+<pages>298-311</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#Borenstein96a</url>
+<ee>https://doi.org/10.1145/272682.272717</ee>
+<ee>https://www.wikidata.org/entity/Q56016657</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cacm/Morris96" mdate="2018-11-06">
+<author pid="94/280">James H. Morris</author>
+<title>War Stories from Andrew.</title>
+<pages>312-321</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>12es</number>
+<url>db/journals/cacm/cacm39.html#Morris96</url>
+<ee>https://doi.org/10.1145/272682.272718</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

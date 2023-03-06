@@ -1,0 +1,521 @@
+<bht key="db/conf/oodbs/oodbs88.bht" title="2. OODBS 1988: Bad M&#252;nster am Stein-Ebernburg, Germany">
+<h1>2nd <ref href="db/conf/oodbs/index.html">OODBS</ref> 1988:
+Bad M&#252;nster am Stein-Ebernburg, Germany</h1>
+
+<dblpcites><r><proceedings key="conf/oodbs/88" mdate="2019-05-14">
+<editor pid="d/KRDittrich">Klaus R. Dittrich</editor>
+<title>Advances in Object-Oriented Database Systems, 2nd International Workshop on Object-Oriented Database Systems, Bad M&#252;nster am Stein-Ebernburg, FRG, September 27-30, 1988, Proceedings</title>
+<booktitle>OODBS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>334</volume>
+<publisher>Springer</publisher>
+<year>1988</year>
+<isbn>3-540-50345-5</isbn>
+<ee>https://doi.org/10.1007/3-540-50345-5</ee>
+<url>db/conf/oodbs/oodbs88.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Implementation, Existing Systems, and Transactions</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/BancilhonBBDGLPRV88" mdate="2022-03-13">
+<author pid="28/718">Fran&#231;ois Bancilhon</author>
+<author pid="78/4814">Gilles Barbedette</author>
+<author pid="b/VBenzaken">V&#233;ronique Benzaken</author>
+<author pid="05/611">Claude Delobel</author>
+<author pid="23/6757">Sophie Gamerman</author>
+<author pid="82/67">Christophe L&#233;cluse</author>
+<author pid="62/2180">Patrick Pfeffer</author>
+<author pid="29/2689">Philippe Richard</author>
+<author pid="56/5816">Fernando V&#233;lez</author>
+<title>The Design and Implementation of O<sub>2</sub>, an Object-Oriented Database Systems.</title>
+<pages>1-32</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#BancilhonBBDGLPRV88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_1</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/FordJLLPPPSTWA88" mdate="2017-05-19">
+<author pid="18/876">Steve Ford</author>
+<author pid="54/2382">John Joseph</author>
+<author pid="63/7029">David E. Langworthy</author>
+<author pid="78/877">David F. Lively</author>
+<author pid="84/1747">Girish Pathak</author>
+<author pid="09/5832">Edward R. Perez</author>
+<author pid="56/4938">Robert W. Peterson</author>
+<author pid="23/6263">Diana M. Sparacin</author>
+<author pid="89/6864">Satish M. Thatte</author>
+<author pid="50/2791">David L. Wells</author>
+<author pid="99/4513">Sanjive Agarwala</author>
+<title>ZEITGEIST: Database Support for Object-Oriented Programming.</title>
+<pages>23-42</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#FordJLLPPPSTWA88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_2</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/PorterEEAS88" mdate="2017-05-19">
+<author pid="05/5534">Harry H. Porter</author>
+<author pid="54/533">Earl F. Ecklund Jr.</author>
+<author pid="18/4754">Denise J. Ecklund</author>
+<author pid="32/5577">T. Lougenia Anderson</author>
+<author pid="06/6892">Bruce Schneider</author>
+<title>A Distributed Object Server.</title>
+<pages>43-59</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#PorterEEAS88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_3</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/KhoshafianF88" mdate="2017-05-19">
+<author pid="14/6635">Setrag Khoshafian</author>
+<author pid="97/5583">Dan Frank</author>
+<title>Implementation Techniques For Object Oriented Databases.</title>
+<pages>60-79</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#KhoshafianF88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_4</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/RehmRRLHGDA88" mdate="2017-05-19">
+<author pid="78/4315">Simone Rehm</author>
+<author pid="79/2696">Thomas Raupp</author>
+<author pid="59/3460">Michael Ranft</author>
+<author pid="96/5342">Richard L&#228;ngle</author>
+<author pid="39/2268">Martin H&#228;rtig</author>
+<author pid="85/4358">Willi Gotthard</author>
+<author pid="d/KRDittrich">Klaus R. Dittrich</author>
+<author pid="53/1365">Karol Abramowicz</author>
+<title>Support for Design Processes in a Structurally Object-Oriented Database System.</title>
+<pages>80-97</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#RehmRRLHGDA88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_5</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/HubelM88" mdate="2017-05-19">
+<author pid="65/1929">Christoph H&#252;bel</author>
+<author pid="m/BMitschang">Bernhard Mitschang</author>
+<title>Object Orientation within the PRIMA-NDBS.</title>
+<pages>98-103</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#HubelM88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_6</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Berre88" mdate="2017-05-19">
+<author pid="55/1946">Arne-J&#248;rgen Berre</author>
+<title>SOOM and Tornado-*: Experience with Database-Support for Object-Oriented Applications.</title>
+<pages>104-109</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Berre88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_7</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Formalization and Inclusion of Rules</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/StempleSS88" mdate="2017-05-19">
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<author pid="59/5498">Adolfo Socorro</author>
+<author pid="s/TimSheard">Tim Sheard</author>
+<title>Formalizing Objects for Databases using ADABTPL.</title>
+<pages>110-128</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#StempleSS88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_8</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/DayalBM88" mdate="2017-05-19">
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="b/APBuchmann">Alejandro P. Buchmann</author>
+<author pid="03/464">Dennis R. McCarthy</author>
+<title>Rules Are Objects Too: A Knowledge Model For An Active, Object-Oriented Database System.</title>
+<pages>129-143</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#DayalBM88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_9</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/EhrichSS88" mdate="2018-11-02">
+<author pid="e/HDEhrich">Hans-Dieter Ehrich</author>
+<author pid="61/5698">Am&#237;lcar Sernadas</author>
+<author orcid="0000-0002-5510-3512" pid="06/3694">Cristina Sernadas</author>
+<title>Abstract Object Types for Databases.</title>
+<pages>144-149</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#EhrichSS88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_10</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/HsuC88" mdate="2017-05-19">
+<author pid="71/727">Michun Hsu</author>
+<author pid="31/6429">Thomas E. Cheatham Jr.</author>
+<title>Rule Execution in CPLEX: A Persistent Objectbase.</title>
+<pages>150-155</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#HsuC88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_11</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/UrbanD88" mdate="2017-05-19">
+<author pid="62/1192">Susan Darling Urban</author>
+<author pid="d/LMLDelcambre">Lois M. L. Delcambre</author>
+<title>Constraint Analysis: A Tool for Explaining the Semantics of Complex Objects.</title>
+<pages>156-161</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#UrbanD88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_12</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Integration of Existing Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/ConnorsL88" mdate="2017-05-19">
+<author pid="67/5471">Tim Connors</author>
+<author pid="39/1385">Peter Lyngb&#230;k</author>
+<title>Providing Uniform Access to Heterogeneous Information Bases.</title>
+<pages>162-173</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#ConnorsL88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_13</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Ahad88" mdate="2017-05-19">
+<author pid="61/4250">Rafiul Ahad</author>
+<title>The Object Shell: An Extensible System to Define an Object-Oriented View of an Existing Database.</title>
+<pages>174-192</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Ahad88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_14</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/HudsonK88" mdate="2017-05-19">
+<author pid="h/ScottEHudson">Scott E. Hudson</author>
+<author pid="64/2075">Roger King</author>
+<title>An Adaptive Derived Data Manager for Distributed Databases.</title>
+<pages>193-203</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#HudsonK88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_15</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/FreytagMW88" mdate="2020-03-27">
+<author pid="f/JCFreytag">Johann Christoph Freytag</author>
+<author pid="m/RManthey">Rainer Manthey</author>
+<author orcid="0000-0001-7326-8110" pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>Mapping Object-Oriented Concepts into Relational Concepts by Meta-Compilation in a Logic programming Environment.</title>
+<pages>204-208</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#FreytagMW88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_16</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Heuer88" mdate="2017-09-14">
+<author pid="h/AHeuer">Andreas Heuer 0001</author>
+<title>Foundations of Relational Object Management Systems.</title>
+<pages>209-212</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Heuer88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_17</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/BertinoGNPS88" mdate="2020-10-25">
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="69/329">R. Gagliardi</author>
+<author orcid="0000-0001-9560-0575" pid="n/MauroNegri">Mauro Negri</author>
+<author pid="35/1356">Giuseppe Pelagatti</author>
+<author pid="47/562">Licia Sbattella</author>
+<title>The COMANDOS Integration System: An Object Oriented Approach to the Interconnection of Heterogeneous Applications.</title>
+<pages>213-218</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#BertinoGNPS88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_18</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/McLeod88" mdate="2017-05-19">
+<author pid="m/DennisMcLeod">Dennis McLeod</author>
+<title>A Learning-Based Approach to Meta-data Evolution in an Object-Oriented Database.</title>
+<pages>219-224</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#McLeod88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_19</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Models</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/HeilerZ88" mdate="2017-05-19">
+<author pid="61/810">Sandra Heiler</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Views, Data Abstraction, and Inheritance in the FUGUE Data Model.</title>
+<pages>225-241</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#HeilerZ88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_20</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/DucheneKT88" mdate="2017-05-19">
+<author pid="72/2429">Horst Duch&#234;ne</author>
+<author pid="83/3138">Manfred Kaul</author>
+<author pid="79/156">Volker Turau</author>
+<title>VODAK Kernel Data Model.</title>
+<pages>242-261</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#DucheneKT88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_21</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Petry88" mdate="2017-05-19">
+<author pid="28/330">Erwin Petry</author>
+<title>A Model for an Object Management System for Software Engineering Environments.</title>
+<pages>262-267</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Petry88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_22</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Frank88" mdate="2017-05-19">
+<author pid="f/AndrewUFrank">Andrew U. Frank</author>
+<title>Multiple Inheritance and Genericity for the Integration of a Database Management System in an Object-Oriented Approach.</title>
+<pages>268-273</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Frank88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_23</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Wilkes88" mdate="2017-05-19">
+<author pid="09/4698">Wolfgang Wilkes</author>
+<title>Instance Inheritance Mechanisms for Object-Oriented Databases.</title>
+<pages>274-279</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Wilkes88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_24</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/PatonG88" mdate="2017-05-19">
+<author pid="p/NWPaton">Norman W. Paton</author>
+<author pid="g/PeterMDGray">Peter M. D. Gray</author>
+<title>Identification of Database Objects by Key.</title>
+<pages>280-285</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#PatonG88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_25</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/RaoGR88" mdate="2017-05-19">
+<author pid="92/4990">Kotcherlakota V. Bapa Rao</author>
+<author pid="82/6912">Anat Gafni</author>
+<author pid="63/5836">Georg Raeder</author>
+<title>The Design of Dynamo: A General-purpose Information Processing Model with a Time Dimension.</title>
+<pages>286-291</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#RaoGR88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_26</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/KemperW88" mdate="2017-05-19">
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<author pid="14/6785">Mechtild Wallrath</author>
+<title>A Uniform Concept for Storing and Manipulating Engineering Objects.</title>
+<pages>292-297</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#KemperW88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_27</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Manipulation and Persistent Languages</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/MossS88" mdate="2017-05-19">
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<author pid="35/6047">Steven Sinofsky</author>
+<title>Managing Persistent Data with Mneme: Designing a Reliable, Shared Object Interface.</title>
+<pages>298-316</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#MossS88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_28</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/RiegelMS88" mdate="2017-05-19">
+<author pid="27/4865">Steve Riegel</author>
+<author pid="86/504">Fred Mellender</author>
+<author pid="81/1251">Andrew Straw</author>
+<title>Integration of Database Management with an Object-Oriented Programming Language.</title>
+<pages>317-322</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#RiegelMS88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_29</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/LorieS88" mdate="2017-05-19">
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<title>On Dynamically Defined Complex Objects and SQL.</title>
+<pages>323-328</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#LorieS88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_30</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/OBrien88" mdate="2017-05-19">
+<author pid="26/722">Patrick O'Brien</author>
+<title>Common Object-Oriented Repository System.</title>
+<pages>329-333</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#OBrien88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_31</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/MorrisonBCCD88" mdate="2021-07-07">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="71/151">Raymund Carrick</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>On the Integration of Object-Oriented and Process-Oriented Computation in Persistent Environments.</title>
+<pages>334-339</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#MorrisonBCCD88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_32</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/HardwickS88" mdate="2017-05-19">
+<author pid="h/MartinHardwick">Martin Hardwick</author>
+<author pid="s/DavidLSpooner">David L. Spooner</author>
+<title>ROSE: An Object-Oriented Database System for Interactive Computer Graphics Applications.</title>
+<pages>340-345</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#HardwickS88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_33</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Optimization and Performance</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/Osborn88" mdate="2017-05-19">
+<author pid="o/SylviaLOsborn">Sylvia L. Osborn</author>
+<title>Identity, Equality and Query Optimization.</title>
+<pages>346-351</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Osborn88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_34</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Korth88" mdate="2017-05-19">
+<author pid="k/HenryFKorth">Henry F. Korth</author>
+<title>Optimization of Object-Retrieval Queries.</title>
+<pages>352-357</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Korth88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_35</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/GraefeM88" mdate="2017-11-07">
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Query Optimization in Object-Oriented Database Systems: A Prospectus.</title>
+<pages>358-363</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#GraefeM88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_36</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Cattell88" mdate="2017-05-19">
+<author pid="67/2932">R. G. G. Cattell</author>
+<title>Object-Oriented DBMS Performance Measurement.</title>
+<pages>364-367</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Cattell88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_37</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Zdonik88" mdate="2017-05-19">
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Data Abstraction and Query Optimization.</title>
+<pages>368-373</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#Zdonik88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_38</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

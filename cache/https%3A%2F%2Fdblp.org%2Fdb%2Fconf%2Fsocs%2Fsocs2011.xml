@@ -1,0 +1,447 @@
+<bht key="db/conf/socs/socs2011.bht" title="Symposium on Combinatorial Search 2011">  
+<h1>4. <ref href="db/conf/socs/index.html">SOCS</ref> 2011:
+Castell de Cardona, Barcelona, Spain</h1> <dblpcites><r><proceedings key="conf/socs/2011" mdate="2011-07-07">
+<editor pid="05/2730">Daniel Borrajo</editor>
+<editor pid="33/1426">Maxim Likhachev</editor>
+<editor pid="21/6753">Carlos Linares L&#243;pez</editor>
+<title>Proceedings of the Fourth Annual Symposium on Combinatorial Search, SOCS 2011, Castell de Cardona, Barcelona, Spain, July 15.16, 2011</title>
+<publisher>AAAI Press</publisher>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<url>db/conf/socs/socs2011.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Full Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/socs/AlcazarVB11" mdate="2021-02-10">
+<author pid="91/8220">Vidal Alc&#225;zar</author>
+<author pid="v/ManuelaMVeloso">Manuela M. Veloso</author>
+<author pid="05/2730">Daniel Borrajo</author>
+<title>Adapting a Rapidly-Exploring Random Tree for Automated Planning.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4021</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#AlcazarVB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/BackstromJ11" mdate="2021-02-10">
+<author pid="b/CBackstrom">Christer B&#228;ckstr&#246;m</author>
+<author pid="j/PeterJonsson">Peter Jonsson</author>
+<title>All PSPACE-Complete Planning Problems Are Equal but Some Are More Equal than Others.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4009</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#BackstromJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/BakhshandehSAS11" mdate="2021-02-10">
+<author pid="88/9853">Reza Bakhshandeh</author>
+<author pid="68/3471">Mehdi Samadi</author>
+<author pid="75/1480">Zohreh Azimifar</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>Degrees of Separation in Social Networks.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4031</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#BakhshandehSAS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/BnayaFFMS11" mdate="2021-02-10">
+<author pid="46/7442">Zahy Bnaya</author>
+<author pid="43/5063">Ariel Felner</author>
+<author pid="74/9853">Dror Fried</author>
+<author pid="78/9853">Olga Maksin</author>
+<author pid="08/1674">Solomon Eyal Shimony</author>
+<title>Repeated-Task Canadian Traveler Problem.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4027</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#BnayaFFMS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/BurchH11" mdate="2021-02-10">
+<author pid="66/2770">Neil Burch</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<title>Automatic Move Pruning in General Single-Player Games.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4012</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#BurchH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/DionneTR11" mdate="2021-02-10">
+<author pid="26/9799">Austin J. Dionne</author>
+<author pid="12/4034">Jordan Tyler Thayer</author>
+<author pid="80/5790">Wheeler Ruml</author>
+<title>Deadline-Aware Search Using On-Line Measures of Behavior.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4030</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#DionneTR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/Felner11" mdate="2021-02-10">
+<author pid="43/5063">Ariel Felner</author>
+<title>Position Paper: Dijkstra's Algorithm versus Uniform Cost Search or a Case Against Dijkstra's Algorithm.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4017</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#Felner11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/GochevCBSL11" mdate="2021-02-10">
+<author pid="90/9853">Kalin Gochev</author>
+<author pid="97/8366">Benjamin J. Cohen</author>
+<author pid="96/9853">Jonathan Butzke</author>
+<author pid="11/1467">Alla Safonova</author>
+<author pid="33/1426">Maxim Likhachev</author>
+<title>Path Planning with Adaptive Dimensionality.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4037</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#GochevCBSL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/GonzalezL11" mdate="2021-02-10">
+<author pid="06/95">Juan Pablo Gonzalez</author>
+<author pid="33/1426">Maxim Likhachev</author>
+<title>Search-Based Planning with Provable Suboptimality Bounds for Continuous State Spaces.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4015</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#GonzalezL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/KeshtkaranTZ11" mdate="2021-02-10">
+<author pid="02/9854">Morteza Keshtkaran</author>
+<author pid="00/9854">Roohollah Taghizadeh</author>
+<author pid="71/6809">Koorush Ziarati</author>
+<title>A Novel Technique for Compressing Pattern Databases in the Pancake Sorting Problems.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4013</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#KeshtkaranTZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/KhorshidHS11" mdate="2021-02-10">
+<author pid="01/9854">Mokhtar M. Khorshid</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<author pid="18/991">Nathan R. Sturtevant</author>
+<title>A Polynomial-Time Algorithm for Non-Optimal Multi-Agent Pathfinding.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4039</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#KhorshidHS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/KotthoffGM11" mdate="2021-02-10">
+<author pid="42/7865">Lars Kotthoff</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="17/2612">Ian Miguel</author>
+<title>A Preliminary Evaluation of Machine Learning in Algorithm Selection for Search Problems.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4006</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#KotthoffGM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/LeightonRH11" mdate="2021-02-10">
+<author pid="92/9853">Michael J. Leighton</author>
+<author pid="80/5790">Wheeler Ruml</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<title>Faster Optimal and Suboptimal Hierarchical Search.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4035</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#LeightonRH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/LelisSA11" mdate="2021-02-10">
+<author pid="82/7788">Levi Lelis</author>
+<author pid="95/1348">Roni Stern</author>
+<author pid="03/9798">Shahab Jabbari Arfaee</author>
+<title>Predicting Solution Cost with Conditional Probabilities.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4025</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#LelisSA11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/LelisZH11" mdate="2021-02-10">
+<author pid="82/7788">Levi Lelis</author>
+<author pid="z/SandraZilles">Sandra Zilles</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<title>Improved Prediction of IDA*'s Performance via Epsilon-Truncation.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4028</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#LelisZH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/OttenD11" mdate="2021-02-10">
+<author pid="32/2145">Lars Otten</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>Anytime AND/OR Depth-First Search for Combinatorial Optimization.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4008</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#OttenD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/PangH11" mdate="2021-02-10">
+<author pid="16/6344">Bo Pang</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<title>State-Set Search.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4014</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#PangH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/RoseBR11" mdate="2021-02-10">
+<author pid="09/4439">Kevin Rose</author>
+<author pid="30/7442">Ethan Burns</author>
+<author pid="80/5790">Wheeler Ruml</author>
+<title>Best-First Search for Bounded-Depth Trees.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4043</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#RoseBR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/SchmidtZ11" mdate="2021-02-10">
+<author pid="32/5827">Tim Schmidt</author>
+<author pid="z/RongZhou1">Rong Zhou 0001</author>
+<title>Representing Pattern Databases with Succinct Data Structures.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4024</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#SchmidtZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/SharonSGF11" mdate="2021-02-10">
+<author pid="73/9853">Guni Sharon</author>
+<author pid="95/1348">Roni Tzvi Stern</author>
+<author pid="94/9797">Meir Goldenberg</author>
+<author pid="43/5063">Ariel Felner</author>
+<title>Pruning Techniques for the Increasing Cost Tree Search for Optimal Multi-agent Pathfinding.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4032</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#SharonSGF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/SternFH11" mdate="2021-02-10">
+<author pid="95/1348">Roni Stern</author>
+<author pid="43/5063">Ariel Felner</author>
+<author pid="h/RobertHolte">Robert Holte</author>
+<title>Probably Approximately Correct Heuristic Search.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4044</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#SternFH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/ReynaL11" mdate="2021-02-10">
+<author orcid="0000-0002-5352-2529" pid="118/2636">&#193;lvaro Torralba Arias de Reyna</author>
+<author pid="21/6753">Carlos Linares L&#243;pez</author>
+<title>Size-Independent Additive Pattern Databases for the Pancake Problem.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4022</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#ReynaL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/WiltR11" mdate="2021-02-10">
+<author pid="69/9798">Christopher Makoto Wilt</author>
+<author pid="80/5790">Wheeler Ruml</author>
+<title>Cost-Based Heuristic Search Is Sensitive to the Ratio of Operator Costs.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4033</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#WiltR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/YoshizoeKKYI11" mdate="2021-02-10">
+<author pid="19/5077">Kazuki Yoshizoe</author>
+<author pid="47/3148">Akihiro Kishimoto</author>
+<author pid="16/5774">Tomoyuki Kaneko</author>
+<author pid="71/3825">Haruhiro Yoshimoto</author>
+<author pid="97/6217">Yutaka Ishikawa</author>
+<title>Scalable Distributed Monte-Carlo Tree Search.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4023</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#YoshizoeKKYI11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Abstracts</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/socs/ElyasafZHS11" mdate="2021-02-10">
+<author pid="87/7184">Achiya Elyasaf</author>
+<author pid="09/9854">Yael Zaritsky</author>
+<author pid="01/4132">Ami Hauptman</author>
+<author pid="s/MosheSipper">Moshe Sipper</author>
+<title>Evolving Solvers for FreeCell and the Sliding-Tile Puzzle.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4018</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#ElyasafZHS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/GoldenbergSFS11" mdate="2021-02-10">
+<author pid="94/9797">Meir Goldenberg</author>
+<author pid="18/991">Nathan R. Sturtevant</author>
+<author pid="43/5063">Ariel Felner</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>The Compressed Differential Heuristic.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4020</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#GoldenbergSFS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/HernandezB11" mdate="2021-02-23">
+<author pid="14/1804-3">Carlos Hern&#225;ndez 0003</author>
+<author pid="85/5866">Jorge A. Baier</author>
+<title>Real-Time Adaptive A* with Depression Avoidance.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4036</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#HernandezB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/HuangK11" mdate="2021-02-10">
+<author pid="16/3126">Eric Huang</author>
+<author pid="18/2128">Richard E. Korf</author>
+<title>Optimal Packing of High-Precision Rectangles.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4016</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#HuangK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/ImaiK11" mdate="2021-02-10">
+<author pid="07/9854">Tatsuya Imai</author>
+<author pid="47/3148">Akihiro Kishimoto</author>
+<title>A Novel Technique for Avoiding Plateaus of Greedy Best-First Search in Satisficing Planning.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4007</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#ImaiK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/KushleyevML11" mdate="2021-02-10">
+<author pid="97/6044">Aleksandr Kushleyev</author>
+<author pid="91/9853">Brian MacAllister</author>
+<author pid="33/1426">Maxim Likhachev</author>
+<title>Planning for Landing Site Selection in the Aerial Supply Delivery.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4034</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#KushleyevML11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/LunaB11" mdate="2021-02-10">
+<author pid="72/9853">Ryan Luna</author>
+<author pid="42/170">Kostas E. Bekris</author>
+<title>Efficient and Complete Centralized Multi-Robot Path Planning.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4010</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#LunaB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/PhillipsL11" mdate="2021-02-10">
+<author pid="40/6084">Mike Phillips</author>
+<author pid="33/1426">Maxim Likhachev</author>
+<title>Planning in Domains with Cost Function Dependent Actions.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4038</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#PhillipsL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/PivtoraikoK11" mdate="2021-02-10">
+<author pid="83/9853">Mihail Pivtoraiko</author>
+<author pid="24/5144">Alonzo Kelly</author>
+<title>Graduated Fidelity Motion Planning.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4040</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#PivtoraikoK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/Sturtevant11" mdate="2021-02-10">
+<author pid="18/991">Nathan R. Sturtevant</author>
+<title>Distance Learning in Agent-Centered Heuristic Search.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4041</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#Sturtevant11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/WangBK11" mdate="2021-02-10">
+<author pid="19/1131">Ko-Hsin Cindy Wang</author>
+<author pid="73/3430">Adi Botea</author>
+<author pid="66/5607">Philip Kilby</author>
+<title>On Improving the Quality of Solutions in Large-Scale Cooperative Multi-Agent Pathfinding.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4042</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#WangBK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/socs/YapBHS11" mdate="2021-02-10">
+<author pid="35/4951">Peter Kai Yue Yap</author>
+<author pid="66/2770">Neil Burch</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>Abstract: Block A* and Any-Angle Path-Planning.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4011</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#YapBHS11</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

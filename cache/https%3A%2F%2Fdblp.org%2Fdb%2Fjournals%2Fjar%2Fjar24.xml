@@ -1,0 +1,249 @@
+<bht key="db/journals/jar/jar24.bht" title="JAR, Volume 24"> 
+<h1><ref href="db/journals/jar/index.html">Journal of Automated Reasoning (JAR)</ref>, Volume 24</h1> 
+<h2>Volume 24, Numbers 1/2, February 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/jar/GentW00" mdate="2020-09-02">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Satisfiability in the Year 2000.</title>
+<pages>1-3</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#GentW00</url>
+<ee>https://doi.org/10.1023/A:1006338702529</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/AbramoviciS00" mdate="2022-04-09">
+<author pid="76/5323">Miron Abramovici</author>
+<author orcid="0000-0001-7525-7546" pid="85/5900">Jos&#233; T. de Sousa</author>
+<title>A SAT Solver Using Reconfigurable Hardware and Virtual Logic.</title>
+<pages>5-36</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#AbramoviciS00</url>
+<ee>https://doi.org/10.1023/A:1006310219368</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/KlerkMW00" mdate="2020-09-02">
+<author pid="93/4905">Etienne de Klerk</author>
+<author pid="m/HansvanMaaren">Hans van Maaren</author>
+<author pid="62/5338">Joost P. Warners</author>
+<title>Relaxations of the Satisfiability Problem Using Semidefinite Programming.</title>
+<pages>37-65</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#KlerkMW00</url>
+<ee>https://doi.org/10.1023/A:1006362203438</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/GomesSCK00" mdate="2020-09-02">
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<author orcid="0000-0002-3572-0396" pid="64/5650">Nuno Crato</author>
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<title>Heavy-Tailed Phenomena in Satisfiability and Constraint Satisfaction Problems.</title>
+<pages>67-100</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#GomesSCK00</url>
+<ee>https://doi.org/10.1023/A:1006314320276</ee>
+<ee>https://www.wikidata.org/entity/Q57710972</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/GrooteW00" mdate="2020-09-02">
+<author orcid="0000-0003-2196-6587" pid="g/JanFrisoGroote">Jan Friso Groote</author>
+<author pid="62/5338">Joost P. Warners</author>
+<title>The Propositional Formula Checker HeerHugo.</title>
+<pages>101-125</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#GrooteW00</url>
+<ee>https://doi.org/10.1023/A:1006366304347</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/Hirsch00" mdate="2020-09-02">
+<author pid="16/2310">Edward A. Hirsch</author>
+<title>SAT Local Search Algorithms: Worst-Case Study.</title>
+<pages>127-143</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#Hirsch00</url>
+<ee>https://doi.org/10.1023/A:1006318521185</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/KuchlinS00" mdate="2020-09-02">
+<author pid="k/WKuchlin">Wolfgang K&#252;chlin</author>
+<author pid="s/CarstenSinz">Carsten Sinz</author>
+<title>Proving Consistency Assertions for Automotive Product Data Management.</title>
+<pages>145-163</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#KuchlinS00</url>
+<ee>https://doi.org/10.1023/A:1006370506164</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/MassacciM00" mdate="2020-09-02">
+<author orcid="0000-0002-1091-8486" pid="59/6145">Fabio Massacci</author>
+<author pid="71/4767">Laura Marraro</author>
+<title>Logical Cryptanalysis as a SAT Problem.</title>
+<pages>165-203</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#MassacciM00</url>
+<ee>https://doi.org/10.1023/A:1006326723002</ee>
+<ee>https://www.wikidata.org/entity/Q56040398</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/MillsT00" mdate="2020-09-02">
+<author pid="62/6202">Patrick Mills</author>
+<author pid="18/3625">Edward P. K. Tsang</author>
+<title>Guided Local Search for Solving SAT and Weighted MAX-SAT Problems.</title>
+<pages>205-223</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#MillsT00</url>
+<ee>https://doi.org/10.1023/A:1006343127545</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/RishD00" mdate="2020-09-02">
+<author pid="r/IrinaRish">Irina Rish</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>Resolution versus Search: Two Strategies for SAT.</title>
+<pages>225-275</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#RishD00</url>
+<ee>https://doi.org/10.1023/A:1006303512524</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/ZhangS00" mdate="2023-01-17">
+<author pid="27/2116-1">Hantao Zhang 0001</author>
+<author pid="44/3472">Mark E. Stickel</author>
+<title>Implementing the Davis-Putnam Method.</title>
+<pages>277-296</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#ZhangS00</url>
+<ee>https://doi.org/10.1023/A:1006351428454</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 24, Number 3, April 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/jar/BalsigerHS00" mdate="2020-09-02">
+<author pid="74/5222">Peter Balsiger</author>
+<author pid="92/3174">Alain Heuerding</author>
+<author pid="73/35">Stefan Schwendimann</author>
+<title>A Benchmark Method for the Propositional Modal Logics K, KT, S4.</title>
+<pages>297-317</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<url>db/journals/jar/jar24.html#BalsigerHS00</url>
+<ee>https://doi.org/10.1023/A:1006249507577</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/Massacci00" mdate="2020-09-02">
+<author orcid="0000-0002-1091-8486" pid="59/6145">Fabio Massacci</author>
+<title>Single Step Tableaux for Modal Logics.</title>
+<pages>319-364</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<url>db/journals/jar/jar24.html#Massacci00</url>
+<ee>https://doi.org/10.1023/A:1006155811656</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/PadmanabhanP00" mdate="2020-09-02">
+<author pid="31/198">R. Padmanabhan</author>
+<author pid="84/6766">P. Penner</author>
+<title>A Hyperbase for Binary Lattice Hyperidentities.</title>
+<pages>365-370</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<url>db/journals/jar/jar24.html#PadmanabhanP00</url>
+<ee>https://doi.org/10.1023/A:1006279127474</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/Sutcliffe00" mdate="2021-04-09">
+<author orcid="0000-0001-9120-3927" pid="s/GeoffSutcliffe">Geoff Sutcliffe</author>
+<title>The CADE-16 ATP System Competition.</title>
+<pages>371-396</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<url>db/journals/jar/jar24.html#Sutcliffe00</url>
+<ee>https://doi.org/10.1023/A:1006393501098</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 24, Number 4, May 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/jar/Hirsch00a" mdate="2020-09-02">
+<author pid="16/2310">Edward A. Hirsch</author>
+<title>New Worst-Case Upper Bounds for SAT.</title>
+<pages>397-420</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>4</number>
+<url>db/journals/jar/jar24.html#Hirsch00a</url>
+<ee>https://doi.org/10.1023/A:1006340920104</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/HoosS00" mdate="2020-09-02">
+<author orcid="0000-0003-0629-0099" pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author orcid="0000-0002-5820-0473" pid="61/6836">Thomas St&#252;tzle</author>
+<title>Local Search Algorithms for SAT: An Empirical Evaluation.</title>
+<pages>421-481</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>4</number>
+<url>db/journals/jar/jar24.html#HoosS00</url>
+<ee>https://doi.org/10.1023/A:1006350622830</ee>
+<ee>https://www.wikidata.org/entity/Q59586167</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/RichardsR00" mdate="2020-09-02">
+<author pid="01/661">E. Thomas Richards</author>
+<author pid="47/3409">Barry Richards</author>
+<title>Nonsystematic Search and No-Good Learning.</title>
+<pages>483-533</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>4</number>
+<url>db/journals/jar/jar24.html#RichardsR00</url>
+<ee>https://doi.org/10.1023/A:1006362926464</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

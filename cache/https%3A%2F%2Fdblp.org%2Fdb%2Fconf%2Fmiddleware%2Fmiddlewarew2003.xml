@@ -1,0 +1,662 @@
+<bht key="db/conf/middleware/middlewarew2003.bht" title="Middleware 2003 Workshops">  
+<h1>4th <ref href="db/conf/middleware/index.html">Middleware</ref> 2003 Workshops:
+Rio de Janeiro, Brazil</h1> <dblpcites><r><proceedings key="conf/middleware/2003w" mdate="2003-07-17">
+<title>International Middleware Conference, Workshop Proceedings, June 16-20, 2003, Rio de Janeiro, Brazil</title>
+<booktitle>Middleware Workshops</booktitle>
+<publisher>PUC-Rio</publisher>
+<year>2003</year>
+<isbn>85-87926-03-9</isbn>
+<url>db/conf/middleware/middlewarew2003.html</url>
+</proceedings>
+</r>
+</dblpcites>
+  
+<h2>The 1st International Workshop on Middleware for Pervasive and Ad Hoc Computing (MPAC)</h2> 
+<dblpcites><r><inproceedings key="conf/middleware/RigoleBH03" mdate="2003-07-17">
+<author pid="18/5470">Peter Rigole</author>
+<author pid="b/YolandeBerbers">Yolande Berbers</author>
+<author pid="15/6771">Tom Holvoet</author>
+<title>Design and run-time bandwidth contracts for pervasive computing middleware.</title>
+<pages>5-12</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#RigoleBH03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/CarvalhoMHC03" mdate="2006-04-18">
+<author pid="39/6400">Hervaldo S. Carvalho</author>
+<author pid="m/AmyLMurphy">Amy L. Murphy</author>
+<author pid="h/WendiRabinerHeinzelman">Wendi Beth Heinzelman</author>
+<author pid="c/ClaudionorJNCoelhoJr">Claudionor Jos&#233; Nunes Coelho Jr.</author>
+<title>Network-Based Distributed Systems Middleware.</title>
+<pages>13-20</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#CarvalhoMHC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/KirbyDMDCN03" mdate="2021-07-07">
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/MarkDDunlop">Mark D. Dunlop</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="n/PaddyNixon">Paddy Nixon</author>
+<title>Active Architecture for Pervasive Contextual Services.</title>
+<pages>21-28</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#KirbyDMDCN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/KaminskyB03" mdate="2003-07-17">
+<author pid="47/1634">Alan Kaminsky</author>
+<author pid="96/126">Hans-Peter Bischof</author>
+<title>New Architectures, Protocols and Middleware for Ad Hoc Collaborative Computing.</title>
+<pages>29-36</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#KaminskyB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/McSorleyE03" mdate="2021-08-24">
+<author pid="50/2348">Gareth P. McSorley</author>
+<author pid="e/HuwEvans">James Huw Evans</author>
+<title>Tiamat: Generative Communication in a Changing World.</title>
+<pages>37-44</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#McSorleyE03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/GlasseySRNTWF03" mdate="2019-07-31">
+<author pid="00/4905">Richard Glassey</author>
+<author pid="21/4739">Graeme Stevenson</author>
+<author pid="23/1801">Matthew Richmond</author>
+<author pid="n/PaddyNixon">Paddy Nixon</author>
+<author pid="t/SotiriosTerzis">Sotirios Terzis</author>
+<author pid="90/4225-28">Feng Wang 0028</author>
+<author pid="16/2581">Ian Ferguson</author>
+<title>Towards a Middleware for Generalised Context Management.</title>
+<pages>45-52</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#GlasseySRNTWF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/MeissnerM03" mdate="2003-07-17">
+<author pid="66/6630">Andreas Meissner</author>
+<author pid="81/4190">Sharath Babu Musunoori</author>
+<title>Group Integrity Management Support for Mobile Ad-Hoc Communities.</title>
+<pages>53-59</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#MeissnerM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/FiegeZGH03" mdate="2003-07-17">
+<author pid="73/1084">Ludger Fiege</author>
+<author pid="26/5583">Andreas Zeidler</author>
+<author pid="f/FCFreiling">Felix C. G&#228;rtner</author>
+<author pid="25/3100">Sidath B. Handurukande</author>
+<title>Dealing with Uncertainty in Mobile Publish/Subscribe Middleware.</title>
+<pages>60-67</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#FiegeZGH03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/DavisSBE03" mdate="2003-07-17">
+<author pid="22/1407">John S. Davis II</author>
+<author pid="90/4024">Daby M. Sow</author>
+<author pid="05/6686">Marion Blount</author>
+<author pid="e/MariaEbling">Maria Ebling</author>
+<title>Context Tailor: Towards a Programming Model for Context-Aware Computing.</title>
+<pages>68-75</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#DavisSBE03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/EusticeKMPRR03" mdate="2003-07-17">
+<author pid="41/6612">Kevin Eustice</author>
+<author pid="k/LKleinrock">Leonard Kleinrock</author>
+<author pid="84/1899">Shane Markstrum</author>
+<author pid="62/6214">Gerald J. Popek</author>
+<author pid="87/1086">Venkatraman Ramakrishna</author>
+<author pid="r/PLReiher">Peter L. Reiher</author>
+<title>Enabling Secure Ubiquitous Interactions.</title>
+<pages>76-80</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#EusticeKMPRR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/ArrudaNP03" mdate="2003-09-19">
+<author pid="66/5779">Carlos R. E. Arruda Jr.</author>
+<author pid="08/6838">Renato Bulc&#227;o Neto</author>
+<author pid="18/2858">Maria da Gra&#231;a Campos Pimentel</author>
+<title>Open context-aware storage as a Web Service.</title>
+<pages>81-87</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#ArrudaNP03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>The 2nd Workshop on Reflective and Adaptive Middleware</h2> 
+<dblpcites><r><inproceedings key="conf/middleware/CerqueiraALS03" mdate="2003-07-17">
+<author pid="66/6141">Romulo Cerqueira</author>
+<author pid="63/5813">Sidney Ansaloni</author>
+<author pid="37/6173">Orlando Loques</author>
+<author pid="92/4374">Alexandre Sztajnberg</author>
+<title>Deploying Non-Functional Aspects by Contract.</title>
+<pages>90-94</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#CerqueiraALS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/PortilloWKD03" mdate="2016-09-06">
+<author pid="65/3789">&#193;lvaro J. Reb&#243;n Portillo</author>
+<author pid="09/4219">Scott Mervyn Walker</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>A Reflective Approach to Providing Flexibility in Application Distribution.</title>
+<pages>95-99</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#PortilloWKD03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/AndersenBSMR03" mdate="2003-07-17">
+<author pid="22/6868">Anders Andersen</author>
+<author pid="b/GordonSBlair">Gordon S. Blair</author>
+<author pid="26/2261">Tage Stabell-Kul&#248;</author>
+<author pid="98/3405">Per Harald Myrvang</author>
+<author pid="59/71">Tom-Anders Nilsen R&#248;st</author>
+<title>Reflective Middleware and Security: OOPP meets Obol.</title>
+<pages>100-104</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#AndersenBSMR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/CurryCL03" mdate="2003-07-17">
+<author pid="60/2291">Edward Curry</author>
+<author pid="13/4288">Desmond Chambers</author>
+<author pid="86/1163">Gerard Lyons</author>
+<title>Reflective Channel Hierarchies.</title>
+<pages>105-109</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#CurryCL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/SilvaEK03" mdate="2003-07-17">
+<author pid="11/5493">Francisco Jos&#233; da Silva e Silva</author>
+<author pid="e/MarkusEndler">Markus Endler</author>
+<author pid="k/FabioKon">Fabio Kon</author>
+<title>A Framework for Building Adaptive Distributed Applications.</title>
+<pages>110-114</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#SilvaEK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/CoulsonBGJLUY03" mdate="2003-07-17">
+<author pid="c/GeoffCoulson">Geoff Coulson</author>
+<author pid="b/GordonSBlair">Gordon S. Blair</author>
+<author pid="96/1748">Ant&#244;nio Tadeu A. Gomes</author>
+<author pid="80/5854">Ackbar Joolia</author>
+<author pid="44/765">Kevin Lee</author>
+<author pid="68/1201">Jo Ueyama</author>
+<author pid="36/2489">Irvin Ye</author>
+<title>Reflective Middleware-based Programmable Networking.</title>
+<pages>115-119</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#CoulsonBGJLUY03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/HagimontPBA03" mdate="2005-01-05">
+<author pid="46/902">Daniel Hagimont</author>
+<author pid="58/3793">Noel De Palma</author>
+<author pid="54/50">Fabienne Boyer</author>
+<author pid="07/1104">Slim Ben Atallah</author>
+<title>Improving performances for non-functional properties.</title>
+<pages>120-124</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#HagimontPBA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/BatistaCR03" mdate="2003-07-17">
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="165/3587">Renato Cerqueira</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>Enabling Reflection and Reconfiguration in CORBA.</title>
+<pages>125-129</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#BatistaCR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/SantosMS03" mdate="2003-07-17">
+<author pid="07/967">Nuno Santos</author>
+<author pid="24/2923">Paulo Marques</author>
+<author pid="94/4734">Lu&#237;s Moura Silva</author>
+<title>Dynamic Deployment of Services on Mobile Agents Systems.</title>
+<pages>130-134</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#SantosMS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/KarlsenJ03" mdate="2003-07-17">
+<author pid="90/3506">Randi Karlsen</author>
+<author pid="01/6031">Anna-Brith A. Jakobsen</author>
+<title>Transaction Service Management - An approach towards a reflective transaction service.</title>
+<pages>135-138</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#KarlsenJ03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/MoreiraBC03" mdate="2003-07-17">
+<author pid="63/2675">Rui S. Moreira</author>
+<author pid="b/GordonSBlair">Gordon S. Blair</author>
+<author pid="26/1828">Eurico Carrapatoso</author>
+<title>Constraining Architectural Reflection for Safely Managing Adaptation.</title>
+<pages>139-143</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#MoreiraBC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/FavarimSF03" mdate="2003-07-17">
+<author pid="94/702">F&#225;bio Favarim</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Adaptive Fault-Tolerant CORBA Components.</title>
+<pages>144-148</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#FavarimSF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/Sharp03" mdate="2003-07-17">
+<author pid="28/2512">David Sharp</author>
+<title>Variable Aspects And Models For Reusable Component-Based Avionics Systems.</title>
+<pages>149-152</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#Sharp03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/StaehliEAB03" mdate="2003-07-17">
+<author pid="88/6663">Richard Staehli</author>
+<author pid="92/3357">Frank Eliassen</author>
+<author pid="48/1767">Jan &#216;yvind Aagedal</author>
+<author pid="b/GordonSBlair">Gordon S. Blair</author>
+<title>Quality of Service Semantics for Component-Based Systems.</title>
+<pages>153-157</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#StaehliEAB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/MaeomichiKTY03" mdate="2003-07-17">
+<author pid="07/2936">Hiroyuki Maeomichi</author>
+<author pid="78/737">Ryutaro Kawamura</author>
+<author pid="56/6901">Akihiro Tsutsui</author>
+<author pid="41/3262">Kouji Yata</author>
+<title>A QoS Management Framework based on COP oriented Communication Resource Coordination.</title>
+<pages>158-162</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#MaeomichiKTY03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/ParlavantzasCB03" mdate="2003-07-17">
+<author pid="73/5412">Nikos Parlavantzas</author>
+<author pid="c/GeoffCoulson">Geoff Coulson</author>
+<author pid="b/GordonSBlair">Gordon S. Blair</author>
+<title>A Resource Adaptation Framework For Reflective Middleware.</title>
+<pages>163-168</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#ParlavantzasCB03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>The 1st International Workshop on Middleware for Grid Computing</h2> 
+<dblpcites><r><inproceedings key="conf/middleware/KeaheyWLLM03" mdate="2010-01-20">
+<author pid="k/KatarzynaKeahey">Katarzyna Keahey</author>
+<author pid="21/331">Von Welch</author>
+<author pid="40/6412">Sam Lang</author>
+<author pid="99/1682">B. Liu</author>
+<author pid="93/2055">Sam Meder</author>
+<title>Fine-Grain Authorization Policies in the GRID: Design and Implementation.</title>
+<pages>170-177</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#KeaheyWLLM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/NovotnyRW03" mdate="2003-07-17">
+<author pid="84/2104">Jason Novotny</author>
+<author pid="25/6255">Michael Russell</author>
+<author pid="17/6707">Oliver Wehrens</author>
+<title>GridSphere: A Portal Framework For Building Collaborations.</title>
+<pages>178-185</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#NovotnyRW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/AssuncaoWK03" mdate="2003-07-17">
+<author pid="66/2150">Marcos Dias de Assun&#231;&#227;o</author>
+<author pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</author>
+<author pid="79/1764">Fernando Luiz Koch</author>
+<title>Grids of Agents for Computer and Telecommunication Network Management.</title>
+<pages>186-193</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#AssuncaoWK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/OliveiraROSM03" mdate="2006-11-17">
+<author pid="28/645">Fabiano S. G. de Oliveira</author>
+<author pid="58/2183">Constantino G. Ribeiro</author>
+<author pid="119/3654">Jauvane C. de Oliveira</author>
+<author pid="27/729">Bruno Schulze</author>
+<author pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<title>Functionalities in Grid Computing with Active Services.</title>
+<pages>194-199</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#OliveiraROSM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/Al-AliHRW03" mdate="2003-07-17">
+<author pid="60/4639">Rashid J. Al-Ali</author>
+<author pid="73/2285">Abdelhakim Hafid</author>
+<author pid="r/OmerFRana">Omer F. Rana</author>
+<author pid="w/DavidWWalker">David W. Walker</author>
+<title>QoS Adaptation in Service-Oriented Grids.</title>
+<pages>200-210</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#Al-AliHRW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/GomoluchS03" mdate="2017-10-11">
+<author pid="05/5532">Jacek Gomoluch</author>
+<author pid="s/MichaelSchroeder">Michael Schroeder 0001</author>
+<title>Market-based Resource Allocation for Grid Computing: A Model and Simulation.</title>
+<pages>211-218</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#GomoluchS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/GiraldiOSS03" mdate="2003-07-17">
+<author pid="05/6423">Gilson A. Giraldi</author>
+<author pid="119/3654">Jauvane C. de Oliveira</author>
+<author pid="27/729">Bruno Schulze</author>
+<author pid="24/1731">Rodrigo L. S. Silva</author>
+<title>Distributed Visualization in Grid Environment.</title>
+<pages>219-226</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#GiraldiOSS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/CoulsonBPYC03" mdate="2019-08-22">
+<author pid="c/GeoffCoulson">Geoff Coulson</author>
+<author pid="b/GordonSBlair">Gordon S. Blair</author>
+<author pid="73/5412">Nikos Parlavantzas</author>
+<author pid="17/2064">Wai Kit Yeung</author>
+<author pid="52/2830-1">Wei Cai 0001</author>
+<title>A Reflective Middleware Approach to the Provision of Grid Middleware.</title>
+<pages>227-231</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#CoulsonBPYC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/GoldchlegerKGF03" mdate="2003-07-17">
+<author pid="84/6489">Andrei Goldchleger</author>
+<author pid="k/FabioKon">Fabio Kon</author>
+<author pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author pid="50/3312">Marcelo Finger</author>
+<title>InteGrade: Object-Oriented Grid Middleware Leveraging Idle Computing Power of Desktop Machines.</title>
+<pages>232-234</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#GoldchlegerKGF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/QuemaLC03" mdate="2003-07-17">
+<author pid="33/2617">Vivien Qu&#233;ma</author>
+<author pid="62/1275">Renaud Lachaize</author>
+<author pid="58/170">Emmanuel Cecchet</author>
+<title>An Asynchronous Middleware for Grid Resource Monitoring.</title>
+<pages>235-237</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#QuemaLC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/KumarTB03" mdate="2003-07-17">
+<author pid="13/4443">Raj Kumar</author>
+<author pid="59/3510">Vanish Talwar</author>
+<author pid="51/6127">Sujoy Basu</author>
+<title>A Resource Management Framework For Interactive Grids.</title>
+<pages>238-244</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#KumarTB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/FoxWUBP03" mdate="2016-06-27">
+<author pid="f/GeoffreyFox">Geoffrey C. Fox</author>
+<author pid="06/241-1">Wenjun Wu 0001</author>
+<author pid="81/1693">Ahmet Uyar</author>
+<author pid="40/3498">Hasan Bulut</author>
+<author pid="p/ShrideepPallickara">Shrideep Pallickara</author>
+<title>Global Multimedia Collaboration System.</title>
+<pages>245-250</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#FoxWUBP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/CostaZG03" mdate="2006-01-03">
+<author pid="77/2055">Paulo Vicente Capellotto Costa</author>
+<author pid="61/335">S&#233;rgio Donizetti Zorzo</author>
+<author pid="53/1466">H&#233;lio Crestana Guardia</author>
+<title>An Architecture For Computational Grids Based On Proxy Servers.</title>
+<pages>251-255</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#CostaZG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/BoeresR03" mdate="2003-07-17">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>EasyGrid: Towards a Framework for the Automatic Grid Enabling of MPI Applications.</title>
+<pages>256-260</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#BoeresR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/UrurahyR03" mdate="2004-03-12">
+<author pid="63/1442">Cristina D. Ururahy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>Programming and Coordinating Grid Environments and Applications.</title>
+<pages>261-263</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#UrurahyR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/GoldmanQ03" mdate="2003-07-17">
+<author pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author pid="20/6993">Carlos Queiroz</author>
+<title>A Model for Parallel Job Scheduling on Dynamic Computer Grids.</title>
+<pages>264-266</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#GoldmanQ03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>The 1st Workshop on Model-driven Approaches to Middleware Applications Development - MAMAD 2003</h2> 
+<dblpcites><r><inproceedings key="conf/middleware/LeblancM03" mdate="2003-07-17">
+<author pid="57/6692">Sylvain Leblanc</author>
+<author pid="09/1156">Philippe Merle</author>
+<title>Towards Middleware Product-Lines.</title>
+<pages>268-272</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#LeblancM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/Linington03" mdate="2003-07-17">
+<author pid="l/PeterFLinington">Peter F. Linington</author>
+<title>A Policy-based Model-Driven Security Framework.</title>
+<pages>273-276</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#Linington03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/DuddyGLRS03" mdate="2003-07-17">
+<author pid="10/4593">Keith Duddy</author>
+<author pid="78/310">Anna Gerber</author>
+<author pid="48/4109">Michael Lawley</author>
+<author pid="97/5063">Kerry Raymond</author>
+<author pid="26/5805">Jim Steel</author>
+<title>Modelware for Middleware.</title>
+<pages>277-281</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#DuddyGLRS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/GrayLZ03" mdate="2021-06-21">
+<author pid="g/JeffreyGGray">Jeff Gray 0001</author>
+<author pid="49/3074">Yuehua Lin</author>
+<author pid="05/3499-3">Jing Zhang 0003</author>
+<title>Levels of Independence in Aspect-Oriented Modeling.</title>
+<pages>282-287</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#GrayLZ03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/AlmeidaSPQ03" mdate="2003-07-17">
+<author pid="91/3408">Jo&#227;o Paulo A. Almeida</author>
+<author pid="s/MartenvanSinderen">Marten van Sinderen</author>
+<author pid="p/LuisFerreiraPires">Lu&#237;s Ferreira Pires</author>
+<author pid="92/6851">Dick A. C. Quartel</author>
+<title>The role of the service concept in model-driven applications development.</title>
+<pages>288-296</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#AlmeidaSPQ03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/HirschfeldB03" mdate="2003-07-17">
+<author pid="h/RobertHirschfeld">Robert Hirschfeld</author>
+<author pid="06/3320">Marc Born</author>
+<title>MDA Intra-Level Model Conversions and Transformation Models.</title>
+<pages>297-299</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#HirschfeldB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/GokhaleSLNW03" mdate="2003-07-17">
+<author pid="83/287">Aniruddha S. Gokhale</author>
+<author pid="s/DouglasCSchmidt">Douglas C. Schmidt</author>
+<author pid="03/5189">Tao Lu</author>
+<author pid="49/3571">Balachandran Natarajan</author>
+<author pid="22/829">Nanbor Wang</author>
+<title>CoSMIC: An MDA Generative Tool for Distributed Real-time and Embedded Applications.</title>
+<pages>300-306</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#GokhaleSLNW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/Silaghi03" mdate="2003-07-17">
+<author pid="51/3531">Raul Silaghi</author>
+<title>Generic Concern-Oriented Model Transformations Meet AOP.</title>
+<pages>307-311</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#Silaghi03</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,674 @@
+<bht key="db/conf/cp/cp2010.bht" title="16. CP 2010: St. Andrews, Scotland, UK">  
+<h1>16. <ref href="db/conf/cp/index.html">CP</ref> 2010:
+St. Andrews, Scotland, UK</h1> <dblpcites><r><proceedings key="conf/cp/2010" mdate="2019-05-14">
+<editor pid="22/148">David Cohen</editor>
+<title>Principles and Practice of Constraint Programming - CP 2010 - 16th International Conference, CP 2010, St. Andrews, Scotland, UK, September 6-10, 2010. Proceedings</title>
+<volume>6308</volume>
+<year>2010</year>
+<ee>https://doi.org/10.1007/978-3-642-15396-9</ee>
+<isbn>978-3-642-15395-2</isbn>
+<booktitle>CP</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/cp/cp2010.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Invited Talks</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Nieuwenhuis10" mdate="2017-05-17">
+<author pid="n/RobertNieuwenhuis">Robert Nieuwenhuis</author>
+<title>SAT Modulo Theories: Getting the Best of SAT and Global Constraint Filtering.</title>
+<pages>1-2</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_1</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#Nieuwenhuis10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Tsang10" mdate="2017-05-17">
+<author pid="18/3625">Edward P. K. Tsang</author>
+<title>Constraint-Directed Search in Computational Finance and Economics.</title>
+<pages>3-7</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_2</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#Tsang10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Vardi10" mdate="2017-05-17">
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<title>Constraints, Graphs, Algebra, Logic, and Complexity.</title>
+<pages>8</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_3</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#Vardi10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Distinguished Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Willard10" mdate="2017-05-17">
+<author pid="05/5463">Ross Willard</author>
+<title>Testing Expressibility Is Hard.</title>
+<pages>9-23</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_4</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#Willard10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AsafERCGOM10" mdate="2022-10-02">
+<author pid="47/1652">Sigal Asaf</author>
+<author orcid="0000-0002-2159-9046" pid="25/3649">Haggai Eran</author>
+<author pid="41/5173">Yossi Richter</author>
+<author pid="71/5903">Daniel P. Connors</author>
+<author pid="42/1511">Donna L. Gresh</author>
+<author pid="52/2144">Julio Ortega</author>
+<author pid="77/8779">Michael J. Mcinnis</author>
+<title>Applying Constraint Programming to Identification and Assignment of Service Professionals.</title>
+<pages>24-37</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_5</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#AsafERCGOM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ErmonGS10" mdate="2017-05-17">
+<author pid="47/8135">Stefano Ermon</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<title>Computing the Density of States of Boolean Formulas.</title>
+<pages>38-52</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_6</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#ErmonGS10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AlloucheGS10" mdate="2017-05-17">
+<author pid="19/611">David Allouche</author>
+<author pid="18/1193">Simon de Givry</author>
+<author pid="87/6848">Thomas Schiex</author>
+<title>Towards Parallel Non Serial Dynamic Programming for Solving Hard Weighted CSP.</title>
+<pages>53-60</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_7</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#AlloucheGS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ArayaTN10" mdate="2022-05-06">
+<author orcid="0000-0001-5882-6217" pid="88/3432">Ignacio Araya 0001</author>
+<author pid="55/2812">Gilles Trombettoni</author>
+<author pid="39/6105">Bertrand Neveu</author>
+<title>Making Adaptive an Interval Constraint Propagation Algorithm Exploiting Monotonicity.</title>
+<pages>61-68</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_8</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#ArayaTN10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BalafoutisPSW10" mdate="2019-01-08">
+<author pid="19/5995">Thanasis Balafoutis</author>
+<author pid="63/8396">Anastasia Paparrizou</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Improving the Performance of maxRPC.</title>
+<pages>69-83</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_9</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#BalafoutisPSW10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Beck10" mdate="2017-05-17">
+<author pid="43/2165">J. Christopher Beck</author>
+<title>Checking-Up on Branch-and-Check.</title>
+<pages>84-98</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_10</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#Beck10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BentH10" mdate="2017-06-15">
+<author orcid="0000-0002-7300-151X" pid="93/1110">Russell Bent</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Spatial, Temporal, and Hybrid Decompositions for Large-Scale Vehicle Routing with Time Windows.</title>
+<pages>99-113</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_11</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#BentH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BessiereKNQW10" mdate="2021-04-09">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="61/6509">George Katsirelos</author>
+<author pid="87/3366">Nina Narodytska</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Decomposition of the NValue Constraint.</title>
+<pages>114-128</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_12</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#BessiereKNQW10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CambazardO10" mdate="2018-11-02">
+<author pid="74/6721">Hadrien Cambazard</author>
+<author orcid="0000-0002-0090-2085" pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Propagating the Bin Packing Constraint Using Linear Programming.</title>
+<pages>129-136</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_13</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#CambazardO10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChabertB10" mdate="2017-05-17">
+<author pid="89/1246">Gilles Chabert</author>
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<title>Sweeping with Continuous Domains.</title>
+<pages>137-151</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_14</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#ChabertB10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CooperZ10" mdate="2020-08-03">
+<author orcid="0000-0003-4853-053X" pid="04/5623">Martin C. Cooper</author>
+<author pid="z/StanislavZivny">Stanislav Zivn&#253;</author>
+<title>A New Hybrid Tractable Class of Soft Constraint Problems.</title>
+<pages>152-166</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_15</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#CooperZ10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PaluMW10" mdate="2017-06-02">
+<author orcid="0000-0003-0353-158X" pid="p/AlessandroDalPalu">Alessandro Dal Pal&#249;</author>
+<author pid="63/660">Mathias M&#246;hl</author>
+<author pid="04/2389">Sebastian Will</author>
+<title>A Propagator for Maximum Weight String Alignment with Arbitrary Pairwise Dependencies.</title>
+<pages>167-175</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_16</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#PaluMW10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DaviesCB10" mdate="2017-05-17">
+<author pid="49/4230">Jessica Davies</author>
+<author pid="32/8779">Jeremy Cho</author>
+<author pid="b/FahiemBacchus">Fahiem Bacchus</author>
+<title>Using Learnt Clauses in maxsat.</title>
+<pages>176-190</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_17</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#DaviesCB10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DevilleH10" mdate="2017-05-17">
+<author pid="13/1302">Yves Deville</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Domain Consistency with Forbidden Values.</title>
+<pages>191-205</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_18</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#DevilleH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentJMN10" mdate="2017-06-02">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Generating Special-Purpose Stateless Propagators for Arbitrary Constraints.</title>
+<pages>206-220</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_19</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#GentJMN10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GoldsztejnMEH10" mdate="2019-06-02">
+<author orcid="0000-0002-6561-5888" pid="g/AlexandreGoldsztejn">Alexandre Goldsztejn</author>
+<author pid="50/8779">Olivier Mullier</author>
+<author orcid="0000-0002-8162-7360" pid="23/1110">Damien Eveillard</author>
+<author pid="13/2286">Hiroshi Hosobe</author>
+<title>Including Ordinary Differential Equations Based Constraints in the Standard CP Framework.</title>
+<pages>221-235</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_20</ee>
+<ee>https://www.wikidata.org/entity/Q63952416</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#GoldsztejnMEH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GrecoS10" mdate="2017-06-02">
+<author pid="17/1770">Gianluigi Greco</author>
+<author orcid="0000-0001-7765-1563" pid="71/3711">Francesco Scarcello</author>
+<title>Structural Tractability of Enumerating CSP Solutions.</title>
+<pages>236-251</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_21</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#GrecoS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GuoHJS10" mdate="2017-05-17">
+<author pid="45/642">Long Guo</author>
+<author pid="16/6871">Youssef Hamadi</author>
+<author pid="35/2227">Sa&#239;d Jabbour</author>
+<author pid="s/LakhdarSais">Lakhdar Sais</author>
+<title>Diversification and Intensification in Parallel SAT Solving.</title>
+<pages>252-265</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_22</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#GuoHJS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HodaHH10" mdate="2017-05-17">
+<author pid="41/952">Samid Hoda</author>
+<author pid="61/5378">Willem Jan van Hoeve</author>
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<title>A Systematic Approach to MDD-Based Constraint Programming.</title>
+<pages>266-280</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_23</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#HodaHH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JainOS10" mdate="2021-02-18">
+<author pid="81/8212-1">Siddhartha Jain 0001</author>
+<author pid="18/1139">Eoin O'Mahony</author>
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<title>A Complete Multi-valued SAT Solver.</title>
+<pages>281-296</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_24</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#JainOS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JunttilaK10" mdate="2017-05-17">
+<author pid="j/TommiAJunttila">Tommi A. Junttila</author>
+<author pid="41/6988">Petteri Kaski</author>
+<title>Exact Cover via Satisfiability: An Empirical Study.</title>
+<pages>297-304</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_25</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#JunttilaK10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KatsirelosNW10" mdate="2017-05-17">
+<author pid="61/6509">George Katsirelos</author>
+<author pid="87/3366">Nina Narodytska</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>On the Complexity and Completeness of Static Constraints for Breaking Row and Column Symmetry.</title>
+<pages>305-320</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_26</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#KatsirelosNW10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KotthoffMN10" mdate="2021-10-14">
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Ensemble Classification for Constraint Solver Configuration.</title>
+<pages>321-329</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_27</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#KotthoffMN10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LazaarGL10" mdate="2020-10-25">
+<author orcid="0000-0003-2524-9462" pid="17/8149">Nadjib Lazaar</author>
+<author pid="45/6358">Arnaud Gotlieb</author>
+<author orcid="0000-0003-4736-2976" pid="25/423">Yahia Lebbah</author>
+<title>On Testing Constraint Programs.</title>
+<pages>330-344</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_28</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#LazaarGL10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Madelaine10" mdate="2018-11-02">
+<author orcid="0000-0002-8528-7105" pid="54/937">Florent R. Madelaine</author>
+<title>On the Containment of Forbidden Patterns Problems.</title>
+<pages>345-359</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_29</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#Madelaine10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MarreM10" mdate="2017-05-17">
+<author pid="88/5648">Bruno Marre</author>
+<author pid="82/3696">Claude Michel</author>
+<title>Improving the Floating Point Addition and Subtraction Constraints.</title>
+<pages>360-367</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_30</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#MarreM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Martin10" mdate="2017-05-17">
+<author pid="00/757">Barnaby Martin</author>
+<title>The Lattice Structure of Sets of Surjective Hyper-Operations.</title>
+<pages>368-382</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_31</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#Martin10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LombardiM10" mdate="2017-06-02">
+<author orcid="0000-0003-4709-8888" pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>Constraint Based Scheduling to Deal with Uncertain Durations and Self-Timed Execution.</title>
+<pages>383-397</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_32</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#LombardiM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PetkeJ10" mdate="2021-04-09">
+<author orcid="0000-0002-7833-6044" pid="23/8779">Justyna Petke</author>
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<title>Local Consistency and SAT-Solvers.</title>
+<pages>398-413</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_33</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#PetkeJ10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Rintanen10" mdate="2021-10-14">
+<author orcid="0000-0001-5983-0074" pid="65/3601">Jussi Rintanen</author>
+<title>Heuristics for Planning with SAT.</title>
+<pages>414-428</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_34</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#Rintanen10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Schreiber10" mdate="2017-05-17">
+<author pid="76/1753">Yevgeny Schreiber</author>
+<title>Value-Ordering Heuristics: Search Performance vs. Solution Diversity.</title>
+<pages>429-444</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_35</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#Schreiber10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SchuttW10" mdate="2019-10-19">
+<author orcid="0000-0001-5452-4086" pid="82/2883">Andreas Schutt</author>
+<author orcid="0000-0003-3940-0792" pid="w/ArminWolf">Armin Wolf</author>
+<title>A New <i>O</i>(<i>n</i><sup>2</sup>log<i>n</i>) Not-First/Not-Last Pruning Algorithm for Cumulative Resource Constraints.</title>
+<pages>445-459</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_36</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#SchuttW10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SimonisDFMQC10" mdate="2022-04-19">
+<author pid="30/449">Helmut Simonis</author>
+<author pid="84/1991">Paul Davern</author>
+<author pid="51/5613">Jacob Feldman</author>
+<author pid="59/139">Deepak Mehta 0001</author>
+<author pid="q/LuisQuesada">Luis Quesada 0001</author>
+<author pid="c/MCarlsson">Mats Carlsson</author>
+<title>A Generic Visualization Platform for CP.</title>
+<pages>460-474</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_37</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#SimonisDFMQC10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CateKT10" mdate="2017-05-17">
+<author pid="91/5696">Balder ten Cate</author>
+<author pid="k/PGKolaitis">Phokion G. Kolaitis</author>
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<title>Database Constraints and Homomorphism Dualities.</title>
+<pages>475-490</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_38</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#CateKT10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TrombettoniPCP10" mdate="2017-05-17">
+<author pid="55/2812">Gilles Trombettoni</author>
+<author pid="29/5645">Yves Papegay</author>
+<author pid="89/1246">Gilles Chabert</author>
+<author pid="21/600">Odile Pourtallier</author>
+<title>A Box-Consistency Contractor Based on Extremal Functions.</title>
+<pages>491-498</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_39</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#TrombettoniPCP10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/YipH10" mdate="2017-05-17">
+<author pid="y/JustinYip">Justin Yip</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Exponential Propagation for Set Variables.</title>
+<pages>499-513</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_40</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#YipH10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AhmadizadehDGS10" mdate="2019-10-19">
+<author pid="26/5883">Kiyan Ahmadizadeh</author>
+<author orcid="0000-0002-6784-473X" pid="30/5718">Bistra Dilkina</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<author pid="13/154">Ashish Sabharwal</author>
+<title>An Empirical Study of Optimization for Maximizing Diffusion in Networks.</title>
+<pages>514-521</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_41</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#AhmadizadehDGS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/0002BBGHS10" mdate="2017-05-17">
+<author pid="b/AndreasBauer2">Andreas Bauer 0002</author>
+<author pid="74/4513">Viorica Botea</author>
+<author pid="33/3251">Mark Brown</author>
+<author pid="26/8779">Matt Gray</author>
+<author pid="83/8778">Daniel Harabor</author>
+<author pid="s/JohnKSlaney">John K. Slaney</author>
+<title>An Integrated Modelling, Debugging, and Visualisation Environment for G12.</title>
+<pages>522-536</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_42</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#0002BBGHS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KaratasOD10" mdate="2020-12-29">
+<author pid="172/8712">Ahmet Serkan Karatas</author>
+<author orcid="0000-0001-9928-0441" pid="59/5190">Halit Oguzt&#252;z&#252;n</author>
+<author pid="30/377">Ali H. Dogru</author>
+<title>Global Constraints on Feature Models.</title>
+<pages>537-551</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_43</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#KaratasOD10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KhiariBC10" mdate="2017-05-17">
+<author pid="80/7831">Mehdi Khiari</author>
+<author pid="29/2067">Patrice Boizumault</author>
+<author pid="c/BrunoCremilleux">Bruno Cr&#233;milleux</author>
+<title>Constraint Programming for Mining n-ary Patterns.</title>
+<pages>552-567</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_44</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#KhiariBC10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KrogtFLS10" mdate="2020-04-28">
+<author pid="37/1281">Roman van der Krogt</author>
+<author pid="51/5613">Jacob Feldman</author>
+<author pid="91/4932-2">James Little 0002</author>
+<author pid="58/7399">David Stynes</author>
+<title>An Integrated Business Rules and Constraints Approach to Data Centre Capacity Management.</title>
+<pages>568-582</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_45</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#KrogtFLS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LesaintMOQW10" mdate="2022-12-07">
+<author pid="90/3690">David Lesaint</author>
+<author pid="59/139">Deepak Mehta 0001</author>
+<author orcid="0000-0002-0090-2085" pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<author pid="q/LuisQuesada">Luis Quesada 0001</author>
+<author orcid="0000-0003-1874-8255" pid="00/3956">Nic Wilson</author>
+<title>Context-Sensitive Call Control Using Constraints and Rules.</title>
+<pages>583-597</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_46</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#LesaintMOQW10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MichelSSH10" mdate="2021-07-25">
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<author orcid="0000-0003-4447-3267" pid="s/AlexanderAShvartsman">Alexander A. Shvartsman</author>
+<author pid="56/3527">Elaine L. Sonderegger</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Load Balancing and Almost Symmetries for RAMBO Quorum Hosting.</title>
+<pages>598-612</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_47</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#MichelSSH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LozanoSW10" mdate="2017-12-26">
+<author pid="38/8779">Roberto Casta&#241;eda Lozano</author>
+<author pid="s/ChristianSchulte">Christian Schulte 0001</author>
+<author pid="47/8779">Lars Wahlberg</author>
+<title>Testing Continuous Double Auctions with a Constraint-Based Oracle.</title>
+<pages>613-627</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_48</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#LozanoSW10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SoulignacRT10" mdate="2017-05-17">
+<author pid="87/3375">Micha&#235;l Soulignac</author>
+<author pid="r/MichelRueher">Michel Rueher</author>
+<author pid="61/5943">Patrick Taillibert</author>
+<title>A Safe and Flexible CP-Based Approach for Velocity Tuning Problems.</title>
+<pages>628-642</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_49</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#SoulignacRT10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BlomdahlFP10" mdate="2018-11-14">
+<author pid="92/8778">Karl Sundequist Blomdahl</author>
+<author orcid="0000-0001-8730-4098" pid="08/4454">Pierre Flener</author>
+<author pid="50/4914">Justin Pearson</author>
+<title>Contingency Plans for Air Traffic Management.</title>
+<pages>643-657</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_50</ee>
+<ee>https://www.wikidata.org/entity/Q57574254</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#BlomdahlFP10</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,1379 @@
+<bht key="db/journals/tcc/tcc7.bht" title="IEEE Transactions on Cloud Computing, Volume 7"> 
+<h1><ref href="db/journals/tcc/index.html">IEEE Transactions on Cloud Computing</ref>, Volume 7</h1> 
+<h2>Volume 7, Number 1, January - March 2019</h2> <dblpcites><r style="ee"><article key="journals/tcc/Lei19" mdate="2020-06-21">
+<author pid="l/HuiLei">Hui Lei 0001</author>
+<title>TCC: State of the Transactions.</title>
+<pages>1-4</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2019.2892015</ee>
+<url>db/journals/tcc/tcc7.html#Lei19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/GuanGB19" mdate="2020-06-21">
+<author orcid="0000-0003-3716-6402" pid="174/6748">Shichao Guan</author>
+<author orcid="0000-0001-9448-2036" pid="72/6645">Robson Eduardo De Grande</author>
+<author orcid="0000-0002-3851-9938" pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<title>A Multi-Layered Scheme for Distributed Simulations on the Cloud Environment.</title>
+<pages>5-18</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2453945</ee>
+<url>db/journals/tcc/tcc7.html#GuanGB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/SiposHLPFC19" mdate="2020-06-21">
+<author orcid="0000-0003-4671-938X" pid="150/6322">Marton Sipos</author>
+<author pid="05/3216">Janus Heide</author>
+<author orcid="0000-0001-5325-8863" pid="96/3518">Daniel E. Lucani</author>
+<author pid="82/7292">Morten Videb&#230;k Pedersen</author>
+<author pid="f/FHPFitzek">Frank H. P. Fitzek</author>
+<author pid="58/3550">Hassan Charaf</author>
+<title>Adaptive Network Coded Clouds: High Speed Downloads and Cost-Effective Version Control.</title>
+<pages>19-33</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2481433</ee>
+<url>db/journals/tcc/tcc7.html#SiposHLPFC19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/Garcia-DoradoR19" mdate="2020-06-21">
+<author orcid="0000-0002-7606-7311" pid="31/2952">Jos&#233; Luis Garc&#237;a-Dorado</author>
+<author pid="r/SanjayGRao">Sanjay G. Rao</author>
+<title>Cost-aware Multi Data-Center Bulk Transfers in the Cloud from a Customer-Side Perspective.</title>
+<pages>34-47</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2469666</ee>
+<url>db/journals/tcc/tcc7.html#Garcia-DoradoR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/AlhamazaniRJMLR19" mdate="2022-12-30">
+<author pid="126/0574">Khalid Alhamazani</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<author orcid="0000-0003-4500-3443" pid="63/5509">Prem Prakash Jayaraman</author>
+<author orcid="0000-0003-3489-7429" pid="92/7791">Karan Mitra</author>
+<author pid="52/5716-1">Chang Liu 0001</author>
+<author pid="63/1104">Fethi A. Rabhi</author>
+<author orcid="0000-0001-7880-2140" pid="82/2760">Dimitrios Georgakopoulos</author>
+<author orcid="0000-0003-2766-0845" pid="w/LizheWang">Lizhe Wang 0001</author>
+<title>Cross-Layer Multi-Cloud Real-Time Application QoS Monitoring and Benchmarking As-a-Service Framework.</title>
+<pages>48-61</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2441715</ee>
+<url>db/journals/tcc/tcc7.html#AlhamazaniRJMLR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/GenezBFM19" mdate="2020-10-26">
+<author orcid="0000-0003-2825-8639" pid="26/11528">Thiago A. L. Genez</author>
+<author pid="76/6740">Luiz F. Bittencourt</author>
+<author orcid="0000-0003-2046-602X" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</author>
+<author pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<title>Estimation of the Available Bandwidth in Inter-Cloud Links for Task Scheduling in Hybrid Clouds.</title>
+<pages>62-74</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2469650</ee>
+<url>db/journals/tcc/tcc7.html#GenezBFM19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/CohenP19" mdate="2020-06-21">
+<author orcid="0000-0001-9189-4107" pid="17/6007">Reuven Cohen</author>
+<author orcid="0000-0002-5260-7811" pid="79/8472">Gleb Polevoy</author>
+<title>Inter-Datacenter Scheduling of Large Data Flows.</title>
+<pages>75-88</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2487964</ee>
+<url>db/journals/tcc/tcc7.html#CohenP19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ChatterjeeMK19" mdate="2020-06-21">
+<author pid="139/7927">Subarna Chatterjee</author>
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<author pid="k/SameeUllahKhan">Samee U. Khan</author>
+<title>Optimal Data Center Scheduling for Quality of Service Management in Sensor-Cloud.</title>
+<pages>89-101</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2487973</ee>
+<url>db/journals/tcc/tcc7.html#ChatterjeeMK19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/DasKMO19" mdate="2020-06-21">
+<author pid="149/1467">Snigdha Das</author>
+<author pid="125/1666">Manas Khatua</author>
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<author pid="91/2882">Mohammad S. Obaidat</author>
+<title>Quality-Assured Secured Load Sharing in Mobile Cloud Networking Environment.</title>
+<pages>102-115</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2457416</ee>
+<url>db/journals/tcc/tcc7.html#DasKMO19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/WangWDB19" mdate="2020-06-21">
+<author pid="129/0990">Jason Min Wang</author>
+<author pid="94/3104-4">Ying Wang 0004</author>
+<author pid="146/8022">Xiangming Dai</author>
+<author pid="b/BrahimBensaou">Brahim Bensaou</author>
+<title>SDN-Based Multi-Class QoS Guarantee in Inter-Data Center Communications.</title>
+<pages>116-128</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2491930</ee>
+<url>db/journals/tcc/tcc7.html#WangWDB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/TanzilGK19" mdate="2020-06-21">
+<author orcid="0000-0003-1547-034X" pid="146/8089">S. M. Shahrear Tanzil</author>
+<author pid="35/8759">Omid Namvar Gharehshiran</author>
+<author pid="01/1516">Vikram Krishnamurthy</author>
+<title>A Distributed Coalition Game Approach to Femto-Cloud Formation.</title>
+<pages>129-140</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2594175</ee>
+<url>db/journals/tcc/tcc7.html#TanzilGK19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/MukherjeeDR19" mdate="2020-06-21">
+<author orcid="0000-0001-9110-8591" pid="125/7690">Anwesha Mukherjee</author>
+<author orcid="0000-0002-9688-9806" pid="26/5592">Debashis De</author>
+<author pid="185/6098">Deepsubhra Guha Roy</author>
+<title>A Power and Latency Aware Cloudlet Selection Strategy for Multi-Cloudlet Environment.</title>
+<pages>141-154</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2586061</ee>
+<url>db/journals/tcc/tcc7.html#MukherjeeDR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/HuangKSS19" mdate="2020-06-21">
+<author pid="49/7883">Tingshan Huang</author>
+<author orcid="0000-0002-4224-6362" pid="63/6537">Nagarajan Kandasamy</author>
+<author orcid="0000-0002-0724-0707" pid="94/5606">Harish Sethu</author>
+<author orcid="0000-0002-3986-4039" pid="77/4225">Matthew C. Stamm</author>
+<title>An Efficient Strategy for Online Performance Monitoring of Datacenters via Adaptive Sampling.</title>
+<pages>155-169</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2603473</ee>
+<url>db/journals/tcc/tcc7.html#HuangKSS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/VargheseAMTB19" mdate="2020-06-21">
+<author orcid="0000-0001-8392-832X" pid="32/7786">Blesson Varghese</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="153/1806">Long Thai</author>
+<author pid="24/1959">Adam Barker</author>
+<title>Cloud Benchmarking for Maximising Performance of Scientific Applications.</title>
+<pages>170-182</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2603476</ee>
+<url>db/journals/tcc/tcc7.html#VargheseAMTB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ChardB19" mdate="2020-06-21">
+<author orcid="0000-0002-7370-4805" pid="10/6661">Kyle Chard</author>
+<author orcid="0000-0003-4315-8337" pid="56/1124">Kris Bubendorfer</author>
+<title>Co-Operative Resource Allocation: Building an Open Cloud Market Using Shared Infrastructure.</title>
+<pages>183-195</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2594174</ee>
+<url>db/journals/tcc/tcc7.html#ChardB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ShojafarCB19" mdate="2022-10-02">
+<author orcid="0000-0003-3284-5086" pid="06/8812">Mohammad Shojafar</author>
+<author orcid="0000-0003-2021-835X" pid="34/1445">Nicola Cordeschi</author>
+<author orcid="0000-0002-9791-7901" pid="60/2171">Enzo Baccarelli</author>
+<title>Energy-Efficient Adaptive Resource Management for Real-Time Vehicular Cloud Services.</title>
+<pages>196-209</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2551747</ee>
+<url>db/journals/tcc/tcc7.html#ShojafarCB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/PiroABCGMR19" mdate="2020-06-21">
+<author orcid="0000-0003-3783-5565" pid="55/7732">Giuseppe Piro</author>
+<author pid="35/8141">Marica Amadeo</author>
+<author pid="73/6219">Gennaro Boggia</author>
+<author orcid="0000-0003-3281-6680" pid="25/642">Claudia Campolo</author>
+<author orcid="0000-0002-3443-6924" pid="23/4819">Luigi Alfredo Grieco</author>
+<author pid="11/4677">Antonella Molinaro</author>
+<author pid="00/6158">Giuseppe Ruggeri</author>
+<title>Gazing into the Crystal Ball: When the Future Internet Meets the Mobile Clouds.</title>
+<pages>210-223</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2573307</ee>
+<url>db/journals/tcc/tcc7.html#PiroABCGMR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/GeorgeCSX19" mdate="2020-06-21">
+<author pid="154/8217">Johnu George</author>
+<author pid="82/1986">Chien-An Chen</author>
+<author orcid="0000-0003-3976-4502" pid="05/4670">Radu Stoleru</author>
+<author pid="96/5793">Geoffrey G. Xie</author>
+<title>Hadoop MapReduce for Mobile Clouds.</title>
+<pages>224-236</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2603474</ee>
+<ee>https://www.wikidata.org/entity/Q57459093</ee>
+<url>db/journals/tcc/tcc7.html#GeorgeCSX19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/BenbrahimQB19" mdate="2020-06-21">
+<author orcid="0000-0002-9422-9222" pid="160/4876">Salah-Eddine Benbrahim</author>
+<author orcid="0000-0003-0917-8027" pid="73/5806">Alejandro Quintero</author>
+<author pid="06/7909">Martine Bella&#239;che</author>
+<title>Live Placement of Interdependent Virtual Machines to Optimize Cloud Service Profits and Penalties on SLAs.</title>
+<pages>237-249</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2603506</ee>
+<url>db/journals/tcc/tcc7.html#BenbrahimQB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/QiuDV19" mdate="2021-04-09">
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<author pid="139/8000">Wenyun Dai</author>
+<author orcid="0000-0003-1902-9877" pid="40/4747">Athanasios V. Vasilakos</author>
+<title>Loop Parallelism Maximization for Multimedia Data Processing in Mobile Vehicular Clouds.</title>
+<pages>250-258</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2607708</ee>
+<url>db/journals/tcc/tcc7.html#QiuDV19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/CorradiDFKLM19" mdate="2022-01-12">
+<author orcid="0000-0002-5107-1023" pid="90/2390">Antonio Corradi</author>
+<author pid="237/2727">Marco Destro</author>
+<author orcid="0000-0001-9062-3647" pid="11/2127">Luca Foschini 0001</author>
+<author pid="24/5546">Spyros Kotoulas</author>
+<author pid="89/900">Vanessa L&#243;pez</author>
+<author orcid="0000-0002-3687-0361" pid="38/5309">Rebecca Montanari</author>
+<title>Mobile Cloud Support for Semantic-Enriched Speech Recognition in Social Care.</title>
+<pages>259-272</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2570757</ee>
+<url>db/journals/tcc/tcc7.html#CorradiDFKLM19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ChenYLX19" mdate="2020-06-21">
+<author orcid="0000-0001-9280-9461" pid="66/6320-9">Qi Chen 0009</author>
+<author pid="168/2591">Jinyu Yao</author>
+<author pid="209/9982">Benchao Li</author>
+<author pid="39/3878">Zhen Xiao</author>
+<title>PISCES: Optimizing Multi-Job Application Execution in MapReduce.</title>
+<pages>273-286</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2603509</ee>
+<url>db/journals/tcc/tcc7.html#ChenYLX19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/KhojastehMM19" mdate="2020-06-21">
+<author pid="97/8735">Haleh Khojasteh</author>
+<author orcid="0000-0002-1251-3730" pid="m/JVMisic">Jelena V. Misic</author>
+<author orcid="0000-0001-7760-9920" pid="62/76">Vojislav B. Misic</author>
+<title>Prioritization of Overflow Tasks to Improve Performance of Mobile Cloud.</title>
+<pages>287-297</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2535240</ee>
+<url>db/journals/tcc/tcc7.html#KhojastehMM19</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 7, Number 2, April - June 2019</h2> <dblpcites><r style="ee"><article key="journals/tcc/FohSWKCB19" mdate="2021-07-25">
+<author pid="17/6484">Chuan Heng Foh</author>
+<author pid="09/1571">Satish Narayana Srirama</author>
+<author orcid="0000-0003-4720-5946" pid="84/1733-1">Jinsong Wu 0001</author>
+<author pid="33/3823">Burak Kantarci</author>
+<author orcid="0000-0003-2366-1365" pid="45/1358">Periklis Chatzimisios</author>
+<author pid="29/5366">Elhadj Benkhelifa</author>
+<title>Guest Editors' Introduction: Special Section on Mobile Cloud Computing.</title>
+<pages>298-300</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2018.2809260</ee>
+<url>db/journals/tcc/tcc7.html#FohSWKCB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/MahmoodiUS19" mdate="2020-06-21">
+<author orcid="0000-0001-5468-379X" pid="88/10517">S. Eman Mahmoodi</author>
+<author pid="06/2429">R. N. Uma</author>
+<author pid="s/KPSubbalakshmi">K. P. Subbalakshmi</author>
+<title>Optimal Joint Scheduling and Cloud Offloading for Mobile Applications.</title>
+<pages>301-313</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2560808</ee>
+<url>db/journals/tcc/tcc7.html#MahmoodiUS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ToutTKM19" mdate="2020-06-21">
+<author pid="118/7560">Hanine Tout</author>
+<author pid="63/6619">Chamseddine Talhi</author>
+<author pid="60/5323">Nadjia Kara</author>
+<author orcid="0000-0001-9434-5322" pid="34/4038">Azzam Mourad</author>
+<title>Selective Mobile Cloud Offloading to Augment Multi-Persona Performance and Viability.</title>
+<pages>314-328</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2535223</ee>
+<url>db/journals/tcc/tcc7.html#ToutTKM19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/FernandoLR19" mdate="2020-06-21">
+<author orcid="0000-0003-3668-1242" pid="62/10788">Niroshinie Fernando</author>
+<author pid="l/SengWaiLoke">Seng W. Loke</author>
+<author pid="28/5654">Wenny Rahayu</author>
+<title>Computing with Nearby Mobile Devices: A Work Sharing Algorithm for Mobile Edge-Clouds.</title>
+<pages>329-343</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2560163</ee>
+<url>db/journals/tcc/tcc7.html#FernandoLR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/YaoYYJ19" mdate="2020-06-21">
+<author orcid="0000-0003-0336-0522" pid="93/5633-2">Dezhong Yao 0002</author>
+<author pid="98/4839-3">Chen Yu 0003</author>
+<author orcid="0000-0002-7986-4244" pid="y/LaurenceTianruoYang">Laurence T. Yang</author>
+<author orcid="0000-0002-3934-7605" pid="98/4156">Hai Jin 0001</author>
+<title>Using Crowdsourcing to Provide QoS for Mobile Cloud Computing.</title>
+<pages>344-356</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2015.2513390</ee>
+<url>db/journals/tcc/tcc7.html#YaoYYJ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/JiaHRLL19" mdate="2020-08-25">
+<author pid="57/8298">Gangyong Jia</author>
+<author orcid="0000-0002-6921-7369" pid="32/4821">Guangjie Han</author>
+<author orcid="0000-0001-8657-3800" pid="25/3419">Joel J. P. C. Rodrigues</author>
+<author orcid="0000-0002-0862-0533" pid="l/JaimeLloret">Jaime Lloret 0001</author>
+<author pid="64/6025-64">Wei Li 0064</author>
+<title>Coordinate Memory Deduplication and Partition for Improving Performance in Cloud Computing.</title>
+<pages>357-368</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2015.2511738</ee>
+<url>db/journals/tcc/tcc7.html#JiaHRLL19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/TalebKF19" mdate="2020-06-21">
+<author orcid="0000-0003-1119-1239" pid="09/3053">Tarik Taleb</author>
+<author pid="37/6589">Adlen Ksentini</author>
+<author orcid="0000-0001-6901-7714" pid="24/4899">Pantelis A. Frangoudis</author>
+<title>Follow-Me Cloud: When Cloud Services Follow Mobile Users.</title>
+<pages>369-382</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2525987</ee>
+<url>db/journals/tcc/tcc7.html#TalebKF19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/XieWWJM19" mdate="2020-06-21">
+<author pid="157/9682">Yuanpeng Xie</author>
+<author orcid="0000-0002-0073-6101" pid="94/5572">Hong Wen</author>
+<author pid="98/4432-2">Bin Wu 0002</author>
+<author pid="26/5034">Yixin Jiang</author>
+<author pid="160/2944">Jiaxiao Meng</author>
+<title>A Modified Hierarchical Attribute-Based Encryption Access Control Method for Mobile Cloud Computing.</title>
+<pages>383-391</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2015.2513388</ee>
+<url>db/journals/tcc/tcc7.html#XieWWJM19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/BourdenaMMRD19" mdate="2020-06-21">
+<author pid="64/9246">Athina Bourdena</author>
+<author orcid="0000-0003-0333-8034" pid="m/ConstandinosXMavromoustakis">Constandinos X. Mavromoustakis</author>
+<author orcid="0000-0002-6733-5652" pid="97/2016">George Mastorakis</author>
+<author orcid="0000-0001-8657-3800" pid="25/3419">Joel J. P. C. Rodrigues</author>
+<author orcid="0000-0003-4638-7725" pid="39/3222">Ciprian Dobre</author>
+<title>Using Socio-Spatial Context in Mobile Cloud Process Offloading for Energy Conservation in Wireless Devices.</title>
+<pages>392-402</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2015.2511736</ee>
+<url>db/journals/tcc/tcc7.html#BourdenaMMRD19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/Al-DulaimiAN19" mdate="2020-06-21">
+<author pid="92/7742">Anwer Al-Dulaimi</author>
+<author orcid="0000-0003-3293-904X" pid="54/9607">Saba Al-Rubaye</author>
+<author orcid="0000-0002-4593-1656" pid="87/3074">Qiang Ni</author>
+<title>Energy Efficiency Using Cloud Management of LTE Networks Employing Fronthaul and Virtualized Baseband Processing Pool.</title>
+<pages>403-414</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2564405</ee>
+<url>db/journals/tcc/tcc7.html#Al-DulaimiAN19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ShenYCCS19" mdate="2021-07-31">
+<author pid="151/6658">Wenlong Shen</author>
+<author orcid="0000-0001-9574-7032" pid="98/3612-1">Bo Yin 0001</author>
+<author orcid="0000-0002-6771-0571" pid="28/531">Xianghui Cao</author>
+<author orcid="0000-0002-4837-3370" pid="96/3060-3">Yu Cheng 0003</author>
+<author pid="s/XueminShen">Xuemin Shen</author>
+<title>A Distributed Secure Outsourcing Scheme for Solving Linear Algebraic Equations in Ad Hoc Clouds.</title>
+<pages>415-430</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2647718</ee>
+<url>db/journals/tcc/tcc7.html#ShenYCCS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/JiangMLL19" mdate="2020-06-21">
+<author orcid="0000-0002-2199-0301" pid="127/2907">Jingjie Jiang</author>
+<author orcid="0000-0002-9013-789X" pid="183/1810">Shiyao Ma</author>
+<author pid="50/3402-1">Bo Li 0001</author>
+<author orcid="0000-0003-2404-0974" pid="l/BaochunLi">Baochun Li</author>
+<title>Adia: Achieving High Link Utilization with Coflow-Aware Scheduling in Data Center Networks.</title>
+<pages>431-441</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2628891</ee>
+<url>db/journals/tcc/tcc7.html#JiangMLL19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/Sim19" mdate="2020-06-21">
+<author orcid="0000-0001-8618-2957" pid="96/6844">Kwang Mong Sim</author>
+<title>Agent-Based Approaches for Intelligent Intercloud Resource Allocation.</title>
+<pages>442-455</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2628375</ee>
+<url>db/journals/tcc/tcc7.html#Sim19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/EmerasVPB19" mdate="2021-07-25">
+<author orcid="0000-0003-1536-2488" pid="145/1001">Joseph Emeras</author>
+<author orcid="0000-0001-9011-851X" pid="84/4601">S&#233;bastien Varrette</author>
+<author orcid="0000-0003-2810-9238" pid="135/0119">Valentin Plugaru</author>
+<author orcid="0000-0001-9338-2834" pid="b/PascalBouvry">Pascal Bouvry</author>
+<title>Amazon Elastic Compute Cloud (EC2) versus In-House HPC Platform: A Cost Analysis.</title>
+<pages>456-468</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2628371</ee>
+<url>db/journals/tcc/tcc7.html#EmerasVPB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/DasKM19" mdate="2020-06-21">
+<author orcid="0000-0001-5801-7196" pid="149/1467">Snigdha Das</author>
+<author pid="125/1666">Manas Khatua</author>
+<author orcid="0000-0002-2467-6414" pid="36/1023">Sudip Misra</author>
+<title>Cheating-Resilient Bandwidth Distribution in Mobile Cloud Computing.</title>
+<pages>469-482</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2638909</ee>
+<url>db/journals/tcc/tcc7.html#DasKM19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/LiLGMQZ19" mdate="2020-10-13">
+<author orcid="0000-0001-8495-5821" pid="22/2010-1">Wenxin Li 0001</author>
+<author orcid="0000-0003-1758-3030" pid="21/6280">Keqiu Li</author>
+<author orcid="0000-0003-4894-5540" pid="74/6501">Deke Guo</author>
+<author orcid="0000-0003-1395-7314" pid="96/3727">Geyong Min</author>
+<author orcid="0000-0002-8770-3934" pid="51/8017">Heng Qi</author>
+<author pid="40/4731">Jianhui Zhang</author>
+<title>Cost-Minimizing Bandwidth Guarantee for Inter-Datacenter Traffic.</title>
+<pages>483-494</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2629506</ee>
+<url>db/journals/tcc/tcc7.html#LiLGMQZ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/XiangACL19" mdate="2022-11-18">
+<author orcid="0000-0003-3894-8756" pid="00/6716-3">Yu Xiang 0003</author>
+<author orcid="0000-0001-9131-4723" pid="91/6560">Vaneet Aggarwal</author>
+<author pid="c/YihFarnChen">Yih-Farn Robin Chen</author>
+<author pid="31/83">Tian Lan</author>
+<title>Differentiated Latency in Data Center Networks with Erasure Coded Files Through Traffic Engineering.</title>
+<pages>495-508</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2017.2648785</ee>
+<url>db/journals/tcc/tcc7.html#XiangACL19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/DoyleGAA19" mdate="2020-10-26">
+<author orcid="0000-0003-1840-9616" pid="85/8856">Joseph Doyle</author>
+<author orcid="0000-0002-5277-6498" pid="87/7704">Vasileios Giotsas</author>
+<author pid="33/10825">Mohammad Ashraful Anam</author>
+<author orcid="0000-0002-2714-4800" pid="85/3071">Yiannis Andreopoulos</author>
+<title>Dithen: A Computation-as-a-Service Cloud Platform for Large-Scale Multimedia Processing.</title>
+<pages>509-523</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2617363</ee>
+<url>db/journals/tcc/tcc7.html#DoyleGAA19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/FarahnakianPLPH19" mdate="2022-04-09">
+<author orcid="0000-0002-7672-9346" pid="89/7666">Fahimeh Farahnakian</author>
+<author pid="90/790">Tapio Pahikkala</author>
+<author pid="22/660">Pasi Liljeberg</author>
+<author pid="37/5831">Juha Plosila</author>
+<author orcid="0000-0002-2157-2222" pid="03/10444">Nguyen Trung Hieu</author>
+<author orcid="0000-0003-1959-6513" pid="68/5555">Hannu Tenhunen</author>
+<title>Energy-Aware VM Consolidation in Cloud Data Centers Using Utilization Prediction Model.</title>
+<pages>524-536</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2617374</ee>
+<url>db/journals/tcc/tcc7.html#FarahnakianPLPH19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ChenHLS19" mdate="2020-09-03">
+<author orcid="0000-0003-1500-8948" pid="21/5521-10">Ying Chen 0010</author>
+<author orcid="0000-0001-5220-6703" pid="57/7478">Jiwei Huang</author>
+<author orcid="0000-0001-5272-3284" pid="53/2571-2">Chuang Lin 0002</author>
+<author pid="s/XueminShen">Xuemin Shen</author>
+<title>Multi-Objective Service Composition with QoS Dependencies.</title>
+<pages>537-552</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2607750</ee>
+<url>db/journals/tcc/tcc7.html#ChenHLS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/LiuXLSJS19" mdate="2020-08-24">
+<author pid="141/1951">Jiaqiang Liu</author>
+<author pid="225/8765">Shaoran Xiao</author>
+<author orcid="0000-0001-5617-1659" pid="93/2334-8">Yong Li 0008</author>
+<author orcid="0000-0001-5377-6628" pid="55/5450-1">Haoyu Song 0001</author>
+<author pid="46/5770">Depeng Jin</author>
+<author pid="05/365-1">Li Su 0001</author>
+<title>NetWatch: End-to-End Network Performance Measurement as a Service for Cloud.</title>
+<pages>553-567</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2016.2628366</ee>
+<url>db/journals/tcc/tcc7.html#LiuXLSJS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/YuanT19" mdate="2020-06-21">
+<author orcid="0000-0003-3447-0740" pid="03/11190">Jiawei Yuan</author>
+<author pid="192/9839">Yifan Tian</author>
+<title>Practical Privacy-Preserving MapReduce Based K-Means Clustering Over Large-Scale Dataset.</title>
+<pages>568-579</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2017.2656895</ee>
+<url>db/journals/tcc/tcc7.html#YuanT19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ZhangLQ19" mdate="2020-06-21">
+<author orcid="0000-0001-9539-1136" pid="21/1048-6">Peng Zhang 0006</author>
+<author pid="157/5934">Yueming Liu</author>
+<author pid="q/MeikangQiu">Meikang Qiu</author>
+<title>SNC: A Cloud Service Platform for Symbolic-Numeric Computation Using Just-In-Time Compilation.</title>
+<pages>580-592</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2017.2656088</ee>
+<url>db/journals/tcc/tcc7.html#ZhangLQ19</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 7, Number 3, July - September 2019</h2> <dblpcites><r style="ee"><article key="journals/tcc/XiongHWSJ19" mdate="2020-06-21">
+<author orcid="0000-0002-8672-0193" pid="92/3758">Yonghua Xiong</author>
+<author pid="147/1334">Suzhen Huang</author>
+<author orcid="0000-0002-0668-8315" pid="16/0-2">Min Wu 0002</author>
+<author orcid="0000-0003-3165-5045" pid="49/5166">Jinhua She</author>
+<author pid="29/5347">Keyuan Jiang</author>
+<title>A Johnson's-Rule-Based Genetic Algorithm for Two-Stage-Task Scheduling Problem in Data-Centers of Cloud Computing.</title>
+<pages>597-610</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2693187</ee>
+<url>db/journals/tcc/tcc7.html#XiongHWSJ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/HackerPR19" mdate="2020-06-21">
+<author orcid="0000-0002-7751-8217" pid="82/5321">Thomas J. Hacker</author>
+<author pid="94/1495">Rui Pais</author>
+<author orcid="0000-0002-8347-0539" pid="50/320">Chunming Rong</author>
+<title>A Markov Random Field Based Approach for Analyzing Supercomputer System Logs.</title>
+<pages>611-624</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2678473</ee>
+<url>db/journals/tcc/tcc7.html#HackerPR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ThakurB19" mdate="2022-10-02">
+<author orcid="0000-0001-6579-724X" pid="37/5501">Subhasis Thakur</author>
+<author orcid="0000-0001-5790-050X" pid="95/6661">John G. Breslin</author>
+<title>A Robust Reputation Management Mechanism in the Federated Cloud.</title>
+<pages>625-637</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2689020</ee>
+<ee>https://www.wikidata.org/entity/Q58195235</ee>
+<url>db/journals/tcc/tcc7.html#ThakurB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ZhangDZGCXO19" mdate="2020-08-19">
+<author orcid="0000-0002-6313-4407" pid="43/6524-1">Zijian Zhang 0001</author>
+<author orcid="0000-0002-2788-3451" pid="62/6234">Mianxiong Dong</author>
+<author orcid="0000-0003-3277-3887" pid="26/2546">Liehuang Zhu</author>
+<author pid="14/190">Zhitao Guan</author>
+<author pid="18/6696">Ruoyu Chen</author>
+<author orcid="0000-0002-6521-5534" pid="198/4329">Rixin Xu</author>
+<author orcid="0000-0002-3382-1652" pid="18/4822">Kaoru Ota</author>
+<title>Achieving Privacy-Friendly Storage and Secure Statistics for Smart Meter Data on Outsourced Clouds.</title>
+<pages>638-649</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2685583</ee>
+<url>db/journals/tcc/tcc7.html#ZhangDZGCXO19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/CanaliL19" mdate="2020-06-21">
+<author orcid="0000-0001-8448-7693" pid="c/ClaudiaCanali">Claudia Canali</author>
+<author orcid="0000-0002-9470-8784" pid="l/RiccardoLancellotti">Riccardo Lancellotti</author>
+<title>AGATE: Adaptive Gray Area-Based TEchnique to Cluster Virtual Machines with Similar Behavior.</title>
+<pages>650-663</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2664831</ee>
+<url>db/journals/tcc/tcc7.html#CanaliL19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/SunA19" mdate="2020-06-21">
+<author orcid="0000-0002-6954-7018" pid="94/2640-1">Xiang Sun 0001</author>
+<author orcid="0000-0001-8541-3565" pid="a/NirwanAnsari">Nirwan Ansari</author>
+<title>Adaptive Avatar Handoff in the Cloudlet Network.</title>
+<pages>664-676</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2701794</ee>
+<url>db/journals/tcc/tcc7.html#SunA19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/PahlBSJ19" mdate="2020-06-21">
+<author orcid="0000-0002-9049-212X" pid="48/4069">Claus Pahl</author>
+<author pid="b/AntonioBrogi">Antonio Brogi</author>
+<author orcid="0000-0002-2435-3543" pid="138/8241">Jacopo Soldani</author>
+<author orcid="0000-0002-9342-0703" pid="57/2301">Pooyan Jamshidi</author>
+<title>Cloud Container Technologies: A State-of-the-Art Review.</title>
+<pages>677-692</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2702586</ee>
+<url>db/journals/tcc/tcc7.html#PahlBSJ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/QiuDXX19" mdate="2020-06-21">
+<author pid="176/1097">Xiwei Qiu</author>
+<author pid="18/5175">Yuanshun Dai</author>
+<author orcid="0000-0002-9477-284X" pid="21/6849">Yanping Xiang</author>
+<author orcid="0000-0003-1606-1644" pid="81/6453">Liudong Xing</author>
+<title>Correlation Modeling and Resource Optimization for Cloud Service With Fault Recovery.</title>
+<pages>693-704</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2691323</ee>
+<url>db/journals/tcc/tcc7.html#QiuDXX19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/MansouriTB19" mdate="2020-06-21">
+<author orcid="0000-0001-8205-224X" pid="142/6415">Yaser Mansouri</author>
+<author orcid="0000-0001-5655-5337" pid="24/2372">Adel Nadjaran Toosi</author>
+<author orcid="0000-0001-9754-6496" pid="b/RajkumarBuyya">Rajkumar Buyya</author>
+<title>Cost Optimization for Dynamic Replication and Migration of Data in Cloud Data Centers.</title>
+<pages>705-718</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2659728</ee>
+<url>db/journals/tcc/tcc7.html#MansouriTB19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/EhsanCCS19" mdate="2020-06-21">
+<author orcid="0000-0002-0016-8343" pid="40/11537">Moussa Ehsan</author>
+<author pid="248/6540">Karthiek Chandrasekaran</author>
+<author pid="70/3621">Yao Chen</author>
+<author pid="s/RaduSion">Radu Sion</author>
+<title>Cost-Efficient Tasks and Data Co-Scheduling with AffordHadoop.</title>
+<pages>719-732</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2702661</ee>
+<url>db/journals/tcc/tcc7.html#EhsanCCS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/GuoPGF19" mdate="2022-01-28">
+<author orcid="0000-0003-2241-125X" pid="93/10800">Yuanxiong Guo</author>
+<author orcid="0000-0003-2138-4413" pid="16/1033">Miao Pan</author>
+<author orcid="0000-0002-1761-2834" pid="145/6503-1">Yanmin Gong 0001</author>
+<author orcid="0000-0002-1079-3871" pid="f/YuguangFang">Yuguang Fang</author>
+<title>Dynamic Multi-Tenant Coordination for Sustainable Colocation Data Centers.</title>
+<pages>733-743</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2698033</ee>
+<url>db/journals/tcc/tcc7.html#GuoPGF19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ZhangSHK19" mdate="2020-06-21">
+<author pid="21/3626-3">Fan Zhang 0003</author>
+<author pid="61/9079">Majd F. Sakr</author>
+<author pid="85/276-1">Kai Hwang 0001</author>
+<author pid="k/SameeUllahKhan">Samee U. Khan</author>
+<title>Empirical Discovery of Power-Law Distribution in MapReduce Scalability.</title>
+<pages>744-755</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2669320</ee>
+<url>db/journals/tcc/tcc7.html#ZhangSHK19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/CleggLGRHKSPW19" mdate="2020-06-21">
+<author orcid="0000-0001-7241-6679" pid="47/5557">Richard G. Clegg</author>
+<author pid="40/2410">Raul Landa</author>
+<author orcid="0000-0001-8077-8610" pid="42/7041">David Griffin 0001</author>
+<author pid="88/1966">Miguel Rio</author>
+<author pid="01/1377">Peter Hughes</author>
+<author pid="80/6613">Ian Kegel</author>
+<author pid="50/6042">Tim Stevens</author>
+<author pid="45/4887">Peter R. Pietzuch</author>
+<author pid="51/3003">Doug Williams</author>
+<title>Faces in the Clouds: Long-Duration, Multi-User, Cloud-Assisted Video Conferencing.</title>
+<pages>756-769</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2680440</ee>
+<url>db/journals/tcc/tcc7.html#CleggLGRHKSPW19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/NabavinejadG19" mdate="2020-06-21">
+<author orcid="0000-0002-5123-6318" pid="175/7611">Seyed Morteza Nabavinejad</author>
+<author orcid="0000-0002-1272-4589" pid="40/3527">Maziar Goudarzi</author>
+<title>Faster MapReduce Computation on Clouds Through Better Performance Estimation.</title>
+<pages>770-783</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2677906</ee>
+<url>db/journals/tcc/tcc7.html#NabavinejadG19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/FerreiraRLD19" mdate="2020-06-21">
+<author orcid="0000-0002-6956-0968" pid="145/9850">Bernardo Ferreira</author>
+<author pid="91/6627">Jo&#227;o Rodrigues</author>
+<author orcid="0000-0001-7916-980X" pid="38/5295">Jo&#227;o Leit&#227;o 0001</author>
+<author orcid="0000-0002-5536-7729" pid="146/0006">Henrique Domingos</author>
+<title>Practical Privacy-Preserving Content-Based Retrieval in Cloud Image Repositories.</title>
+<pages>784-798</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2669999</ee>
+<url>db/journals/tcc/tcc7.html#FerreiraRLD19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/JiangZGL19" mdate="2020-11-23">
+<author orcid="0000-0003-2823-1794" pid="132/7878">Shunrong Jiang</author>
+<author pid="50/1222-6">Xiaoyan Zhu 0006</author>
+<author orcid="0000-0002-3658-7435" pid="00/10800">Linke Guo</author>
+<author pid="59/3415">Jianqing Liu</author>
+<title>Publicly Verifiable Boolean Query Over Outsourced Encrypted Data.</title>
+<pages>799-813</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2684811</ee>
+<url>db/journals/tcc/tcc7.html#JiangZGL19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/CaiLR19" mdate="2020-06-21">
+<author pid="123/2595">Zhicheng Cai</author>
+<author orcid="0000-0003-3201-0038" pid="35/6350-1">Xiaoping Li 0001</author>
+<author orcid="0000-0003-3295-3888" pid="20/165">Rub&#233;n Ruiz</author>
+<title>Resource Provisioning for Task-Batch Based Workflows with Deadlines in Public Clouds.</title>
+<pages>814-826</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2663426</ee>
+<ee>https://www.wikidata.org/entity/Q58201992</ee>
+<url>db/journals/tcc/tcc7.html#CaiLR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/NassarMAS19" mdate="2021-07-25">
+<author orcid="0000-0001-8857-4436" pid="52/665">Mohamed Nassar 0001</author>
+<author orcid="0000-0003-2849-0569" pid="99/5275">Qutaibah M. Malluhi</author>
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author orcid="0000-0002-6479-3578" pid="24/4245">Abdullatif Shikfa</author>
+<title>Securing Aggregate Queries for DNA Databases.</title>
+<pages>827-837</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2682860</ee>
+<url>db/journals/tcc/tcc7.html#NassarMAS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/KarameSLC19" mdate="2020-06-21">
+<author orcid="0000-0002-2828-4071" pid="36/1531">Ghassan O. Karame</author>
+<author pid="57/1338">Claudio Soriente</author>
+<author pid="25/9709">Krzysztof Lichota</author>
+<author pid="51/1639">Srdjan Capkun</author>
+<title>Securing Cloud Data Under Key Exposure.</title>
+<pages>838-849</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2670559</ee>
+<url>db/journals/tcc/tcc7.html#KarameSLC19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ArtailSSHKMA19" mdate="2020-06-21">
+<author orcid="0000-0001-7648-1187" pid="09/3843">Hassan Artail</author>
+<author pid="07/6882">Mazen A. R. Saghir</author>
+<author orcid="0000-0001-7800-9441" pid="68/10372">Mageda Sharafeddine</author>
+<author orcid="0000-0002-9954-7924" pid="84/8237">Hazem M. Hajj</author>
+<author orcid="0000-0002-0244-9691" pid="139/7905">Abdulrahman Kaitoua</author>
+<author pid="175/5449">Raghid Morcel</author>
+<author pid="31/1952">Haitham Akkary</author>
+<title>Speedy Cloud: Cloud Computing with Support for Hardware Acceleration Services.</title>
+<pages>850-865</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2665493</ee>
+<url>db/journals/tcc/tcc7.html#ArtailSSHKMA19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/LuoJYWLR19" mdate="2022-12-30">
+<author pid="181/2672">Feng Luo</author>
+<author orcid="0000-0002-3703-121X" pid="00/8334">Chunxiao Jiang</author>
+<author orcid="0000-0003-4485-6743" pid="90/3575-1">Shui Yu 0001</author>
+<author orcid="0000-0003-3170-8952" pid="62/2631-1">Jingjing Wang 0001</author>
+<author orcid="0000-0001-9099-4077" pid="92/2256">Yipeng Li</author>
+<author orcid="0000-0003-0312-9371" pid="00/440-1">Yong Ren 0001</author>
+<title>Stability of Cloud-Based UAV Systems Supporting Big Data Acquisition and Processing.</title>
+<pages>866-877</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2696529</ee>
+<url>db/journals/tcc/tcc7.html#LuoJYWLR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/MishraKR19" mdate="2020-06-21">
+<author orcid="0000-0003-4411-167X" pid="144/4955">Debadatta Mishra</author>
+<author pid="48/2303">Purushottam Kulkarni</author>
+<author pid="13/4977">Raju Rangaswami</author>
+<title>Synergy: A Hypervisor Managed Holistic Caching System.</title>
+<pages>878-892</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2669033</ee>
+<url>db/journals/tcc/tcc7.html#MishraKR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/CaoLM19" mdate="2020-06-21">
+<author orcid="0000-0003-2014-6093" pid="92/1455">Zhengjun Cao</author>
+<author orcid="0000-0002-2111-3384" pid="66/56">Lihua Liu</author>
+<author pid="79/5941">Olivier Markowitch</author>
+<title>Comment on &#34;Highly Efficient Linear Regression Outsourcing to a Cloud&#34;.</title>
+<pages>893</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCC.2017.2709299</ee>
+<url>db/journals/tcc/tcc7.html#CaoLM19</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 7, Number 4, October - December 2019</h2> 
+<dblpcites><r style="ee"><article key="journals/tcc/AyoubiSA19" mdate="2020-06-21">
+<author pid="23/10124">Sara Ayoubi</author>
+<author pid="23/3756">Samir Sebbah</author>
+<author orcid="0000-0002-3161-1846" pid="a/ChadiAssi">Chadi Assi</author>
+<title>A Logic-Based Benders Decomposition Approach for the VNF Assignment Problem.</title>
+<pages>894-906</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2711622</ee>
+<url>db/journals/tcc/tcc7.html#AyoubiSA19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/HaratianSSN19" mdate="2020-06-21">
+<author orcid="0000-0001-9764-2314" pid="254/9898">Parinaz Haratian</author>
+<author orcid="0000-0001-7539-3089" pid="23/1758">Faramarz Safi-Esfahani</author>
+<author pid="180/6021">Leili Salimian</author>
+<author pid="160/8755">Akbar Nabiollahi</author>
+<title>An Adaptive and Fuzzy Resource Management Approach in Cloud Computing.</title>
+<pages>907-920</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2735406</ee>
+<url>db/journals/tcc/tcc7.html#HaratianSSN19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/FuXJHC19" mdate="2020-06-21">
+<author orcid="0000-0001-9107-1338" pid="93/6108">Yinjin Fu</author>
+<author pid="42/2525">Nong Xiao</author>
+<author orcid="0000-0002-1477-9751" pid="16/3631-1">Hong Jiang 0001</author>
+<author pid="44/3199">Guyu Hu</author>
+<author pid="68/925">Weiwei Chen</author>
+<title>Application-Aware Big Data Deduplication in Cloud Environment.</title>
+<pages>921-934</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2710043</ee>
+<url>db/journals/tcc/tcc7.html#FuXJHC19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/KasebMKL19" mdate="2020-06-21">
+<author orcid="0000-0002-2579-966X" pid="159/1514">Ahmed S. Kaseb</author>
+<author orcid="0000-0001-5492-483X" pid="132/7526">Anup Mohan</author>
+<author pid="159/1550">Youngsol Koh</author>
+<author orcid="0000-0002-5491-7661" pid="12/5138">Yung-Hsiang Lu</author>
+<title>Cloud Resource Management for Analyzing Big Real-Time Visual Data from Network Cameras.</title>
+<pages>935-948</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2720665</ee>
+<url>db/journals/tcc/tcc7.html#KasebMKL19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/HaridasKD19" mdate="2020-06-21">
+<author orcid="0000-0002-5964-0737" pid="121/4023">Harisankar Haridas</author>
+<author orcid="0000-0002-2218-8660" pid="63/9995">Sriram Kailasam</author>
+<author pid="r/DJanakiRam">Janakiram Dharanipragada</author>
+<title>Cloudy Knapsack Algorithm for Offloading Tasks from Large Scale Distributed Applications.</title>
+<pages>949-963</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2713776</ee>
+<url>db/journals/tcc/tcc7.html#HaridasKD19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/YuSDHJ19" mdate="2020-06-21">
+<author orcid="0000-0003-4189-0903" pid="39/934">Nuo Yu</author>
+<author pid="15/8552">Zhaohui Song</author>
+<author orcid="0000-0002-2138-749X" pid="d/HongWeiDu">Hongwei Du 0001</author>
+<author pid="65/4745">Hejiao Huang</author>
+<author orcid="0000-0001-8702-8302" pid="j/XiaohuaJia">Xiaohua Jia</author>
+<title>Dynamic Resource Provisioning for Energy Efficient Cloud Radio Access Networks.</title>
+<pages>964-974</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2715812</ee>
+<url>db/journals/tcc/tcc7.html#YuSDHJ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/UsmanHLXBCJ19" mdate="2021-06-16">
+<author orcid="0000-0003-2165-4575" pid="20/241-15">Muhammad Usman 0015</author>
+<author orcid="0000-0001-8962-540X" pid="75/2122">Xiangjian He</author>
+<author pid="16/1994">Kin-Man Lam 0001</author>
+<author orcid="0000-0001-9581-8849" pid="09/0-1">Min Xu 0001</author>
+<author pid="49/8842">Syed Mohsin Matloob Bokhari</author>
+<author pid="06/2379">Jinjun Chen</author>
+<author orcid="0000-0002-5298-1328" pid="130/2606">Mian Ahmad Jan</author>
+<title>Error Concealment for Cloud-Based and Scalable Video Coding of HD Videos.</title>
+<pages>975-987</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2734650</ee>
+<url>db/journals/tcc/tcc7.html#UsmanHLXBCJ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/TalhaKA19" mdate="2020-06-21">
+<author orcid="0000-0001-9517-3315" pid="154/3205">Ayesha M. Talha</author>
+<author pid="82/617">Ibrahim Kamel</author>
+<author orcid="0000-0003-2285-953X" pid="a/ZaherAlAghbari">Zaher Al Aghbari</author>
+<title>Facilitating Secure and Efficient Spatial Query Processing on the Cloud.</title>
+<pages>988-1001</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2724509</ee>
+<url>db/journals/tcc/tcc7.html#TalhaKA19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/PoonM19" mdate="2020-06-21">
+<author orcid="0000-0002-3471-5093" pid="56/7282">Hoi Ting Poon</author>
+<author pid="52/4812">Ali Miri</author>
+<title>Fast Phrase Search for Encrypted Cloud Storage.</title>
+<pages>1002-1012</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2709316</ee>
+<url>db/journals/tcc/tcc7.html#PoonM19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ZhouZW19" mdate="2020-06-21">
+<author orcid="0000-0001-7899-2909" pid="99/3847-14">Jun Zhou 0014</author>
+<author pid="04/3348">Yan Zhang</author>
+<author pid="37/1143">Weng-Fai Wong</author>
+<title>Fault Tolerant Stencil Computation on Cloud-Based GPU Spot Instances.</title>
+<pages>1013-1024</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2710311</ee>
+<url>db/journals/tcc/tcc7.html#ZhouZW19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/ZhangZ19" mdate="2020-06-21">
+<author orcid="0000-0001-9369-0060" pid="87/1222-5">Xi Zhang 0005</author>
+<author orcid="0000-0002-4237-1585" pid="161/4566">Qixuan Zhu</author>
+<title>Game-Theory Based Power and Spectrum Virtualization for Optimizing Spectrum Efficiency in Mobile Cloud-Computing Wireless Networks.</title>
+<pages>1025-1038</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2727044</ee>
+<url>db/journals/tcc/tcc7.html#ZhangZ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/AtaieERTAM19" mdate="2021-05-12">
+<author orcid="0000-0002-3424-579X" pid="52/2677">Ehsan Ataie</author>
+<author orcid="0000-0003-3356-661X" pid="50/7467">Reza Entezari-Maleki</author>
+<author orcid="0000-0002-8284-9002" pid="243/0932">Leila Rashidi</author>
+<author pid="t/KishorSTrivedi">Kishor S. Trivedi</author>
+<author orcid="0000-0003-4224-927X" pid="13/1991">Danilo Ardagna</author>
+<author orcid="0000-0002-6803-6750" pid="m/AliMovagharRahimabadi">Ali Movaghar 0001</author>
+<title>Hierarchical Stochastic Models for Performance, Availability, and Power Consumption Analysis of IaaS Clouds.</title>
+<pages>1039-1056</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2760836</ee>
+<url>db/journals/tcc/tcc7.html#AtaieERTAM19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/DengXZ19" mdate="2020-06-21">
+<author orcid="0000-0002-5282-6467" pid="d/XiaotieDeng">Xiaotie Deng</author>
+<author pid="49/6441">Tao Xiao</author>
+<author orcid="0000-0003-3432-5076" pid="216/8236">Keyu Zhu</author>
+<title>Learn to Play Maximum Revenue Auction.</title>
+<pages>1057-1067</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2712142</ee>
+<url>db/journals/tcc/tcc7.html#DengXZ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/TarpleeMS19" mdate="2020-06-21">
+<author orcid="0000-0002-9987-1572" pid="138/3848">Kyle M. Tarplee</author>
+<author orcid="0000-0002-1376-5825" pid="m/AAMaciejewski">Anthony A. Maciejewski</author>
+<author pid="s/HowardJaySiegel">Howard Jay Siegel</author>
+<title>Robust Performance-Based Resource Provisioning Using a Steady-State Model for Multi-Objective Stochastic Programming.</title>
+<pages>1068-1081</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2016.2608345</ee>
+<url>db/journals/tcc/tcc7.html#TarpleeMS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/HuangGWL19" mdate="2020-06-21">
+<author orcid="0000-0002-7035-6446" pid="83/179">Huawei Huang</author>
+<author orcid="0000-0001-9831-2202" pid="01/267-1">Song Guo 0001</author>
+<author orcid="0000-0003-4720-5946" pid="84/1733-1">Jinsong Wu 0001</author>
+<author orcid="0000-0002-4974-6116" pid="17/2703-2">Jie Li 0002</author>
+<title>Service Chaining for Hybrid Network Function.</title>
+<pages>1082-1094</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2721401</ee>
+<url>db/journals/tcc/tcc7.html#HuangGWL19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/DabbaghHRG19" mdate="2020-06-21">
+<author orcid="0000-0002-3253-9321" pid="01/10127">Mehiar Dabbagh</author>
+<author orcid="0000-0002-6085-4505" pid="89/4899">Bechir Hamdaoui</author>
+<author pid="34/2264">Ammar Rayes</author>
+<author orcid="0000-0002-8972-8094" pid="15/1123">Mohsen Guizani</author>
+<title>Shaving Data Center Power Demand Peaks Through Energy Storage and Workload Shifting Control.</title>
+<pages>1095-1108</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2744623</ee>
+<url>db/journals/tcc/tcc7.html#DabbaghHRG19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/AujlaSKZ19" mdate="2020-06-21">
+<author orcid="0000-0002-2870-8938" pid="194/6963">Gagangeet Singh Aujla</author>
+<author pid="60/9700">Mukesh Singh</author>
+<author orcid="0000-0002-3020-3947" pid="04/8395">Neeraj Kumar 0001</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Stackelberg Game for Energy-Aware Resource Allocation to Sustain Data Centers Using RES.</title>
+<pages>1109-1123</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2715817</ee>
+<url>db/journals/tcc/tcc7.html#AujlaSKZ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/LiuHLJ19" mdate="2021-10-14">
+<author orcid="0000-0003-4290-1408" pid="43/849">Haikun Liu</author>
+<author orcid="0000-0001-8618-4581" pid="h/BingshengHe">Bingsheng He</author>
+<author orcid="0000-0001-6302-813X" pid="56/4402">Xiaofei Liao</author>
+<author orcid="0000-0002-3934-7605" pid="98/4156">Hai Jin 0001</author>
+<title>Towards Declarative and Data-Centric Virtual Machine Image Management in IaaS Clouds.</title>
+<pages>1124-1138</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2728066</ee>
+<url>db/journals/tcc/tcc7.html#LiuHLJ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/DasS19" mdate="2020-08-21">
+<author orcid="0000-0003-2550-5171" pid="88/10960">Soham Das 0001</author>
+<author pid="s/SartajSahni">Sartaj Sahni</author>
+<title>Two-Aggregator Topology Optimization Using Multiple Paths in Data Center Networks.</title>
+<pages>1139-1151</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2712690</ee>
+<url>db/journals/tcc/tcc7.html#DasS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/AnjumATBA19" mdate="2022-10-02">
+<author orcid="0000-0002-3378-1152" pid="49/3364">Ashiq Anjum</author>
+<author orcid="0000-0003-4189-4007" pid="45/5662">Tariq Abdullah</author>
+<author pid="138/1692">M. Fahim Tariq</author>
+<author pid="126/9348">Yusuf Baltaci</author>
+<author pid="66/3455">Nick Antonopoulos</author>
+<title>Video Stream Analysis in Clouds: An Object Detection and Classification Framework for High Performance Video Analytics.</title>
+<pages>1152-1167</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2016.2517653</ee>
+<url>db/journals/tcc/tcc7.html#AnjumATBA19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/WangLZJ19" mdate="2020-06-21">
+<author orcid="0000-0002-6382-0861" pid="48/7556">Huandong Wang</author>
+<author orcid="0000-0001-5617-1659" pid="93/2334-8">Yong Li 0008</author>
+<author pid="13/6769">Ying Zhang</author>
+<author pid="46/5770">Depeng Jin</author>
+<title>Virtual Machine Migration Planning in Software-Defined Networks.</title>
+<pages>1168-1182</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2710193</ee>
+<url>db/journals/tcc/tcc7.html#WangLZJ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tcc/LiXZMQG19" mdate="2020-06-21">
+<author orcid="0000-0003-0894-0892" pid="33/5448-21">Jian Li 0021</author>
+<author pid="177/0048">Shuai Xue</author>
+<author pid="91/4884">Wang Zhang</author>
+<author orcid="0000-0001-9592-8490" pid="01/5518">Ruhui Ma</author>
+<author orcid="0000-0003-2730-2319" pid="17/1970">Zhengwei Qi</author>
+<author pid="96/5680">Haibing Guan</author>
+<title>When I/O Interrupt Becomes System Bottleneck: Efficiency and Scalability Enhancement for SR-IOV Network Virtualization.</title>
+<pages>1183-1196</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2017.2712686</ee>
+<url>db/journals/tcc/tcc7.html#LiXZMQG19</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

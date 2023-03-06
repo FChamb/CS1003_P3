@@ -1,0 +1,386 @@
+<bht key="db/conf/pos/pos98.bht" title="POS-8 1998: Asilomar, California, USA"> 
+<h1><ref href="db/conf/pos/index.html">POS</ref>-8 / <ref href="db/conf/pjw/index.html">PJW</ref>-3 1998:
+Tiburon, California, USA</h1>
+<dblpcites><r><proceedings key="conf/pos/1998" mdate="2022-05-11">
+<editor pid="82/2183">Ronald Morrison</editor>
+<editor pid="30/6126">Mick J. Jordan</editor>
+<editor pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</editor>
+<title>Advances in Persistent Object Systems, Proceedings of the 8th International Workshop on Persistent Object Systems (POS8) and Proceedings of the 3rd International Workshop on Persistence and Java (PJW3), Tiburon, California, USA, 1998</title>
+<publisher>Morgan Kaufmann</publisher>
+<year>1999</year>
+<isbn>1-55860-585-1</isbn>
+<url>db/conf/pos/pos98.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Preface98" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="30/6126">Mick J. Jordan</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Preface &#38; Foreword</title>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#Preface98</url>
+<cdrom>POS/1998/P000.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>POS 8</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/PriceN98" mdate="2012-09-18">
+<author pid="54/3226">Morgan Price</author>
+<author pid="71/3029">Scott Nettles</author>
+<title>Transactions in a Flash.</title>
+<pages>2-16</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#PriceN98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/LittleS98" mdate="2012-09-18">
+<author pid="77/210">Mark C. Little</author>
+<author pid="37/5945">Santosh K. Shrivastava</author>
+<title>Understanding the Role of Atomic Transactions and Group Communications in Implementing Persistent Replicated Objects.</title>
+<pages>17-28</pages>
+<cdrom>POS/1998/P017.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#LittleS98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ShriraY98" mdate="2012-09-18">
+<author pid="s/LiubaShrira">Liuba Shrira</author>
+<author pid="95/5426">Ben Yoder</author>
+<title>Trust but Check: Mutable Objects in Untrusted Cooperative Caches.</title>
+<pages>29-36</pages>
+<cdrom>POS/1998/P029.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#ShriraY98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BlackburnS98" mdate="2023-01-13">
+<author pid="b/StephenMBlackburn">Stephen M. Blackburn</author>
+<author pid="73/3316">Robin B. Stanton</author>
+<title>The Transactional Object Cache: A Foundation for High Performance Persistent System Construction.</title>
+<pages>37-50</pages>
+<cdrom>POS/1998/P037.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#BlackburnS98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/CuttsLH98" mdate="2012-09-18">
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="59/6233">Stuart Lennon</author>
+<author pid="h/AntonyLHosking">Antony L. Hosking</author>
+<title>Reconciling Buffer Management with Persistence Optimisations.</title>
+<pages>51-63</pages>
+<cdrom>POS/1998/P051.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#CuttsLH98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BlondelFS98" mdate="2018-07-05">
+<author pid="45/3056">Xavier Blondel</author>
+<author pid="f/PauloJPFerreira">Paulo Ferreira 0001</author>
+<author pid="s/MarcShapiro">Marc Shapiro 0001</author>
+<title>Implementing Garbage Collection in the PerDiS System.</title>
+<pages>64-77</pages>
+<cdrom>POS/1998/P064.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#BlondelFS98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MunroBMM98" mdate="2012-09-18">
+<author pid="m/DavidSMunro">David S. Munro</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<title>Incremental Garbage Collection of a Persistent Object Store using PMOS.</title>
+<pages>78-91</pages>
+<cdrom>POS/1998/P078.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#MunroBMM98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/OLenskieDH98" mdate="2012-09-18">
+<author pid="15/1496">Adrian O'Lenskie</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="89/4105">David Hulse</author>
+<title>Persistent Operating System Support for Persistent CORBA Objects.</title>
+<pages>92-111</pages>
+<cdrom>POS/1998/P092.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#OLenskieDH98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ParkCD98" mdate="2017-11-07">
+<author pid="72/138">Chong-Mok Park</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="d/SDessloch">Stefan De&#223;loch</author>
+<title>MAJOR: A Java Language Binding for Object-Relational Databases.</title>
+<pages>112-122</pages>
+<cdrom>POS/1998/P112.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#ParkCD98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/KutluM98" mdate="2012-09-18">
+<author pid="30/6267">G&#246;khan Kutlu</author>
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<title>Exploiting Reflection to Add Persistence and Query Optimization to a Statically Typed Object-Oriented Language.</title>
+<pages>123-135</pages>
+<cdrom>POS/1998/P123.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#KutluM98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/KirbyM98" mdate="2012-09-18">
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Variadic Genericity Through Linguistic Reflection: A Performance Evaluation.</title>
+<pages>136-148</pages>
+<cdrom>POS/1998/P136.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#KirbyM98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/HoskingNCB98" mdate="2012-09-18">
+<author pid="h/AntonyLHosking">Antony L. Hosking</author>
+<author pid="54/2322">Nathaniel Nystrom</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="11/2758">Kumar Brahnmath</author>
+<title>Optimizing the Read and Write Barriers for Orthogonal Persistence.</title>
+<pages>149-159</pages>
+<cdrom>POS/1998/P149.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#HoskingNCB98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Knafla98" mdate="2012-09-18">
+<author pid="62/1650">Nils Knafla</author>
+<title>Analysing Object Relationships to Predict Page Access for Prefetching.</title>
+<pages>160-170</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#Knafla98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/TjasinkB98" mdate="2012-09-18">
+<author pid="45/2061">Steven Tjasink</author>
+<author pid="73/4908">Sonia Berman</author>
+<title>Providing Persistence on Small Machines.</title>
+<pages>171-186</pages>
+<cdrom>POS/1998/P171.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#TjasinkB98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/HulseD98" mdate="2012-09-18">
+<author pid="89/4105">David Hulse</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Lumberjack: A Log-Structured Persistent Object Store.</title>
+<pages>187-198</pages>
+<cdrom>POS/1998/P187.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#HulseD98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/YangNWM98" mdate="2021-10-30">
+<author pid="64/5141-1">Jiong Yang 0001</author>
+<author pid="n/SilviaNittel">Silvia Nittel</author>
+<author pid="w/WeiWang">Wei Wang 0010</author>
+<author pid="m/RichardRMuntz">Richard R. Muntz</author>
+<title>DynamO: Dynamic Objects with Persistent Storage.</title>
+<pages>199-214</pages>
+<cdrom>POS/1998/P199.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#YangNWM98</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Jordan98" mdate="2012-09-18">
+<author pid="30/6126">Mick J. Jordan</author>
+<title>Observations on Persistent Object Systems from a (Would-be) Consumer.</title>
+<pages>223-233</pages>
+<cdrom>POS/1998/P223.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#Jordan98</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>PJW 3</h2> 
+<dblpcites><r><inproceedings key="conf/pos/BretlOSSV98" mdate="2012-09-18">
+<author pid="56/5934">Robert Bretl</author>
+<author pid="23/3566">Allen Otis</author>
+<author pid="86/2364">Marc San Soucie</author>
+<author pid="61/5318">Bruce Schuchardt</author>
+<author pid="77/2661">R. Venkatesh</author>
+<title>Persistent Java Objects in 3 Tier Architectures.</title>
+<pages>236-249</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#BretlOSSV98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/BermanSVZ98" mdate="2020-04-08">
+<author pid="73/4908">Sonia Berman</author>
+<author pid="13/6797">Richard Southern</author>
+<author pid="262/4198">Aisling Vasey</author>
+<author pid="262/4204">Daniel Ziskind</author>
+<title>Spatio-temporal Access in Persistent Java.</title>
+<pages>250-258</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#BermanSVZ98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/BlackburnZ98" mdate="2023-01-13">
+<author pid="b/StephenMBlackburn">Stephen M. Blackburn</author>
+<author pid="187/7247">John N. Zigman</author>
+<title>Concurrency - The Fly in the Ointment?</title>
+<pages>250-258</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#BlackburnZ98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/BrahnmathNHC98" mdate="2012-09-18">
+<author pid="11/2758">Kumar Brahnmath</author>
+<author pid="54/2322">Nathaniel Nystrom</author>
+<author pid="h/AntonyLHosking">Antony L. Hosking</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<title>Swizzle Barrier Optimizations for Orthogonal Persistence in Java.</title>
+<pages>268-278</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#BrahnmathNHC98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/Dmitriev98" mdate="2012-09-18">
+<author pid="d/MishaDmitriev">Misha Dmitriev</author>
+<title>The First Experience of Class Evolution Support in PJama.</title>
+<pages>279-296</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#Dmitriev98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/EvansS98" mdate="2021-08-24">
+<author pid="e/HuwEvans">James Huw Evans</author>
+<author pid="s/SusanSpence">Susan Spence</author>
+<title>Porting a Distributed System to PJama: Orthogonal Persistence for Java?</title>
+<pages>297-306</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#EvansS98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/GrimstadSAW98" mdate="2022-05-11">
+<author pid="83/3718">Stein Grimstad</author>
+<author pid="32/889">Dag I. K. Sj&#248;berg</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="w/RayWelland">Ray Welland</author>
+<title>Evaluating Usability Aspects of PJama Based on Source Code Measurements.</title>
+<pages>307-321</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#GrimstadSAW98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/Howell98" mdate="2012-09-18">
+<author pid="55/3274">Jon Howell</author>
+<title>Straightforward Java Persistence Through Checkpointing.</title>
+<pages>322-334</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#Howell98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/JordanA98" mdate="2022-05-11">
+<author pid="30/6126">Mick J. Jordan</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Orthogonal Persistence for Java? - A Mid-term Report.</title>
+<pages>335-352</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#JordanA98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/RidgwayW98" mdate="2012-09-18">
+<author pid="34/2435">John V. E. Ridgway</author>
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<title>Toward Class Evolution in Persistent Java?</title>
+<pages>353-362</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#RidgwayW98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/ZigmanB98" mdate="2023-01-13">
+<author pid="187/7247">John N. Zigman</author>
+<author pid="b/StephenMBlackburn">Stephen M. Blackburn</author>
+<title>Java Finalize Method, Orthogonal Persistence and Transactions.</title>
+<pages>363-369</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#ZigmanB98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/ZirintsisDKM98" mdate="2012-09-18">
+<author pid="36/415">Evangelos Zirintsis</author>
+<author pid="11/263">Vivienne S. Dunstan</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Hyper-Programming in Java.</title>
+<pages>370-382</pages>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#ZirintsisDKM98</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

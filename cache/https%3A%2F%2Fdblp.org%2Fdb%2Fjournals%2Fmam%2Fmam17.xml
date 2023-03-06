@@ -1,0 +1,1160 @@
+<bht key="db/journals/mam/mam17.bht" title="Microprocessors and Microsystems, Volume 17"> 
+<h1><ref href="db/journals/mam/index.html">Microprocessors and Microsystems</ref>, Volume 17</h1> 
+<h2>Volume 17, Number 1, 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/mam/Cullyer93" mdate="2020-02-22">
+<author pid="167/8880">John Cullyer</author>
+<title>Safety critical systems.</title>
+<pages>2</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90087-N</ee>
+<url>db/journals/mam/mam17.html#Cullyer93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/BellR93" mdate="2020-02-22">
+<author pid="79/3196">Ron Bell</author>
+<author pid="60/4857-1">Dietmar Reinert 0001</author>
+<title>Risk and system integrity concepts for safety-related control systems.</title>
+<pages>3-15</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90088-O</ee>
+<url>db/journals/mam/mam17.html#BellR93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Montalk93" mdate="2020-02-22">
+<author pid="167/8894">J. P. Potocki de Montalk</author>
+<title>Computer software in civil aircraft.</title>
+<pages>17-23</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90089-P</ee>
+<url>db/journals/mam/mam17.html#Montalk93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Kershaw93" mdate="2020-02-22">
+<author pid="151/3026">John Kershaw</author>
+<title>The special problems of military systems.</title>
+<pages>25-30</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90090-T</ee>
+<url>db/journals/mam/mam17.html#Kershaw93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Thomas93" mdate="2020-02-22">
+<author pid="20/1485">Martyn Thomas</author>
+<title>The industrial use of formal methods.</title>
+<pages>31-36</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90091-K</ee>
+<url>db/journals/mam/mam17.html#Thomas93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/JestyBW93" mdate="2020-02-22">
+<author pid="40/599">Peter H. Jesty</author>
+<author pid="167/8903">Tom F. Buckley</author>
+<author pid="25/4880">Margaret M. West</author>
+<title>The development of safe advanced road transport telematic software.</title>
+<pages>37-46</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90092-L</ee>
+<url>db/journals/mam/mam17.html#JestyBW93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Jesty93" mdate="2020-02-22">
+<author pid="40/599">Peter H. Jesty</author>
+<title>Software in safety-related systems: Wichmann, BA (Ed) John Wiley, Chichester, UK (1992) ISBN 0 471 93474 7, &#163;105, pp 300.</title>
+<pages>51</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90120-V</ee>
+<url>db/journals/mam/mam17.html#Jesty93</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 17, Number 2, 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/mam/Hemingway93" mdate="2020-02-22">
+<author pid="24/4592">Karen Hemingway</author>
+<title>Editorial.</title>
+<pages>58</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90071-E</ee>
+<url>db/journals/mam/mam17.html#Hemingway93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/VaughanBFW93" mdate="2020-02-22">
+<author pid="35/3286">Jonathan R. Vaughan</author>
+<author pid="82/4419">Graham R. Brookes</author>
+<author pid="93/1308">M. A. Fletcher</author>
+<author pid="23/2913">Derek P. M. Wills</author>
+<title>Using parallel processing to achieve real-time access to a large terrain database in an airborne environment.</title>
+<pages>59-66</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90072-F</ee>
+<url>db/journals/mam/mam17.html#VaughanBFW93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/CucchiaraCNR93" mdate="2020-02-22">
+<author orcid="0000-0002-2239-283X" pid="c/RitaCucchiara">Rita Cucchiara</author>
+<author orcid="0000-0002-6877-5254" pid="49/5776">Tullio Salmon Cinotti</author>
+<author pid="96/4355">Giovanni Neri</author>
+<author pid="161/4302">G. Rustichelli</author>
+<title>Reconfiguring the boundaries of a mesh-connected array of processors with run-time programmable logic.</title>
+<pages>67-73</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90073-G</ee>
+<url>db/journals/mam/mam17.html#CucchiaraCNR93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/KumarSP93" mdate="2020-02-22">
+<author pid="38/5149">R. Krishna Kumar</author>
+<author pid="13/7976">S. K. Sinha</author>
+<author pid="54/3051">Lalit M. Patnaik</author>
+<title>A fault-tolerant multi-transputer architecture.</title>
+<pages>75-81</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90074-H</ee>
+<url>db/journals/mam/mam17.html#KumarSP93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/GodenaP93" mdate="2020-02-22">
+<author pid="67/8435">Giovanni Godena</author>
+<author pid="56/9857">Janko Petrovcic</author>
+<title>Modula-2 based multitasking environment for a flexible biprocessor controller.</title>
+<pages>83-91</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90075-I</ee>
+<url>db/journals/mam/mam17.html#GodenaP93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/KarkanisM93" mdate="2020-02-22">
+<author pid="k/SAKarkanis">Stavros A. Karkanis</author>
+<author pid="40/1111">Christina Metaxaki-Kossionides</author>
+<title>PARTER: A parallel system for texture recognition.</title>
+<pages>93-99</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90076-J</ee>
+<url>db/journals/mam/mam17.html#KarkanisM93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Mahavadi93" mdate="2020-02-22">
+<author pid="167/8809">Manohar Rao Mahavadi</author>
+<title>FDDI dual attachment station on a PC-AT interface card.</title>
+<pages>101-107</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90077-K</ee>
+<url>db/journals/mam/mam17.html#Mahavadi93</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 17, Number 3, 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/mam/Rosenberg93" mdate="2020-02-22">
+<author pid="17/3411">John Rosenberg</author>
+<title>Persistent object systems.</title>
+<pages>114-115</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90040-E</ee>
+<url>db/journals/mam/mam17.html#Rosenberg93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/RussellC93" mdate="2020-02-22">
+<author orcid="0000-0002-3589-3051" pid="85/2723">Gordon Russell 0001</author>
+<author pid="39/5175">Paul Cockshott</author>
+<title>Architectures for persistence.</title>
+<pages>117-130</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90042-6</ee>
+<url>db/journals/mam/mam17.html#RussellC93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Lavington93" mdate="2020-02-22">
+<author pid="57/4777">Simon H. Lavington</author>
+<title>A novel architecture for handling persistent objects.</title>
+<pages>131-138</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90043-7</ee>
+<url>db/journals/mam/mam17.html#Lavington93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Keedy93" mdate="2020-02-22">
+<author pid="89/1100">James Leslie Keedy</author>
+<title>A model for security and protection in persistent systems.</title>
+<pages>139-146</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90044-8</ee>
+<url>db/journals/mam/mam17.html#Keedy93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/HenskensR93" mdate="2020-02-22">
+<author orcid="0000-0003-2358-5630" pid="h/FransAHenskens">Frans A. Henskens</author>
+<author pid="17/3411">John Rosenberg</author>
+<title>Distributed persistent stores.</title>
+<pages>147-159</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90045-9</ee>
+<url>db/journals/mam/mam17.html#HenskensR93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/DearleCC93" mdate="2021-07-07">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<title>Using persistence to support incremental system construction.</title>
+<pages>161-171</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90046-A</ee>
+<url>db/journals/mam/mam17.html#DearleCC93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/MorrisonCCKS93" mdate="2020-02-22">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<title>Mechanisms for controlling evolution in persistent object systems.</title>
+<pages>173-181</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90047-B</ee>
+<url>db/journals/mam/mam17.html#MorrisonCCKS93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Reitenspiess93" mdate="2020-02-22">
+<author pid="80/1305">Manfred Reitenspie&#223;</author>
+<title>Persistent system architectures: a comparison.</title>
+<pages>183-192</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90048-C</ee>
+<url>db/journals/mam/mam17.html#Reitenspiess93</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 17, Number 4, May 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/mam/Hosszu93" mdate="2020-02-22">
+<author orcid="0000-0002-2856-9552" pid="75/5351">G&#225;bor Hossz&#250;</author>
+<title>Editorial.</title>
+<pages>194</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90014-X</ee>
+<url>db/journals/mam/mam17.html#Hosszu93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Ungerer93" mdate="2022-03-16">
+<author pid="u/TheoUngerer">Theo Ungerer</author>
+<title>A C++ language interface for parallel programming.</title>
+<pages>195-200</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90015-Y</ee>
+<ee>https://www.wikidata.org/entity/Q111096814</ee>
+<url>db/journals/mam/mam17.html#Ungerer93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/HohlMP93" mdate="2020-02-22">
+<author pid="15/1453">Wolfgang Hohl</author>
+<author pid="30/1399">Edgar Michel</author>
+<author pid="19/6221">Andr&#225;s Pataricza</author>
+<title>Hardware support for error detection in multiprocessor systems - a case study.</title>
+<pages>201-206</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90016-Z</ee>
+<url>db/journals/mam/mam17.html#HohlMP93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/ZhangGMR93" mdate="2020-02-22">
+<author pid="00/6357">Lichen Zhang</author>
+<author pid="94/1361">Michel Galindo</author>
+<author pid="89/3719">Daniel Marquie</author>
+<author pid="69/5665">Yves Raynaud</author>
+<title>Methodology of real-time system design using multiprocessors.</title>
+<pages>207-214</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90017-2</ee>
+<url>db/journals/mam/mam17.html#ZhangGMR93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Nikodemusz-Szekely93" mdate="2020-02-22">
+<author pid="167/8869">&#201;va Nikod&#233;musz-Sz&#233;kely</author>
+<author pid="42/1286">Vladim&#237;r Sz&#233;kely</author>
+<title>Image recognition problems of fingerprint identification.</title>
+<pages>215-218</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90018-3</ee>
+<url>db/journals/mam/mam17.html#Nikodemusz-Szekely93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/CsekeFH93" mdate="2020-02-22">
+<author pid="24/5155">Istv&#225;n Cseke</author>
+<author pid="67/1024">Z. Fazekas</author>
+<author pid="167/8795">T. Holka</author>
+<title>Honey qualification - an application of the ARGUS image processing system.</title>
+<pages>219-222</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90019-4</ee>
+<url>db/journals/mam/mam17.html#CsekeFH93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/FurneeJ93" mdate="2020-02-22">
+<author pid="167/8830">E. Hans Furn&#233;e</author>
+<author pid="00/9746">&#193;kos Jobb&#225;gy</author>
+<title>Precision 3-D motion analysis system for real-time applications.</title>
+<pages>223-231</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90020-8</ee>
+<url>db/journals/mam/mam17.html#FurneeJ93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/LavagnoS93" mdate="2020-02-22">
+<author pid="36/1134">Luciano Lavagno</author>
+<author pid="s/ALSangiovanniV">Alberto L. Sangiovanni-Vincentelli</author>
+<title>Automated synthesis of asynchronous interface circuits.</title>
+<pages>232-242</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90021-X</ee>
+<url>db/journals/mam/mam17.html#LavagnoS93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Chan93" mdate="2020-02-22">
+<author pid="04/2158">M. Y. Chan</author>
+<title>Election and symmetry breaking in synchronous general networks.</title>
+<pages>243-247</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90022-Y</ee>
+<url>db/journals/mam/mam17.html#Chan93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/TangE93" mdate="2021-12-29">
+<author pid="167/8886">H. K. Tang</author>
+<author pid="96/2389">Meng Hwa Er</author>
+<title>EMI-induced failure in microprocessor-based counting.</title>
+<pages>248-252</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90023-Z</ee>
+<url>db/journals/mam/mam17.html#TangE93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Hosszu93a" mdate="2020-02-22">
+<author orcid="0000-0002-2856-9552" pid="75/5351">G&#225;bor Hossz&#250;</author>
+<title>Seventh Symposium on Microcomputer and Microprocessor Applications (&#956;P'92): Budapest, Hungary, 22-24 April 1992.</title>
+<pages>253</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90024-2</ee>
+<url>db/journals/mam/mam17.html#Hosszu93a</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 17, Number 5, June 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/mam/Maunder93" mdate="2020-02-22">
+<author pid="78/568">Colin Maunder</author>
+<title>Boundary-scan testing.</title>
+<pages>258</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90001-N</ee>
+<url>db/journals/mam/mam17.html#Maunder93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/MaunderT93" mdate="2020-02-22">
+<author pid="78/568">Colin M. Maunder</author>
+<author pid="81/144">Rodham E. Tulloss</author>
+<title>Testability on TAP.</title>
+<pages>259-265</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90002-O</ee>
+<url>db/journals/mam/mam17.html#MaunderT93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/BruceGGM93" mdate="2020-02-22">
+<author pid="79/4868">W. C. Bruce</author>
+<author pid="08/3336">Michael G. Gallup</author>
+<author pid="59/1804">Grady Giles</author>
+<author pid="78/1868">Tom Munns</author>
+<title>Case study of 1149.01 microprocessor implementations.</title>
+<pages>267-275</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90003-P</ee>
+<url>db/journals/mam/mam17.html#BruceGGM93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Harrod93" mdate="2020-02-22">
+<author pid="79/1831">Peter Harrod</author>
+<title>Boundary-scan design for cost-sensitive applications.</title>
+<pages>277-280</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90004-Q</ee>
+<url>db/journals/mam/mam17.html#Harrod93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Posse93" mdate="2020-02-22">
+<author pid="77/1151">Kenneth E. Posse</author>
+<title>Testability guidelines for multichip modules.</title>
+<pages>281-287</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90005-R</ee>
+<url>db/journals/mam/mam17.html#Posse93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/JarwalaY93" mdate="2020-02-22">
+<author pid="99/2749">Najmi T. Jarwala</author>
+<author pid="16/4992">Chi W. Yau</author>
+<title>A structured approach to board-level BIST using the boundary-scan master.</title>
+<pages>289-297</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90006-S</ee>
+<url>db/journals/mam/mam17.html#JarwalaY93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Bleeker93" mdate="2020-02-22">
+<author pid="45/1357">Harry Bleeker</author>
+<title>An economic, hands-on start to boundary-scan testing.</title>
+<pages>299-303</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90007-T</ee>
+<url>db/journals/mam/mam17.html#Bleeker93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Bennetts93" mdate="2020-02-22">
+<author pid="b/BenBennetts">Ben Bennetts</author>
+<title>Essential reading for the basics and implementation of boundary scan: Parker, K PThe boundary-scan handbook Kluwer Academic, Dordrecht, The Netherlands (1992) ISBN 0 7923 9270 1, &#163;48.00/Dfl. 160.00, pp 282.</title>
+<pages>304</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90008-U</ee>
+<url>db/journals/mam/mam17.html#Bennetts93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Ambler93" mdate="2020-02-22">
+<author pid="14/2750">Anthony P. Ambler</author>
+<title>The application and use of boundary scan: Bleeker, H, van den Eijnden, P and de Jong, FBoundary-scan test - a practical approach Kluwer Academic (1992) ISBN 0 7923 9296 5, &#163;50.75, pp 222.</title>
+<pages>305</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90009-V</ee>
+<url>db/journals/mam/mam17.html#Ambler93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Bolton93" mdate="2020-02-22">
+<author pid="32/1386">Martin Bolton</author>
+<title>A useful source of knowledge on the 68000 family: Clements, AMicroprocessor systems design. 68000 hardware, software, and interfacing. Second edition PWS-Kent Publishing Company, Boston (1992) ISBN 0 534 92568 5, pp 895 (Instructors Manual, including disc: ISBN 0 534 93047 6).</title>
+<pages>305-306</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90010-5</ee>
+<url>db/journals/mam/mam17.html#Bolton93</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 17, Number 6, 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/mam/CoolingH93" mdate="2020-02-22">
+<author pid="02/3728">Jim E. Cooling</author>
+<author pid="167/8899">T. S. Hughes</author>
+<title>Animation prototyping of real-time embedded systems.</title>
+<pages>315-324</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90051-8</ee>
+<url>db/journals/mam/mam17.html#CoolingH93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Franzi93" mdate="2020-02-22">
+<author pid="46/5133">Edoardo Franzi</author>
+<title>Neural chip for fast pattern matching.</title>
+<pages>325-332</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90052-9</ee>
+<url>db/journals/mam/mam17.html#Franzi93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/HallM93" mdate="2020-02-22">
+<author pid="43/4678">G. Hall</author>
+<author pid="167/8810">A. Matias</author>
+<title>Rotation, scale and translation invariant template matching on a transputer network.</title>
+<pages>333-340</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90053-A</ee>
+<url>db/journals/mam/mam17.html#HallM93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/NetherwoodFB93" mdate="2020-02-22">
+<author pid="167/8807">Paul Netherwood</author>
+<author pid="14/4733">Peter Forte</author>
+<author pid="24/6263">Peter Barnwell</author>
+<title>Transputer-based feature extraction and shape analysis.</title>
+<pages>341-351</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90054-B</ee>
+<url>db/journals/mam/mam17.html#NetherwoodFB93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/KimE93" mdate="2022-10-02">
+<author pid="95/3846">Jung H. Kim</author>
+<author orcid="0000-0002-4028-6846" pid="07/955">Kemal Efe</author>
+<title>A parallel reconfiguration algorithm for WSI/VLSI processor arrays.</title>
+<pages>353-360</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90055-C</ee>
+<url>db/journals/mam/mam17.html#KimE93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/MakedonS93" mdate="2020-10-26">
+<author pid="m/FilliaMakedon">Fillia Makedon</author>
+<author orcid="0000-0002-0280-741X" pid="30/458">Antonios Symvonis</author>
+<title>Optimal algorithms for the many-to-one routing problem on two-dimensional meshes.</title>
+<pages>361-367</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90056-D</ee>
+<url>db/journals/mam/mam17.html#MakedonS93</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 17, Number 7, September 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/mam/Jay93" mdate="2020-02-22">
+<author pid="167/8852">Christopher Jay</author>
+<title>Field programmable gate arrays.</title>
+<pages>370</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90058-F</ee>
+<url>db/journals/mam/mam17.html#Jay93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/York93" mdate="2020-02-22">
+<author pid="139/9117">Trevor A. York</author>
+<title>Survey of field programmable logic devices.</title>
+<pages>371-381</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90059-G</ee>
+<url>db/journals/mam/mam17.html#York93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Coli93" mdate="2020-02-22">
+<author pid="167/8806">Vincent J. Coli</author>
+<title>FPGA design technology.</title>
+<pages>383-389</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90060-K</ee>
+<url>db/journals/mam/mam17.html#Coli93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Jay93a" mdate="2020-02-22">
+<author pid="167/8893">Chris Jay</author>
+<title>VHDL and synthesis tools provide a generic design entry platform into FPGAs, PLDs and ASICs.</title>
+<pages>391-398</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90061-B</ee>
+<url>db/journals/mam/mam17.html#Jay93a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Wichmann93" mdate="2020-02-22">
+<author pid="39/153">Brian A. Wichmann</author>
+<title>Microprocessor design faults.</title>
+<pages>399-401</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90062-C</ee>
+<url>db/journals/mam/mam17.html#Wichmann93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/PombortsisV93" mdate="2020-02-22">
+<author pid="p/ASPomportsis">Andreas S. Pombortsis</author>
+<author orcid="0000-0003-3477-8825" pid="v/IoannisPVlahavas">Ioannis P. Vlahavas</author>
+<title>A novel flow control and switching strategy for preventing hotspot congestion in multistage networks.</title>
+<pages>403-410</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90063-D</ee>
+<ee>https://www.wikidata.org/entity/Q62864960</ee>
+<url>db/journals/mam/mam17.html#PombortsisV93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Kirk93" mdate="2020-02-22">
+<author pid="167/5475">Brian R. Kirk</author>
+<title>Oberon-2 in Windows: what price compatibility?</title>
+<pages>411-414</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90064-E</ee>
+<url>db/journals/mam/mam17.html#Kirk93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/GrayAGS93" mdate="2020-02-22">
+<author pid="54/1632">Sue M. Gray</author>
+<author pid="55/3073">Rod Adams</author>
+<author pid="167/8827">G. J. Green</author>
+<author pid="74/2547">Gordon B. Steven</author>
+<title>Static instruction scheduling for the HARP multiple-instruction-issue architecture.</title>
+<pages>415-424</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90065-F</ee>
+<url>db/journals/mam/mam17.html#GrayAGS93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/RichardsonQ93" mdate="2020-02-22">
+<author pid="136/9688">Amanda Richardson</author>
+<author pid="167/8862">M. Querol</author>
+<title>STi 3220 motion estimation processor.</title>
+<pages>425-434</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90066-G</ee>
+<url>db/journals/mam/mam17.html#RichardsonQ93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Bolton93a" mdate="2020-02-22">
+<author pid="32/1386">Martin Bolton</author>
+<title>Practical Programmable Circuits: A Guide to PLDs, State Machines and Microcontrollers: James D Broesch Academic Press, London, UK (1991) ISBN 0 12 134885 7, &#163;34, pp 286.</title>
+<pages>435</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90067-H</ee>
+<url>db/journals/mam/mam17.html#Bolton93a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Dvorak93" mdate="2020-02-22">
+<author pid="d/VDvorak">V&#225;clav Dvor&#225;k</author>
+<title>Introduction to Microprogramming: Milutinovic, V (Ed) Prentice Hall, Hemel Hempstead, UK (1992) ISBN 0 13 488917 7, &#163;38.95, pp 297.</title>
+<pages>435-436</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90068-I</ee>
+<url>db/journals/mam/mam17.html#Dvorak93</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 17, Number 8, October 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/mam/GrimsrudARFN93" mdate="2020-02-22">
+<author pid="86/3089">Knuth Stener Grimsrud</author>
+<author pid="a/JamesKArchibald">James K. Archibald</author>
+<author pid="167/8896">M. Ripley</author>
+<author pid="14/673">J. Kelly Flanagan</author>
+<author pid="90/2444">Brent E. Nelson</author>
+<title>BACH: a hardware monitor for tracing microprocessor-based systems.</title>
+<pages>443-459</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90028-6</ee>
+<url>db/journals/mam/mam17.html#GrimsrudARFN93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/LedecziABBKS93" mdate="2020-02-22">
+<author pid="l/AkosLedeczi">&#193;kos L&#233;deczi</author>
+<author pid="03/3591">Ben Abbott</author>
+<author pid="94/212">Csaba Biegl</author>
+<author pid="09/5995">Ted Bapty</author>
+<author pid="37/3753">Gabor Karsai</author>
+<author pid="62/685">Janos Sztipanovits</author>
+<title>Parallel DSP system integration.</title>
+<pages>460-470</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90029-7</ee>
+<url>db/journals/mam/mam17.html#LedecziABBKS93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/SelvakumarM93" mdate="2021-03-08">
+<author pid="92/1249-4">S. Selvakumar 0004</author>
+<author pid="78/4000">C. Siva Ram Murthy</author>
+<title>A list scheduling anomaly.</title>
+<pages>471-474</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90030-B</ee>
+<url>db/journals/mam/mam17.html#SelvakumarM93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/NovakST93" mdate="2020-02-22">
+<author pid="20/1194">Franc Novak</author>
+<author pid="167/8872">Nenad Sutanovac</author>
+<author pid="95/5668">Roman Trobec</author>
+<title>Built-in self testing of communications systems using ASIC technology.</title>
+<pages>475-480</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90031-2</ee>
+<url>db/journals/mam/mam17.html#NovakST93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/KimHK93" mdate="2020-02-22">
+<author pid="167/8818">Han-Heung Kim</author>
+<author pid="97/1203">Seung Ho Hwang</author>
+<author pid="30/2681">Chong-Min Kyung</author>
+<title>A practical design method for instruction decoder PLAs for microprogrammed controllers.</title>
+<pages>481-488</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90032-3</ee>
+<url>db/journals/mam/mam17.html#KimHK93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Bai93" mdate="2020-02-22">
+<author pid="167/8907">Shwang-Shi Bai</author>
+<title>Micro controller-based digital filter implementation using an Intel 8097.</title>
+<pages>489-496</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90033-4</ee>
+<url>db/journals/mam/mam17.html#Bai93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Hill93" mdate="2020-02-22">
+<author pid="167/8847">Jill V. Hill</author>
+<title>Safety critical systems - Current issues, techniques and standards: Edited by Felix Redmill and Tom Anderson Chapman &#38; Hall, London, UK (1993) ISBN 412 54820, &#163;29.95, pp 332.</title>
+<pages>497</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90034-5</ee>
+<url>db/journals/mam/mam17.html#Hill93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Farrell93" mdate="2020-02-22">
+<author pid="167/8794">James J. Farrell III</author>
+<title>68000 Microcomputer Organization and Programming: Per Stenstr&#246;m Prentice Hall, Hemel Hempstead, UK (1992) ISBN 0 13 584855 5, &#163;18.95, pp 204.</title>
+<pages>498</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90035-6</ee>
+<url>db/journals/mam/mam17.html#Farrell93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Postlethwaite93" mdate="2020-02-22">
+<author pid="167/8813">Bill Postlethwaite</author>
+<title>Analogue interface and DSP sourcebook: Alan Clements McGraw-Hill, Maidenhead, UK (1993) ISBN 0 07 707694 X, &#163;65.00, pp 1120.</title>
+<pages>498-499</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90036-7</ee>
+<url>db/journals/mam/mam17.html#Postlethwaite93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Sullivan93" mdate="2020-02-22">
+<author pid="167/8897">Gaynor Sullivan</author>
+<title>Embedded real-time systems: Jean Paul Calvez John Wiley, Chichester, UK (1993) ISBN 0 471 93563 8, &#163;44.95, pp 647.</title>
+<pages>499</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90037-8</ee>
+<url>db/journals/mam/mam17.html#Sullivan93</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 17, Number 9, November 1993</h2> Tutorial 
+<dblpcites><r style="ee"><article key="journals/mam/Smith93" mdate="2020-02-22">
+<author pid="57/6618-1">Michael R. Smith 0001</author>
+<title>FFT - fRISCy fourier transforms?</title>
+<pages>507-521</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/S0141-9331(09)91002-X</ee>
+<url>db/journals/mam/mam17.html#Smith93</url>
+</article>
+</r>
+</dblpcites>
+Research 
+<dblpcites><r style="ee"><article key="journals/mam/DasND93" mdate="2020-02-22">
+<author pid="33/2169">P. K. Das</author>
+<author pid="38/7326">B. Nag</author>
+<author pid="87/117">P. Das</author>
+<title>A development environment for rapid prototyping of user applications on distributed memory multiprocessor systems.</title>
+<pages>522-528</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/S0141-9331(09)91003-1</ee>
+<url>db/journals/mam/mam17.html#DasND93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Rizzo93" mdate="2020-02-22">
+<author orcid="0000-0003-2483-1565" pid="27/3297">Luigi Rizzo</author>
+<title>Using transputers in a TCP/IP environment: the PCserver approach.</title>
+<pages>529-536</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/S0141-9331(09)91004-3</ee>
+<url>db/journals/mam/mam17.html#Rizzo93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/MinKKSJ93" mdate="2020-02-22">
+<author pid="34/5109">Sang Lyul Min</author>
+<author pid="78/5324">Jesung Kim</author>
+<author pid="04/1249">Chong-Sang Kim</author>
+<author pid="08/4789">Heonshik Shin</author>
+<author pid="12/1575">Deog-Kyoon Jeong</author>
+<title>V-P cache: a storage efficient virtual cache organization.</title>
+<pages>537-546</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/S0141-9331(09)91005-5</ee>
+<url>db/journals/mam/mam17.html#MinKKSJ93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/Lopriore93" mdate="2020-02-22">
+<author pid="63/2013">Lanfranco Lopriore</author>
+<title>Line fetch/prefetch in a stack cache memory.</title>
+<pages>547-555</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/S0141-9331(09)91006-7</ee>
+<url>db/journals/mam/mam17.html#Lopriore93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/RajanSR93" mdate="2020-02-22">
+<author pid="91/1017">K. Rajan</author>
+<author pid="167/8884">K. S. Sangunni</author>
+<author pid="167/8853">J. Ramakrishna</author>
+<title>Dual-DSP system for signal and image processing.</title>
+<pages>556-560</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/S0141-9331(09)91007-9</ee>
+<url>db/journals/mam/mam17.html#RajanSR93</url>
+</article>
+</r>
+</dblpcites>
+Application note series 
+<dblpcites><r style="ee"><article key="journals/mam/Stephansen93" mdate="2020-02-22">
+<author pid="167/8802">Eirik Stephansen</author>
+<title>MS160 ultra fast non-numeric coprocessor.</title>
+<pages>561-564</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/S0141-9331(09)91008-0</ee>
+<url>db/journals/mam/mam17.html#Stephansen93</url>
+</article>
+</r>
+</dblpcites>
+Book review 
+<dblpcites><r style="ee"><article key="journals/mam/Lederer93" mdate="2020-02-22">
+<author pid="29/5397">Edgar F. A. Lederer</author>
+<title>David E Hudak and Santosh G Abraham , Compiling Parallel Loops for High Performance Computers: Partitioning, Data Assignment and Remapping, Kluwer Academic, Dordrecht, The Netherlands (1992) ISBN 0 7923 9283 3, p. 176 &#163;37.25.</title>
+<pages>565</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/S0141-9331(09)91009-2</ee>
+<url>db/journals/mam/mam17.html#Lederer93</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 17, Number 10, 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/mam/BrunfautPABC93" mdate="2020-02-22">
+<author pid="31/9157">Marnik Brunfaut</author>
+<author pid="44/4334">Herbert Peremans</author>
+<author pid="77/6367">Koenraad Audenaert</author>
+<author pid="167/8789">Ronny Blomme</author>
+<author orcid="0000-0002-5910-1442" pid="v/JMVanCampenhout">Jan Van Campenhout</author>
+<title>A correlation coprocessor for accurate real-time ultrasonic ranging of multiple objects using the transputer.</title>
+<pages>571-577</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/S0141-9331(05)80001-8</ee>
+<url>db/journals/mam/mam17.html#BrunfautPABC93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/TeoCT93" mdate="2020-02-22">
+<author pid="50/2680">C. Y. Teo</author>
+<author pid="94/563">Opas Chutatape</author>
+<author pid="47/6796">C. H. Tan</author>
+<title>A generalized addressing scheme and command message for PC-based SCADA applications.</title>
+<pages>578-586</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/S0141-9331(05)80002-X</ee>
+<url>db/journals/mam/mam17.html#TeoCT93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/GoodallG93" mdate="2021-07-31">
+<author orcid="0000-0002-4482-9932" pid="20/5731">Roger M. Goodall</author>
+<author pid="167/8819">Matthew G. Goodall</author>
+<title>The efficiency of computational procedures for recursive digital filters.</title>
+<pages>587-596</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/S0141-9331(05)80003-1</ee>
+<ee>https://www.wikidata.org/entity/Q107618343</ee>
+<url>db/journals/mam/mam17.html#GoodallG93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/AllenBM93" mdate="2020-02-22">
+<author pid="57/945">Charles R. Allen</author>
+<author pid="15/6125">Roy Booth</author>
+<author pid="46/1030">Stephen McConnell</author>
+<title>Data acquisition system based on the T800 transputer for the PC-bus.</title>
+<pages>597-606</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/S0141-9331(05)80004-3</ee>
+<url>db/journals/mam/mam17.html#AllenBM93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/KrishnanM93" mdate="2020-02-22">
+<author pid="12/10846">C. S. R. Krishnan</author>
+<author pid="78/4000">C. Siva Ram Murthy</author>
+<title>A constant time algorithm for finding maxima on reconfigurable bus systems using fewer processors.</title>
+<pages>607-610</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/S0141-9331(05)80005-5</ee>
+<url>db/journals/mam/mam17.html#KrishnanM93</url>
+</article>
+</r>
+<r style="ee"><article key="journals/mam/ArriolaC93" mdate="2020-02-22">
+<author pid="167/8870">Y. Arriola</author>
+<author pid="162/3031">R. A. Carrasco</author>
+<title>Real-time parallel processing implementation for word recognition using MLP and HMM.</title>
+<pages>611-626</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/S0141-9331(05)80006-7</ee>
+<url>db/journals/mam/mam17.html#ArriolaC93</url>
+</article>
+</r>
+</dblpcites>
+Technical note 
+<dblpcites><r style="ee"><article key="journals/mam/LiuS93" mdate="2020-02-22">
+<author pid="09/5179">Yu-cheng Liu</author>
+<author pid="167/8890">Geofrey Showalter</author>
+<title>Design and implementation of an EPROM emulator as a low-cost microprocessor development tool.</title>
+<pages>627-630</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/S0141-9331(05)80007-9</ee>
+<url>db/journals/mam/mam17.html#LiuS93</url>
+</article>
+</r>
+</dblpcites>
+Book review 
+<dblpcites><r style="ee"><article key="journals/mam/Vladimirova93" mdate="2020-02-22">
+<author pid="60/2118">Tanya Vladimirova</author>
+<title>Tavi Bar-David, Object-Oriented Design for C++, Prentice Hali, Hemel Hempstead, UK (1993) ISBN 0 13 630260 2, p. 304 &#163;25.50.</title>
+<pages>631</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/S0141-9331(05)80008-0</ee>
+<url>db/journals/mam/mam17.html#Vladimirova93</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

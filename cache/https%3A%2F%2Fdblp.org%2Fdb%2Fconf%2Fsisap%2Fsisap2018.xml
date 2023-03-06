@@ -1,0 +1,314 @@
+<bht key="db/conf/sisap/sisap2018.bht" title="Similarity Search and Applications 2018">  
+<h1>11. <ref href="db/conf/sisap/index.html">SISAP</ref> 2018:
+Lima, Peru</h1> <dblpcites><r><proceedings key="conf/sisap/2018" mdate="2019-05-14">
+<editor pid="32/3825">St&#233;phane Marchand-Maillet</editor>
+<editor pid="s/YasinNSilva">Yasin N. Silva</editor>
+<editor pid="95/1963">Edgar Ch&#225;vez</editor>
+<title>Similarity Search and Applications - 11th International Conference, SISAP 2018, Lima, Peru, October 7-9, 2018, Proceedings</title>
+<booktitle>SISAP</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11223</volume>
+<isbn>978-3-030-02223-5</isbn>
+<isbn>978-3-030-02224-2</isbn>
+<ee>https://doi.org/10.1007/978-3-030-02224-2</ee>
+<url>db/conf/sisap/sisap2018.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Metric Search</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/AmatoCCFGV18" mdate="2022-11-18">
+<author orcid="0000-0003-0171-4315" pid="54/685">Giuseppe Amato 0001</author>
+<author pid="95/1963">Edgar Ch&#225;vez</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author orcid="0000-0001-6258-5313" pid="32/4659">Fabrizio Falchi</author>
+<author orcid="0000-0002-3715-149X" pid="68/4499">Claudio Gennaro</author>
+<author orcid="0000-0001-7182-7038" pid="152/1401">Lucia Vadicamo</author>
+<title>Re-ranking Permutation-Based Candidate Sets with the n-Simplex Projection.</title>
+<pages>3-17</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_1</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#AmatoCCFGV18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/ShimomuraVK18" mdate="2020-03-27">
+<author pid="227/4708">Larissa Capobianco Shimomura</author>
+<author pid="98/5702">Marcos R. Vieira</author>
+<author orcid="0000-0001-9628-3313" pid="k/DanielSKaster">Daniel S. Kaster</author>
+<title>Performance Analysis of Graph-Based Methods for Exact and Approximate Similarity Search in Metric Spaces.</title>
+<pages>18-32</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_2</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#ShimomuraVK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/ConnorD18" mdate="2021-07-07">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Querying Metric Spaces with Bit Operations.</title>
+<pages>33-46</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_3</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#ConnorD18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/Ruiz-MunozCO18" mdate="2019-09-16">
+<author pid="13/10460">Jos&#233; Francisco Ruiz-Mu&#241;oz</author>
+<author pid="56/5099">Germ&#225;n Castellanos-Dom&#237;nguez</author>
+<author orcid="0000-0002-5937-6382" pid="76/1518">Mauricio Orozco-Alzate</author>
+<title>Relative Minimum Distance Between Projected Bags for Improved Multiple Instance Classification.</title>
+<pages>47-56</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_4</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#Ruiz-MunozCO18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Visual Search</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/AmsalegJL18" mdate="2018-10-08">
+<author pid="a/LAmsaleg">Laurent Amsaleg</author>
+<author pid="j/BjornTorJonsson1">Bj&#246;rn &#222;&#243;r J&#243;nsson 0001</author>
+<author pid="71/4250">Herwig Lejsek</author>
+<title>Scalability of the NV-tree: Three Experiments.</title>
+<pages>59-72</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_5</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#AmsalegJL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/LejsekAJA18" mdate="2018-10-08">
+<author pid="71/4250">Herwig Lejsek</author>
+<author pid="37/2659">Fri&#240;rik Hei&#240;ar &#193;smundsson</author>
+<author pid="j/BjornTorJonsson1">Bj&#246;rn &#222;&#243;r J&#243;nsson 0001</author>
+<author pid="a/LAmsaleg">Laurent Amsaleg</author>
+<title>Transactional Support for Visual Instance Search.</title>
+<pages>73-86</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_6</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#LejsekAJA18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/SkopalPG18" mdate="2018-10-08">
+<author pid="s/TomasSkopal">Tom&#225;s Skopal</author>
+<author pid="31/10716">Ladislav Peska</author>
+<author pid="117/3523">Tom&#225;s Grosup</author>
+<title>Interactive Product Search Based on Global and Local Visual-Semantic Features.</title>
+<pages>87-95</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_7</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#SkopalPG18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/LokocBS18" mdate="2018-10-08">
+<author pid="00/1649">Jakub Lokoc</author>
+<author pid="58/3746">Werner Bailer</author>
+<author pid="38/5557">Klaus Sch&#246;ffmann</author>
+<title>What Is the Role of Similarity for Known-Item Search at Video Browser Showdown?</title>
+<pages>96-104</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_8</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#LokocBS18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Nearest Neighbor Queries</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/RazenteSB18" mdate="2018-11-02">
+<author orcid="0000-0001-9687-5730" pid="86/470">Humberto Luiz Razente</author>
+<author orcid="0000-0001-8782-0391" pid="198/8864">R&#233;gis Michel dos Santos Sousa</author>
+<author orcid="0000-0002-5809-0243" pid="37/2450">Maria Camila Nardini Barioni</author>
+<title>Metric Indexing Assisted by Short-Term Memories.</title>
+<pages>107-121</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_9</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#RazenteSB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/FigueroaPR18" mdate="2018-11-02">
+<author orcid="0000-0002-4680-5950" pid="09/6973">Karina Figueroa</author>
+<author orcid="0000-0002-9943-2510" pid="95/3010">Rodrigo Paredes</author>
+<author orcid="0000-0001-7630-3161" pid="59/1548">Nora Reyes</author>
+<title>New Permutation Dissimilarity Measures for Proximity Searching.</title>
+<pages>122-133</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_10</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#FigueroaPR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/HouleORW18" mdate="2020-06-15">
+<author pid="51/4467">Michael E. Houle</author>
+<author pid="o/VincentOria">Vincent Oria</author>
+<author orcid="0000-0003-0389-5092" pid="54/1874">Kurt Rohloff</author>
+<author pid="206/4521">Arwa M. Wali</author>
+<title>LID-Fingerprint: A Local Intrinsic Dimensionality-Based Fingerprinting Method.</title>
+<pages>134-147</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_11</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#HouleORW18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Clustering and Outlier Detection</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/BaruchKS18" mdate="2019-09-25">
+<author pid="186/0436">Gilad Baruch</author>
+<author pid="k/ShmuelTomiKlein">Shmuel Tomi Klein</author>
+<author orcid="0000-0002-2320-9064" pid="02/222">Dana Shapira</author>
+<title>Applying Compression to Hierarchical Clustering.</title>
+<pages>151-162</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_12</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#BaruchKS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/KazempourBKS18" mdate="2020-10-25">
+<author pid="141/5283">Daniyal Kazempour</author>
+<author pid="227/4470">Kevin Bein</author>
+<author pid="k/PeerKroger">Peer Kr&#246;ger</author>
+<author orcid="0000-0002-4861-1412" pid="s/ThomasSeidl1">Thomas Seidl 0001</author>
+<title>D-MASC: A Novel Search Strategy for Detecting Regions of Interest in Linear Parameter Space.</title>
+<pages>163-176</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_13</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#KazempourBKS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/HouleSZ18" mdate="2018-11-24">
+<author pid="51/4467">Michael E. Houle</author>
+<author orcid="0000-0001-9143-4880" pid="61/5820">Erich Schubert</author>
+<author orcid="0000-0001-7713-4208" pid="27/4179">Arthur Zimek</author>
+<title>On the Correlation Between Local Intrinsic Dimensionality and Outlierness.</title>
+<pages>177-191</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_14</ee>
+<ee>https://www.wikidata.org/entity/Q58799445</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#HouleSZ18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Graphs and Applications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/RitterHG18" mdate="2018-10-08">
+<author pid="204/2953">Lorenzo von Ritter</author>
+<author pid="51/4467">Michael E. Houle</author>
+<author pid="43/3011">Stephan G&#252;nnemann</author>
+<title>Intrinsic Degree: An Estimator of the Local Growth Rate in Graphs.</title>
+<pages>195-208</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_15</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#RitterHG18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/SkopalPHPH18" mdate="2022-12-07">
+<author pid="s/TomasSkopal">Tom&#225;s Skopal</author>
+<author pid="31/10716">Ladislav Peska</author>
+<author orcid="0000-0003-2113-1539" pid="31/1317">Irena Holubov&#225;</author>
+<author pid="227/4722">Petr Pascenko</author>
+<author pid="227/4421">Jan Huc&#237;n</author>
+<title>Advanced Analytics of Large Connected Data Based on Similarity Modeling.</title>
+<pages>209-216</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_16</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#SkopalPHPH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/PeskaT18" mdate="2018-10-08">
+<author pid="31/10716">Ladislav Peska</author>
+<author pid="203/8897">Hana Trojanova</author>
+<title>Towards Similarity Models in Police Photo Lineup Assembling Tasks.</title>
+<pages>217-225</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_17</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#PeskaT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/NakagawaSTISS18" mdate="2018-10-08">
+<author pid="227/4810">Shunta Nakagawa</author>
+<author pid="227/4755">Tokio Sakamoto</author>
+<author pid="118/6638">Yoshimasa Takabatake</author>
+<author pid="95/2224">Tomohiro I</author>
+<author pid="72/6313">Kilho Shin</author>
+<author pid="26/5309">Hiroshi Sakamoto</author>
+<title>Privacy-Preserving String Edit Distance with Moves.</title>
+<pages>226-240</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_18</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#NakagawaSTISS18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Shared Session SISAP and SPIRE</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/Grandi18" mdate="2020-06-30">
+<author pid="268/3862-1">Fabio Grandi 0001</author>
+<title>On the Analysis of Compressed Chemical Fingerprints.</title>
+<pages>243-256</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_19</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#Grandi18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/SperandioMAT18" mdate="2018-10-08">
+<author pid="143/5605">Ricardo C. Sperandio</author>
+<author pid="45/5554">Simon Malinowski</author>
+<author pid="a/LAmsaleg">Laurent Amsaleg</author>
+<author pid="11/1066">Romain Tavenard</author>
+<title>Time Series Retrieval Using DTW-Preserving Shapelets.</title>
+<pages>257-270</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_20</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#SperandioMAT18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+</bht>
+

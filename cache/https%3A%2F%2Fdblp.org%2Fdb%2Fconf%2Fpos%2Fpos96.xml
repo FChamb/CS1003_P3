@@ -1,0 +1,320 @@
+<bht key="db/conf/pos/pos96.bht" title="POS-7 1996: Cape May, New Jersey, USA"> 
+<h1><ref href="db/conf/pos/index.html">POS</ref>-7 1996:
+Cape May, New Jersey, USA</h1> <dblpcites><r><proceedings key="conf/pos/96" mdate="2021-07-07">
+<editor pid="c/RCHConnor">Richard Connor 0001</editor>
+<editor pid="71/3029">Scott Nettles</editor>
+<title>Proceedings of the 7th Workshop on Persistent Object Systems, Cape May, New Jersey, USA, 1996</title>
+<publisher>Morgan Kaufmann</publisher>
+<year>1997</year>
+<isbn>1-55860-447-2</isbn>
+<url>db/conf/pos/pos96.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/X96" mdate="2017-03-16">
+<title>Title, Programme Committee, Preface.</title>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#X96</url>
+<cdrom>POS/1996/frontmatter.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Heterogeneity</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/LiskovACZ96" mdate="2019-11-06">
+<author pid="l/BarbaraLiskov">Barbara Liskov</author>
+<author pid="a/AAdya">Atul Adya</author>
+<author pid="c/MiguelCastro">Miguel Castro 0001</author>
+<author pid="07/6514">Quinton Zondervan</author>
+<title>Type-Safe Heterogeneous Sharing can be Fast.</title>
+<pages>1-10</pages>
+<cdrom>POS/1996/P001.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#LiskovACZ96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/KaplanW96" mdate="2017-03-16">
+<author pid="47/6814">Alan Kaplan</author>
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<title>Toward Painless Polylingual Persistence.</title>
+<pages>11-22</pages>
+<cdrom>POS/1996/P011.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#KaplanW96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FarkasDH96" mdate="2017-03-16">
+<author pid="91/3786">Alex Farkas</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="89/4105">David Hulse</author>
+<title>Operating System Support for Inter-Domain Type Checking.</title>
+<pages>23-32</pages>
+<cdrom>POS/1996/P023.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#FarkasDH96</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Language Design</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/AtkinsonJDS96" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="30/6126">Mick J. Jordan</author>
+<author pid="d/LaurentDaynes">Laurent Dayn&#232;s</author>
+<author pid="s/SusanSpence">Susan Spence</author>
+<title>Design Issues for Persistent Java: A Type-Safe, Object-Oriented, Orthogonally Persistent System.</title>
+<pages>33-47</pages>
+<cdrom>POS/1996/P033.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#AtkinsonJDS96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ConnorGM96" mdate="2021-07-07">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="g/GiorgioGhelli">Giorgio Ghelli</author>
+<author pid="28/2137">Paolo Manghi</author>
+<title>Persistence, Modules and Type Abstraction.</title>
+<pages>48-59</pages>
+<cdrom>POS/1996/P048.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#ConnorGM96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FlanaganFHR96" mdate="2020-08-27">
+<author pid="36/3456">Michael Flanagan</author>
+<author pid="f/AlanDavidFekete">Alan D. Fekete</author>
+<author pid="h/FransAHenskens">Frans A. Henskens</author>
+<author pid="17/3411">John Rosenberg</author>
+<title>Dynamically Configurable Concurrency Control for a Persistent Store.</title>
+<pages>60-71</pages>
+<cdrom>POS/1996/P060.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#FlanaganFHR96</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Integrity &#38; Modelling</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/BenzakenS96" mdate="2017-03-16">
+<author pid="b/VBenzaken">V&#233;ronique Benzaken</author>
+<author pid="78/2230">Xavier Schaefer</author>
+<title>Ensuring Efficiently the Integrity of Persistent Object Systems via Abstract Interpretation.</title>
+<pages>72-87</pages>
+<cdrom>POS/1996/P072.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#BenzakenS96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ShapiroFS96" mdate="2017-03-16">
+<author pid="s/JonathanSShapiro">Jonathan S. Shapiro</author>
+<author pid="f/DavidJFarber">David J. Farber</author>
+<author pid="s/JonathanMSmith">Jonathan M. Smith</author>
+<title>State Caching in the EROS Kernel.</title>
+<pages>88-100</pages>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#ShapiroFS96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BermanF96" mdate="2017-03-16">
+<author pid="73/4908">Sonia Berman</author>
+<author pid="60/2113">Ricardo Figueira</author>
+<title>Automating Systems Design in a Persistent Environment.</title>
+<pages>101-110</pages>
+<cdrom>POS/1996/P101.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#BermanF96</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Object Stores</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/ElphinstoneRHL96" mdate="2017-03-16">
+<author pid="e/KElphinstone">Kevin Elphinstone</author>
+<author pid="55/1628-4">Stephen Russell 0004</author>
+<author pid="h/GernotHeiser">Gernot Heiser</author>
+<author pid="07/1586">Jochen Liedtke</author>
+<title>Supporting Persistent Object Systems in a Single Address Space.</title>
+<pages>111-119</pages>
+<cdrom>POS/1996/P111.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#ElphinstoneRHL96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/NettlesO96" mdate="2021-03-10">
+<author pid="71/3029">Scott Nettles</author>
+<author pid="88/6703">James W. O'Toole Jr.</author>
+<title>A Rollback Technique for Implementation Orthogonal Persistence.</title>
+<pages>120-127</pages>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#NettlesO96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ShriraLCA96" mdate="2019-11-06">
+<author pid="s/LiubaShrira">Liuba Shrira</author>
+<author pid="l/BarbaraLiskov">Barbara Liskov</author>
+<author pid="c/MiguelCastro">Miguel Castro 0001</author>
+<author pid="a/AAdya">Atul Adya</author>
+<title>Fragment Reconstruction: A New Cache Coherence Scheme for Split Caching Storage Systems.</title>
+<pages>128-139</pages>
+<cdrom>POS/1996/P128.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#ShriraLCA96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MossMH96" mdate="2017-03-16">
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<author pid="m/DavidSMunro">David S. Munro</author>
+<author pid="40/6797">Richard L. Hudson</author>
+<title>PMOS: A Complete and Coarse-Grained Incremental Garbage Collector for Persistent Object Stores.</title>
+<pages>140-150</pages>
+<cdrom>POS/1996/P140.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#MossMH96</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Semantics-Related Optimisation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/AmatoBMR96" mdate="2022-11-18">
+<author pid="54/685">Giuseppe Amato 0001</author>
+<author pid="77/3939">Salvatore Biscari</author>
+<author pid="00/6995">Gianni Mainetto</author>
+<author pid="60/423">Fausto Rabitti</author>
+<title>Multigranularity Locking with the Use of Semantic Knowledge in a Layered Object Server.</title>
+<pages>151-163</pages>
+<cdrom>POS/1996/P151.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#AmatoBMR96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/NodineCN96" mdate="2017-03-16">
+<author pid="95/2148">Marian H. Nodine</author>
+<author pid="c/MitchCherniack">Mitch Cherniack</author>
+<author pid="13/2564">Mark H. Nodine</author>
+<title>Semantic Cardinality Estimation for Queries over Objects.</title>
+<pages>164-173</pages>
+<cdrom>POS/1996/P164.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#NodineCN96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Hosking96" mdate="2017-03-16">
+<author pid="h/AntonyLHosking">Antony L. Hosking</author>
+<title>Residency Check Elimination for Object-Oriented Persistent Language.</title>
+<pages>174-183</pages>
+<cdrom>POS/1996/P174.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#Hosking96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MuckP96" mdate="2017-03-16">
+<author pid="57/4535">Thomas A. M&#252;ck</author>
+<author pid="15/3216">Martin L. Polaschek</author>
+<title>Indexing Type Hierarchies with Multikey Structures.</title>
+<pages>184-193</pages>
+<cdrom>POS/1996/P184.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#MuckP96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MalhotraM96" mdate="2017-03-16">
+<author pid="73/247">Ashok Malhotra</author>
+<author pid="20/1007">Steven Munroe</author>
+<title>Schema Evolution in Persistent Object Systems.</title>
+<pages>194-204</pages>
+<cdrom>POS/1996/P194.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#MalhotraM96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/NittelD96" mdate="2017-03-16">
+<author pid="n/SilviaNittel">Silvia Nittel</author>
+<author pid="d/KRDittrich">Klaus R. Dittrich</author>
+<title>A Storage Server for the Efficient Support of Complex Objects.</title>
+<pages>205-221</pages>
+<cdrom>POS/1996/P205.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#NittelD96</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Autonomous and Clustered Data Stores</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/SilvaA96" mdate="2022-05-11">
+<author pid="99/745">Miguel Mira da Silva</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Higher-order Distributed Computation over Autonomous Persistent Stores.</title>
+<pages>222-236</pages>
+<cdrom>POS/1996/P222.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#SilvaA96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/GrossmanBH96" mdate="2017-03-16">
+<author pid="g/RobertLGrossman">Robert L. Grossman</author>
+<author pid="65/601">Stuart Bailey</author>
+<author pid="94/3645">David Hanley</author>
+<title>Data Mining Using Light Weight Object Management in Clustered Computing Environments.</title>
+<pages>237-249</pages>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#GrossmanBH96</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BlackburnS96" mdate="2023-01-13">
+<author pid="b/StephenMBlackburn">Stephen M. Blackburn</author>
+<author pid="73/3316">Robin B. Stanton</author>
+<title>Multicomputer Object Stores: The Multicomputer Texas Experiment.</title>
+<pages>250-262</pages>
+<cdrom>POS/1996/P250.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#BlackburnS96</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

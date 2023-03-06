@@ -1,0 +1,100 @@
+<bht key="db/conf/aaai/cloud2011.bht" title="AAAI Workshop AI for Data Center Management and Cloud Computing 2011: San Francisco, California, USA"> 
+<h1>25th <ref href="db/conf/aaai/index.html">AAAI</ref> Workshop:
+AI for Data Center Management and Cloud Computing 2011:
+San Francisco, California, USA</h1><dblpcites><r><proceedings key="conf/aaai/2011cloud" mdate="2022-02-08">
+<title>AI for Data Center Management and Cloud Computing, Papers from the 2011 AAAI Workshop, San Francisco, California, USA, August 7, 2011</title>
+<booktitle>AI for Data Center Management and Cloud Computing</booktitle>
+<year>2011</year>
+<publisher>AAAI</publisher>
+<series href="db/series/aaaiws/index.html">AAAI Technical Report</series>
+<volume>WS-11-08</volume>
+<ee type="oa">http://www.aaai.org/Library/Workshops/ws11-08.php</ee>
+<url>db/conf/aaai/cloud2011.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CremonesiSG11" mdate="2021-02-18">
+<author pid="03/3233">Paolo Cremonesi</author>
+<author pid="43/8216">Andrea Sansottera</author>
+<author pid="77/1801">Stefano Gualandi</author>
+<title>On the Cooling-Aware Workload Placement Problem.</title>
+<year>2011</year>
+<booktitle>AI for Data Center Management and Cloud Computing</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3911</ee>
+<crossref>conf/aaai/2011cloud</crossref>
+<url>db/conf/aaai/cloud2011.html#CremonesiSG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GentK11" mdate="2021-02-18">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="42/7865">Lars Kotthoff</author>
+<title>Reliability of Computational Experiments on Virtualised Hardware.</title>
+<year>2011</year>
+<booktitle>AI for Data Center Management and Cloud Computing</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3806</ee>
+<crossref>conf/aaai/2011cloud</crossref>
+<url>db/conf/aaai/cloud2011.html#GentK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HeE11" mdate="2021-02-18">
+<author pid="50/174">Yuxiong He</author>
+<author pid="18/1967">Sameh Elnikety</author>
+<title>Position Paper: Embracing Heterogeneity - Improving Energy Efficiency for Interactive Services on Heterogeneous Data Center Hardware.</title>
+<year>2011</year>
+<booktitle>AI for Data Center Management and Cloud Computing</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3897</ee>
+<crossref>conf/aaai/2011cloud</crossref>
+<url>db/conf/aaai/cloud2011.html#HeE11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NirDL11" mdate="2021-02-18">
+<author pid="93/448">Yannick Le Nir</author>
+<author pid="43/1376">Florent Devin</author>
+<author orcid="0000-0003-1522-5694" pid="77/10919">Peio Loubi&#232;re</author>
+<title>Cloud Resource Management Using Constraints Acquisition and Planning.</title>
+<year>2011</year>
+<booktitle>AI for Data Center Management and Cloud Computing</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3879</ee>
+<crossref>conf/aaai/2011cloud</crossref>
+<url>db/conf/aaai/cloud2011.html#NirDL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ReginR11" mdate="2021-02-18">
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<author pid="80/10919">Mohamed Rezgui</author>
+<title>Discussion about Constraint Programming Bin Packing Models.</title>
+<year>2011</year>
+<booktitle>AI for Data Center Management and Cloud Computing</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3817</ee>
+<crossref>conf/aaai/2011cloud</crossref>
+<url>db/conf/aaai/cloud2011.html#ReginR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RiosJ11" mdate="2021-02-18">
+<author pid="41/2610">Gordon Rios</author>
+<author pid="82/10919">Doug Judd</author>
+<title>Load Balancing for Hypertable.</title>
+<year>2011</year>
+<booktitle>AI for Data Center Management and Cloud Computing</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3802</ee>
+<crossref>conf/aaai/2011cloud</crossref>
+<url>db/conf/aaai/cloud2011.html#RiosJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/XuWGCYS11" mdate="2021-02-18">
+<author pid="61/3906-3">Yang Xu 0003</author>
+<author pid="68/5597">Lei Wu</author>
+<author pid="77/7628">Liying Guo</author>
+<author pid="33/2592">Zheng Chen</author>
+<author pid="38/8379">Lai Yang</author>
+<author pid="52/1213">Zhongzhi Shi</author>
+<title>An Intelligent Load Balancing Algorithm Towards Efficient Cloud Computing.</title>
+<year>2011</year>
+<booktitle>AI for Data Center Management and Cloud Computing</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3877</ee>
+<crossref>conf/aaai/2011cloud</crossref>
+<url>db/conf/aaai/cloud2011.html#XuWGCYS11</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

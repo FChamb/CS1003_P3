@@ -1,0 +1,872 @@
+<bht key="db/journals/jintseq/jintseq22.bht" title="J. Integer Seq., Volume 22"> 
+<h1><ref href="db/journals/jintseq/index.html">Journal of Integer Sequences</ref>, Volume 22</h1> 
+<h2>Volume 22, Number 1, 2019</h2> 
+<dblpcites><r style="ee"><article key="journals/jintseq/Javaheri19" mdate="2020-03-10">
+<author pid="30/2276">Mohammad Javaheri</author>
+<title>A Note on Polynomial Sequences Modulo Integers.</title>
+<pages>19.1.1</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>1</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Javaheri/java4.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Javaheri19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/EhrenborgHR19" mdate="2020-03-11">
+<author pid="91/3911">Richard Ehrenborg</author>
+<author pid="25/730">G&#225;bor Hetyei</author>
+<author pid="96/2239">Margaret A. Readdy</author>
+<title>A Bijective Answer to a Question of Simion.</title>
+<pages>19.1.2</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>1</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Ehrenborg/ehren5.html</ee>
+<url>db/journals/jintseq/jintseq22.html#EhrenborgHR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Barry19" mdate="2020-03-10">
+<author pid="05/9094">Paul Barry</author>
+<title>The Central Coefficients of a Family of Pascal-like Triangles and Colored Lattice Paths.</title>
+<pages>19.1.3</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>1</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Barry1/barry411.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Barry19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Barry19a" mdate="2020-03-10">
+<author pid="05/9094">Paul Barry</author>
+<title>The &#947;-Vectors of Pascal-like Triangles Defined by Riordan Arrays.</title>
+<pages>19.1.4</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>1</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Barry2/barry402.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Barry19a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/HeimN19" mdate="2020-03-10">
+<author pid="50/95">Bernhard Heim</author>
+<author pid="01/5605">Markus Neuhauser</author>
+<title>Log-Concavity of Recursively Defined Polynomials.</title>
+<pages>19.1.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>1</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Heim/heim2.html</ee>
+<url>db/journals/jintseq/jintseq22.html#HeimN19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Farhi19" mdate="2020-03-10">
+<author pid="126/7418">Bakir Farhi</author>
+<title>Summation of Certain Infinite Lucas-Related Series.</title>
+<pages>19.1.6</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>1</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Farhi/farhi19.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Farhi19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/ButlerCKS19" mdate="2020-03-10">
+<author pid="17/1429">Steve Butler</author>
+<author pid="259/9315">Jeongyoon Choi</author>
+<author pid="259/9447">Kimyung Kim</author>
+<author pid="259/9529">Kyuhyeok Seo</author>
+<title>Enumerating Multiplex Juggling Patterns.</title>
+<pages>19.1.7</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>1</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Butler/butler12.html</ee>
+<url>db/journals/jintseq/jintseq22.html#ButlerCKS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/StenlundW19" mdate="2020-03-10">
+<author pid="259/9605">David Stenlund</author>
+<author pid="199/5745">James G. Wan</author>
+<title>Some Double Sums Involving Ratios of Binomial Coefficients Arising From Urn Models.</title>
+<pages>19.1.8</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>1</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Wan/wan2.html</ee>
+<url>db/journals/jintseq/jintseq22.html#StenlundW19</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 2, 2019</h2> 
+<dblpcites><r style="ee"><article key="journals/jintseq/SaitoY19" mdate="2020-03-10">
+<author pid="73/2742">Kota Saito</author>
+<author pid="224/9769">Yuuya Yoshida</author>
+<title>Arithmetic Progressions in the Graphs of Slightly Curved Sequences.</title>
+<pages>19.2.1</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Yoshida/yoshida4.html</ee>
+<url>db/journals/jintseq/jintseq22.html#SaitoY19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Ernvall-Hytonen19" mdate="2020-03-10">
+<author pid="11/9507">Anne-Maria Ernvall-Hyt&#246;nen</author>
+<author pid="69/2219">Tapani Matala-aho</author>
+<author pid="259/9673">Louna Sepp&#228;l&#228;</author>
+<title>Euler's Divergent Series in Arithmetic Progressions.</title>
+<pages>19.2.2</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Seppala/seppala2.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Ernvall-Hytonen19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/LomeliH19" mdate="2020-03-10">
+<author pid="259/9803">Ana Cecilia Garc&#237;a Lomel&#237;</author>
+<author pid="259/9468">Santos Hern&#225;ndez Hern&#225;ndez</author>
+<title>Repdigits as Sums of Two Padovan Numbers.</title>
+<pages>19.2.3</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Lomeli/lomeli3.html</ee>
+<url>db/journals/jintseq/jintseq22.html#LomeliH19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Shor19" mdate="2022-06-22">
+<author pid="259/9351">Caleb McKinley Shor</author>
+<title>On Free Numerical Semigroups and the Construction of Minimal Telescopic Sequences.</title>
+<pages>19.2.4</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Shor/shor3.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Shor19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/AkgunGKZ19" mdate="2020-03-10">
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="57/1862">Sergey Kitaev</author>
+<author pid="z/HZantema">Hans Zantema</author>
+<title>Solving Computational Problems in the Theory of Word-Representable Graphs.</title>
+<pages>19.2.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Kitaev/kitaev11.html</ee>
+<url>db/journals/jintseq/jintseq22.html#AkgunGKZ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/BukataKLPRW19" mdate="2020-03-10">
+<author pid="259/9611">Michael Bukata</author>
+<author pid="259/9631">Ryan Kulwicki</author>
+<author pid="259/9630">Nicholas Lewandowski</author>
+<author pid="20/1934">Lara Pudwell</author>
+<author pid="219/8587">Jacob Roth</author>
+<author pid="259/9706">Teresa Wheeland</author>
+<title>Distributions of Statistics over Pattern-Avoiding Permutations.</title>
+<pages>19.2.6</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Pudwell/pudwell6.html</ee>
+<url>db/journals/jintseq/jintseq22.html#BukataKLPRW19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Dennison19" mdate="2020-03-10">
+<author pid="259/9258">Melissa Dennison</author>
+<title>On Properties of the General Bow Sequence.</title>
+<pages>19.2.7</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Dennison/dennis3.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Dennison19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Brown19" mdate="2020-03-10">
+<author pid="197/7314">Tricia Muldoon Brown</author>
+<title>On the Unimodality of Convolutions of Sequences of Binomial Coefficients.</title>
+<pages>19.2.8</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Brown/brown4.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Brown19</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 3, 2019</h2> 
+<dblpcites><r style="ee"><article key="journals/jintseq/HalbeisenH19" mdate="2020-03-10">
+<author pid="75/1368">Lorenz Halbeisen</author>
+<author pid="72/5619">Norbert Hungerb&#252;hler</author>
+<title>Congruent Number Elliptic Curves Related to Integral Solutions of m2 = n2 + nl + n2.</title>
+<pages>19.3.1</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>3</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Halbeisen/halb4.html</ee>
+<url>db/journals/jintseq/jintseq22.html#HalbeisenH19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/DilcherE19" mdate="2020-03-10">
+<author pid="75/4975">Karl Dilcher</author>
+<author pid="54/2879">Larry Ericksen</author>
+<title>Polynomial Analogues of Restricted b-ary Partition Functions.</title>
+<pages>19.3.2</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>3</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Dilcher/dilcher44.html</ee>
+<url>db/journals/jintseq/jintseq22.html#DilcherE19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/DinitzGR19" mdate="2020-03-10">
+<author pid="50/900">Jeffrey H. Dinitz</author>
+<author pid="09/5122">Richard A. Games</author>
+<author pid="259/9682">Robert L. Roth</author>
+<title>Seeds for Generalized Taxicab Numbers.</title>
+<pages>19.3.3</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>3</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Dinitz/dinitz8.html</ee>
+<url>db/journals/jintseq/jintseq22.html#DinitzGR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/HurdM19" mdate="2020-03-10">
+<author pid="09/3492">Spencer P. Hurd</author>
+<author pid="259/9728">Judson S. McCranie</author>
+<title>Integers That Are Sums of Uniform Powers of All Their Prime Factors: The Sequence A068916.</title>
+<pages>19.3.4</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>3</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Hurd/hurd1.html</ee>
+<url>db/journals/jintseq/jintseq22.html#HurdM19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/BelbachirMS19" mdate="2020-03-10">
+<author pid="09/8077">Hac&#232;ne Belbachir</author>
+<author pid="240/7920">Abdelghani Mehdaoui</author>
+<author pid="97/10717">L&#225;szl&#243; Szalay</author>
+<title>Diagonal Sums in the Pascal Pyramid, II: Applications.</title>
+<pages>19.3.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>3</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Szalay/szalay42.html</ee>
+<url>db/journals/jintseq/jintseq22.html#BelbachirMS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Barnea19" mdate="2020-03-10">
+<author pid="259/9747">Tal Barnea</author>
+<title>The Riemann Zeta Function and the Fractional Part of Rational Powers.</title>
+<pages>19.3.6</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>3</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Barnea/barnea4.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Barnea19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Chu19" mdate="2020-03-10">
+<author pid="259/9411">H&#249;ng Vi&#234;t Chu</author>
+<title>When Sets Are Not Sum-Dominant.</title>
+<pages>19.3.7</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>3</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Chu/chu5.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Chu19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Wang19" mdate="2020-03-10">
+<author pid="92/1375">Jin Wang</author>
+<title>Nonlinear Inverse Relations for Bell Polynomials via the Lagrange Inversion Formula.</title>
+<pages>19.3.8</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>3</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Wang/wang53.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Wang19</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 4, 2019</h2> 
+<dblpcites><r style="ee"><article key="journals/jintseq/Koshy19" mdate="2020-03-10">
+<author pid="259/9464">Thomas Koshy</author>
+<title>A Graph-Theoretic Model for a Generalized Fibonacci Gem.</title>
+<pages>19.4.1</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>4</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Koshy/koshy7.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Koshy19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Axler19" mdate="2020-03-10">
+<author pid="259/9731">Christian Axler</author>
+<title>New Estimates for the nth Prime Number.</title>
+<pages>19.4.2</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>4</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Axler/axler17.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Axler19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Nitica19" mdate="2020-03-10">
+<author pid="92/7205">Viorel Nitica</author>
+<title>Infinite Sets of b-Additive and b-Multiplicative Ramanujan-Hardy Numbers.</title>
+<pages>19.4.3</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>4</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Nitica/nitica50.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Nitica19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/FlorezHR19" mdate="2020-03-10">
+<author pid="25/1931">Rigoberto Fl&#243;rez</author>
+<author pid="254/4718">Robinson A. Higuita</author>
+<author pid="259/9324">Alexander Ram&#237;rez</author>
+<title>The Resultant, the Discriminant, and the Derivative of Generalized Fibonacci Polynomials.</title>
+<pages>19.4.4</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>4</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Florez/florez23.html</ee>
+<url>db/journals/jintseq/jintseq22.html#FlorezHR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/AlexanderssonJ19" mdate="2020-03-10">
+<author pid="129/6059">Per Alexandersson</author>
+<author pid="259/9563">Linus Jordan</author>
+<title>Enumeration of Border-Strip Decompositions and Weil-Petersson Volumes.</title>
+<pages>19.4.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>4</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Alexandersson/alex4.html</ee>
+<url>db/journals/jintseq/jintseq22.html#AlexanderssonJ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/HildebrandLLX19" mdate="2020-03-10">
+<author pid="09/4127">A. J. Hildebrand</author>
+<author pid="07/7558">Xiaomin Li</author>
+<author pid="144/3342">Junxian Li</author>
+<author pid="16/6637">Yun Xie</author>
+<title>Almost Beatty Partitions.</title>
+<pages>19.4.6</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>4</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Hildebrand/hilde2.html</ee>
+<url>db/journals/jintseq/jintseq22.html#HildebrandLLX19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/BrentGG19" mdate="2020-03-10">
+<author pid="b/RichardPBrent">Richard P. Brent</author>
+<author pid="58/2084">M. L. Glasser</author>
+<author pid="10/1624">Anthony J. Guttmann</author>
+<title>A Conjectured Integer Sequence Arising From the Exponential Integral.</title>
+<pages>19.4.7</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>4</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Brent/brent21.html</ee>
+<url>db/journals/jintseq/jintseq22.html#BrentGG19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/LeungT19" mdate="2020-07-17">
+<author pid="259/9362">Ho-Hon Leung</author>
+<author pid="03/10671">Thotsaporn &#34;Aek&#34; Thanatipanonda</author>
+<title>A Probabilistic Two-Pile Game.</title>
+<pages>19.4.8</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>4</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Leung/thanati3.html</ee>
+<url>db/journals/jintseq/jintseq22.html#LeungT19</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 5, 2019</h2> 
+<dblpcites><r style="ee"><article key="journals/jintseq/Lengyel19" mdate="2020-03-10">
+<author pid="17/2934">Tam&#225;s Lengyel</author>
+<title>A Note on a Permutation Statistic.</title>
+<pages>19.5.1</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>5</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Lengyel/lengyel7.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Lengyel19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/BanderierL19" mdate="2020-03-10">
+<author pid="67/2037">Cyril Banderier</author>
+<author pid="40/632">Florian Luca</author>
+<title>On the Period mod m of Polynomially-Recursive Sequences: a Case Study.</title>
+<pages>19.5.2</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>5</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Banderier/band3.html</ee>
+<url>db/journals/jintseq/jintseq22.html#BanderierL19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Frontczak19" mdate="2020-03-10">
+<author pid="05/9652">Robert Frontczak</author>
+<title>Relating Fibonacci Numbers to Bernoulli Numbers via Balancing Polynomials.</title>
+<pages>19.5.3</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>5</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Frontczak/front4.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Frontczak19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Kimberling19" mdate="2020-03-10">
+<author pid="75/39">Clark Kimberling</author>
+<title>A Combinatorial Classification of Triangle Centers on the Line at Infinity.</title>
+<pages>19.5.4</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>5</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Kimberling/kimb9.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Kimberling19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/SwartCGHMZ19" mdate="2020-03-10">
+<author pid="232/1257">Breeanne Baker Swart</author>
+<author pid="259/9681">Susan Crook</author>
+<author pid="19/3015">Helen G. Grundman</author>
+<author pid="259/9699">Laura Hall-Seelig</author>
+<author pid="249/7065">May Mei</author>
+<author pid="259/9752">Laurie Zack</author>
+<title>Fixed Points of Augmented Generalized Happy Functions II: Oases and Mirages.</title>
+<pages>19.5.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>5</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Grundman/grun9.html</ee>
+<url>db/journals/jintseq/jintseq22.html#SwartCGHMZ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Ddamulira19" mdate="2020-03-10">
+<author pid="259/9556">Mahadi Ddamulira</author>
+<title>On the Problem of Pillai with Tribonacci Numbers and Powers of 3.</title>
+<pages>19.5.6</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>5</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Ddamulira/dda3.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Ddamulira19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Axler19a" mdate="2020-03-10">
+<author pid="259/9731">Christian Axler</author>
+<title>On a Family of Functions Defined Over Sums of Primes.</title>
+<pages>19.5.7</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>5</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Axler2/axler24.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Axler19a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Barry19b" mdate="2020-03-10">
+<author pid="05/9094">Paul Barry</author>
+<title>Generalized Catalan Numbers Associated with a Family of Pascal-like Triangles.</title>
+<pages>19.5.8</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>5</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Barry3/barry422.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Barry19b</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 6, 2019</h2> 
+<dblpcites><r style="ee"><article key="journals/jintseq/Barry19c" mdate="2020-03-10">
+<author pid="05/9094">Paul Barry</author>
+<title>Riordan Pseudo-Involutions, Continued Fractions and Somos-4 Sequences.</title>
+<pages>19.6.1</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>6</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Barry4/barry431.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Barry19c</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/LengO19" mdate="2020-03-10">
+<author pid="252/5451">Calvin Leng</author>
+<author pid="159/8815">Christopher O'Neill</author>
+<title>A Sequence of Quasipolynomials Arising from Random Numerical Semigroups.</title>
+<pages>19.6.2</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>6</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/ONeill/oneill2.html</ee>
+<url>db/journals/jintseq/jintseq22.html#LengO19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/BravoGL19" mdate="2020-03-10">
+<author pid="230/0341">Eric F. Bravo</author>
+<author pid="230/0544">Carlos A. G&#243;mez</author>
+<author pid="40/632">Florian Luca</author>
+<title>Product of Consecutive Tribonacci Numbers With Only One Distinct Digit.</title>
+<pages>19.6.3</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>6</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Gomez/gomez3.html</ee>
+<url>db/journals/jintseq/jintseq22.html#BravoGL19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/AcostaCPRS19" mdate="2020-03-10">
+<author pid="259/9507">Jarib R. Acosta</author>
+<author pid="259/9730">Yadira Caicedo</author>
+<author pid="259/9735">Juan P. Poveda</author>
+<author pid="123/4768">Jos&#233; L. Ram&#237;rez</author>
+<author pid="21/9731">Mark Shattuck</author>
+<title>Some New Restricted n-Color Composition Functions.</title>
+<pages>19.6.4</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>6</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Shattuck/shattuck13.html</ee>
+<url>db/journals/jintseq/jintseq22.html#AcostaCPRS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Chu19a" mdate="2020-03-10">
+<author pid="259/9411">H&#249;ng Vi&#234;t Chu</author>
+<title>The Fibonacci Sequence and Schreier-Zeckendorf Sets.</title>
+<pages>19.6.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>6</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Chu2/chu9.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Chu19a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/VellaisamyZ19" mdate="2020-03-10">
+<author pid="259/9457">Palaniappan Vellaisamy</author>
+<author pid="23/9633">Aklilu Zeleke</author>
+<title>Probabilistic Proofs of Some Beta-Function Identities.</title>
+<pages>19.6.6</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>6</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Vellaisamy/vellai5.html</ee>
+<url>db/journals/jintseq/jintseq22.html#VellaisamyZ19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/AriasBR19" mdate="2020-03-10">
+<author pid="259/9541">Fabi&#225;n Arias</author>
+<author pid="256/6265">Jerson Borja</author>
+<author pid="15/113">Luis Rubio</author>
+<title>Counting Integers Representable as Images of Polynomials Modulo n.</title>
+<pages>19.6.7</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>6</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Borja/borja3.html</ee>
+<url>db/journals/jintseq/jintseq22.html#AriasBR19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/RuankongK19" mdate="2020-03-10">
+<author pid="259/9282">Pongpol Ruankong</author>
+<author pid="259/9320">Kantaphon Kuhapatanakul</author>
+<title>Approximating Sums of Consecutive Integral Roots.</title>
+<pages>19.6.8</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>6</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Kuhapatanakul/kuha10.html</ee>
+<url>db/journals/jintseq/jintseq22.html#RuankongK19</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 7, 2019</h2> 
+<dblpcites><r style="ee"><article key="journals/jintseq/Alzer19" mdate="2020-03-10">
+<author pid="43/600">Horst Alzer</author>
+<title>On Engel's Inequality for Bell Numbers.</title>
+<pages>19.7.1</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>7</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Alzer/alzer6.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Alzer19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/IsmailescuKLP19" mdate="2020-03-10">
+<author pid="81/1160">Dan Ismailescu</author>
+<author pid="259/9472">Adrienne Ko</author>
+<author pid="259/9736">Celine Lee</author>
+<author pid="259/9482">Jae Yong Park</author>
+<title>On Second-Order Linear Sequences of Composite Numbers.</title>
+<pages>19.7.2</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>7</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Ismailescu/ismail14.html</ee>
+<url>db/journals/jintseq/jintseq22.html#IsmailescuKLP19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Spiro19" mdate="2020-03-10">
+<author pid="202/9863">Sam Spiro</author>
+<title>Subset Parking Functions.</title>
+<pages>19.7.3</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>7</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Spiro/spiro5.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Spiro19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/HaukkanenMT19" mdate="2020-03-10">
+<author pid="16/1645">Pentti Haukkanen</author>
+<author pid="54/10360">Jorma K. Merikoski</author>
+<author pid="34/941">Timo Tossavainen</author>
+<title>Arithmetic Subderivatives: Discontinuity and Continuity.</title>
+<pages>19.7.4</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>7</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Merikoski/meri6.html</ee>
+<url>db/journals/jintseq/jintseq22.html#HaukkanenMT19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/AuliE19" mdate="2020-03-10">
+<author pid="259/9281">Juan S. Auli</author>
+<author pid="27/5865">Sergi Elizalde</author>
+<title>Consecutive Patterns in Inversion Sequences II: Avoiding Patterns of Relations.</title>
+<pages>19.7.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>7</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Elizalde/eli14.html</ee>
+<url>db/journals/jintseq/jintseq22.html#AuliE19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/BenjaminFFRJW19" mdate="2020-03-10">
+<author pid="259/9481">Nathaniel Benjamin</author>
+<author pid="259/9363">Grant Fickes</author>
+<author pid="251/1727">Eugene Fiorini</author>
+<author pid="259/9757">Edgar Jaramillo Rodriguez</author>
+<author pid="259/9358">Eric Jovinelly</author>
+<author pid="23/6525">Tony W. H. Wong</author>
+<title>Primes and Perfect Powers in the Catalan Triangle.</title>
+<pages>19.7.6</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>7</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Fiorini/fiorini3.html</ee>
+<url>db/journals/jintseq/jintseq22.html#BenjaminFFRJW19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Mikic19" mdate="2020-03-10">
+<author pid="259/9276">Jovan Mikic</author>
+<title>Two New Identities Involving the Catalan Numbers and Sign-Reversing Involutions.</title>
+<pages>19.7.7</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>7</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Mikic/mikic43.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Mikic19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Frid19" mdate="2020-03-10">
+<author pid="95/2744">Anna E. Frid</author>
+<title>Prefix Palindromic Length of the Thue-Morse Word.</title>
+<pages>19.7.8</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>7</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Frid/frid4.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Frid19</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 8, 2019</h2> 
+<dblpcites><r style="ee"><article key="journals/jintseq/TongsompornOS19" mdate="2020-03-10">
+<author pid="14/9651">Janyarak Tongsomporn</author>
+<author pid="259/9550">Nicola Oswald</author>
+<author pid="31/9470">J&#246;rn Steuding</author>
+<title>Waring's Problem for Hurwitz Quaternion Integers.</title>
+<pages>19.8.1</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>8</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Steuding/steuding6.html</ee>
+<url>db/journals/jintseq/jintseq22.html#TongsompornOS19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Currie19" mdate="2020-03-10">
+<author pid="59/946">James D. Currie</author>
+<title>Finite Test Sets for Morphisms That Are Squarefree on Some of Thue's Squarefree Ternary Words.</title>
+<pages>19.8.2</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>8</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Currie/currie20.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Currie19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Choi19" mdate="2020-03-10">
+<author pid="95/2856">Ji Young Choi</author>
+<title>Digit Sums Generalizing Binomial Coefficients.</title>
+<pages>19.8.3</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>8</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Choi/choi15.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Choi19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/MestreA19" mdate="2020-03-10">
+<author pid="32/7817">&#194;ngela Mestre</author>
+<author pid="259/9674">Jos&#233; Agapito</author>
+<title>Square Matrices Generated by Sequences of Riordan Arrays.</title>
+<pages>19.8.4</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>8</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Mestre/mestre2.html</ee>
+<url>db/journals/jintseq/jintseq22.html#MestreA19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/MestreA19a" mdate="2020-03-10">
+<author pid="32/7817">&#194;ngela Mestre</author>
+<author pid="259/9674">Jos&#233; Agapito</author>
+<title>A Family of Riordan Group Automorphisms.</title>
+<pages>19.8.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>8</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Agapito/mestre8.html</ee>
+<url>db/journals/jintseq/jintseq22.html#MestreA19a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/PhunphayapP19" mdate="2020-03-10">
+<author pid="259/9790">Phakhinkon Phunphayap</author>
+<author pid="234/6348">Prapanpong Pongsriiam</author>
+<title>Reciprocal Sum of Palindromes.</title>
+<pages>19.8.6</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>8</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Pongsriiam/pong32.html</ee>
+<url>db/journals/jintseq/jintseq22.html#PhunphayapP19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/Young19" mdate="2020-03-10">
+<author pid="116/0001">Donovan Young</author>
+<title>Generating Functions for Domino Matchings in the 2 &#215; k Game of Memory.</title>
+<pages>19.8.7</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>8</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Young/young13.html</ee>
+<url>db/journals/jintseq/jintseq22.html#Young19</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jintseq/ZhengL19" mdate="2020-03-10">
+<author pid="259/9569">Yuanping Zheng</author>
+<author pid="150/3298">Nadia N. Li</author>
+<title>Bivariate Extension of Bell Polynomials.</title>
+<pages>19.8.8</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>8</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Li/li53.html</ee>
+<url>db/journals/jintseq/jintseq22.html#ZhengL19</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

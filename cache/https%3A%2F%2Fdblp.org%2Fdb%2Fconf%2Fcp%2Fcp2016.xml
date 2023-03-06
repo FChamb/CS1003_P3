@@ -1,0 +1,774 @@
+<bht key="db/conf/cp/cp2016.bht" title="CP 2016">  
+<h1>22. <ref href="db/conf/cp/index.html">CP</ref> 2016:
+Toulouse, France</h1> <dblpcites><r><proceedings key="conf/cp/2016" mdate="2019-05-14">
+<editor pid="r/MichelRueher">Michel Rueher</editor>
+<title>Principles and Practice of Constraint Programming - 22nd International Conference, CP 2016, Toulouse, France, September 5-9, 2016, Proceedings</title>
+<booktitle>CP</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9892</volume>
+<isbn>978-3-319-44952-4</isbn>
+<ee>https://doi.org/10.1007/978-3-319-44953-1</ee>
+<url>db/conf/cp/cp2016.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Technical Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AkgunGJMN16" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Exploiting Short Supports for Improved Encoding of Arbitrary Constraints into SAT.</title>
+<pages>3-12</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_1</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#AkgunGJMN16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ArafailovaBCFRP16" mdate="2020-10-25">
+<author pid="179/7415">Ekaterina Arafailova</author>
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<author pid="c/MCarlsson">Mats Carlsson</author>
+<author orcid="0000-0001-8730-4098" pid="08/4454">Pierre Flener</author>
+<author orcid="0000-0001-8745-9858" pid="141/2168">Mar&#237;a Andre&#237;na Francisco Rodr&#237;guez</author>
+<author pid="50/4914">Justin Pearson</author>
+<author pid="30/449">Helmut Simonis</author>
+<title>Systematic Derivation of Bounds and Glue Constraints for Time-Series Constraints.</title>
+<pages>13-29</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_2</ee>
+<ee>https://www.wikidata.org/entity/Q57574226</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#ArafailovaBCFRP16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AudemardLST16" mdate="2017-05-17">
+<author pid="35/2541">Gilles Audemard</author>
+<author pid="28/7480">Jean-Marie Lagniez</author>
+<author pid="184/6380">Nicolas Szczepanski</author>
+<author pid="28/450">S&#233;bastien Tabary</author>
+<title>An Adaptive Parallel SAT Solver.</title>
+<pages>30-48</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_3</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#AudemardLST16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BelovSTW16" mdate="2020-03-27">
+<author orcid="0000-0002-6120-8484" pid="96/2575">Gleb Belov</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="41/5343">Guido Tack</author>
+<author orcid="0000-0001-7326-8110" pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>Improved Linearization of Constraint Programming Models.</title>
+<pages>49-65</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_4</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#BelovSTW16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BergJ16" mdate="2018-11-02">
+<author orcid="0000-0001-7660-8061" pid="142/7082">Jeremias Berg</author>
+<author orcid="0000-0003-2572-063X" pid="69/6999">Matti J&#228;rvisalo</author>
+<title>Impact of SAT-Based Preprocessing on Core-Guided MaxSAT Solving.</title>
+<pages>66-85</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_5</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#BergJ16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BergmanC16" mdate="2017-05-17">
+<author pid="70/9555">David Bergman</author>
+<author pid="87/2502">Andr&#233; Augusto Cir&#233;</author>
+<title>Multiobjective Optimization by Decision Diagrams.</title>
+<pages>86-95</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_6</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#BergmanC16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BeyersdorffB16" mdate="2019-06-02">
+<author orcid="0000-0002-2870-1648" pid="91/2292">Olaf Beyersdorff</author>
+<author pid="177/8412">Joshua Blinkhorn</author>
+<title>Dependency Schemes in QBF Calculi: Semantics and Soundness.</title>
+<pages>96-112</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_7</ee>
+<ee>https://www.wikidata.org/entity/Q59892755</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#BeyersdorffB16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BonfiettiZLM16" mdate="2017-05-31">
+<author pid="98/4776">Alessio Bonfietti</author>
+<author pid="04/3886">Alessandro Zanarini</author>
+<author pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>The Multirate Resource Constraint.</title>
+<pages>113-129</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_8</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#BonfiettiZLM16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Carbonnel16" mdate="2021-10-14">
+<author orcid="0000-0003-2312-2687" pid="133/1933">Cl&#233;ment Carbonnel</author>
+<title>The Dichotomy for Conservative Constraint Satisfaction is Polynomially Decidable.</title>
+<pages>130-146</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_9</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#Carbonnel16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CarbonnelH16" mdate="2021-10-14">
+<author orcid="0000-0003-2312-2687" pid="133/1933">Cl&#233;ment Carbonnel</author>
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<title>Propagation via Kernelization: The Vertex Cover Constraint.</title>
+<pages>147-156</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_10</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#CarbonnelH16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CodishGIS16" mdate="2018-11-02">
+<author orcid="0000-0003-0394-5854" pid="c/MCodish">Michael Codish</author>
+<author orcid="0000-0002-1354-431X" pid="76/3059">Graeme Gange</author>
+<author pid="151/6589">Avraham Itzhakov</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Breaking Symmetries in Graphs: The Nauty Way.</title>
+<pages>157-172</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_11</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#CodishGIS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CooperMT16" mdate="2019-09-16">
+<author orcid="0000-0003-4853-053X" pid="04/5623">Martin C. Cooper</author>
+<author pid="90/10876">Achref El Mouelhi</author>
+<author pid="34/5502">Cyril Terrioux</author>
+<title>Extending Broken Triangles and Enhanced Value-Merging.</title>
+<pages>173-188</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_12</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#CooperMT16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/UnaGSS16" mdate="2018-11-02">
+<author pid="178/8677">Diego de U&#241;a</author>
+<author orcid="0000-0002-1354-431X" pid="76/3059">Graeme Gange</author>
+<author orcid="0000-0001-5959-3769" pid="71/214">Peter Schachte</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>A Bounded Path Propagator on Directed Graphs.</title>
+<pages>189-206</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_13</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#UnaGSS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DemeulenaereHLP16" mdate="2017-05-17">
+<author pid="179/2086">Jordan Demeulenaere</author>
+<author pid="134/3045">Renaud Hartert</author>
+<author pid="95/2777">Christophe Lecoutre</author>
+<author pid="150/4949">Guillaume Perez</author>
+<author pid="73/4963">Laurent Perron</author>
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<author pid="78/2903">Pierre Schaus</author>
+<title>Compact-Table: Efficiently Filtering Table Constraints with Reversible Sparse Bit-Sets.</title>
+<pages>207-223</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_14</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#DemeulenaereHLP16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FeydyS16" mdate="2017-05-17">
+<author pid="12/1675">Thibaut Feydy</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Interval Constraints with Learning: Application to Air Traffic Control.</title>
+<pages>224-232</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_15</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#FeydyS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GanianRS16" mdate="2020-11-03">
+<author pid="80/7529">Robert Ganian</author>
+<author pid="04/9023">M. S. Ramanujan 0001</author>
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Backdoors to Tractable Valued CSP.</title>
+<pages>233-250</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_16</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#GanianRS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GoffinetR16" mdate="2020-10-25">
+<author orcid="0000-0001-6729-0848" pid="184/6382">Jack Goffinet</author>
+<author pid="92/8220">Raghuram Ramanujan</author>
+<title>Monte-Carlo Tree Search for the Maximum Satisfiability Problem.</title>
+<pages>251-267</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_17</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#GoffinetR16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HunsbergerP16" mdate="2017-06-02">
+<author pid="62/292">Luke Hunsberger</author>
+<author orcid="0000-0003-0944-0419" pid="78/154">Roberto Posenato</author>
+<title>A New Approach to Checking the Dynamic Consistency of Conditional Simple Temporal Networks.</title>
+<pages>268-286</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_18</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#HunsbergerP16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/IgnatievPM16" mdate="2020-02-24">
+<author orcid="0000-0002-4535-2902" pid="26/9729">Alexey Ignatiev</author>
+<author pid="29/9729">Alessandro Previti</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o Marques-Silva 0001</author>
+<title>On Finding Minimum Satisfying Assignments.</title>
+<pages>287-297</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_19</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#IgnatievPM16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JegouKT16" mdate="2017-05-17">
+<author pid="10/6570">Philippe J&#233;gou</author>
+<author pid="174/2254">Hanan Kanso</author>
+<author pid="34/5502">Cyril Terrioux</author>
+<title>Towards a Dynamic Decomposition of CSPs with Separators of Bounded Size.</title>
+<pages>298-315</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_20</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#JegouKT16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KuB16" mdate="2017-05-17">
+<author pid="129/2853">Wen-Yang Ku</author>
+<author pid="43/2165">J. Christopher Beck</author>
+<title>Constraint Programming for Strictly Convex Integer Quadratically-Constrained Problems.</title>
+<pages>316-332</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_21</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#KuB16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LazaarLLMLBB16" mdate="2020-10-25">
+<author orcid="0000-0003-2524-9462" pid="17/8149">Nadjib Lazaar</author>
+<author pid="25/423">Yahia Lebbah</author>
+<author pid="79/3951">Samir Loudni</author>
+<author pid="179/2168">Mehdi Maamar</author>
+<author pid="184/6456">Valentin Lemi&#232;re</author>
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="29/2067">Patrice Boizumault</author>
+<title>A Global Constraint for Closed Frequent Pattern Mining.</title>
+<pages>333-349</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_22</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#LazaarLLMLBB16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/McCreeshNPS16" mdate="2017-05-17">
+<author pid="119/4841">Ciaran McCreesh</author>
+<author pid="30/3232">Samba Ndojh Ndiaye</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>Clique and Constraint Models for Maximum Common (Connected) Subgraph Problems.</title>
+<pages>350-368</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_23</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#McCreeshNPS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NagarajanLYB16" mdate="2017-06-15">
+<author orcid="0000-0003-4550-1100" pid="176/5209">Harsha Nagarajan</author>
+<author pid="182/2194">Mowen Lu</author>
+<author pid="160/9917">Emre Yamangil</author>
+<author orcid="0000-0002-7300-151X" pid="93/1110">Russell Bent</author>
+<title>Tightening McCormick Relaxations for Nonlinear Programs via Dynamic Multivariate Partitioning.</title>
+<pages>369-387</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_24</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#NagarajanLYB16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PalmieriRS16" mdate="2017-05-17">
+<author pid="163/0185">Anthony Palmieri</author>
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<author pid="78/2903">Pierre Schaus</author>
+<title>Parallel Strategies Selection.</title>
+<pages>388-404</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_25</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#PalmieriRS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Picard-CantinBQ16" mdate="2021-04-09">
+<author pid="150/4954">&#201;milie Picard-Cantin</author>
+<author pid="51/5718">Mathieu Bouchard</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="184/6384">Jason Sweeney</author>
+<title>Learning Parameters for the Sequence Constraint from Solutions.</title>
+<pages>405-420</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_26</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#Picard-CantinBQ16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HertliHMMSS16" mdate="2022-10-02">
+<author pid="87/8575">Timon Hertli</author>
+<author pid="99/4865">Isabelle Hurbain</author>
+<author pid="184/6375">Sebastian Millius</author>
+<author pid="12/2739">Robin A. Moser</author>
+<author orcid="0000-0002-9360-7957" pid="56/6665">Dominik Scheder</author>
+<author pid="140/7601">May Szedl&#225;k</author>
+<title>The PPSZ Algorithm for Constraint Satisfaction Problems on More Than Two Colors.</title>
+<pages>421-437</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_27</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#HertliHMMSS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SchuttS16" mdate="2017-06-15">
+<author orcid="0000-0001-5452-4086" pid="82/2883">Andreas Schutt</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Explaining Producer/Consumer Constraints.</title>
+<pages>438-454</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_28</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#SchuttS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ShishmarevMTB16" mdate="2019-09-25">
+<author pid="173/8113">Maxim Shishmarev</author>
+<author pid="63/2774">Christopher Mears</author>
+<author pid="41/5343">Guido Tack</author>
+<author orcid="0000-0002-6666-514X" pid="b/MariaJGarciadelaBanda">Maria Garcia de la Banda</author>
+<title>Learning from Learning Solvers.</title>
+<pages>455-472</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_29</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#ShishmarevMTB16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SiZMJIN16" mdate="2020-05-28">
+<author pid="142/8449">Xujie Si</author>
+<author pid="76/1584-35">Xin Zhang 0035</author>
+<author orcid="0000-0002-4205-2189" pid="57/1074">Vasco M. Manquinho</author>
+<author orcid="0000-0003-3487-784X" pid="56/2424">Mikol&#225;s Janota</author>
+<author orcid="0000-0002-4535-2902" pid="26/9729">Alexey Ignatiev</author>
+<author pid="92/6794">Mayur Naik</author>
+<title>On Incremental Core-Guided MaxSAT Solving.</title>
+<pages>473-482</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_30</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#SiZMJIN16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SzerediS16" mdate="2017-06-15">
+<author pid="184/6395">Ria Szeredi</author>
+<author orcid="0000-0001-5452-4086" pid="82/2883">Andreas Schutt</author>
+<title>Modelling and Solving Multi-mode Resource-Constrained Project Scheduling.</title>
+<pages>483-492</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_31</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#SzerediS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Tesch16" mdate="2017-05-17">
+<author pid="184/6475">Alexander Tesch</author>
+<title>A Nearly Exact Propagation Algorithm for Energetic Reasoning in \mathcal O(n^2 \log n).</title>
+<pages>493-519</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_32</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#Tesch16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CauwelaertDMS16" mdate="2017-05-17">
+<author pid="155/8955">Sascha Van Cauwelaert</author>
+<author pid="145/1697">Cyrille Dejemeppe</author>
+<author pid="71/5015">Jean-No&#235;l Monette</author>
+<author pid="78/2903">Pierre Schaus</author>
+<title>Efficient Filtering for the Unary Resource with Family-Based Transition Times.</title>
+<pages>520-535</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_33</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#CauwelaertDMS16</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Application Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BoothNB16" mdate="2017-05-17">
+<author pid="179/7407">Kyle E. C. Booth</author>
+<author pid="14/3835">Goldie Nejat</author>
+<author pid="43/2165">J. Christopher Beck</author>
+<title>A Constraint Programming Approach to Multi-Robot Task Allocation and Scheduling in Retirement Homes.</title>
+<pages>539-555</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_34</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#BoothNB16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Alesio16" mdate="2017-05-17">
+<author pid="75/10701">Stefano Di Alesio</author>
+<title>Optimal Performance Tuning in Real-Time Systems Using Multi-objective Constrained Optimization.</title>
+<pages>556-574</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_35</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#Alesio16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DuqueDA16" mdate="2020-12-29">
+<author orcid="0000-0002-7255-3267" pid="184/6412">Robinson Duque</author>
+<author pid="46/4972">Juan Francisco D&#237;az</author>
+<author orcid="0000-0003-1622-5645" pid="33/3307">Alejandro Arbelaez</author>
+<title>SABIO: An Implementation of MIP and CP for Interactive Soccer Queries.</title>
+<pages>575-583</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_36</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#DuqueDA16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GeraultMS16" mdate="2020-10-05">
+<author pid="176/2901">David G&#233;rault</author>
+<author pid="78/2596">Marine Minier</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>Constraint Programming Models for Chosen Key Differential Cryptanalysis.</title>
+<pages>584-601</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_37</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#GeraultMS16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GilesH16" mdate="2017-05-17">
+<author pid="184/6440">Katherine Giles</author>
+<author pid="61/5378">Willem-Jan van Hoeve</author>
+<title>Solving a Supply-Delivery Scheduling Problem with Constraint Programming.</title>
+<pages>602-617</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_38</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#GilesH16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GouletLCIQ16" mdate="2021-04-09">
+<author pid="184/6468">Vincent Goulet</author>
+<author pid="l/WeiLi2">Wei Li 0002</author>
+<author pid="142/5506">Hyunmin Cheong</author>
+<author pid="34/2587">Francesco Iorio</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<title>Four-Bar Linkage Synthesis Using Non-convex Optimization.</title>
+<pages>618-635</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_39</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#GouletLCIQ16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LorcaPQR16" mdate="2019-10-19">
+<author orcid="0000-0002-6534-8644" pid="94/2497">Xavier Lorca</author>
+<author pid="139/6447">Charles Prud'homme</author>
+<author pid="116/7642">Aur&#233;lien Questel</author>
+<author pid="43/1199">Beno&#238;t Rottembourg</author>
+<title>Using Constraint Programming for the Urban Transit Crew Rescheduling Problem.</title>
+<pages>636-649</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_40</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#LorcaPQR16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MaGYPJLZ16" mdate="2020-11-17">
+<author pid="59/556">Feifei Ma</author>
+<author pid="56/2203">Xin Gao</author>
+<author pid="13/3656">Minghao Yin</author>
+<author pid="184/6371-1">Linjie Pan 0001</author>
+<author pid="31/10752">Ji-Wei Jin</author>
+<author pid="46/2375">Hai Liu</author>
+<author pid="07/314-1">Jian Zhang 0001</author>
+<title>Optimizing Shortwave Radio Broadcast Resource Allocation via Pseudo-Boolean Constraint Solving and Local Search.</title>
+<pages>650-665</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_41</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#MaGYPJLZ16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SebbahBCK16" mdate="2017-05-17">
+<author pid="23/3756">Samir Sebbah</author>
+<author pid="166/7445">Claire Bagley</author>
+<author pid="166/7447">Mike Colena</author>
+<author pid="35/5878">Serdar Kadioglu</author>
+<title>Availability Optimization in Cloud-Based In-Memory Data Grids.</title>
+<pages>666-679</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_42</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#SebbahBCK16</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Computational Sustainability Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/LimHTB16" mdate="2022-06-23">
+<author pid="05/814">BoonPing Lim</author>
+<author orcid="0000-0003-3102-2766" pid="159/1643">Hassan L. Hijazi</author>
+<author pid="64/3102">Sylvie Thi&#233;baux</author>
+<author pid="87/4370">Menkes van den Briel</author>
+<title>Online HVAC-Aware Occupancy Scheduling with Adaptive Temperature Control.</title>
+<pages>683-700</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_43</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#LimHTB16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/XueDFWG16" mdate="2023-02-03">
+<author pid="117/4903">Yexiang Xue</author>
+<author pid="37/1217">Ian Davies</author>
+<author pid="47/5171-2">Daniel Fink 0002</author>
+<author pid="62/672">Christopher Wood</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<title>Behavior Identification in Two-Stage Games for Incentivizing Citizen Science Exploration.</title>
+<pages>701-717</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_44</ee>
+<ee>https://www.wikidata.org/entity/Q73121874</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#XueDFWG16</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CP and Biology Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/KrippahlB16" mdate="2018-11-14">
+<author orcid="0000-0002-3774-8624" pid="15/6913">Ludwig Krippahl</author>
+<author orcid="0000-0002-8355-4986" pid="b/PBarahona">Pedro Barahona</author>
+<title>Constraining Redundancy to Improve Protein Docking.</title>
+<pages>721-732</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_45</ee>
+<ee>https://www.wikidata.org/entity/Q57715810</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#KrippahlB16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ViricelSBS16" mdate="2021-09-23">
+<author pid="172/7794">Cl&#233;ment Viricel</author>
+<author pid="84/4375">David Simoncini</author>
+<author orcid="0000-0003-2581-5022" pid="08/6249">Sophie Barbe</author>
+<author pid="87/6848">Thomas Schiex</author>
+<title>Guaranteed Weighted Counting for Affinity Computation: Beyond Determinism and Structure.</title>
+<pages>733-750</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_46</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#ViricelSBS16</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Music Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Hooker16" mdate="2019-05-17">
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<title>Finding Alternative Musical Scales.</title>
+<pages>753-768</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_47</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#Hooker16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PapadopoulosRP16" mdate="2017-05-17">
+<author pid="14/3330">Alexandre Papadopoulos</author>
+<author pid="56/2284">Pierre Roy</author>
+<author pid="48/124">Fran&#231;ois Pachet</author>
+<title>Assisted Lead Sheet Composition Using FlowComposer.</title>
+<pages>769-785</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_48</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#PapadopoulosRP16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RoyPRPPM16" mdate="2017-05-17">
+<author pid="56/2284">Pierre Roy</author>
+<author pid="150/4949">Guillaume Perez</author>
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<author pid="14/3330">Alexandre Papadopoulos</author>
+<author pid="48/124">Fran&#231;ois Pachet</author>
+<author pid="91/10110">Marco Marchini</author>
+<title>Enforcing Structure on Temporal Sequences: The Allen Constraint.</title>
+<pages>786-801</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_49</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#RoyPRPPM16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TanakaBM16" mdate="2022-06-23">
+<author pid="163/7364">Tsubasa Tanaka</author>
+<author pid="163/7341">Brian Bemman</author>
+<author orcid="0000-0002-9601-5017" pid="m/DMeredith">David Meredith 0001</author>
+<title>Constraint Programming Approach to the Problem of Generating Milton Babbitt's All-Partition Arrays.</title>
+<pages>802-810</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_50</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#TanakaBM16</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Preference, Social Choice and Optimization Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Fioretto0P16" mdate="2020-10-25">
+<author orcid="0000-0002-1381-6776" pid="119/6404">Ferdinando Fioretto</author>
+<author pid="97/4283-1">William Yeoh 0001</author>
+<author orcid="0000-0002-7753-1737" pid="p/EnricoPontelli">Enrico Pontelli</author>
+<title>A Dynamic Programming-Based MCMC Framework for Solving DCOPs with GPUs.</title>
+<pages>813-831</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_51</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#Fioretto0P16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/McCreeshPT16" mdate="2018-04-11">
+<author pid="119/4841">Ciaran McCreesh</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="146/1886">James Trimble 0001</author>
+<title>Morphing Between Stable Matching Problems.</title>
+<pages>832-840</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_52</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#McCreeshPT16</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Testing and Verification Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AharoniBDKTV16" mdate="2017-05-17">
+<author pid="42/3991">Merav Aharoni</author>
+<author pid="16/2309">Yael Ben-Haim</author>
+<author pid="184/6445">Shai Doron</author>
+<author pid="05/2306">Anatoly Koyfman</author>
+<author pid="99/4352">Elena Tsanko</author>
+<author pid="53/6566">Michael Veksler</author>
+<title>Using Graph-Based CSP to Solve the Address Translation Problem.</title>
+<pages>843-858</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_53</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#AharoniBDKTV16</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SunIKE16" mdate="2017-05-17">
+<author pid="98/7998">Xiaojun Sun</author>
+<author pid="184/6410">Irina Ilioaea</author>
+<author pid="20/4759">Priyank Kalla</author>
+<author pid="60/2486">Florian Enescu</author>
+<title>Finding Unsatisfiable Cores of a Set of Polynomials Using the Gr&#246;bner Basis Algorithm.</title>
+<pages>859-875</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_54</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#SunIKE16</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

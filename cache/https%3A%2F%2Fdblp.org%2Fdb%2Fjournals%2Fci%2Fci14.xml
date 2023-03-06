@@ -1,0 +1,282 @@
+<bht key="db/journals/ci/ci14.bht" title="Computational Intelligence, Volume 14">  
+<h1><ref href="db/journals/ci/index.html">Computational Intelligence</ref>, Volume 14</h1> 
+<h2>Volume 14, Number 1, February 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ci/Loui98" mdate="2020-03-15">
+<author pid="l/RPLoui">Ronald Prescott Loui</author>
+<title>Process and Policy: Resource-Bounded Nondemonstrative Reasoning.</title>
+<pages>1-38</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>1</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#Loui98</url>
+<ee>https://doi.org/10.1111/0824-7935.00055</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/Pinto98" mdate="2020-03-15">
+<author pid="55/1688">Javier Pinto</author>
+<title>Integrating Discrete and Continuous Change in a Logical Framework.</title>
+<pages>39-88</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>1</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#Pinto98</url>
+<ee>https://doi.org/10.1111/0824-7935.00056</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/Eugenio98" mdate="2020-03-15">
+<author pid="33/5384">Barbara Di Eugenio</author>
+<title>An Action Representation Formalism to Interpret Natural Language Instructions.</title>
+<pages>89-133</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>1</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#Eugenio98</url>
+<ee>https://doi.org/10.1111/0824-7935.00057</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/CimattiGW98" mdate="2020-03-15">
+<author orcid="0000-0002-1315-6990" pid="13/5961">Alessandro Cimatti</author>
+<author pid="g/FaustoGiunchiglia">Fausto Giunchiglia</author>
+<author pid="62/6941">Richard W. Weyhrauch</author>
+<title>A Many-Sorted Natural Deduction.</title>
+<pages>134-149</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>1</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#CimattiGW98</url>
+<ee>https://doi.org/10.1111/0824-7935.00058</ee>
+<ee>https://www.wikidata.org/entity/Q62041455</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 14, Number 2, May 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ci/MyersW98" mdate="2020-03-15">
+<author pid="97/4391">Karen L. Myers</author>
+<author pid="80/27">David E. Wilkins</author>
+<title>Reasoning about Locations in Theory and Practice.</title>
+<pages>151-187</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>2</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#MyersW98</url>
+<ee>https://doi.org/10.1111/0824-7935.00059</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/Prieditis98" mdate="2020-03-15">
+<author pid="08/5392">Armand Prieditis</author>
+<title>Depth-First Branch-and-Bound vs. Depth-Bounded IDA*.</title>
+<pages>188-206</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>2</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#Prieditis98</url>
+<ee>https://doi.org/10.1111/0824-7935.00060</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/PangT98" mdate="2020-03-15">
+<author pid="96/4644">Wanlin Pang</author>
+<author pid="02/2492">Andr&#233; Trudel</author>
+<title>Representing and Reasoning about Motion in a Two-Dimensional World.</title>
+<pages>207-237</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>2</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#PangT98</url>
+<ee>https://doi.org/10.1111/0824-7935.00061</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/Lindsay98" mdate="2020-03-15">
+<author pid="18/2358">Robert K. Lindsay</author>
+<title>Using Diagrams to Understand Geometry.</title>
+<pages>238-272</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>2</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#Lindsay98</url>
+<ee>https://doi.org/10.1111/0824-7935.00062</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 14, Number 3, August 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ci/NeufeldG98" mdate="2020-03-15">
+<author pid="06/4629">Eric Neufeld</author>
+<author pid="29/6460">Scott D. Goodwin</author>
+<title>The 6-49 Lottery Paradox.</title>
+<pages>273-286</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>Comput. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/0824-7935.00063</ee>
+<url>db/journals/ci/ci14.html#NeufeldG98</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/Singh98" mdate="2020-03-15">
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<title>Toward a Model Theory of Actions: How Agents do it in Branching Time.</title>
+<pages>287-317</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>Comput. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/0824-7935.00064</ee>
+<url>db/journals/ci/ci14.html#Singh98</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/CulbersonS98" mdate="2020-03-15">
+<author pid="56/4455">Joseph C. Culberson</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>Pattern Databases.</title>
+<pages>318-334</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>Comput. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/0824-7935.00065</ee>
+<url>db/journals/ci/ci14.html#CulbersonS98</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/PrellerMC98" mdate="2020-03-15">
+<author pid="86/900">Anne Preller</author>
+<author pid="10/88">Marie-Laure Mugnier</author>
+<author pid="65/1688">Michel Chein</author>
+<title>Logic for Nested Graphs.</title>
+<pages>335-357</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>Comput. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/0824-7935.00066</ee>
+<url>db/journals/ci/ci14.html#PrellerMC98</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/BritanikM98" mdate="2020-03-15">
+<author pid="84/4710">J. M. Britanik</author>
+<author pid="89/757">Michael M. Marefat</author>
+<title>An Approach for Merging Plans Hierarchically in Decomposable Domains.</title>
+<pages>358-391</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>Comput. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/0824-7935.00067</ee>
+<url>db/journals/ci/ci14.html#BritanikM98</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/HaddawyH98" mdate="2020-03-15">
+<author pid="h/PeterHaddawy">Peter Haddawy</author>
+<author pid="56/2425">Steve Hanks</author>
+<title>Utility Models for Goal-Directed, Decision-Theoretic Planners.</title>
+<pages>392-429</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>Comput. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/0824-7935.00068</ee>
+<url>db/journals/ci/ci14.html#HaddawyH98</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/GentW98" mdate="2020-03-15">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Analysis of Heuristics for Number Partitioning.</title>
+<pages>430-451</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>Comput. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/0824-7935.00069</ee>
+<ee>https://www.wikidata.org/entity/Q59649944</ee>
+<url>db/journals/ci/ci14.html#GentW98</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/Snow98" mdate="2020-03-15">
+<author pid="89/5868">Paul Snow</author>
+<title>On the Correctness and Reasonableness of Cox's Theorem for Finite Domains.</title>
+<pages>452-459</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>Comput. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/0824-7935.00070</ee>
+<url>db/journals/ci/ci14.html#Snow98</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 14, Number 4, November 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ci/SchweitzerS98" mdate="2020-03-15">
+<author pid="s/HaimSchweitzer">Haim Schweitzer</author>
+<author pid="12/3251">Janell Straach</author>
+<title>Utilizing Moment Invariants and Grobner Bases to Reason about Shapes.</title>
+<pages>461-474</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>4</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#SchweitzerS98</url>
+<ee>https://doi.org/10.1111/0824-7935.00072</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/Zhang98" mdate="2020-03-15">
+<author pid="z/NevinLianwenZhang">Nevin Lianwen Zhang</author>
+<title>Probabilistic Inference in Influence Diagrams.</title>
+<pages>475-497</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>4</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#Zhang98</url>
+<ee>https://doi.org/10.1111/0824-7935.00073</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/Pollock98" mdate="2020-03-15">
+<author pid="60/870">John L. Pollock</author>
+<title>Perceiving and Reasoning about a Changing World.</title>
+<pages>498-562</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>4</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#Pollock98</url>
+<ee>https://doi.org/10.1111/0824-7935.00074</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/CukiermanD98" mdate="2020-03-15">
+<author pid="52/136">Diana Cukierman</author>
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<title>Expressing Time Intervals and Repetition within a Formalization of Calendars.</title>
+<pages>563-597</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>4</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#CukiermanD98</url>
+<ee>https://doi.org/10.1111/0824-7935.00075</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ci/Fall98" mdate="2020-03-15">
+<author pid="11/368">Andrew Fall</author>
+<title>The Foundations of Taxonomic Encoding.</title>
+<pages>598-642</pages>
+<year>1998</year>
+<volume>14</volume>
+<number>4</number>
+<journal>Comput. Intell.</journal>
+<url>db/journals/ci/ci14.html#Fall98</url>
+<ee>https://doi.org/10.1111/0824-7935.00076</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

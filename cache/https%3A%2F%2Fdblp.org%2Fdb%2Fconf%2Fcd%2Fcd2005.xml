@@ -1,0 +1,230 @@
+<bht key="db/conf/cd/cd2005.bht" title="Working Conference on Component Deployment 2005">  
+<h1>3. <ref href="db/conf/cd/index.html">CD</ref> 2005:
+Grenoble, France</h1> <dblpcites><r><proceedings key="conf/cd/2005" mdate="2019-05-14">
+<editor pid="d/AlanDearle">Alan Dearle</editor>
+<editor pid="e/SusanEisenbach">Susan Eisenbach</editor>
+<title>Component Deployment, Third International Working Conference, CD 2005, Grenoble, France, November 28-29, 2005, Proceedings</title>
+<volume>3798</volume>
+<year>2005</year>
+<isbn>3-540-30517-3</isbn>
+<booktitle>Component Deployment</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11590712</ee>
+<url>db/conf/cd/cd2005.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Middleware Integration</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cd/RoussainG05" mdate="2017-05-26">
+<author pid="35/1810">Herv&#233; Roussain</author>
+<author pid="48/2063">Fr&#233;d&#233;ric Guidec</author>
+<title>Cooperative Component-Based Software Deployment in Wireless Ad Hoc Networks.</title>
+<pages>1-16</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_1</ee>
+<url>db/conf/cd/cd2005.html#RoussainG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/AkkermanTK05" mdate="2017-05-26">
+<author pid="15/2174">Anatoly Akkerman</author>
+<author pid="36/6106">Alexander Totok</author>
+<author pid="l/VijayKaramcheti">Vijay Karamcheti</author>
+<title>Infrastructure for Automatic Dynamic Deployment of J2EE Applications in Distributed Environments.</title>
+<pages>17-32</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_2</ee>
+<url>db/conf/cd/cd2005.html#AkkermanTK05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Patterns for Deployment</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cd/FrenotR05" mdate="2017-05-26">
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<author pid="63/696">Yvan Royon</author>
+<title>Component Deployment Using a Peer-to-Peer Overlay.</title>
+<pages>33-36</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_3</ee>
+<url>db/conf/cd/cd2005.html#FrenotR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/KirbyWND05" mdate="2017-06-15">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="09/4219">Scott Mervyn Walker</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>A Methodology for Developing and Deploying Distributed Applications.</title>
+<pages>37-51</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_4</ee>
+<url>db/conf/cd/cd2005.html#KirbyWND05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>QOS Issues</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cd/PaalKF05" mdate="2022-10-02">
+<author pid="90/3674">Stefan Paal</author>
+<author pid="61/6825">Reiner Kamm&#252;ller</author>
+<author orcid="0000-0002-7205-8389" pid="f/BerndFreisleben">Bernd Freisleben</author>
+<title>Crosslets: Self-managing Application Deployment in a Cross-Platform Operating Environment.</title>
+<pages>52-66</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_5</ee>
+<url>db/conf/cd/cd2005.html#PaalKF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/DengBOSG05" mdate="2021-04-09">
+<author pid="85/4804">Gan Deng</author>
+<author pid="70/4439">Jaiganesh Balasubramanian</author>
+<author pid="35/5286">William Otte</author>
+<author pid="s/DouglasCSchmidt">Douglas C. Schmidt</author>
+<author orcid="0000-0002-7706-7102" pid="83/287">Aniruddha S. Gokhale</author>
+<title>DAnCE: A QoS-Enabled Component Deployment and Configuration Engine.</title>
+<pages>67-82</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_6</ee>
+<url>db/conf/cd/cd2005.html#DengBOSG05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Adaptability, Customisation and Format Aware Deployment</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cd/Mikic-RakicMM05" mdate="2017-05-26">
+<author pid="38/6980">Marija Mikic-Rakic</author>
+<author pid="88/4685">Sam Malek</author>
+<author pid="65/1728">Nenad Medvidovic</author>
+<title>Improving Availability in Large, Distributed Component-Based Systems Via Redeployment.</title>
+<pages>83-98</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_7</ee>
+<url>db/conf/cd/cd2005.html#Mikic-RakicMM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/MalekMM05" mdate="2017-05-26">
+<author pid="88/4685">Sam Malek</author>
+<author pid="38/6980">Marija Mikic-Rakic</author>
+<author pid="65/1728">Nenad Medvidovic</author>
+<title>A Decentralized Redeployment Algorithm for Improving the Availability of Distributed Systems.</title>
+<pages>99-114</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_8</ee>
+<url>db/conf/cd/cd2005.html#MalekMM05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Dependability</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cd/HoareauM05" mdate="2017-05-26">
+<author pid="75/4180">Didier Hoareau</author>
+<author pid="15/4345">Yves Mah&#233;o</author>
+<title>Propagative Deployment of Hierarchical Components in a Dynamic Network.</title>
+<pages>115-118</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_9</ee>
+<url>db/conf/cd/cd2005.html#HoareauM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/JansenB05" mdate="2022-12-07">
+<author orcid="0000-0003-3752-2868" pid="70/6334">Slinger Jansen</author>
+<author pid="b/SjaakBrinkkemper">Sjaak Brinkkemper</author>
+<title>Modelling Deployment Using Feature Descriptions and State Models for Component-Based Software Product Families.</title>
+<pages>119-133</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_10</ee>
+<url>db/conf/cd/cd2005.html#JansenB05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Assembly and Packaging</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cd/AbdellatifKS05" mdate="2017-05-26">
+<author pid="21/5143">Takoua Abdellatif</author>
+<author pid="82/4453">Jakub Kornas</author>
+<author pid="s/JBStefani">Jean-Bernard Stefani</author>
+<title>J2EE Packaging, Deployment and Reconfiguration Using a General Component Model.</title>
+<pages>134-148</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_11</ee>
+<url>db/conf/cd/cd2005.html#AbdellatifKS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/Buckley05" mdate="2017-05-26">
+<author pid="54/1345">Alex Buckley</author>
+<title>A Model of Dynamic Binding in .NET.</title>
+<pages>149-163</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_12</ee>
+<url>db/conf/cd/cd2005.html#Buckley05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Case Studies</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cd/PaulsB05" mdate="2017-05-26">
+<author pid="77/565">Karl Pauls</author>
+<author pid="02/4578">Till G. Bay</author>
+<title>Reuse Frequency as Metric for Dependency Resolver Selection.</title>
+<pages>164-176</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_13</ee>
+<url>db/conf/cd/cd2005.html#PaulsB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/CuninLM05" mdate="2017-05-26">
+<author pid="61/4571">Pierre-Yves Cunin</author>
+<author pid="31/1453">Vincent Lestideau</author>
+<author pid="11/6687">No&#235;lle Merle</author>
+<title>ORYA: A Strategy Oriented Deployment Framework.</title>
+<pages>177-180</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_14</ee>
+<url>db/conf/cd/cd2005.html#CuninLM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/BrebnerE05" mdate="2017-05-26">
+<author pid="45/3028">Paul Brebner</author>
+<author pid="57/4166">Wolfgang Emmerich</author>
+<title>Deployment of Infrastructure and Services in the Open Grid Services Architecture (OGSA).</title>
+<pages>181-195</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_15</ee>
+<url>db/conf/cd/cd2005.html#BrebnerE05</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

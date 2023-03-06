@@ -1,0 +1,1856 @@
+<?xml version="1.0"?>
+<dblpperson name="Alan Dearle" pid="d/AlanDearle" n="117">
+<person key="homepages/d/AlanDearle" mdate="2021-10-28">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<url>http://www-systems.dcs.st-and.ac.uk/~al/</url>
+<url>https://orcid.org/0000-0002-1157-2421</url>
+</person>
+<r><inproceedings key="conf/sebd/0001DV22" mdate="2022-09-26">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="152/1401">Lucia Vadicamo</author>
+<title>Investigating Binary Partition Power in Metric Query.</title>
+<pages>415-426</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper49.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#0001DV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sisap/VadicamoDC22" mdate="2022-10-18">
+<author orcid="0000-0001-7182-7038" pid="152/1401">Lucia Vadicamo</author>
+<author orcid="0000-0002-1157-2421" pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0003-4734-8103" pid="c/RCHConnor">Richard Connor 0001</author>
+<title>On the Expected Exclusion Power of Binary Partitions for Metric Search.</title>
+<pages>104-117</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_9</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#VadicamoDC22</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/DearleC21" mdate="2021-07-07">
+<author orcid="0000-0002-1157-2421" pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<title>Bitpart: Exact metric search in high(er) dimensions.</title>
+<pages>101493</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101493</ee>
+<url>db/journals/is/is95.html#DearleC21</url>
+</article>
+</r>
+<r><article key="journals/prl/ConnorDMZ20" mdate="2021-09-16">
+<author orcid="0000-0003-4734-8103" pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-8813-303X" pid="169/1176">Vladimir Mic</author>
+<author pid="z/PZezula">Pavel Zezula</author>
+<title>On the application of convex transforms to metric search.</title>
+<pages>563-570</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.008</ee>
+<url>db/journals/prl/prl138.html#ConnorDMZ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sisap/ConnorD20" mdate="2021-07-07">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Sampled Angles in High-Dimensional Spaces.</title>
+<pages>233-247</pages>
+<year>2020</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-60936-8_18</ee>
+<crossref>conf/sisap/2020</crossref>
+<url>db/conf/sisap/sisap2020.html#ConnorD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/ConnorDV19" mdate="2021-07-07">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="152/1401">Lucia Vadicamo</author>
+<title>Modelling String Structure in Vector Spaces.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-45.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#ConnorDV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/AkgunDKC18" mdate="2018-11-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<title>Using Metric Space Indexing for Complete and Efficient Record Linkage.</title>
+<pages>89-101</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_8</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#AkgunDKC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sisap/ConnorD18" mdate="2021-07-07">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Querying Metric Spaces with Bit Operations.</title>
+<pages>33-46</pages>
+<year>2018</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02224-2_3</ee>
+<crossref>conf/sisap/2018</crossref>
+<url>db/conf/sisap/sisap2018.html#ConnorD18</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/JaradatDB16" mdate="2020-03-02">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>Towards an autonomous decentralized orchestration system.</title>
+<pages>3164-3179</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3655</ee>
+<url>db/journals/concurrency/concurrency28.html#JaradatDB16</url>
+</article>
+</r>
+<r><incollection key="books/daglib/p/KirbyCDDDWGR15" mdate="2020-02-14">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="175/7581">Jamie Carson</author>
+<author pid="175/7559">Fraser Dunlop</author>
+<author pid="175/7588">Chris Dibben</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="175/7569">Lee Williamson</author>
+<author pid="126/0356">Eilidh Garrett</author>
+<author pid="126/0240">Alice Reid</author>
+<title>Automatic Methods for Coding Historical Occupation Descriptions to Standard Classifications.</title>
+<pages>43-60</pages>
+<year>2015</year>
+<booktitle>Population Reconstruction</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-19884-2_3</ee>
+<crossref>books/daglib/0036989</crossref>
+<url>db/books/collections/BCMS2015.html#KirbyCDDDWGR15</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/ucc/JaradatDB14" mdate="2017-05-21">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>Workflow Partitioning and Deployment on the Cloud Using Orchestra.</title>
+<pages>251-260</pages>
+<year>2014</year>
+<booktitle>UCC</booktitle>
+<ee>https://doi.org/10.1109/UCC.2014.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/UCC.2014.34</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2760040</ee>
+<crossref>conf/ucc/2014</crossref>
+<url>db/conf/ucc/ucc2014.html#JaradatDB14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/JaradatDB14" mdate="2018-08-13">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>Workflow Partitioning and Deployment on the Cloud using Orchestra.</title>
+<year>2014</year>
+<volume>abs/1409.8098</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1409.8098</ee>
+<url>db/journals/corr/corr1409.html#JaradatDB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icws/JaradatDB13" mdate="2017-05-19">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>An Architecture for Decentralised Orchestration of Web Service Workflows.</title>
+<pages>603-604</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.84</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.84</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#JaradatDB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/services/JaradatDB13" mdate="2017-05-23">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>A Dataflow Language for Decentralised Orchestration of Web Service Workflows.</title>
+<pages>13-20</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.30</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#JaradatDB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/DobsonDP13" mdate="2018-09-12">
+<author pid="d/SimonADobson">Simon Dobson</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="59/4160">Barry Porter</author>
+<title>Minimising virtual machine support for concurrency.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>135-141</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.11</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2707</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#DobsonDP13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-1840" mdate="2018-08-13">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>A Dataflow Language for Decentralised Orchestration of Web Service Workflows</title>
+<ee type="oa">http://arxiv.org/abs/1305.1840</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.1840</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-1840</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-1842" mdate="2018-08-13">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>An Architecture for Decentralised Orchestration of Web Service Workflows</title>
+<ee type="oa">http://arxiv.org/abs/1305.1842</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.1842</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-1842</url>
+</article>
+</r>
+<r><article key="journals/jisa/DearleD12" mdate="2021-10-14">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0001-9633-2103" pid="d/SimonADobson">Simon Dobson</author>
+<title>Mission-oriented middleware for sensor-driven scientific systems.</title>
+<pages>133-139</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0052-9</ee>
+<url>db/journals/jisa/jisa3.html#DearleD12</url>
+</article>
+</r>
+<r><inproceedings key="conf/middleware/PorterDD12" mdate="2021-10-14">
+<author orcid="0000-0001-8376-736X" pid="59/4160">Barry Porter</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0001-9633-2103" pid="d/SimonADobson">Simon Dobson</author>
+<title>From missions to systems: generating transparently distributable programs for sensor-oriented systems.</title>
+<pages>2</pages>
+<year>2012</year>
+<booktitle>MidSens</booktitle>
+<ee>https://doi.org/10.1145/2405167.2405169</ee>
+<crossref>conf/middleware/2012midsens</crossref>
+<url>db/conf/middleware/midsens2012.html#PorterDD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/HarveyDLS12" mdate="2019-03-22">
+<author pid="77/6861-2">Paul Harvey 0002</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="97/4717">Jonathan Lewis</author>
+<author pid="s/JSSventek">Joseph S. Sventek</author>
+<title>Channel and Active Component Abstractions for WSN Programming - A Language Model with Operating System Support.</title>
+<pages>35-44</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#HarveyDLS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/TauberKD11" mdate="2018-11-14">
+<author pid="56/8261">Markus Tauber</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Autonomic management of client concurrency in a distributed storage service.</title>
+<pages>1109-1115</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990521</ee>
+<ee>https://www.wikidata.org/entity/Q57728854</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#TauberKD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saso/TauberKD10" mdate="2022-10-02">
+<author orcid="0000-0002-0003-2243" pid="56/8261">Markus Tauber</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Self-Adaptation Applied to Peer-Set Maintenance in Chord via a Generic Autonomic Management Framework.</title>
+<pages>9-16</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.40</ee>
+<ee>https://www.wikidata.org/entity/Q57728856</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#TauberKD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sutc/BoydBDM10" mdate="2020-10-25">
+<author pid="57/8300">Alan W. F. Boyd</author>
+<author orcid="0000-0002-5093-0906" pid="03/427">Dharini Balasubramaniam</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>On the Selection of Connectivity-Based Metrics for WSNs Using a Classification of Application Behaviour.</title>
+<pages>268-275</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.44</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#BoydBDM10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icoodb/2010" mdate="2020-11-17">
+<editor pid="d/AlanDearle">Alan Dearle</editor>
+<editor pid="z/RZicari">Roberto V. Zicari</editor>
+<title>Objects and Databases - Third International Conference, ICOODB 2010, Frankfurt/Main, Germany, September 28-30, 2010. Proceedings</title>
+<volume>6348</volume>
+<year>2010</year>
+<ee>https://doi.org/10.1007/978-3-642-16092-9</ee>
+<isbn>978-3-642-16091-2</isbn>
+<booktitle>ICOODB</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/icoodb/icoodb2010.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1002-4738" mdate="2021-01-23">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="19/7867">Angus Macdonald</author>
+<author pid="f/AAAFernandes">Alvaro A. A. Fernandes</author>
+<title>An Approach to Ad hoc Cloud Computing</title>
+<ee type="oa">http://arxiv.org/abs/1002.4738</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1002.4738</volume>
+<url>db/journals/corr/corr1002.html#abs-1002-4738</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-1578" mdate="2021-01-23">
+<author pid="56/8261">Markus Tauber</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Autonomic Management of Maintenance Scheduling in Chord</title>
+<ee type="oa">http://arxiv.org/abs/1006.1578</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.1578</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-1578</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3180" mdate="2021-01-23">
+<author pid="19/7867">Angus Macdonald</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<title>H2O: An Autonomic, Resource-Aware Distributed Database System</title>
+<ee type="oa">http://arxiv.org/abs/1006.3180</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3180</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3180</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3448" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Orthogonal Persistence Revisited</title>
+<ee type="oa">http://arxiv.org/abs/1006.3448</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3448</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3448</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3452" mdate="2021-01-23">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<title>Generating a Family of Byzantine Tolerant Protocol Implementations Using a Meta-Model Architecture</title>
+<ee type="oa">http://arxiv.org/abs/1006.3452</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3452</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3452</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3463" mdate="2021-01-23">
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<title>Applying Constraint Solving to the Management of Distributed Applications</title>
+<ee type="oa">http://arxiv.org/abs/1006.3463</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3463</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3463</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3465" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<title>Hosting Byzantine Fault Tolerant Services on a Chord Ring</title>
+<ee type="oa">http://arxiv.org/abs/1006.3465</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3465</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3465</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3724" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<title>A Peer-to-Peer Middleware Framework for Resilient Persistent Programming</title>
+<ee type="oa">http://arxiv.org/abs/1006.3724</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3724</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3724</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3728" mdate="2021-01-23">
+<author pid="09/4219">Scott Mervyn Walker</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<title>RAFDA: A Policy-Aware Middleware Supporting the Flexible Separation of Application Logic from Distribution</title>
+<ee type="oa">http://arxiv.org/abs/1006.3728</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3728</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3728</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3732" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<author pid="19/7867">Angus Macdonald</author>
+<author pid="87/1930">Greg Bigwood</author>
+<title>Towards Adaptable and Adaptive Policy-Free Middleware</title>
+<ee type="oa">http://arxiv.org/abs/1006.3732</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3732</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3732</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3739" mdate="2021-01-23">
+<author pid="09/4219">Scott Mervyn Walker</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<title>Promoting Component Reuse by Separating Transmission Policy from Implementation</title>
+<ee type="oa">http://arxiv.org/abs/1006.3739</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3739</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3739</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-3742" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="09/4219">Scott Mervyn Walker</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<title>RAFDA: Middleware Supporting the Separation of Application Logic from Distribution Policy</title>
+<ee type="oa">http://arxiv.org/abs/1006.3742</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.3742</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-3742</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-4504" mdate="2021-01-23">
+<author pid="09/4219">Scott Mervyn Walker</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<title>Exposing Application Components as Web Services</title>
+<ee type="oa">http://arxiv.org/abs/1006.4504</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.4504</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-4504</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-4549" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="49/6878">Juan Carlos Diaz y Carballo</author>
+<title>A Flexible and Secure Deployment Framework for Distributed Applications</title>
+<ee type="oa">http://arxiv.org/abs/1006.4549</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.4549</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-4549</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-4572" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<title>A Framework for Constraint-Based Deployment and Autonomic Management of Distributed Applications</title>
+<ee type="oa">http://arxiv.org/abs/1006.4572</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.4572</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-4572</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-4730" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<title>A Framework for Constraint-Based Deployment and Autonomic Management of Distributed Applications (Extended Abstract)</title>
+<ee type="oa">http://arxiv.org/abs/1006.4730</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.4730</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-4730</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-4733" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<title>A Middleware Framework for Constraint-Based Deployment and Autonomic Management of Distributed Applications</title>
+<ee type="oa">http://arxiv.org/abs/1006.4733</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.4733</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-4733</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-4746" mdate="2021-07-07">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/MarkDDunlop">Mark D. Dunlop</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="n/PaddyNixon">Paddy Nixon</author>
+<title>Active Architecture for Pervasive Contextual Services</title>
+<ee type="oa">http://arxiv.org/abs/1006.4746</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.4746</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-4746</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-4827" mdate="2021-07-07">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="97/304">Kevin Mullen</author>
+<author pid="80/6818">Yanyan Yang</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="88/5671">Paula Welen</author>
+<author pid="98/3802">Andy Wilson</author>
+<title>Architectural Support for Global Smart Spaces</title>
+<ee type="oa">http://arxiv.org/abs/1006.4827</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.4827</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-4827</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-4833" mdate="2021-01-23">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="36/415">Evangelos Zirintsis</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>A Generic Storage API</title>
+<ee type="oa">http://arxiv.org/abs/1006.4833</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.4833</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-4833</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-5643" mdate="2021-01-23">
+<author pid="65/3789">&#193;lvaro J. Reb&#243;n Portillo</author>
+<author pid="09/4219">Scott Mervyn Walker</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>A Reflective Approach to Providing Flexibility in Application Distribution</title>
+<ee type="oa">http://arxiv.org/abs/1006.5643</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.5643</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-5643</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-5661" mdate="2021-01-23">
+<author pid="85/6508">Jo&#235;lle Coutaz</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="d/SophieDupuyChessa">Sophie Dupuy-Chessa</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="43/1461">Christophe Lachenal</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="39/598">Ga&#235;tan Rey</author>
+<author pid="36/415">Evangelos Zirintsis</author>
+<title>Working Document on Gloss Ontology</title>
+<ee type="oa">http://arxiv.org/abs/1006.5661</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.5661</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-5661</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-5794" mdate="2021-01-23">
+<author pid="36/415">Evangelos Zirintsis</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Report on the XBase Project</title>
+<ee type="oa">http://arxiv.org/abs/1006.5794</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.5794</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-5794</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-5940" mdate="2021-01-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="49/6878">Juan Carlos Diaz y Carballo</author>
+<title>An Information Flow Architecture for Global Smart Spaces</title>
+<ee type="oa">http://arxiv.org/abs/1006.5940</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.5940</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-5940</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-5941" mdate="2021-01-23">
+<author pid="36/415">Evangelos Zirintsis</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="60/6899">Ben Allen</author>
+<author pid="40/8262">Rob MacInnis</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="n/PaddyNixon">Paddy Nixon</author>
+<author pid="75/4606">Andrew Jamieson</author>
+<author pid="21/8262">Chris Nicholson</author>
+<author pid="30/8261">Steven Harris</author>
+<title>Second Set of Spaces</title>
+<ee type="oa">http://arxiv.org/abs/1006.5941</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.5941</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-5941</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1007-0107" mdate="2021-07-07">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="97/304">Kevin Mullen</author>
+<author pid="80/6818">Yanyan Yang</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="88/5671">Paula Welen</author>
+<author pid="98/3802">Andy Wilson</author>
+<title>First Smart Spaces</title>
+<ee type="oa">http://arxiv.org/abs/1007.0107</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1007.0107</volume>
+<url>db/journals/corr/corr1007.html#abs-1007-0107</url>
+</article>
+</r>
+<r><inproceedings key="conf/icoodb/DearleKM09" mdate="2017-06-04">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Orthogonal Persistence Revisited.</title>
+<pages>1-22</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_1</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#DearleKM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spin/SharmaLMDBMS09" mdate="2020-10-25">
+<author pid="53/937">Oliver Sharma</author>
+<author pid="97/4717">Jonathan Lewis</author>
+<author orcid="0000-0002-0941-1717" pid="83/3062">Alice Miller 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-5093-0906" pid="03/427">Dharini Balasubramaniam</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="s/JSSventek">Joe Sventek</author>
+<title>Towards Verifying Correctness of Wireless Sensor Network Applications Using Insense and Spin.</title>
+<pages>223-240</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_19</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#SharmaLMDBMS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/DearleBLM08" mdate="2020-10-25">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-5093-0906" pid="03/427">Dharini Balasubramaniam</author>
+<author pid="97/4717">Jonathan Lewis</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>A Component-Based Model and Language for Wireless Sensor Network Applications.</title>
+<pages>1303-1308</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.151</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.151</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#DearleBLM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soco/BalasubramaniamDM08" mdate="2020-06-25">
+<author pid="03/427">Dharini Balasubramaniam</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>A Composition-Based Approach to the Construction and Dynamic Reconfiguration of Wireless Sensor Network Applications.</title>
+<pages>206-214</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_16</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#BalasubramaniamDM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/KirbyDN07" mdate="2017-06-04">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<title>Design, Implementation and Deployment of State Machines Using a Generative Approach.</title>
+<pages>175-198</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_8</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#KirbyDN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/Dearle07" mdate="2017-05-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Software Deployment, Past, Present and Future.</title>
+<pages>269-284</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.20</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254724</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Dearle07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaa-idea/NorcrossDKW05" mdate="2018-11-14">
+<author pid="75/727">Stuart J. Norcross</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="09/4219">Scott Mervyn Walker</author>
+<title>A Peer-to-Peer Infrastructure for Resilient Web Services.</title>
+<pages>65-72</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.16</ee>
+<ee>https://www.wikidata.org/entity/Q57728866</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#NorcrossDKW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cd/KirbyWND05" mdate="2017-06-15">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="09/4219">Scott Mervyn Walker</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>A Methodology for Developing and Deploying Distributed Applications.</title>
+<pages>37-51</pages>
+<year>2005</year>
+<crossref>conf/cd/2005</crossref>
+<booktitle>Component Deployment</booktitle>
+<ee>https://doi.org/10.1007/11590712_4</ee>
+<url>db/conf/cd/cd2005.html#KirbyWND05</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cd/2005" mdate="2019-05-14">
+<editor pid="d/AlanDearle">Alan Dearle</editor>
+<editor pid="e/SusanEisenbach">Susan Eisenbach</editor>
+<title>Component Deployment, Third International Working Conference, CD 2005, Grenoble, France, November 28-29, 2005, Proceedings</title>
+<volume>3798</volume>
+<year>2005</year>
+<isbn>3-540-30517-3</isbn>
+<booktitle>Component Deployment</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11590712</ee>
+<url>db/conf/cd/cd2005.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cd/DearleKMC04" mdate="2017-11-30">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="49/6878">Juan Carlos Diaz y Carballo</author>
+<title>A Flexible and Secure Deployment Framework for Distributed Applications.</title>
+<pages>219-233</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_15</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#DearleKMC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icac/DearleKM04" mdate="2017-06-15">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<title>A Framework for Constraint-Based Deployment and Autonomic Management of Distributed Applications.</title>
+<pages>300-301</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.3</ee>
+<url>db/conf/icac/icac2004.html#DearleKM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mdm/DearleKMMMYCWW03" mdate="2021-07-07">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="97/304">Kevin Mullen</author>
+<author pid="80/6818">Yanyan Yang</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="88/5671">Paula Welen</author>
+<author pid="98/3802">Andy Wilson</author>
+<title>Architectural Support for Global Smart Spaces.</title>
+<pages>153-164</pages>
+<year>2003</year>
+<crossref>conf/mdm/2003</crossref>
+<booktitle>Mobile Data Management</booktitle>
+<ee>https://doi.org/10.1007/3-540-36389-0_11</ee>
+<url>db/conf/mdm/mdm2003.html#DearleKMMMYCWW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/KirbyDMDCN03" mdate="2021-07-07">
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/MarkDDunlop">Mark D. Dunlop</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="n/PaddyNixon">Paddy Nixon</author>
+<title>Active Architecture for Pervasive Contextual Services.</title>
+<pages>21-28</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#KirbyDMDCN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/PortilloWKD03" mdate="2016-09-06">
+<author pid="65/3789">&#193;lvaro J. Reb&#243;n Portillo</author>
+<author pid="09/4219">Scott Mervyn Walker</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>A Reflective Approach to Providing Flexibility in Application Distribution.</title>
+<pages>95-99</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#PortilloWKD03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CarballoDC02" mdate="2021-07-07">
+<author pid="49/6878">Juan Carlos Diaz y Carballo</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<title>Thin Servers - An Architecture to Support Arbitrary Placement of Computation in the Internet.</title>
+<pages>1080-1085</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CarballoDC02</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pos/2000" mdate="2019-05-14">
+<editor pid="k/GNCKirby">Graham N. C. Kirby</editor>
+<editor pid="d/AlanDearle">Alan Dearle</editor>
+<editor pid="32/889">Dag I. K. Sj&#248;berg</editor>
+<title>Persistent Object Systems, 9th International Workshop, POS-9, Lillehammer, Norway, September 6-8, 2000, Revised Papers</title>
+<booktitle>POS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2135</volume>
+<publisher>Springer</publisher>
+<year>2001</year>
+<isbn>3-540-42735-X</isbn>
+<ee>https://doi.org/10.1007/3-540-45498-5</ee>
+<url>db/conf/pos/pos2000.html</url>
+</proceedings>
+</r>
+<r><article key="journals/spe/DearleH00" mdate="2020-04-09">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="89/4105">David Hulse</author>
+<title>Operating system support for persistent systems: past, present and future.</title>
+<pages>295-324</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe30.html#DearleH00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000410)30:4&#60;295::AID-SPE301&#62;3.0.CO;2-P</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pos/Dearle00" mdate="2017-05-21">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Session 6: Overview.</title>
+<pages>228-231</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_20</ee>
+<url>db/conf/pos/pos2000.html#Dearle00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ershov/MorrisonCCDFKMZ99" mdate="2017-06-15">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="91/3786">Alex Farkas</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="95/6594">Robert McGettrick</author>
+<author pid="36/415">Evangelos Zirintsis</author>
+<title>Current Directions in Hyper-Programming.</title>
+<pages>316-340</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_28</ee>
+<url>db/conf/ershov/ershov1999.html#MorrisonCCDFKMZ99</url>
+</inproceedings>
+</r>
+<r><article key="journals/internet/Dearle98" mdate="2020-03-13">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Toward Ubiquitous Environments for Mobile Users.</title>
+<pages>22-32</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Dearle98</url>
+<ee>https://doi.org/10.1109/4236.656063</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656063</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pos/OLenskieDH98" mdate="2012-09-18">
+<author pid="15/1496">Adrian O'Lenskie</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="89/4105">David Hulse</author>
+<title>Persistent Operating System Support for Persistent CORBA Objects.</title>
+<pages>92-111</pages>
+<cdrom>POS/1998/P092.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#OLenskieDH98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/HulseD98" mdate="2012-09-18">
+<author pid="89/4105">David Hulse</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Lumberjack: A Log-Structured Persistent Object Store.</title>
+<pages>187-198</pages>
+<cdrom>POS/1998/P187.pdf</cdrom>
+<year>1998</year>
+<crossref>conf/pos/1998</crossref>
+<booktitle>POS/PJW</booktitle>
+<url>db/conf/pos/pos98.html#HulseD98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/RosenbergDC97" mdate="2022-07-04">
+<author pid="17/3411">John Rosenberg</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<title>Distributed Persistent Architectures.</title>
+<pages>512</pages>
+<year>1997</year>
+<crossref>conf/hicss/1997</crossref>
+<booktitle>HICSS (1)</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HICSS.1997.10001</ee>
+<url>db/conf/hicss/hicss1997.html#RosenbergDC97</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/RosenbergDHLN96" mdate="2018-11-06">
+<author pid="17/3411">John Rosenberg</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="89/4105">David Hulse</author>
+<author pid="73/5473">Anders Lindstr&#246;m</author>
+<author pid="57/4555">Stephen Norris</author>
+<title>Operating System Support for Persistant and Recoverable Computations: Guaranteeing data recovery and consistency, the authors' experimental Grasshopper persistent operating system simplifies application development and encourages construction of integrated systems.</title>
+<pages>62-69</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Commun. ACM</journal>
+<number>9</number>
+<url>db/journals/cacm/cacm39.html#RosenbergDHLN96</url>
+<ee>https://doi.org/10.1145/234215.234472</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pos/FarkasDH96" mdate="2017-03-16">
+<author pid="91/3786">Alex Farkas</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="89/4105">David Hulse</author>
+<title>Operating System Support for Inter-Domain Type Checking.</title>
+<pages>23-32</pages>
+<cdrom>POS/1996/P023.pdf</cdrom>
+<year>1996</year>
+<crossref>conf/pos/96</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos96.html#FarkasDH96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotos/LindstromRD95" mdate="2017-05-17">
+<author pid="73/5473">Anders Lindstr&#246;m</author>
+<author pid="17/3411">John Rosenberg</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>The grand unified theory of address spaces.</title>
+<pages>66-71</pages>
+<year>1995</year>
+<booktitle>HotOS</booktitle>
+<ee>https://doi.org/10.1109/HOTOS.1995.513457</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HOTOS.1995.513457</ee>
+<crossref>conf/hotos/1995</crossref>
+<url>db/conf/hotos/hotos1995.html#LindstromRD95</url>
+</inproceedings>
+</r>
+<r><article key="journals/csys/DearleBFHLRV94" mdate="2020-05-10">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="45/5804">Rex di Bona</author>
+<author pid="59/4584">James Farrow</author>
+<author pid="h/FransAHenskens">Frans A. Henskens</author>
+<author pid="73/5473">Anders Lindstr&#246;m</author>
+<author pid="17/3411">John Rosenberg</author>
+<author pid="72/6183">Francis Vaughan</author>
+<title>Grasshopper: An Orthogonally Persistent Operating System.</title>
+<pages>289-312</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys7.html#DearleBFHLRV94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/sum_dearle.pdf</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pos/DearleBFHLNRV94" mdate="2019-06-24">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="45/5804">Rex di Bona</author>
+<author pid="59/4584">James Farrow</author>
+<author pid="h/FransAHenskens">Frans A. Henskens</author>
+<author pid="73/5473">Anders Lindstr&#246;m</author>
+<author pid="57/4555">Stephen Norris</author>
+<author pid="17/3411">John Rosenberg</author>
+<author pid="72/6183">Francis Vaughan</author>
+<title>Protection in Grasshopper: A Persistent Operating System.</title>
+<pages>60-78</pages>
+<cdrom>POS/1994/P060.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#DearleBFHLNRV94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_6</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/Dearle94" mdate="2019-06-24">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Object Caching.</title>
+<pages>96-98</pages>
+<cdrom>POS/1994/P096.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Dearle94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_8</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/BushellDBV94" mdate="2019-06-24">
+<author pid="25/1816">S. J. Bushell</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="72/6183">Francis Vaughan</author>
+<title>Using C as a Compiler Target Language for Native Code Generation in Persistent Systems.</title>
+<pages>164-183</pages>
+<cdrom>POS/1994/P164.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#BushellDBV94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_15</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/FarkasD94" mdate="2019-06-24">
+<author pid="91/3786">Alex Farkas</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Changing Persistent Applications.</title>
+<pages>302-315</pages>
+<cdrom>POS/1994/P302.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#FarkasD94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_24</ee>
+</inproceedings>
+</r>
+<r><article key="journals/mam/DearleCC93" mdate="2021-07-07">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<title>Using persistence to support incremental system construction.</title>
+<pages>161-171</pages>
+<year>1993</year>
+<volume>17</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0141-9331(93)90046-A</ee>
+<url>db/journals/mam/mam17.html#DearleCC93</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/FarkasD93" mdate="2017-03-29">
+<author pid="91/3786">Alex Farkas</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Octopus: A Reflective Language Mechanism for Object Manipulation.</title>
+<pages>50-64</pages>
+<cdrom>DBPL1993/P050.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#FarkasD93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>journals/tods/AlbanoCO85</cite>
+<cite>...</cite>
+<cite>journals/cacm/Bachman73</cite>
+<cite>...</cite>
+<cite>conf/pos/ConnorBCDMR90</cite>
+<cite>...</cite>
+<cite>journals/cj/DearleB88</cite>
+<cite>conf/dbpl/DearleRV91</cite>
+<cite>conf/pos/FarkasDKCMC92</cite>
+<cite>conf/icse/FutatsugiGMO87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pos/KirbyCCMDF92</cite>
+<cite>...</cite>
+<cite>conf/dbpl/MatthesS89</cite>
+<cite>journals/ipl/MorrisonABD90</cite>
+<cite>...</cite>
+<cite>books/ph/Jones87</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/csys/VaughanBDMB92" mdate="2020-05-10">
+<author pid="72/6183">Francis Vaughan</author>
+<author pid="42/6773">Tracy Lo Basso</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="m/ChrisDMarlin">Chris D. Marlin</author>
+<author pid="28/6728">Chris J. Barter</author>
+<title>Casper: A Cached Architecture Supporting Persistence.</title>
+<pages>337-359</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys5.html#VaughanBDMB92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/sum_vaughan.pdf</ee>
+</article>
+</r>
+<r><inproceedings key="conf/pos/VaughanD92" mdate="2014-02-10">
+<author pid="72/6183">Francis Vaughan</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Supporting Large Persistent Stores using Conventional Hardware.</title>
+<pages>34-53</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#VaughanD92</url>
+<cdrom>POS/1992/P034.pdf</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/RosenbergD92" mdate="2014-02-10">
+<author pid="17/3411">John Rosenberg</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Keynote Discussion Session on Operating System Support for Persistence.</title>
+<pages>54-60</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#RosenbergD92</url>
+<cdrom>POS/1992/P054.pdf</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/KirbyCCMDF92" mdate="2014-02-10">
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="91/3786">Alex Farkas</author>
+<title>Persistent Hyper-Programs.</title>
+<pages>86-106</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#KirbyCCMDF92</url>
+<cdrom>POS/1992/P086.pdf</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/Dearle92" mdate="2014-02-10">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Integrity Constraints and Methodology</title>
+<pages>280-281</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Dearle92</url>
+<cdrom>POS/1992/P280.pdf</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/FarkasDKCMC92" mdate="2014-02-10">
+<author pid="91/3786">Alex Farkas</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<title>Persistent Program Construction through Browsing and User Gesture with some Typing.</title>
+<pages>376-393</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#FarkasDKCMC92</url>
+<cdrom>POS/1992/P376.pdf</cdrom>
+</inproceedings>
+</r>
+<r><article key="journals/toplas/MorrisonDCB91" mdate="2018-11-06">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<title>An Ad Hoc Approach to the Implementation of Polymorphism.</title>
+<pages>342-371</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/117009.117017</ee>
+<url>db/journals/toplas/toplas13.html#MorrisonDCB91</url>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/DearleRV91" mdate="2012-09-18">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="17/3411">John Rosenberg</author>
+<author pid="72/6183">Francis Vaughan</author>
+<title>A Remote Execution Mechanism For Distributed Homogeneous Stable Stores.</title>
+<pages>125-138</pages>
+<cdrom>DBPL1991/P125.pdf</cdrom>
+<year>1991</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl91.html#DearleRV91</url>
+<crossref>conf/dbpl/91</crossref>
+<cite label="ABC83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="AM88">conf/db-workshops/AtkinsonM85</cite>
+<cite label="BHJ86">conf/oopsla/BlackHJL86</cite>
+<cite label="BHJ87">journals/tse/BlackHJLC87</cite>
+<cite label="BN84">journals/tocs/BirrelN84</cite>
+<cite label="bro89">...</cite>
+<cite label="coc89">conf/pos/Cockshott89</cite>
+<cite label="CAC84">journals/spe/CockshottACBM84</cite>
+<cite label="DB89">journals/cj/DearleB88</cite>
+<cite label="dea89">...</cite>
+<cite label="DJT88">...</cite>
+<cite label="GR83">books/aw/GoldbergR83</cite>
+<cite label="HR83">journals/csur/HarderR83</cite>
+<cite label="HR91">...</cite>
+<cite label="KSD90">conf/pos/KochSDVMFB90</cite>
+<cite label="lam81">conf/ac/Lampson80</cite>
+<cite label="li86">...</cite>
+<cite label="lis85">conf/ac/Liskov84</cite>
+<cite label="LH89">journals/tocs/LiH89</cite>
+<cite label="LSA77">journals/cacm/LiskovSAS77</cite>
+<cite label="lor77">journals/tods/Lorie77</cite>
+<cite label="MBC89">...</cite>
+<cite label="mos89">conf/dbpl/Moss89</cite>
+<cite label="nel81">...</cite>
+<cite label="ps87">...</cite>
+<cite label="RA85">...</cite>
+<cite label="RK90">...</cite>
+<cite label="ros91">conf/pos/Rosenberg90</cite>
+<cite label="sun88">...</cite>
+<cite label="SG90">journals/toplas/StamosG90</cite>
+<cite label="ung84">conf/sde/Ungar84</cite>
+<cite label="wai89">...</cite>
+<cite label="wai90">conf/pos/Wai89</cite>
+<cite label="WF90">journals/tc/WuF90</cite>
+<cite label="xe81">...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/MorrisonABD90" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>On the Classification of Binding Mechanisms.</title>
+<pages>51-55</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#MorrisonABD90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90230-U</ee>
+</article>
+</r>
+<r><inproceedings key="conf/cassp/MorrisonBCCKDRS90" mdate="2022-04-06">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="17/3411">John Rosenberg</author>
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<title>Protection in Persistent Object Systems.</title>
+<pages>48-66</pages>
+<year>1990</year>
+<booktitle>Security and Persistence</booktitle>
+<ee>https://doi.org/10.1007/978-1-4471-3178-6_4</ee>
+<crossref>conf/cassp/1990</crossref>
+<url>db/conf/cassp/cassp1990.html#MorrisonBCCKDRS90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cassp/BrownMMDR90" mdate="2022-04-06">
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="m/DavidSMunro">David S. Munro</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="17/3411">John Rosenberg</author>
+<title>A Layered Persistent Architecture for Napier88.</title>
+<pages>155-172</pages>
+<year>1990</year>
+<booktitle>Security and Persistence</booktitle>
+<ee>https://doi.org/10.1007/978-1-4471-3178-6_11</ee>
+<crossref>conf/cassp/1990</crossref>
+<url>db/conf/cassp/cassp1990.html#BrownMMDR90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/ConnorDMB90" mdate="2021-07-07">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="b/AlfredLBrown">Fred Brown</author>
+<title>Existentially Quantified Typed as a Database Viewing Mechanism.</title>
+<pages>301-315</pages>
+<cdrom>EDBT90/P301.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#ConnorDMB90</url>
+<ee>https://doi.org/10.1007/BFb0022178</ee>
+<cite label="ABC76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="ABC83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="ABM88">journals/cj/AtkinsonBM88</cite>
+<cite label="ACO85">journals/tods/AlbanoCO85</cite>
+<cite label="BCD89">conf/dbpl/BancilhonCD89</cite>
+<cite label="BL84">...</cite>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="Dea89">...</cite>
+<cite label="Har85">conf/db-workshops/Harper85</cite>
+<cite label="IBM78">...</cite>
+<cite label="MAt85">...</cite>
+<cite label="MBC88">...</cite>
+<cite label="MP85">journals/toplas/MitchellP88</cite>
+<cite label="NW74">...</cite>
+<cite label="Pow85">...</cite>
+<cite label="ps87">...</cite>
+<cite label="SWK76">journals/tods/StonebrakerWKH76</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/Dearle90" mdate="2012-09-18">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Language Mechanisms - Introduction.</title>
+<pages>29-30</pages>
+<year>1990</year>
+<crossref>conf/pos/90</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos90.html#Dearle90</url>
+<cdrom>POS/1990/P029.pdf</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/KochSDVMFB90" mdate="2012-09-18">
+<author pid="04/742">Bett Koch</author>
+<author pid="89/5223">Tracy Schunke</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="72/6183">Francis Vaughan</author>
+<author pid="m/ChrisDMarlin">Chris D. Marlin</author>
+<author pid="05/5323">Ruth Fazakerley</author>
+<author pid="28/6728">Chris J. Barter</author>
+<title>Cache Coherency and Storage Management in a Persistent Object System.</title>
+<pages>103-113</pages>
+<year>1990</year>
+<crossref>conf/pos/90</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos90.html#KochSDVMFB90</url>
+<cdrom>POS/1990/P103.pdf</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/ConnorBCDMR90" mdate="2012-09-18">
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="17/3411">John Rosenberg</author>
+<title>Type Equivalence Checking in Persistent Object Systems.</title>
+<pages>154-167</pages>
+<year>1990</year>
+<crossref>conf/pos/90</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos90.html#ConnorBCDMR90</url>
+<cdrom>POS/1990/P154.pdf</cdrom>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pos/90" mdate="2012-09-18">
+<editor pid="d/AlanDearle">Alan Dearle</editor>
+<editor pid="81/2278">Gail M. Shaw</editor>
+<editor pid="z/SBZdonik">Stanley B. Zdonik</editor>
+<title>Implementing Persistent Object Bases, Principles and Practice, Proceedings of the Fourth International Workshop on Persistent Objects, 23-27 September 1990, Martha's Vineyard, MA, USA</title>
+<publisher>Morgan Kaufmann</publisher>
+<year>1990</year>
+<isbn>1-55860-168-6</isbn>
+<url>db/conf/pos/pos90.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/dbpl/AlbanoDGMMOS89" mdate="2015-06-16">
+<author pid="a/AAlbano">Antonio Albano</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="g/GiorgioGhelli">Giorgio Ghelli</author>
+<author pid="m/ChrisDMarlin">Chris D. Marlin</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="o/RenzoOrsini">Renzo Orsini</author>
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<title>A Framework for Comparing Type Systems for Database Programming Languages.</title>
+<pages>170-178</pages>
+<cdrom>DBPL1989/P170.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#AlbanoDGMMOS89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="OO88">conf/oodbs/88</cite>
+<cite label="1">journals/csur/AtkinsonB87</cite>
+<cite label="2">...</cite>
+<cite label="3">conf/pos/1985</cite>
+<cite label="4">conf/db-workshops/Intervale</cite>
+<cite label="5">journals/csur/DanforthT88</cite>
+<cite label="6">conf/oodbs/88</cite>
+<cite label="7">books/mit/ShriverW87</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/DearleCBM89" mdate="2012-09-18">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="b/AlfredLBrown">Fred Brown</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Napier88 - A Database Programming Language?</title>
+<pages>179-195</pages>
+<cdrom>DBPL1989/P179.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#DearleCBM89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="ABC83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="ADG89">conf/dbpl/AlbanoDGMMOS89</cite>
+<cite label="AM85">journals/toplas/AtkinsonM85</cite>
+<cite label="AMP86">...</cite>
+<cite label="atk78">conf/vldb/Atkinson78</cite>
+<cite label="BBB88">conf/oodbs/BancilhonBBDGLPRV88</cite>
+<cite label="BCC88">...</cite>
+<cite label="bro89">...</cite>
+<cite label="car84">...</cite>
+<cite label="CL88">conf/oodbs/ConnorsL88</cite>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="DB88">journals/cj/DearleB88</cite>
+<cite label="dea89">...</cite>
+<cite label="GM79">journals/ipl/GunnM79</cite>
+<cite label="LZ74">journals/sigplan/LiskovZ74</cite>
+<cite label="mor79a">...</cite>
+<cite label="mor79b">...</cite>
+<cite label="MP85">conf/popl/MitchellP85</cite>
+<cite label="ps87">...</cite>
+<cite label="str67">...</cite>
+<cite label="SZ86">conf/oodbs/SkarraZR86</cite>
+<cite label="wir82">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/ConnorDMB89" mdate="2021-10-14">
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<title>An Object Addressing Mechanism for Statically Types Languages with Multiple Inheritance.</title>
+<pages>279-285</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#ConnorDMB89</url>
+<ee>https://doi.org/10.1145/74877.74906</ee>
+<ee>https://doi.org/10.1145/74878.74906</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/MorrisonBCCDA89" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="71/151">Raymund Carrick</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>The Napier Type System.</title>
+<pages>3-18</pages>
+<cdrom>POS/1989/P003.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#MorrisonBCCDA89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/DearleCK89" mdate="2012-09-18">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<title>Browsing, Grazing and Bibbling Persistent data Structures.</title>
+<pages>56-69</pages>
+<cdrom>POS/1989/P056.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#DearleCK89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pos/ConnorBCDM89" mdate="2012-09-18">
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="71/151">Raymund Carrick</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>The Persistent Abstract Machine.</title>
+<pages>353-366</pages>
+<cdrom>POS/1989/P353.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#ConnorBCDM89</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Dearle88" mdate="2022-04-05">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>On the construction of persistent programming environments.</title>
+<year>1988</year>
+<school>University of St Andrews, UK</school>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.234089</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article key="journals/cj/DearleB88" mdate="2017-05-20">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<title>Safe Browsing in a Strongly Typed Persistent Environment.</title>
+<pages>540-544</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#DearleB88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.540</ee>
+</article>
+</r>
+<r><article key="journals/sigplan/MorrisonABD88" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Bindings persistent programming languages.</title>
+<pages>27-34</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44328</ee>
+<url>db/journals/sigplan/sigplan23.html#MorrisonABD88</url>
+</article>
+</r>
+<r><inproceedings key="conf/ausai/MorrisonDM88" mdate="2017-05-19">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="m/ChrisDMarlin">Chris D. Marlin</author>
+<title>Adaptive Data Stores.</title>
+<pages>214-224</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#MorrisonDM88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_81</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oodbs/MorrisonBCCD88" mdate="2021-07-07">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="71/151">Raymund Carrick</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>On the Integration of Object-Oriented and Process-Oriented Computation in Persistent Environments.</title>
+<pages>334-339</pages>
+<year>1988</year>
+<crossref>conf/oodbs/88</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs88.html#MorrisonBCCD88</url>
+<ee>https://doi.org/10.1007/3-540-50345-5_32</ee>
+</inproceedings>
+</r>
+<r><article key="journals/iee/MorrisonBCCDA87" mdate="2022-08-16">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="71/151">Raymund Carrick</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Polymorphism, persistence and software re-use in a strongly typed object-oriented environment.</title>
+<pages>199-204</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1049/sej.1987.0026</ee>
+<ee>https://www.wikidata.org/entity/Q111900632</ee>
+<url>db/journals/iee/iee-sej2.html#MorrisonBCCDA87</url>
+</article>
+</r>
+<r><inproceedings key="conf/pos/Dearle87" mdate="2012-09-18">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Constructing Compilers in a persistent environment.</title>
+<pages>443-455</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Dearle87</url>
+<cdrom>POS/1987/P443.pdf</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/CooperADA87" mdate="2022-05-11">
+<crossref>conf/vldb/87</crossref>
+<author pid="c/RichardCooper">Richard Cooper 0001</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="88/5114">D. Abderrahmane</author>
+<title>Constructing Database Systems in a Persistent Environment.</title>
+<pages>117-125</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#CooperADA87</url>
+<ee>http://www.vldb.org/conf/1987/P117.PDF</ee>
+<cite label="ATKI83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="ATKI85">journals/toplas/AtkinsonM85</cite>
+<cite label="ATKI86a">...</cite>
+<cite label="ATKI86b">...</cite>
+<cite label="ATKI87">journals/cj/AtkinsonBM88</cite>
+<cite label="BUNE82">journals/tods/BunemanFN82</cite>
+<cite label="CAMP86">...</cite>
+<cite label="COCK84">journals/spe/CockshottACBM84</cite>
+<cite label="CODD79">journals/tods/Codd79</cite>
+<cite label="COOP87">...</cite>
+<cite label="DEAR87">journals/cj/DearleB88</cite>
+<cite label="HEPP83a">...</cite>
+<cite label="HEPP83b">...</cite>
+<cite label="KULK83">...</cite>
+<cite label="KULK86">journals/cj/KulkarniA86</cite>
+<cite label="KULK87">journals/spe/KulkarniA87</cite>
+<cite label="MORR86">...</cite>
+<cite label="NORR85">...</cite>
+<cite label="PSAL86">...</cite>
+<cite label="SHIP81">journals/tods/Shipman81</cite>
+<cite label="STOC73">journals/cj/StockerD73</cite>
+</inproceedings>
+</r>
+<r><article key="journals/cgf/MorrisonFDA86" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="121/5795">A. L. Florianis</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>An Integrated Graphics Programming Environment.</title>
+<pages>147-157</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00284.x</ee>
+<url>db/journals/cgf/cgf5.html#MorrisonFDA86</url>
+</article>
+</r>
+<r><article key="journals/spe/MorrisonBBDD86" mdate="2020-04-09">
+<author pid="82/2183">Ronald Morrison</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="27/4894">Peter J. Bailey</author>
+<author pid="25/3932">Antony J. T. Davie</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>A Persistent Graphics Facility for the ICL PERQ.</title>
+<pages>351-367</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe16.html#MorrisonBBDD86</url>
+<ee>https://doi.org/10.1002/spe.4380160405</ee>
+</article>
+</r>
+<r><inproceedings key="conf/oodbs/AtkinsonDM86" mdate="2022-05-11">
+<ee>http://dl.acm.org/citation.cfm?id=318853</ee>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>A Strongly Persistent Object Store.</title>
+<pages>206</pages>
+<cdrom>OODBS1986/P206.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#AtkinsonDM86</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MorrisonDBBA85" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="27/4894">Peter J. Bailey</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>The Persistent Store as an Enabling Technology for Integrated Project Support.</title>
+<pages>166-173</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#MorrisonDBBA85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319614</ee>
+</inproceedings>
+</r>
+<coauthors n="87" nc="1">
+<co c="0"><na f="a/Abderrahmane:D=" pid="88/5114">D. Abderrahmane</na></co>
+<co c="0"><na f="a/Akg=uuml=n:=Ouml=zg=uuml=r" pid="35/9923">&#214;zg&#252;r Akg&#252;n</na></co>
+<co c="0"><na f="a/Albano:Antonio" pid="a/AAlbano">Antonio Albano</na></co>
+<co c="0"><na f="a/Allen:Ben" pid="60/6899">Ben Allen</na></co>
+<co c="0"><na f="a/Atkinson_0001:Malcolm_P=" pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</na></co>
+<co c="0"><na f="b/Bailey:Peter_J=" pid="27/4894">Peter J. Bailey</na></co>
+<co c="0"><na f="b/Balasubramaniam:Dharini" pid="03/427">Dharini Balasubramaniam</na></co>
+<co c="0"><na f="b/Barker:Adam" pid="24/1959">Adam Barker</na></co>
+<co c="0"><na f="b/Barter:Chris_J=" pid="28/6728">Chris J. Barter</na></co>
+<co c="0"><na f="b/Basso:Tracy_Lo" pid="42/6773">Tracy Lo Basso</na></co>
+<co c="0"><na f="b/Bigwood:Greg" pid="87/1930">Greg Bigwood</na></co>
+<co c="0"><na f="b/Bona:Rex_di" pid="45/5804">Rex di Bona</na></co>
+<co c="0"><na f="b/Boyd:Alan_W=_F=" pid="57/8300">Alan W. F. Boyd</na></co>
+<co c="0" n="2"><na f="b/Brown:Alfred_L=" pid="b/AlfredLBrown">Alfred L. Brown</na><na>Fred Brown</na></co>
+<co c="0"><na f="b/Bushell:S=_J=" pid="25/1816">S. J. Bushell</na></co>
+<co c="0"><na f="c/Carballo:Juan_Carlos_Diaz_y" pid="49/6878">Juan Carlos Diaz y Carballo</na></co>
+<co c="0"><na f="c/Carrick:Raymund" pid="71/151">Raymund Carrick</na></co>
+<co c="0"><na f="c/Carson:Jamie" pid="175/7581">Jamie Carson</na></co>
+<co c="0"><na f="c/Christen:Peter" pid="c/PeterChristen">Peter Christen</na></co>
+<co c="0" n="2"><na f="c/Connor_0001:Richard" pid="c/RCHConnor">Richard Connor 0001</na><na>Richard C. H. Connor</na></co>
+<co c="0"><na f="c/Cooper_0001:Richard" pid="c/RichardCooper">Richard Cooper 0001</na></co>
+<co c="0"><na f="c/Coutaz:Jo=euml=lle" pid="85/6508">Jo&#235;lle Coutaz</na></co>
+<co c="0"><na f="c/Cutts:Quintin_I=" pid="c/QICutts">Quintin I. Cutts</na></co>
+<co c="0"><na f="d/Davie:Antony_J=_T=" pid="25/3932">Antony J. T. Davie</na></co>
+<co c="0"><na f="d/Dibben:Chris" pid="175/7588">Chris Dibben</na></co>
+<co c="0" n="2"><na f="d/Dobson:Simon_A=" pid="d/SimonADobson">Simon A. Dobson</na><na>Simon Dobson</na></co>
+<co c="0"><na f="d/Dunlop:Fraser" pid="175/7559">Fraser Dunlop</na></co>
+<co c="0"><na f="d/Dunlop:Mark_D=" pid="d/MarkDDunlop">Mark D. Dunlop</na></co>
+<co c="0"><na f="d/Dupuy=Chessa:Sophie" pid="d/SophieDupuyChessa">Sophie Dupuy-Chessa</na></co>
+<co c="-1"><na f="e/Eisenbach:Susan" pid="e/SusanEisenbach">Susan Eisenbach</na></co>
+<co c="0"><na f="f/Farkas:Alex" pid="91/3786">Alex Farkas</na></co>
+<co c="0"><na f="f/Farrow:James" pid="59/4584">James Farrow</na></co>
+<co c="0"><na f="f/Fazakerley:Ruth" pid="05/5323">Ruth Fazakerley</na></co>
+<co c="0"><na f="f/Fernandes:Alvaro_A=_A=" pid="f/AAAFernandes">Alvaro A. A. Fernandes</na></co>
+<co c="0"><na f="f/Florianis:A=_L=" pid="121/5795">A. L. Florianis</na></co>
+<co c="0"><na f="g/Garrett:Eilidh" pid="126/0356">Eilidh Garrett</na></co>
+<co c="0"><na f="g/Ghelli:Giorgio" pid="g/GiorgioGhelli">Giorgio Ghelli</na></co>
+<co c="0"><na f="h/Harris:Steven" pid="30/8261">Steven Harris</na></co>
+<co c="0"><na f="h/Harvey_0002:Paul" pid="77/6861-2">Paul Harvey 0002</na></co>
+<co c="0"><na f="h/Henskens:Frans_A=" pid="h/FransAHenskens">Frans A. Henskens</na></co>
+<co c="0"><na f="h/Hulse:David" pid="89/4105">David Hulse</na></co>
+<co c="0"><na f="j/Jamieson:Andrew" pid="75/4606">Andrew Jamieson</na></co>
+<co c="0"><na f="j/Jaradat:Ward" pid="130/3969">Ward Jaradat</na></co>
+<co c="0"><na f="k/Kirby:Graham_N=_C=" pid="k/GNCKirby">Graham N. C. Kirby</na></co>
+<co c="0"><na f="k/Koch:Bett" pid="04/742">Bett Koch</na></co>
+<co c="0"><na f="l/Lachenal:Christophe" pid="43/1461">Christophe Lachenal</na></co>
+<co c="0"><na f="l/Lewis:Jonathan" pid="97/4717">Jonathan Lewis</na></co>
+<co c="0"><na f="l/Lindstr=ouml=m:Anders" pid="73/5473">Anders Lindstr&#246;m</na></co>
+<co c="0"><na f="m/Macdonald:Angus" pid="19/7867">Angus Macdonald</na></co>
+<co c="0"><na f="m/MacInnis:Rob" pid="40/8262">Rob MacInnis</na></co>
+<co c="0"><na f="m/Marlin:Chris_D=" pid="m/ChrisDMarlin">Chris D. Marlin</na></co>
+<co c="0"><na f="m/McCarthy:Andrew_J=" pid="29/5954">Andrew J. McCarthy</na></co>
+<co c="0"><na f="m/McGettrick:Robert" pid="95/6594">Robert McGettrick</na></co>
+<co c="0"><na f="m/Mic:Vladimir" pid="169/1176">Vladimir Mic</na></co>
+<co c="0"><na f="m/Miller_0001:Alice" pid="83/3062">Alice Miller 0001</na></co>
+<co c="0"><na f="m/Morrison:Ronald" pid="82/2183">Ronald Morrison</na></co>
+<co c="0"><na f="m/Mullen:Kevin" pid="97/304">Kevin Mullen</na></co>
+<co c="0"><na f="m/Munro:David_S=" pid="m/DavidSMunro">David S. Munro</na></co>
+<co c="0"><na f="n/Nicholson:Chris" pid="21/8262">Chris Nicholson</na></co>
+<co c="0"><na f="n/Nixon:Paddy" pid="n/PaddyNixon">Paddy Nixon</na></co>
+<co c="0"><na f="n/Norcross:Stuart_J=" pid="75/727">Stuart J. Norcross</na></co>
+<co c="0"><na f="n/Norris:Stephen" pid="57/4555">Stephen Norris</na></co>
+<co c="0"><na f="o/O=Lenskie:Adrian" pid="15/1496">Adrian O'Lenskie</na></co>
+<co c="0"><na f="o/Orsini:Renzo" pid="o/RenzoOrsini">Renzo Orsini</na></co>
+<co c="0"><na f="p/Porter:Barry" pid="59/4160">Barry Porter</na></co>
+<co c="0"><na f="p/Portillo:=Aacute=lvaro_J=_Reb=oacute=n" pid="65/3789">&#193;lvaro J. Reb&#243;n Portillo</na></co>
+<co c="0"><na f="r/Reid:Alice" pid="126/0240">Alice Reid</na></co>
+<co c="0"><na f="r/Rey:Ga=euml=tan" pid="39/598">Ga&#235;tan Rey</na></co>
+<co c="0"><na f="r/Rosenberg:John" pid="17/3411">John Rosenberg</na></co>
+<co c="0"><na f="s/Schunke:Tracy" pid="89/5223">Tracy Schunke</na></co>
+<co c="0"><na f="s/Sharma:Oliver" pid="53/937">Oliver Sharma</na></co>
+<co c="0"><na f="s/Shaw:Gail_M=" pid="81/2278">Gail M. Shaw</na></co>
+<co c="0"><na f="s/Sj=oslash=berg:Dag_I=_K=" pid="32/889">Dag I. K. Sj&#248;berg</na></co>
+<co c="0"><na f="s/Stemple:David_W=" pid="s/DavidWStemple">David W. Stemple</na></co>
+<co c="0" n="2"><na f="s/Sventek:Joseph_S=" pid="s/JSSventek">Joseph S. Sventek</na><na>Joe Sventek</na></co>
+<co c="0"><na f="t/Tauber:Markus" pid="56/8261">Markus Tauber</na></co>
+<co c="0"><na f="v/Vadicamo:Lucia" pid="152/1401">Lucia Vadicamo</na></co>
+<co c="0"><na f="v/Vaughan:Francis" pid="72/6183">Francis Vaughan</na></co>
+<co c="0"><na f="w/Walker:Scott_Mervyn" pid="09/4219">Scott Mervyn Walker</na></co>
+<co c="0"><na f="w/Welen:Paula" pid="88/5671">Paula Welen</na></co>
+<co c="0"><na f="w/Williamson:Lee" pid="175/7569">Lee Williamson</na></co>
+<co c="0"><na f="w/Wilson:Andy" pid="98/3802">Andy Wilson</na></co>
+<co c="0"><na f="y/Yang:Yanyan" pid="80/6818">Yanyan Yang</na></co>
+<co c="0"><na f="z/Zdonik:Stanley_B=" pid="z/SBZdonik">Stanley B. Zdonik</na></co>
+<co c="0"><na f="z/Zezula:Pavel" pid="z/PZezula">Pavel Zezula</na></co>
+<co c="-1"><na f="z/Zicari:Roberto_V=" pid="z/RZicari">Roberto V. Zicari</na></co>
+<co c="0"><na f="z/Zirintsis:Evangelos" pid="36/415">Evangelos Zirintsis</na></co>
+</coauthors>
+</dblpperson>
+

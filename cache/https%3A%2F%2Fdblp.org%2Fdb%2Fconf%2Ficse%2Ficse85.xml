@@ -1,0 +1,758 @@
+<bht key="db/conf/icse/icse85.bht" title="ICSE 1985">  
+<h1>8th <ref href="db/conf/icse/index.html">ICSE</ref> 1985:
+London, UK</h1>
+
+<dblpcites><r><proceedings key="conf/icse/1985" mdate="2012-05-14">
+<editor pid="l/MeirMLehman">Meir M. Lehman</editor>
+<editor pid="42/4700">Horst H&#252;nke</editor>
+<editor pid="b/BarryWBoehm">Barry W. Boehm</editor>
+<title>Proceedings, 8th International Conference on Software Engineering, London, UK, August 28-30, 1985.</title>
+<booktitle>ICSE</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>1985</year>
+<isbn>0-8186-0620-7</isbn>
+<url>db/conf/icse/icse85.html</url>
+<ee>http://dl.acm.org/citation.cfm?id=319568</ee>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Environments:
+Life Cycle Support</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/Rosenberg85" mdate="2019-09-18">
+<author pid="203/0286">Doug Rosenberg</author>
+<title>PRISM - Productivity Improvement for Software Engineers and Managers.</title>
+<pages>2-7</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Rosenberg85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319569</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/HorowitzW85" mdate="2012-05-14">
+<author pid="h/EllisHorowitz">Ellis Horowitz</author>
+<author pid="72/3750">Ronald Williamson</author>
+<title>SODOS - A Software Documentation Support Environment: Its Use.</title>
+<pages>8-14</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#HorowitzW85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319571</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Madhavji85" mdate="2012-05-14">
+<author pid="m/NazimHMadhavji">Nazim H. Madhavji</author>
+<title>Operations for Programming in the All.</title>
+<pages>15-25</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Madhavji85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319572</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Vefsnmo85" mdate="2012-05-14">
+<author pid="87/4417">E. A. M. Vefsnmo</author>
+<title>&#34;DASOM&#34; - A Software Engineering Tool for Communication Applications Increasing Productivity and Software Quality.</title>
+<pages>26-35</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Vefsnmo85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319574</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Formal Methods</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/YellinM85" mdate="2012-05-14">
+<author pid="53/3223">Daniel M. Yellin</author>
+<author pid="88/101">Eva-Maria M. Mueckstein</author>
+<title>Two-Way Translators Based on Attribute Grammar Inversion.</title>
+<pages>36-42</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#YellinM85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319575</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/StempleS85" mdate="2012-05-14">
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<author pid="s/TimSheard">Tim Sheard</author>
+<title>Database Theory for Supporting Specification-Based Database Systems Development.</title>
+<pages>43-49</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#StempleS85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319577</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Chen85" mdate="2012-05-14">
+<author pid="69/5173">Q. Chen</author>
+<title>Extending the Implementation Scheme of Functional Programming System FP for Supporting the Formal Software Development Methodology.</title>
+<pages>50-54</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Chen85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319578</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/VolpanoK85" mdate="2012-05-14">
+<author pid="07/1483">Dennis M. Volpano</author>
+<author pid="k/RBKieburtz">Richard B. Kieburtz</author>
+<title>Software Templates.</title>
+<pages>55-61</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#VolpanoK85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319579</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Environments:
+Extended Capabilities</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/BuhrWKLL85" mdate="2012-05-14">
+<author pid="81/5537">Raymond J. A. Buhr</author>
+<author pid="w/CMurrayWoodside">C. Murray Woodside</author>
+<author pid="00/3202">Gerald M. Karam</author>
+<author pid="18/4981">K. Van Der Loo</author>
+<author pid="84/6791">D. G. Lewis</author>
+<title>Experiments with Prolog Design Descriptions and Tools in CAEDE: An Iconic Design Environment for Multitasking, Embdedded Systems.</title>
+<pages>62-67</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#BuhrWKLL85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319581</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/HendersonW85" mdate="2020-01-30">
+<author pid="07/1965">Peter B. Henderson</author>
+<author pid="w/MarkWeiser">Mark D. Weiser</author>
+<title>Continous Execution: The VisiProg Environment.</title>
+<pages>68-74</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#HendersonW85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319582</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/WolfCW85" mdate="2012-05-14">
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<author pid="c/LoriAClarke">Lori A. Clarke</author>
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<title>Interface Control and Incremental Development in the PIC Environment.</title>
+<pages>75-82</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#WolfCW85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319584</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/LudewigGHMMS85" mdate="2012-05-14">
+<author pid="87/2829">Jochen Ludewig</author>
+<author pid="g/MartinGlinz">Martin Glinz</author>
+<author pid="29/5880">Hansj&#246;rg Huser</author>
+<author pid="33/823">G. Matheis</author>
+<author pid="45/5514">Hans Matheis</author>
+<author pid="20/6996">M. F. Schmidt</author>
+<title>SPADES - A Specification and Design System and Its Graphical Interface.</title>
+<pages>83-91</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#LudewigGHMMS85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319586</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Software Design and Development</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/MinskyL85" mdate="2012-05-14">
+<author pid="m/NaftalyHMinsky">Naftaly H. Minsky</author>
+<author pid="72/5890">Abe Lockman</author>
+<title>Ensuring Integrity by Adding Obligations to Privileges.</title>
+<pages>92-102</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#MinskyL85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319589</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/BarthGB85" mdate="2012-05-14">
+<author pid="36/3349">P. Barth</author>
+<author pid="42/4164">Scott B. Guthery</author>
+<author pid="35/1087">David R. Barstow</author>
+<title>The Stream Machine: A Data Flow Architecture for Real-Time Applications.</title>
+<pages>103-110</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#BarthGB85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319590</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/StavelyBOT85" mdate="2012-05-14">
+<author pid="44/3893">Allan M. Stavely</author>
+<author pid="97/3336">D. C. Becker</author>
+<author pid="78/6824">S. P. Orr</author>
+<author pid="36/3398">Gregory B. Titus</author>
+<title>A Collection of Software Tools for Analyzing Design of Concurrent Software Systems.</title>
+<pages>111-118</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#StavelyBOT85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319591</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/PottsBCM85" mdate="2012-05-14">
+<author pid="p/ColinPotts">Colin Potts</author>
+<author pid="10/3233">A. Bartlett</author>
+<author pid="59/2020">B. H. Cherrie</author>
+<author pid="40/6383">Roy MacLean</author>
+<title>Discrete Event Simulation as a Means of Validating JSD Design Specifications.</title>
+<pages>119-127</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#PottsBCM85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319593</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Panel</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/Belady85" mdate="2012-05-14">
+<author pid="b/LaszloABelady">Laszlo A. Belady</author>
+<title>New Software Engineering Program - Worldwide (Panel).</title>
+<pages>128-131</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Belady85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319595</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Ensuring Software Quality</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/ParnasW85" mdate="2021-01-14">
+<author pid="p/DLParnas">David Lorge Parnas</author>
+<author pid="88/2189-1">David M. Weiss 0001</author>
+<title>Active Design Reviews: Principles and Practices.</title>
+<pages>132-136</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#ParnasW85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319599</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/CrawfordF85" mdate="2012-05-14">
+<author pid="89/752">S. G. Crawford</author>
+<author pid="62/1955">M. H. Fallah</author>
+<title>Software Development Process Audits - A General Procedure.</title>
+<pages>137-141</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#CrawfordF85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319602</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/SunazukaAY85" mdate="2012-05-14">
+<author pid="19/5986">T. Sunazuka</author>
+<author pid="02/3727">Motoei Azuma</author>
+<author pid="24/2648">Noriko Yamagishi</author>
+<title>Software Quality Assessment Technology.</title>
+<pages>142-149</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#SunazukaAY85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319605</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Environment:
+Database Issues</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/PenedoS85" mdate="2012-05-14">
+<author pid="31/5511">Maria Heloisa (Lolo) Penedo</author>
+<author pid="47/6015">E. Don Stuckle</author>
+<title>PMDB - A Project Master Database for Software Engineering Environments.</title>
+<pages>150-157</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#PenedoS85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319608</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Meyer85" mdate="2017-10-30">
+<author pid="m/BertrandMeyer">Bertrand Meyer 0001</author>
+<title>The Software Knowledge Base.</title>
+<pages>158-165</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Meyer85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319611</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/MorrisonDBBA85" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="27/4894">Peter J. Bailey</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>The Persistent Store as an Enabling Technology for Integrated Project Support.</title>
+<pages>166-173</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#MorrisonDBBA85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319614</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Panel</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/KitchenhamR85" mdate="2018-06-28">
+<author pid="k/BarbaraAKitchenham">Barbara A. Kitchenham</author>
+<author pid="44/3840">Howard A. Rubin</author>
+<title>A Comparison of Cost Estimation Tools (Panel).</title>
+<pages>174-181</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#KitchenhamR85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319617</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Education and Technical Transfer</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/Petschenik85" mdate="2014-01-20">
+<author pid="72/1345">Nathan H. Petschenik</author>
+<title>Building Awareness of System Testing Issues.</title>
+<pages>182-188</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Petschenik85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319622</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/RedwineR85" mdate="2012-05-14">
+<author pid="13/5773">Samuel T. Redwine Jr.</author>
+<author pid="31/1805">William E. Riddle</author>
+<title>Software Technology Maturation.</title>
+<pages>189-200</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#RedwineR85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319624</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Schaul85" mdate="2012-05-14">
+<author pid="74/3553">M. Schaul</author>
+<title>Design Using Software Engineering Principles: Overview of an Educational Program.</title>
+<pages>201-209</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Schaul85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319626</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Rapid Prototyping</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/Lee85" mdate="2019-04-30">
+<author pid="80/819">Stanley Lee</author>
+<title>On Executable Models for Rule-Based Prototyping.</title>
+<pages>210-215</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Lee85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319632</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/HooperEJ85" mdate="2012-05-14">
+<author pid="65/842">James W. Hooper</author>
+<author pid="52/6137">John T. Ellis</author>
+<author pid="96/3639">T. A. Johnson</author>
+<title>Distributed Software Prototyping with ADS.</title>
+<pages>216-223</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#HooperEJ85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319636</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Tavendale85" mdate="2012-05-14">
+<author pid="96/3759">R. D. Tavendale</author>
+<title>A Technique for Prototyping Directly from a Specification.</title>
+<pages>224-229</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Tavendale85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319638</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/BrunoM85" mdate="2012-05-14">
+<author pid="35/3500">Giorgio Bruno</author>
+<author pid="25/3531">Giuseppe Marchetto</author>
+<title>Rapid Prototyping of Control Systems Using High Level Petri Nets.</title>
+<pages>230-237</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#BrunoM85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319640</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Path Testing and Analysis</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/WhiteS85" mdate="2012-05-14">
+<author pid="73/4267">Lee J. White</author>
+<author pid="20/2128">P. N. Sahay</author>
+<title>Experiments Determining Best Paths for Testing Computer Program Predicates.</title>
+<pages>238-243</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#WhiteS85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319643</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/ClarkePRZ85" mdate="2012-05-14">
+<author pid="c/LoriAClarke">Lori A. Clarke</author>
+<author pid="86/795">Andy Podgurski</author>
+<author pid="r/DJRichardson">Debra J. Richardson</author>
+<author pid="52/5436">Steven J. Zeil</author>
+<title>A Comparison of Data Flow Path Selection Criteria.</title>
+<pages>244-251</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#ClarkePRZ85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319646</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/PeschSSS85" mdate="2012-05-14">
+<author pid="26/2759">Herbert Pesch</author>
+<author pid="93/923">Peter Schnupp</author>
+<author pid="36/3437">Hans Schaller</author>
+<author pid="66/6620">A. P. Spirk</author>
+<title>Test Case Generation Using Prolog.</title>
+<pages>252-258</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#PeschSSS85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319647</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/HedleyH85" mdate="2012-05-14">
+<author pid="40/1597">David Hedley</author>
+<author pid="37/6670">Michael A. Hennell</author>
+<title>The Causes and Effects of Infeasible Paths in Computer Programs.</title>
+<pages>259-267</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#HedleyH85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319648</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Software Management Concerns</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/DeMarcoL85" mdate="2012-05-14">
+<author pid="66/5399">Tom DeMarco</author>
+<author pid="26/3928">Tim Lister</author>
+<title>Programmer Performance and the Effects of the Workplace.</title>
+<pages>268-272</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#DeMarcoL85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319651</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Manley85" mdate="2012-05-14">
+<author pid="57/3959">John H. Manley</author>
+<title>Software Engineering Provisioning Process.</title>
+<pages>273-284</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Manley85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319653</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/HattoriKW85" mdate="2015-12-17">
+<author pid="68/5933">F. Hattori</author>
+<author pid="38/4643">K. Kushima</author>
+<author pid="61/4306">Tetsuo Wasano</author>
+<title>A Comparison of Lisp, Prolog, and Ada Programming Productivity an AI Areas.</title>
+<pages>285-291</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#HattoriKW85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319655</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/MiyazakiM85" mdate="2019-02-19">
+<author pid="19/3529">Yukio Miyazaki</author>
+<author pid="235/8685">Kuniaki Mori</author>
+<title>COCOMO Evaluation and Tailoring.</title>
+<pages>292-301</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#MiyazakiM85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319657</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Panel</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/Wileden85" mdate="2012-05-14">
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<title>The Software Process and Software Environments (Panel).</title>
+<pages>302-305</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Wileden85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319659</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Testing and Debugging</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/RamseyB85" mdate="2012-05-14">
+<author pid="57/2517">J. Ramsey</author>
+<author pid="b/VRBasili">Victor R. Basili</author>
+<title>Analyzing the Test Process Using Structural Coverage.</title>
+<pages>306-312</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#RamseyB85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319661</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/GirgisW85" mdate="2012-05-14">
+<author pid="66/1283">Moheb R. Girgis</author>
+<author pid="w/MartinRWoodward">Martin R. Woodward</author>
+<title>An Integrated System for Program Testing Using Weak Mutation and Data Flow Analysis.</title>
+<pages>313-319</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#GirgisW85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319662</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/FrancescoLV85" mdate="2012-05-14">
+<author pid="39/4073">Nicoletta De Francesco</author>
+<author pid="90/2520">Diego Latella</author>
+<author pid="69/6885">Gigliola Vaglini</author>
+<title>An Interactive Debugger for a Concurrent Language.</title>
+<pages>320-329</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#FrancescoLV85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319664</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Defect Measurement</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/TakahashiK85" mdate="2012-05-14">
+<author pid="98/6618">Muneo Takahashi</author>
+<author pid="71/5785">Yuji Kamayachi</author>
+<title>An Empirical Study of a Model for Program Error Prediction.</title>
+<pages>330-336</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#TakahashiK85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319666</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/KnightA85" mdate="2012-05-14">
+<author pid="87/4375">John C. Knight</author>
+<author pid="a/PAmmann">Paul Ammann</author>
+<title>An Experimental Evaluation of Simple Methods for Seeding Program Errors.</title>
+<pages>337-342</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#KnightA85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319667</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/MillerS85" mdate="2012-05-14">
+<author pid="26/6325">D. R. Miller</author>
+<author pid="12/5284">A. Sofer</author>
+<title>Completely Monotone Regression Estimates of Software Failure Rates.</title>
+<pages>343-349</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#MillerS85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319668</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge-Based Approaches</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/ShimizuS85" mdate="2012-05-14">
+<author pid="08/1223">Tohru Shimizu</author>
+<author pid="60/4410">Ken Sakamura</author>
+<title>Automatic Tuning of Multi-Task Programs for Real-Time Embedded Systems.</title>
+<pages>350-357</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#ShimizuS85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319669</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Fukunaga85" mdate="2019-08-29">
+<author pid="42/4226">Koichi Fukunaga</author>
+<title>PROMPTER: A Knowledge Based Support Tool for Code Understanding.</title>
+<pages>358-363</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Fukunaga85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319670</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/StephensW85" mdate="2012-05-14">
+<author pid="61/44">M. Stephens</author>
+<author pid="85/5756">K. Whitehead</author>
+<title>The Analyst - A Workstation for Analysis and Design.</title>
+<pages>364-371</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#StephensW85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319671</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Metric Studies from the SEL</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/CardPM85" mdate="2012-05-14">
+<author pid="99/2753">David N. Card</author>
+<author pid="91/1602">Gerald T. Page</author>
+<author pid="70/731">Frank E. McGarry</author>
+<title>Criteria for Software Modularization.</title>
+<pages>372-377</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#CardPM85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319672</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/KafuraC85" mdate="2012-05-14">
+<author pid="71/6910">Dennis G. Kafura</author>
+<author pid="28/6118">J. Canning</author>
+<title>A Validation of Software Metrics Using Many Metrics and Two Resources.</title>
+<pages>378-385</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#KafuraC85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319673</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/BasiliS85" mdate="2012-05-14">
+<author pid="b/VRBasili">Victor R. Basili</author>
+<author pid="47/3137">Richard W. Selby</author>
+<title>Calculation and Use of an Environment's Characteristic Software Metric Set.</title>
+<pages>386-393</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#BasiliS85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319674</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Panel</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/Balzer85" mdate="2012-05-14">
+<author pid="99/404">Robert Balzer</author>
+<title>Panel Description: The Role of Logic and AI in the Software Enterprise.</title>
+<pages>394</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Balzer85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319676</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Perlis85" mdate="2012-05-14">
+<author pid="91/2329">Alan J. Perlis</author>
+<title>Another View of Software (Panel).</title>
+<pages>395-396</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Perlis85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319679</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Sussman85" mdate="2012-05-14">
+<author pid="s/GeraldJSussman">Gerald J. Sussman</author>
+<title>Intelligent Support for the Engineering of Software (Panel).</title>
+<pages>397-399</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Sussman85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319681</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Turski85" mdate="2012-05-14">
+<author pid="31/3189">Wladyslaw M. Turski</author>
+<title>The Role of Logic in Software Enterprise (Panel).</title>
+<pages>400</pages>
+<year>1985</year>
+<crossref>conf/icse/1985</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse85.html#Turski85</url>
+<ee>http://dl.acm.org/citation.cfm?id=319683</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

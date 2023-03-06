@@ -1,0 +1,370 @@
+<bht key="db/conf/pos/pos89.bht" title="POS-3: Newcastle, New South Wales">  
+<h1><ref href="db/conf/pos/index.html">POS</ref>-3 1989:
+Newcastle, New South Wales</h1>
+<dblpcites><r><proceedings key="conf/pos/1989" mdate="2018-07-05">
+<editor pid="17/3411">John Rosenberg</editor>
+<editor pid="53/588">David M. Koch</editor>
+<title>Persistent Object Systems, Proceedings of the Third International Workshop, 10-13 January 1989, Newcastle, New South Wales, Australia</title>
+<series href="db/series/wic/index.html">Workshops in Computing</series>
+<publisher>Springer</publisher>
+<year>1989</year>
+<isbn>3-540-19626-9</isbn>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/X89" mdate="2012-09-18">
+<title>Title, Preface, List of Authors.</title>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#X89</url>
+<cdrom>POS/1989/frontmatter.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Type Systems and Persistence</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/MorrisonBCCDA89" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="71/151">Raymund Carrick</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>The Napier Type System.</title>
+<pages>3-18</pages>
+<cdrom>POS/1989/P003.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#MorrisonBCCDA89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Michaelson89" mdate="2012-09-18">
+<author pid="74/5932">Greg Michaelson</author>
+<title>Grammars and Implementation Independent Structure Representation.</title>
+<pages>19-28</pages>
+<cdrom>POS/1989/P019.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Michaelson89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Powell89" mdate="2012-09-18">
+<author pid="42/3282">Malcolm S. Powell</author>
+<title>A Program Development Environment Based on Persistence and Abstract Data Types.</title>
+<pages>29-44</pages>
+<cdrom>POS/1989/P029.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Powell89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Stemple89" mdate="2012-09-18">
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<title>Exploiting the Potential of Persistent Object Stores.</title>
+<pages>45-55</pages>
+<cdrom>POS/1989/P045.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Stemple89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/DearleCK89" mdate="2012-09-18">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<title>Browsing, Grazing and Bibbling Persistent data Structures.</title>
+<pages>56-69</pages>
+<cdrom>POS/1989/P056.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#DearleCK89</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Persistent Programming Languages</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/AtkinsonM89" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Persistent Systems Architectures.</title>
+<pages>73-97</pages>
+<cdrom>POS/1989/P073.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#AtkinsonM89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Colomb89" mdate="2012-09-18">
+<author pid="89/1378">Robert M. Colomb</author>
+<title>Issues in the Implementation of a Persistent Prolog.</title>
+<pages>98-108</pages>
+<cdrom>POS/1989/P098.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Colomb89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/HurstS89" mdate="2012-09-18">
+<author pid="h/AJohnHurst">A. John Hurst</author>
+<author pid="04/5980">A. S. M. Sajeev</author>
+<title>A Capability Based Language for Persistent Programming: Implementation Issues.</title>
+<pages>109-125</pages>
+<cdrom>POS/1989/P109.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#HurstS89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Wai89" mdate="2012-09-18">
+<author pid="02/561">Francis Wai</author>
+<title>Distributed PS-algol.</title>
+<pages>126-140</pages>
+<cdrom>POS/1989/P126.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Wai89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Cooper89" mdate="2022-03-17">
+<author pid="c/RichardCooper">Richard Cooper 0001</author>
+<title>The Implementation of an Object-Oriented Language in PS-algol.</title>
+<pages>141-157</pages>
+<cdrom>POS/1989/P141.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Cooper89</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Implementing Persistence</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/AllardW89" mdate="2012-09-18">
+<author pid="88/5957">Dennis G. Allard</author>
+<author pid="36/293">David S. Wile</author>
+<title>Aggregation, Persistence, and Identity in Worlds.</title>
+<pages>161-174</pages>
+<cdrom>POS/1989/P161.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#AllardW89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/RichardsonC89" mdate="2017-11-07">
+<author pid="41/538">Joel E. Richardson</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<title>Implementing Persistence in E.</title>
+<pages>175-199</pages>
+<cdrom>POS/1989/P175.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#RichardsonC89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BuhrZ89" mdate="2012-09-18">
+<author pid="b/PeterABuhr">Peter A. Buhr</author>
+<author pid="54/7038">C. Robert Zarnke</author>
+<title>Addressing in a Persistent Environment.</title>
+<pages>200-217</pages>
+<cdrom>POS/1989/P200.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#BuhrZ89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Gehringer89" mdate="2012-09-18">
+<author pid="19/4447">Edward F. Gehringer</author>
+<title>Name-Based Mapping: Addressing Support for Persistent Objects.</title>
+<pages>218-232</pages>
+<cdrom>POS/1989/P218.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Gehringer89</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Object Stores</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/HeilerB89" mdate="2012-09-18">
+<author pid="61/810">Sandra Heiler</author>
+<author pid="16/662">Barbara T. Blaustein</author>
+<title>Generating and Manipulating Identifiers for Heterogeneous, Distributed Objects.</title>
+<pages>235-247</pages>
+<cdrom>POS/1989/P235.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#HeilerB89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Wright89" mdate="2014-10-20">
+<author pid="98/699">Sidney L. Wright</author>
+<title>The Evolution of the SSE Data Storage System into a Persistent Object System.</title>
+<pages>248-257</pages>
+<cdrom>POS/1989/P248.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Wright89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Porter89" mdate="2012-09-18">
+<author pid="42/3471">Harry H. Porter III</author>
+<title>Persistence in a Distributed Object Server.</title>
+<pages>258-271</pages>
+<cdrom>POS/1989/P258.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Porter89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ShapiroM89" mdate="2017-11-03">
+<author pid="s/MarcShapiro">Marc Shapiro 0001</author>
+<author pid="57/5264">Laurence Mosseri</author>
+<title>A Simple Object Storage System.</title>
+<pages>272-276</pages>
+<cdrom>POS/1989/P272.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#ShapiroM89</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Measurement of Persistent Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Loboz89" mdate="2012-09-18">
+<author pid="07/1066">Charles Zdzislaw Loboz</author>
+<title>Monitoring Execution of PS-algol Programs.</title>
+<pages>279-288</pages>
+<cdrom>POS/1989/P279.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Loboz89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Bailey89" mdate="2012-09-18">
+<author pid="27/4894">Peter J. Bailey</author>
+<title>Performance Evaluation in a Persistent Object Store.</title>
+<pages>289-299</pages>
+<cdrom>POS/1989/P289.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Bailey89</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Transactionis and Persistence</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/BrosslerF89" mdate="2012-09-18">
+<author pid="95/1928">Peter Br&#246;ssler</author>
+<author pid="f/BerndFreisleben">Bernd Freisleben</author>
+<title>Transactions on Persistent Objects.</title>
+<pages>303-318</pages>
+<cdrom>POS/1989/P303.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#BrosslerF89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FeketeLMW89" mdate="2020-08-27">
+<author pid="f/AlanDavidFekete">Alan D. Fekete</author>
+<author pid="l/NancyALynch">Nancy A. Lynch</author>
+<author pid="79/4421">Michael Merritt</author>
+<author pid="16/6237">William E. Weihl</author>
+<title>Commutativity-Based Locking for Nested Transactions.</title>
+<pages>319-340</pages>
+<cdrom>POS/1989/P319.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#FeketeLMW89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FernandezZ89" mdate="2012-09-18">
+<author pid="f/MaryFFernandez">Mary F. Fernandez</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Transaction Groups: A Model for Controlling Cooperative Transactions.</title>
+<pages>341-350</pages>
+<cdrom>POS/1989/P341.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#FernandezZ89</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Persistent Machines</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/ConnorBCDM89" mdate="2012-09-18">
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="71/151">Raymund Carrick</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>The Persistent Abstract Machine.</title>
+<pages>353-366</pages>
+<cdrom>POS/1989/P353.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#ConnorBCDM89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Cockshott89" mdate="2012-09-18">
+<author pid="39/5175">W. Paul Cockshott</author>
+<title>Design of POMP - a Persistent Object Management Processor.</title>
+<pages>367-376</pages>
+<cdrom>POS/1989/P367.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Cockshott89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/RosenbergK89" mdate="2014-11-06">
+<author pid="17/3411">John Rosenberg</author>
+<author pid="53/588">David M. Koch</author>
+<author pid="89/1100">James Leslie Keedy</author>
+<title>A Capability-Based Massive Memory Computer.</title>
+<pages>377-391</pages>
+<cdrom>POS/1989/P377.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#RosenbergK89</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Keedy89" mdate="2012-09-18">
+<author pid="89/1100">James Leslie Keedy</author>
+<title>Support for Objects in the MONADS Architecture.</title>
+<pages>392-405</pages>
+<cdrom>POS/1989/P392.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/pos/1989</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos89.html#Keedy89</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

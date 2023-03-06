@@ -1,0 +1,152 @@
+<bht key="db/journals/ai/ai123.bht" title="Artificial Intelligence, Volume 123">  
+<h1><ref href="db/journals/ai/index.html">Artificial Intelligence</ref>, Volume 123</h1> 
+<h2>Volume 123, Numbers 1-2, October 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/ChoiLS00" mdate="2017-05-27">
+<author pid="59/448">Kenneth M. F. Choi</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>A Lagrangian reconstruction of GENET.</title>
+<pages>1-39</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#ChoiLS00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00053-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/DelgrandeS00" mdate="2017-05-27">
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<author pid="s/TorstenSchaub">Torsten Schaub</author>
+<title>Expressing preferences in default logic.</title>
+<pages>41-87</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#DelgrandeS00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00049-7</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/ChellaFG00" mdate="2018-11-14">
+<author orcid="0000-0002-8625-708X" pid="51/92">Antonio Chella</author>
+<author orcid="0000-0003-4738-6142" pid="75/6859">Marcello Frixione</author>
+<author pid="80/3424">Salvatore Gaglio</author>
+<title>Understanding dynamic scenes.</title>
+<pages>89-132</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#ChellaFG00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00048-5</ee>
+<ee>https://www.wikidata.org/entity/Q57961382</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/GentSW00" mdate="2019-09-25">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<author orcid="0000-0003-2998-8668" pid="86/2576">Toby Walsh</author>
+<title>Decomposable constraints.</title>
+<pages>133-156</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#GentSW00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00051-5</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/InzaLES00" mdate="2019-09-25">
+<author orcid="0000-0003-4674-1755" pid="97/6861">I&#241;aki Inza</author>
+<author orcid="0000-0003-0652-9872" pid="04/5852">Pedro Larra&#241;aga</author>
+<author pid="71/789">Ramon Etxeberria</author>
+<author orcid="0000-0001-8062-9332" pid="15/5216">Basilio Sierra</author>
+<title>Feature Subset Selection by Bayesian network-based optimization.</title>
+<pages>157-184</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#InzaLES00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00052-7</ee>
+<ee>https://www.wikidata.org/entity/Q62637475</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/SakamaI00" mdate="2020-10-26">
+<author pid="s/ChiakiSakama">Chiaki Sakama</author>
+<author orcid="0000-0002-2717-9122" pid="i/KatsumiInoue">Katsumi Inoue</author>
+<title>Prioritized logic programming and its application to commonsense reasoning.</title>
+<pages>185-222</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#SakamaI00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00054-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/KoubarakisS00" mdate="2022-01-03">
+<author pid="40/4517">Manolis Koubarakis</author>
+<author orcid="0000-0003-3465-8292" pid="01/5237">Spiros Skiadopoulos</author>
+<title>Querying temporal and spatial constraint networks in PTIME.</title>
+<pages>223-263</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#KoubarakisS00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00055-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Lifschitz00" mdate="2017-05-27">
+<author pid="l/VLifschitz">Vladimir Lifschitz</author>
+<title>Review: M. Shanahan, Solving the Frame Problem.</title>
+<pages>265-268</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#Lifschitz00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00056-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/McCarthy00" mdate="2017-05-27">
+<author pid="m/JohnMcCarthy">John McCarthy 0001</author>
+<title>Review: M. Shanahan, Solving the Frame Problem.</title>
+<pages>269-270</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#McCarthy00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00057-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Sandewall00" mdate="2017-05-27">
+<author pid="s/ErikSandewall">Erik Sandewall</author>
+<title>Review: M. Shanahan, Solving the Frame Problem.</title>
+<pages>271-273</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#Sandewall00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00058-8</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Shanahan00" mdate="2017-05-27">
+<author pid="11/5268">Murray Shanahan</author>
+<title>Review: M. Shanahan, Solving the Frame Problem.</title>
+<pages>275</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#Shanahan00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00059-X</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,398 @@
+<bht key="db/conf/cpaior/cpaior2004.bht" title="CPAIOR 2004">  
+<h1>1. <ref href="db/conf/cpaior/index.html">CPAIOR</ref> 2004:
+Nice, France</h1> <dblpcites><r><proceedings key="conf/cpaior/2004" mdate="2019-05-14">
+<editor pid="20/6918">Jean-Charles R&#233;gin</editor>
+<editor pid="r/MichelRueher">Michel Rueher</editor>
+<title>Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems, First International Conference, CPAIOR 2004, Nice, France, April 20-22, 2004, Proceedings</title>
+<booktitle>CPAIOR</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>3011</volume>
+<publisher>Springer</publisher>
+<year>2004</year>
+<isbn>3-540-21836-X</isbn>
+<ee>https://doi.org/10.1007/b96957</ee>
+<url>db/conf/cpaior/cpaior2004.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/MaraveliasG04" mdate="2022-06-23">
+<author orcid="0000-0002-4929-1748" pid="12/5802">Christos T. Maravelias</author>
+<author pid="31/5106">Ignacio E. Grossmann</author>
+<title>Using MILP and CP for the Scheduling of Batch Chemical Processes.</title>
+<pages>1-20</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_1</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#MaraveliasG04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/AronHY04" mdate="2017-05-17">
+<author pid="92/2474">Ionut D. Aron</author>
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<author pid="55/3907">Tallys H. Yunes</author>
+<title>SIMPL: A System for Integrating Optimization Techniques.</title>
+<pages>21-36</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_2</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#AronHY04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ArtiguesBF04" mdate="2017-05-17">
+<author pid="35/6486">Christian Artigues</author>
+<author pid="25/5794">Sana Belmokhtar</author>
+<author pid="97/6400">Dominique Feillet</author>
+<title>A New Exact Solution Algorithm for the Job Shop Problem with Sequence-Dependent Setup Times.</title>
+<pages>37-49</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_3</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#ArtiguesBF04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BeckF04" mdate="2017-05-17">
+<author pid="43/2165">J. Christopher Beck</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Simple Rules for Low-Knowledge Algorithm Selection.</title>
+<pages>50-64</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_4</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#BeckF04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BeldiceanuKT04" mdate="2017-05-17">
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<author pid="k/IritKatriel">Irit Katriel</author>
+<author pid="61/4330">Sven Thiel</author>
+<title>Filtering Algorithms for the Same Constraint.</title>
+<pages>65-79</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_5</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#BeldiceanuKT04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BeldiceanuP04" mdate="2017-05-17">
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<author pid="84/3969">Thierry Petit</author>
+<title>Cost Evaluation of Soft Global Constraints.</title>
+<pages>80-95</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_6</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#BeldiceanuP04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BemporadG04" mdate="2017-05-17">
+<author pid="27/1407">Alberto Bemporad</author>
+<author pid="26/4329">Nicol&#242; Giorgetti</author>
+<title>SAT-Based Branch &#38; Bound and Optimal Control of Hybrid Dynamical Systems.</title>
+<pages>96-111</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_7</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#BemporadG04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BourdeaudhuyHY04" mdate="2017-05-17">
+<author pid="03/3772">Thomas Bourdeaud'huy</author>
+<author pid="51/5071">Sa&#239;d Hanafi</author>
+<author pid="54/4487">Pascal Yim</author>
+<title>Solving the Petri Nets Reachability Problem Using the Logical Abstraction Technique and Mathematical Programming.</title>
+<pages>112-126</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_8</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#BourdeaudhuyHY04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ChuX04" mdate="2017-05-17">
+<author pid="12/5070">Yingyi Chu</author>
+<author pid="47/6028">Quanshi Xia</author>
+<title>Generating Benders Cuts for a General Class of Integer Programming Problems.</title>
+<pages>127-141</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_9</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#ChuX04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Gronkvist04" mdate="2017-05-17">
+<author pid="75/5684">Mattias Gr&#246;nkvist</author>
+<title>A Constraint Programming Model for Tail Assignment.</title>
+<pages>142-156</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_10</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#Gronkvist04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/HebrardHW04" mdate="2017-06-15">
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<author pid="66/5390">Brahim Hnich</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Super Solutions in Constraint Programming.</title>
+<pages>157-172</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_11</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#HebrardHW04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/KamarainenS04" mdate="2017-05-17">
+<author pid="38/3495">Olli Kamarainen</author>
+<author pid="46/4151">Hani El Sakkout</author>
+<title>Local Probing Applied to Network Routing.</title>
+<pages>173-189</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_12</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#KamarainenS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Katriel04" mdate="2017-05-17">
+<author pid="k/IritKatriel">Irit Katriel</author>
+<title>Dynamic Heaviest Paths in DAGs with Arbitrary Edge Weights.</title>
+<pages>190-199</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_13</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#Katriel04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/KocjanK04" mdate="2017-05-17">
+<author pid="82/5194">Waldemar Kocjan</author>
+<author pid="79/6581">Per Kreuger</author>
+<title>Filtering Methods for Symmetric Cardinality Constraint.</title>
+<pages>200-208</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_14</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#KocjanK04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Lhomme04" mdate="2017-05-17">
+<author pid="43/2508">Olivier Lhomme</author>
+<title>Arc-Consistency Filtering Algorithms for Logical Combinations of Constraints.</title>
+<pages>209-224</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_15</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#Lhomme04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/PerronS04" mdate="2017-05-17">
+<author pid="73/4963">Laurent Perron</author>
+<author pid="46/6637">Paul Shaw</author>
+<title>Combining Forces to Solve the Car Sequencing Problem.</title>
+<pages>225-239</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_16</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#PerronS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/PraletV04" mdate="2017-05-17">
+<author pid="12/5282">C&#233;dric Pralet</author>
+<author pid="88/2213">G&#233;rard Verfaillie</author>
+<title>Travelling in the World of Local Searches in the Space of Partial Assignments.</title>
+<pages>240-255</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_17</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#PraletV04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/RibeiroC04" mdate="2017-06-02">
+<author orcid="0000-0001-6150-0090" pid="58/1224-1">Cristina Ribeiro 0001</author>
+<author orcid="0000-0002-9245-2674" pid="02/4767">Maria Ant&#243;nia Carravilla</author>
+<title>A Global Constraint for Nesting Problems.</title>
+<pages>256-270</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_18</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#RibeiroC04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/SmithPG04" mdate="2017-05-17">
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="69/1977">Karen E. Petrie</author>
+<author pid="30/3076">Ian P. Gent</author>
+<title>Models and Symmetry Breaking for 'Peaceable Armies of Queens'.</title>
+<pages>271-286</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_19</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#SmithPG04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/SorlinS04" mdate="2017-05-17">
+<author pid="20/3567">S&#233;bastien Sorlin</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>A Global Constraint for Graph Isomorphism Problems.</title>
+<pages>287-302</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_20</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#SorlinS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/TarimM04" mdate="2017-06-02">
+<author pid="02/5166">Armagan Tarim</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Echelon Stock Formulation of Arborescent Distribution Systems: An Application to the Wagner-Whitin Problem.</title>
+<pages>302-318</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_21</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#TarimM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/HentenryckM04" mdate="2017-05-17">
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<title>Scheduling Abstractions for Local Search.</title>
+<pages>319-334</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_22</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#HentenryckM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Vilim04" mdate="2017-05-17">
+<author pid="91/5349">Petr Vil&#237;m</author>
+<title>O(n log n) Filtering Algorithms for Unary Resource Constraint.</title>
+<pages>335-347</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_23</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#Vilim04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/XiaEW04" mdate="2017-12-19">
+<author pid="47/6028">Quanshi Xia</author>
+<author pid="10/2651">Andrew Eremin</author>
+<author pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>Problem Decomposition for Traffic Diversions.</title>
+<pages>348-363</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_24</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#XiaEW04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/AppaMM04" mdate="2020-12-29">
+<author pid="75/6932">Gautam Appa</author>
+<author pid="08/5196">Dimitris Magos</author>
+<author orcid="0000-0002-9243-7327" pid="77/2783">Ioannis Mourtos</author>
+<title>LP Relaxations of Multiple all_different Predicates.</title>
+<pages>364-369</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_25</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#AppaMM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/CorreaLR04" mdate="2017-05-17">
+<author pid="34/5779">Ayoub Insa Corr&#233;a</author>
+<author pid="60/5384">Andr&#233; Langevin</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<title>Dispatching and Conflict-Free Routing of Automated Guided Vehicles: A Hybrid Approach Combining Constraint Programming and Mixed Integer Programming.</title>
+<pages>370-379</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_26</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#CorreaLR04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/GebruersGHM04" mdate="2017-05-17">
+<author pid="36/5358">Cormac Gebruers</author>
+<author pid="13/1315">Alessio Guerri</author>
+<author pid="66/5390">Brahim Hnich</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>Making Choices Using Structure at the Instance Level within a Case Based Reasoning Framework.</title>
+<pages>380-386</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_27</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#GebruersGHM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/GomesSEE04" mdate="2017-05-17">
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<author pid="88/6951">Cindy van Es</author>
+<author pid="32/1126">Harold van Es</author>
+<title>The Challenge of Generating Spatially Balanced Scientific Experiment Designs.</title>
+<pages>387-394</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_28</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#GomesSEE04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/RenkerA04" mdate="2017-06-02">
+<author pid="r/GerritRenker">Gerrit Renker</author>
+<author orcid="0000-0002-1389-3886" pid="45/1956">Hatem Ahriz</author>
+<title>Building Models through Formal Specification.</title>
+<pages>395-401</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_29</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#RenkerA04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Rousseau04" mdate="2017-05-17">
+<author pid="34/688">Louis-Martin Rousseau</author>
+<title>Stabilization Issues for Constraint Programming Based Column Generation.</title>
+<pages>402-408</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_30</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#Rousseau04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Sadykov04" mdate="2017-05-17">
+<author pid="74/5791">Ruslan Sadykov</author>
+<title>A Hybrid Branch-And-Cut Algorithm for the One-Machine Scheduling Problem.</title>
+<pages>409-415</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_31</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#Sadykov04</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

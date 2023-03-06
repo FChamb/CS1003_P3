@@ -1,0 +1,1366 @@
+<bht key="db/journals/sigplan/sigplan23.bht" title="SIGPLAN Notices, Volume 23">
+<h1><ref href="db/journals/sigplan/index.html">SIGPLAN Notices</ref>, Volume 23</h1>
+
+<h2>Volume 23, Number 1, January 1988</h2>
+<dblpcites><r style="ee"><article key="journals/sigplan/Wegner88" mdate="2020-05-26">
+<author pid="w/PeterWegner">Peter Wegner</author>
+<title>Workshop on object-oriented programming ECOOP 1987, Paris, June 18, 1987.</title>
+<pages>16-37</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44305</ee>
+<url>db/journals/sigplan/sigplan23.html#Wegner88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Schneider88" mdate="2020-05-26">
+<author pid="06/2803">Victor B. Schneider</author>
+<title>A reply to &#34;A note on metrics of Pascal programs&#34;.</title>
+<pages>38-39</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44306</ee>
+<url>db/journals/sigplan/sigplan23.html#Schneider88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Schneider88a" mdate="2020-05-26">
+<author pid="06/2803">Victor B. Schneider</author>
+<title>Approximations for the Halstead software science software error rate and project effort estimators.</title>
+<pages>40-47</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44307</ee>
+<url>db/journals/sigplan/sigplan23.html#Schneider88a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/FairfieldH88" mdate="2020-05-26">
+<author pid="94/5720">P. Fairfield</author>
+<author pid="37/6670">Michael A. Hennell</author>
+<title>Data flow analysis of recursive procedures.</title>
+<pages>48-57</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44308</ee>
+<url>db/journals/sigplan/sigplan23.html#FairfieldH88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/BurnsD88" mdate="2022-03-17">
+<author pid="b/AlanBurns">Alan Burns 0001</author>
+<author pid="59/6000">Gordon Davies</author>
+<title>Pascal-FC: a language for teaching concurrent programming.</title>
+<pages>58-66</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44309</ee>
+<url>db/journals/sigplan/sigplan23.html#BurnsD88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Vries88" mdate="2020-05-26">
+<author pid="v/FerJandeVries">Fer-Jan de Vries</author>
+<title>A functional program for the fast Fourier transform.</title>
+<pages>67-74</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44310</ee>
+<url>db/journals/sigplan/sigplan23.html#Vries88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/JoyA88" mdate="2022-02-21">
+<author orcid="0000-0001-9826-5928" pid="57/4526">Mike Joy</author>
+<author pid="31/5939">Tom H. Axford</author>
+<title>A standard for a graph representation for functional programs.</title>
+<pages>75-82</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44311</ee>
+<url>db/journals/sigplan/sigplan23.html#JoyA88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/ChaoB88" mdate="2020-05-26">
+<author pid="43/7046">Shan-Jon Chao</author>
+<author pid="b/BRBryant">Barrett R. Bryant</author>
+<title>Denotational semantics for program analysis.</title>
+<pages>83-91</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44312</ee>
+<url>db/journals/sigplan/sigplan23.html#ChaoB88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Bhasker88" mdate="2020-05-26">
+<author pid="81/6969">Jayaram Bhasker</author>
+<title>Implementation of an optimizing compiler for VHDL.</title>
+<pages>92-108</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44313</ee>
+<url>db/journals/sigplan/sigplan23.html#Bhasker88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/MacLennan88" mdate="2020-05-26">
+<author pid="83/322">Bruce J. MacLennan</author>
+<title>Four relational programs.</title>
+<pages>109-119</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44314</ee>
+<url>db/journals/sigplan/sigplan23.html#MacLennan88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/GestelH88" mdate="2020-05-26">
+<author pid="87/4281">Eric van Gestel</author>
+<author pid="64/9">Ivo Van Horebeek</author>
+<title>Remarks on many-sorted equational logic with respect to algebraic implementations.</title>
+<pages>120-126</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44315</ee>
+<url>db/journals/sigplan/sigplan23.html#GestelH88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/BerghelRB88" mdate="2020-05-26">
+<author pid="b/HalBerghel">Hal Berghel</author>
+<author pid="79/5637">Richard Rankin</author>
+<author pid="39/3575">Sanjiv K. Bhatia</author>
+<title>MS-DOS Prolog implementations revisited.</title>
+<pages>127-134</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44316</ee>
+<url>db/journals/sigplan/sigplan23.html#BerghelRB88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Bierman88" mdate="2020-05-26">
+<author pid="03/1350">Keith H. Bierman</author>
+<title>A proposal for improving optimizer quality via dynamic analysis.</title>
+<pages>135-136</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44317</ee>
+<url>db/journals/sigplan/sigplan23.html#Bierman88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/PerelgutC88" mdate="2020-05-26">
+<author pid="49/5920">Stephen G. Perelgut</author>
+<author pid="c/JamesRCordy">James R. Cordy</author>
+<title>Turing Plus: a comparison with C and Pascal.</title>
+<pages>137-143</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/44304.44318</ee>
+<url>db/journals/sigplan/sigplan23.html#PerelgutC88</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 23, Number 2, February 1988</h2>
+<dblpcites><r style="ee"><article key="journals/sigplan/Trickey88" mdate="2020-05-26">
+<author pid="t/HowardTrickey">Howard Trickey</author>
+<title>C++ versus LISP: a case study.</title>
+<pages>9-18</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/43908.43909</ee>
+<url>db/journals/sigplan/sigplan23.html#Trickey88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/SestoftS88" mdate="2020-05-26">
+<author pid="23/6488">Peter Sestoft</author>
+<author orcid="0000-0002-2352-1883" pid="s/HaraldSondergaard">Harald S&#248;ndergaard</author>
+<title>A bibliography on partial evaluation.</title>
+<pages>19-26</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/43908.43910</ee>
+<ee>https://www.wikidata.org/entity/Q57665106</ee>
+<url>db/journals/sigplan/sigplan23.html#SestoftS88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Sorensen88" mdate="2020-05-26">
+<author pid="54/3675">P. F. Sorensen</author>
+<title>In search of program complexity.</title>
+<pages>28-35</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/43908.43911</ee>
+<url>db/journals/sigplan/sigplan23.html#Sorensen88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/BirtwistleL88" mdate="2020-05-26">
+<author pid="46/3499">Graham M. Birtwistle</author>
+<author pid="71/5748">Kenneth D. Loose</author>
+<title>A model for procedures passed as parameters.</title>
+<pages>36-43</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/43908.43912</ee>
+<url>db/journals/sigplan/sigplan23.html#BirtwistleL88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Ponder88" mdate="2020-05-26">
+<author pid="57/2353">Carl Ponder</author>
+<title>Benchmark semantics.</title>
+<pages>44-48</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/43908.43913</ee>
+<url>db/journals/sigplan/sigplan23.html#Ponder88</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 23, Number 3, March 1988</h2>
+<dblpcites><r style="ee"><article key="journals/sigplan/Hemmendinger88" mdate="2020-05-26">
+<author pid="73/4790">David Hemmendinger</author>
+<title>Unfair process scheduling in Modula-2.</title>
+<pages>7-12</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43896</ee>
+<url>db/journals/sigplan/sigplan23.html#Hemmendinger88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Calliss88" mdate="2020-05-26">
+<author pid="41/6598">Frank W. Calliss</author>
+<title>Problems with automatic restructurers.</title>
+<pages>13-21</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43897</ee>
+<url>db/journals/sigplan/sigplan23.html#Calliss88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/EgenhoferF88" mdate="2020-05-26">
+<author pid="e/MJEgenhofer">Max J. Egenhofer</author>
+<author pid="f/AndrewUFrank">Andrew U. Frank</author>
+<title>A precompiler for modular, transportable Pascal.</title>
+<pages>22-32</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43898</ee>
+<url>db/journals/sigplan/sigplan23.html#EgenhoferF88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/YehK88" mdate="2020-05-26">
+<author pid="81/3153">Dashing Yeh</author>
+<author pid="k/UweKastens">Uwe Kastens</author>
+<title>Automatic construction of incremental LR(1)-parsers.</title>
+<pages>33-42</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43899</ee>
+<url>db/journals/sigplan/sigplan23.html#YehK88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Furtado88" mdate="2022-12-07">
+<author pid="f/AntonioLFurtado">Antonio L. Furtado 0001</author>
+<title>Towards functional programming in Prolog.</title>
+<pages>43-52</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43900</ee>
+<url>db/journals/sigplan/sigplan23.html#Furtado88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/SoundararajanC88" mdate="2020-05-26">
+<author pid="99/2478">Neelam Soundararajan</author>
+<author pid="09/6331">Roger L. Costello</author>
+<title>Responsive sequential processes.</title>
+<pages>53-62</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43901</ee>
+<url>db/journals/sigplan/sigplan23.html#SoundararajanC88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/KlererL88" mdate="2020-05-26">
+<author pid="42/5178">Melvin Klerer</author>
+<author pid="29/5010-19">Hong Liu 0019</author>
+<title>A new benchmark test to estimate optimization quality of compilers.</title>
+<pages>63-72</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43902</ee>
+<url>db/journals/sigplan/sigplan23.html#KlererL88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/BerginG88" mdate="2020-05-26">
+<author pid="b/JosephBergin">Joseph Bergin</author>
+<author pid="40/3550">Stuart Greenfield</author>
+<title>What does Modular-2 need to fully support object oriented programming?</title>
+<pages>73-82</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43903</ee>
+<url>db/journals/sigplan/sigplan23.html#BerginG88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Holsti88" mdate="2020-05-26">
+<author pid="59/228">Niklas Holsti</author>
+<title>Using formal procedure parameters to represent and transmit complex data structures.</title>
+<pages>83-92</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43904</ee>
+<url>db/journals/sigplan/sigplan23.html#Holsti88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Coward88" mdate="2020-05-26">
+<author pid="56/4071">P. David Coward</author>
+<title>Determining path feasibility for commercial programs.</title>
+<pages>93-101</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43905</ee>
+<url>db/journals/sigplan/sigplan23.html#Coward88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/MaguireS88" mdate="2020-05-26">
+<author orcid="0000-0002-6066-746X" pid="m/GQMaguireJr">Gerald Q. Maguire Jr.</author>
+<author pid="s/JonathanMSmith">Jonathan M. Smith</author>
+<title>Process migration: effects on scientific computation.</title>
+<pages>102-106</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43906</ee>
+<url>db/journals/sigplan/sigplan23.html#MaguireS88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Ranger88" mdate="2020-05-26">
+<author pid="81/81">Phillippe Ranger</author>
+<title>Some comments on the forthcoming &#34;extended Pascal&#34; standard.</title>
+<pages>107-110</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/43895.43907</ee>
+<url>db/journals/sigplan/sigplan23.html#Ranger88</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 23, Number 4, April 1988</h2>
+<dblpcites><r style="ee"><article key="journals/sigplan/Molloy88" mdate="2020-05-26">
+<author pid="24/3011">Mark Molloy</author>
+<title>Comment on dpANS X3.160-198x, extended Pascal concerning the initial value clause.</title>
+<pages>22-26</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44327</ee>
+<url>db/journals/sigplan/sigplan23.html#Molloy88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/MorrisonABD88" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Bindings persistent programming languages.</title>
+<pages>27-34</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44328</ee>
+<url>db/journals/sigplan/sigplan23.html#MorrisonABD88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/CooperK88" mdate="2020-05-26">
+<author pid="c/KeithDCooper">Keith D. Cooper</author>
+<author pid="k/KenKennedy">Ken Kennedy</author>
+<title>Efficient computation of flow-insensitive interprocedural summary information - a correction.</title>
+<pages>35-42</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44329</ee>
+<url>db/journals/sigplan/sigplan23.html#CooperK88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Edwards88" mdate="2020-05-26">
+<author pid="88/1963">Alistair D. N. Edwards</author>
+<title>Visual programming languages: the next generation.</title>
+<pages>43-50</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44330</ee>
+<url>db/journals/sigplan/sigplan23.html#Edwards88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Rickert88" mdate="2020-05-26">
+<author pid="30/5767">Neil W. Rickert</author>
+<title>The role of the language standards committee.</title>
+<pages>51-55</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44331</ee>
+<url>db/journals/sigplan/sigplan23.html#Rickert88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Bhatti88" mdate="2021-08-27">
+<author pid="36/8145">Muhammad Afzal Bhatti</author>
+<title>Incremental execution environment.</title>
+<pages>56-64</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44332</ee>
+<url>db/journals/sigplan/sigplan23.html#Bhatti88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/SarwarHD88" mdate="2020-05-26">
+<author pid="30/918">S. Mansoor Sarwar</author>
+<author pid="53/77">S. J. Hahn</author>
+<author pid="76/1014">James A. Davis</author>
+<title>Implementing functional languages on a combinator-based reduction machine.</title>
+<pages>65-70</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44333</ee>
+<url>db/journals/sigplan/sigplan23.html#SarwarHD88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Li88" mdate="2020-05-26">
+<author pid="58/1568">Chang Li</author>
+<title>Concurrent programming language - LISPTALK.</title>
+<pages>71-80</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44334</ee>
+<url>db/journals/sigplan/sigplan23.html#Li88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Hemmendinger88a" mdate="2020-05-26">
+<author pid="73/4790">David Hemmendinger</author>
+<title>The &#34;Hamming problem&#34; in Prolog.</title>
+<pages>81-86</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44335</ee>
+<ee>https://www.wikidata.org/entity/Q56593778</ee>
+<url>db/journals/sigplan/sigplan23.html#Hemmendinger88a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/CattaneoL88" mdate="2020-05-26">
+<author orcid="0000-0002-6983-4818" pid="82/288">Giuseppe Cattaneo</author>
+<author pid="35/3222">Vincenzo Loia</author>
+<title>A common-LISP implementation of an extended Prolog system.</title>
+<pages>87-102</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44336</ee>
+<url>db/journals/sigplan/sigplan23.html#CattaneoL88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Terwilliger88" mdate="2020-05-26">
+<author pid="90/67">Robert B. Terwilliger</author>
+<title>Please: a language combining imperative and logic programming.</title>
+<pages>103-110</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/44326.44337</ee>
+<url>db/journals/sigplan/sigplan23.html#Terwilliger88</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 23, Number 5, May 1988</h2>
+<dblpcites><r style="std"><proceedings key="conf/oopsla/1987a" mdate="2022-03-30">
+<editor pid="16/487">Leigh R. Power</editor>
+<editor pid="99/377">Zvi Weiss</editor>
+<title>Addendum to the Proceedings on Object-Oriented Programming Systems, Languages and Applications, OOPSLA 1987 Addendum, Orlando, Florida, USA, October 4-8, 1987</title>
+<booktitle>OOPSLA Addendum</booktitle>
+<publisher>ACM</publisher>
+<year>1987</year>
+<isbn>978-0-89791-266-2</isbn>
+<ee>https://doi.org/10.1145/62138</ee>
+<ee>https://doi.org/10.1145/62139</ee>
+<url>db/conf/oopsla/oopsla1987a.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Volume 23, Number 6, June 1988</h2>
+<dblpcites><r style="ee"><article key="journals/sigplan/Cohen88" mdate="2020-05-26">
+<author pid="58/1144">Paul E. Cohen</author>
+<title>An abundance of registers.</title>
+<pages>24-34</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44547</ee>
+<url>db/journals/sigplan/sigplan23.html#Cohen88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Schneider88d" mdate="2020-05-26">
+<author pid="06/2803">Victor B. Schneider</author>
+<title>A pedagogic expert system shell in Prolog.</title>
+<pages>35-38</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44548</ee>
+<url>db/journals/sigplan/sigplan23.html#Schneider88d</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Elliott88" mdate="2020-05-26">
+<author pid="92/5844">Irving B. Elliott</author>
+<title>The PRESTO system.</title>
+<pages>39-48</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44549</ee>
+<url>db/journals/sigplan/sigplan23.html#Elliott88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/BeaudetJ88" mdate="2020-05-26">
+<author pid="92/6603">Philip J. Beaudet</author>
+<author pid="j/MichaelAJenkins">Michael A. Jenkins</author>
+<title>Simulating the object-oriented paradigm to Nial.</title>
+<pages>49-58</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44550</ee>
+<url>db/journals/sigplan/sigplan23.html#BeaudetJ88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Kaindl88" mdate="2020-05-26">
+<author orcid="0000-0002-1133-0529" pid="k/HermannKaindl">Hermann Kaindl</author>
+<title>Portability of software.</title>
+<pages>59-68</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44551</ee>
+<url>db/journals/sigplan/sigplan23.html#Kaindl88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Anand88" mdate="2020-05-26">
+<author pid="69/4684">N. Anand</author>
+<title>Clarify function].</title>
+<pages>69-79</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44552</ee>
+<url>db/journals/sigplan/sigplan23.html#Anand88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Roberts88" mdate="2020-05-26">
+<author pid="65/5793">George H. Roberts</author>
+<title>OPG: an optimizing parser generator.</title>
+<pages>80-90</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44553</ee>
+<url>db/journals/sigplan/sigplan23.html#Roberts88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Osterbye88" mdate="2020-05-26">
+<author pid="o/KasperOsterbye">Kasper &#216;sterbye</author>
+<title>Abstract data types with shared operations.</title>
+<pages>91-96</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44554</ee>
+<url>db/journals/sigplan/sigplan23.html#Osterbye88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Park88" mdate="2020-05-26">
+<author pid="52/6248">Joseph C. H. Park</author>
+<title>y+: A yacc preprocessor for certain semantic actions.</title>
+<pages>97-106</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44555</ee>
+<url>db/journals/sigplan/sigplan23.html#Park88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/PhilbrowAAL88" mdate="2022-05-11">
+<author pid="16/3545">Paul Philbrow</author>
+<author pid="77/5626">I. Armour</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="39/2080">J. Livingstone</author>
+<title>PS-Algol's device-independent output statement.</title>
+<pages>107-114</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44556</ee>
+<url>db/journals/sigplan/sigplan23.html#PhilbrowAAL88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Hemmendinger88d" mdate="2020-05-26">
+<author pid="73/4790">David Hemmendinger</author>
+<title>The 'Hamming' in Prolog.</title>
+<pages>115-120</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44557</ee>
+<url>db/journals/sigplan/sigplan23.html#Hemmendinger88d</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Kokol88" mdate="2020-05-26">
+<author pid="96/2660">Peter Kokol</author>
+<title>Spreadsheet language level: how high is it?</title>
+<pages>121-134</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44558</ee>
+<url>db/journals/sigplan/sigplan23.html#Kokol88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/PonderMN88" mdate="2020-05-26">
+<author pid="57/2353">Carl Ponder</author>
+<author pid="31/1322">Patrick C. McGeer</author>
+<author pid="20/5793">Antony P.-C. Ng</author>
+<title>Are applicative languages inefficient?</title>
+<pages>135-139</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44559</ee>
+<url>db/journals/sigplan/sigplan23.html#PonderMN88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Dwyer88" mdate="2020-05-26">
+<author pid="87/2846">Barry Dwyer</author>
+<title>Regular right part programming languages.</title>
+<pages>140-144</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44560</ee>
+<url>db/journals/sigplan/sigplan23.html#Dwyer88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Gerard88" mdate="2020-05-26">
+<author pid="02/1773">Scott N. Gerard</author>
+<title>Adding an authorization dimension to strong type checking.</title>
+<pages>145-151</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44561</ee>
+<url>db/journals/sigplan/sigplan23.html#Gerard88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Miller88" mdate="2020-05-26">
+<author pid="m/BartonPMiller">Barton P. Miller</author>
+<title>The frequency of dynamic pointer references in &#34;C&#34; programs.</title>
+<pages>152-156</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44562</ee>
+<url>db/journals/sigplan/sigplan23.html#Miller88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Ponder88b" mdate="2020-05-26">
+<author pid="57/2353">Carl Ponder</author>
+<title>Benchmark semantics.</title>
+<pages>157-161</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/44546.44563</ee>
+<url>db/journals/sigplan/sigplan23.html#Ponder88b</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 23, Number 7, July 1988</h2>
+<dblpcites><r style="std"><proceedings key="conf/pldi/1988" mdate="2021-07-09">
+<editor pid="08/3820">Richard L. Wexelblat</editor>
+<title>Proceedings of the ACM SIGPLAN'88 Conference on Programming Language Design and Implementation (PLDI), Atlanta, Georgia, USA, June 22-24, 1988</title>
+<booktitle>PLDI</booktitle>
+<publisher>ACM</publisher>
+<year>1988</year>
+<isbn>0-89791-269-1</isbn>
+<ee>https://doi.org/10.1145/53990</ee>
+<ee>https://doi.org/10.1145/960116</ee>
+<url>db/conf/pldi/pldi88.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Volume 23, Number 8, August 1988</h2>
+<dblpcites><r style="ee"><article key="journals/sigplan/Jones88" mdate="2020-05-26">
+<author pid="88/6555">Douglas W. Jones</author>
+<title>How (not) to code a finite state machine.</title>
+<pages>19-22</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/47907.47908</ee>
+<url>db/journals/sigplan/sigplan23.html#Jones88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Roberts88a" mdate="2020-05-26">
+<author pid="65/5793">George H. Roberts</author>
+<title>Recursive ascent: an LR analog to recursive descent.</title>
+<pages>23-29</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/47907.47909</ee>
+<url>db/journals/sigplan/sigplan23.html#Roberts88a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Jones88a" mdate="2020-05-26">
+<author pid="j/SimonLPeytonJones">Simon L. Peyton Jones</author>
+<title>FLIC - a functional language intermediate code.</title>
+<pages>30-48</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/47907.47910</ee>
+<url>db/journals/sigplan/sigplan23.html#Jones88a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Weicker88" mdate="2020-05-26">
+<author pid="87/5560">Reinhold Weicker</author>
+<title>Dhrystone benchmark: rationale for version 2 and measurement rules.</title>
+<pages>49-62</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/47907.47911</ee>
+<url>db/journals/sigplan/sigplan23.html#Weicker88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Rising88" mdate="2020-05-26">
+<author pid="29/5693">Linda Rising</author>
+<title>Tasking troubles and tips.</title>
+<pages>63-72</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/47907.47912</ee>
+<url>db/journals/sigplan/sigplan23.html#Rising88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Paakki88" mdate="2020-05-26">
+<author pid="p/JPaakki">Jukka Paakki</author>
+<title>A note on the speed of Prolog.</title>
+<pages>73-82</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/47907.47913</ee>
+<url>db/journals/sigplan/sigplan23.html#Paakki88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/BohlenderUG88" mdate="2020-05-26">
+<author pid="05/6323">Gerd Bohlender</author>
+<author pid="80/712">Christian P. Ullrich</author>
+<author pid="39/1058">J&#252;rgen Wolff von Gudenberg</author>
+<title>New developments in Pascal-SC.</title>
+<pages>83-92</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/47907.47914</ee>
+<url>db/journals/sigplan/sigplan23.html#BohlenderUG88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Levy88" mdate="2020-05-26">
+<author pid="92/1870">Eric B. Levy</author>
+<title>The linked class of Modula-3.</title>
+<pages>93-102</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/47907.47915</ee>
+<url>db/journals/sigplan/sigplan23.html#Levy88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Share88" mdate="2020-05-26">
+<author pid="09/4588">Michael Share</author>
+<title>Resolving ambiguities in the parsing of translation grammars.</title>
+<pages>103-109</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/47907.47916</ee>
+<url>db/journals/sigplan/sigplan23.html#Share88</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 23, Number 9, September 1988</h2>
+<dblpcites><r style="std"><proceedings key="conf/ppopp/1988" mdate="2022-06-12">
+<editor pid="08/3820">Richard L. Wexelblat</editor>
+<title>Proceedings of the ACM/SIGPLAN PPEALS 1988, Parallel Programming: Experience with Applications, Languages and Systems, New Haven, Connecticut, USA, July 19-21, 1988</title>
+<booktitle>PPEALS (PPOPP)</booktitle>
+<publisher>ACM</publisher>
+<year>1988</year>
+<isbn>0-89791-276-4</isbn>
+<ee>https://doi.org/10.1145/62115</ee>
+<ee>https://doi.org/10.1145/62116</ee>
+<url>db/conf/ppopp/ppopp88.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Volume 23, Number SI, September 1988</h2>
+<dblpcites><r style="ee"><article key="journals/sigplan/BobrowMGKKM88" mdate="2022-10-11">
+<author pid="b/DGBobrow">Daniel G. Bobrow</author>
+<author pid="64/3474">Linda G. DeMichiel</author>
+<author pid="g/RichardPGabriel">Richard P. Gabriel</author>
+<author pid="20/3421">Sonya E. Keene</author>
+<author pid="k/GregorKiczales">Gregor Kiczales</author>
+<author pid="35/1894">David A. Moon</author>
+<title>Common Lisp Object System Specification X2JI3 Document 88-002R</title>
+<pages>1.1-2.94</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>SI</number>
+<url>db/journals/sigplan/sigplan23.html#BobrowMGKKM88</url>
+<ee>https://doi.org/10.1145/885631.885632</ee>
+<ee>https://www.wikidata.org/entity/Q57481504</ee>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 23, Number 10, October 1988</h2>
+<dblpcites><r style="ee"><article key="journals/sigplan/BurnsDW88" mdate="2022-03-17">
+<author pid="b/AlanBurns">Alan Burns 0001</author>
+<author pid="59/6000">Gordon Davies</author>
+<author pid="w/AndyJWellings">Andy J. Wellings</author>
+<title>A Modula-2 implementation of a real-time process abstraction.</title>
+<pages>49-58</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51608</ee>
+<url>db/journals/sigplan/sigplan23.html#BurnsDW88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Kaelbling88" mdate="2020-05-26">
+<author pid="45/343">Michael J. Kaelbling</author>
+<title>Programming languages should NOT have comment statements.</title>
+<pages>59-60</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51609</ee>
+<url>db/journals/sigplan/sigplan23.html#Kaelbling88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Abrahams88" mdate="2020-05-26">
+<author pid="22/4940">Paul W. Abrahams</author>
+<title>Some sad remarks about string handling in C.</title>
+<pages>61-68</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51610</ee>
+<url>db/journals/sigplan/sigplan23.html#Abrahams88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Sammet88" mdate="2020-05-26">
+<author pid="14/5331">Jean E. Sammet</author>
+<title>Notes on what language maturity means, and how to measure it.</title>
+<pages>69-71</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51611</ee>
+<url>db/journals/sigplan/sigplan23.html#Sammet88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/LiuK88" mdate="2020-05-26">
+<author pid="29/5010-19">Hong Liu 0019</author>
+<author pid="42/5178">Melvin Klerer</author>
+<title>Timing results of various compilers using an optimization quality benchmark.</title>
+<pages>72-74</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51612</ee>
+<url>db/journals/sigplan/sigplan23.html#LiuK88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/KlererL88b" mdate="2020-05-26">
+<author pid="42/5178">Melvin Klerer</author>
+<author pid="29/5010-19">Hong Liu 0019</author>
+<title>Benchmark test to estimate optimization quality of compilers.</title>
+<pages>75-84</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51613</ee>
+<url>db/journals/sigplan/sigplan23.html#KlererL88b</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Sandberg88" mdate="2020-05-26">
+<author pid="42/5914">David W. Sandberg</author>
+<title>Smalltalk and exploratory programming.</title>
+<pages>85-92</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51614</ee>
+<url>db/journals/sigplan/sigplan23.html#Sandberg88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Schnorf88" mdate="2020-05-26">
+<author pid="60/2799">Peter Schnorf</author>
+<title>Dynamic instantiation and configuration of functionally extended, efficient lexical analysers.</title>
+<pages>93-102</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51615</ee>
+<url>db/journals/sigplan/sigplan23.html#Schnorf88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/GenillardS88" mdate="2020-05-26">
+<author pid="59/3488">C. Genillard</author>
+<author pid="49/4642">Alfred Strohmeier</author>
+<title>GRAMOL.</title>
+<pages>103-122</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51616</ee>
+<url>db/journals/sigplan/sigplan23.html#GenillardS88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/WarfieldB88" mdate="2020-05-26">
+<author pid="95/758">Jay W. Warfield</author>
+<author pid="60/4759">Henry R. Bauer III</author>
+<title>An expert system for a retargetable peephole optimizer.</title>
+<pages>123-130</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51617</ee>
+<url>db/journals/sigplan/sigplan23.html#WarfieldB88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/YatesS88" mdate="2020-05-26">
+<author pid="36/2772">John S. Yates</author>
+<author pid="08/6519">Robert A. Schwartz</author>
+<title>Dynamic programming and industrial-strength instruction selection: code generation by tiring, but not exhaustive, search.</title>
+<pages>131-140</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51618</ee>
+<url>db/journals/sigplan/sigplan23.html#YatesS88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/WeinstockW88" mdate="2020-05-26">
+<author pid="57/1628">Charles B. Weinstock</author>
+<author pid="w/WilliamAWulf">William A. Wulf</author>
+<title>An efficient algorithm for heap storage allocation.</title>
+<pages>141-148</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51619</ee>
+<url>db/journals/sigplan/sigplan23.html#WeinstockW88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Lemkin88" mdate="2020-05-26">
+<author pid="34/1973">Peter F. Lemkin</author>
+<title>PSAIL: A portable SAIL to C compiler - description and tutorial.</title>
+<pages>149-171</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51620</ee>
+<url>db/journals/sigplan/sigplan23.html#Lemkin88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Dhamdhere88" mdate="2020-05-26">
+<author pid="d/DMDhamdhere">Dhananjay M. Dhamdhere</author>
+<title>A fast algorithm for code movement optimisation.</title>
+<pages>172-180</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51621</ee>
+<url>db/journals/sigplan/sigplan23.html#Dhamdhere88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Mellender88" mdate="2020-05-26">
+<author pid="86/504">Fred Mellender</author>
+<title>An integration of logic and object-oriented programming.</title>
+<pages>181-185</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51622</ee>
+<url>db/journals/sigplan/sigplan23.html#Mellender88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Lang88" mdate="2020-05-26">
+<author pid="94/601">Joseph E. Lang</author>
+<title>Grammars for FFP.</title>
+<pages>186-190</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/51607.51623</ee>
+<url>db/journals/sigplan/sigplan23.html#Lang88</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 23, Number 11, November 1988</h2>
+<dblpcites><r style="std"><proceedings key="conf/oopsla/1988" mdate="2022-03-30">
+<editor pid="72/3026">Norman K. Meyrowitz</editor>
+<title>Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPSLA 1988, San Diego, California, USA, September 25-30, 1988, Proceedings.</title>
+<booktitle>OOPSLA</booktitle>
+<publisher>ACM</publisher>
+<year>1988</year>
+<isbn>0-89791-284-5</isbn>
+<ee>https://doi.org/10.1145/62083</ee>
+<ee>https://doi.org/10.1145/62084</ee>
+<url>db/conf/oopsla/oopsla88.html</url>
+<note>SIGPLAN Notices 23(11)</note>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Volume 23, Number 12, December 1988</h2>
+<dblpcites><r style="ee"><article key="journals/sigplan/CorradiL88" mdate="2021-04-09">
+<author orcid="0000-0002-5107-1023" pid="90/2390">Antonio Corradi</author>
+<author orcid="0000-0003-4035-8560" pid="10/6872">Letizia Leonardi</author>
+<title>The role of opaque types to build abstractions.</title>
+<pages>24-37</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57670</ee>
+<url>db/journals/sigplan/sigplan23.html#CorradiL88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Sakkinen88" mdate="2020-05-26">
+<author pid="09/5012">Markku Sakkinen</author>
+<title>Comments on &#34;the law of demeter&#34; and C++.</title>
+<pages>38-44</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57671</ee>
+<url>db/journals/sigplan/sigplan23.html#Sakkinen88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/YehK88b" mdate="2020-05-26">
+<author pid="81/3153">Dashing Yeh</author>
+<author pid="k/UweKastens">Uwe Kastens</author>
+<title>Improvements of an incremental evaluation algorithm for ordered attribute grammars.</title>
+<pages>45-50</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57672</ee>
+<url>db/journals/sigplan/sigplan23.html#YehK88b</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Serbedzija88" mdate="2020-05-26">
+<author pid="04/6467">Nikola B. Serbedzija</author>
+<title>Asynchronous communication on Occam.</title>
+<pages>51-62</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57673</ee>
+<url>db/journals/sigplan/sigplan23.html#Serbedzija88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Budd88" mdate="2020-05-26">
+<author pid="26/3088">Timothy A. Budd</author>
+<title>Time space tradeoffs in vector algorithms for APL functions.</title>
+<pages>63-68</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57674</ee>
+<url>db/journals/sigplan/sigplan23.html#Budd88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/OmanC88" mdate="2020-05-26">
+<author pid="72/1827">Paul W. Oman</author>
+<author pid="c/CurtisRCook">Curtis R. Cook</author>
+<title>A paradigm for programming style research.</title>
+<pages>69-78</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57675</ee>
+<url>db/journals/sigplan/sigplan23.html#OmanC88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Neusius88" mdate="2020-05-26">
+<author pid="90/310">Christian Neusius</author>
+<title>Portable software in modular Pascal.</title>
+<pages>79-85</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57676</ee>
+<ee>https://www.wikidata.org/entity/Q56637423</ee>
+<url>db/journals/sigplan/sigplan23.html#Neusius88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/FurtadoV88" mdate="2022-12-07">
+<author pid="f/AntonioLFurtado">Antonio L. Furtado 0001</author>
+<author pid="98/4297">Paulo A. S. Veloso</author>
+<title>Iteration for applicative languages.</title>
+<pages>86-94</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57677</ee>
+<url>db/journals/sigplan/sigplan23.html#FurtadoV88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Sewry88" mdate="2020-05-26">
+<author pid="64/1700">David A. Sewry</author>
+<title>Process scheduling in Modula-2.</title>
+<pages>95-97</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57678</ee>
+<url>db/journals/sigplan/sigplan23.html#Sewry88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Wilson88" mdate="2022-01-25">
+<author pid="43/1901-1">Paul R. Wilson 0001</author>
+<title>Opportunistic garbage collection.</title>
+<pages>98-102</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57679</ee>
+<url>db/journals/sigplan/sigplan23.html#Wilson88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/House88" mdate="2020-05-26">
+<author pid="34/1487">Ronald T. House</author>
+<title>A problem with extended Pascal.</title>
+<pages>103-114</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57680</ee>
+<url>db/journals/sigplan/sigplan23.html#House88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Boddy88" mdate="2020-05-26">
+<author pid="83/4473">David E. Boddy</author>
+<title>SOS: a monitor-based operating system for instruction.</title>
+<pages>115-124</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57681</ee>
+<url>db/journals/sigplan/sigplan23.html#Boddy88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Sharpe88" mdate="2020-05-26">
+<author pid="36/6542">Daniel Sharpe</author>
+<title>Adding regular expressions to Pascal.</title>
+<pages>125-133</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57682</ee>
+<url>db/journals/sigplan/sigplan23.html#Sharpe88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Meek88" mdate="2020-05-26">
+<author pid="20/2024">Brian L. Meek</author>
+<title>Language standards committees and revisions.</title>
+<pages>134-142</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57683</ee>
+<url>db/journals/sigplan/sigplan23.html#Meek88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Spector88" mdate="2020-05-26">
+<author pid="09/5504">David Spector</author>
+<title>Efficient full LR(I) parser generation.</title>
+<pages>143-150</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57684</ee>
+<url>db/journals/sigplan/sigplan23.html#Spector88</url>
+</article>
+</r>
+<r style="ee"><article key="journals/sigplan/Kovats88" mdate="2020-05-26">
+<author pid="47/3208">Thomas A. Kovats</author>
+<title>Comments on innovative control constructs in pancode and EPN.</title>
+<pages>151-157</pages>
+<year>1988</year>
+<volume>23</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>12</number>
+<ee>https://doi.org/10.1145/57669.57685</ee>
+<url>db/journals/sigplan/sigplan23.html#Kovats88</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

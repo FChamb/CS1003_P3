@@ -1,0 +1,734 @@
+<?xml version="1.0"?>
+<dblpperson name="&#214;zg&#252;r Akg&#252;n" pid="35/9923" n="47">
+<person key="homepages/35/9923" mdate="2022-06-24">
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="35/9923">Ozgur Akgun</author>
+<url>https://orcid.org/0000-0001-9519-938X</url>
+<url>https://www.wikidata.org/entity/Q91196473</url>
+</person>
+<r><article key="journals/ai/AkgunFGJMN22" mdate="2022-10-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="51/6077">Alan M. Frisch</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Conjure: Automatic Generation of Constraint Models from Problem Specifications.</title>
+<pages>103751</pages>
+<year>2022</year>
+<volume>310</volume>
+<journal>Artif. Intell.</journal>
+<ee type="oa">https://doi.org/10.1016/j.artint.2022.103751</ee>
+<url>db/journals/ai/ai310.html#AkgunFGJMN22</url>
+</article>
+</r>
+<r><article key="journals/moc/AkgunMV22" mdate="2022-10-04">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="320/2988">M. Mereb</author>
+<author orcid="0000-0003-0954-7785" pid="200/2023">Leandro Vendramin</author>
+<title>Enumeration of set-theoretic solutions to the Yang-Baxter equation.</title>
+<pages>1469-1481</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3696</ee>
+<url>db/journals/moc/moc91.html#AkgunMV22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/0001AEMN22" mdate="2022-10-02">
+<author orcid="0000-0002-2693-6953" pid="67/9680-1">Nguyen Dang 0001</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="150/4943">Joan Espasa</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>A Framework for Generating Informative Benchmark Instances.</title>
+<pages>18:1-18:18</pages>
+<year>2022</year>
+<booktitle>CP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CP.2022.18</ee>
+<crossref>conf/cp/2022</crossref>
+<url>db/conf/cp/cp2022.html#0001AEMN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/HoffmannZAN22" mdate="2022-10-02">
+<author orcid="0000-0002-1011-5894" pid="176/5552">Ruth Hoffmann</author>
+<author pid="65/2899">Xu Zhu</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-9864-9654" pid="10/6760">Miguel A. Nacenta</author>
+<title>Understanding How People Approach Constraint Modelling and Solving.</title>
+<pages>28:1-28:18</pages>
+<year>2022</year>
+<booktitle>CP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CP.2022.28</ee>
+<crossref>conf/cp/2022</crossref>
+<url>db/conf/cp/cp2022.html#HoffmannZAN22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-13250" mdate="2022-10-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author pid="54/4901">Zeynep Kiziltan</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="55/1790">Andr&#225;s Z. Salamon</author>
+<author pid="304/2839">Felix Ulrich-Oltean</author>
+<title>Automatic Tabulation in Constraint Models.</title>
+<year>2022</year>
+<volume>abs/2202.13250</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.13250</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-13250</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-14753" mdate="2022-06-01">
+<author pid="67/9680-1">Nguyen Dang 0001</author>
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="150/4943">Joan Espasa</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>A Framework for Generating Informative Benchmark Instances.</title>
+<year>2022</year>
+<volume>abs/2205.14753</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.14753</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-14753</url>
+</article>
+</r>
+<r><inproceedings key="conf/cpaior/AkgunEJMPZ21" mdate="2021-07-14">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-0266-3292" pid="35/3842">Jessica A. Enright</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6106-4871" pid="119/4841">Ciaran McCreesh</author>
+<author orcid="0000-0003-4460-6912" pid="14/3015">Patrick Prosser</author>
+<author orcid="0000-0001-9062-6637" pid="32/2945">Steffen Zschaler</author>
+<title>Finding Subgraphs with Side Constraints.</title>
+<pages>348-364</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_22</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#AkgunEJMPZ21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-00821" mdate="2022-10-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="51/6077">Alan M. Frisch</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<title>Towards Reformulating Essence Specifications for Robustness.</title>
+<year>2021</year>
+<volume>abs/2111.00821</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.00821</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-00821</url>
+</article>
+</r>
+<r><article key="journals/tvcg/ZhuNAN20" mdate="2020-08-13">
+<author orcid="0000-0002-2801-3271" pid="65/2899">Xu Zhu</author>
+<author orcid="0000-0002-9864-9654" pid="10/6760">Miguel A. Nacenta</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>How People Visually Represent Discrete Constraint Problems.</title>
+<pages>2603-2619</pages>
+<year>2020</year>
+<volume>26</volume>
+<journal>IEEE Trans. Vis. Comput. Graph.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TVCG.2019.2895085</ee>
+<ee>https://www.wikidata.org/entity/Q91196476</ee>
+<url>db/journals/tvcg/tvcg26.html#ZhuNAN20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/DavidsonAEN20" mdate="2020-10-25">
+<author pid="273/7186">Ewan Davidson</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="150/4943">Joan Espasa</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Effective Encodings of Constraint Programming Models to SMT.</title>
+<pages>143-159</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_9</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#DavidsonAEN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cpaior/AkgunDMSSS20" mdate="2022-06-23">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-2693-6953" pid="67/9680-1">Nguyen Dang 0001</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<author pid="166/7452">Patrick Spracklen</author>
+<author pid="20/2227">Christopher Stone</author>
+<title>Discriminating Instance Generation from Abstract Specifications: A Case Study with CP and MIP.</title>
+<pages>41-51</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_3</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#AkgunDMSSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/KocakAGM20" mdate="2021-04-09">
+<author orcid="0000-0002-6317-0141" pid="235/6848">G&#246;kberk Ko&#231;ak</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-2156-2155" pid="41/3130">Tias Guns</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Exploiting Incomparability in Solution Dominance: Improving General Purpose Constraint-Based Mining.</title>
+<pages>331-338</pages>
+<year>2020</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/FAIA200110</ee>
+<crossref>conf/ecai/2020</crossref>
+<url>db/conf/ecai/ecai2020.html#KocakAGM20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-10152" mdate="2021-10-14">
+<author pid="166/7452">Patrick Spracklen</author>
+<author orcid="0000-0002-2693-6953" pid="67/9680-1">Nguyen Dang 0001</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem.</title>
+<year>2020</year>
+<volume>abs/2009.10152</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.10152</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-10152</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-10156" mdate="2022-10-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-2693-6953" pid="67/9680-1">Nguyen Dang 0001</author>
+<author pid="150/4943">Joan Espasa</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<author pid="20/2227">Christopher Stone</author>
+<title>Exploring Instance Generation for Automated Planning.</title>
+<year>2020</year>
+<volume>abs/2009.10156</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.10156</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-10156</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-11111" mdate="2021-10-14">
+<author pid="235/6848">G&#246;kberk Ko&#231;ak</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-2693-6953" pid="67/9680-1">Nguyen Dang 0001</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Efficient Incremental Modelling and Solving.</title>
+<year>2020</year>
+<volume>abs/2009.11111</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.11111</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-11111</url>
+</article>
+</r>
+<r><article key="journals/jintseq/AkgunGKZ19" mdate="2020-03-10">
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="57/1862">Sergey Kitaev</author>
+<author pid="z/HZantema">Hans Zantema</author>
+<title>Solving Computational Problems in the Theory of Word-Representable Graphs.</title>
+<pages>19.2.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Kitaev/kitaev11.html</ee>
+<url>db/journals/jintseq/jintseq22.html#AkgunGKZ19</url>
+</article>
+</r>
+<r><article key="journals/tcc/VargheseAMTB19" mdate="2020-06-21">
+<author orcid="0000-0001-8392-832X" pid="32/7786">Blesson Varghese</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="153/1806">Long Thai</author>
+<author pid="24/1959">Adam Barker</author>
+<title>Cloud Benchmarking for Maximising Performance of Scientific Applications.</title>
+<pages>170-182</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2016.2603476</ee>
+<url>db/journals/tcc/tcc7.html#VargheseAMTB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/AkgunDMSS19" mdate="2020-08-24">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-2693-6953" pid="67/9680-1">Nguyen Dang 0001</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<author pid="20/2227">Christopher Stone</author>
+<title>Instance Generation via Generator Instances.</title>
+<pages>3-19</pages>
+<year>2019</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-30048-7_1</ee>
+<crossref>conf/cp/2019</crossref>
+<url>db/conf/cp/cp2019.html#AkgunDMSS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/SpracklenDAM19" mdate="2020-08-24">
+<author pid="166/7452">Patrick Spracklen</author>
+<author orcid="0000-0002-2693-6953" pid="67/9680-1">Nguyen Dang 0001</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Automatic Streamlining for Constrained Optimisation.</title>
+<pages>366-383</pages>
+<year>2019</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-30048-7_22</ee>
+<crossref>conf/cp/2019</crossref>
+<url>db/conf/cp/cp2019.html#SpracklenDAM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-00475" mdate="2019-10-09">
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="55/1790">Andr&#225;s Z. Salamon</author>
+<title>Conjure Documentation, Release 2.3.0.</title>
+<year>2019</year>
+<volume>abs/1910.00475</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.00475</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-00475</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-00505" mdate="2019-10-04">
+<author pid="235/6848">G&#246;kberk Ko&#231;ak</author>
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="41/3130">Tias Guns</author>
+<author pid="17/2612">Ian Miguel</author>
+<title>Towards Improving Solution Dominance with Incomparability Conditions: A case-study using Generator Itemset Mining.</title>
+<year>2019</year>
+<volume>abs/1910.00505</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.00505</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-00505</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/AkgunGJMNS18" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<title>Automatic Discovery and Exploitation of Promising Subproblems for Tabulation.</title>
+<pages>3-12</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_1</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#AkgunGJMNS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/SpracklenAM18" mdate="2020-03-27">
+<author pid="166/7452">Patrick Spracklen</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Automatic Generation and Selection of Streamlined Constraint Models via Monte Carlo Search on a Model Lattice.</title>
+<pages>362-372</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_24</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#SpracklenAM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/AkgunGJMN18" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Metamorphic Testing of Constraint Solvers.</title>
+<pages>727-736</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_46</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#AkgunGJMN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/KocakAMN18" mdate="2020-03-27">
+<author orcid="0000-0002-6317-0141" pid="235/6848">Gokberk Kocak</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Closed Frequent Itemset Mining with Arbitrary Side Constraints.</title>
+<pages>1224-1232</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00175</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#KocakAMN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/AkgunAGJMNSSW18" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="222/7924">Saad Attieh</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<author pid="166/7452">Patrick Spracklen</author>
+<author pid="166/7454">James Wetter</author>
+<title>A Framework for Constraint Based Local Search using Essence.</title>
+<pages>1242-1248</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/173</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#AkgunAGJMNSSW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/AkgunDKC18" mdate="2018-11-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<title>Using Metric Space Indexing for Complete and Efficient Record Linkage.</title>
+<pages>89-101</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_8</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#AkgunDKC18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-09847" mdate="2021-01-23">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Modelling Langford's Problem: A Viewpoint for Search.</title>
+<year>2018</year>
+<volume>abs/1808.09847</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.09847</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-09847</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-09870" mdate="2021-01-23">
+<author orcid="0000-0002-1011-5894" pid="176/5552">Ruth Hoffmann</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="99/365">Susmit Sarkar</author>
+<title>Memory Consistency Models using Constraints.</title>
+<year>2018</year>
+<volume>abs/1808.09870</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.09870</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-09870</url>
+</article>
+</r>
+<r><article key="journals/ai/NightingaleAGJM17" mdate="2020-03-27">
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="166/7452">Patrick Spracklen</author>
+<title>Automatically improving constraint models in Savile Row.</title>
+<pages>35-61</pages>
+<year>2017</year>
+<volume>251</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2017.07.001</ee>
+<url>db/journals/ai/ai251.html#NightingaleAGJM17</url>
+</article>
+</r>
+<r><article key="journals/constraints/Akgun17" mdate="2020-03-13">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<title>Extensible automated constraint modelling via refinement of abstract problem specifications.</title>
+<pages>91-92</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-016-9258-6</ee>
+<url>db/journals/constraints/constraints22.html#Akgun17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-01829" mdate="2022-02-07">
+<author pid="03/3111">Roberto Rossi</author>
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="56/661">Steven D. Prestwich</author>
+<author pid="02/5166">S. Armagan Tarim</author>
+<title>Declarative Statistics.</title>
+<year>2017</year>
+<volume>abs/1708.01829</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.01829</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-01829</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/AkgunGJMN16" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Exploiting Short Supports for Improved Encoding of Arbitrary Constraints into SAT.</title>
+<pages>3-12</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_1</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#AkgunGJMN16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/VargheseAMTB16" mdate="2018-08-13">
+<author pid="32/7786">Blesson Varghese</author>
+<author pid="35/9923">Ozgur Akgun</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="153/1806">Long Thai</author>
+<author pid="24/1959">Adam Barker</author>
+<title>Cloud Benchmarking For Maximising Performance of Scientific Applications.</title>
+<year>2016</year>
+<volume>abs/1608.00406</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.00406</ee>
+<url>db/journals/corr/corr1608.html#VargheseAMTB16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/RossiAPT16" mdate="2022-02-07">
+<author pid="03/3111">Roberto Rossi</author>
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="56/661">Steven D. Prestwich</author>
+<author pid="02/5166">Armagan Tarim</author>
+<title>The BIN_COUNTS Constraint: Filtering and Applications.</title>
+<year>2016</year>
+<volume>abs/1611.08942</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.08942</ee>
+<url>db/journals/corr/corr1611.html#RossiAPT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/WetterAM15" mdate="2020-03-27">
+<author pid="166/7454">James Wetter</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Automatically Generating Streamlined Constraint Models with Essence and Conjure.</title>
+<pages>480-496</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_34</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#WetterAM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eScience/WetterABDMV15" mdate="2020-10-25">
+<author pid="166/7454">James Wetter</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author pid="24/1959">Adam Barker</author>
+<author orcid="0000-0002-3202-0343" pid="170/0202">Martin Dominik</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="32/7786">Blesson Varghese</author>
+<title>Cloud-based E-Infrastructure for Scheduling Astronomical Observations.</title>
+<pages>362-370</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.54</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WetterABDMV15</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Akgun14" mdate="2022-05-04">
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<title>Extensible automated constraint modelling via refinement of abstract problem specifications.</title>
+<year>2014</year>
+<school>University of St Andrews, UK</school>
+<ee>https://hdl.handle.net/10023/6547</ee>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.644812</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cloudcom/VargheseAMTB14" mdate="2017-06-15">
+<author pid="32/7786">Blesson Varghese</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="153/1806">Long Thai</author>
+<author pid="24/1959">Adam Barker</author>
+<title>Cloud Benchmarking for Performance.</title>
+<pages>535-540</pages>
+<year>2014</year>
+<booktitle>CloudCom</booktitle>
+<ee>https://doi.org/10.1109/CloudCom.2014.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CloudCom.2014.28</ee>
+<crossref>conf/cloudcom/2014</crossref>
+<url>db/conf/cloudcom/cloudcom2014.html#VargheseAMTB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudcom/ThaiBVAM14" mdate="2020-03-27">
+<author pid="153/1806">Long Thai</author>
+<author pid="24/1959">Adam Barker</author>
+<author pid="32/7786">Blesson Varghese</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Optimal Deployment of Geographically Distributed Workflow Engines on the Cloud.</title>
+<pages>811-816</pages>
+<year>2014</year>
+<booktitle>CloudCom</booktitle>
+<ee>https://doi.org/10.1109/CloudCom.2014.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CloudCom.2014.30</ee>
+<crossref>conf/cloudcom/2014</crossref>
+<url>db/conf/cloudcom/cloudcom2014.html#ThaiBVAM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/NightingaleAGJM14" mdate="2017-09-16">
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Automatically Improving Constraint Models in Savile Row through Associative-Commutative Common Subexpression Elimination.</title>
+<pages>590-605</pages>
+<year>2014</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10428-7_43</ee>
+<crossref>conf/cp/2014</crossref>
+<url>db/conf/cp/cp2014.html#NightingaleAGJM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AkgunGJMN14" mdate="2017-09-16">
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Breaking Conditional Symmetry in Automated Constraint Modelling with CONJURE.</title>
+<pages>3-8</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-3</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#AkgunGJMN14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ThaiBVAM14" mdate="2021-01-23">
+<author pid="153/1806">Long Thai</author>
+<author pid="24/1959">Adam Barker</author>
+<author pid="32/7786">Blesson Varghese</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Optimal Deployment of Geographically Distributed Workflow Engines on the Cloud.</title>
+<year>2014</year>
+<volume>abs/1410.8359</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1410.8359</ee>
+<url>db/journals/corr/corr1410.html#ThaiBVAM14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/VargheseAMTB14" mdate="2021-01-23">
+<author pid="32/7786">Blesson Varghese</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="153/1806">Long Thai</author>
+<author pid="24/1959">Adam Barker</author>
+<title>Cloud Benchmarking for Performance.</title>
+<year>2014</year>
+<volume>abs/1411.0912</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1411.0912</ee>
+<url>db/journals/corr/corr1411.html#VargheseAMTB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/AkgunFGHJKMN13" mdate="2021-10-14">
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0001-5015-2676" pid="51/6077">Alan M. Frisch</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author pid="134/3178">Bilal Syed Hussain</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Automated Symmetry Breaking and Model Selection in Conjure.</title>
+<pages>107-116</pages>
+<year>2013</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40627-0_11</ee>
+<crossref>conf/cp/2013</crossref>
+<url>db/conf/cp/cp2013.html#AkgunFGHJKMN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/AkgunMJFH11" mdate="2021-02-18">
+<author pid="35/9923">Ozgur Akgun</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="51/6077">Alan M. Frisch</author>
+<author pid="66/5390">Brahim Hnich</author>
+<title>Extensible Automated Constraint Modelling.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3687</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AkgunMJFH11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1109-1774" mdate="2018-08-13">
+<author pid="35/9923">Ozgur Akgun</author>
+<author pid="51/6077">Alan M. Frisch</author>
+<author pid="66/5390">Brahim Hnich</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="17/2612">Ian Miguel</author>
+<title>Conjure Revisited: Towards Automated Constraint Modelling</title>
+<ee type="oa">http://arxiv.org/abs/1109.1774</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1109.1774</volume>
+<url>db/journals/corr/corr1109.html#abs-1109-1774</url>
+</article>
+</r>
+<coauthors n="42" nc="2">
+<co c="0"><na f="a/Attieh:Saad" pid="222/7924">Saad Attieh</na></co>
+<co c="0"><na f="b/Barker:Adam" pid="24/1959">Adam Barker</na></co>
+<co c="0"><na f="c/Christen:Peter" pid="c/PeterChristen">Peter Christen</na></co>
+<co c="0"><na f="d/Dang_0001:Nguyen" pid="67/9680-1">Nguyen Dang 0001</na></co>
+<co c="0"><na f="d/Davidson:Ewan" pid="273/7186">Ewan Davidson</na></co>
+<co c="0"><na f="d/Dearle:Alan" pid="d/AlanDearle">Alan Dearle</na></co>
+<co c="0"><na f="d/Dominik:Martin" pid="170/0202">Martin Dominik</na></co>
+<co c="0"><na f="e/Enright:Jessica_A=" pid="35/3842">Jessica A. Enright</na></co>
+<co c="0"><na f="e/Espasa:Joan" pid="150/4943">Joan Espasa</na></co>
+<co c="0"><na f="f/Frisch:Alan_M=" pid="51/6077">Alan M. Frisch</na></co>
+<co c="0"><na f="g/Gent:Ian_P=" pid="30/3076">Ian P. Gent</na></co>
+<co c="0"><na f="g/Guns:Tias" pid="41/3130">Tias Guns</na></co>
+<co c="0"><na f="h/Hnich:Brahim" pid="66/5390">Brahim Hnich</na></co>
+<co c="0"><na f="h/Hoffmann:Ruth" pid="176/5552">Ruth Hoffmann</na></co>
+<co c="0"><na f="h/Hussain:Bilal_Syed" pid="134/3178">Bilal Syed Hussain</na></co>
+<co c="0"><na f="j/Jefferson:Christopher" pid="03/5951">Christopher Jefferson</na></co>
+<co c="0"><na f="k/Kirby:Graham_N=_C=" pid="k/GNCKirby">Graham N. C. Kirby</na></co>
+<co c="0"><na f="k/Kitaev:Sergey" pid="57/1862">Sergey Kitaev</na></co>
+<co c="0"><na f="k/Kiziltan:Zeynep" pid="54/4901">Zeynep Kiziltan</na></co>
+<co c="0" n="2"><na f="k/Ko=ccedil=ak:G=ouml=kberk" pid="235/6848">G&#246;kberk Ko&#231;ak</na><na>Gokberk Kocak</na></co>
+<co c="0"><na f="k/Kotthoff:Lars" pid="42/7865">Lars Kotthoff</na></co>
+<co c="0"><na f="m/McCreesh:Ciaran" pid="119/4841">Ciaran McCreesh</na></co>
+<co c="1"><na f="m/Mereb:M=" pid="320/2988">M. Mereb</na></co>
+<co c="0"><na f="m/Miguel:Ian" pid="17/2612">Ian Miguel</na></co>
+<co c="0"><na f="n/Nacenta:Miguel_A=" pid="10/6760">Miguel A. Nacenta</na></co>
+<co c="0"><na f="n/Nightingale:Peter" pid="n/PeterNightingale">Peter Nightingale</na></co>
+<co c="0"><na f="p/Prestwich:Steven_D=" pid="56/661">Steven D. Prestwich</na></co>
+<co c="0"><na f="p/Prosser:Patrick" pid="14/3015">Patrick Prosser</na></co>
+<co c="0"><na f="r/Rossi:Roberto" pid="03/3111">Roberto Rossi</na></co>
+<co c="0"><na f="s/Salamon:Andr=aacute=s_Z=" pid="55/1790">Andr&#225;s Z. Salamon</na></co>
+<co c="0"><na f="s/Sarkar:Susmit" pid="99/365">Susmit Sarkar</na></co>
+<co c="0"><na f="s/Spracklen:Patrick" pid="166/7452">Patrick Spracklen</na></co>
+<co c="0"><na f="s/Stone:Christopher" pid="20/2227">Christopher Stone</na></co>
+<co c="0" n="2"><na f="t/Tarim:Armagan" pid="02/5166">Armagan Tarim</na><na>S. Armagan Tarim</na></co>
+<co c="0"><na f="t/Thai:Long" pid="153/1806">Long Thai</na></co>
+<co c="0"><na f="u/Ulrich=Oltean:Felix" pid="304/2839">Felix Ulrich-Oltean</na></co>
+<co c="0"><na f="v/Varghese:Blesson" pid="32/7786">Blesson Varghese</na></co>
+<co c="1"><na f="v/Vendramin:Leandro" pid="200/2023">Leandro Vendramin</na></co>
+<co c="0"><na f="w/Wetter:James" pid="166/7454">James Wetter</na></co>
+<co c="0"><na f="z/Zantema:Hans" pid="z/HZantema">Hans Zantema</na></co>
+<co c="0"><na f="z/Zhu:Xu" pid="65/2899">Xu Zhu</na></co>
+<co c="0"><na f="z/Zschaler:Steffen" pid="32/2945">Steffen Zschaler</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,156 @@
+<bht key="db/journals/jair/jair12.bht" title="Journal of Artificial Intelligence Research (JAIR), Volume 12">  
+<h1><ref href="db/journals/jair/index.html">Journal of Artificial Intelligence Research (JAIR)</ref>, Volume 12</h1> 
+<h2>Volume 12, 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/jair/Kambhampati00" mdate="2019-01-21">
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<title>Planning Graph as a (Dynamic) CSP: Exploiting EBL, DDB and other CSP Search Techniques in Graphplan.</title>
+<pages>1-34</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.655</ee>
+<url>db/journals/jair/jair12.html#Kambhampati00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Barber00" mdate="2019-01-21">
+<author pid="60/1527">Federico Barber</author>
+<title>Reasoning on Interval and Point-based Disjunctive Metric Constraints in Temporal Contexts.</title>
+<pages>35-86</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.693</ee>
+<url>db/journals/jair/jair12.html#Barber00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Neal00" mdate="2019-01-21">
+<author pid="27/666">Radford M. Neal</author>
+<title>On Deducing Conditional Independence from d-Separation in Causal Graphs with Feedback (Research Note).</title>
+<pages>87-91</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.689</ee>
+<url>db/journals/jair/jair12.html#Neal00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/XuL00" mdate="2019-01-21">
+<author pid="x/KeXu">Ke Xu 0001</author>
+<author pid="64/6025-22">Wei Li 0022</author>
+<title>Exact Phase Transitions in Random Constraint Satisfaction Problems.</title>
+<pages>93-103</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.696</ee>
+<url>db/journals/jair/jair12.html#XuL00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/KaminkaT00" mdate="2019-01-21">
+<author pid="28/5426">Gal A. Kaminka</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Robust Agent Teams via Socially-Attentive Monitoring.</title>
+<pages>105-147</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.682</ee>
+<url>db/journals/jair/jair12.html#KaminkaT00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Baxter00" mdate="2019-01-21">
+<author pid="66/5720">Jonathan Baxter</author>
+<title>A Model of Inductive Bias Learning.</title>
+<pages>149-198</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.731</ee>
+<url>db/journals/jair/jair12.html#Baxter00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Tobies00" mdate="2019-01-21">
+<author pid="26/6947">Stephan Tobies</author>
+<title>The Complexity of Reasoning with Cardinality Restrictions and Nominals in Expressive Description Logics.</title>
+<pages>199-217</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.705</ee>
+<url>db/journals/jair/jair12.html#Tobies00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/BeckerBG00" mdate="2019-01-21">
+<author pid="33/1332">Ann Becker</author>
+<author pid="b/ReuvenBarYehuda">Reuven Bar-Yehuda</author>
+<author pid="38/1294">Dan Geiger</author>
+<title>Randomized Algorithms for the Loop Cutset Problem.</title>
+<pages>219-234</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.638</ee>
+<url>db/journals/jair/jair12.html#BeckerBG00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/SingerGS00" mdate="2020-09-05">
+<author orcid="0000-0001-6989-475X" pid="88/5461">Josh Singer</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="26/6224">Alan Smaill</author>
+<title>Backbone Fragility and the Local Search Cost Peak.</title>
+<pages>235-270</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.711</ee>
+<url>db/journals/jair/jair12.html#SingerGS00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Nebel00" mdate="2019-01-21">
+<author pid="n/BernhardNebel">Bernhard Nebel</author>
+<title>On the Compilability and Expressive Power of Propositional Planning Formalisms.</title>
+<pages>271-315</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.735</ee>
+<url>db/journals/jair/jair12.html#Nebel00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Halpern00" mdate="2019-01-21">
+<author pid="h/JosephYHalpern">Joseph Y. Halpern</author>
+<title>Axiomatizing Causal Reasoning.</title>
+<pages>317-337</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.648</ee>
+<url>db/journals/jair/jair12.html#Halpern00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/KoehlerH00" mdate="2019-01-21">
+<author pid="j/JanaKoehler">Jana Koehler</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<title>On Reasonable and Forced Goal Orderings and their Use in an Agenda-Driven Planning Algorithm.</title>
+<pages>338-386</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.715</ee>
+<url>db/journals/jair/jair12.html#KoehlerH00</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Walker00" mdate="2019-01-21">
+<author pid="w/MarilynAWalker">Marilyn A. Walker</author>
+<title>An Application of Reinforcement Learning to Dialogue Strategy Selection in a Spoken Dialogue System for Email.</title>
+<pages>387-416</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.713</ee>
+<url>db/journals/jair/jair12.html#Walker00</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

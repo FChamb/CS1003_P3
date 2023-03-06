@@ -1,0 +1,483 @@
+<bht key="db/conf/pos/pos92.bht" title="POS-5 1992: San Miniato, Italy">
+<h1><ref href="db/conf/pos/index.html">POS</ref>-5 1992: San Miniato, Italy</h1>
+
+<dblpcites><r><proceedings key="conf/pos/1992" mdate="2012-09-18">
+<editor pid="a/AAlbano">Antonio Albano</editor>
+<editor pid="82/2183">Ronald Morrison</editor>
+<title>Persistent Object Systems, Proceedings of the Fifth International Workshop on Persistent Object Systems, San Miniato (Pisa), Italy, 1-4 September, 1992</title>
+<series href="db/series/wic/index.html">Workshops in Computing</series>
+<publisher>Springer</publisher>
+<year>1992</year>
+<isbn>3-540-19800-8</isbn>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Preface92" mdate="2014-02-10">
+<author pid="a/AAlbano">Antonio Albano</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Preface</title>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Preface92</url>
+<cdrom>POS/1992/P000.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Object Store Addressing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Morrison92" mdate="2014-02-10">
+<author pid="82/2183">Ronald Morrison</author>
+<title>Object Store Addressing</title>
+<pages>1-2</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Morrison92</url>
+<cdrom>POS/1992/P001.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MalhotraP92" mdate="2014-02-10">
+<author pid="73/247">Ashok Malhotra</author>
+<author pid="34/1108">Kenneth J. Perry</author>
+<title>Allocating Objects to Pages.</title>
+<pages>3-10</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#MalhotraP92</url>
+<cdrom>POS/1992/P003.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/SinghalKW92" mdate="2022-01-25">
+<author pid="93/4031">Vivek Singhal</author>
+<author pid="61/2458">Sheetal V. Kakkad</author>
+<author pid="43/1901-1">Paul R. Wilson 0001</author>
+<title>Texas: An Efficient, Portable Persistent Store.</title>
+<pages>11-33</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#SinghalKW92</url>
+<cdrom>POS/1992/P011.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/VaughanD92" mdate="2014-02-10">
+<author pid="72/6183">Francis Vaughan</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Supporting Large Persistent Stores using Conventional Hardware.</title>
+<pages>34-53</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#VaughanD92</url>
+<cdrom>POS/1992/P034.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/RosenbergD92" mdate="2014-02-10">
+<author pid="17/3411">John Rosenberg</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Keynote Discussion Session on Operating System Support for Persistence.</title>
+<pages>54-60</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#RosenbergD92</url>
+<cdrom>POS/1992/P054.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Selection Box</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Barter92" mdate="2014-02-10">
+<author pid="28/6728">Chris J. Barter</author>
+<title>Selection Box</title>
+<pages>61-62</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Barter92</url>
+<cdrom>POS/1992/P061.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/AtkinsonBJP92" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="31/6976">A. Birnie</author>
+<author pid="58/1056">N. Jackson</author>
+<author pid="16/3545">Paul Philbrow</author>
+<title>Measuring Persistent Object Systems.</title>
+<pages>63-85</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#AtkinsonBJP92</url>
+<cdrom>POS/1992/P063.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/KirbyCCMDF92" mdate="2014-02-10">
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="91/3786">Alex Farkas</author>
+<title>Persistent Hyper-Programs.</title>
+<pages>86-106</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#KirbyCCMDF92</url>
+<cdrom>POS/1992/P086.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Ghelli92" mdate="2014-02-10">
+<author pid="g/GiorgioGhelli">Giorgio Ghelli</author>
+<title>Run-Time Support for Hierarchic Records in Persistent Languages.</title>
+<pages>107-123</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Ghelli92</url>
+<cdrom>POS/1992/P107.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Transactions</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Powell92" mdate="2014-02-10">
+<author pid="42/3282">Malcolm S. Powell</author>
+<title>Transactions</title>
+<pages>124-125</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Powell92</url>
+<cdrom>POS/1992/P124.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FrancescoVMP92" mdate="2014-02-10">
+<author pid="39/4073">Nicoletta De Francesco</author>
+<author pid="69/6885">Gigliola Vaglini</author>
+<author pid="55/6061">Luigi V. Mancini</author>
+<author pid="76/3156">A. Pereira Paz</author>
+<title>Specification of Concurrency Control in Persistent Programming Languages.</title>
+<pages>126-143</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#FrancescoVMP92</url>
+<cdrom>POS/1992/P126.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/DaynesG92" mdate="2014-02-10">
+<author pid="d/LaurentDaynes">Laurent Dayn&#232;s</author>
+<author pid="52/5789">Olivier Gruber</author>
+<title>Nested Actions in Eos.</title>
+<pages>144-163</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#DaynesG92</url>
+<cdrom>POS/1992/P144.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Object Store Implementations</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Rabitti92" mdate="2014-02-10">
+<author pid="60/423">Fausto Rabitti</author>
+<title>Object Store Implementation</title>
+<pages>164-165</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Rabitti92</url>
+<cdrom>POS/1992/P164.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BuhrGW92" mdate="2014-02-10">
+<author pid="b/PeterABuhr">Peter A. Buhr</author>
+<author pid="59/5488">Anil K. Goel</author>
+<author pid="66/6548">Anderson Wai</author>
+<title>&#181;Database: A Toolkit for Constructing Memory Mapped Databases.</title>
+<pages>166-185</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#BuhrGW92</url>
+<cdrom>POS/1992/P166.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/LiveseyA92" mdate="2014-02-10">
+<author pid="l/MikeLivesey">Mike Livesey</author>
+<author pid="28/4128">Colin Allison</author>
+<title>Coherence in Distributed Persistent Object Systems.</title>
+<pages>186-197</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#LiveseyA92</url>
+<cdrom>POS/1992/P186.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ConnorsN92" mdate="2014-02-10">
+<author pid="67/5471">Tim Connors</author>
+<author pid="47/3267">Marie-Anne Neimat</author>
+<title>The Papyrus Object Library.</title>
+<pages>198-215</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#ConnorsN92</url>
+<cdrom>POS/1992/P198.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ConnorAGO92" mdate="2022-05-11">
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="g/GiorgioGhelli">Giorgio Ghelli</author>
+<author pid="o/AtsushiOhori">Atsushi Ohori</author>
+<title>Keynote Discussion Session on Persistent Type Systems.</title>
+<pages>216-221</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#ConnorAGO92</url>
+<cdrom>POS/1992/P216.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Schema Manipulation and Optimization</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Benzaken92" mdate="2014-02-10">
+<author pid="b/VBenzaken">V&#233;ronique Benzaken</author>
+<title>Schema Manipulation and Optimisation</title>
+<pages>222-223</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Benzaken92</url>
+<cdrom>POS/1992/P222.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/AmielBV92" mdate="2014-02-10">
+<author pid="49/6245">Eric Amiel</author>
+<author pid="b/MarieJoBellosta">Marie-Jo Bellosta</author>
+<author pid="v/PatrickValduriez">Patrick Valduriez</author>
+<title>A Model-Independent Object Schema Manager.</title>
+<pages>224-240</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#AmielBV92</url>
+<cdrom>POS/1992/P224.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BertinoF92" mdate="2014-02-10">
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="27/4093">Paola Foscoli</author>
+<title>An Analytical Model of Object-Oriented Query Costs.</title>
+<pages>241-261</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#BertinoF92</url>
+<cdrom>POS/1992/P241.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/HasanK92" mdate="2014-02-10">
+<author pid="30/1809">Waqar Hasan</author>
+<author pid="97/5651">Ravi Krishnamurthy</author>
+<title>PIL: An Optimizable Functional Language for Data Intensive Applications.</title>
+<pages>262-279</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#HasanK92</url>
+<cdrom>POS/1992/P262.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Integrity Constraints and Methodology</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Dearle92" mdate="2014-02-10">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Integrity Constraints and Methodology</title>
+<pages>280-281</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Dearle92</url>
+<cdrom>POS/1992/P280.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BenzakenLR92" mdate="2014-02-10">
+<author pid="b/VBenzaken">V&#233;ronique Benzaken</author>
+<author pid="82/67">Christophe L&#233;cluse</author>
+<author pid="29/2689">Philippe Richard</author>
+<title>Enforcing Integrity Constraints in Database Programming Languages.</title>
+<pages>282-299</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#BenzakenLR92</url>
+<cdrom>POS/1992/P282.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/SpargB92" mdate="2014-02-10">
+<author pid="30/1456">Shane B. Sparg</author>
+<author pid="16/1378">Sonia Bergman</author>
+<title>Semantic Constructs for a Persistent Programming Language.</title>
+<pages>300-316</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#SpargB92</url>
+<cdrom>POS/1992/P300.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Brown92" mdate="2014-02-10">
+<author pid="b/AlfredLBrown">Fred Brown</author>
+<title>Applications</title>
+<pages>317</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Brown92</url>
+<cdrom>POS/1992/P317.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/KeedyB92" mdate="2014-02-10">
+<author pid="89/1100">James Leslie Keedy</author>
+<author pid="95/1928">Peter Br&#246;ssler</author>
+<title>Implementing Databases in the MONADS Virtual Memory.</title>
+<pages>318-338</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#KeedyB92</url>
+<cdrom>POS/1992/P318.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/KaiserC92" mdate="2014-02-10">
+<author pid="26/5339">J&#246;rg Kaiser</author>
+<author pid="44/5586">Karol Czaja</author>
+<title>ACOM: An Access Control Monitor providing Protection in Persistent Object-Oriented Systems.</title>
+<pages>339-351</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#KaiserC92</url>
+<cdrom>POS/1992/P339.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Persistent Programming Practices</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Atkinson92" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Persistent Programming Practices</title>
+<pages>352-353</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Atkinson92</url>
+<cdrom>POS/1992/P352.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BuzatoC92" mdate="2014-02-10">
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<author pid="84/4179">A. Calsavara</author>
+<title>Stabilis: A Case Study in Writing Fault-Tolerant Distributed Applications Using Persistent Objects.</title>
+<pages>354-375</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#BuzatoC92</url>
+<cdrom>POS/1992/P354.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FarkasDKCMC92" mdate="2014-02-10">
+<author pid="91/3786">Alex Farkas</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<title>Persistent Program Construction through Browsing and User Gesture with some Typing.</title>
+<pages>376-393</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#FarkasDKCMC92</url>
+<cdrom>POS/1992/P376.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Garbage Collection and Reachability</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Mancini92" mdate="2014-02-10">
+<author pid="55/6061">Luigi V. Mancini</author>
+<title>Garbage Collection and Reachability</title>
+<pages>394-395</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Mancini92</url>
+<cdrom>POS/1992/P394.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/WolczkoW92" mdate="2014-02-10">
+<author pid="24/2270">Mario Wolczko</author>
+<author pid="50/2319">Ifor Williams</author>
+<title>Multi-level Garbage Collection in a High-Performance Persistent Object System.</title>
+<pages>396-418</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#WolczkoW92</url>
+<cdrom>POS/1992/P396.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Kolodner92" mdate="2014-02-10">
+<author pid="58/1545">Elliot K. Kolodner</author>
+<title>Concurrent Tracking of Stable Objects.</title>
+<pages>419-434</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Kolodner92</url>
+<cdrom>POS/1992/P419.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Welland92" mdate="2014-02-10">
+<author pid="w/RayWelland">Ray Welland</author>
+<title>Keynote Discussion Session on Persistent Software Environments.</title>
+<pages>435-439</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#Welland92</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MitchellR92" mdate="2014-02-10">
+<author pid="86/1150">Gail Mitchell</author>
+<author pid="17/3411">John Rosenberg</author>
+<title>Concluding Remarks</title>
+<pages>440-443</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#MitchellR92</url>
+<cdrom>POS/1992/P440.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+</bht>
+

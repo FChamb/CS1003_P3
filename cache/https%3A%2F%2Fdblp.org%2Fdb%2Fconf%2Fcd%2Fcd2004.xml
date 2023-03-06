@@ -1,0 +1,227 @@
+<bht key="db/conf/cd/cd2004.bht" title="Working Conference on Component Deployment 2004">  
+<h1>2. <ref href="db/conf/cd/index.html">CD</ref> 2004:
+Edinburgh, UK</h1> <dblpcites><r><proceedings key="conf/cd/2004" mdate="2019-05-14">
+<editor pid="57/4166">Wolfgang Emmerich</editor>
+<editor pid="w/AlexanderLWolf">Alexander L. Wolf</editor>
+<title>Component Deployment, Second International Working Conference, CD 2004, Edinburgh, UK, May 20-21, 2004, Proceedings</title>
+<booktitle>Component Deployment</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>3083</volume>
+<publisher>Springer</publisher>
+<year>2004</year>
+<isbn>3-540-22059-3</isbn>
+<ee>https://doi.org/10.1007/b98000</ee>
+<url>db/conf/cd/cd2004.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/Mikic-RakicMBM04" mdate="2017-05-26">
+<author pid="38/6980">Marija Mikic-Rakic</author>
+<author pid="88/4685">Sam Malek</author>
+<author pid="65/194">Nels E. Beckman</author>
+<author pid="65/1728">Nenad Medvidovic</author>
+<title>A Tailorable Environment for Assessing the Quality of Deployment Architectures in Highly Distributed Settings.</title>
+<pages>1-17</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_1</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#Mikic-RakicMBM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/LoquesS04" mdate="2019-10-19">
+<author pid="37/6173">Orlando Loques</author>
+<author orcid="0000-0003-2018-6386" pid="92/4374">Alexandre Sztajnberg</author>
+<title>Customizing Component-Based Architectures by Contract.</title>
+<pages>18-34</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_2</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#LoquesS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/LacourPP04" mdate="2017-05-26">
+<author pid="38/6844">S&#233;bastien Lacour</author>
+<author pid="50/4444">Christian P&#233;rez</author>
+<author pid="19/1558">Thierry Priol</author>
+<title>Deploying CORBA Components on a Computational Grid: General Principles and Early Experiments Using the Globus Toolkit.</title>
+<pages>35-49</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_3</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#LacourPP04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/QuemaBBFFL04" mdate="2019-06-02">
+<author pid="33/2617">Vivien Qu&#233;ma</author>
+<author pid="42/1093">Roland Balter</author>
+<author pid="27/5299">Luc Bellissard</author>
+<author pid="84/3358">David F&#233;liot</author>
+<author pid="90/4582">Andr&#233; Freyssinet</author>
+<author pid="56/2512">Serge Lacourte</author>
+<title>Asynchronous, Hierarchical, and Scalable Deployment of Component-Based Applications.</title>
+<pages>50-64</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_4</ee>
+<ee>https://www.wikidata.org/entity/Q59759035</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#QuemaBBFFL04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/ReverbelBF04" mdate="2018-03-13">
+<author pid="r/FranciscoReverbel">Francisco Reverbel</author>
+<author pid="38/6713">Bill Burke</author>
+<author pid="73/6865">Marc J. Fleury</author>
+<title>Dynamic Deployment of IIOP-Enabled Components in the JBoss Server.</title>
+<pages>65-80</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_5</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#ReverbelBF04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/Hall04" mdate="2017-05-26">
+<author pid="59/5726">Richard S. Hall</author>
+<title>A Policy-Driven Class Loader to Support Deployment in Extensible Frameworks.</title>
+<pages>81-96</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_6</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#Hall04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/ChatleyEM04" mdate="2017-05-26">
+<author pid="82/1502">Robert Chatley</author>
+<author pid="e/SusanEisenbach">Susan Eisenbach</author>
+<author pid="m/JeffMagee">Jeff Magee</author>
+<title>MagicBeans: a Platform for Deploying Plugin Components.</title>
+<pages>97-112</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_7</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#ChatleyEM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/Egyed04" mdate="2017-05-26">
+<author pid="20/5529">Alexander Egyed</author>
+<title>Dynamic Deployment of Executing and Simulating Software Components.</title>
+<pages>113-128</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_8</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#Egyed04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/Sommer04" mdate="2017-05-26">
+<author pid="84/842">Nicolas Le Sommer</author>
+<title>Towards a Dynamic Resource Contractualisation for Software Components.</title>
+<pages>129-143</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_9</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#Sommer04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/EisenbachKS04" mdate="2017-05-26">
+<author pid="e/SusanEisenbach">Susan Eisenbach</author>
+<author pid="27/2795">Dilek Kayhan</author>
+<author pid="49/6550">Chris Sadler</author>
+<title>Keeping Control of Reusable Components.</title>
+<pages>144-158</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_10</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#EisenbachKS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/PaulsH04" mdate="2017-05-26">
+<author pid="77/565">Karl Pauls</author>
+<author pid="59/5726">Richard S. Hall</author>
+<title>Eureka - A Resource Discovery Service for Component Deployment.</title>
+<pages>159-174</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_11</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#PaulsH04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/GrechanikP04" mdate="2017-05-26">
+<author pid="p/MGrechanik">Mark Grechanik</author>
+<author pid="p/DEPerry">Dewayne E. Perry</author>
+<title>Secure Deployment of Components.</title>
+<pages>175-189</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_12</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#GrechanikP04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/LuerH04" mdate="2017-05-26">
+<author pid="44/3207">Chris L&#252;er</author>
+<author pid="h/AndrevanderHoek">Andr&#233; van der Hoek</author>
+<title>JPloy: User-Centric Deployment Support in a Component Platform.</title>
+<pages>190-204</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_13</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#LuerH04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/CutsemMMDD04" mdate="2017-05-26">
+<author pid="20/6382">Tom Van Cutsem</author>
+<author pid="32/6681">Stijn Mostinckx</author>
+<author pid="18/2971">Wolfgang De Meuter</author>
+<author pid="d/JessieDedecker">Jessie Dedecker</author>
+<author pid="d/TheoDHondt">Theo D'Hondt</author>
+<title>On the Performance of SOAP in a Non-trivial Peer-to-Peer Experiment.</title>
+<pages>205-218</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_14</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#CutsemMMDD04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/DearleKMC04" mdate="2017-11-30">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<author pid="49/6878">Juan Carlos Diaz y Carballo</author>
+<title>A Flexible and Secure Deployment Framework for Distributed Applications.</title>
+<pages>219-233</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_15</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#DearleKMC04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cd/MeloCCLB04" mdate="2017-05-26">
+<author pid="57/785">Fabio Melo</author>
+<author pid="16/489">Ricardo Choren</author>
+<author pid="165/3587">Renato Cerqueira</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="19/977">Marcelo Blois</author>
+<title>Deploying Agents with the CORBA Component Model.</title>
+<pages>234-247</pages>
+<ee>https://doi.org/10.1007/978-3-540-24848-4_16</ee>
+<year>2004</year>
+<crossref>conf/cd/2004</crossref>
+<booktitle>Component Deployment</booktitle>
+<url>db/conf/cd/cd2004.html#MeloCCLB04</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

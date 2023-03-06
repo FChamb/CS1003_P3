@@ -1,0 +1,48 @@
+<bht key="db/journals/ai/ai251.bht" title="Artificial Intelligence, Volume 251"> 
+<h1><ref href="db/journals/ai/index.html">Artificial Intelligence</ref>, Volume 251</h1> 
+<h2>Volume 251, October 2017</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/DiazP17" mdate="2017-09-16">
+<author orcid="0000-0003-3458-7383" pid="28/9812">Am&#237;lcar Mata D&#237;az</author>
+<author pid="96/1310">Ram&#243;n Pino P&#233;rez</author>
+<title>Impossibility in belief merging.</title>
+<pages>1-34</pages>
+<year>2017</year>
+<volume>251</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2017.06.003</ee>
+<url>db/journals/ai/ai251.html#DiazP17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/NightingaleAGJM17" mdate="2020-03-27">
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="166/7452">Patrick Spracklen</author>
+<title>Automatically improving constraint models in Savile Row.</title>
+<pages>35-61</pages>
+<year>2017</year>
+<volume>251</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2017.07.001</ee>
+<url>db/journals/ai/ai251.html#NightingaleAGJM17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/SchweringLP17" mdate="2019-10-19">
+<author pid="118/6458">Christoph Schwering</author>
+<author pid="l/GerhardLakemeyer">Gerhard Lakemeyer</author>
+<author orcid="0000-0001-7712-6646" pid="p/MauricePagnucco">Maurice Pagnucco</author>
+<title>Belief revision and projection in the epistemic situation calculus.</title>
+<pages>62-97</pages>
+<year>2017</year>
+<volume>251</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2017.07.004</ee>
+<url>db/journals/ai/ai251.html#SchweringLP17</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

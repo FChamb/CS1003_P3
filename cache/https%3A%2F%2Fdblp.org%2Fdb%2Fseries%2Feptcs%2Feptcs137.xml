@@ -1,0 +1,154 @@
+<bht key="db/series/eptcs/eptcs137.bht" title="PLACES 2013">
+<h1>6th <ref href="db/conf/places/index.html">PLACES</ref> 2013: Rome, Italy</h1>
+
+<dblpcites><r><proceedings key="journals/corr/YoshidaV13" mdate="2020-03-27">
+<editor orcid="0000-0002-3925-8557" pid="29/3650">Nobuko Yoshida</editor>
+<editor pid="11/2815">Wim Vanderbauwhede</editor>
+<title>Proceedings 6th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software, PLACES 2013, Rome, Italy, 23rd March 2013.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<series href="db/series/eptcs/index.html">EPTCS</series>
+<volume>137</volume>
+<url>db/series/eptcs/eptcs137.html</url>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2218</ee>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/Padovani13" mdate="2018-11-02">
+<author orcid="0000-0001-9097-1297" pid="22/6590">Luca Padovani</author>
+<title>From Lock Freedom to Progress Using Session Types.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>3-19</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.2</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2698</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#Padovani13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/GiustoP13" mdate="2020-12-02">
+<author pid="86/6994">Cinzia Di Giusto</author>
+<author orcid="0000-0002-1452-6180" pid="p/JorgeAPerez">Jorge A. P&#233;rez 0001</author>
+<title>Session Types with Runtime Adaptation: Overview and Examples.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>21-32</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.3</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2699</ee>
+<ee>https://www.wikidata.org/entity/Q57652394</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#GiustoP13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/Hirai13" mdate="2018-11-02">
+<author orcid="0000-0003-2076-2750" pid="12/8883">Yoichi Hirai</author>
+<title>Session Types in Abelian Logic.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>33-52</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.4</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2700</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#Hirai13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/BocchiD13" mdate="2018-09-12">
+<author pid="34/1918">Laura Bocchi</author>
+<author pid="80/1611">Romain Demangeon</author>
+<title>Embedding Session Types in HML.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>53-62</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.5</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2701</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#BocchiD13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/Uustalu13" mdate="2018-09-12">
+<author orcid="0000-0002-1297-0579" pid="u/TarmoUustalu">Tarmo Uustalu</author>
+<title>Coinductive Big-Step Semantics for Concurrency.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>63-78</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.6</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2702</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#Uustalu13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/TousimojaradV13" mdate="2018-09-12">
+<author pid="139/1057">Ashkan Tousimojarad</author>
+<author pid="11/2815">Wim Vanderbauwhede</author>
+<title>The Glasgow Parallel Reduction Machine: Programming Shared-memory Many-core Systems using Parallel Task Composition.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>79-94</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.7</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2703</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#TousimojaradV13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/Neykova13" mdate="2022-08-16">
+<author orcid="0000-0002-2755-7728" pid="134/9526">Rumyana Neykova</author>
+<title>Session Types Go Dynamic or How to Verify Your Python Conversations.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>95-102</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.8</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2704</ee>
+<ee>https://www.wikidata.org/entity/Q113249369</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#Neykova13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/MarquesMVNM13" mdate="2018-11-02">
+<author orcid="0000-0002-6980-6868" pid="17/7791">Eduardo R. B. Marques</author>
+<author orcid="0000-0002-2379-7257" pid="12/2993">Francisco Martins</author>
+<author orcid="0000-0002-9539-8861" pid="97/1086">Vasco T. Vasconcelos</author>
+<author pid="44/9716">Nicholas Ng</author>
+<author orcid="0000-0002-3397-6793" pid="02/280">Nuno Martins</author>
+<title>Towards deductive verification of MPI programs against session types.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>103-113</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.9</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2705</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#MarquesMVNM13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/DemeyerV13" mdate="2021-07-25">
+<author pid="79/8292">Romain Demeyer</author>
+<author orcid="0000-0003-3769-6294" pid="76/5242">Wim Vanhoof</author>
+<title>Static Application-Level Race Detection in STM Haskell using Contracts.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>115-134</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.10</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2706</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#DemeyerV13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="journals/corr/DobsonDP13" mdate="2018-09-12">
+<author pid="d/SimonADobson">Simon Dobson</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="59/4160">Barry Porter</author>
+<title>Minimising virtual machine support for concurrency.</title>
+<booktitle>PLACES</booktitle>
+<year>2013</year>
+<pages>135-141</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.137.11</ee>
+<ee type="oa">http://arxiv.org/abs/1312.2707</ee>
+<crossref>journals/corr/YoshidaV13</crossref>
+<url>db/series/eptcs/eptcs137.html#DobsonDP13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+
+</bht>
+

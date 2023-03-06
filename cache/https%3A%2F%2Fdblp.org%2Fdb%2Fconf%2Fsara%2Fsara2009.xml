@@ -1,0 +1,350 @@
+<bht key="db/conf/sara/sara2009.bht" title="SARA 2009">  
+<h1>8. <ref href="db/conf/sara/index.html">SARA</ref> 2009:
+Lake Arrowhead, California, USA</h1><dblpcites><r><proceedings key="conf/sara/2009" mdate="2010-05-09">
+<editor pid="b/VadimBulitko">Vadim Bulitko</editor>
+<editor pid="43/2165">J. Christopher Beck</editor>
+<title>Eighth Symposium on Abstraction, Reformulation, and Approximation, SARA 2009, Lake Arrowhead, California, USA, 8-10 August 2009</title>
+<publisher>AAAI</publisher>
+<booktitle>SARA</booktitle>
+<year>2009</year>
+<url>db/conf/sara/sara2009.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Frontmatter</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sara/X09" mdate="2022-03-08">
+<title>SARA2009 Organization.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/1030</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#X09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/X09a" mdate="2022-03-08">
+<title>Preface.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/1029</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#X09a</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Long Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sara/AbreuG09" mdate="2022-03-08">
+<author pid="00/6243">Rui Abreu 0001</author>
+<author pid="81/3406">Arjan J. C. van Gemund</author>
+<title>A Low-Cost Approximate Minimal Hitting Set Algorithm and its Application to Model-Based Diagnosis.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/834</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#AbreuG09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/AnbulaganG09" mdate="2022-03-08">
+<author pid="a/Anbulagan">Anbulagan</author>
+<author pid="04/3354">Alban Grastien</author>
+<title>Importance of Variables Semantic in CNF Encoding of Cardinality Constraints.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/803</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#AnbulaganG09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/BartakT09" mdate="2022-03-08">
+<author pid="04/5344">Roman Bart&#225;k</author>
+<author pid="71/3605">Daniel Toropila</author>
+<title>Integrating Constraint Models for Sequential and Partial-Order Planning.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/835</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#BartakT09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/BergerG09" mdate="2022-03-08">
+<author pid="90/8061">Nicolas Berger</author>
+<author pid="29/1072">Laurent Granvilliers</author>
+<title>Some Interval Approximation Techniques for MINLP.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/798</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#BergerG09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/CarageaBAH09" mdate="2022-03-08">
+<author pid="40/2098">Doina Caragea</author>
+<author pid="85/2870">Vikas Bahirwani</author>
+<author pid="28/7185">Waleed Aljandal</author>
+<author pid="21/1034">William H. Hsu</author>
+<title>Ontology-Based Link Prediction in the LiveJournal Social Network.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/831</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#CarageaBAH09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/ChenouardGS09" mdate="2022-03-08">
+<author pid="31/2539">Rapha&#235;l Chenouard</author>
+<author pid="29/1072">Laurent Granvilliers</author>
+<author pid="41/5788">Ricardo Soto 0001</author>
+<title>Rewriting Constraint Models with Metamodels.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/786</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#ChenouardGS09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/ChrpaB09" mdate="2022-03-08">
+<author pid="52/604">Luk&#225;s Chrpa</author>
+<author pid="04/5344">Roman Bart&#225;k</author>
+<title>Reformulating Planning Problems by Eliminating Unpromising Actions.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/826</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#ChrpaB09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/EpsteinL09" mdate="2022-03-08">
+<author pid="79/4353">Susan L. Epstein</author>
+<author pid="79/8061-3">Xingjian Li 0003</author>
+<title>Cluster Graphs as Abstractions for Constraint Satisfaction Problems.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/819</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#EpsteinL09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/FeldmanPKKG09" mdate="2022-03-08">
+<author pid="44/4566">Alexander Feldman</author>
+<author pid="81/2894">Gregory M. Provan</author>
+<author pid="d/JohandeKleer">Johan de Kleer</author>
+<author pid="02/4842">Lukas D. Kuhn</author>
+<author pid="81/3406">Arjan J. C. van Gemund</author>
+<title>Automated Redesign with the General Redesign Engine.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/836</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#FeldmanPKKG09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/FelnerS09" mdate="2022-03-08">
+<author pid="43/5063">Ariel Felner</author>
+<author pid="18/991">Nathan R. Sturtevant</author>
+<title>Abstraction-Based Heuristics with True Distance Computations.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/825</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#FelnerS09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/GentMMNH09" mdate="2022-03-08">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="45/5616">Paul McKay</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="99/1504">Sophie Huczynska</author>
+<title>Modelling Equidistant Frequency Permutation Arrays in Constraints.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/818</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#GentMMNH09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/GraylandMR09" mdate="2022-03-08">
+<author pid="08/7407">Andrew Grayland</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="99/6055">Colva M. Roney-Dougal</author>
+<title>Confluence of Reduction Rules for Lexicographic Ordering Constraints.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/832</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#GraylandMR09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/GraylandMR09a" mdate="2022-03-08">
+<author pid="08/7407">Andrew Grayland</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="99/6055">Colva M. Roney-Dougal</author>
+<title>In Search of a Better Method to Break Row and Column Symmetries.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/829</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#GraylandMR09a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/HinrichsKG09" mdate="2022-03-08">
+<author pid="h/TimothyLHinrichs">Timothy L. Hinrichs</author>
+<author pid="70/10302">Eric Jui-Yi Kao</author>
+<author pid="g/MRGenesereth">Michael R. Genesereth</author>
+<title>Inconsistency-Tolerant Reasoning with Classical Logic and Large Databases.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/785</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#HinrichsKG09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/JegouP09" mdate="2022-03-08">
+<author pid="10/6570">Philippe J&#233;gou</author>
+<author pid="72/6834">Lionel Paris</author>
+<title>A New Formula Rewriting by Reasoning on a Graphical Representation of SAT Instances.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/796</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#JegouP09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/RendlMGJ09" mdate="2022-03-08">
+<author pid="38/6313">Andrea Rendl</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<title>Automatically Enhancing Constraint Model Instances during Tailoring.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/824</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#RendlMGJ09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/RendlMGG09" mdate="2022-03-08">
+<author pid="38/6313">Andrea Rendl</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="72/2560">Peter Gregory</author>
+<title>Common Subexpressions in Constraint Models of Planning Problems.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/823</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#RendlMGG09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Revesz09" mdate="2022-03-08">
+<author pid="r/PZRevesz">Peter Z. Revesz</author>
+<title>Tightened Transitive Closure of Integer Addition Constraints.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/833</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#Revesz09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/SrivastavaIZ09" mdate="2022-03-08">
+<author pid="64/3431">Siddharth Srivastava</author>
+<author pid="i/NeilImmerman">Neil Immerman</author>
+<author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author>
+<title>Abstract Planning with Unknown Object Quantities and Properties.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/827</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#SrivastavaIZ09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/TortaD09" mdate="2022-03-08">
+<author pid="41/3800">Gianluca Torta</author>
+<author pid="d/DTDupre">Daniele Theseider Dupr&#233;</author>
+<title>Abductive Problem Solving with Abstractions.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/828</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#TortaD09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/VelevG09" mdate="2022-03-08">
+<author pid="v/MiroslavNVelev">Miroslav N. Velev</author>
+<author pid="94/5361">Ping Gao 0002</author>
+<title>Efficient SAT Techniques for Absolute Encoding of Permutation Problems: Application to Hamiltonian Cycles.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/837</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#VelevG09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/VionD09" mdate="2022-03-08">
+<author pid="95/4925">Julien Vion</author>
+<author pid="30/847">Romuald Debruyne</author>
+<title>Light Algorithms for Maintaining Max-RPC During Search.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/822</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#VionD09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/WaughZJKSB09" mdate="2022-03-08">
+<author pid="96/4074">Kevin Waugh</author>
+<author pid="47/15">Martin Zinkevich</author>
+<author pid="309/6061">Michael Johanson</author>
+<author pid="90/2499">Morgan Kan</author>
+<author pid="27/7115">David Schnizlein</author>
+<author pid="71/5161">Michael H. Bowling</author>
+<title>A Practical Use of Imperfect Recall.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/839</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#WaughZJKSB09</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Short Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sara/AranguSB09" mdate="2022-03-08">
+<author pid="84/29">Marlene Arang&#250;</author>
+<author pid="50/2495">Miguel A. Salido</author>
+<author pid="60/1527">Federico Barber</author>
+<title>2-C3: From Arc-Consistency to 2-Consistency.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/820</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#AranguSB09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/SaittaHZ09" mdate="2022-03-08">
+<author pid="s/LorenzaSaitta">Lorenza Saitta</author>
+<author pid="35/844">Corneliu Henegar</author>
+<author pid="78/2478">Jean-Daniel Zucker</author>
+<title>Abstracting Complex Interaction Networks.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/821</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#SaittaHZ09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/ZillesH09" mdate="2022-03-08">
+<author pid="z/SandraZilles">Sandra Zilles</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<title>Downward Path Preserving State Space Abstractions (Extended Abstract).</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/784</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#ZillesH09</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

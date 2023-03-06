@@ -1,0 +1,1298 @@
+<bht key="db/conf/eScience/eScience2015.bht" title="eScience 2015"> 
+<h1>11th <ref href="db/conf/eScience/index.html">eScience</ref> 2015:
+Munich, Germany</h1> <dblpcites><r><proceedings key="conf/eScience/2015" mdate="2019-10-16">
+<title>11th IEEE International Conference on e-Science, e-Science 2015, Munich, Germany, August 31 - September 4, 2015</title>
+<booktitle>e-Science</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2015</year>
+<isbn>978-1-4673-9325-6</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/7303998/proceeding</ee>
+<ee>https://www.computer.org/csdl/proceedings/e-science/2015/9325/00/index.html</ee>
+<url>db/conf/eScience/eScience2015.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Monday</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/eScience/GuptaGD15" mdate="2022-12-07">
+<author pid="83/9013">Prashant Gupta</author>
+<author orcid="0000-0001-7209-8156" pid="g/MarkGahegan">Mark Gahegan</author>
+<author pid="d/GDobbie">Gillian Dobbie</author>
+<title>Adventures of Categories: Modelling the Evolution of Categories During Scientific Investigation.</title>
+<pages>1-11</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.35</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#GuptaGD15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/Martinez-OrtizK15" mdate="2020-10-25">
+<author orcid="0000-0001-5565-7577" pid="23/7543">Carlos Martinez-Ortiz</author>
+<author orcid="0000-0002-0301-2029" pid="82/1466">Marijn Koolen</author>
+<author pid="170/0219">Floor Buschenhenke</author>
+<author pid="59/11114">Karina van Dalen-Oskam</author>
+<title>Beyond the Book: Linking Books to Wikipedia.</title>
+<pages>12-21</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.12</ee>
+<ee>https://www.wikidata.org/entity/Q87833499</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#Martinez-OrtizK15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/ZwaanLKM15" mdate="2017-06-15">
+<author orcid="0000-0002-8329-7000" pid="69/364">Janneke M. van der Zwaan</author>
+<author pid="170/0180">Inger Leemans</author>
+<author pid="170/0366">Erika Kuijpers</author>
+<author pid="18/33">Isa Maks</author>
+<title>HEEM, a Complex Model for Mining Emotions in Historical Text.</title>
+<pages>22-30</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.18</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#ZwaanLKM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/HastHK15" mdate="2021-10-14">
+<author pid="82/1754">Anders Hast</author>
+<author pid="03/4509">Michael Hanke</author>
+<author orcid="0000-0002-5366-4949" pid="09/8754">Hans O. Karlsson</author>
+<title>Swedish eScience Education - A Graduate School in eScience.</title>
+<pages>31-35</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.19</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#HastHK15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/BarbosaCC15" mdate="2018-11-30">
+<author pid="170/0229">Samuel Barbosa</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto M. Cesar Jr.</author>
+<author pid="27/633">Dan Cosley</author>
+<title>Using Text Similarity to Detect Social Interactions not Captured by Formal Reply Mechanisms.</title>
+<pages>36-46</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.31</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#BarbosaCC15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/VarghesePRS15" mdate="2020-03-27">
+<author pid="32/7786">Blesson Varghese</author>
+<author orcid="0000-0003-3349-2200" pid="121/1434">Javier Prades</author>
+<author orcid="0000-0001-7871-9152" pid="129/5476">Carlos Rea&#241;o</author>
+<author pid="75/3178">Federico Silla</author>
+<title>Acceleration-as-a-Service: Exploiting Virtualised GPUs for a Financial Application.</title>
+<pages>47-56</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.15</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#VarghesePRS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/WerkhovenH15" mdate="2018-11-30">
+<author orcid="0000-0002-7508-3272" pid="49/10949">Ben van Werkhoven</author>
+<author pid="32/10102">Pieter Hijma</author>
+<title>An Integrated Approach to Porting Large Scientific Applications to GPUs.</title>
+<pages>57-66</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.23</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WerkhovenH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/WalshD15" mdate="2018-09-13">
+<author pid="62/3742-1">John Walsh 0001</author>
+<author pid="23/6783">Jonathan Dukes</author>
+<title>Application Support for Virtual GPGPUs in Grid Infrastructures.</title>
+<pages>67-77</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.45</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WalshD15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/CohenCMNAGDS15" mdate="2019-09-25">
+<author pid="25/3538">Jeremy Cohen</author>
+<author orcid="0000-0002-2448-3540" pid="136/6795">Chris D. Cantwell</author>
+<author orcid="0000-0003-2186-8397" pid="135/6246">David Moxey</author>
+<author pid="95/7718">Jeremy Nowell</author>
+<author pid="166/5051">Peter Austing</author>
+<author pid="46/5508">Xu Guo</author>
+<author pid="71/5221">John Darlington</author>
+<author orcid="0000-0001-7681-2820" pid="37/9210">Spencer J. Sherwin</author>
+<title>TemPSS: A Service Providing Software Parameter Templates and Profiles for Scientific HPC.</title>
+<pages>78-87</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.43</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#CohenCMNAGDS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/HunterAWBSBGNBS15" mdate="2021-10-14">
+<author pid="39/4641">Jane Hunter 0001</author>
+<author pid="124/2190">Imran Azeezullah</author>
+<author orcid="0000-0002-8283-6279" pid="75/2130">Nigel Ward</author>
+<author pid="170/0514">Ross Barker</author>
+<author pid="19/987">Tung-Kai Shyy</author>
+<author pid="170/0345">Chris Beer</author>
+<author pid="170/0172">Stuart Girvan</author>
+<author pid="170/0531">Alister Nairn</author>
+<author pid="170/0552">Merry Branson</author>
+<author pid="03/7329">Robert Stimson</author>
+<author pid="170/0358">James Dentrinos</author>
+<author pid="32/9217">Gerson Galang</author>
+<author pid="170/0301">Stewart Wallace</author>
+<author pid="34/10026">Christopher James Pettit</author>
+<title>Enabling SDMX-based Retrieval and Spatio-statistical Analysis of National Census and Related Datasets.</title>
+<pages>88-97</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.9</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#HunterAWBSBGNBS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/ScloccoBN15" mdate="2022-12-07">
+<author orcid="0000-0003-3278-0518" pid="118/5322">Alessio Sclocco</author>
+<author pid="b/HenriEBal">Henri E. Bal</author>
+<author orcid="0000-0002-2947-9444" pid="n/RvNieuwpoort">Rob van Nieuwpoort</author>
+<title>Finding Pulsars in Real-Time.</title>
+<pages>98-107</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.11</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#ScloccoBN15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/McKinneyPVT15" mdate="2020-09-05">
+<author pid="170/0488">Ryan McKinney</author>
+<author pid="62/9082">Vivek K. Pallipuram</author>
+<author orcid="0000-0001-6829-5333" pid="170/0542">Rodrigo Vargas</author>
+<author orcid="0000-0002-0031-6377" pid="52/4034">Michela Taufer</author>
+<title>From HPC Performance to Climate Modeling: Transforming Methods for HPC Predictions into Models of Extreme Climate Conditions.</title>
+<pages>108-117</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.33</ee>
+<ee>https://www.wikidata.org/entity/Q58407139</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#McKinneyPVT15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/MinaTHRKHWMR15" mdate="2019-09-25">
+<author orcid="0000-0002-8972-9206" pid="125/5956">Eleni Mina</author>
+<author pid="15/4274-2">Mark Thompson 0002</author>
+<author orcid="0000-0002-4182-7560" pid="03/7594">Kristina M. Hettne</author>
+<author pid="125/3868">Willeke M. C. van Roon-Mom</author>
+<author pid="95/11030">Rajaram Kaliyaperumal</author>
+<author pid="35/636">Eelke van der Horst</author>
+<author pid="49/5917">Katherine Wolstencroft</author>
+<author orcid="0000-0003-3934-0072" pid="81/3332">Barend Mons</author>
+<author orcid="0000-0002-8691-772X" pid="09/2013">Marco Roos</author>
+<title>Multidisciplinary Collaboration to Facilitate Hypotheses Generation in Huntington's Disease.</title>
+<pages>118-125</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.71</ee>
+<ee>https://www.wikidata.org/entity/Q56509327</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#MinaTHRKHWMR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/Vukojevic-Haupt15" mdate="2017-06-02">
+<author pid="124/2210">Karolina Vukojevic-Haupt</author>
+<author pid="134/9952">Florian Haupt</author>
+<author orcid="0000-0002-9123-259X" pid="l/FrankLeymann">Frank Leymann</author>
+<author pid="170/0256">Lukas Reinfurt</author>
+<title>Bootstrapping Complex Workflow Middleware Systems into the Cloud.</title>
+<pages>126-135</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.69</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#Vukojevic-Haupt15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/ChardCBLMF15" mdate="2017-05-17">
+<author pid="124/2122">Ryan Chard</author>
+<author pid="10/6661">Kyle Chard</author>
+<author pid="56/1124">Kris Bubendorfer</author>
+<author pid="93/6969">Lukasz Lacinski</author>
+<author pid="02/1272">Ravi K. Madduri</author>
+<author pid="f/IanTFoster">Ian T. Foster</author>
+<title>Cost-Aware Cloud Provisioning.</title>
+<pages>136-144</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.67</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#ChardCBLMF15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/NguyenMTDIH15" mdate="2021-04-09">
+<author pid="45/1601">Anthony Nguyen</author>
+<author pid="23/278">Andr&#233;a M. Matsunaga</author>
+<author pid="97/6815">Maur&#237;cio O. Tsugawa</author>
+<author orcid="0000-0001-7159-289X" pid="44/2168">Susumu Date</author>
+<author orcid="0000-0003-0094-3984" pid="98/3731">Kohei Ichikawa</author>
+<author pid="78/3586">Jason H. Haga</author>
+<title>Deployment of a Multi-site Cloud Environment for Molecular Virtual Screenings.</title>
+<pages>145-154</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.49</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#NguyenMTDIH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/WallomTDSN15" mdate="2021-10-14">
+<author orcid="0000-0001-7527-3407" pid="32/1446">David C. H. Wallom</author>
+<author orcid="0000-0003-0527-1435" pid="71/5627">Matteo Turilli</author>
+<author pid="133/8717">Michel Drescher</author>
+<author pid="87/4471">Diego Scardaci</author>
+<author pid="45/6918">Steven Newhouse</author>
+<title>Federating Infrastructure as a Service Cloud Computing Systems to Create a Uniform E-infrastructure for Research.</title>
+<pages>155-164</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.51</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WallomTDSN15</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Tuesday</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/eScience/GoncalvesIAMKMM15" mdate="2020-10-25">
+<author pid="32/935">Romulo Goncalves</author>
+<author pid="i/MilenaIvanova">Milena Ivanova</author>
+<author pid="67/9726">Foteini Alvanaki</author>
+<author orcid="0000-0002-8172-4865" pid="48/2165">Jason Maassen</author>
+<author pid="88/8176">Kostis Kyzirakos</author>
+<author orcid="0000-0002-2970-893X" pid="161/6756">Oscar Martinez-Rubi</author>
+<author pid="25/9489">Hannes M&#252;hleisen</author>
+<title>A Round Table for Multi-disciplinary Research on Geospatial and Climate Data.</title>
+<pages>165-170</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.65</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#GoncalvesIAMKMM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/Villanueva-Rosales15" mdate="2017-05-17">
+<author pid="46/4775">Natalia Villanueva-Rosales</author>
+<author pid="169/3008">Luis Garnica Chavira</author>
+<author pid="143/8904">Nicholas R. Del Rio</author>
+<author pid="25/3849">Deana D. Pennington</author>
+<title>eScience through the Integration of Data and Models: A Biodiversity Scenario.</title>
+<pages>171-176</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.77</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.77</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#Villanueva-Rosales15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/CavotoCVS15" mdate="2017-05-17">
+<author pid="167/9970">Patr&#237;cia Cavoto</author>
+<author pid="170/0200">Victor Cardoso</author>
+<author pid="50/7970">R&#233;gine Vignes-Lebbe</author>
+<author pid="72/3424">Andr&#233; Santanch&#232;</author>
+<title>FishGraph: A Network-Driven Data Analysis.</title>
+<pages>177-186</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.61</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#CavotoCVS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/GoehnerDEMBCAE15" mdate="2019-06-02">
+<author pid="153/5304">Kyle Goehner</author>
+<author pid="35/6938">Travis Desell</author>
+<author pid="164/9690">Rebecca Eckroad</author>
+<author pid="170/0461">Leila Mohsenian</author>
+<author pid="170/0353">Paul Burr</author>
+<author pid="170/0227">Nicolas Caswell</author>
+<author pid="164/9903">Alicia Andes</author>
+<author orcid="0000-0002-4534-0055" pid="153/5230">Susan Ellis-Felege</author>
+<title>A Comparison of Background Subtraction Algorithms for Detecting Avian Nesting Events in Uncontrolled Outdoor Video.</title>
+<pages>187-195</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.10</ee>
+<ee>https://www.wikidata.org/entity/Q59277293</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#GoehnerDEMBCAE15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/WangLXPNTY15" mdate="2019-06-02">
+<author pid="22/335">Yuwei Wang</author>
+<author pid="33/9481">Ze Luo</author>
+<author pid="70/880">Yan Xiong</author>
+<author orcid="0000-0002-5251-1799" pid="155/7382">Diann J. Prosser</author>
+<author pid="170/0421">Scott H. Newman</author>
+<author pid="155/7343">John Y. Takekawa</author>
+<author pid="45/3198">Baoping Yan</author>
+<title>Discovering Loose Group Movement Patterns from Animal Trajectories.</title>
+<pages>196-206</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.30</ee>
+<ee>https://www.wikidata.org/entity/Q59790285</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WangLXPNTY15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/AstsatryanSSSKP15" mdate="2020-10-25">
+<author pid="51/4740">Hrachya V. Astsatryan</author>
+<author pid="170/0547">A. Shakhnazaryan</author>
+<author pid="91/2275">Vladimir Sahakyan</author>
+<author orcid="0000-0001-6037-1565" pid="99/2769">Yuri Shoukourian</author>
+<author pid="170/0276">V. Kotroni</author>
+<author pid="170/0397">Z. Petrosyan</author>
+<author orcid="0000-0003-0009-8899" pid="225/9496">Rita Abrahamyan</author>
+<author pid="170/0505">H. Melkonyan</author>
+<title>WRF-ARW Model for Prediction of High Temperatures in South and South East Regions of Armenia.</title>
+<pages>207-213</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.82</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.82</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#AstsatryanSSSKP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/WallomBBCKPWF15" mdate="2019-10-19">
+<author orcid="0000-0001-7527-3407" pid="32/1446">David C. H. Wallom</author>
+<author orcid="0000-0003-2470-9519" pid="67/7101">Timothy Booth</author>
+<author pid="170/0187">Andy Bowery</author>
+<author pid="170/0238">Ben Collier</author>
+<author pid="170/0298">Phillip Kershaw</author>
+<author pid="170/0378">Anurag Priyam</author>
+<author orcid="0000-0002-3140-2809" pid="36/10622">Yannick Wurm</author>
+<author pid="55/4542">Dawn Field</author>
+<title>Desktop as a Service Supporting Environmental 'omics.</title>
+<pages>214</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.53</ee>
+<ee>https://www.wikidata.org/entity/Q56975371</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WallomBBCKPWF15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/BonacicNV15" mdate="2022-10-02">
+<author orcid="0000-0003-2175-076X" pid="170/0418">Cristian Bonacic</author>
+<author pid="04/4126">Andr&#233;s Neyem</author>
+<author pid="55/9993">Andrea V&#225;squez</author>
+<title>Live ANDES: Mobile-Cloud Shared Workspace for Citizen Science and Wildlife Conservation.</title>
+<pages>215-223</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.64</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.64</ee>
+<ee>https://www.wikidata.org/entity/Q73170957</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#BonacicNV15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/AtkinsonCCCFFGG15" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="51/7437">Michele Carpen&#232;</author>
+<author orcid="0000-0002-3937-4312" pid="69/187">Emanuele Casarotti</author>
+<author pid="138/4853">Steffen Claus</author>
+<author pid="37/4672">Rosa Filgueira</author>
+<author pid="88/4824">Anton Frank</author>
+<author pid="19/5427">Michelle Galea</author>
+<author pid="169/9785">Tom Garth</author>
+<author pid="05/7640">Andr&#233; Gem&#252;nd</author>
+<author orcid="0000-0002-7242-6399" pid="26/5215">Heiner Igel</author>
+<author pid="42/5478">Iraklis A. Klampanos</author>
+<author pid="91/6278">Amrey Krause</author>
+<author orcid="0000-0001-5867-6634" pid="130/7413">Lion Krischer</author>
+<author pid="130/5694">Siew Hoon Leong</author>
+<author pid="130/7444">Federica Magnoni</author>
+<author pid="169/9896">Jonas Matser</author>
+<author orcid="0000-0001-6716-8551" pid="68/7211">Alberto Michelini</author>
+<author pid="130/7421">Andreas Rietbrock</author>
+<author pid="91/6232">Horst Schwichtenberg</author>
+<author pid="127/6423">Alessandro Spinuso</author>
+<author orcid="0000-0002-6085-6498" pid="130/7340">Jean-Pierre Vilotte</author>
+<title>VERCE Delivers a Productive E-science Environment for Seismology Research.</title>
+<pages>224-236</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.38</ee>
+<ee>https://www.wikidata.org/entity/Q59797668</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#AtkinsonCCCFFGG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/XieTEZR15" mdate="2017-06-02">
+<author pid="56/9489">Jie Xie</author>
+<author orcid="0000-0002-8246-7151" pid="69/2114">Michael W. Towsey</author>
+<author pid="151/4809">Philip Eichinski</author>
+<author pid="45/2571">Jinglan Zhang</author>
+<author pid="65/4316">Paul Roe</author>
+<title>Acoustic Feature Extraction Using Perceptual Wavelet Packet Decomposition for Frog Call Classification.</title>
+<pages>237-242</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.47</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#XieTEZR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/AttemaHRSH15" mdate="2021-04-09">
+<author orcid="0000-0002-0948-1176" pid="188/0061">Jisk Attema</author>
+<author pid="289/1340">Bert G. Heusinkveld</author>
+<author pid="289/2142">Reinder J. Ronda</author>
+<author orcid="0000-0002-5922-8179" pid="58/7212">Gert-Jan Steeneveld</author>
+<author orcid="0000-0003-0995-2481" pid="54/7209">Albert A. M. Holtslag</author>
+<title>Summer in the City: Forecasting and Mapping Human Thermal Comfort in Urban Areas.</title>
+<pages>243-248</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.21</ee>
+<ee>https://www.wikidata.org/entity/Q57786048</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#AttemaHRSH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/WiedemannABSK15" mdate="2021-10-14">
+<author orcid="0000-0002-3366-0537" pid="170/0595">Markus Wiedemann</author>
+<author orcid="0000-0002-0878-874X" pid="37/933">Christoph Anthes</author>
+<author pid="02/1397">Hans-Peter Bunge</author>
+<author pid="125/7531">Bernhard S. A. Schuberth</author>
+<author pid="k/DieterKranzlmuller">Dieter Kranzlm&#252;ller</author>
+<title>Transforming Geodata for Immersive Visualisation.</title>
+<pages>249-254</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.80</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WiedemannABSK15</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Session</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/eScience/ProllMR15" mdate="2020-03-27">
+<author pid="133/8773">Stefan Pr&#246;ll</author>
+<author orcid="0000-0003-0424-5999" pid="59/528">Rudolf Mayer</author>
+<author pid="r/AndreasRauber">Andreas Rauber</author>
+<title>Data Access and Reproducibility in Privacy Sensitive eScience Domains.</title>
+<pages>255-258</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.20</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#ProllMR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/FangSOK15" mdate="2017-05-17">
+<author pid="88/3790">Yu Fang</author>
+<author pid="165/9340">Kosuke Sugano</author>
+<author pid="13/6786">Kenta Oku</author>
+<author pid="44/6097">Kyoji Kawagoe</author>
+<title>Applying a Multi-dimensional Time-Series Similarity Method to Typhoon-track Prediction.</title>
+<pages>259-262</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.36</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#FangSOK15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/PadhyBCDDJKKLLM15" mdate="2020-10-25">
+<author pid="24/1481">Smruti Padhy</author>
+<author pid="155/5542">Edgar F. Black</author>
+<author pid="170/0406">Betsy Cowdery</author>
+<author pid="124/2138">Liana Diesendruck</author>
+<author orcid="0000-0002-2324-2518" pid="70/740">Michael C. Dietze</author>
+<author pid="170/0283">Greg Jansen</author>
+<author pid="96/1791">Rob Kooper</author>
+<author orcid="0000-0002-4787-0308" pid="95/448-2">Praveen Kumar 0002</author>
+<author orcid="0000-0002-9635-5687" pid="42/2948">Jong Lee</author>
+<author pid="42/469">Rui Liu</author>
+<author pid="01/5359">Richard Marciano</author>
+<author pid="64/1802">Luigi Marini</author>
+<author pid="156/0171">Dave Mattson</author>
+<author orcid="0000-0001-7981-2973" pid="03/4686">Barbara S. Minsker</author>
+<author pid="92/5046">Chris Navarro</author>
+<author pid="170/0581">Ankit Rai</author>
+<author pid="170/0586">Marcus Slavenas</author>
+<author orcid="0000-0001-5270-8869" pid="179/8132">William C. Sullivan</author>
+<author pid="170/0205">Jason Votava</author>
+<author pid="170/0213">Qina Yan</author>
+<author pid="170/0579">Inna Zharnitsky</author>
+<author pid="88/4303">Kenton McHenry</author>
+<title>Autocuration Cyberinfrastructure for Scientific Discovery and Preservation.</title>
+<pages>264-267</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.60</ee>
+<ee>https://www.wikidata.org/entity/Q59282011</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#PadhyBCDDJKKLLM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/MoscatoLG15" mdate="2017-05-17">
+<author pid="170/0336">Federica Moscato</author>
+<author pid="170/0454">Cristina Leto</author>
+<author pid="170/0497">Paolo Giommi</author>
+<title>Building an Institution Digital Repository: The ASI Science Data Center Bibliography Tool.</title>
+<pages>268-270</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.52</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.52</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#MoscatoLG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/HerreraMCM15" mdate="2020-03-27">
+<author pid="77/8639">Manuel Herrera</author>
+<author orcid="0000-0001-5565-7577" pid="23/7543">Carlos Martinez-Ortiz</author>
+<author pid="170/0447">Patricia Carvalho-Lobato</author>
+<author orcid="0000-0002-4585-4953" pid="170/0419">Maria-Cristina Manzanares-Cespedes</author>
+<title>Classifying Bone Trabecular Volumes Using 3D Shape Descriptors.</title>
+<pages>271-272</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.84</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.84</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#HerreraMCM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/KraussKS15" mdate="2017-05-17">
+<author pid="170/0173">Peter Krauss</author>
+<author pid="94/9675">Tobias Kurze</author>
+<author pid="s/AchimStreit">Achim Streit</author>
+<title>CloudBench - A Framework for Distributed, Self-organizing, Continuous and Topology-aware IaaS Cloud Benchmarking with Super-peer Networks.</title>
+<pages>273-278</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.14</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#KraussKS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/SmirnovI15" mdate="2020-11-09">
+<author pid="124/2303">Pavel A. Smirnov</author>
+<author pid="78/6537">Sergey V. Ivanov</author>
+<title>Computer-Assisted Workflow Composition Based on Virtual Simulation Objects Technology.</title>
+<pages>279-282</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.55</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#SmirnovI15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/SchmidtRS15" mdate="2022-10-02">
+<author pid="50/6445-3">Rainer Schmidt 0003</author>
+<author pid="41/9778">Matthias Rella</author>
+<author orcid="0000-0003-3717-0014" pid="21/10910">Sven Schlarb</author>
+<title>Constructing Scalable Data-Flows on Hadoop with Legacy Components.</title>
+<pages>283</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.16</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#SchmidtRS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/TanakaKSTI15" mdate="2017-05-17">
+<author pid="61/6004">Takanori Tanaka</author>
+<author pid="170/0258">Daisuke Kitao</author>
+<author pid="09/11262">Yuka Sato</author>
+<author pid="81/1325">Yoshimasa Tanaka</author>
+<author pid="57/1471">Daisuke Ikeda</author>
+<title>Forecasting Auroral Substorms from Observed Data with a Supervised Learning Algorithm.</title>
+<pages>284-287</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.48</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#TanakaKSTI15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/MadhavanMXZFSK15" mdate="2020-10-25">
+<author pid="03/6411">Krishna P. C. Madhavan</author>
+<author orcid="0000-0002-5640-4878" pid="170/0051">Daniel F. Mejia</author>
+<author pid="120/5427">Hanjun Xian</author>
+<author pid="21/9881">Lynn K. Zentner</author>
+<author pid="86/10788">Victoria A. Farnsworth</author>
+<author pid="170/0255">Swaroop Samek</author>
+<author orcid="0000-0001-7128-773X" pid="78/1556">Gerhard Klimeck</author>
+<title>Interactive Analytic Systems for Understanding the Scholarly Impact of Large-Scale E-science Cyberenvironments.</title>
+<pages>288-291</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.34</ee>
+<ee>https://www.wikidata.org/entity/Q57367905</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#MadhavanMXZFSK15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/MengB15" mdate="2017-05-17">
+<author pid="170/0216">Zeqian Meng</author>
+<author pid="18/2430">John Brooke</author>
+<title>Negotiation Protocol for Agile and Reliable E-science Collaboration.</title>
+<pages>292-295</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.70</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.70</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#MengB15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/Danciu15" mdate="2017-05-17">
+<author pid="18/1722">Vitalian A. Danciu</author>
+<title>Presenting the Cloud as Files and Directories.</title>
+<pages>296-299</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.24</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#Danciu15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/Martinez-OrtizA15" mdate="2022-10-02">
+<author orcid="0000-0001-5565-7577" pid="23/7543">Carlos Martinez-Ortiz</author>
+<author pid="42/6100">Lora Aroyo</author>
+<author orcid="0000-0003-4691-6586" pid="138/0264">Oana Inel</author>
+<author pid="170/0261">Stavros Champilomatis</author>
+<author orcid="0000-0003-1537-1763" pid="01/10246">Anca Dumitrache</author>
+<author pid="170/0598">Benjamin Timmermans</author>
+<title>Provenance-driven Representation of Crowdsourcing Data for Efficient Data Analysis.</title>
+<pages>300-303</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.63</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#Martinez-OrtizA15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/BuzaloE15" mdate="2017-05-17">
+<author pid="170/0260">Natalia Buzalo</author>
+<author pid="170/0439">Pavel Ermachenko</author>
+<title>Shape Optimisation of Architectural Shell with Algae Photoreactors.</title>
+<pages>304-307</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.83</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.83</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#BuzaloE15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/WollatzCJ15" mdate="2019-09-16">
+<author orcid="0000-0002-8761-7884" pid="170/0390">Lasse Wollatz</author>
+<author pid="76/5357">Simon J. Cox</author>
+<author orcid="0000-0003-3864-7072" pid="139/1474">Steven J. Johnston</author>
+<title>Web-Based Manipulation of Multiresolution Micro-CT Images.</title>
+<pages>308-311</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.42</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WollatzCJ15</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Wednesday</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/eScience/MayerR15" mdate="2020-03-27">
+<author orcid="0000-0003-0424-5999" pid="59/528">Rudolf Mayer</author>
+<author pid="r/AndreasRauber">Andreas Rauber</author>
+<title>A Quantitative Study on the Re-executability of Publicly Shared Scientific Workflows.</title>
+<pages>312-321</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.58</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#MayerR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/OcanaSOM15" mdate="2020-12-21">
+<author orcid="0000-0002-2151-7418" pid="75/2286">Kary A. C. S. Oca&#241;a</author>
+<author pid="90/2984">V&#237;tor Silva 0003</author>
+<author pid="68/7553-1">Daniel de Oliveira 0001</author>
+<author orcid="0000-0002-0870-3371" pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<title>Data Analytics in Bioinformatics: Data Science in Practice for Genomics Analysis Workflows.</title>
+<pages>322-331</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.50</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.50</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#OcanaSOM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/HazekampSCGET15" mdate="2020-03-27">
+<author pid="148/6812">Nicholas L. Hazekamp</author>
+<author pid="170/0436">Joseph Sarro</author>
+<author pid="135/5366">Olivia Choudhury</author>
+<author pid="75/8291">Sandra Gesing</author>
+<author pid="76/2937">Scott J. Emrich</author>
+<author orcid="0000-0001-5218-1956" pid="83/1871">Douglas Thain</author>
+<title>Scaling Up Bioinformatics Workflows with Dynamic Job Expansion: A Case Study Using Galaxy and Makeflow.</title>
+<pages>332-341</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.39</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#HazekampSCGET15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/LiuIYNLSBBBW15" mdate="2022-10-02">
+<author pid="166/6255">Zaoxing Liu</author>
+<author pid="170/0251">Nikita Ivkin</author>
+<author pid="166/6264">Lin Yang 0011</author>
+<author orcid="0000-0002-2618-5790" pid="170/0526">Mark Neyrinck</author>
+<author pid="84/2447">Gerard Lemson</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="14/4758">Vladimir Braverman</author>
+<author orcid="0000-0002-7034-4621" pid="49/161">Tamas Budavari</author>
+<author orcid="0000-0002-2924-1997" pid="b/RandalCBurns">Randal C. Burns</author>
+<author pid="10/5630">Xin Wang</author>
+<title>Streaming Algorithms for Halo Finders.</title>
+<pages>342-351</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.73</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.73</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#LiuIYNLSBBBW15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/GilMRHDDH15" mdate="2022-08-16">
+<author orcid="0000-0001-8465-8341" pid="88/2686">Yolanda Gil</author>
+<author pid="90/77">Felix Michel</author>
+<author pid="93/4525">Varun Ratnakar</author>
+<author pid="73/10762">Matheus Hauder</author>
+<author pid="77/8486">Christopher J. Duffy</author>
+<author orcid="0000-0003-4674-1149" pid="162/7728">Hilary Dugan</author>
+<author pid="193/0068">Paul C. Hanson</author>
+<title>A Task-Centered Framework for Computationally-Grounded Science Collaborations.</title>
+<pages>352-361</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.76</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.76</ee>
+<ee>https://www.wikidata.org/entity/Q112126437</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#GilMRHDDH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/WetterABDMV15" mdate="2020-10-25">
+<author pid="166/7454">James Wetter</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author pid="24/1959">Adam Barker</author>
+<author orcid="0000-0002-3202-0343" pid="170/0202">Martin Dominik</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="32/7786">Blesson Varghese</author>
+<title>Cloud-based E-Infrastructure for Scheduling Astronomical Observations.</title>
+<pages>362-370</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.54</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WetterABDMV15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/GrunzkeAN0HHG15" mdate="2019-09-16">
+<author orcid="0000-0002-1255-5498" pid="123/5138">Richard Grunzke</author>
+<author pid="117/6961">Alvaro Aguilera</author>
+<author pid="66/4013">Wolfgang E. Nagel</author>
+<author orcid="0000-0002-2636-3163" pid="41/3476-2">Jens Kr&#252;ger 0002</author>
+<author orcid="0000-0002-4354-4353" pid="47/8291">Sonja Herres-Pawlis</author>
+<author pid="68/6213">Alexander Hoffmann</author>
+<author pid="75/8291">Sandra Gesing</author>
+<title>Managing Complexity in Distributed Data Life Cycles Enhancing Scientific Discovery.</title>
+<pages>371-380</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.72</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.72</ee>
+<ee>https://www.wikidata.org/entity/Q61875310</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#GrunzkeAN0HHG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/WoodmanHTDW15" mdate="2020-09-15">
+<author pid="81/3471">Simon Woodman</author>
+<author pid="35/741">Hugo Hiden</author>
+<author pid="46/2999-7">Mark Turner 0007</author>
+<author pid="170/0207">Stephen Dowsland</author>
+<author orcid="0000-0001-7629-4760" pid="22/3634-1">Paul Watson 0001</author>
+<title>Monitoring of Upper Limb Rehabilitation and Recovery after Stroke: An Architecture for a Cloud-Based Therapy Platform.</title>
+<pages>381-390</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.29</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#WoodmanHTDW15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/SmowtonCTMX15" mdate="2019-10-15">
+<author pid="03/7968">Christopher Smowton</author>
+<author pid="68/9488">Georgiana Copil</author>
+<author pid="48/6098">Hong Linh Truong 0001</author>
+<author orcid="0000-0003-4341-1283" pid="20/2880">Crispin J. Miller</author>
+<author pid="14/4301">Wei Xing</author>
+<title>Genome Analysis in a Dynamically Scaled Hybrid Cloud.</title>
+<pages>391-400</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.17</ee>
+<ee>https://www.wikidata.org/entity/Q58423012</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#SmowtonCTMX15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/ChardPBATF15" mdate="2019-10-19">
+<author pid="10/6661">Kyle Chard</author>
+<author pid="28/74">Jim Pruyne</author>
+<author orcid="0000-0002-5326-4902" pid="170/0318">Ben Blaiszik</author>
+<author pid="61/600">Rachana Ananthakrishnan</author>
+<author pid="63/5605">Steven Tuecke</author>
+<author pid="f/IanTFoster">Ian T. Foster</author>
+<title>Globus Data Publication as a Service: Lowering Barriers to Reproducible Science.</title>
+<pages>401-410</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.68</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.68</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#ChardPBATF15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/NordlingPNC15" mdate="2022-04-09">
+<author orcid="0000-0003-4867-6707" pid="130/0276">Torbj&#246;rn E. M. Nordling</author>
+<author pid="170/0416">Narendra Padhan</author>
+<author orcid="0000-0003-1758-1262" pid="117/5025">Sven Nelander</author>
+<author pid="170/0594">Lena Claesson-Welsh</author>
+<title>Identification of Biomarkers and Signatures in Protein Data.</title>
+<pages>411-419</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.46</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#NordlingPNC15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/MaheshwariWAKBZ15" mdate="2020-03-27">
+<author pid="95/7551">Ketan Maheshwari</author>
+<author pid="03/4784">Justin M. Wozniak</author>
+<author pid="76/7185">Timothy G. Armstrong</author>
+<author orcid="0000-0001-5934-7525" pid="78/3211">Daniel S. Katz</author>
+<author pid="82/3898">T. Andrew Binkowski</author>
+<author pid="170/0585">Xiaoliang Zhong</author>
+<author orcid="0000-0002-3618-6092" pid="170/0588">Olle Heinonen</author>
+<author pid="170/0429">Dmitry Karpeyev</author>
+<author pid="19/3006">Michael Wilde</author>
+<title>Porting Ordinary Applications to Blue Gene/Q Supercomputers.</title>
+<pages>420-428</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.8</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#MaheshwariWAKBZ15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/ZarnsDND15" mdate="2018-11-14">
+<author pid="170/0548">Kristopher Zarns</author>
+<author pid="35/6938">Travis Desell</author>
+<author pid="170/0242">Sergei Nechaev</author>
+<author pid="170/0600">Archana Dhasarathy</author>
+<title>Searching the Human Genome for Snail and Slug with DNA@Home.</title>
+<pages>429-438</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.27</ee>
+<ee>https://www.wikidata.org/entity/Q36692787</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#ZarnsDND15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/HuangNII15" mdate="2022-04-09">
+<author pid="168/8151">Che Huang</author>
+<author orcid="0000-0002-0294-8597" pid="168/8295">Chawanat Nakasan</author>
+<author orcid="0000-0003-0094-3984" pid="98/3731">Kohei Ichikawa</author>
+<author pid="44/6147">Hajimu Iida</author>
+<title>A Multipath Controller for Accelerating GridFTP Transfer over SDN.</title>
+<pages>439-447</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.37</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#HuangNII15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/ArdestaniHLLSDB15" mdate="2021-10-14">
+<author pid="170/0164">Sarah Berenji Ardestani</author>
+<author pid="170/0508">Carl Johan Hakansson</author>
+<author pid="15/4220">Erwin Laure</author>
+<author pid="25/8852">Ilja Livenson</author>
+<author pid="30/6108">Pavel Stran&#225;k</author>
+<author pid="90/7494">Emanuel Dima</author>
+<author pid="170/0188">Dennis Blommesteijn</author>
+<author orcid="0000-0002-2718-8918" pid="125/3484">Mark van de Sanden</author>
+<title>B2SHARE: An Open eScience Data Sharing Platform.</title>
+<pages>448-453</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.44</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#ArdestaniHLLSDB15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/FilgueiraKAKSS15" mdate="2022-05-11">
+<author pid="37/4672">Rosa Filgueira</author>
+<author pid="91/6278">Amrey Krause</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="42/5478">Iraklis A. Klampanos</author>
+<author pid="127/6423">Alessandro Spinuso</author>
+<author orcid="0000-0002-7510-7633" pid="170/0304">Susana S&#225;nchez-Exp&#243;sito</author>
+<title>dispel4py: An Agile Framework for Data-Intensive eScience.</title>
+<pages>454-464</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.40</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#FilgueiraKAKSS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/UtaSCK15" mdate="2020-03-27">
+<author orcid="0000-0001-5477-2194" pid="154/4519">Alexandru Uta</author>
+<author pid="154/4514">Andreea Sandu</author>
+<author pid="c/StefaniaCostache-2">Stefania Costache 0002</author>
+<author pid="k/ThiloKielmann">Thilo Kielmann</author>
+<title>MemEFS: An Elastic In-memory Runtime File System for eScience Applications.</title>
+<pages>465-474</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.13</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#UtaSCK15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/DayalLESWAK15" mdate="2017-05-17">
+<author pid="58/7671">Jai Dayal</author>
+<author pid="34/6823">Jay F. Lofstead</author>
+<author pid="32/514">Greg Eisenhauer</author>
+<author pid="s/KarstenSchwan">Karsten Schwan</author>
+<author pid="15/434">Matthew Wolf</author>
+<author pid="79/4261">Hasan Abbasi</author>
+<author pid="43/1753">Scott Klasky</author>
+<title>SODA: Science-Driven Orchestration of Data Analytics.</title>
+<pages>475-484</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.59</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#DayalLESWAK15</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>First International Workshop on Interoperable Infrastructures for Interdisciplinary Big Data Sciences (IT4RIs 15)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/eScience/MyersHAPPKMMSVK15" mdate="2019-12-11">
+<author pid="00/5467">James D. Myers</author>
+<author pid="11/5006">Margaret L. Hedstrom</author>
+<author pid="55/9168">Dharma Akmon</author>
+<author orcid="0000-0002-8326-302X" pid="53/5618">Sandy Payette</author>
+<author orcid="0000-0003-2164-8132" pid="54/6437">Beth A. Plale</author>
+<author orcid="0000-0001-9801-2277" pid="92/2322">Inna Kouper</author>
+<author pid="96/6593">D. Scott McCaulay</author>
+<author orcid="0000-0003-4258-0982" pid="21/1041">Robert H. McDonald</author>
+<author pid="134/9435">Isuru Suriarachchi</author>
+<author pid="170/0380">Aravindh Varadharaju</author>
+<author orcid="0000-0002-4787-0308" pid="95/448-2">Praveen Kumar 0002</author>
+<author pid="170/0257">Mostafa Elag</author>
+<author orcid="0000-0002-9635-5687" pid="42/2948">Jong Lee</author>
+<author pid="96/1791">Rob Kooper</author>
+<author pid="64/1802">Luigi Marini</author>
+<title>Towards Sustainable Curation and Preservation: The SEAD Project's Data Services Approach.</title>
+<pages>485-494</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.56</ee>
+<ee>https://www.wikidata.org/entity/Q57771252</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#MyersHAPPKMMSVK15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/McGilvaryAGAGS15" mdate="2022-05-11">
+<author orcid="0000-0002-0964-1440" pid="126/6008">Gary A. McGilvary</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="75/8291">Sandra Gesing</author>
+<author pid="117/6961">Alvaro Aguilera</author>
+<author orcid="0000-0002-1255-5498" pid="123/5138">Richard Grunzke</author>
+<author pid="70/2793">Eva Sciacca</author>
+<title>Enhanced Usability of Managing Workflows in an Industrial Data Gateway.</title>
+<pages>495-502</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.62</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#McGilvaryAGAGS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/ClasseBCD15" mdate="2020-10-25">
+<author pid="232/9208">Tadeu Moreira de Classe</author>
+<author orcid="0000-0002-4888-0778" pid="32/9021">Regina M. M. Braga</author>
+<author pid="30/3085">Fernanda Campos</author>
+<author orcid="0000-0002-3378-015X" pid="63/4089">Jos&#233; Maria Nazar David</author>
+<title>A Semantic Peer to Peer Network to Support e-Science.</title>
+<pages>503-512</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.25</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#ClasseBCD15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/0002GMSCHLJLZ15" mdate="2022-05-17">
+<author pid="92/2442-2">Paul Martin 0002</author>
+<author orcid="0000-0003-4600-9812" pid="50/3218">Paola Grosso</author>
+<author orcid="0000-0003-2195-3997" pid="134/4503">Barbara Magagna</author>
+<author pid="24/8045">Herbert Schentz</author>
+<author pid="32/6098-4">Yin Chen 0004</author>
+<author orcid="0000-0002-0767-4310" pid="28/5263">Alex R. Hardisty</author>
+<author orcid="0000-0001-7433-4431" pid="170/0249">Wouter Los</author>
+<author orcid="0000-0003-4053-7825" pid="j/KeithGJeffery">Keith G. Jeffery</author>
+<author pid="d/CeesTAMdeLaat">Cees de Laat</author>
+<author orcid="0000-0002-6717-9418" pid="81/2506">Zhiming Zhao</author>
+<title>Open Information Linking for Environmental Research Infrastructures.</title>
+<pages>513-520</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.66</ee>
+<ee>https://www.wikidata.org/entity/Q56754946</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#0002GMSCHLJLZ15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/ZhangMCPDDA15" mdate="2017-05-17">
+<author pid="52/323">Qi Zhang</author>
+<author pid="08/6268">Jonathan Mason</author>
+<author pid="170/0309">Morteza Chini</author>
+<author pid="156/1897">Karen Potts</author>
+<author pid="156/1884">Nathan Duncan</author>
+<author pid="145/4076">Delmar B. Davis</author>
+<author pid="78/3305">Hazeline U. Asuncion</author>
+<title>WIP: Provenance Support for Interdisciplinary Research on the North Creek Wetlands.</title>
+<pages>521-528</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.57</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#ZhangMCPDDA15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/BailoJSF15" mdate="2019-09-16">
+<author orcid="0000-0003-0695-4406" pid="75/8226">Daniele Bailo</author>
+<author orcid="0000-0003-4053-7825" pid="j/KeithGJeffery">Keith G. Jeffery</author>
+<author pid="127/6423">Alessandro Spinuso</author>
+<author pid="96/10002">Giuseppe Fiameni</author>
+<title>Interoperability Oriented Architecture: The Approach of EPOS for Solid Earth e-Infrastructures.</title>
+<pages>529-534</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.22</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#BailoJSF15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/HuckJGWP15" mdate="2022-04-09">
+<author pid="169/9758">Patrick Huck</author>
+<author orcid="0000-0001-5893-9967" pid="129/5730">Anubhav Jain</author>
+<author orcid="0000-0002-2779-2744" pid="19/5323">Dan Gunter</author>
+<author pid="169/9684">Donald Winston</author>
+<author pid="163/0839">Kristin A. Persson</author>
+<title>A Community Contribution Framework for Sharing Materials Data with Materials Project.</title>
+<pages>535-541</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.75</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#HuckJGWP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/GiardinaYVV15" mdate="2020-10-25">
+<author pid="129/2575">Antonio Giardina</author>
+<author pid="90/3406-1">Yun Yang 0001</author>
+<author orcid="0000-0001-6984-2060" pid="20/5601">Hai Le Vu</author>
+<author orcid="0000-0003-4805-1467" pid="62/3920">Rajesh Vasa</author>
+<title>Multi-node Multi-agent Cloud Simulation: Approximating Synchronisation.</title>
+<pages>542-550</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.32</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#GiardinaYVV15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/Zhao0GLLJHVCLK15" mdate="2020-12-29">
+<author orcid="0000-0002-6717-9418" pid="81/2506">Zhiming Zhao</author>
+<author pid="92/2442-2">Paul Martin 0002</author>
+<author orcid="0000-0003-4600-9812" pid="50/3218">Paola Grosso</author>
+<author orcid="0000-0001-7433-4431" pid="170/0249">Wouter Los</author>
+<author pid="d/CeesTAMdeLaat">Cees de Laat</author>
+<author pid="170/0534">Keith Jeffrey</author>
+<author orcid="0000-0002-0767-4310" pid="28/5263">Alex R. Hardisty</author>
+<author orcid="0000-0002-8158-8787" pid="170/0500">Alex Vermeulen</author>
+<author pid="23/3970">Donatella Castelli</author>
+<author pid="88/6057">Yannick Legr&#233;</author>
+<author pid="170/0529">Werner Kutsch</author>
+<title>Reference Model Guided System Design and Implementation for Interoperable Environmental Research Infrastructures.</title>
+<pages>551-556</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.41</ee>
+<ee>https://www.wikidata.org/entity/Q56754945</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#Zhao0GLLJHVCLK15</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>First Workshop on E-science ReseaRch leading tO negative Results (ERROR)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/eScience/BastosVG15" mdate="2020-03-27">
+<author pid="19/9518">Bruno Fernandes Bastos</author>
+<author orcid="0000-0002-4888-0778" pid="32/9021">Regina Maria Maciel Braga Villela</author>
+<author orcid="0000-0002-0746-4014" pid="96/1748">Ant&#244;nio Tadeu Azevedo Gomes</author>
+<title>Scientific Workflow Interchanging through Patterns: Reversals and Lessons Learned.</title>
+<pages>557-564</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.26</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#BastosVG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/GroenZ15" mdate="2017-06-15">
+<author orcid="0000-0001-7463-3765" pid="49/2135">Derek Groen</author>
+<author pid="45/529">Simon Portegies Zwart</author>
+<title>From Thread to Transcontinental Computer: Disturbing Lessons in Distributed Supercomputing.</title>
+<pages>565-571</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.81</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#GroenZ15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/CebrianRPA15" mdate="2022-01-03">
+<author orcid="0000-0002-3731-9301" pid="44/7979">Juan M. Cebrian</author>
+<author orcid="0000-0001-5757-1064" pid="82/3556">Alberto Ros</author>
+<author pid="73/6779">Ricardo Fern&#225;ndez Pascual</author>
+<author orcid="0000-0003-0935-4078" pid="15/5905">Manuel E. Acacio</author>
+<title>Early Experiences with Separate Caches for Private and Shared Data.</title>
+<pages>572-579</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.28</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#CebrianRPA15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/eScience/JacksonKS15" mdate="2017-05-17">
+<author pid="40/6111">Gary Jackson</author>
+<author pid="k/PeterJKeleher">Peter J. Keleher</author>
+<author pid="s/AlanSussman">Alan Sussman</author>
+<title>A Ping Too Far: Real World Network Latency Measurement.</title>
+<pages>580-588</pages>
+<year>2015</year>
+<booktitle>e-Science</booktitle>
+<ee>https://doi.org/10.1109/eScience.2015.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eScience.2015.74</ee>
+<crossref>conf/eScience/2015</crossref>
+<url>db/conf/eScience/eScience2015.html#JacksonKS15</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

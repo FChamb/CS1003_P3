@@ -1,0 +1,164 @@
+<bht key="db/conf/aaa-idea/aaa-idea2005.bht" title="Advanced Architectures and Algorithms for Internet Delivery and Applications 2005">  
+<h1>1. <ref href="db/conf/aaa-idea/index.html">AAA-IDEA</ref> 2005:
+Orlando, Florida, USA</h1> <dblpcites><r><proceedings key="conf/aaa-idea/2005" mdate="2019-10-16">
+<title>First International Workshop on Advanced Architectures and Algorithms for Internet Delivery and Applications, AAA-IDEA 2005, Orlando, Florida, USA, June 15, 2005</title>
+<booktitle>AAA-IDEA</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2006</year>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/10996/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/aaa-idea/2005/2525/00/index.html</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html</url>
+<isbn>0-7695-2525-3</isbn>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>CDNs and Overlays</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaa-idea/SivasubramanianPS05" mdate="2020-03-27">
+<author pid="65/4806">Swaminathan Sivasubramanian</author>
+<author pid="63/6649">Guillaume Pierre</author>
+<author orcid="0000-0002-5113-2746" pid="s/MaartenvanSteen">Maarten van Steen</author>
+<title>Autonomic Data Placement Strategies for Update-intensiveWeb applications.</title>
+<pages>2-9</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.4</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.4</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#SivasubramanianPS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaa-idea/ShamsiCB05" mdate="2017-05-22">
+<author pid="37/5723">Jawwad Shamsi</author>
+<author pid="11/4483">Chunbo Chu</author>
+<author pid="40/6845">Monica Brockmeyer</author>
+<title>Towards Partially Synchronous Overlays: Issues and Challenges.</title>
+<pages>10-17</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.17</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#ShamsiCB05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>QoS in Networking Services</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaa-idea/LaiWH05" mdate="2021-10-14">
+<author pid="39/195">Wei-Chu Lai</author>
+<author pid="79/4658">Kuo-Ching Wu</author>
+<author orcid="0000-0003-3670-5080" pid="42/4302">Ting-Chao Hou</author>
+<title>Design and Evaluation of Diffserv Functionalities in the MPLS Edge Router Architecture.</title>
+<pages>18-25</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.5</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.5</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#LaiWH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaa-idea/Valente05" mdate="2017-05-29">
+<author orcid="0000-0002-1842-4974" pid="93/2381">Paolo Valente</author>
+<title>Extending WF^2 Q+ to Support a Dynamic Traffic Mix.</title>
+<pages>26-33</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.7</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.7</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#Valente05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaa-idea/ShiraviKM05" mdate="2017-05-22">
+<author pid="82/4235">Afshin Shiravi</author>
+<author pid="52/2753">Yoon G. Kim</author>
+<author pid="49/653">Paul S. Min</author>
+<title>Proportional Nested Deficit Round Robin: Improving the Latency of Packet Scheduler with an O(1) Complexity.</title>
+<pages>34-41</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.14</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#ShiraviKM05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Novel Infrastructures for Web-Based Services</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaa-idea/BryanLJ05" mdate="2017-05-22">
+<author pid="35/1255">David A. Bryan</author>
+<author pid="41/6063">Bruce Lowekamp</author>
+<author pid="76/7011">Cullen Jennings</author>
+<title>SOSIMPLE: A Serverless, Standards-based, P2P SIP Communication System.</title>
+<pages>42-49</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.15</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#BryanLJ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaa-idea/CanaliCL05" mdate="2018-11-02">
+<author orcid="0000-0001-8448-7693" pid="c/ClaudiaCanali">Claudia Canali</author>
+<author pid="c/SaraCasolari">Sara Casolari</author>
+<author orcid="0000-0002-9470-8784" pid="l/RiccardoLancellotti">Riccardo Lancellotti</author>
+<title>Architectures for scalable and flexible Web personalization services.</title>
+<pages>50-57</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.2</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.2</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#CanaliCL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaa-idea/Stef-Praun05" mdate="2017-05-22">
+<author pid="64/5174">Tiberiu Stef-Praun</author>
+<title>An Extended Service Oriented Architecture forWebServices Adoption through Economic Incentives.</title>
+<pages>58-64</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.1</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.1</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#Stef-Praun05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaa-idea/NorcrossDKW05" mdate="2018-11-14">
+<author pid="75/727">Stuart J. Norcross</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="09/4219">Scott Mervyn Walker</author>
+<title>A Peer-to-Peer Infrastructure for Resilient Web Services.</title>
+<pages>65-72</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.16</ee>
+<ee>https://www.wikidata.org/entity/Q57728866</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#NorcrossDKW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaa-idea/WijnantsMQL05" mdate="2022-04-09">
+<author pid="77/5063">Maarten Wijnants 0001</author>
+<author pid="92/6824">Patrick Monsieurs</author>
+<author orcid="0000-0003-4811-0578" pid="77/1398">Peter Quax</author>
+<author pid="51/4423">Wim Lamotte</author>
+<title>Exploiting Proxy-Based Transcoding to Increase the User Quality of Experience in Networked Applications.</title>
+<pages>73-80</pages>
+<year>2005</year>
+<crossref>conf/aaa-idea/2005</crossref>
+<booktitle>AAA-IDEA</booktitle>
+<ee>https://doi.org/10.1109/AAA-IDEA.2005.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAA-IDEA.2005.6</ee>
+<url>db/conf/aaa-idea/aaa-idea2005.html#WijnantsMQL05</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

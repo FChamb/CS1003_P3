@@ -1,0 +1,227 @@
+<bht key="db/conf/compulog/compulog1999.bht" title="Compulog Workshop: New Trends in Constraints">  
+<h1><ref href="db/conf/compulog/index.html">Compulog Workshop</ref> - New Trends in Constraints 1999:
+Paphos, Cyprus</h1>
+<dblpcites><r><proceedings key="conf/compulog/1999" mdate="2021-02-23">
+<editor pid="a/KRApt">Krzysztof R. Apt</editor>
+<editor pid="k/AntonisCKakas">Antonis C. Kakas</editor>
+<editor pid="29/5834">&#201;ric Monfroy</editor>
+<editor pid="r/FrancescaRossi">Francesca Rossi</editor>
+<title>New Trends in Contraints, Joint ERCIM/Compulog Net Workshop, Paphos, Cyprus, October 25-27, 1999, Selected Papers</title>
+<booktitle>New Trends in Constraints</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1865</volume>
+<publisher>Springer</publisher>
+<year>2000</year>
+<isbn>3-540-67885-9</isbn>
+<ee>https://doi.org/10.1007/3-540-44654-0</ee>
+<url>db/conf/compulog/compulog1999.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+ 
+<h2>Invited Contributions and Surveys</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/compulog/BenhamouGG99" mdate="2017-05-23">
+<author pid="b/FredericBenhamou">Fr&#233;d&#233;ric Benhamou</author>
+<author pid="29/1072">Laurent Granvilliers</author>
+<author pid="11/4268">Fr&#233;d&#233;ric Goualard</author>
+<title>Interval Constraints: Results and Perspectives.</title>
+<pages>1-16</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_1</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#BenhamouGG99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/Codognet99" mdate="2017-05-23">
+<author pid="37/5371">Philippe Codognet</author>
+<title>A Constraint-Based Language for Virtual Agents.</title>
+<pages>17-39</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_2</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#Codognet99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/Rossi99" mdate="2017-05-23">
+<author pid="r/FrancescaRossi">Francesca Rossi</author>
+<title>Constraint (Logic) Programming: A Survey on Research and Applications.</title>
+<pages>40-74</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_3</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#Rossi99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/HentenryckM99" mdate="2017-05-23">
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<title>OPL Script: Composing and Controlling Models.</title>
+<pages>75-90</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_4</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#HentenryckM99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Constraint Propagation and Manipulation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/compulog/Apt99" mdate="2017-05-23">
+<author pid="a/KRApt">Krzysztof R. Apt</author>
+<title>Some Remarks on Boolean Constraint Propagation.</title>
+<pages>91-107</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_5</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#Apt99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/BistarelliCGR99" mdate="2017-06-02">
+<author orcid="0000-0001-7411-9678" pid="53/6380">Stefano Bistarelli</author>
+<author pid="37/5371">Philippe Codognet</author>
+<author pid="38/4768">Yan Georget</author>
+<author pid="r/FrancescaRossi">Francesca Rossi</author>
+<title>Abstracting Soft Constraints.</title>
+<pages>108-133</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_6</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#BistarelliCGR99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/GentSW99" mdate="2019-01-08">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Decomposable Constraints.</title>
+<pages>134-149</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_7</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#GentSW99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/RingeissenM99" mdate="2021-02-23">
+<author pid="r/CRingeissen">Christophe Ringeissen</author>
+<author pid="29/5834">&#201;ric Monfroy</author>
+<title>Generating Propagation Rules for Finite Domains: A Mixed Approach.</title>
+<pages>150-172</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_8</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#RingeissenM99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/SilaghiSF99" mdate="2017-05-23">
+<author pid="s/MariusCalinSilaghi">Marius-Calin Silaghi</author>
+<author pid="s/DjamilaSamHaroud">Djamila Sam-Haroud</author>
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<title>Ways of Maintaining Arc Consistency in Search Using the Cartesian Representation.</title>
+<pages>173-187</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_9</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#SilaghiSF99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Constraint Programming</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/compulog/BahgatA99" mdate="2017-05-23">
+<author pid="22/1605">Reem Bahgat</author>
+<author pid="146/2910">Samir E. AbdelRahman</author>
+<title>Combining Constraint Logic Programming Techniques for Solving Linear Problems.</title>
+<pages>188-211</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_10</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#BahgatA99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/PierroW99" mdate="2017-05-23">
+<author pid="p/AlessandraDiPierro">Alessandra Di Pierro</author>
+<author pid="40/160">Herbert Wiklicky</author>
+<title>Quantitative Observables and Averages in Probabilistic Constraint Programming.</title>
+<pages>212-236</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_11</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#PierroW99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/Bartak99" mdate="2017-05-23">
+<author pid="04/5344">Roman Bart&#225;k</author>
+<title>Dynamic Constraint Models for Planning and Scheduling Problems.</title>
+<pages>237-255</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_12</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#Bartak99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/VandecasteeleDJ99" mdate="2017-05-23">
+<author pid="18/2598">Henk Vandecasteele</author>
+<author pid="d/BartDemoen">Bart Demoen</author>
+<author pid="60/5976">Gerda Janssens</author>
+<title>A Finite Domain CLP Solver on Top of Mercury.</title>
+<pages>256-273</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_13</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#VandecasteeleDJ99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Rule-Based Constraint Programming</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/compulog/DuboisK99" mdate="2017-05-23">
+<author pid="82/1944">Hubert Dubois</author>
+<author pid="k/HKirchner">H&#233;l&#232;ne Kirchner</author>
+<title>Rule Based Programming with Constraints and Strategies.</title>
+<pages>274-297</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_14</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#DuboisK99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/Fruhwirth99" mdate="2017-05-23">
+<author pid="f/TWFruhwirth">Thom W. Fr&#252;hwirth</author>
+<title>Proving Termination of Constraint Solver Programs.</title>
+<pages>298-317</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_15</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#Fruhwirth99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compulog/Wolf99" mdate="2017-05-23">
+<author pid="w/ArminWolf">Armin Wolf</author>
+<title>Projection in Adaptive Constraint Handling.</title>
+<pages>318-338</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_16</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#Wolf99</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

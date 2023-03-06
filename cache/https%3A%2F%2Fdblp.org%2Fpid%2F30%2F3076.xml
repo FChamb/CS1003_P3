@@ -1,0 +1,1656 @@
+<?xml version="1.0"?>
+<dblpperson name="Ian P. Gent" pid="30/3076" n="114">
+<person key="homepages/30/3076" mdate="2023-02-18">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="30/3076">Ian Philip Gent</author>
+<url>https://zbmath.org/authors/?q=ai:gent.ian-philip</url>
+<url>https://mathscinet.ams.org/mathscinet/MRAuthorID/328056</url>
+<url>https://mathgenealogy.org/id.php?id=102697</url>
+<url>https://en.wikipedia.org/wiki/Ian_Gent</url>
+<url>https://orcid.org/0000-0002-5604-7006</url>
+<url>https://www.wikidata.org/entity/Q19560556</url>
+<url>https://id.loc.gov/authorities/names/n2001005918</url>
+</person>
+<r><article key="journals/ai/AkgunFGJMN22" mdate="2022-10-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="51/6077">Alan M. Frisch</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Conjure: Automatic Generation of Constraint Models from Problem Specifications.</title>
+<pages>103751</pages>
+<year>2022</year>
+<volume>310</volume>
+<journal>Artif. Intell.</journal>
+<ee type="oa">https://doi.org/10.1016/j.artint.2022.103751</ee>
+<url>db/journals/ai/ai310.html#AkgunFGJMN22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-13250" mdate="2022-10-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author pid="54/4901">Zeynep Kiziltan</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="55/1790">Andr&#225;s Z. Salamon</author>
+<author pid="304/2839">Felix Ulrich-Oltean</author>
+<title>Automatic Tabulation in Constraint Models.</title>
+<year>2022</year>
+<volume>abs/2202.13250</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.13250</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-13250</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-15040" mdate="2022-10-02">
+<author pid="150/4943">Joan Espasa</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-1011-5894" pid="176/5552">Ruth Hoffmann</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author pid="291/3820">Alice M. Lynch</author>
+<title>Using Small MUSes to Explain How to Solve Pen and Paper Puzzles.</title>
+<year>2021</year>
+<volume>abs/2104.15040</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.15040</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-15040</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-00821" mdate="2022-10-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="51/6077">Alan M. Frisch</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<title>Towards Reformulating Essence Specifications for Robustness.</title>
+<year>2021</year>
+<volume>abs/2111.00821</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.00821</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-00821</url>
+</article>
+</r>
+<r><article key="journals/jintseq/AkgunGKZ19" mdate="2020-03-10">
+<author pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="57/1862">Sergey Kitaev</author>
+<author pid="z/HZantema">Hans Zantema</author>
+<title>Solving Computational Problems in the Theory of Word-Representable Graphs.</title>
+<pages>19.2.5</pages>
+<year>2019</year>
+<volume>22</volume>
+<journal>J. Integer Seq.</journal>
+<number>2</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL22/Kitaev/kitaev11.html</ee>
+<url>db/journals/jintseq/jintseq22.html#AkgunGKZ19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-12314" mdate="2019-07-01">
+<author pid="243/6977">Charlie Blake</author>
+<author pid="30/3076">Ian P. Gent</author>
+<title>The Winnability of Klondike and Many Other Single-Player Card Games.</title>
+<year>2019</year>
+<volume>abs/1906.12314</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.12314</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-12314</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-13430" mdate="2019-10-02">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>CSPLib: Twenty Years On.</title>
+<year>2019</year>
+<volume>abs/1909.13430</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.13430</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-13430</url>
+</article>
+</r>
+<r><article key="journals/tplp/GentMNMPMU18" mdate="2020-03-27">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-6106-4871" pid="119/4841">Ciaran McCreesh</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="25/7125">Neil C. A. Moore</author>
+<author pid="14/3074">Chris Unsworth</author>
+<title>A review of literature on parallel constraint solving.</title>
+<pages>725-758</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S1471068418000340</ee>
+<url>db/journals/tplp/tplp18.html#GentMNMPMU18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/AkgunGJMNS18" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<title>Automatic Discovery and Exploitation of Promising Subproblems for Tabulation.</title>
+<pages>3-12</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_1</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#AkgunGJMNS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/AkgunGJMN18" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Metamorphic Testing of Constraint Solvers.</title>
+<pages>727-736</pages>
+<year>2018</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98334-9_46</ee>
+<crossref>conf/cp/2018</crossref>
+<url>db/conf/cp/cp2018.html#AkgunGJMN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/AkgunAGJMNSSW18" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="222/7924">Saad Attieh</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<author pid="166/7452">Patrick Spracklen</author>
+<author pid="166/7454">James Wetter</author>
+<title>A Framework for Constraint Based Local Search using Essence.</title>
+<pages>1242-1248</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/173</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#AkgunAGJMNSSW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GentJN18" mdate="2019-10-19">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Complexity of n-Queens Completion (Extended Abstract).</title>
+<pages>5608-5611</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/794</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#GentJN18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-10981" mdate="2018-08-13">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="119/4841">Ciaran McCreesh</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="25/7125">Neil C. A. Moore</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="14/3074">Chris Unsworth</author>
+<title>A Review of Literature on Parallel Constraint Solving.</title>
+<year>2018</year>
+<volume>abs/1803.10981</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.10981</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-10981</url>
+</article>
+</r>
+<r><article key="journals/ai/NightingaleAGJM17" mdate="2020-03-27">
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="166/7452">Patrick Spracklen</author>
+<title>Automatically improving constraint models in Savile Row.</title>
+<pages>35-61</pages>
+<year>2017</year>
+<volume>251</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2017.07.001</ee>
+<url>db/journals/ai/ai251.html#NightingaleAGJM17</url>
+</article>
+</r>
+<r><article key="journals/aicom/CaldwellGN17" mdate="2020-10-26">
+<author orcid="0000-0003-4475-8967" pid="38/2172">James L. Caldwell</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Generalized support and formal development of constraint propagators.</title>
+<pages>325-346</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>5</number>
+<ee>https://doi.org/10.3233/AIC-170740</ee>
+<url>db/journals/aicom/aicom30.html#CaldwellGN17</url>
+</article>
+</r>
+<r><article key="journals/jair/GentJN17" mdate="2019-09-25">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Complexity of n-Queens Completion.</title>
+<pages>815-848</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5512</ee>
+<ee>https://www.wikidata.org/entity/Q56047935</ee>
+<url>db/journals/jair/jair59.html#GentJN17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/AkgunGJMN16" mdate="2020-03-27">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Exploiting Short Supports for Improved Encoding of Arbitrary Constraints into SAT.</title>
+<pages>3-12</pages>
+<year>2016</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44953-1_1</ee>
+<crossref>conf/cp/2016</crossref>
+<url>db/conf/cp/cp2016.html#AkgunGJMN16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jintseq/GentKKLN15" mdate="2020-03-10">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="57/1862">Sergey Kitaev</author>
+<author pid="34/5510">Alexander Konovalov 0001</author>
+<author pid="04/794">Steve Linton</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>S-Crucial and Bicrucial Permutations with Respect to Squares.</title>
+<pages>15.6.5</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>J. Integer Seq.</journal>
+<number>6</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL18/Kitaev/kitaev10.html</ee>
+<url>db/journals/jintseq/jintseq18.html#GentKKLN15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HongCGKT15" mdate="2018-08-13">
+<author pid="74/3319">Neil P. Chue Hong</author>
+<author pid="29/5052">Tom Crick</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="42/7865">Lars Kotthoff</author>
+<author pid="80/1670">Kenji Takeda</author>
+<title>Top Tips to Make Your Research Irreproducible.</title>
+<year>2015</year>
+<volume>abs/1504.00062</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.00062</ee>
+<url>db/journals/corr/corr1504.html#HongCGKT15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/CaldwellGN15" mdate="2018-08-13">
+<author pid="38/2172">James L. Caldwell</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Generalized Support and Formal Development of Constraint Propagators.</title>
+<year>2015</year>
+<volume>abs/1504.05846</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.05846</ee>
+<url>db/journals/corr/corr1504.html#CaldwellGN15</url>
+</article>
+</r>
+<r><article key="journals/ai/GentJLMN14" mdate="2020-02-04">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author pid="04/794">Steve Linton</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Generating custom propagators for arbitrary constraints.</title>
+<pages>1-33</pages>
+<year>2014</year>
+<volume>211</volume>
+<journal>Artif. Intell.</journal>
+<ee type="oa">https://doi.org/10.1016/j.artint.2014.03.001</ee>
+<url>db/journals/ai/ai211.html#GentJLMN14</url>
+</article>
+</r>
+<r><article key="journals/constraints/KelseyKJLMNG14" mdate="2021-10-14">
+<author orcid="0000-0002-8091-1458" pid="43/8396">Thomas W. Kelsey</author>
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author pid="53/849">Stephen A. Linton</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<title>Qualitative modelling via constraint programming.</title>
+<pages>163-173</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-014-9158-6</ee>
+<ee>https://www.wikidata.org/entity/Q61442789</ee>
+<url>db/journals/constraints/constraints19.html#KelseyKJLMNG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/GentHJKMNN14" mdate="2021-10-14">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author pid="134/3178">Bilal Syed Hussain</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="150/4953">Glenna F. Nightingale</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Discriminating Instance Generation for Automated Constraint Model Selection.</title>
+<pages>356-365</pages>
+<year>2014</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10428-7_27</ee>
+<crossref>conf/cp/2014</crossref>
+<url>db/conf/cp/cp2014.html#GentHJKMNN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/NightingaleAGJM14" mdate="2017-09-16">
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Automatically Improving Constraint Models in Savile Row through Associative-Commutative Common Subexpression Elimination.</title>
+<pages>590-605</pages>
+<year>2014</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10428-7_43</ee>
+<crossref>conf/cp/2014</crossref>
+<url>db/conf/cp/cp2014.html#NightingaleAGJM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AkgunGJMN14" mdate="2017-09-16">
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Breaking Conditional Symmetry in Automated Constraint Modelling with CONJURE.</title>
+<pages>3-8</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-3</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#AkgunGJMN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ucc/GentK14" mdate="2021-10-14">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<title>Recomputation.org: Experiences of Its First Year and Lessons Learned.</title>
+<pages>968-973</pages>
+<year>2014</year>
+<booktitle>UCC</booktitle>
+<ee>https://doi.org/10.1109/UCC.2014.158</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/UCC.2014.158</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2760120</ee>
+<crossref>conf/ucc/2014</crossref>
+<url>db/conf/ucc/ucc2014.html#GentK14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/NightingaleGJM14" mdate="2018-08-13">
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="30/3076">Ian Philip Gent</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="17/2612">Ian Miguel</author>
+<title>Short and Long Supports for Constraint Propagation.</title>
+<year>2014</year>
+<volume>abs/1402.0559</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1402.0559</ee>
+<url>db/journals/corr/corr1402.html#NightingaleGJM14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ArabasBGGHHHKKMPPRR14" mdate="2021-05-28">
+<author pid="125/2006">Sylwester Arabas</author>
+<author pid="150/6592">Michael R. Bareford</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="150/6587">Benjamin M. Gorman</author>
+<author pid="150/6161">Masih Hajiarabderkani</author>
+<author pid="44/6415">Tristan Henderson</author>
+<author orcid="0000-0002-0444-2661" pid="130/5423">Luke Hutton</author>
+<author pid="34/5510">Alexander Konovalov 0001</author>
+<author pid="42/7865">Lars Kotthoff</author>
+<author pid="119/4841">Ciaran McCreesh</author>
+<author pid="26/10585">Ruma R. Paul</author>
+<author pid="69/1977">Karen E. Petrie</author>
+<author pid="57/6919-1">Abdul Razaq 0001</author>
+<author pid="35/8864">Dani&#235;l Reijsbergen</author>
+<title>An Open and Reproducible Paper on Openness and Reproducibility of Papers in Computational Science.</title>
+<year>2014</year>
+<volume>abs/1408.2123</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1408.2123</ee>
+<url>db/journals/corr/corr1408.html#ArabasBGGHHHKKMPPRR14</url>
+</article>
+</r>
+<r><article key="journals/jair/NightingaleGJM13" mdate="2020-03-27">
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Short and Long Supports for Constraint Propagation.</title>
+<pages>1-45</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3749</ee>
+<url>db/journals/jair/jair46.html#NightingaleGJM13</url>
+</article>
+</r>
+<r><article key="journals/jair/Gent13" mdate="2019-01-21">
+<author pid="30/3076">Ian P. Gent</author>
+<title>Optimal Implementation of Watched Literals and More General Techniques.</title>
+<pages>231-251</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4016</ee>
+<url>db/journals/jair/jair48.html#Gent13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/AkgunFGHJKMN13" mdate="2021-10-14">
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0001-5015-2676" pid="51/6077">Alan M. Frisch</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author pid="134/3178">Bilal Syed Hussain</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Automated Symmetry Breaking and Model Selection in Conjure.</title>
+<pages>107-116</pages>
+<year>2013</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40627-0_11</ee>
+<crossref>conf/cp/2013</crossref>
+<url>db/conf/cp/cp2013.html#AkgunFGHJKMN13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-3674" mdate="2018-08-13">
+<author pid="30/3076">Ian P. Gent</author>
+<title>The Recomputation Manifesto</title>
+<ee type="oa">http://arxiv.org/abs/1304.3674</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.3674</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-3674</url>
+</article>
+</r>
+<r><article key="journals/aicom/GentMM12" mdate="2017-06-05">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="25/7125">Neil C. A. Moore</author>
+<title>An empirical study of learning and forgetting constraints.</title>
+<pages>191-208</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-2012-0524</ee>
+<url>db/journals/aicom/aicom25.html#GentMM12</url>
+</article>
+</r>
+<r><article key="journals/aicom/KotthoffGM12" mdate="2021-10-14">
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>An evaluation of machine learning in algorithm selection for search problems.</title>
+<pages>257-270</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/AIC-2012-0533</ee>
+<url>db/journals/aicom/aicom25.html#KotthoffGM12</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1209-3916" mdate="2018-08-13">
+<author pid="43/8396">Thomas W. Kelsey</author>
+<author pid="42/7865">Lars Kotthoff</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="53/849">Stephen A. Linton</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="30/3076">Ian P. Gent</author>
+<title>Qualitative Modelling via Constraint Programming: Past, Present and Future</title>
+<ee type="oa">http://arxiv.org/abs/1209.3916</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1209.3916</volume>
+<url>db/journals/corr/corr1209.html#abs-1209-3916</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GentK11" mdate="2021-02-18">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="42/7865">Lars Kotthoff</author>
+<title>Reliability of Computational Experiments on Virtualised Hardware.</title>
+<year>2011</year>
+<booktitle>AI for Data Center Management and Cloud Computing</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3806</ee>
+<crossref>conf/aaai/2011cloud</crossref>
+<url>db/conf/aaai/cloud2011.html#GentK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cpaior/Gent11" mdate="2018-06-26">
+<author pid="30/3076">Ian P. Gent</author>
+<title>Propagation in Constraints: How One Thing Leads to Another.</title>
+<pages>2</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-21311-3_2</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#Gent11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/NightingaleGJM11" mdate="2017-09-16">
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Exploiting Short Supports for Generalised Arc Consistency for Arbitrary Constraints.</title>
+<pages>623-628</pages>
+<year>2011</year>
+<booktitle>IJCAI</booktitle>
+<ee>https://doi.org/10.5591/978-1-57735-516-8/IJCAI11-111</ee>
+<crossref>conf/ijcai/2011</crossref>
+<url>db/conf/ijcai/ijcai2011.html#NightingaleGJM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/KotthoffGM11" mdate="2021-02-10">
+<author pid="42/7865">Lars Kotthoff</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="17/2612">Ian Miguel</author>
+<title>A Preliminary Evaluation of Machine Learning in Algorithm Selection for Search Problems.</title>
+<year>2011</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4006</ee>
+<crossref>conf/socs/2011</crossref>
+<url>db/conf/socs/socs2011.html#KotthoffGM11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1106-0240" mdate="2018-08-13">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="88/5461">Josh Singer</author>
+<author pid="26/6224">Alan Smaill</author>
+<title>Backbone Fragility and the Local Search Cost Peak</title>
+<ee type="oa">http://arxiv.org/abs/1106.0240</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1106.0240</volume>
+<url>db/journals/corr/corr1106.html#abs-1106-0240</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1110-6288" mdate="2018-08-13">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="42/7865">Lars Kotthoff</author>
+<title>Reliability of Computational Experiments on Virtualised Hardware</title>
+<ee type="oa">http://arxiv.org/abs/1110.6288</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1110.6288</volume>
+<url>db/journals/corr/corr1110.html#abs-1110-6288</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1110-6290" mdate="2018-08-13">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="42/7865">Lars Kotthoff</author>
+<author pid="17/2612">Ian Miguel</author>
+<title>Modelling Constraint Solver Architecture Design as a Constraint Problem</title>
+<ee type="oa">http://arxiv.org/abs/1110.6290</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1110.6290</volume>
+<url>db/journals/corr/corr1110.html#abs-1110-6290</url>
+</article>
+</r>
+<r><inproceedings key="conf/cp/GentJMN10" mdate="2017-06-02">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Generating Special-Purpose Stateless Propagators for Arbitrary Constraints.</title>
+<pages>206-220</pages>
+<year>2010</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15396-9_19</ee>
+<crossref>conf/cp/2010</crossref>
+<url>db/conf/cp/cp2010.html#GentJMN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GentJKMMNP10" mdate="2021-10-14">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="25/7125">Neil C. A. Moore</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0003-2708-7962" pid="69/1977">Karen E. Petrie</author>
+<title>Learning When to Use Lazy Learning in Constraint Solving.</title>
+<pages>873-878</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-606-5-873</ee>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#GentJKMMNP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/padl/GentMM10" mdate="2017-06-05">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="25/7125">Neil C. A. Moore</author>
+<title>Lazy Explanations for Constraint Propagators.</title>
+<pages>217-233</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_19</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#GentMM10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1005-3502" mdate="2018-08-13">
+<author pid="42/7865">Lars Kotthoff</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="17/2612">Ian Miguel</author>
+<title>Using machine learning to make constraint solver implementation decisions</title>
+<ee type="oa">http://arxiv.org/abs/1005.3502</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1005.3502</volume>
+<url>db/journals/corr/corr1005.html#abs-1005-3502</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1008-4326" mdate="2018-08-13">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="42/7865">Lars Kotthoff</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Machine learning for constraint solver design -- A case study for the alldifferent constraint</title>
+<ee type="oa">http://arxiv.org/abs/1008.4326</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1008.4326</volume>
+<url>db/journals/corr/corr1008.html#abs-1008-4326</url>
+</article>
+</r>
+<r><inproceedings key="conf/sara/GentMMNH09" mdate="2022-03-08">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="45/5616">Paul McKay</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="99/1504">Sophie Huczynska</author>
+<title>Modelling Equidistant Frequency Permutation Arrays in Constraints.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/818</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#GentMMNH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sara/RendlMGG09" mdate="2022-03-08">
+<author pid="38/6313">Andrea Rendl</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="72/2560">Peter Gregory</author>
+<title>Common Subexpressions in Constraint Models of Planning Problems.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/823</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#RendlMGG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sara/RendlMGJ09" mdate="2022-03-08">
+<author pid="38/6313">Andrea Rendl</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<title>Automatically Enhancing Constraint Model Instances during Tailoring.</title>
+<year>2009</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA09/paper/view/824</ee>
+<crossref>conf/sara/2009</crossref>
+<url>db/conf/sara/sara2009.html#RendlMGJ09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cp/2009" mdate="2019-05-14">
+<editor pid="30/3076">Ian P. Gent</editor>
+<title>Principles and Practice of Constraint Programming - CP 2009, 15th International Conference, CP 2009, Lisbon, Portugal, September 20-24, 2009, Proceedings</title>
+<volume>5732</volume>
+<year>2009</year>
+<ee>https://doi.org/10.1007/978-3-642-04244-7</ee>
+<isbn>978-3-642-04243-0</isbn>
+<booktitle>CP</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/cp/cp2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ai/GentNRS08" mdate="2019-01-08">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>Solving quantified constraint satisfaction problems.</title>
+<pages>738-771</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.11.003</ee>
+<url>db/journals/ai/ai172.html#GentNRS08</url>
+</article>
+</r>
+<r><article key="journals/ai/GentMN08" mdate="2017-09-16">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Generalised arc consistency for the AllDifferent constraint: An empirical survey.</title>
+<pages>1973-2000</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1016/j.artint.2008.10.006</ee>
+<url>db/journals/ai/ai172.html#GentMN08</url>
+</article>
+</r>
+<r><article key="journals/aicom/GentJKLMNST07" mdate="2015-05-15">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="43/8396">Tom Kelsey</author>
+<author pid="94/3399">In&#234;s Lynce</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="02/5166">Armagan Tarim</author>
+<title>Search in the patience game 'Black Hole'.</title>
+<pages>211-226</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic405</ee>
+<url>db/journals/aicom/aicom20.html#GentJKLMNST07</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GentJMN07" mdate="2021-02-10">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Data Structures for Generalised Arc Consistency for Extensional Constraints.</title>
+<pages>191-197</pages>
+<year>2007</year>
+<crossref>conf/aaai/2007</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2007.html#GentJMN07</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2007/aaai07-029.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentKLPR07" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="43/8396">Tom Kelsey</author>
+<author pid="53/849">Stephen A. Linton</author>
+<author pid="72/5013">J. Pearson</author>
+<author pid="99/6055">Colva M. Roney-Dougal</author>
+<title>Groupoids and Conditional Symmetry.</title>
+<pages>823-830</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_60</ee>
+<url>db/conf/cp/cp2007.html#GentKLPR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sara/GentMR07" mdate="2017-06-05">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="38/6313">Andrea Rendl</author>
+<title>Tailoring Solver-Independent Constraint Models: A Case Study with Essence' and Minion.</title>
+<pages>184-199</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_16</ee>
+<url>db/conf/sara/sara2007.html#GentMR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentJM06" mdate="2019-10-19">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Watched Literals for Constraint Propagation in Minion.</title>
+<pages>182-197</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_15</ee>
+<url>db/conf/cp/cp2006.html#GentJM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GentJM06" mdate="2012-03-13">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="17/2612">Ian Miguel</author>
+<title>Minion: A Fast Scalable Constraint Solver.</title>
+<pages>98-102</pages>
+<year>2006</year>
+<crossref>conf/ecai/2006</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2006.html#GentJM06</url>
+<ee>http://www.booksonline.iospress.nl/Content/View.aspx?piid=1654</ee>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/fai/GentPP06" mdate="2017-07-12">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2708-7962" pid="69/1977">Karen E. Petrie</author>
+<author pid="p/JFPuget">Jean-Fran&#231;ois Puget</author>
+<title>Symmetry in Constraint Programming.</title>
+<pages>329-376</pages>
+<year>2006</year>
+<booktitle>Handbook of Constraint Programming</booktitle>
+<ee>https://doi.org/10.1016/S1574-6526(06)80014-3</ee>
+<crossref>reference/fai/2</crossref>
+<url>db/reference/fai/fai2.html#GentPP06</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cp/GentKLMMS05" mdate="2019-06-02">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-8091-1458" pid="43/8396">Tom Kelsey</author>
+<author pid="04/794">Steve Linton</author>
+<author pid="73/312">Iain McDonald</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>Conditional Symmetry Breaking.</title>
+<pages>256-270</pages>
+<year>2005</year>
+<crossref>conf/cp/2005</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11564751_21</ee>
+<ee>https://www.wikidata.org/entity/Q61442811</ee>
+<url>db/conf/cp/cp2005.html#GentKLMMS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentKLR05" mdate="2020-10-25">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-8091-1458" pid="43/8396">Tom Kelsey</author>
+<author pid="04/794">Steve Linton</author>
+<author orcid="0000-0002-0532-3349" pid="99/6055">Colva M. Roney-Dougal</author>
+<title>Symmetry and Consistency.</title>
+<pages>271-285</pages>
+<year>2005</year>
+<crossref>conf/cp/2005</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11564751_22</ee>
+<ee>https://www.wikidata.org/entity/Q61442814</ee>
+<url>db/conf/cp/cp2005.html#GentKLR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GentNS05" mdate="2019-08-20">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>QCSP-Solve: A Solver for Quantified Constraint Satisfaction Problems.</title>
+<pages>138-143</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0754.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GentNS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sat/GentR05" mdate="2017-05-23">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<title>Local and Global Complete Solution Learning Methods for QBF.</title>
+<pages>91-106</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_7</ee>
+<url>db/conf/sat/sat2005.html#GentR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cpaior/SmithPG04" mdate="2017-05-17">
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="69/1977">Karen E. Petrie</author>
+<author pid="30/3076">Ian P. Gent</author>
+<title>Models and Symmetry Breaking for 'Peaceable Armies of Queens'.</title>
+<pages>271-286</pages>
+<ee>https://doi.org/10.1007/978-3-540-24664-0_19</ee>
+<year>2004</year>
+<crossref>conf/cpaior/2004</crossref>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2004.html#SmithPG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GentNR04" mdate="2008-11-20">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<title>Encoding Quantified CSPs as Quantified Boolean Formulae.</title>
+<pages>176-180</pages>
+<year>2004</year>
+<crossref>conf/ecai/2004</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2004.html#GentNR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Roney-DougalGKL04" mdate="2004-09-02">
+<author pid="99/6055">Colva M. Roney-Dougal</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="43/8396">Tom Kelsey</author>
+<author pid="04/794">Steve Linton</author>
+<title>Tractable Symmetry Breaking Using Restricted Search Trees.</title>
+<pages>211-215</pages>
+<year>2004</year>
+<crossref>conf/ecai/2004</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2004.html#Roney-DougalGKL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentHKL03" mdate="2019-06-02">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="17/2640">Warwick Harvey</author>
+<author orcid="0000-0002-8091-1458" pid="43/8396">Tom Kelsey</author>
+<author pid="04/794">Steve Linton</author>
+<title>Generic SBDD Using Computational Group Theory.</title>
+<pages>333-347</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_23</ee>
+<ee>https://www.wikidata.org/entity/Q61442817</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GentHKL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentHRS03" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<author pid="38/6117">Kevin Smyth</author>
+<title>Using Stochastic Local Search to Solve Quantified Boolean Formulae.</title>
+<pages>348-362</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_24</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GentHRS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentPSW03" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="181/2862">Wu Wei</author>
+<title>Supertree Construction with Constraint Programming.</title>
+<pages>837-841</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_63</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GentPSW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sat/GentGNRT03" mdate="2022-10-02">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0001-5758-2556" pid="g/EnricoGiunchiglia">Enrico Giunchiglia</author>
+<author pid="42/105">Massimo Narizzano</author>
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<author orcid="0000-0001-9487-331X" pid="35/5174">Armando Tacchella</author>
+<title>Watched Data Structures for QBF Solvers.</title>
+<pages>25-36</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_3</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#GentGNRT03</url>
+</inproceedings>
+</r>
+<r><article key="journals/jar/GentW02" mdate="2020-09-02">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Satisfiability in the Year 2000.</title>
+<pages>99</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>2</number>
+<url>db/journals/jar/jar28.html#GentW02</url>
+<ee>https://doi.org/10.1023/A:1015051815026</ee>
+</article>
+</r>
+<r><inproceedings key="conf/cp/GentHK02" mdate="2019-06-02">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="17/2640">Warwick Harvey</author>
+<author orcid="0000-0002-8091-1458" pid="43/8396">Tom Kelsey</author>
+<title>Groups and Constraints: Symmetry Breaking during Search.</title>
+<pages>415-430</pages>
+<year>2002</year>
+<crossref>conf/cp/2002</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-46135-3_28</ee>
+<ee>https://www.wikidata.org/entity/Q61442820</ee>
+<url>db/conf/cp/cp2002.html#GentHK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Gent02" mdate="2003-11-25">
+<author pid="30/3076">Ian P. Gent</author>
+<title>Arc Consistency in SAT.</title>
+<pages>121-125</pages>
+<year>2002</year>
+<crossref>conf/ecai/2002</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2002.html#Gent02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GentP02" mdate="2003-11-25">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="14/3015">Patrick Prosser</author>
+<title>An Empirical Study of the Stable Marriage Problem with Ties and Incomplete Lists.</title>
+<pages>141-145</pages>
+<year>2002</year>
+<crossref>conf/ecai/2002</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2002.html#GentP02</url>
+</inproceedings>
+</r>
+<r><article key="journals/constraints/GentMPSW01" mdate="2020-03-13">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Random Constraint Satisfaction: Flaws and Structure.</title>
+<pages>345-372</pages>
+<year>2001</year>
+<volume>6</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<url>db/journals/constraints/constraints6.html#GentMPSW01</url>
+<ee>https://doi.org/10.1023/A:1011454308633</ee>
+</article>
+</r>
+<r><article key="journals/tcs/CulbersonG01" mdate="2021-02-17">
+<author pid="56/4455">Joseph C. Culberson</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<title>Frozen development in graph coloring.</title>
+<pages>227-264</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#CulbersonG01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00164-5</ee>
+</article>
+</r>
+<r><inproceedings key="conf/cp/GentIMPS01" mdate="2020-10-13">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="78/6375">Robert W. Irving</author>
+<author pid="m/DManlove">David F. Manlove</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>A Constraint Programming Approach to the Stable Marriage Problem.</title>
+<pages>225-239</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_16</ee>
+<url>db/conf/cp/cp2001.html#GentIMPS01</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/GentSW00" mdate="2019-09-25">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<author orcid="0000-0003-2998-8668" pid="86/2576">Toby Walsh</author>
+<title>Decomposable constraints.</title>
+<pages>133-156</pages>
+<year>2000</year>
+<volume>123</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai123.html#GentSW00</url>
+<ee>https://doi.org/10.1016/S0004-3702(00)00051-5</ee>
+</article>
+</r>
+<r><article key="journals/jair/SingerGS00" mdate="2020-09-05">
+<author orcid="0000-0001-6989-475X" pid="88/5461">Josh Singer</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="26/6224">Alan Smaill</author>
+<title>Backbone Fragility and the Local Search Cost Peak.</title>
+<pages>235-270</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.711</ee>
+<url>db/journals/jair/jair12.html#SingerGS00</url>
+</article>
+</r>
+<r><article key="journals/jar/GentW00" mdate="2020-09-02">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Satisfiability in the Year 2000.</title>
+<pages>1-3</pages>
+<year>2000</year>
+<volume>24</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1/2</number>
+<url>db/journals/jar/jar24.html#GentW00</url>
+<ee>https://doi.org/10.1023/A:1006338702529</ee>
+</article>
+</r>
+<r><article key="journals/tcs/CaldwellGU00" mdate="2021-02-17">
+<author orcid="0000-0003-4475-8967" pid="38/2172">James L. Caldwell</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="25/2855">Judith L. Underwood</author>
+<title>Search algorithms in type theory.</title>
+<pages>55-90</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#CaldwellGU00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00170-X</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/SingerGS00" mdate="2003-06-30">
+<author pid="88/5461">Josh Singer</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="26/6224">Alan Smaill</author>
+<title>Local Search on Random 2+p-SAT.</title>
+<pages>113-117</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#SingerGS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GentS00" mdate="2003-06-30">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>Symmetry Breaking in Constraint Programming.</title>
+<pages>599-603</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#GentS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/CopeGH00" mdate="2003-01-22">
+<author pid="83/4200">Michelle Cope</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="35/4224">Kevin Hammond</author>
+<title>Parallel heuristic search in Haskell.</title>
+<pages>65-76</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#CopeGH00</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/GentW99" mdate="2019-09-25">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2998-8668" pid="86/2576">Toby Walsh</author>
+<title>Paul R. Cohen's Empirical Methods for Artificial Intelligence.</title>
+<pages>285-290</pages>
+<year>1999</year>
+<volume>113</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai113.html#GentW99</url>
+<ee>https://doi.org/10.1016/S0004-3702(99)00056-9</ee>
+</article>
+</r>
+<r><article key="journals/heuristics/Gent99" mdate="2017-06-06">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<title>A Response to &#34;On method overfitting&#34;.</title>
+<pages>109-111</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics5.html#Gent99</url>
+<ee>https://doi.org/10.1023/A:1009625526326</ee>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GentW99" mdate="2021-02-10">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Beyond NP: the QSAT phase transition.</title>
+<pages>648-653</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GentW99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-092.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/GentHPW99" mdate="2021-02-10">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Morphing: Combining Structure and Randomness.</title>
+<pages>654-660</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GentHPW99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-093.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compulog/GentSW99" mdate="2019-01-08">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Decomposable Constraints.</title>
+<pages>134-149</pages>
+<ee>https://doi.org/10.1007/3-540-44654-0_7</ee>
+<year>1999</year>
+<crossref>conf/compulog/1999</crossref>
+<booktitle>New Trends in Constraints</booktitle>
+<url>db/conf/compulog/compulog1999.html#GentSW99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentW99" mdate="2017-05-24">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>CSP<sub>LIB</sub>: A Benchmark Library for Constraints.</title>
+<pages>480-481</pages>
+<year>1999</year>
+<crossref>conf/cp/1999</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp99.html#GentW99</url>
+<ee>https://doi.org/10.1007/978-3-540-48085-3_36</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ci/GentW98" mdate="2020-03-15">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Analysis of Heuristics for Number Partitioning.</title>
+<pages>430-451</pages>
+<year>1998</year>
+<volume>14</volume>
+<journal>Comput. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/0824-7935.00069</ee>
+<ee>https://www.wikidata.org/entity/Q59649944</ee>
+<url>db/journals/ci/ci14.html#GentW98</url>
+</article>
+</r>
+<r><article key="journals/heuristics/Gent98" mdate="2017-05-18">
+<author pid="30/3076">Ian P. Gent</author>
+<title>Heuristic Solution of Open Bin Packing Problems.</title>
+<pages>299-304</pages>
+<year>1998</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>4</number>
+<url>db/journals/heuristics/heuristics3.html#Gent98</url>
+<ee>https://doi.org/10.1023/A:1009678411503</ee>
+</article>
+</r>
+<r><article key="journals/ipl/FrankGW98" mdate="2017-05-26">
+<author pid="32/67">Jeremy Frank</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Asymptotic and Finite Size Parameters for Phase Transitions: Hamiltonian Circuit as a Case Study.</title>
+<pages>241-245</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#FrankGW98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00222-6</ee>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GentMPW97" mdate="2021-02-10">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Scaling of Search Cost.</title>
+<pages>315-320</pages>
+<year>1997</year>
+<crossref>conf/aaai/1997</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai97.html#GentMPW97</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1997/aaai97-049.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentU97" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="25/2855">Judith L. Underwood</author>
+<title>The Logic of Search Algorithms: Theory and Applications.</title>
+<pages>77-91</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#GentU97</url>
+<ee>https://doi.org/10.1007/BFb0017431</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentMPW97" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Constrainedness of Arc Consistency.</title>
+<pages>327-340</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#GentMPW97</url>
+<ee>https://doi.org/10.1007/BFb0017449</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/GentW97" mdate="2019-08-20">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>From Approximate to Optimal Solutions: Constructing Pruning and Propagation Rules.</title>
+<pages>1396-1401</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#GentW97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/087.pdf</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ai/GentW96a" mdate="2019-09-25">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2998-8668" pid="86/2576">Toby Walsh</author>
+<title>The Satisfiability Constraint Gap.</title>
+<pages>59-80</pages>
+<year>1996</year>
+<volume>81</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai81.html#GentW96a</url>
+<ee>https://doi.org/10.1016/0004-3702(95)00047-X</ee>
+</article>
+</r>
+<r><article key="journals/ai/GentW96" mdate="2019-09-25">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2998-8668" pid="86/2576">Toby Walsh</author>
+<title>The TSP Phase Transition.</title>
+<pages>349-358</pages>
+<year>1996</year>
+<volume>88</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai88.html#GentW96</url>
+<ee>https://doi.org/10.1016/S0004-3702(96)00030-6</ee>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GentMPW96" mdate="2012-12-11">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Constrainedness of Search.</title>
+<pages>246-252</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#GentMPW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-037.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/ClarkFGMTW96" mdate="2017-05-17">
+<author pid="22/6068">David A. Clark</author>
+<author pid="32/67">Jeremy Frank</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="92/4603">Neven Tomov</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Local Search and the Number of Solutions.</title>
+<pages>119-133</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#ClarkFGMTW96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_70</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/gentMPSW96" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>An Empirical Study of Dynamic Variable Ordering Heuristics for the Constraint Satisfaction Problem.</title>
+<pages>179-193</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#gentMPSW96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_74</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GentW96" mdate="2002-01-03">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Phase Transitions and Annealed Theories: Number Partitioning as a Case Study.</title>
+<pages>170-174</pages>
+<year>1996</year>
+<crossref>conf/ecai/1996</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai96.html#GentW96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/GentMPW95" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Scaling Effects in the CSP Phase Transition.</title>
+<pages>70-87</pages>
+<year>1995</year>
+<crossref>conf/cp/1995</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp95.html#GentMPW95</url>
+<ee>https://doi.org/10.1007/3-540-60299-2_5</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ai/GentW94" mdate="2019-09-25">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2998-8668" pid="86/2576">Toby Walsh</author>
+<title>Easy Problems are Sometimes Hard.</title>
+<pages>335-345</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#GentW94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90109-0</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ecai/GentW94" mdate="2019-07-31">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The SAT Phase Transition.</title>
+<pages>105-109</pages>
+<year>1994</year>
+<crossref>conf/ecai/1994</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai94.html#GentW94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ki/GentW94" mdate="2017-05-20">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Hardest Random SAT Problems.</title>
+<pages>355-366</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#GentW94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_31</ee>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Gent93" mdate="2022-04-05">
+<author pid="30/3076">Ian Philip Gent</author>
+<title>Analytic proof systems for classical and modal logics of restricted quantification.</title>
+<year>1993</year>
+<school>University of Warwick, Coventry, UK</school>
+<ee>http://wrap.warwick.ac.uk/60928/</ee>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.364165</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article key="journals/jair/GentW93" mdate="2019-01-21">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>An Empirical Analysis of Search in GSAT.</title>
+<pages>47-59</pages>
+<year>1993</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#GentW93</url>
+<ee type="oa">https://doi.org/10.1613/jair.7</ee>
+</article>
+</r>
+<r><article key="journals/sLogica/Gent93" mdate="2020-09-01">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<title>Theory matrices (for modal logics) Using alphabetical monotonicity.</title>
+<pages>233-258</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#Gent93</url>
+<ee>https://doi.org/10.1007/BF01058390</ee>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GentW93" mdate="2012-12-11">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Towards an Understanding of Hill-Climbing Procedures for SAT.</title>
+<pages>28-33</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#GentW93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-005.php</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-AI-9309101" mdate="2020-01-10">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>An Empirical Analysis of Search in GSAT</title>
+<ee type="oa">https://arxiv.org/abs/cs/9309101</ee>
+<year>1993</year>
+<journal>CoRR</journal>
+<volume>cs.AI/9309101</volume>
+<url>db/journals/corr/corr9309.html#cs-AI-9309101</url>
+</article>
+</r>
+<r><article key="journals/ndjfl/Gent92" mdate="2020-05-21">
+<author pid="30/3076">Ian P. Gent</author>
+<title>A Sequent- or Tableau-style System for Lewis's Counterfactual Logic VC.</title>
+<pages>369-382</pages>
+<year>1992</year>
+<volume>33</volume>
+<journal>Notre Dame J. Formal Log.</journal>
+<number>3</number>
+<url>db/journals/ndjfl/ndjfl33.html#Gent92</url>
+<ee>https://doi.org/10.1305/ndjfl/1093634402</ee>
+</article>
+</r>
+<coauthors n="75" nc="2">
+<co c="0" n="2"><na f="a/Akg=uuml=n:=Ouml=zg=uuml=r" pid="35/9923">&#214;zg&#252;r Akg&#252;n</na><na>Ozgur Akgun</na></co>
+<co c="0"><na f="a/Arabas:Sylwester" pid="125/2006">Sylwester Arabas</na></co>
+<co c="0"><na f="a/Attieh:Saad" pid="222/7924">Saad Attieh</na></co>
+<co c="0"><na f="b/Bareford:Michael_R=" pid="150/6592">Michael R. Bareford</na></co>
+<co c="-1"><na f="b/Blake:Charlie" pid="243/6977">Charlie Blake</na></co>
+<co c="0"><na f="c/Caldwell:James_L=" pid="38/2172">James L. Caldwell</na></co>
+<co c="0"><na f="c/Clark:David_A=" pid="22/6068">David A. Clark</na></co>
+<co c="0"><na f="c/Cope:Michelle" pid="83/4200">Michelle Cope</na></co>
+<co c="0"><na f="c/Crick:Tom" pid="29/5052">Tom Crick</na></co>
+<co c="-1"><na f="c/Culberson:Joseph_C=" pid="56/4455">Joseph C. Culberson</na></co>
+<co c="0"><na f="e/Espasa:Joan" pid="150/4943">Joan Espasa</na></co>
+<co c="0"><na f="f/Frank:Jeremy" pid="32/67">Jeremy Frank</na></co>
+<co c="0"><na f="f/Frisch:Alan_M=" pid="51/6077">Alan M. Frisch</na></co>
+<co c="0"><na f="g/Giunchiglia:Enrico" pid="g/EnricoGiunchiglia">Enrico Giunchiglia</na></co>
+<co c="0"><na f="g/Gorman:Benjamin_M=" pid="150/6587">Benjamin M. Gorman</na></co>
+<co c="0"><na f="g/Gregory:Peter" pid="72/2560">Peter Gregory</na></co>
+<co c="0"><na f="h/Hajiarabderkani:Masih" pid="150/6161">Masih Hajiarabderkani</na></co>
+<co c="0"><na f="h/Hammond:Kevin" pid="35/4224">Kevin Hammond</na></co>
+<co c="0"><na f="h/Harvey:Warwick" pid="17/2640">Warwick Harvey</na></co>
+<co c="0"><na f="h/Henderson:Tristan" pid="44/6415">Tristan Henderson</na></co>
+<co c="0"><na f="h/Hoffmann:Ruth" pid="176/5552">Ruth Hoffmann</na></co>
+<co c="0"><na f="h/Hong:Neil_P=_Chue" pid="74/3319">Neil P. Chue Hong</na></co>
+<co c="0"><na f="h/Hoos:Holger_H=" pid="h/HolgerHHoos">Holger H. Hoos</na></co>
+<co c="0"><na f="h/Huczynska:Sophie" pid="99/1504">Sophie Huczynska</na></co>
+<co c="0"><na f="h/Hussain:Bilal_Syed" pid="134/3178">Bilal Syed Hussain</na></co>
+<co c="0"><na f="h/Hutton:Luke" pid="130/5423">Luke Hutton</na></co>
+<co c="0"><na f="i/Irving:Robert_W=" pid="78/6375">Robert W. Irving</na></co>
+<co c="0"><na f="j/Jefferson:Christopher" pid="03/5951">Christopher Jefferson</na></co>
+<co c="0" n="2"><na f="k/Kelsey:Thomas_W=" pid="43/8396">Thomas W. Kelsey</na><na>Tom Kelsey</na></co>
+<co c="0"><na f="k/Kitaev:Sergey" pid="57/1862">Sergey Kitaev</na></co>
+<co c="0"><na f="k/Kiziltan:Zeynep" pid="54/4901">Zeynep Kiziltan</na></co>
+<co c="0" n="2"><na f="k/Konovalov:Olexandr" pid="34/5510">Olexandr Konovalov</na><na>Alexander Konovalov 0001</na></co>
+<co c="0"><na f="k/Kotthoff:Lars" pid="42/7865">Lars Kotthoff</na></co>
+<co c="0"><na f="l/Linton:Stephen_A=" pid="53/849">Stephen A. Linton</na></co>
+<co c="0"><na f="l/Linton:Steve" pid="04/794">Steve Linton</na></co>
+<co c="0"><na f="l/Lynce:In=ecirc=s" pid="94/3399">In&#234;s Lynce</na></co>
+<co c="0"><na f="l/Lynch:Alice_M=" pid="291/3820">Alice M. Lynch</na></co>
+<co c="0"><na f="m/MacIntyre:Ewan" pid="04/3968">Ewan MacIntyre</na></co>
+<co c="0"><na f="m/Manlove:David_F=" pid="m/DManlove">David F. Manlove</na></co>
+<co c="0"><na f="m/McCreesh:Ciaran" pid="119/4841">Ciaran McCreesh</na></co>
+<co c="0"><na f="m/McDonald:Iain" pid="73/312">Iain McDonald</na></co>
+<co c="0"><na f="m/McKay:Paul" pid="45/5616">Paul McKay</na></co>
+<co c="0"><na f="m/Miguel:Ian" pid="17/2612">Ian Miguel</na></co>
+<co c="0"><na f="m/Moore:Neil_C=_A=" pid="25/7125">Neil C. A. Moore</na></co>
+<co c="0"><na f="n/Narizzano:Massimo" pid="42/105">Massimo Narizzano</na></co>
+<co c="0"><na f="n/Nightingale:Glenna_F=" pid="150/4953">Glenna F. Nightingale</na></co>
+<co c="0"><na f="n/Nightingale:Peter" pid="n/PeterNightingale">Peter Nightingale</na></co>
+<co c="0"><na f="p/Paul:Ruma_R=" pid="26/10585">Ruma R. Paul</na></co>
+<co c="0"><na f="p/Pearson:J=" pid="72/5013">J. Pearson</na></co>
+<co c="0"><na f="p/Petrie:Karen_E=" pid="69/1977">Karen E. Petrie</na></co>
+<co c="0"><na f="p/Prosser:Patrick" pid="14/3015">Patrick Prosser</na></co>
+<co c="0"><na f="p/Puget:Jean=Fran=ccedil=ois" pid="p/JFPuget">Jean-Fran&#231;ois Puget</na></co>
+<co c="0"><na f="r/Razaq_0001:Abdul" pid="57/6919-1">Abdul Razaq 0001</na></co>
+<co c="0"><na f="r/Reijsbergen:Dani=euml=l" pid="35/8864">Dani&#235;l Reijsbergen</na></co>
+<co c="0"><na f="r/Rendl:Andrea" pid="38/6313">Andrea Rendl</na></co>
+<co c="0"><na f="r/Roney=Dougal:Colva_M=" pid="99/6055">Colva M. Roney-Dougal</na></co>
+<co c="0" n="2"><na f="r/Rowley:Andrew" pid="93/6320">Andrew Rowley</na><na>Andrew G. D. Rowley</na></co>
+<co c="0"><na f="s/Salamon:Andr=aacute=s_Z=" pid="55/1790">Andr&#225;s Z. Salamon</na></co>
+<co c="1"><na f="s/Singer:Josh" pid="88/5461">Josh Singer</na></co>
+<co c="1"><na f="s/Smaill:Alan" pid="26/6224">Alan Smaill</na></co>
+<co c="0"><na f="s/Smith:Barbara_M=" pid="s/BarbaraMSmith">Barbara M. Smith</na></co>
+<co c="0"><na f="s/Smyth:Kevin" pid="38/6117">Kevin Smyth</na></co>
+<co c="0"><na f="s/Spracklen:Patrick" pid="166/7452">Patrick Spracklen</na></co>
+<co c="0"><na f="s/Stergiou_0001:Kostas" pid="97/3237">Kostas Stergiou 0001</na></co>
+<co c="0"><na f="t/Tacchella:Armando" pid="35/5174">Armando Tacchella</na></co>
+<co c="0"><na f="t/Takeda:Kenji" pid="80/1670">Kenji Takeda</na></co>
+<co c="0"><na f="t/Tarim:Armagan" pid="02/5166">Armagan Tarim</na></co>
+<co c="0"><na f="t/Tomov:Neven" pid="92/4603">Neven Tomov</na></co>
+<co c="0"><na f="u/Ulrich=Oltean:Felix" pid="304/2839">Felix Ulrich-Oltean</na></co>
+<co c="0"><na f="u/Underwood:Judith_L=" pid="25/2855">Judith L. Underwood</na></co>
+<co c="0"><na f="u/Unsworth:Chris" pid="14/3074">Chris Unsworth</na></co>
+<co c="0"><na f="w/Walsh:Toby" pid="86/2576">Toby Walsh</na></co>
+<co c="0"><na f="w/Wei:Wu" pid="181/2862">Wu Wei</na></co>
+<co c="0"><na f="w/Wetter:James" pid="166/7454">James Wetter</na></co>
+<co c="0"><na f="z/Zantema:Hans" pid="z/HZantema">Hans Zantema</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,302 @@
+<bht key="db/journals/jair/jair48.bht" title="Journal of Artificial Intelligence Research, Volume 48"> 
+<h1><ref href="db/journals/jair/index.html">Journal of Artificial Intelligence Research</ref>, Volume 48</h1> 
+<h2>Volume 48, September 2013</h2> 
+<dblpcites><r style="ee"><article key="journals/jair/AlabbasR13" mdate="2019-01-21">
+<author pid="97/10489">Maytham Alabbas</author>
+<author pid="03/1543">Allan Ramsay</author>
+<title>Natural Language Inference for Arabic Using Extended Tree Edit Distance with Subtrees.</title>
+<pages>1-22</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3892</ee>
+<url>db/journals/jair/jair48.html#AlabbasR13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/YuanM13" mdate="2019-01-21">
+<author pid="49/3154">Changhe Yuan</author>
+<author pid="28/7214">Brandon M. Malone</author>
+<title>Learning Optimal Bayesian Networks: A Shortest Path Perspective.</title>
+<pages>23-65</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4039</ee>
+<url>db/journals/jair/jair48.html#YuanM13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/RoijersVWD13" mdate="2022-06-23">
+<author orcid="0000-0002-2825-2491" pid="116/9425">Diederik M. Roijers</author>
+<author pid="v/PeterVamplew">Peter Vamplew 0001</author>
+<author pid="42/2548">Shimon Whiteson</author>
+<author pid="30/1736">Richard Dazeley</author>
+<title>A Survey of Multi-Objective Sequential Decision-Making.</title>
+<pages>67-113</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3987</ee>
+<url>db/journals/jair/jair48.html#RoijersVWD13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/CaliGK13" mdate="2019-01-21">
+<author pid="c/AndreaCali">Andrea Cal&#236;</author>
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="k/MichaelKifer">Michael Kifer</author>
+<title>Taming the Infinite Chase: Query Answering under Expressive Relational Constraints.</title>
+<pages>115-174</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3873</ee>
+<url>db/journals/jair/jair48.html#CaliGK13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/RobuGSPRJ13" mdate="2021-10-14">
+<author orcid="0000-0002-9280-2072" pid="40/5122">Valentin Robu</author>
+<author pid="g/EnricoGerding">Enrico H. Gerding</author>
+<author pid="06/1681-1">Sebastian Stein 0001</author>
+<author pid="p/DavidCParkes">David C. Parkes</author>
+<author pid="37/4849">Alex Rogers</author>
+<author pid="j/NicholasRJennings">Nick R. Jennings</author>
+<title>An Online Mechanism for Multi-Unit Demand and its Application to Plug-in Hybrid Electric Vehicle Charging.</title>
+<pages>175-230</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4064</ee>
+<url>db/journals/jair/jair48.html#RobuGSPRJ13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Gent13" mdate="2019-01-21">
+<author pid="30/3076">Ian P. Gent</author>
+<title>Optimal Implementation of Watched Literals and More General Techniques.</title>
+<pages>231-251</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4016</ee>
+<url>db/journals/jair/jair48.html#Gent13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/KolliaG13" mdate="2022-08-16">
+<author pid="31/7427">Ilianna Kollia</author>
+<author pid="38/842">Birte Glimm</author>
+<title>Optimizing SPARQL Query Answering over OWL Ontologies.</title>
+<pages>253-303</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3872</ee>
+<ee>https://www.wikidata.org/entity/Q113233009</ee>
+<url>db/journals/jair/jair48.html#KolliaG13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/KonstasL13" mdate="2019-01-21">
+<author pid="69/241">Ioannis Konstas</author>
+<author pid="59/6701">Mirella Lapata</author>
+<title>A Global Model for Concept-to-Text Generation.</title>
+<pages>305-346</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4025</ee>
+<url>db/journals/jair/jair48.html#KonstasL13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/CateFS13" mdate="2019-01-21">
+<author pid="91/5696">Balder ten Cate</author>
+<author pid="f/EnricoFranconi">Enrico Franconi</author>
+<author pid="53/1861">Inan&#231; Seylan</author>
+<title>Beth Definability in Expressive Description Logics.</title>
+<pages>347-414</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4057</ee>
+<url>db/journals/jair/jair48.html#CateFS13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/CasiniS13" mdate="2019-09-25">
+<author orcid="0000-0002-4267-4447" pid="45/4069">Giovanni Casini</author>
+<author pid="s/UmbertoStraccia">Umberto Straccia</author>
+<title>Defeasible Inheritance-Based Description Logics.</title>
+<pages>415-473</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4062</ee>
+<url>db/journals/jair/jair48.html#CasiniS13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/DelgrandeW13" mdate="2019-10-19">
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<author orcid="0000-0001-8065-1433" pid="w/RenataWassermann">Renata Wassermann</author>
+<title>Horn Clause Contraction Functions.</title>
+<pages>475-511</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4031</ee>
+<url>db/journals/jair/jair48.html#DelgrandeW13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/FernandezV13" mdate="2022-10-02">
+<author orcid="0000-0003-3702-2230" pid="17/10532">Jose D. Fern&#225;ndez</author>
+<author pid="14/5624">Francisco J. Vico</author>
+<title>AI Methods in Algorithmic Composition: A Comprehensive Survey.</title>
+<pages>513-582</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3908</ee>
+<ee>https://www.wikidata.org/entity/Q56287457</ee>
+<url>db/journals/jair/jair48.html#FernandezV13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/FangJT13" mdate="2019-01-21">
+<author pid="57/2878">Fei Fang</author>
+<author pid="59/3808">Albert Xin Jiang</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Protecting Moving Targets with Multiple Mobile Resources.</title>
+<pages>583-634</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4027</ee>
+<url>db/journals/jair/jair48.html#FangJT13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/CalvaneseOSS13" mdate="2022-08-29">
+<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+<author orcid="0000-0002-2344-9658" pid="71/3644">Magdalena Ortiz 0001</author>
+<author pid="01/5959">Mantas Simkus</author>
+<author pid="66/8007">Giorgio Stefanoni</author>
+<title>Reasoning about Explanations for Negative Query Answers in DL-Lite.</title>
+<pages>635-669</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3870</ee>
+<url>db/journals/jair/jair48.html#CalvaneseOSS13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/AndroutsopoulosLG13" mdate="2021-10-14">
+<author pid="87/6723">Ion Androutsopoulos</author>
+<author pid="99/1688">Gerasimos Lampouras</author>
+<author orcid="0000-0002-0379-7057" pid="39/6166">Dimitrios Galanis</author>
+<title>Generating Natural Language Descriptions from OWL Ontologies: the NaturalOWL System.</title>
+<pages>671-715</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4017</ee>
+<url>db/journals/jair/jair48.html#AndroutsopoulosLG13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Perez-de-la-CruzMM13" mdate="2019-01-21">
+<author pid="32/1095">Jos&#233;-Luis P&#233;rez-de-la-Cruz</author>
+<author pid="m/LawrenceMandow">Lorenzo Mandow</author>
+<author pid="08/8430">Enrique Machuca</author>
+<title>A Case of Pathology in Multiobjective Heuristic Search.</title>
+<pages>717-732</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4100</ee>
+<url>db/journals/jair/jair48.html#Perez-de-la-CruzMM13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/XiaoZ13" mdate="2019-01-30">
+<author pid="05/5091">Tong Xiao</author>
+<author pid="73/2129">Jingbo Zhu</author>
+<title>Unsupervised Sub-tree Alignment for Tree-to-Tree Translation.</title>
+<pages>733-782</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4033</ee>
+<url>db/journals/jair/jair48.html#XiaoZ13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/DomshlakN13" mdate="2019-01-21">
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<author pid="149/1278">Anton Nazarenko</author>
+<title>The Complexity of Optimal Monotonic Planning: The Bad, The Good, and The Causal Graph.</title>
+<pages>783-812</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4145</ee>
+<url>db/journals/jair/jair48.html#DomshlakN13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/DhurandharW13" mdate="2019-01-21">
+<author pid="66/3289">Amit Dhurandhar</author>
+<author pid="125/8189">Jun Wang</author>
+<title>Single Network Relational Transductive Learning.</title>
+<pages>813-839</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4068</ee>
+<url>db/journals/jair/jair48.html#DhurandharW13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/GuezSD13" mdate="2019-01-21">
+<author pid="79/6713">Arthur Guez</author>
+<author pid="34/3601">David Silver</author>
+<author pid="22/522">Peter Dayan</author>
+<title>Scalable and Efficient Bayes-Adaptive Reinforcement Learning Based on Monte-Carlo Tree Search.</title>
+<pages>841-883</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4117</ee>
+<url>db/journals/jair/jair48.html#GuezSD13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/FranconiKN13" mdate="2019-01-21">
+<author pid="f/EnricoFranconi">Enrico Franconi</author>
+<author pid="95/8420">Volha Kerhet</author>
+<author pid="13/11441">Nhung Ngo</author>
+<title>Exact Query Reformulation over Databases with First-order and Description Logics Ontologies.</title>
+<pages>885-922</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4058</ee>
+<url>db/journals/jair/jair48.html#FranconiKN13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/MosselPR13" mdate="2019-01-21">
+<author pid="m/EMossel">Elchanan Mossel</author>
+<author pid="p/ArielDProcaccia">Ariel D. Procaccia</author>
+<author pid="33/10360">Mikl&#243;s Z. R&#225;cz</author>
+<title>A Smooth Transition from Powerlessness to Absolute Power.</title>
+<pages>923-951</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.4125</ee>
+<url>db/journals/jair/jair48.html#MosselPR13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/CampeottoPDFP13" mdate="2017-06-21">
+<author pid="119/6421">Federico Campeotto</author>
+<author pid="p/AlessandroDalPalu">Alessandro Dal Pal&#249;</author>
+<author pid="d/ADovier">Agostino Dovier</author>
+<author pid="119/6404">Ferdinando Fioretto</author>
+<author pid="p/EnricoPontelli">Enrico Pontelli</author>
+<title>A Constraint Solver for Flexible Protein Model.</title>
+<pages>953-1000</pages>
+<year>2013</year>
+<volume>48</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee>http://jair.org/papers/paper4193.html</ee>
+<url>db/journals/jair/jair48.html#CampeottoPDFP13</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,751 @@
+<bht key="db/journals/ipl/ipl65.bht" title="IPL, Volume 65"> 
+<h1><ref href="db/journals/ipl/index.html">Information Processing Letters</ref>, Volume 65</h1> 
+<h2>Volume 65, Number 1, 15 January 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/RamanRR98" mdate="2017-06-14">
+<author pid="25/2134">Venkatesh Raman 0001</author>
+<author pid="24/3232">Bala Ravikumar</author>
+<author orcid="0000-0003-0636-9880" pid="r/SSrinivasaRao">S. Srinivasa Rao 0001</author>
+<title>A Simplified NP-Complete MAXSAT Problem.</title>
+<pages>1-6</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl65.html#RamanRR98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00223-8</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/RyanS98" mdate="2022-12-07">
+<author pid="r/PeterYARyan">Peter Y. A. Ryan</author>
+<author orcid="0000-0001-8365-6993" pid="s/SASchneider">Steve A. Schneider</author>
+<title>An Attack on a Recursive Authentication Protocol. A Cautionary Tale.</title>
+<pages>7-10</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl65.html#RyanS98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00180-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/LakhalL98" mdate="2017-05-26">
+<author pid="33/145">Jamel Lakhal</author>
+<author pid="24/3784">Luc Litzler</author>
+<title>A Polynomial Algorithm for the Extendability Problem in Bipartite Graphs.</title>
+<pages>11-16</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl65.html#LakhalL98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00177-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/DunneM98" mdate="2020-10-26">
+<author orcid="0000-0002-6033-3742" pid="d/PaulEDunne">Paul E. Dunne</author>
+<author pid="99/1319">Michele Zito 0001</author>
+<title>An Inproved Upper Bound on the Non-3-Colourability Threshold.</title>
+<pages>17-23</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl65.html#DunneM98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00193-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/BlundoSV98" mdate="2017-05-26">
+<author pid="b/CarloBlundo">Carlo Blundo</author>
+<author pid="19/4614">Alfredo De Santis</author>
+<author pid="v/UgoVaccaro">Ugo Vaccaro</author>
+<title>On Secret Sharing Schemes.</title>
+<pages>25-32</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl65.html#BlundoSV98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00194-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/IsraeliS98" mdate="2017-05-26">
+<author pid="05/6031">Amos Israeli</author>
+<author pid="29/4358">Asaf Shirazi</author>
+<title>The Time Complexity of Updating Snapshot Memories.</title>
+<pages>33-40</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl65.html#IsraeliS98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00189-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Mahmoud98" mdate="2017-05-26">
+<author pid="m/HosamMMahmoud">Hosam M. Mahmoud</author>
+<title>On Rotations in Fringe-Balanced Binary Trees.</title>
+<pages>41-46</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl65.html#Mahmoud98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00184-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/MolvaT98" mdate="2017-05-26">
+<author pid="m/RefikMolva">Refik Molva</author>
+<author pid="08/1183">Gene Tsudik</author>
+<title>Secret Sets and Applications.</title>
+<pages>47-55</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl65.html#MolvaT98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)80449-8</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 65, Number 2, 29 January 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/KnapikP98" mdate="2017-05-26">
+<author pid="29/919">Teodor Knapik</author>
+<author pid="00/5618">&#201;tienne Payet</author>
+<title>The Full Quotient and its Closure Property for Regular Languages.</title>
+<pages>57-62</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#KnapikP98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00218-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Ait-BouziadK98" mdate="2017-05-26">
+<author pid="02/5557">Ahmed Ait-Bouziad</author>
+<author pid="92/5100">Helen Kassel</author>
+<title>An Inproved Algorithm for Retrieving Fuzzy Information from Two Systems.</title>
+<pages>63-66</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#Ait-BouziadK98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00220-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/OdijkM98" mdate="2017-05-26">
+<author pid="61/1719">Michiel A. Odijk</author>
+<author pid="m/HansvanMaaren">Hans van Maaren</author>
+<title>Improved Solutions to the Steiner Triple Covering Problem.</title>
+<pages>67-69</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#OdijkM98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)80440-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Horng98" mdate="2017-05-26">
+<author pid="91/4357">Gwoboa Horng</author>
+<title>An Active Attack on Protocols for Server-Aided RSA Signature Computation.</title>
+<pages>71-73</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#Horng98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00198-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ChengD98" mdate="2017-06-06">
+<author orcid="0000-0001-5127-6419" pid="41/1715">T. C. Edwin Cheng</author>
+<author pid="38/4158">Qing Ding</author>
+<title>The Complexity of Scheduling Starting Time Dependent Tasks with Release Times.</title>
+<pages>75-79</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#ChengD98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00195-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ChangH98" mdate="2018-11-02">
+<author orcid="0000-0002-9542-7968" pid="08/4586">Jou-Ming Chang</author>
+<author pid="67/5285">Chin-Wen Ho</author>
+<title>The Recognition of Geodetically Connected Graphs.</title>
+<pages>81-88</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#ChangH98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00201-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/GrabnerP98" mdate="2017-05-26">
+<author pid="60/3614">Peter J. Grabner</author>
+<author pid="10/6785">Helmut Prodinger</author>
+<title>An Asymptotic Study of a Recursion Occurring in the Analysis of an Algorithm on Broadcast Communication.</title>
+<pages>89-93</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#GrabnerP98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00225-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/SegalK98" mdate="2018-11-02">
+<author orcid="0000-0001-7606-6522" pid="s/MichaelSegal">Michael Segal 0001</author>
+<author pid="k/KlaraKedem">Klara Kedem</author>
+<title>Enclosing k Points in the Smallest Axis Parallel Rectangle.</title>
+<pages>95-99</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#SegalK98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00212-3</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/DervosML98" mdate="2021-02-09">
+<author pid="43/540">Dimitrios Dervos</author>
+<author pid="m/YManolopoulos">Yannis Manolopoulos</author>
+<author pid="56/284">Panagiotis Linardis</author>
+<title>Comparison of Signature File Models with Superimposed Coding.</title>
+<pages>101-106</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#DervosML98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00210-X</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/DessmarkGL98" mdate="2017-05-26">
+<author pid="86/2799">Anders Dessmark</author>
+<author pid="13/6648">Oscar Garrido</author>
+<author pid="l/AndrzejLingas">Andrzej Lingas</author>
+<title>A Note on Parallel Complexity of Maximum <i>f</i>-Matching.</title>
+<pages>107-109</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#DessmarkGL98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00196-8</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Biedl98" mdate="2017-05-26">
+<author pid="b/TBiedlUWaterloo">Therese C. Biedl</author>
+<title>Relating Bends and Size in Orthogonal Graph Drawings.</title>
+<pages>111-115</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl65.html#Biedl98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00207-X</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 65, Number 3, 13 February 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/AryaR98" mdate="2017-05-26">
+<author pid="49/57">Sunil Arya</author>
+<author pid="69/1068">H. Ramesh</author>
+<title>A 2.5-Factor Approximation Algorithm for the <i>k</i>-MST Problem.</title>
+<pages>117-118</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#AryaR98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00010-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/WuCL98" mdate="2017-05-26">
+<author pid="61/6104">Q. S. Wu</author>
+<author pid="c/KunMaoChao">Kun-Mao Chao</author>
+<author pid="l/RichardCTLee">Richard C. T. Lee</author>
+<title>The NPO-Completeness of the Longest Hamiltonian Cycle Problem.</title>
+<pages>119-123</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#WuCL98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00003-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Dasgupta98" mdate="2017-05-26">
+<author pid="39/2452">Pallab Dasgupta</author>
+<title>Agreement under Faulty Interfaces.</title>
+<pages>125-129</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#Dasgupta98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00202-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ChaudhuriGR98" mdate="2021-10-14">
+<author pid="85/4978">Shiva Chaudhuri</author>
+<author orcid="0000-0001-7923-4464" pid="g/NaveenGarg">Naveen Garg 0001</author>
+<author pid="r/RRavi-1">R. Ravi 0001</author>
+<title>The <i>p</i>-Neighbor <i>k</i>-Center Problem.</title>
+<pages>131-134</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#ChaudhuriGR98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00224-X</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/XiangU98" mdate="2017-05-26">
+<author pid="69/3238">Limin Xiang</author>
+<author pid="64/1231">Kazuo Ushijima</author>
+<title>ANSV Problem on BSRs.</title>
+<pages>135-138</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#XiangU98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00214-7</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/SonLCS98" mdate="2022-11-17">
+<author pid="15/661">Jung Je Son</author>
+<author pid="l/JonginLim">Jong In Lim 0001</author>
+<author pid="84/4335">Seongtaek Chee</author>
+<author pid="12/3762">Soo Hak Sung</author>
+<title>Global Avalanche Characteristics and Nonlinearity of Balanced Boolean Functions.</title>
+<pages>139-144</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#SonLCS98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00009-X</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/KannLP98" mdate="2017-05-26">
+<author pid="k/ViggoKann">Viggo Kann</author>
+<author pid="86/3552">Jens Lagergren</author>
+<author pid="53/6558">Alessandro Panconesi</author>
+<title>Approximate Max <i>k</i>-Cut with Subgraph Guarantee.</title>
+<pages>145-150</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#KannLP98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00005-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/HemaspaandraR98" mdate="2017-05-26">
+<author pid="h/EdithHemaspaandra">Edith Hemaspaandra</author>
+<author pid="r/JorgRothe">J&#246;rg Rothe</author>
+<title>Recognizing when Greed can Approximate Maximum Independent Sets is Complete for Parallel Access to NP.</title>
+<pages>151-156</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#HemaspaandraR98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00219-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/WangHH98" mdate="2017-05-26">
+<author pid="96/6159">Jeng-Jung Wang</author>
+<author pid="02/2729">Chun-Nan Hung</author>
+<author pid="22/1324">Lih-Hsing Hsu</author>
+<title>Optimal 1-Hamiltonian Graphs.</title>
+<pages>157-161</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#WangHH98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00004-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/BalasubramanianFR98" mdate="2017-05-26">
+<author pid="86/153">R. Balasubramanian</author>
+<author pid="f/MichaelRFellows">Michael R. Fellows</author>
+<author pid="25/2134">Venkatesh Raman 0001</author>
+<title>An Improved Fixed-Parameter Algorithm for Vertex Cover.</title>
+<pages>163-168</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl65.html#BalasubramanianFR98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00213-5</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 65, Number 4, 27 February 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/Larsen98" mdate="2017-05-26">
+<author pid="l/KimSLarsen">Kim S. Larsen</author>
+<title>Regular Expressions with Nested Levels of Back Referencing Form a Hierarchy.</title>
+<pages>169-172</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl65.html#Larsen98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00007-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/NawrockiCC98" mdate="2019-10-19">
+<author pid="n/JRNawrocki">Jerzy R. Nawrocki</author>
+<author orcid="0000-0003-0237-9686" pid="39/2720">Adam Czajka</author>
+<author orcid="0000-0002-3581-0498" pid="05/5284">Wojciech Complak</author>
+<title>Scheduling Cyclic Tasks with Binary Periods.</title>
+<pages>173-178</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl65.html#NawrockiCC98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00221-X</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/VedanthamI98" mdate="2017-05-26">
+<author pid="24/2728">Sundarajan Vedantham</author>
+<author pid="i/SSitharamaIyengar">S. Sitharama Iyengar</author>
+<title>The Bandwidth Allocation Problem in the ATM Network Model is NP-Complete.</title>
+<pages>179-182</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl65.html#VedanthamI98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00226-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/NikolopoulosR98" mdate="2017-05-26">
+<author pid="46/2835">Stavros D. Nikolopoulos</author>
+<author pid="r/PanosRondogiannis">Panos Rondogiannis</author>
+<title>On the Number of Spanning Trees of Multi-Star Related Graphs.</title>
+<pages>183-188</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl65.html#NikolopoulosR98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00008-8</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/HwangW98" mdate="2017-05-26">
+<author pid="36/1922">Tzonelih Hwang</author>
+<author pid="21/1084">Chih-Hung Wang</author>
+<title>Arbetrated Unconditionally Secure Authentication Scheme with Multi-Senders.</title>
+<pages>189-193</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl65.html#HwangW98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00011-8</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Devroye98" mdate="2017-05-26">
+<author pid="d/LucDevroye">Luc Devroye</author>
+<title>On the Richness of the Collection of Subtrees in Random Binary Search Trees.</title>
+<pages>195-199</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl65.html#Devroye98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00206-8</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/PoonZC98" mdate="2018-11-14">
+<author pid="67/3327">Chung Keung Poon</author>
+<author pid="z/BinhaiZhu">Binhai Zhu</author>
+<author pid="c/FrancisYLChin">Francis Y. L. Chin</author>
+<title>A Polynomial Time Solution for Labeling a Rectlinear Map.</title>
+<pages>201-207</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl65.html#PoonZC98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00002-7</ee>
+<ee>https://www.wikidata.org/entity/Q55918916</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ShmueliS98" mdate="2017-05-26">
+<author pid="s/OShmueli">Oded Shmueli</author>
+<author pid="79/1603">Kurt A. Shoens</author>
+<title>Data Sufficiency for Queries on Cache.</title>
+<pages>209-216</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl65.html#ShmueliS98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00205-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/BshoutyTW98" mdate="2017-05-26">
+<author pid="b/NaderHBshouty">Nader H. Bshouty</author>
+<author pid="t/ChristinoTamon">Christino Tamon</author>
+<author pid="13/5390">David K. Wilson</author>
+<title>On Learning width Two Branching Programs.</title>
+<pages>217-222</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl65.html#BshoutyTW98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00204-4</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 65, Number 5, 13 March 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/AmirW98" mdate="2017-06-14">
+<author pid="15/5788">Yair Amir</author>
+<author orcid="0000-0002-8371-4759" pid="w/AvishaiWool">Avishai Wool</author>
+<title>Optimal Availability Quorum Systems: Theory and Practice.</title>
+<pages>223-228</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#AmirW98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00017-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/DellOlmoKST98" mdate="2017-05-26">
+<author pid="75/5423">Paolo Dell'Olmo</author>
+<author pid="98/5494">Hans Kellerer</author>
+<author pid="19/1703">Maria Grazia Speranza</author>
+<author pid="95/4519">Zsolt Tuza</author>
+<title>A 13/12 Approximation Algorithm for Bin Packing with Extendable Bins.</title>
+<pages>229-233</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#DellOlmoKST98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00216-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/KorshL98" mdate="2017-05-26">
+<author pid="85/4225">James F. Korsh</author>
+<author pid="08/6616">Seymour Lipschutz</author>
+<title>Shifts and Loopless Generation of <i>k</i>-Ary Trees.</title>
+<pages>235-240</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#KorshL98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00215-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/FrankGW98" mdate="2017-05-26">
+<author pid="32/67">Jeremy Frank</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Asymptotic and Finite Size Parameters for Phase Transitions: Hamiltonian Circuit as a Case Study.</title>
+<pages>241-245</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#FrankGW98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00222-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/KimK98" mdate="2017-05-26">
+<author pid="75/5286">Heung-Taek Kim</author>
+<author pid="k/Myoung-HoKim">Myoung-Ho Kim</author>
+<title>Starvation-Free Secure Multiversion Concurrency Control.</title>
+<pages>247-253</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#KimK98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00014-3</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Guan98" mdate="2017-05-26">
+<author pid="42/4099">D. J. Guan</author>
+<title>An Optimal Message Routing Algorithm for Double-Loop Networks.</title>
+<pages>255-260</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#Guan98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00013-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Chen98" mdate="2017-05-26">
+<author pid="20/5322">Wen-Huei Chen</author>
+<title>Test Sequence Generation from the Protocol Data Portion Based on the Selecting Chinese Postman Algorithm.</title>
+<pages>261-268</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#Chen98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00208-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ChenD98" mdate="2017-05-26">
+<author pid="c/DannyZChen">Danny Z. Chen</author>
+<author pid="62/5844">Ovidiu Daescu</author>
+<title>Maintaining Visibility of a Polygon with a Moving Point of View.</title>
+<pages>269-275</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#ChenD98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00211-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/BoseBL98" mdate="2018-11-14">
+<author pid="b/PBose">Prosenjit Bose</author>
+<author pid="b/JonathanFBuss">Jonathan F. Buss</author>
+<author pid="34/4423">Anna Lubiw</author>
+<title>Pattern Matching for Permutations.</title>
+<pages>277-283</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl65.html#BoseBL98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00209-3</ee>
+<ee>https://www.wikidata.org/entity/Q55951981</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 65, Number 6, 27 March 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/McCune98" mdate="2017-05-26">
+<author pid="m/WilliamMcCune">William McCune</author>
+<title>Automatic Proofs and Counterexamples for Some Ortholattice Identities.</title>
+<pages>285-291</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl65.html#McCune98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00015-5</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/LungoNPS98" mdate="2017-05-26">
+<author pid="89/1636">Alberto Del Lungo</author>
+<author pid="05/6795">Maurice Nivat</author>
+<author pid="39/4285">Renzo Pinzani</author>
+<author pid="60/1189">L. Sorri</author>
+<title>The Medians of Discrete Sets.</title>
+<pages>293-299</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl65.html#LungoNPS98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00020-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/DahlhausMM98" mdate="2017-05-26">
+<author pid="67/5121">Elias Dahlhaus</author>
+<author pid="24/4096">Paul D. Manuel</author>
+<author pid="m/MirkaMiller">Mirka Miller</author>
+<title>Maximum <i>h</i>-Colourable Subgraph Problem in Balanced Graphs.</title>
+<pages>301-303</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl65.html#DahlhausMM98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00019-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/AnderssonE98" mdate="2017-05-26">
+<author pid="98/5070">Gunnar Andersson</author>
+<author pid="e/LEngebretsen">Lars Engebretsen</author>
+<title>Better Approximation Algorithms for SET SPLITTING and NOT-ALL-EQUAL SAT.</title>
+<pages>305-311</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl65.html#AnderssonE98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00021-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Herrmann98" mdate="2017-05-26">
+<author pid="18/4152">Philippe Herrmann</author>
+<title>Timed Automata and Recognizability.</title>
+<pages>313-318</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl65.html#Herrmann98</url>
+<ee>https://doi.org/10.1016/S0020-0190(97)00217-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ChangTVC98" mdate="2017-05-26">
+<author pid="19/6988">Kaijung Chang</author>
+<author pid="14/618">Yan Huat Tan</author>
+<author pid="v/YaakovLVarol">Yaakov L. Varol</author>
+<author pid="04/2628">Jiang-Hsing Chu</author>
+<title>A Study on Interleaving Versus Segmentation.</title>
+<pages>319-324</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl65.html#ChangTVC98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00022-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/HuangL98" mdate="2017-05-26">
+<author pid="34/3420">Shing-Tsaan Huang</author>
+<author pid="39/1727">Tzong-Jye Liu</author>
+<title>Four-State Stabilizing Phase Clock for Unidirectional Rings of Odd Size.</title>
+<pages>325-329</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl65.html#HuangL98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00006-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ChangY98" mdate="2017-05-26">
+<author pid="39/61">Yaw-Wen Chang</author>
+<author pid="01/5268">Chang-Biau Yang</author>
+<title>A Parallel Algorithm for Circulant Tridiagonal Linear Systems.</title>
+<pages>331-337</pages>
+<year>1998</year>
+<volume>65</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl65.html#ChangY98</url>
+<ee>https://doi.org/10.1016/S0020-0190(98)00018-0</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

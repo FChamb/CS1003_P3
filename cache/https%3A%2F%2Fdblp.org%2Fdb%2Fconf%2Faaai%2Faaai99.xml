@@ -1,0 +1,2506 @@
+<bht key="db/conf/aaai/aaai99.bht" title="16. AAAI / 11. IAAI 1999: Orlando, Florida, USA">  
+<h1>16th <ref href="db/conf/aaai/index.html">AAAI</ref> / 11. IAAI 1999:
+Orlando, Florida, USA</h1>
+
+<dblpcites><r><proceedings key="conf/aaai/1999" mdate="2021-02-10">
+<editor pid="h/JamesAHendler">Jim Hendler</editor>
+<editor pid="99/5507">Devika Subramanian</editor>
+<title>Proceedings of the Sixteenth National Conference on Artificial Intelligence and Eleventh Conference on Innovative Applications of Artificial Intelligence, July 18-22, 1999, Orlando, Florida, USA.</title>
+<isbn>0-262-51106-1</isbn>
+<publisher>AAAI Press / The MIT Press</publisher>
+<year>1999</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/Conferences/AAAI/aaai99.php</ee>
+<url>db/conf/aaai/aaai99.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>AAAI-99 Technical Papers</h2> 
+<h3>Agents</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AnderssonS99" mdate="2021-02-10">
+<author pid="38/439">Martin Andersson</author>
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<title>Time-Quality Tradeoffs in Reallocative Negotiation with Combinatorial Contract Types.</title>
+<pages>3-10</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#AnderssonS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-001.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BrainovS99" mdate="2021-02-10">
+<author pid="b/SviatoslavBraynov">Sviatoslav B. Brainov</author>
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<title>Power, Dependence and Stability in Multiagent Plans.</title>
+<pages>11-16</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BrainovS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-002.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HansonK99" mdate="2021-02-10">
+<author pid="09/6718">James E. Hanson</author>
+<author pid="10/3207">Jeffrey O. Kephart</author>
+<title>Combatting Maelstroms in Networks of Communicating Agents.</title>
+<pages>17-23</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#HansonK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-003.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/JensenAVL99" mdate="2021-02-10">
+<author pid="38/828">David D. Jensen</author>
+<author pid="06/2948">Michael Atighetchi</author>
+<author pid="56/453">R&#233;gis Vincent</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Learning Quantitative Knowledge for Multiagent Coordination.</title>
+<pages>24-31</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#JensenAVL99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-004.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MondererT99" mdate="2021-02-10">
+<author pid="76/4163">Dov Monderer</author>
+<author pid="t/MosheTennenholtz">Moshe Tennenholtz</author>
+<title>Distributed Games: From Mechanisms to Protocols.</title>
+<pages>32-37</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MondererT99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-005.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NolanWDF99" mdate="2021-02-10">
+<author pid="45/5782">Fergus Nolan</author>
+<author pid="88/2304">Jarek Wilkiewicz</author>
+<author pid="81/5069">Dipankar Dasgupta</author>
+<author pid="05/6387">Stan Franklin</author>
+<title>Evolutionary Economic Agents.</title>
+<pages>38-43</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#NolanWDF99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-006.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SandholmV99" mdate="2021-02-10">
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<author pid="02/4315">Nir Vulkan</author>
+<title>Bargaining with Deadlines.</title>
+<pages>44-51</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#SandholmV99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-007.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Wooldridge99" mdate="2021-02-10">
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Verifying that Agents Implement a Communication Language.</title>
+<pages>52-57</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Wooldridge99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-008.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Al &#38; the World Wide Web</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Cohen99" mdate="2021-02-10">
+<author pid="c/WWCohen">William W. Cohen</author>
+<title>Recognizing Structure in Web Pages using Similarity Queries.</title>
+<pages>59-66</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Cohen99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-009.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FriedmanLM99" mdate="2021-11-03">
+<author pid="305/2786">Marc T. Friedman</author>
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<author pid="93/4679">Todd D. Millstein</author>
+<title>Navigational Plans For Data Integration.</title>
+<pages>67-73</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#FriedmanLM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-010.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Kushmerick99" mdate="2021-02-10">
+<author pid="03/510">Nicholas Kushmerick</author>
+<title>Regression testing for wrapper maintenance.</title>
+<pages>74-79</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Kushmerick99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-011.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PrattHF99" mdate="2021-02-10">
+<author pid="23/2445">Wanda Pratt</author>
+<author pid="h/MartiAHearst">Marti A. Hearst</author>
+<author pid="13/2334">Lawrence M. Fagan</author>
+<title>A Knowledge-Based Approach to Organizing Retrieved Documents.</title>
+<pages>80-85</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#PrattHF99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-012.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SakuraiYM99" mdate="2021-02-10">
+<author pid="32/2958">Yuko Sakurai</author>
+<author pid="32/2416">Makoto Yokoo</author>
+<author pid="73/3625">Shigeo Matsubara</author>
+<title>A Limitation of the Generalized Vickrey Auction in Electronic Commerce: Robustness against False-name Bids.</title>
+<pages>86-92</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#SakuraiYM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-013.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WermterPA99" mdate="2021-02-10">
+<author pid="03/3914">Stefan Wermter</author>
+<author pid="27/4265">Christo Panchev</author>
+<author pid="84/6622">Garen Arevian</author>
+<title>Hybrid Neural Plausibility Networks for News Agents.</title>
+<pages>93-98</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#WermterPA99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-014.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Cognitive Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AisbettG99" mdate="2021-02-10">
+<author pid="12/5319">Janet Aisbett</author>
+<author pid="48/6230">Greg Gibbon</author>
+<title>Cognitive Classification.</title>
+<pages>100-107</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#AisbettG99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-015.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CohenL99" mdate="2021-02-10">
+<author pid="59/840">Paul R. Cohen</author>
+<author pid="04/6098">Mary Litch</author>
+<title>What are contentful mental states? Dretske's theory of mental content viewed in the light of robot learning and planning algortihms.</title>
+<pages>108-113</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#CohenL99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-016.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DanielBCL99" mdate="2021-02-10">
+<author pid="98/5521">Brent H. Daniel</author>
+<author pid="02/6484">William H. Bares</author>
+<author pid="55/4287">Charles B. Callaway</author>
+<author pid="88/4922">James C. Lester</author>
+<title>Student-Sensitive Multimodal Explanation Generation for 3D Learning Environments.</title>
+<pages>114-120</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#DanielBCL99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-017.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Narayanan99" mdate="2021-02-10">
+<author pid="21/1297">Srinivas Narayanan</author>
+<title>Moving Right Along: A Computational Model of Metaphoric Reasoning about Events.</title>
+<pages>121-127</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Narayanan99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-018.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhouFGMRE99" mdate="2021-02-10">
+<author pid="73/387">Yujian Zhou</author>
+<author pid="50/1716">Reva Freedman</author>
+<author pid="51/859">Michael Glass</author>
+<author pid="27/6473">Joel A. Michael</author>
+<author pid="12/1126">Allen A. Rovick</author>
+<author pid="e/MarthaWEvens">Martha W. Evens</author>
+<title>Delivering Hints in a Dialogue-Based Intelligent Tutoring System.</title>
+<pages>128-134</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ZhouFGMRE99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-019.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Constraint Satisfaction Problems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/HookerOTK99" mdate="2021-02-10">
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<author pid="15/3165">Greger Ottosson</author>
+<author pid="89/4797">Erlendur S. Thorsteinsson</author>
+<author pid="06/1720">Hak-Jin Kim</author>
+<title>On Integrating Constraint Propagation and Linear Programming for Combinatorial Optimization.</title>
+<pages>136-141</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#HookerOTK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-020.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PapadiasKM99" mdate="2021-02-10">
+<author pid="p/DimitrisPapadias">Dimitris Papadias</author>
+<author pid="97/3036">Panos Kalnis</author>
+<author pid="34/6253">Nikos Mamoulis</author>
+<title>Hierarchical Constraint Satisfaction in Spatial Databases.</title>
+<pages>142-147</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#PapadiasKM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-021.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/QuB99" mdate="2021-02-10">
+<author pid="28/271">Yan Qu</author>
+<author pid="46/139">Steve Beale</author>
+<title>A Constraint-Based Model for Cooperative Response Generation in Information Dialogues.</title>
+<pages>148-155</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#QuB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-022.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ShazeerLK99" mdate="2021-02-10">
+<author pid="80/4668">Noam M. Shazeer</author>
+<author pid="l/MLLittman">Michael L. Littman</author>
+<author pid="39/917">Greg A. Keim</author>
+<title>Solving Crossword Puzzles as Probabilistic Constraint Satisfaction.</title>
+<pages>156-162</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ShazeerLK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-023.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/StergiouW99" mdate="2021-02-10">
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Encodings of Non-Binary Constraint Satisfaction Problems.</title>
+<pages>163-168</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#StergiouW99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-024.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/VerfaillieMB99" mdate="2021-02-10">
+<author pid="88/2213">G&#233;rard Verfaillie</author>
+<author pid="66/3496">David Martinez</author>
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<title>A Generic Customizable Framework for Inverse Local Consistency.</title>
+<pages>169-174</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#VerfaillieMB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-025.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhangYJ99" mdate="2021-02-10">
+<author pid="z/YuanlinZhang">Yuanlin Zhang 0002</author>
+<author pid="y/RolandHCYap">Roland H. C. Yap</author>
+<author pid="j/JoxanJaffar">Joxan Jaffar</author>
+<title>Functional Elimination and 0/1/All Constraints.</title>
+<pages>175-180</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ZhangYJ99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-026.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Hybrid Methods</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/KajitaniHKIH99" mdate="2021-02-10">
+<author pid="25/854">Isamu Kajitani</author>
+<author pid="43/6963">Tsutomu Hoshino</author>
+<author pid="45/2095">Nobuki Kajihara</author>
+<author pid="79/5950">Masaya Iwata</author>
+<author pid="04/830">Tetsuya Higuchi</author>
+<title>An Evolvable Hardware Chip and Its Application as a Multi-Function Prosthetic Hand Controller.</title>
+<pages>182-187</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KajitaniHKIH99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-027.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KubatC99" mdate="2021-02-10">
+<author pid="88/2105">Miroslav Kubat</author>
+<author pid="11/6030">Martin Cooperson Jr.</author>
+<title>Initializing RBF-Networks with Small Subsets of Training Examples.</title>
+<pages>188-193</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KubatC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-028.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KudoYOKS99" mdate="2021-02-10">
+<author pid="15/2104">Hiroaki Kudo</author>
+<author pid="02/5670">Tsuyoshi Yamamura</author>
+<author pid="52/901">Noboru Ohnishi</author>
+<author pid="68/5093">Shin Kobayashi</author>
+<author pid="58/3658">Noboru Sugie</author>
+<title>A Neural Network Model of Dynamically Fluctuating Perception of Necker Cube as well as Dot Patterns.</title>
+<pages>194-199</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KudoYOKS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-029.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Piastra99" mdate="2021-02-10">
+<author pid="75/2220">Marco Piastra</author>
+<title>What's in a Fuzzy Set?</title>
+<pages>200-207</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Piastra99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-030.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SukthankarS99" mdate="2021-02-10">
+<author pid="57/3775">Rahul Sukthankar</author>
+<author pid="23/6487">Robert G. Stockton</author>
+<title>ARGUS: An Automated Multi-Agent Visitor Identification System.</title>
+<pages>208-213</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#SukthankarS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-031.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/UghettoDP99" mdate="2021-02-10">
+<author pid="57/557">Laurent Ughetto</author>
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Implicative and conjunctive fuzzy rules - A tool for reasoning from knowledge and examples.</title>
+<pages>214-219</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#UghettoDP99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-032.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Knowledge Acquisition</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/CohenCPS99" mdate="2021-02-10">
+<author pid="59/840">Paul R. Cohen</author>
+<author pid="86/4084">Vinay K. Chaudhri</author>
+<author pid="26/6268">Adam Pease</author>
+<author pid="89/295">Robert Schrag</author>
+<title>Does Prior Knowledge Facilitate the Development of Knowledge-based Systems?</title>
+<pages>221-226</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#CohenCPS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-033.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CrawB99" mdate="2021-02-10">
+<author pid="52/2286">Susan Craw</author>
+<author pid="99/5861">Robin Boswell</author>
+<title>Representing Problem-Solving for Knowledge Refinement.</title>
+<pages>227-234</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#CrawB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-034.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KimG99" mdate="2021-02-10">
+<author pid="08/427">Jihie Kim</author>
+<author pid="88/2686">Yolanda Gil</author>
+<title>Deriving Expectations to Guide Knowledge Base Creation.</title>
+<pages>235-241</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KimG99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-035.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TallisG99" mdate="2021-02-10">
+<author pid="95/2623">Marcelo Tallis</author>
+<author pid="88/2686">Yolanda Gil</author>
+<title>Designing Scripts to Guide Users in Modifying Knowledge-based Systems.</title>
+<pages>242-249</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#TallisG99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-036.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TecuciBWLMB99" mdate="2021-02-10">
+<author pid="02/3198">Gheorghe Tecuci</author>
+<author pid="72/4232">Mihai Boicu</author>
+<author pid="03/6765">Kathryn Wright</author>
+<author pid="50/716">Seok Won Lee</author>
+<author pid="19/1057">Dorin Marcu</author>
+<author pid="99/6338">Michael Bowman</author>
+<title>An Integrated Shell and Methodology for Rapid Development of Knowledge-Based Agents.</title>
+<pages>250-257</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#TecuciBWLMB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-037.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Knowledge Representation</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Val99" mdate="2021-02-10">
+<author pid="v/AlvarodelVal">Alvaro del Val</author>
+<title>A New Method for Consequence Finding and Compilation in Restricted Languages.</title>
+<pages>259-264</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Val99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-038.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GhoseP99" mdate="2021-02-10">
+<author pid="g/AdityaKGhose">Aditya Ghose</author>
+<author pid="22/3049">Srinivas Padmanabhuni</author>
+<title>Constraint-based integrity checking in abductive and non-monotonic extensions of constraint logic programming.</title>
+<pages>265-270</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GhoseP99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-039.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HahnSR99" mdate="2021-02-10">
+<author pid="h/UdoHahn">Udo Hahn</author>
+<author pid="91/3020-1">Stefan Schulz 0001</author>
+<author pid="97/4284">Martin Romacker</author>
+<title>Partonomic Reasoning as Taxonomic Reasoning in Medicine.</title>
+<pages>271-276</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#HahnSR99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-040.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Holland-MinkleyBC99" mdate="2021-02-10">
+<author pid="44/4513">Amanda M. Holland-Minkley</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<author pid="c/RobertLConstable">Robert L. Constable</author>
+<title>Verbalization of High-Level Formal Proofs.</title>
+<pages>277-284</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Holland-MinkleyBC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-041.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KampsB99" mdate="2021-02-10">
+<author pid="70/779">Jaap Kamps</author>
+<title>On Criteria for Formal Theory Building: Applying Logic and Automated Reasoning Tools to the Social Sciences.</title>
+<pages>285-290</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KampsB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-042.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LoboBN99" mdate="2021-02-10">
+<author pid="l/JorgeLobo1">Jorge Lobo 0001</author>
+<author pid="53/5575">Randeep Bhatia</author>
+<author pid="16/3083">Shamim A. Naqvi</author>
+<title>A Policy Description Language.</title>
+<pages>291-298</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LoboBN99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-043.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MaherG99" mdate="2021-02-10">
+<author pid="m/MichaelJMaher">Michael J. Maher</author>
+<author pid="g/GuidoGovernatori">Guido Governatori</author>
+<title>A Semantic Decomposition of Defeasible Logics.</title>
+<pages>299-305</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MaherG99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-044.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RicherC99" mdate="2021-02-10">
+<author pid="61/1496">Jean-Michel Richer</author>
+<author pid="93/6166">Jean-Jacques Chabrier</author>
+<title>Sacre: a Constraint Satisfaction Problem Based Theorem Prover.</title>
+<pages>306-311</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#RicherC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-045.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Learning</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BoyenK99" mdate="2021-02-10">
+<author pid="53/4957">Xavier Boyen</author>
+<author pid="k/DaphneKoller">Daphne Koller</author>
+<title>Exploiting the Architecture of Dynamic Systems.</title>
+<pages>313-320</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BoyenK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-046.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BylanderH99" mdate="2021-02-10">
+<author pid="09/1241">Tom Bylander</author>
+<author pid="02/1659">Dennis Hanzlik</author>
+<title>Estimating Generalization Error Using Out-of-Bag Estimates.</title>
+<pages>321-327</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BylanderH99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-047.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CaliffM99" mdate="2021-02-10">
+<author pid="37/6181">Mary Elaine Califf</author>
+<author pid="m/RaymondJMooney">Raymond J. Mooney</author>
+<title>Relational Learning of Pattern-Match Rules for Information Extraction.</title>
+<pages>328-334</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#CaliffM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-048.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CohenS99" mdate="2021-02-10">
+<author pid="c/WWCohen">William W. Cohen</author>
+<author pid="s/YoramSinger">Yoram Singer</author>
+<title>A Simple, Fast, and Effictive Rule Learner.</title>
+<pages>335-342</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#CohenS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-049.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FoxBDT99" mdate="2021-02-10">
+<author pid="f/DieterFox">Dieter Fox</author>
+<author pid="b/WolframBurgard">Wolfram Burgard</author>
+<author pid="d/FrankDellaert">Frank Dellaert</author>
+<author pid="t/SebastianThrun">Sebastian Thrun</author>
+<title>Monte Carlo Localization: Efficient Position Estimation for Mobile Robots.</title>
+<pages>343-349</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#FoxBDT99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-050.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Ioerger99" mdate="2021-02-10">
+<author pid="02/5082">Thomas R. Ioerger</author>
+<title>Detecting Feature Interactions from Accuracies of Random Feature Subsets.</title>
+<pages>350-357</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Ioerger99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-051.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LeshA99" mdate="2021-02-10">
+<author pid="64/1883">Neal Lesh</author>
+<author pid="a/JFAllen">James F. Allen</author>
+<title>Simulation-based inference for plan monitoring.</title>
+<pages>358-365</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LeshA99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-052.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LindenbaumMR99" mdate="2021-02-10">
+<author pid="35/6182">Michael Lindenbaum</author>
+<author pid="m/ShaulMarkovitch">Shaul Markovitch</author>
+<author pid="31/5485">Dmitry Rusakov</author>
+<title>Selective Sampling for Nearest Neighbor Classifiers.</title>
+<pages>366-371</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LindenbaumMR99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-053.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/OatesJ99" mdate="2022-10-16">
+<author pid="34/3824">Tim Oates 0001</author>
+<author pid="38/828">David D. Jensen</author>
+<title>Toward a Theoretical Understanding of Why and When Decision Tree Pruning Algorithms Fail.</title>
+<pages>372-378</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#OatesJ99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-054.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Opitz99" mdate="2021-02-10">
+<author pid="95/1531">David W. Opitz</author>
+<title>Feature Selection for Ensembles.</title>
+<pages>379-384</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Opitz99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-055.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SchuurmansG99" mdate="2021-02-10">
+<author pid="96/6660">Dale Schuurmans</author>
+<author pid="19/4088">Lloyd G. Greenwald</author>
+<title>Efficient exploration for optimizing immediate reward.</title>
+<pages>385-392</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#SchuurmansG99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-056.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Model-Based Reasoning</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Anderson99" mdate="2021-02-10">
+<author pid="59/4095-1">Michael Anderson 0001</author>
+<title>Towards Diagram Processing: A Diagrammatic Information System.</title>
+<pages>394-401</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Anderson99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-057.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Bailey-KelloggZ99" mdate="2021-02-10">
+<author pid="b/ChrisBaileyKellogg">Christopher Bailey-Kellogg</author>
+<author pid="z/FengZhao">Feng Zhao 0001</author>
+<title>Influence-Based Model Decomposition.</title>
+<pages>402-409</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Bailey-KelloggZ99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-058.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KapadiaB99" mdate="2021-02-10">
+<author pid="39/5087">Ravi Kapadia</author>
+<author pid="15/6242">Gautam Biswas</author>
+<title>Model-based Support for Mutable Parametric Design Optimization.</title>
+<pages>410-415</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KapadiaB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-059.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PrendingerI99" mdate="2021-02-10">
+<author pid="73/6817">Helmut Prendinger</author>
+<author pid="i/MIshizuka">Mitsuru Ishizuka</author>
+<title>Qualifying the Expressivity/Efficiency Tradeoff: Reformation-Based Diagnosis.</title>
+<pages>416-421</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#PrendingerI99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-060.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Natural Language and Information Retrieval</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/CardieP99" mdate="2021-02-10">
+<author pid="c/ClaireCardie">Claire Cardie</author>
+<author pid="00/6868">David R. Pierce</author>
+<title>The Role of Lexicalization and Pruning for Base Noun Phrase Grammars.</title>
+<pages>423-430</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#CardieP99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-061.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChaiBG99" mdate="2021-02-10">
+<author pid="c/JoyceYChai">Joyce Yue Chai</author>
+<author pid="b/AWBiermann">Alan W. Biermann</author>
+<author pid="58/1376">Curry I. Guinn</author>
+<title>Two Dimensional Generalization in Information Extraction.</title>
+<pages>431-438</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ChaiBG99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-062.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GoodSKBSHR99" mdate="2021-02-10">
+<author pid="g/NathanielGood">Nathaniel Good</author>
+<author pid="90/6236">J. Ben Schafer</author>
+<author pid="09/3004">Joseph A. Konstan</author>
+<author pid="39/3054">Al Borchers</author>
+<author pid="08/4642">Badrul Munir Sarwar</author>
+<author pid="04/3985">Jonathan L. Herlocker</author>
+<author pid="r/JRiedl">John Riedl</author>
+<title>Combining Collaborative Filtering with Personal Agents for Better Recommendations.</title>
+<pages>439-446</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GoodSKBSHR99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-063.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Kulyukin99" mdate="2021-02-10">
+<author pid="80/2776">Vladimir A. Kulyukin</author>
+<title>Application-Embedded Retrieval from Distributed Free-Text Collections.</title>
+<pages>447-452</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Kulyukin99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-064.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/McKeownKHBE99" mdate="2021-02-10">
+<author pid="m/KathleenMcKeown">Kathleen R. McKeown</author>
+<author pid="k/JudithKlavans">Judith Klavans</author>
+<author pid="15/4175">Vasileios Hatzivassiloglou</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<author pid="e/EEskin">Eleazar Eskin</author>
+<title>Towards Multidocument Summarization by Reformulation: Progress and Prospects.</title>
+<pages>453-460</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#McKeownKHBE99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-065.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MihalceaM99" mdate="2021-02-10">
+<author pid="m/RadaMihalcea">Rada Mihalcea</author>
+<author pid="m/DanIMoldovan">Dan I. Moldovan</author>
+<title>An Automatic Method for Generating Sense Tagged Corpora.</title>
+<pages>461-466</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MihalceaM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-066.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MittalKGC99" mdate="2021-02-10">
+<author pid="21/5117">Vibhu O. Mittal</author>
+<author pid="32/3408">Mark Kantrowitz</author>
+<author pid="47/4881">Jade Goldstein</author>
+<author pid="56/3395">Jaime G. Carbonell</author>
+<title>Selecting Text Spans for Document Summaries: Heuristics and Metrics.</title>
+<pages>467-473</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MittalKGC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-067.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RiloffJ99" mdate="2021-02-10">
+<author pid="r/ERiloff">Ellen Riloff</author>
+<author pid="40/5446">Rosie Jones</author>
+<title>Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping.</title>
+<pages>474-479</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#RiloffJ99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-068.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TairaH99" mdate="2021-02-10">
+<author pid="46/2097">Hirotoshi Taira</author>
+<author pid="85/6710">Masahiko Haruno</author>
+<title>Feature Selection in SVM Text Categorization.</title>
+<pages>480-486</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#TairaH99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-069.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ThompsonM99" mdate="2021-02-10">
+<author pid="27/2071">Cynthia A. Thompson</author>
+<author pid="m/RaymondJMooney">Raymond J. Mooney</author>
+<title>Automatic Construction of Semantic Lexicons for Learning Natural Language Interfaces.</title>
+<pages>487-493</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ThompsonM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-070.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Planning</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/ClementD99" mdate="2021-02-10">
+<author pid="83/4936">Bradley J. Clement</author>
+<author pid="d/EHDurfee">Edmund H. Durfee</author>
+<title>Theory for Coordinating Concurrent Hierarchical Planning Agents Using Summary Information.</title>
+<pages>495-502</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ClementD99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-071.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GereviniS99" mdate="2021-02-10">
+<author pid="73/3274">Alfonso Gerevini</author>
+<author pid="76/6410">Ivan Serina</author>
+<title>Fast Planning through Greedy Action Graphs.</title>
+<pages>503-510</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GereviniS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-072.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HuangSK99" mdate="2021-02-10">
+<author pid="59/3242">Yi-Cheng Huang</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<title>Control Knowledge in Planning: Benefits and Tradeoffs.</title>
+<pages>511-517</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#HuangSK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-073.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/IntilleB99" mdate="2021-02-10">
+<author pid="96/2745">Stephen S. Intille</author>
+<author pid="b/AaronFBobick">Aaron F. Bobick</author>
+<title>A Framework for Recognizing Multi-Agent Action from Visual Evidence.</title>
+<pages>518-525</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#IntilleB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-074.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KautzW99" mdate="2021-02-10">
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<author pid="19/865">Joachim P. Walser</author>
+<title>State-space Planning by Integer Optimization.</title>
+<pages>526-533</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KautzW99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-075.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LotemNH99" mdate="2021-02-10">
+<author pid="48/6105">Amnon Lotem</author>
+<author pid="n/DanaSNau">Dana S. Nau</author>
+<author pid="h/JamesAHendler">James A. Hendler</author>
+<title>Using Planning Graphs for Solving HTN Planning Problems.</title>
+<pages>534-540</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LotemNH99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-076.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MadaniHC99" mdate="2021-02-10">
+<author pid="82/1151">Omid Madani</author>
+<author pid="56/2425">Steve Hanks</author>
+<author pid="c/AnneCondon">Anne Condon</author>
+<title>On the Undecidability of Probabilistic Planning and Infinite-Horizon Partially Observable Markov Decision Problems.</title>
+<pages>541-548</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MadaniHC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-077.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MajercikL99" mdate="2021-02-10">
+<author pid="64/2517">Stephen M. Majercik</author>
+<author pid="l/MLLittman">Michael L. Littman</author>
+<title>Contingent Planning Under Uncertainty via Stochastic Satisfiability.</title>
+<pages>549-556</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MajercikL99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-078.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MaliK99" mdate="2021-02-10">
+<author pid="m/ADMali">Amol Dattatraya Mali</author>
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<title>On the utility of Plan-space (Causal) Encodings.</title>
+<pages>557-563</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MaliK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-079.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Mouaddib99" mdate="2021-02-10">
+<author pid="90/5967">Abdel-Illah Mouaddib</author>
+<title>Anytime Coordination for Progressive Planning Agents.</title>
+<pages>564-569</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Mouaddib99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-080.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MyersL99" mdate="2021-02-10">
+<author pid="97/4391">Karen L. Myers</author>
+<author pid="00/6673">Thomas J. Lee</author>
+<title>Generating qualitatively Different Plans througt Metatheoretic Biases.</title>
+<pages>570-576</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MyersL99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-081.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/OnderP99" mdate="2021-02-10">
+<author pid="40/6734">Nilufer Onder</author>
+<author pid="p/MEPollack">Martha E. Pollack</author>
+<title>Conditional, Probabilistic Planning: A Unifying Algorithm and Effective Search Control Mechanisms.</title>
+<pages>577-584</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#OnderP99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-082.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BeekC99" mdate="2021-02-10">
+<author pid="b/PetervanBeek">Peter van Beek</author>
+<author pid="15/6446">Xinguang Chen</author>
+<title>CPlan: A Constraint Programming Approach to Planning.</title>
+<pages>585-590</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BeekC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-083.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/VidalR99" mdate="2021-02-10">
+<author pid="09/5817-1">Vincent Vidal 0001</author>
+<author pid="13/2110">Pierre R&#233;gnier</author>
+<title>Total Order Planning is More Efficient than we Thought.</title>
+<pages>591-596</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#VidalR99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-084.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Young99" mdate="2021-02-10">
+<author pid="140/7235">R. Michael Young</author>
+<title>Cooperative Plan Identification: Constructing Concise and Effective Plan Descriptions.</title>
+<pages>597-604</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Young99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-085.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZimmermanK99" mdate="2021-02-10">
+<author pid="18/4621">Terry Zimmerman</author>
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<title>Exploiting Symmetry in the Planning graph via Explanation-Guided Search.</title>
+<pages>605-611</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ZimmermanK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-086.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Robotics</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/EstlinGMRCCM99" mdate="2021-02-10">
+<author pid="07/479">Tara A. Estlin</author>
+<author pid="85/110">Alexander G. Gray</author>
+<author pid="86/237">Tobias Mann</author>
+<author pid="71/2350">Gregg Rabideau</author>
+<author pid="12/5757">Rebecca Casta&#241;o</author>
+<author pid="c/SteveAChien">Steve A. Chien</author>
+<author pid="71/2748">Eric Mjolsness</author>
+<title>An Integrated System for Multi-Rover Scientific Exploration.</title>
+<pages>613-620</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#EstlinGMRCCM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-087.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MatsuiAFMAKHO99" mdate="2021-02-10">
+<author pid="83/1351">Toshihiro Matsui</author>
+<author pid="45/2329">Hideki Asoh</author>
+<author pid="78/25">John Fry</author>
+<author pid="91/808">Yoichi Motomura</author>
+<author pid="11/3007">Futoshi Asano</author>
+<author pid="14/1998">Takio Kurita</author>
+<author pid="23/4640">Isao Hara</author>
+<author pid="82/4104">Nobuyuki Otsu</author>
+<title>Integrated Natural Spoken Dialogue System of Jijo-2 Mobile Robot for Office Services.</title>
+<pages>621-627</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MatsuiAFMAKHO99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-088.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Moy99" mdate="2021-02-10">
+<author pid="01/4252">Milyn C. Moy</author>
+<title>Gesture-Based Interaction with a Pet Robot.</title>
+<pages>628-633</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Moy99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-089.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RosensteinC99" mdate="2021-02-10">
+<author pid="15/909">Michael T. Rosenstein</author>
+<author pid="59/840">Paul R. Cohen</author>
+<title>Continuous Categories For a Mobile Robot.</title>
+<pages>634-640</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#RosensteinC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-090.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Satisfiability</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BailleuxM99" mdate="2021-02-10">
+<author pid="61/1873">Olivier Bailleux</author>
+<author pid="37/6177">Pierre Marquis</author>
+<title>DISTANCE-SAT: Complexity and Algorithms.</title>
+<pages>642-647</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BailleuxM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-091.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GentW99" mdate="2021-02-10">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Beyond NP: the QSAT phase transition.</title>
+<pages>648-653</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GentW99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-092.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GentHPW99" mdate="2021-02-10">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Morphing: Combining Structure and Randomness.</title>
+<pages>654-660</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GentHPW99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-093.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Hoos99" mdate="2021-02-10">
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<title>On the Run-time Behaviour of Stochastic Local Search Algorithms for SAT.</title>
+<pages>661-666</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Hoos99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-094.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Littman99" mdate="2021-02-10">
+<author pid="l/MLLittman">Michael L. Littman</author>
+<title>Initial Experiments in Stochastic Satisfiability.</title>
+<pages>667-672</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Littman99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-095.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WuW99" mdate="2021-02-10">
+<author pid="11/5670">Zhe Wu</author>
+<author pid="w/BenjaminWWah">Benjamin W. Wah</author>
+<title>Trap Escaping Strategies in Discrete Lagrangian Methods for Solving Hard Satisfiability and Maximum Satisfiability Problems.</title>
+<pages>673-678</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#WuW99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-096.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Scheduling</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BeckF99" mdate="2021-02-10">
+<author pid="43/2165">J. Christopher Beck</author>
+<author pid="57/2926">Mark S. Fox</author>
+<title>Scheduling Alternative Activities.</title>
+<pages>680-687</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BeckF99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-097.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WatsonBHW99" mdate="2021-02-10">
+<author pid="63/6471">Jean-Paul Watson</author>
+<author pid="90/2387">Laura Barbulescu</author>
+<author pid="h/AdeleEHowe">Adele E. Howe</author>
+<author pid="w/LDarrellWhitley">L. Darrell Whitley</author>
+<title>Algorithm Performance and Problem Structure for Flow-shop Scheduling.</title>
+<pages>688-695</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#WatsonBHW99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-098.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Search</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BillingsPSS99" mdate="2021-02-10">
+<author pid="76/1">Darse Billings</author>
+<author pid="69/202">Lourdes Pe&#241;a Castillo</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<author pid="s/DuaneSzafron">Duane Szafron</author>
+<title>Using Probabilistic Knowledge and Simulation to Play Poker.</title>
+<pages>697-703</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BillingsPSS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-099.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HolteH99" mdate="2021-02-10">
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<author pid="26/5876">Istv&#225;n T. Hern&#225;dv&#246;lgyi</author>
+<title>A Space-Time Tradeoff for Memory-Based Heuristics.</title>
+<pages>704-709</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#HolteH99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-100.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KeimSLACFGJPW99" mdate="2021-02-10">
+<author pid="39/917">Greg A. Keim</author>
+<author pid="80/4668">Noam M. Shazeer</author>
+<author pid="l/MLLittman">Michael L. Littman</author>
+<author pid="43/2561">Sushant Agarwal</author>
+<author pid="03/2856">Catherine M. Cheves</author>
+<author pid="52/384">Joseph Fitzgerald</author>
+<author pid="70/6160">Jason Grosland</author>
+<author pid="58/3794">Fan Jiang</author>
+<author pid="51/1840">Shannon Pollard</author>
+<author pid="12/6437">Karl Weinmeister</author>
+<title>PROVERB: The Probabilistic Cruciverbalist.</title>
+<pages>710-717</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KeimSLACFGJPW99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-101.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KoenigS99" mdate="2021-02-10">
+<author pid="k/SvenKoenig">Sven Koenig</author>
+<author pid="s/BKSzymanski">Boleslaw K. Szymanski</author>
+<title>Value-Update Rules for Real-Time Search.</title>
+<pages>718-724</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KoenigS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-102.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RomeinPBS99" mdate="2021-02-10">
+<author pid="28/2483">John W. Romein</author>
+<author pid="53/5607">Aske Plaat</author>
+<author pid="b/HenriEBal">Henri E. Bal</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>Transposition Table Driven Work Scheduling in Distributed Search.</title>
+<pages>725-731</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#RomeinPBS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-103.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Tractable Reasoning</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BenferhatDP99" mdate="2021-02-10">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="09/6707">Odile Papini</author>
+<title>A sequential reversible belief revision method based on polynomials.</title>
+<pages>733-738</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BenferhatDP99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-104.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DelgrandeGA99" mdate="2021-02-10">
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<author pid="g/ArvindGupta">Arvind Gupta</author>
+<author pid="24/4758">Tim Van Allen</author>
+<title>Point-Based Approaches to Qualitative Temporal Reasoning.</title>
+<pages>739-744</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#DelgrandeGA99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-105.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KoubarakisS99" mdate="2021-02-10">
+<author pid="40/4517">Manolis Koubarakis</author>
+<author pid="01/5237">Spiros Skiadopoulos</author>
+<title>Querying Temporal Constraint Networks in PTIME.</title>
+<pages>745-750</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KoubarakisS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-106.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Stachniak99" mdate="2021-02-10">
+<author pid="32/4183">Zbigniew Stachniak</author>
+<title>Polarity Guided Tractable Reasoning.</title>
+<pages>751-758</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Stachniak99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-107.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Vision</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BrodleyKSDBA99" mdate="2021-02-10">
+<author pid="24/1941">Carla E. Brodley</author>
+<author pid="k/AKak">Avinash C. Kak</author>
+<author pid="44/6873">Chi-Ren Shyu</author>
+<author pid="24/6000">Jennifer G. Dy</author>
+<author pid="41/3783">Lynn S. Broderick</author>
+<author pid="72/370">Alex M. Aisen</author>
+<title>Content-Based Retrieval from Medical Image Databases: A Synergy of Human Interaction, Machine Learning and Computer Vision.</title>
+<pages>760-767</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BrodleyKSDBA99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-108.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NakagawaOK99" mdate="2021-02-10">
+<author pid="92/6656">Yukiko Nakagawa</author>
+<author pid="09/2222">Hiroshi G. Okuno</author>
+<author pid="71/1622">Hiroaki Kitano</author>
+<title>Using Vision to Improve Sound Source Separation.</title>
+<pages>768-775</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#NakagawaOK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-109.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Innovative Applications of Artificial Intelligence Papers</h2> 
+<h3>Deployed Applications</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BulitkoW99" mdate="2021-02-10">
+<author pid="b/VadimBulitko">Vadim Bulitko</author>
+<author pid="83/754">David C. Wilkins</author>
+<title>Automated Instructor Assistant for Ship Damage Control.</title>
+<pages>778-785</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BulitkoW99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-110.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChunCTY99" mdate="2021-02-10">
+<author pid="c/AndyHonWaiChun">Andy Hon Wai Chun</author>
+<author pid="36/3769">Steve Ho Chuen Chan</author>
+<author pid="66/3515">Francis Ming Fai Tsang</author>
+<author pid="11/1044">Dennis Wai Ming Yeung</author>
+<title>HKIA SAS: A Constraint-Based Airport Stand Allocation System Developed with Software Components.</title>
+<pages>786-793</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ChunCTY99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-111.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HubnerLBP99" mdate="2021-02-10">
+<author pid="78/2816">Andr&#233; H&#252;bner</author>
+<author pid="37/1195">Mario Lenz</author>
+<author pid="45/315">Roman Borch</author>
+<author pid="31/1497">Michael Posthoff</author>
+<title>Last Minute Travel Application.</title>
+<pages>794-798</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#HubnerLBP99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-112.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HyvonenP99" mdate="2021-02-10">
+<author pid="82/5790">Eero Hyv&#246;nen</author>
+<author pid="09/6813">Stefano De Pascale</author>
+<title>A New Basis for Spreadsheet Computing: Interval Solver for Microsoft Excel.</title>
+<pages>799-806</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#HyvonenP99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-113.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/JoLLH99" mdate="2021-02-10">
+<author pid="58/386">GeunSik Jo</author>
+<author pid="10/3090">Kang-Hee Lee</author>
+<author pid="44/109">Hwi-Yoon Lee</author>
+<author pid="57/3019">Sang-Ho Hyun</author>
+<title>Ramp Activity Expert System for Scheduling and Co-ordination at an Airport.</title>
+<pages>807-812</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#JoLLH99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-114.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RabideauCWM99" mdate="2021-02-10">
+<author pid="71/2350">Gregg Rabideau</author>
+<author pid="c/SteveAChien">Steve A. Chien</author>
+<author pid="28/5589">Jason Willis</author>
+<author pid="86/237">Tobias Mann</author>
+<title>Using Iterative Repair to Automate Planning and Scheduling of Shuttle Payload Operations.</title>
+<pages>813-820</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#RabideauCWM99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-115.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Rychtyckyj99" mdate="2021-02-10">
+<author pid="02/5961">Nestor Rychtyckyj</author>
+<title>DLMS: Ten Years of AI for Vehicle Assembly Process Planning.</title>
+<pages>821-828</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Rychtyckyj99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-116.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TidharHGMAL99" mdate="2021-02-10">
+<author pid="46/6202">Gil Tidhar</author>
+<author pid="53/690">Clinton Heinze</author>
+<author pid="86/3760">Simon Goss</author>
+<author pid="03/1158">Graeme Murray</author>
+<author pid="61/1620">Dino Appla</author>
+<author pid="54/3920">Ian J. Lloyd</author>
+<title>Using Intelligent Agents in Military Simulation or &#34;Using Agents Intelligently&#34;.</title>
+<pages>829-836</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#TidharHGMAL99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-117.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Emerging Applications</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AbdennadherS99" mdate="2021-02-10">
+<author pid="a/SlimAbdennadher">Slim Abdennadher</author>
+<author pid="02/6234">Hans Schlenker</author>
+<title>Nurse Scheduling using Constraint Logic Programming.</title>
+<pages>838-843</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#AbdennadherS99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-118.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Burke99" mdate="2021-02-10">
+<author pid="58/2337">Robin D. Burke</author>
+<title>The Wasabi Personal Shopper: A Case-Based Recommender System.</title>
+<pages>844-849</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Burke99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-119.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChaiB99" mdate="2021-02-10">
+<author pid="c/JoyceYChai">Joyce Yue Chai</author>
+<author pid="b/AWBiermann">Alan W. Biermann</author>
+<title>The Use of Word Sense Disambiguation in an Information Extraction System.</title>
+<pages>850-855</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ChaiB99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-120.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FisherEMC99" mdate="2021-02-10">
+<author pid="52/4616">Forest Fisher</author>
+<author pid="07/479">Tara A. Estlin</author>
+<author pid="48/5812">Darren Mutz</author>
+<author pid="c/SteveAChien">Steve A. Chien</author>
+<title>Using Artificial Intelligence Planning to Generate Antenna Tracking Plans.</title>
+<pages>856-863</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#FisherEMC99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-121.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KohoutE99" mdate="2021-02-10">
+<author pid="93/2799">Robert C. Kohout</author>
+<author pid="36/4924">Kutluhan Erol</author>
+<title>In-Time Agent-Based Vehicle Routing with a Stochastic Improvement Heuristic.</title>
+<pages>864-869</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#KohoutE99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-122.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Munoz-AvilaABN99" mdate="2021-02-10">
+<author pid="m/HectorMunozAvila">H&#233;ctor Mu&#241;oz-Avila</author>
+<author pid="25/557">David W. Aha</author>
+<author pid="28/7918">Len Breslow</author>
+<author pid="n/DanaSNau">Dana S. Nau</author>
+<title>HICAP: An Interactive Case-Based Planning Architecture and its Application to Noncombatant Evacuation Operations.</title>
+<pages>870-875</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Munoz-AvilaABN99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-123.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MyersZG99" mdate="2021-02-10">
+<author pid="97/4391">Karen L. Myers</author>
+<author pid="39/2894">Nina B. Zumel</author>
+<author pid="57/27">Pablo Garcia</author>
+<title>Automated Capture of Rationale for the Detailed Design Process.</title>
+<pages>876-883</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MyersZG99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-124.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PrasadM99" mdate="2021-02-10">
+<author pid="85/5888">M. V. Nagendra Prasad</author>
+<author pid="35/2123">Joseph F. McCarthy</author>
+<title>A Multi-Agent System for Meting Out Influence in an Intelligent Environment.</title>
+<pages>884-890</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#PrasadM99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-125.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/VelosoBAHS99" mdate="2021-02-10">
+<author pid="v/ManuelaMVeloso">Manuela M. Veloso</author>
+<author pid="71/5161">Michael H. Bowling</author>
+<author pid="a/SAchim">Sorin Achim</author>
+<author pid="63/2419">Kwun Han</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>CMUnited-98: A Team of Robotic Soccer Agents.</title>
+<pages>891-896</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#VelosoBAHS99</url>
+<ee type="oa">http://www.aaai.org/Library/IAAI/1999/iaai99-126.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>AAAI-99 Intelligent Systems Demos</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BarberGHKLMM99" mdate="2021-02-10">
+<author pid="b/KSuzanneBarber">K. Suzanne Barber</author>
+<author pid="19/2619">Anuj Goel</author>
+<author pid="45/206">David C. Han</author>
+<author pid="63/1125">Joonoo Kim</author>
+<author pid="12/1678">Tse-Hsin Liu</author>
+<author pid="76/2095">Cheryl E. Martin</author>
+<author pid="09/4740">Ryan McKay</author>
+<title>Sensible Agents: Demonstration of Dynamic Configuration of Agent Organizations for Responsive Planning Operations.</title>
+<pages>898-899</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BarberGHKLMM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-127.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BoicuWMLBT99" mdate="2021-02-10">
+<author pid="72/4232">Mihai Boicu</author>
+<author pid="03/6765">Kathryn Wright</author>
+<author pid="19/1057">Dorin Marcu</author>
+<author pid="50/716">Seok Won Lee</author>
+<author pid="99/6338">Michael Bowman</author>
+<author pid="02/3198">Gheorghe Tecuci</author>
+<title>The Disciple Integrated Shell and Methodology for Rapid Development of Knowledge-Based Agents.</title>
+<pages>900-901</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BoicuWMLBT99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-128.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Druzdzel99" mdate="2021-02-10">
+<author pid="d/MarekJDruzdzel">Marek J. Druzdzel</author>
+<title>SMILE: Structural Modeling, Inference, and Learning Engine and GeNIE: A Development Environment for Graphical Decision-Theoretic Models.</title>
+<pages>902-903</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Druzdzel99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-129.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EilertsLY99" mdate="2021-02-10">
+<author pid="48/4017">Erik Eilerts</author>
+<author pid="59/860">Kathleen O'Neil Lossau</author>
+<author pid="81/1457">Christopher York</author>
+<title>Knowledge Base Discovery Tool.</title>
+<pages>904-905</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#EilertsLY99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-130.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FergusonA99" mdate="2021-02-10">
+<author pid="93/3815">George Ferguson</author>
+<author pid="a/JFAllen">James F. Allen</author>
+<title>TRIPS: The Rochester Interactive Planning System.</title>
+<pages>906-907</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#FergusonA99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-131.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Frost99" mdate="2021-02-10">
+<author pid="54/5719">Richard A. Frost</author>
+<title>A Natural-Language Speech Interface Constructed Entirely as a Set of Executable Specifications.</title>
+<pages>908-909</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Frost99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-132.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GomezS99" mdate="2021-02-10">
+<author pid="g/FernandoGomez">Fernando Gomez</author>
+<author pid="96/441">Carlos Segami</author>
+<title>A System for the Semantic Interpretation of Unrestricted Domains using WordNet.</title>
+<pages>910-911</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GomezS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-133.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Grosof99" mdate="2021-02-10">
+<author pid="g/BenjaminNGrosof">Benjamin N. Grosof</author>
+<title>DIPLOMAT: Compiling Prioritized Default Rules into Ordinary Logic Programs, for E-Commerce Applications.</title>
+<pages>912-913</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Grosof99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-134.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LittmanKS99" mdate="2021-02-10">
+<author pid="l/MLLittman">Michael L. Littman</author>
+<author pid="39/917">Greg A. Keim</author>
+<author pid="80/4668">Noam M. Shazeer</author>
+<title>Solving Crosswords with PROVERB.</title>
+<pages>914-915</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LittmanKS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-135.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/McVeyCMP99" mdate="2021-02-10">
+<author pid="61/1575">Charles B. McVey</author>
+<author pid="03/3817">David P. Clements</author>
+<author pid="m/BartonCMassey">Barton C. Massey</author>
+<author pid="54/5382">Andrew J. Parkes</author>
+<title>Worldwide Aeronautical Route Planner.</title>
+<pages>916-917</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#McVeyCMP99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-136.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MostowA99" mdate="2021-02-10">
+<author pid="m/JackMostow">Jack Mostow</author>
+<author pid="27/4570">Gregory Aist</author>
+<title>Authoring New Material in a Reading Tutor that Listens.</title>
+<pages>918-919</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MostowA99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-137.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NohG99" mdate="2021-02-10">
+<author pid="57/3060">Sanguk Noh</author>
+<author pid="50/887">Piotr J. Gmytrasiewicz</author>
+<title>Demonstration of Rational Communicative Behavior in Coordinated Defense.</title>
+<pages>920-921</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#NohG99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-138.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RainesTM99" mdate="2021-02-10">
+<author pid="24/995">Taylor Raines</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="m/StacyMarsella">Stacy Marsella</author>
+<title>Automated Team Analysis.</title>
+<pages>922</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#RainesTM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-139.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Sandholm99" mdate="2021-02-10">
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<title>eMediator: a Next Generation Electronic Commerce Server.</title>
+<pages>923-924</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Sandholm99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-140.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SegalK99" mdate="2021-08-29">
+<author pid="76/9055">Richard B. Segal</author>
+<author pid="10/3207">Jeffrey O. Kephart</author>
+<title>MailCat: An Intelligent Assistant for Organizing E-Mail.</title>
+<pages>925-926</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#SegalK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-141.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/StarrCKGT99" mdate="2021-02-10">
+<author pid="58/854">Barbara Starr</author>
+<author pid="86/4084">Vinay K. Chaudhri</author>
+<author pid="k/BorisKatz">Boris Katz</author>
+<author pid="39/3183">Benjamin M. Good</author>
+<author pid="22/6012">J&#233;r&#244;me Thom&#233;r&#233;</author>
+<title>HIKE (HPKB Integrated Knowledge Environment) - A Query Interface and Integrated Knowledge Environment for HPKB.</title>
+<pages>927-928</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#StarrCKGT99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-142.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LentLBHHST99" mdate="2021-02-10">
+<author pid="58/3588">Michael van Lent</author>
+<author pid="l/JohnELaird">John E. Laird</author>
+<author pid="78/282">Josh Buckman</author>
+<author pid="19/7019">Joe Hartford</author>
+<author pid="97/1166">Steve Houchard</author>
+<author pid="45/2558">Kurt Steinkraus</author>
+<author pid="73/1296">Russ Tedrake</author>
+<title>Intelligent Agents in Computer Games.</title>
+<pages>929-930</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LentLBHHST99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-143.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Robot Competition and Exhibition</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AcarSRRBMC99" mdate="2021-02-10">
+<author pid="58/4317">Ercan U. Acar</author>
+<author pid="98/4914">Morgan Simmons</author>
+<author pid="68/3529">Michael Rosenblatt</author>
+<author pid="68/4433">Maayan Roth</author>
+<author pid="k/MaryKoes">Mary Berna</author>
+<author pid="05/3895">Yonatan Mittlefehldt</author>
+<author pid="c/HowieChoset">Howie Choset</author>
+<title>Sensor Based Coverage of Unknown Environments for Land Mine Detection.</title>
+<pages>932-933</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#AcarSRRBMC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-144.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/AdamsPS99" mdate="2021-02-10">
+<author pid="55/3100">William Adams</author>
+<author pid="60/1655">Dennis Perzanowski</author>
+<author pid="78/230">Alan C. Schultz</author>
+<title>A Natural Interface and Unified Skills for a Mobile Robot.</title>
+<pages>934-935</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#AdamsPS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-145.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BlechaBKCSG99" mdate="2021-02-10">
+<author pid="22/3721">Frank Blecha</author>
+<author pid="71/2007">Tim Beese</author>
+<author pid="42/3195">Damon Kuntz</author>
+<author pid="34/4952">Jonathan Cameron</author>
+<author pid="51/4059">David Sexton</author>
+<author pid="92/3390">David A. Gustafson</author>
+<title>Kansas State Robotics.</title>
+<pages>936</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#BlechaBKCSG99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-146.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Stormont99" mdate="2021-02-10">
+<author pid="75/3146">Daniel P. Stormont</author>
+<title>Web-Based Mobile Robot Simulator.</title>
+<pages>937-938</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Stormont99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-147.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>1999 SIGART/AAAI Doctoral Consortium</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Amir99" mdate="2021-02-10">
+<author pid="17/1143">Eyal Amir</author>
+<title>Elaboration Tolerance of Logical Theories.</title>
+<pages>940</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Amir99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-148.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Bayer99" mdate="2021-02-10">
+<author pid="64/3633">Valentina Bayer</author>
+<title>Approximation Algorithms for Solving Cost Observable Markov Decision Processes.</title>
+<pages>941</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Bayer99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-149.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Brilhante99" mdate="2021-02-10">
+<author pid="22/6707">Virg&#237;nia V. B. Biris Brilhante</author>
+<title>Using Formal Meta-Data Descriptions for Automated Ecological Modeling.</title>
+<pages>942</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Brilhante99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-150.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Chady99" mdate="2021-02-10">
+<author pid="95/1332">Marcin Chady</author>
+<title>Modelling Higher Cognitive Functions with Hebbian Cell Assemblies.</title>
+<pages>943</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Chady99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-151.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Chang99" mdate="2021-02-10">
+<author pid="77/91">Nancy Chang</author>
+<title>Learning form-meaning mappings for language.</title>
+<pages>944</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Chang99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-152.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/El-Sheikh99" mdate="2021-02-10">
+<author pid="27/3644">Eman El-Sheikh</author>
+<title>Development of a Methodology and Software Shell for the Automatic Generation of Intelligent Tutoring Systems from Existing Generic Task-based Expert Systems.</title>
+<pages>945</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#El-Sheikh99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-153.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Harada99" mdate="2021-02-10">
+<author pid="67/3618">Daishi Harada</author>
+<title>Towards Bounded Optimal Meta-Level Control: A Case Study.</title>
+<pages>946</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Harada99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-154.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Kaminka99" mdate="2021-02-10">
+<author pid="28/5426">Gal A. Kaminka</author>
+<title>Execution Monitoring and Diagnosis in Multi-Agent Environments.</title>
+<pages>947</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Kaminka99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-155.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Lapata99" mdate="2021-02-10">
+<author pid="06/2164">Maria Lapata</author>
+<title>Corpus-Based Induction of Lexical Representation and Meaning.</title>
+<pages>948</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Lapata99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-156.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Li99" mdate="2021-02-10">
+<author pid="l/CenLi">Cen Li</author>
+<title>Data Driven Profiling of Dynamic System Behavior using Hidden Markov Model based Combined Unsupervised and Supervised Classification.</title>
+<pages>949</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Li99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-157.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Majercik99" mdate="2021-02-10">
+<author pid="64/2517">Stephen M. Majercik</author>
+<title>Planning Under Uncertainty via Stochastic Statisfiability.</title>
+<pages>950</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Majercik99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-158.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Margineantu99" mdate="2021-02-10">
+<author pid="34/5356">Dragos D. Margineantu</author>
+<title>Applying Supervised Learning to Real-World Problems.</title>
+<pages>951</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Margineantu99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-159.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Pan99" mdate="2021-02-10">
+<author pid="p/ShimeiPan">Shimei Pan</author>
+<title>Modeling Prosody Automatically in Concept-to-Speech Generation.</title>
+<pages>952</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Pan99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-160.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Pasula99" mdate="2021-02-10">
+<author pid="p/HannaMPasula">Hanna Pasula</author>
+<title>A Bayesian approach to object identification.</title>
+<pages>953</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Pasula99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-161.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Rudova99" mdate="2021-02-10">
+<author pid="07/4902">Hana Rudov&#225;</author>
+<title>Over-Constrained Systems.</title>
+<pages>954</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Rudova99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-162.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Tran99" mdate="2021-02-10">
+<author pid="s/TranCaoSon">Tran Cao Son</author>
+<title>Reasoning about Sensing Actions and Reactivity.</title>
+<pages>955</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Tran99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-163.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Student Abstracts</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/ByronA99" mdate="2021-02-10">
+<author pid="19/4392">Donna K. Byron</author>
+<author pid="a/JFAllen">James F. Allen</author>
+<title>Applying Genetic Algorithms to Pronoun Resolution.</title>
+<pages>957</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ByronA99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-164.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Chadwick99" mdate="2021-02-10">
+<author pid="14/2856">Steve P. Chadwick</author>
+<title>Automatic Sample-by-sample Model Selection Between Two Off-the-shelf Classifiers.</title>
+<pages>958</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Chadwick99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-165.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChittimooriGH99" mdate="2021-02-10">
+<author pid="05/6473">Ravindra N. Chittimoori</author>
+<author pid="53/4427">Jesus A. Gonzalez</author>
+<author pid="h/LawrenceBHolder">Lawrence B. Holder</author>
+<title>Structural Knowledge Discovery in Chemical and Spatio-Temporal Databases.</title>
+<pages>959</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ChittimooriGH99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-166.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Eisenstein99" mdate="2021-02-10">
+<author pid="82/2305">Jacob Eisenstein</author>
+<title>Learning Design Guidelines by Theory Refinement.</title>
+<pages>960</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Eisenstein99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-167.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GittensGKM99" mdate="2021-02-10">
+<author pid="76/3197">Shaun Gittens</author>
+<author pid="44/6418">Richard Goodwin</author>
+<author pid="05/4351">Jayant Kalagnanam</author>
+<author pid="48/2728">Sesh Murthy</author>
+<title>Using Neural Networks in Agent Teams to Speed Up Solution Discovery for Hard Multi-Criteria Problems.</title>
+<pages>961</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GittensGKM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-168.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GoelB99" mdate="2021-02-10">
+<author pid="19/2619">Anuj Goel</author>
+<author pid="b/KSuzanneBarber">K. Suzanne Barber</author>
+<title>OBDD-Based Planning with Real-Valued Variables in Non-Deterministic Environments.</title>
+<pages>962</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GoelB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-169.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GrecuB99" mdate="2021-02-10">
+<author pid="59/1873">Dan L. Grecu</author>
+<author pid="53/2134">David C. Brown</author>
+<title>Expectation-based Learning in Design.</title>
+<pages>963</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#GrecuB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-170.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HanLB99" mdate="2021-02-10">
+<author pid="45/206">David C. Han</author>
+<author pid="12/1678">Tse-Hsin Liu</author>
+<author pid="b/KSuzanneBarber">K. Suzanne Barber</author>
+<title>A Framework for Problem Solving Activities in Multi-Agent Systems.</title>
+<pages>964</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#HanLB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-171.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LagoudakisM99" mdate="2021-02-10">
+<author pid="33/2534">Michail G. Lagoudakis</author>
+<author pid="98/4656">Anthony S. Maida</author>
+<title>Robot Navigation with a Polar Neural Map.</title>
+<pages>965</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LagoudakisM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-172.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LeachHL99" mdate="2021-02-10">
+<author pid="l/SoniaMLeach">Sonia M. Leach</author>
+<author pid="h/LawrenceHunter">Lawrence Hunter</author>
+<author pid="07/2508">David Landsman</author>
+<title>Comparison of Clustering Metrics and Unsupervised Learning Algorithms on Genome-Wide Gene Expression Level Data.</title>
+<pages>966</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LeachHL99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-173.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LeeT99" mdate="2021-02-10">
+<author pid="50/716">Seok Won Lee</author>
+<author pid="02/3198">Gheorghe Tecuci</author>
+<title>Knowledge Base Revision through Exception-driven Discovery and Learning.</title>
+<pages>967</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LeeT99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-174.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LivingstonB99" mdate="2021-02-10">
+<author pid="87/3768">Gary Livingston</author>
+<author pid="b/BGBuchanan">Bruce G. Buchanan</author>
+<title>Autonomous Discovery In Empirical Domains.</title>
+<pages>968</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LivingstonB99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-175.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LuanPF99" mdate="2021-02-10">
+<author pid="37/4739">Xiaocheng Luan</author>
+<author pid="86/1825">Yun Peng</author>
+<author pid="f/TWFinin">Timothy W. Finin</author>
+<title>Learning in Broker Agent.</title>
+<pages>969</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#LuanPF99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-176.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Mahoney99" mdate="2021-02-10">
+<author pid="25/1792">Matthew V. Mahoney 0001</author>
+<title>Text Compression as a Test for Artificial Intelligence.</title>
+<pages>970</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Mahoney99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-177.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Mali99" mdate="2021-02-10">
+<author pid="m/ADMali">Amol Dattatraya Mali</author>
+<title>Externalizing Internal State.</title>
+<pages>971</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Mali99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-178.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Mali99a" mdate="2021-02-10">
+<author pid="m/ADMali">Amol Dattatraya Mali</author>
+<title>Hybrid Propositional Encodings of Planning.</title>
+<pages>972</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Mali99a</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-179.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ManiC99" mdate="2021-02-10">
+<author pid="12/3125">Subramani Mani</author>
+<author pid="96/2706">Gregory F. Cooper</author>
+<title>Causal Discovery from Population-Based Infant Birth and Death Records.</title>
+<pages>973</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ManiC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-180.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Moy99a" mdate="2021-02-10">
+<author pid="01/4252">Milyn C. Moy</author>
+<title>Interacting with a Pet Robot using Hand Gestures.</title>
+<pages>974</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Moy99a</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-181.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MusleaMK99" mdate="2021-02-10">
+<author pid="69/3665">Ion Muslea</author>
+<author pid="m/SMinton">Steven Minton</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<title>Active Learning for Hierarchical Wrapper Induction.</title>
+<pages>975</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#MusleaMK99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-182.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PetersonC99" mdate="2021-02-10">
+<author pid="59/722">Gilbert L. Peterson</author>
+<author pid="c/DianeJCook">Diane J. Cook</author>
+<title>Decision-Theoretic Layered Robotic Control Architecture.</title>
+<pages>976</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#PetersonC99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-183.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Pfleger99" mdate="2021-02-10">
+<author pid="69/5287">Karl Pfleger</author>
+<title>Learning of Compositional Hierarchies By Data-Driven Chunking.</title>
+<pages>977</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Pfleger99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-184.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Phillips99" mdate="2022-05-13">
+<author pid="320/2427">Joseph Perry Phillips</author>
+<title>A representation reducing approach to scientific discovery.</title>
+<pages>978</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Phillips99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-185.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ProdromidisS99" mdate="2021-02-10">
+<author pid="14/4744">Andreas L. Prodromidis</author>
+<author pid="s/SalvatoreJStolfo">Salvatore J. Stolfo</author>
+<title>Minimal Cost Complexity Pruning of Meta-Classifiers.</title>
+<pages>979</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#ProdromidisS99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-186.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Rumantir99" mdate="2021-02-10">
+<author pid="52/3683">Grace W. Rumantir</author>
+<title>Comparison of Second-order Polynomial Model Selection Methods: an Experimental Survey.</title>
+<pages>980</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Rumantir99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-187.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SingerV99" mdate="2021-02-10">
+<author pid="06/3779">Bryan Singer</author>
+<author pid="v/ManuelaMVeloso">Manuela M. Veloso</author>
+<title>Learning State Features from Policies to Bias Exploration in Reinforcement Learning.</title>
+<pages>981</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#SingerV99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-188.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Srivastava99" mdate="2021-02-10">
+<author pid="33/4411">Biplav Srivastava</author>
+<title>Investigating the Effect of Relevance and Reachability Constraints on SAT Encodings of Planning.</title>
+<pages>982</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Srivastava99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-189.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TejadaKM99" mdate="2021-02-10">
+<author pid="90/5210">Sheila Tejada</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<author pid="m/SMinton">Steven Minton</author>
+<title>Learning to Handle Inconsistency for Multi-Source Integration.</title>
+<pages>983</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#TejadaKM99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-190.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Upal99" mdate="2021-02-10">
+<author pid="39/8885">Muhammad Afzal Upal</author>
+<title>Learning rewrite rules to improve plan quality.</title>
+<pages>984</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Upal99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-191.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/UzunerKY99" mdate="2021-02-10">
+<author pid="43/957">&#214;zlem Uzuner</author>
+<author pid="k/BorisKatz">Boris Katz</author>
+<author pid="84/4160">Deniz Yuret</author>
+<title>Word Sense Disambiguation for Information Retrieval.</title>
+<pages>985</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#UzunerKY99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-192.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Invited Talk</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Epstein99" mdate="2021-02-10">
+<author pid="79/4353">Susan L. Epstein</author>
+<title>Game Playing: The Next Moves.</title>
+<pages>987-993</pages>
+<year>1999</year>
+<crossref>conf/aaai/1999</crossref>
+<booktitle>AAAI/IAAI</booktitle>
+<url>db/conf/aaai/aaai99.html#Epstein99</url>
+<ee type="oa">http://www.aaai.org/Library/AAAI/1999/aaai99-193.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

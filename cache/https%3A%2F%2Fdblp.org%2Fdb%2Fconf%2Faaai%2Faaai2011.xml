@@ -1,0 +1,3916 @@
+<bht key="db/conf/aaai/aaai2011.bht" title="25. AAAI 2011: San Francisco, California, USA"> 
+<h1>25th <ref href="db/conf/aaai/index.html">AAAI</ref> 2011:
+San Francisco, California, USA</h1> <dblpcites><r><proceedings key="conf/aaai/2011" mdate="2011-08-09">
+<editor pid="b/WolframBurgard">Wolfram Burgard</editor>
+<editor pid="r/DanRoth">Dan Roth</editor>
+<title>Proceedings of the Twenty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2011, San Francisco, California, USA, August 7-11, 2011</title>
+<publisher>AAAI Press</publisher>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2011.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Constraints, Satisfiability, and Search</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AkgunMJFH11" mdate="2021-02-18">
+<author pid="35/9923">Ozgur Akgun</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="51/6077">Alan M. Frisch</author>
+<author pid="66/5390">Brahim Hnich</author>
+<title>Extensible Automated Constraint Modelling.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3687</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AkgunMJFH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BurkettHK11" mdate="2021-02-18">
+<author pid="36/460">David Burkett</author>
+<author pid="133/2070">David Hall 0006</author>
+<author pid="22/1139">Dan Klein</author>
+<title>Optimal Graph Search with Iterated Graph Cuts.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3778</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BurkettHK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EdelkampK11" mdate="2021-02-18">
+<author pid="98/3919">Stefan Edelkamp</author>
+<author pid="79/6191">Peter Kissmann</author>
+<title>On the Complexity of BDDs for State Space Search: A Case Study in Connect Four.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3690</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#EdelkampK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GoldenbergSFS11" mdate="2021-02-18">
+<author pid="94/9797">Meir Goldenberg</author>
+<author pid="18/991">Nathan R. Sturtevant</author>
+<author pid="43/5063">Ariel Felner</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>The Compressed Differential Heuristic.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3723</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GoldenbergSFS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HatemBR11" mdate="2021-02-18">
+<author pid="81/9923">Matthew Hatem</author>
+<author pid="30/7442">Ethan Burns</author>
+<author pid="80/5790">Wheeler Ruml</author>
+<title>Heuristic Search for Large Problems With Real Costs.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3758</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HatemBR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HerasMM11" mdate="2023-02-08">
+<author pid="11/303">Federico Heras</author>
+<author pid="23/4454-1">Ant&#243;nio Morgado 0001</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o Marques-Silva 0001</author>
+<title>Core-Guided Binary Search Algorithms for Maximum Satisfiability.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3713</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HerasMM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HuangK11" mdate="2021-02-18">
+<author pid="16/3126">Eric Huang</author>
+<author pid="18/2128">Richard E. Korf</author>
+<title>Optimal Packing of High-Precision Rectangles.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3581</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HuangK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/JainSS11" mdate="2021-02-18">
+<author pid="81/8212-1">Siddhartha Jain 0001</author>
+<author pid="13/154">Ashish Sabharwal</author>
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<title>A General Nogood-Learning Framework for Pseudo-Boolean Multi-Valued SAT.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3728</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#JainSS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KaskGOD11" mdate="2021-02-18">
+<author pid="04/6122">Kalev Kask</author>
+<author pid="03/9922">Andrew Gelfand</author>
+<author pid="32/2145">Lars Otten</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>Pushing the Power of Stochastic Greedy Ordering Schemes for Inference in Graphical Models.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3771</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KaskGOD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LawLWW11" mdate="2021-02-18">
+<author pid="50/5829">Yat Chiu Law</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<author pid="20/7442">May Hiu-Chun Woo</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>A Comparison of Lex Bounds for Multiset Variables in Constraint Programming.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3796</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LawLWW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LeauteF11" mdate="2021-02-18">
+<author pid="70/5749">Thomas L&#233;aut&#233;</author>
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<title>Distributed Constraint Optimization Under Stochastic Uncertainty.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3430</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LeauteF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PhillipsL11" mdate="2021-02-18">
+<author pid="40/6084">Mike Phillips</author>
+<author pid="33/1426">Maxim Likhachev</author>
+<title>Planning in Domains with Cost Function Dependent Actions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3766</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#PhillipsL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RaynerBS11" mdate="2021-02-18">
+<author pid="28/1679">D. Chris Rayner</author>
+<author pid="71/5161">Michael H. Bowling</author>
+<author pid="18/991">Nathan R. Sturtevant</author>
+<title>Euclidean Heuristic Optimization.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3594</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#RaynerBS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SchmidtZ11" mdate="2021-02-18">
+<author pid="32/5827">Tim Schmidt</author>
+<author pid="z/RongZhou1">Rong Zhou 0001</author>
+<title>Succinct Set-Encoding for State-Space Search.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3656</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SchmidtZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Szeider11" mdate="2021-02-18">
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Limits of Preprocessing.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3629</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Szeider11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TrombettoniANC11" mdate="2022-05-06">
+<author pid="55/2812">Gilles Trombettoni</author>
+<author pid="88/3432">Ignacio Araya 0001</author>
+<author pid="39/6105">Bertrand Neveu</author>
+<author pid="89/1246">Gilles Chabert</author>
+<title>Inner Regions and Interval Linearizations for Global Optimization.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3649</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#TrombettoniANC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BergSHG11" mdate="2021-02-18">
+<author pid="96/3850">Jur van den Berg</author>
+<author pid="74/9923">Rajat Shah</author>
+<author pid="81/7130">Arthur Huang</author>
+<author pid="g/KennethYGoldberg">Kenneth Y. Goldberg</author>
+<title>Anytime Nonparametric A.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3680</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BergSHG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WoodwardKCB11" mdate="2021-02-18">
+<author pid="30/8009">Robert J. Woodward</author>
+<author pid="70/574">Shant Karakashian</author>
+<author pid="64/4385">Berthe Y. Choueiry</author>
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<title>Solving Difficult CSPs with Relational Neighborhood Inverse Consistency.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3737</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WoodwardKCB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YapBHS11" mdate="2021-02-18">
+<author pid="35/4951">Peter Yap</author>
+<author pid="66/2770">Neil Burch</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>Block A*: Database-Driven Search with Applications in Any-Angle Path-Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3449</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#YapBHS11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge-Based Information Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/JiangSCWSX11" mdate="2021-02-18">
+<author pid="28/9923">Qingye Jiang</author>
+<author pid="37/2900">Guojie Song</author>
+<author pid="33/3180">Gao Cong</author>
+<author pid="02/5889">Yu Wang</author>
+<author pid="99/9923">Wenjun Si</author>
+<author pid="06/1913">Kunqing Xie</author>
+<title>Simulated Annealing Based Influence Maximization in Social Networks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3670</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#JiangSCWSX11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiLJXZ11" mdate="2021-05-19">
+<author pid="77/1298">Ruijiang Li</author>
+<author pid="89/6764-15">Bin Li 0015</author>
+<author pid="84/4201">Cheng Jin</author>
+<author pid="84/3791">Xiangyang Xue</author>
+<author pid="26/4253">Xingquan Zhu 0001</author>
+<title>Tracking User-Preference Varying Speed in Collaborative Filtering.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3582</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiLJXZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ParkLKHK11" mdate="2021-02-18">
+<author pid="29/5242">Jin-Woo Park</author>
+<author pid="80/5003">Mu-Woong Lee</author>
+<author pid="99/6681">Jinhan Kim</author>
+<author pid="h/SeungwonHwang">Seung-won Hwang</author>
+<author pid="k/SunghunKim">Sunghun Kim 0001</author>
+<title>CosTriage: A Cost-Aware Triage Algorithm for Bug Reporting Systems.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3705</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ParkLKHK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RattiganMJ11" mdate="2022-10-02">
+<author pid="44/6673">Matthew J. Rattigan</author>
+<author pid="89/848">Marc E. Maier</author>
+<author orcid="0000-0001-5653-3349" pid="38/828">David D. Jensen</author>
+<title>Relational Blocking for Causal Discovery.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3760</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#RattiganMJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TandonMW11" mdate="2021-02-18">
+<author pid="29/9923">Niket Tandon</author>
+<author pid="86/1747">Gerard de Melo</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Deriving a Web-Scale Common Sense Fact Database.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3764</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#TandonMW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhuMCB11" mdate="2021-02-18">
+<author pid="10/4016">Jianke Zhu</author>
+<author pid="86/4227">Hao Ma</author>
+<author pid="07/4182-0001">Chun Chen 0001</author>
+<author pid="50/3147">Jiajun Bu</author>
+<title>Social Recommendation Using Low-Rank Semidefinite Program.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3596</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhuMCB11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge Representation and Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BelleL11" mdate="2021-02-18">
+<author pid="52/570">Vaishak Belle</author>
+<author pid="l/GerhardLakemeyer">Gerhard Lakemeyer</author>
+<title>A Semantical Account of Progression in the Presence of Uncertainty.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3715</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BelleL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BonattiFS11" mdate="2021-02-18">
+<author pid="b/PABonatti">Piero A. Bonatti</author>
+<author pid="44/6983">Marco Faella</author>
+<author pid="23/359">Luigi Sauro</author>
+<title>Adding Default Attributes to EL++.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3588</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BonattiFS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CoenAF11" mdate="2021-02-18">
+<author pid="c/MichaelHCoen">Michael H. Coen</author>
+<author pid="01/8412">M. Hidayath Ansari</author>
+<author pid="01/8160">Nathanael Fillmore</author>
+<title>Learning from Spatial Overlap.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3743</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CoenAF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GiacomoLR11" mdate="2023-02-02">
+<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+<author pid="l/MLenzerini">Maurizio Lenzerini</author>
+<author pid="00/4014">Riccardo Rosati 0001</author>
+<title>Higher-Order Description Logics for Domain Metamodeling.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3704</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GiacomoLR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Gonzalez-SanchezAGG11" mdate="2021-04-12">
+<author pid="71/8932">Alberto Gonz&#225;lez-Sanchez</author>
+<author pid="00/6243">Rui Abreu 0001</author>
+<author pid="13/3913">Hans-Gerhard Gro&#223;</author>
+<author pid="81/3406">Arjan J. C. van Gemund</author>
+<title>Spectrum-Based Sequential Diagnosis.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3565</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Gonzalez-SanchezAGG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Gutierrez-BasultoJLS11" mdate="2021-02-18">
+<author pid="36/8486">V&#237;ctor Guti&#233;rrez-Basulto</author>
+<author orcid="0000-0002-4159-2255" pid="69/8110">Jean Christoph Jung</author>
+<author pid="l/CarstenLutz">Carsten Lutz</author>
+<author pid="69/2397">Lutz Schr&#246;der</author>
+<title>A Closer Look at the Probabilistic Description Logic Prob-EL.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3702</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Gutierrez-BasultoJLS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/IdeS11" mdate="2021-02-18">
+<author pid="i/TsuyoshiIde">Tsuyoshi Id&#233;</author>
+<author pid="35/1228">Masashi Sugiyama</author>
+<title>Trajectory Regression on Road Networks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3695</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#IdeS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KimmigBR11" mdate="2021-02-18">
+<author pid="17/3881">Angelika Kimmig</author>
+<author pid="96/7521">Guy Van den Broeck</author>
+<author pid="r/LucDeRaedt">Luc De Raedt</author>
+<title>An Algebraic Prolog for Reasoning about Possible Worlds.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3685</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KimmigBR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KlarmanG11" mdate="2021-02-18">
+<author pid="45/7257">Szymon Klarman</author>
+<author pid="36/8486">V&#237;ctor Guti&#233;rrez-Basulto</author>
+<title>Two-Dimensional Description Logics for Context-Based Semantic Interoperability.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3688</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KlarmanG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KonevKLSWZ11" mdate="2021-02-18">
+<author pid="56/1470">Boris Konev</author>
+<author pid="09/3547">Roman Kontchakov</author>
+<author pid="84/5739">Michel Ludwig</author>
+<author pid="06/3872-2">Thomas Schneider 0002</author>
+<author pid="w/FrankWolter">Frank Wolter</author>
+<author pid="z/MZakharyaschev">Michael Zakharyaschev</author>
+<title>Conjunctive Query Inseparability of OWL 2 QL TBoxes.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3573</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KonevKLSWZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KutzM11" mdate="2021-02-18">
+<author pid="38/2192">Oliver Kutz</author>
+<author pid="m/TillMossakowski">Till Mossakowski</author>
+<title>A Modular Consistency Proof for DOLCE.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3754</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KutzM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LinS11" mdate="2021-02-18">
+<author pid="73/6980">Fangzhen Lin</author>
+<author pid="79/906">Mikhail Soutchanski</author>
+<title>Causal Theories of Actions Revisited.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3674</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LinS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MehdiR11" mdate="2022-01-03">
+<author pid="55/8883">Anees Mehdi</author>
+<author orcid="0000-0002-1609-2080" pid="79/6633">Sebastian Rudolph</author>
+<title>Revisiting Semantics for Epistemic Extensions of Description Logics.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3585</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MehdiR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PearlB11" mdate="2021-02-18">
+<author pid="p/JudeaPearl">Judea Pearl</author>
+<author pid="85/9005">Elias Bareinboim</author>
+<title>Transportability of Causal and Statistical Relations: A Formal Approach.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3769</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#PearlB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RoosRS11" mdate="2021-02-18">
+<author pid="08/1083">Magnus Roos</author>
+<author pid="r/JorgRothe">J&#246;rg Rothe</author>
+<author pid="15/503-1">Bj&#246;rn Scheuermann 0001</author>
+<title>How to Calibrate the Scores of Biased Reviewers by Quadratic Programming.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3578</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#RoosRS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SohrabiBM11" mdate="2021-02-18">
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="85/5866">Jorge A. Baier</author>
+<author pid="66/3221">Sheila A. McIlraith</author>
+<title>Preferred Explanations: Theory and Generation via Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3568</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SohrabiBM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WuZZ11" mdate="2021-02-18">
+<author pid="13/283">Maonian Wu</author>
+<author pid="12/4822">Dongmo Zhang</author>
+<author pid="66/2146">Mingyi Zhang</author>
+<title>Language Splitting and Relevance-Based Belief Change in Horn Logic.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3686</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WuZZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YangYF11" mdate="2021-02-18">
+<author pid="15/3199">Qian Yang</author>
+<author pid="y/JiaHuaiYou">Jia-Huai You</author>
+<author pid="48/195-2">Zhiyong Feng 0002</author>
+<title>Integrating Rules and Description Logics by Circumscription.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3652</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#YangYF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhouZ11" mdate="2021-02-18">
+<author pid="01/1901-13">Yi Zhou 0013</author>
+<author pid="04/3348-3">Yan Zhang 0003</author>
+<title>Bounded Forgetting.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3481</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhouZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhouZ11a" mdate="2021-02-18">
+<author pid="01/1901-13">Yi Zhou 0013</author>
+<author pid="04/3348-3">Yan Zhang 0003</author>
+<title>Progression Semantics for Disjunctive Logic Programs.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3482</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhouZ11a</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Machine Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BootsG11" mdate="2021-02-18">
+<author pid="27/1803">Byron Boots</author>
+<author pid="41/487">Geoffrey J. Gordon</author>
+<title>An Online Spectral Learning Algorithm for Partially Observable Nonlinear Dynamical Systems.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3703</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BootsG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BordesWCB11" mdate="2021-02-18">
+<author pid="49/4572">Antoine Bordes</author>
+<author pid="29/6977">Jason Weston</author>
+<author pid="03/4032">Ronan Collobert</author>
+<author pid="56/953">Yoshua Bengio</author>
+<title>Learning Structured Embeddings of Knowledge Bases.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3659</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BordesWCB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CaniniG11" mdate="2022-07-28">
+<author pid="79/8411">Kevin Robert Canini</author>
+<author pid="34/4472">Thomas L. Griffiths 0001</author>
+<title>A Nonparametric Bayesian Model of Multi-Level Category Learning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3427</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CaniniG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChenC11" mdate="2021-02-18">
+<author pid="41/9922">Xinlei Chen</author>
+<author pid="c/DCai">Deng Cai 0001</author>
+<title>Large Scale Spectral Clustering with Landmark-Based Representation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3484</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChenC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChuaMG11" mdate="2021-02-18">
+<author pid="85/7564">Sook-Ling Chua</author>
+<author pid="65/8284">Stephen Marsland</author>
+<author pid="91/5160">Hans W. Guesgen</author>
+<title>Unsupervised Learning of Human Behaviours.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3618</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChuaMG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ComaniciP11" mdate="2021-02-18">
+<author pid="93/8524">Gheorghe Comanici</author>
+<author pid="p/DoinaPrecup">Doina Precup</author>
+<title>Basis Function Discovery Using Spectral Clustering and Bisimulation Metrics.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3663</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ComaniciP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CuiWYS11" mdate="2021-02-18">
+<author pid="31/891-1">Peng Cui 0001</author>
+<author pid="52/3194-1">Fei Wang 0001</author>
+<author pid="y/ShiqiangYang">Shiqiang Yang</author>
+<author pid="06/2128">Lifeng Sun</author>
+<title>Item-Level Social Influence Prediction with Probabilistic Hybrid Factor Matrix Factorization.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3640</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CuiWYS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Eatond11" mdate="2021-02-18">
+<author pid="22/2336">Eric Eaton</author>
+<author pid="97/1893">Marie desJardins</author>
+<title>Selective Transfer Between Learning Tasks Using Task-Based Boosting.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3752</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Eatond11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EldardiryN11" mdate="2021-02-18">
+<author pid="51/9923">Hoda Eldardiry</author>
+<author pid="n/JenniferNeville">Jennifer Neville</author>
+<title>Across-Model Collective Ensemble Classification.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3774</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#EldardiryN11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FuLIPL11" mdate="2021-12-21">
+<author pid="36/8779">Zhenyong Fu</author>
+<author pid="53/5234">Zhiwu Lu 0001</author>
+<author pid="13/4719">Horace Ho-Shing Ip</author>
+<author pid="13/3073">Yuxin Peng</author>
+<author pid="56/2480">Hongtao Lu</author>
+<title>Symmetric Graph Regularized Constraint Propagation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3458</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#FuLIPL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GaoWYZ11" mdate="2021-02-18">
+<author pid="54/7637">Cuixia Gao</author>
+<author pid="31/9922">Naiyan Wang</author>
+<author pid="164/7314">Qi Rose Yu</author>
+<author pid="52/5331">Zhihua Zhang</author>
+<title>A Feasible Nonconvex Relaxation Approach to Feature Selection.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3678</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GaoWYZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GoldbergZFX11" mdate="2021-02-18">
+<author pid="16/2006">Andrew B. Goldberg</author>
+<author pid="z/XiaojinZhu">Xiaojin Zhu 0001</author>
+<author pid="72/9923">Alex Furger</author>
+<author pid="84/132-2">Jun-Ming Xu 0002</author>
+<title>OASIS: Online Active Semi-Supervised Learning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3609</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GoldbergZFX11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GuLH11" mdate="2021-02-18">
+<author pid="50/4597">Quanquan Gu</author>
+<author pid="27/178">Zhenhui Li</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<title>Learning a Kernel for Multi-Task Clustering.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3639</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GuLH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GuoS11" mdate="2021-02-18">
+<author pid="34/5185">Yuhong Guo</author>
+<author pid="96/6660">Dale Schuurmans</author>
+<title>Adaptive Large Margin Training for Multilabel Classification.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3455</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GuoS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KonidarisOT11" mdate="2021-02-18">
+<author pid="56/6762">George Dimitri Konidaris</author>
+<author pid="28/2918">Sarah Osentoski</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Value Function Approximation in Reinforcement Learning Using the Fourier Basis.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3569</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KonidarisOT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiZ11" mdate="2021-02-18">
+<author pid="57/413">Yu-Feng Li</author>
+<author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author>
+<title>Improving Semi-Supervised Support Vector Machines Through Unlabeled Instances Selection.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3668</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiuLLYXL11" mdate="2021-02-18">
+<author pid="60/7642">Si Liu 0001</author>
+<author pid="32/4560">Hairong Liu</author>
+<author pid="44/1633">Longin Jan Latecki</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<author pid="85/1301">Changsheng Xu</author>
+<author pid="39/6752">Hanqing Lu</author>
+<title>Size Adaptive Selection of Most Informative Features.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3504</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiuLLYXL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiuLC11" mdate="2021-02-18">
+<author pid="51/3710-7">Yang Liu 0007</author>
+<author pid="l/YanLiu4">Yan Liu 0004</author>
+<author pid="71/6513">Keith C. C. Chan</author>
+<title>Ordinal Regression via Manifold Learning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3792</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiuLC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LowdS11" mdate="2021-02-18">
+<author pid="80/3901">Daniel Lowd</author>
+<author pid="22/2456">Arash Shamaei</author>
+<title>Mean Field Inference in Dependency Networks: An Empirical Study.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3790</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LowdS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LuP11" mdate="2021-12-21">
+<author pid="53/5234">Zhiwu Lu 0001</author>
+<author pid="13/3073">Yuxin Peng</author>
+<title>Latent Semantic Learning by Efficient Sparse Coding with Hypergraph Regularization.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3457</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LuP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LuoDH11" mdate="2021-02-18">
+<author pid="47/2883">Dijun Luo</author>
+<author pid="d/CHQDing">Chris H. Q. Ding</author>
+<author pid="03/281">Heng Huang</author>
+<title>Linear Discriminant Analysis: New Formulations and Overfit Analysis.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3712</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LuoDH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LuoDH11a" mdate="2021-02-18">
+<author pid="47/2883">Dijun Luo</author>
+<author pid="d/CHQDing">Chris H. Q. Ding</author>
+<author pid="03/281">Heng Huang</author>
+<title>Multi-Level Cluster Indicator Decompositions of Matrices and Tensors.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3756</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LuoDH11a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LuoSNU11" mdate="2021-02-18">
+<author pid="64/665">Heng Luo</author>
+<author pid="s/RuiminShen">Ruimin Shen</author>
+<author pid="65/2916">Changyong Niu</author>
+<author pid="50/4544">Carsten Ullrich</author>
+<title>Sparse Group Restricted Boltzmann Machines.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3684</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LuoSNU11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MannC11" mdate="2021-02-18">
+<author pid="217/3322">Timothy A. Mann</author>
+<author pid="81/4331">Yoonsuck Choe</author>
+<title>Scaling Up Reinforcement Learning through Targeted Exploration.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3722</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MannC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Melo11" mdate="2021-02-18">
+<author pid="86/839">Francisco S. Melo</author>
+<title>Differential Eligibility Vectors for Advantage Updating and Gradient Methods.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3795</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Melo11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NeumannAK11" mdate="2021-02-18">
+<author pid="03/7789">Marion Neumann</author>
+<author pid="77/2476">Babak Ahmadi</author>
+<author pid="40/3793">Kristian Kersting</author>
+<title>Markov Logic Sets: Towards Lifted Information Retrieval Using PageRank and Label Propagation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3587</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#NeumannAK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ParkSHK11" mdate="2021-02-18">
+<author pid="78/9923">Kyoungup Park</author>
+<author pid="56/1673">Chunhua Shen</author>
+<author pid="18/8576">Zhihui Hao</author>
+<author pid="89/5420">Junae Kim</author>
+<title>Efficiently Learning a Distance Metric for Large Margin Nearest Neighbor Classification.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3571</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ParkSHK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PazisP11" mdate="2021-02-18">
+<author pid="88/7057">Jason Pazis</author>
+<author pid="26/4670">Ronald Parr</author>
+<title>Non-Parametric Approximate Linear Programming for MDPs.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3740</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#PazisP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SorgSL11" mdate="2022-04-19">
+<author pid="45/7118">Jonathan Sorg</author>
+<author pid="09/3058">Satinder Singh 0001</author>
+<author pid="12/590">Richard L. Lewis</author>
+<title>Optimal Rewards versus Leaf-Evaluation Heuristics in Planning Agents.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3745</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SorgSL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/StrangeZ11" mdate="2021-02-18">
+<author pid="83/8938">Harry Strange</author>
+<author pid="04/3732">Reyer Zwiggelaar</author>
+<title>A Generalised Solution to the Out-of-Sample Extension Problem in Manifold Learning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3603</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#StrangeZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TangYJZGLWC11" mdate="2022-07-20">
+<author pid="181/2667-5">Jian Tang 0005</author>
+<author pid="89/5901-1">Jun Yan 0001</author>
+<author pid="42/2721-1">Lei Ji 0001</author>
+<author pid="73/1844-4">Ming Zhang 0004</author>
+<author pid="99/9922">Shaodan Guo</author>
+<author pid="83/622-1">Ning Liu 0001</author>
+<author pid="67/1201">Xianfang Wang</author>
+<author pid="33/2592-1">Zheng Chen 0001</author>
+<title>Collaborative Users' Brand Preference Mining across Multiple Domains from Implicit Feedbacks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3480</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#TangYJZGLWC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TangWC11" mdate="2022-12-31">
+<author pid="50/3146-1">Ke Tang 0001</author>
+<author pid="06/2293-22">Rui Wang 0022</author>
+<author pid="60/419-2">Tianshi Chen 0002</author>
+<title>Towards Maximizing the Area Under the ROC Curve for Multi-Class Classification Problems.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3485</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#TangWC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TsuboiUKO11" mdate="2021-02-18">
+<author pid="71/3718">Yuta Tsuboi</author>
+<author pid="36/4023">Yuya Unno</author>
+<author pid="27/4448">Hisashi Kashima</author>
+<author pid="49/4018">Naoaki Okazaki</author>
+<title>Fast Newton-CG Method for Batch Learning of Conditional Random Fields.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3448</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#TsuboiUKO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangLSHE11" mdate="2023-01-30">
+<author pid="52/3194-1">Fei Wang 0001</author>
+<author pid="79/1702">Noah Lee</author>
+<author pid="54/4948">Jimeng Sun 0001</author>
+<author pid="06/259">Jianying Hu</author>
+<author pid="53/2744">Shahram Ebadollahi</author>
+<title>Automatic Group Sparse Coding.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3717</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangLSHE11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangTL11" mdate="2021-02-18">
+<author pid="52/3194-1">Fei Wang 0001</author>
+<author pid="58/1757">Hanghang Tong</author>
+<author pid="62/1273">Ching-Yung Lin</author>
+<title>Towards Evolutionary Nonnegative Matrix Factorization.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3716</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangTL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangNH11" mdate="2021-02-18">
+<author pid="33/3535-7">Hua Wang 0007</author>
+<author pid="80/5755">Feiping Nie 0001</author>
+<author pid="03/281">Heng Huang</author>
+<title>Learning Instance Specific Distance for Multi-Instance Classification.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3445</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangNH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangY11" mdate="2021-02-18">
+<author pid="03/2142">Hua-Yan Wang</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Transfer Learning by Structural Analogy.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3593</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangY11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangYYYS11" mdate="2021-02-18">
+<author pid="77/9625">Shusen Wang</author>
+<author pid="64/5926">Xiaotong Yuan</author>
+<author pid="10/9922">Tiansheng Yao</author>
+<author pid="y/ShuichengYan">Shuicheng Yan</author>
+<author pid="33/7046">Jialie Shen</author>
+<title>Efficient Subspace Segmentation via Quadratic Programming.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3435</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangYYYS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangJWZ11" mdate="2021-02-18">
+<author pid="84/2694">Yong Wang</author>
+<author pid="02/393-1">Yuan Jiang 0001</author>
+<author pid="44/3684-3">Yi Wu 0003</author>
+<author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author>
+<title>Localized K-Flats.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3628</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangJWZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WeiP11" mdate="2021-02-18">
+<author pid="40/267">Bin Wei</author>
+<author pid="45/1217">Christopher J. Pal</author>
+<title>Heterogeneous Transfer Learning with RBMs.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3710</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WeiP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WuLHJ11" mdate="2022-09-12">
+<author pid="95/6985-14">Wei Wu 0014</author>
+<author pid="83/5560-1">Hang Li 0001</author>
+<author pid="34/3973">Yunhua Hu</author>
+<author pid="j/RongJin">Rong Jin 0001</author>
+<title>Multi-Task Learning in Square Integrable Space.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3469</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WuLHJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/XuYQ11" mdate="2021-02-18">
+<author pid="68/1538">Zenglin Xu</author>
+<author pid="62/3960-3">Feng Yan 0003</author>
+<author pid="57/2210">Yuan (Alan) Qi</author>
+<title>Sparse Matrix-Variate t Process Blockmodels.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3666</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#XuYQ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YamadaS11" mdate="2021-02-18">
+<author pid="56/4937">Makoto Yamada</author>
+<author pid="35/1228">Masashi Sugiyama</author>
+<title>Direct Density-Ratio Estimation with Dimensionality Reduction via Hetero-Distributional Subspace Analysis.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3577</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#YamadaS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YangSNJZ11" mdate="2021-02-18">
+<author pid="33/4854-1">Yi Yang 0001</author>
+<author pid="s/HTShen">Heng Tao Shen</author>
+<author pid="80/5755">Feiping Nie 0001</author>
+<author pid="86/5681">Rongrong Ji</author>
+<author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<title>Nonnegative Spectral Clustering with Discriminative Regularization.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3681</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#YangSNJZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhangLLC11" mdate="2021-02-18">
+<author pid="21/802-7">Dan Zhang 0007</author>
+<author pid="l/YanLiu2">Yan Liu 0002</author>
+<author pid="33/2948">Richard D. Lawrence</author>
+<author pid="81/1580">Vijil Chenthamarakshan</author>
+<title>Transfer Latent Semantic Learning: Microblog Mining with Less Supervision.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3647</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhangLLC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhangYWHS11" mdate="2021-02-18">
+<author pid="45/6863">Xinhua Zhang</author>
+<author pid="90/4989">Yaoliang Yu</author>
+<author pid="60/7057">Martha White</author>
+<author pid="59/9923">Ruitong Huang</author>
+<author pid="96/6660">Dale Schuurmans</author>
+<title>Convex Sparse Coding, Subspace Learning, and Semi-Supervised Extensions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3782</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhangYWHS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhangY11" mdate="2021-02-18">
+<author pid="50/671-6">Yu Zhang 0006</author>
+<author pid="41/5668">Dit-Yan Yeung</author>
+<title>Multi-Task Learning in Heterogeneous Feature Spaces.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3607</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhangY11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhaoHWXZ11" mdate="2021-02-18">
+<author pid="39/6153">Hui Zhao</author>
+<author pid="77/4782">Jiuqiang Han</author>
+<author pid="31/9922">Naiyan Wang</author>
+<author pid="44/2633">Congfu Xu</author>
+<author pid="52/5331">Zhihua Zhang</author>
+<title>A Fast Spectral Relaxation Approach to Matrix Completion via Kronecker Products.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3636</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhaoHWXZ11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Multiagent Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AnTOSK11" mdate="2021-02-18">
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<author pid="117/4929">Eric Anyung Shieh</author>
+<author pid="95/1694">Christopher Kiekintveld</author>
+<title>Refinement of Strong Stackelberg Equilibria in Security Games.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3461</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AnTOSK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/AzariaRKG11" mdate="2021-02-18">
+<author pid="18/9923">Amos Azaria</author>
+<author pid="93/4009">Zinovi Rabinovich</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<author pid="65/537">Claudia V. Goldman</author>
+<title>Strategic Information Disclosure to People with Multiple Alternatives.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3694</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AzariaRKG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BanerjeeK11" mdate="2021-02-18">
+<author pid="18/6694">Bikramjit Banerjee</author>
+<author pid="36/7391">Landon Kraemer</author>
+<title>Branch and Price for Multi-Agent Plan Recognition.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3714</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BanerjeeK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CeppiGG11" mdate="2021-02-18">
+<author pid="88/7498">Sofia Ceppi</author>
+<author pid="g/NicolaGatti">Nicola Gatti 0001</author>
+<author pid="g/EnricoGerding">Enrico H. Gerding</author>
+<title>Mechanism Design for Federated Sponsored Search Auctions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3576</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CeppiGG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChenGGK11" mdate="2021-07-08">
+<author pid="72/3762-1">Yiling Chen 0001</author>
+<author pid="09/8821">Xi Alice Gao</author>
+<author pid="36/9922">Rick Goldstein</author>
+<author pid="99/683">Ian A. Kash</author>
+<title>Market Manipulation with Outside Incentives.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3747</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChenGGK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChitnisHL11" mdate="2021-02-18">
+<author pid="00/9923">Rajesh Hemant Chitnis</author>
+<author pid="334/4488">MohammadTaghi Hajiaghayi</author>
+<author pid="82/9672">Vahid Liaghat</author>
+<title>Parameterized Complexity of Problems in Coalitional Resource Games.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3755</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChitnisHL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CohlerLPP11" mdate="2021-02-18">
+<author pid="88/9923">Yuga J. Cohler</author>
+<author pid="06/9923">John K. Lai</author>
+<author pid="p/DavidCParkes">David C. Parkes</author>
+<author pid="p/ArielDProcaccia">Ariel D. Procaccia</author>
+<title>Optimal Envy-Free Cake Cutting.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3638</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CohlerLPP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ConitzerK11" mdate="2021-02-18">
+<author pid="c/VincentConitzer">Vincent Conitzer</author>
+<author pid="54/8399">Dmytro Korzhyk</author>
+<title>Commitment to Correlated Strategies.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3645</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ConitzerK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ConitzerWX11" mdate="2021-02-18">
+<author pid="c/VincentConitzer">Vincent Conitzer</author>
+<author pid="86/2576">Toby Walsh</author>
+<author pid="73/4036">Lirong Xia</author>
+<title>Dominating Manipulations in Voting with Partial Information.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3706</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ConitzerWX11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ConstantinRHP11" mdate="2021-02-18">
+<author pid="15/2528">Florin Constantin</author>
+<author pid="95/3007">Malvika Rao</author>
+<author pid="17/2242">Chien-Chung Huang</author>
+<author pid="p/DavidCParkes">David C. Parkes</author>
+<title>On Expressing Value Externalities in Position Auctions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3780</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ConstantinRHP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CrandallAG11" mdate="2021-02-18">
+<author pid="94/6405">Jacob W. Crandall</author>
+<author pid="49/2697">Asad Ahmed</author>
+<author pid="g/MichaelAGoodrich">Michael A. Goodrich</author>
+<title>Learning in Repeated Games with Minimal Information: The Effects of Learning Bias.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3601</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CrandallAG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DaviesKNW11" mdate="2021-02-18">
+<author pid="49/4230">Jessica Davies</author>
+<author pid="61/6509">George Katsirelos</author>
+<author pid="87/3366">Nina Narodytska</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Complexity of and Algorithms for Borda Manipulation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3613</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#DaviesKNW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DerbinskyL11" mdate="2021-02-18">
+<author pid="35/7150">Nate Derbinsky</author>
+<author pid="l/JohnELaird">John E. Laird</author>
+<title>A Functional Analysis of Historical Memory Retrieval Bias in the Word Sense Disambiguation Task.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3579</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#DerbinskyL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GattiI11" mdate="2021-02-18">
+<author pid="g/NicolaGatti">Nicola Gatti 0001</author>
+<author pid="19/7362">Claudio Iuliano</author>
+<title>Computing an Extensive-Form Perfect Equilibrium in Two-Player Games.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3575</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GattiI11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Guo11" mdate="2021-02-18">
+<author pid="62/5599">Mingyu Guo</author>
+<title>VCG Redistribution with Gross Substitutes.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3733</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Guo11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HawkinHS11" mdate="2021-02-18">
+<author pid="89/7115">John Alexander Hawkin</author>
+<author pid="h/RobertHolte">Robert Holte</author>
+<author pid="s/DuaneSzafron">Duane Szafron</author>
+<title>Automated Action Abstraction of Imperfect Information Extensive-Form Games.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3707</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HawkinHS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/IrfanO11" mdate="2021-02-18">
+<author pid="00/6183">Mohammad Tanvir Irfan</author>
+<author pid="09/6719">Luis E. Ortiz</author>
+<title>A Game-Theoretic Approach to Influence in Networks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3746</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#IrfanO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Lahaie11" mdate="2021-02-18">
+<author pid="41/1766">S&#233;bastien Lahaie</author>
+<title>A Kernel-Based Iterative Combinatorial Auction.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3650</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Lahaie11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MacarthurSRJ11" mdate="2021-02-18">
+<author pid="05/4924">Kathryn Sarah Macarthur</author>
+<author pid="23/4296">Ruben Stranders</author>
+<author pid="81/1719">Sarvapali D. Ramchurn</author>
+<author pid="j/NicholasRJennings">Nicholas R. Jennings</author>
+<title>A Distributed Anytime Algorithm for Dynamic Task Allocation in Multi-Agent Systems.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3572</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MacarthurSRJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MacDermedNIW11" mdate="2021-02-18">
+<author pid="85/9922">Liam MacDermed</author>
+<author pid="139/3479">Karthik Sankaran Narayan</author>
+<author pid="i/LCIsbell">Charles Lee Isbell Jr.</author>
+<author pid="50/7975">Lora Weiss</author>
+<title>Quick Polytope Approximation of All Correlated Equilibria in Stochastic Games.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3721</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MacDermedNIW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NarodytskaWX11" mdate="2021-02-18">
+<author pid="87/3366">Nina Narodytska</author>
+<author pid="86/2576">Toby Walsh</author>
+<author pid="73/4036">Lirong Xia</author>
+<title>Manipulation of Nanson's and Baldwin's Rules.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3612</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#NarodytskaWX11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RahwanMEFSWJ11" mdate="2021-02-18">
+<author pid="57/4885">Talal Rahwan</author>
+<author pid="69/391">Tomasz P. Michalak</author>
+<author pid="31/2621">Edith Elkind</author>
+<author pid="58/2379">Piotr Faliszewski</author>
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<author pid="j/NicholasRJennings">Nicholas R. Jennings</author>
+<title>Constrained Coalition Formation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3776</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#RahwanMEFSWJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SchlotterFE11" mdate="2021-02-18">
+<author pid="09/515">Ildik&#243; Schlotter</author>
+<author pid="58/2379">Piotr Faliszewski</author>
+<author pid="31/2621">Edith Elkind</author>
+<title>Campaign Management under Approval-Driven Voting Rules.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3586</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SchlotterFE11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ShahJKC11" mdate="2021-02-18">
+<author pid="78/3078">Sameena Shah</author>
+<author pid="58/4288">Jayadeva</author>
+<author pid="37/2930">Ravi Kothari</author>
+<author pid="35/622-1">Suresh Chandra 0001</author>
+<title>M-Unit EigenAnt: An Ant Algorithm to Find the M Best Solutions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3662</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ShahJKC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SuiB11" mdate="2021-02-18">
+<author pid="83/3853">Xin Sui</author>
+<author pid="10/3411">Craig Boutilier</author>
+<title>Efficiency and Privacy Tradeoffs in Mechanism Design.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3527</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SuiB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ThompsonL11" mdate="2021-02-24">
+<author pid="52/1465">David R. M. Thompson</author>
+<author pid="81/1149">Kevin Leyton-Brown</author>
+<title>Dominant-Strategy Auction Design for Agents with Uncertain, Private Values.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3460</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ThompsonL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WitkowskiSP11" mdate="2021-02-18">
+<author pid="13/7442">Jens Witkowski</author>
+<author pid="56/5151">Sven Seuken</author>
+<author pid="p/DavidCParkes">David C. Parkes</author>
+<title>Incentive-Compatible Escrow Mechanisms.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3793</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WitkowskiSP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YinJTO11" mdate="2021-02-18">
+<author pid="54/3357">Zhengyu Yin</author>
+<author pid="55/6591">Manish Jain</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="63/3305">Fernando Ord&#243;&#241;ez</author>
+<title>Risk-Averse Strategies for Security Games with Execution and Observational Uncertainty.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3426</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#YinJTO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhangL11" mdate="2021-02-18">
+<author pid="29/6693">Chongjie Zhang</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Coordinated Multi-Agent Reinforcement Learning in Networked Distributed POMDPs.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3750</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhangL11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Multidisciplinary Topics</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AntosMGG11" mdate="2021-02-18">
+<author pid="88/6728">Dimitrios Antos</author>
+<author pid="84/4437">Celso de Melo</author>
+<author pid="71/3911">Jonathan Gratch</author>
+<author pid="g/BarbaraJGrosz">Barbara J. Grosz</author>
+<title>The Influence of Emotion Expression on Perceptions of Trustworthiness in Negotiation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3438</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AntosMGG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChoSG11" mdate="2021-02-18">
+<author pid="56/9828">Yoon-Sik Cho</author>
+<author pid="82/9058">Greg Ver Steeg</author>
+<author pid="16/3411">Aram Galstyan</author>
+<title>Co-Evolution of Selection and Influence in Social Networks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3783</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChoSG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ErdemEEO11" mdate="2021-02-18">
+<author pid="e/EsraErdem">Esra Erdem 0001</author>
+<author pid="45/8909">Yelda Erdem</author>
+<author pid="91/7186">Halit Erdogan</author>
+<author pid="04/8909">Umut &#214;ztok</author>
+<title>Finding Answers and Generating Explanations for Complex Biomedical Queries.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3661</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ErdemEEO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KaiserS11" mdate="2021-02-18">
+<author pid="39/1762">Lukasz Kaiser</author>
+<author pid="88/9922">Lukasz Stafiniak</author>
+<title>First-Order Logic with Counting for General Game Playing.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3727</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KaiserS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LeeNLL11" mdate="2021-02-18">
+<author pid="29/3671">Sungjin Lee</author>
+<author pid="41/4876">Hyungjong Noh</author>
+<author pid="44/9770">Kyusong Lee</author>
+<author pid="l/GGLee">Gary Geunbae Lee</author>
+<title>Grammatical Error Detection for Corrective Feedback Provision in Oral Conversations.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3501</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LeeNLL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiY11" mdate="2021-02-18">
+<author pid="26/988">Wu-Jun Li</author>
+<author pid="41/5668">Dit-Yan Yeung</author>
+<title>Social Relations Model for Collaborative Filtering.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3699</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiY11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LinKABS11" mdate="2021-02-18">
+<author pid="69/5277">Raz Lin</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<author pid="52/1053">Noa Agmon</author>
+<author pid="39/2945">Samuel Barrett</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>Comparing Agents' Success against People in Security Domains.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3470</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LinKABS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MichalowskiBN11" mdate="2021-02-18">
+<author pid="80/3650">Martin Michalowski</author>
+<author pid="93/5682">Mark S. Boddy</author>
+<author pid="49/9922">Mike Neilsen</author>
+<title>Bayesian Learning of Generalized Board Positions for Improved Move Prediction in Computer Go.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3494</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MichalowskiBN11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PanAP11" mdate="2021-02-18">
+<author pid="69/4450-2">Wei Pan 0002</author>
+<author pid="89/6896">Nadav Aharony</author>
+<author pid="p/AlexPentland">Alex Pentland</author>
+<title>Composite Social Network for Predicting Mobile Apps Installation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3729</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#PanAP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RagniB11" mdate="2021-02-18">
+<author pid="98/813">Marco Ragni</author>
+<author pid="84/8698">Sven Br&#252;ssow</author>
+<title>Human Spatial Relational Reasoning: Processing Demands, Representations, and Cognitive Model.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3697</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#RagniB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ReganH11" mdate="2021-02-18">
+<author pid="r/KWRegan">Kenneth Wingate Regan</author>
+<author pid="63/2226">Guy McCrossan Haworth</author>
+<title>Intrinsic Chess Ratings.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3779</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ReganH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RuanT11" mdate="2021-02-18">
+<author pid="78/3817">Ji Ruan</author>
+<author pid="t/MichaelThielscher">Michael Thielscher</author>
+<title>The Epistemic Logic Behind the Game Description Language.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3556</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#RuanT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SchiffelT11" mdate="2021-02-18">
+<author pid="67/2985">Stephan Schiffel</author>
+<author pid="t/MichaelThielscher">Michael Thielscher</author>
+<title>Reasoning About General Games Described in GDL-II.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3557</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SchiffelT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhuGR11" mdate="2021-02-18">
+<author pid="z/XiaojinZhu">Xiaojin Zhu 0001</author>
+<author pid="16/8412">Bryan R. Gibson</author>
+<author pid="25/7229">Timothy T. Rogers</author>
+<title>Co-Training as a Human Collaboration Policy.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3653</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhuGR11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Natural Language Processing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/ChenM11" mdate="2021-02-18">
+<author pid="82/5049">David L. Chen</author>
+<author pid="m/RaymondJMooney">Raymond J. Mooney</author>
+<title>Learning to Interpret Natural Language Navigation Instructions from Observations.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3701</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChenM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChenXC11" mdate="2021-02-18">
+<author pid="32/9923">Songjian Chen</author>
+<author pid="82/338">Yabo Xu</author>
+<author pid="30/6058">Huiyou Chang</author>
+<title>A Simple and Effective Unsupervised Word Segmentation Approach.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3590</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChenXC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Chu-CarrollF11" mdate="2021-02-18">
+<author pid="69/4492">Jennifer Chu-Carroll</author>
+<author pid="79/4382">James Fan</author>
+<title>Leveraging Wikipedia Characteristics for Search and Candidate Generation in Question Answering.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3544</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Chu-CarrollF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GoyalD11" mdate="2021-02-18">
+<author pid="03/3019-1">Amit Goyal 0001</author>
+<author pid="77/2856">Hal Daum&#233; III</author>
+<title>Lossy Conservative Update (LCU) Sketch: Succinct Approximate Count Storage.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3757</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GoyalD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HassanM11" mdate="2021-02-18">
+<author pid="51/4343-2">Samer Hassan 0002</author>
+<author pid="m/RadaMihalcea">Rada Mihalcea</author>
+<title>Semantic Relatedness Using Salient Semantic Analysis.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3616</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HassanM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiuDXLW11" mdate="2021-02-18">
+<author pid="43/656-1">Tao Liu 0001</author>
+<author pid="47/3542-1">Xiaoyong Du 0001</author>
+<author pid="10/4144">Yong-Dong Xu</author>
+<author pid="53/5842">Minghui Li</author>
+<author pid="91/952-1">Xiaolong Wang 0001</author>
+<title>Partially Supervised Text Classification with Multi-Level Examples.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3583</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiuDXLW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiuLZX11" mdate="2021-02-18">
+<author pid="31/6118">Xiaohua Liu</author>
+<author pid="28/8800">Kuan Li</author>
+<author pid="16/1161">Ming Zhou</author>
+<author pid="86/729">Zhongyang Xiong</author>
+<title>Enhancing Semantic Role Labeling for Tweets Using Self-Training.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3425</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiuLZX11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NaseemB11" mdate="2021-02-18">
+<author pid="44/642">Tahira Naseem</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<title>Using Semantic Cues to Learn Syntax.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3741</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#NaseemB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/QazvinianR11" mdate="2021-02-18">
+<author pid="38/5620">Vahed Qazvinian</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<title>Exploiting Phase Transition in Latent Networks for Clustering.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3643</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#QazvinianR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ShenLD11" mdate="2021-02-18">
+<author pid="48/4825-5">Chao Shen 0005</author>
+<author pid="75/4601-1">Tao Li 0001</author>
+<author pid="d/CHQDing">Chris H. Q. Ding</author>
+<title>Integrating Clustering and Multi-Document Summarization by Bi-Mixture Probabilistic Latent Semantic Analysis (PLSA) with Sentence Bases.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3787</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ShenLD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SunZT11" mdate="2021-02-18">
+<author pid="68/5216">Jun Sun</author>
+<author pid="83/5342-5">Min Zhang 0005</author>
+<author pid="t/ChewLimTan">Chew Lim Tan</author>
+<title>Tree Sequence Kernel for Natural Language.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3683</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SunZT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WoodsendL11" mdate="2021-02-18">
+<author pid="44/8427">Kristian Woodsend</author>
+<author pid="59/6701">Mirella Lapata</author>
+<title>WikiSimple: Automatic Simplification of Wikipedia Articles.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3505</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WoodsendL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhaiLZXJ11" mdate="2021-02-18">
+<author pid="80/2665">Zhongwu Zhai</author>
+<author pid="l/BingLiu1">Bing Liu 0001</author>
+<author pid="64/5666-16">Lei Zhang 0016</author>
+<author pid="31/4114">Hua Xu</author>
+<author pid="96/4255">Peifa Jia</author>
+<title>Identifying Evaluative Sentences in Online Discussions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3434</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhaiLZXJ11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Reasoning about Plans, Processes, and Actions</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BrafmanDEF11" mdate="2021-02-18">
+<author pid="b/RonenIBrafman">Ronen I. Brafman</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<author pid="97/2906">Yagil Engel</author>
+<author pid="24/7602">Zohar Feldman</author>
+<title>Planning for Operational Control Systems with Predictable Exogenous Events.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3689</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BrafmanDEF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ComanM11" mdate="2021-02-18">
+<author pid="37/7561">Alexandra Coman</author>
+<author pid="m/HectorMunozAvila">Hector Mu&#241;oz-Avila</author>
+<title>Generating Diverse Plans Using Quantitative and Qualitative Plan Distance Metrics.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3606</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ComanM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ErezTSG11" mdate="2021-02-18">
+<author pid="58/3548">Tom Erez</author>
+<author pid="98/9922">Julian J. Tramper</author>
+<author pid="54/1343">William D. Smart</author>
+<author pid="88/3185">Stan C. A. M. Gielen</author>
+<title>A POMDP Model of Eye-Hand Coordination.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3660</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ErezTSG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GeibG11" mdate="2021-02-18">
+<author pid="88/4021">Christopher W. Geib</author>
+<author pid="93/2423">Robert P. Goldman</author>
+<title>Recognizing Plans with Loops Represented in a Lexicalized Grammar.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3698</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GeibG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GobelbeckerGD11" mdate="2021-02-18">
+<author pid="46/6996">Moritz G&#246;belbecker</author>
+<author pid="34/5980">Charles Gretton</author>
+<author pid="97/1979">Richard Dearden</author>
+<title>A Switching Planner for Combined Task and Observation Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3708</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GobelbeckerGD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GregoryLMM11" mdate="2021-02-18">
+<author pid="72/2560">Peter Gregory</author>
+<author pid="54/3768">Derek Long</author>
+<author pid="17/9922">Craig McNulty</author>
+<author pid="57/9922">Susan M. Murphy</author>
+<title>Exploiting Path Refinement Abstraction in Domain Transition Graphs.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3709</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GregoryLMM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HoshinoK11" mdate="2021-02-18">
+<author pid="76/5981">Richard Hoshino</author>
+<author pid="45/6846">Ken-ichi Kawarabayashi</author>
+<title>The Inter-League Extension of the Traveling Tournament Problem and its Application to Sports Scheduling.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3459</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HoshinoK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ImaiK11" mdate="2021-02-18">
+<author pid="07/9854">Tatsuya Imai</author>
+<author pid="47/3148">Akihiro Kishimoto</author>
+<title>A Novel Technique for Avoiding Plateaus of Greedy Best-First Search in Satisficing Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3561</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ImaiK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KissmannE11" mdate="2021-02-18">
+<author pid="79/6191">Peter Kissmann</author>
+<author pid="98/3919">Stefan Edelkamp</author>
+<title>Improving Cost-Optimal Domain-Independent Symbolic Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3693</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KissmannE11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NguyenTSP11" mdate="2021-02-18">
+<author pid="37/3776">Hoang-Khoi Nguyen</author>
+<author pid="14/2111">Dang-Vien Tran</author>
+<author pid="s/TranCaoSon">Tran Cao Son</author>
+<author pid="p/EnricoPontelli">Enrico Pontelli</author>
+<title>On Improving Conformant Planners by Analyzing Domain-Structures.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3591</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#NguyenTSP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PochterZR11" mdate="2021-02-18">
+<author pid="19/3451">Nir Pochter</author>
+<author pid="92/4269">Aviv Zohar</author>
+<author pid="r/JeffreySRosenschein">Jeffrey S. Rosenschein</author>
+<title>Exploiting Problem Symmetries in State-Based Planners.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3732</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#PochterZR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SrivastavaZIG11" mdate="2021-02-18">
+<author pid="64/3431">Siddharth Srivastava</author>
+<author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author>
+<author pid="i/NeilImmerman">Neil Immerman</author>
+<author pid="g/HectorGeffner">Hector Geffner</author>
+<title>Qualitative Numeric Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3731</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SrivastavaZIG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Teichteil-KonigsbuchVI11" mdate="2021-02-18">
+<author pid="70/1418">Florent Teichteil-K&#246;nigsbuch</author>
+<author pid="09/5817-1">Vincent Vidal 0001</author>
+<author pid="87/2136">Guillaume Infantes</author>
+<title>Extending Classical Planning Heuristics to Probabilistic Planning with Dead-Ends.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3794</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Teichteil-KonigsbuchVI11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ToSP11" mdate="2021-02-18">
+<author pid="17/7561">Son Thanh To</author>
+<author pid="s/TranCaoSon">Tran Cao Son</author>
+<author pid="p/EnricoPontelli">Enrico Pontelli</author>
+<title>Conjunctive Representations in Contingent Planning: Prime Implicates Versus Minimal CNF Formula.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3734</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ToSP11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Reasoning under Uncertainty</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/ChoiBB11" mdate="2021-02-18">
+<author pid="13/1402">Jaesik Choi</author>
+<author pid="87/3963">Rodrigo de Salvo Braz</author>
+<author pid="16/2565">Hung Hai Bui</author>
+<title>Efficient Methods for Lifted Inference with Aggregate Factors.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3797</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChoiBB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Domke11" mdate="2021-02-18">
+<author pid="39/5186">Justin Domke</author>
+<title>Dual Decomposition for Marginal Inference.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3718</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Domke11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GelfandKD11" mdate="2021-02-18">
+<author pid="03/9922">Andrew Gelfand</author>
+<author pid="04/6122">Kalev Kask</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>Stopping Rules for Randomized Greedy Triangulation Schemes.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3654</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GelfandKD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KiddonD11" mdate="2021-02-18">
+<author pid="08/10907">Chlo&#233; Kiddon</author>
+<author pid="d/PedroDomingos">Pedro M. Domingos</author>
+<title>Coarse-to-Fine Inference and Learning for First-Order Probabilistic Models.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3619</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KiddonD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MaloneYH11" mdate="2021-02-18">
+<author pid="28/7214">Brandon M. Malone</author>
+<author pid="49/3154">Changhe Yuan</author>
+<author pid="02/6770">Eric A. Hansen</author>
+<title>Memory-Efficient Dynamic Programming for Learning Optimal Bayesian Networks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3788</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MaloneYH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RechesKS11" mdate="2021-02-18">
+<author pid="52/3438">Shulamit Reches</author>
+<author pid="73/4684">Meir Kalech</author>
+<author pid="55/9923">Rami Stern</author>
+<title>When to Stop? That Is the Question.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3642</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#RechesKS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SinglaM11" mdate="2021-02-18">
+<author pid="14/167">Parag Singla</author>
+<author pid="m/RaymondJMooney">Raymond J. Mooney</author>
+<title>Abductive Markov Logic for Plan Recognition.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3615</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SinglaM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SumerAIM11" mdate="2022-12-05">
+<author pid="49/507">&#214;zg&#252;r S&#252;mer</author>
+<author pid="44/3421">Umut A. Acar</author>
+<author pid="39/1313">Alexander Ihler</author>
+<author pid="54/3164">Ramgopal R. Mettu</author>
+<title>Fast Parallel and Adaptive Updates for Dual-Decomposition Solvers.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3691</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SumerAIM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZengDPMCL11" mdate="2021-02-18">
+<author pid="50/1401">Yifeng Zeng</author>
+<author pid="d/PrashantDoshi">Prashant Doshi</author>
+<author pid="02/9049">Yinghui Pan</author>
+<author pid="09/6341">Hua Mao</author>
+<author pid="08/869">Muthukumaran Chandrasekaran</author>
+<author pid="34/3128">Jian Luo</author>
+<title>Utilizing Partial Policies for Identifying Equivalence of Behavioral Models.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3567</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZengDPMCL11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Robotics</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AgmonUS11" mdate="2021-02-18">
+<author pid="52/1053">Noa Agmon</author>
+<author pid="95/6699">Daniel Urieli</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>Multiagent Patrol Generalized to Complex Environmental Conditions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3564</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AgmonUS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BasilicoG11" mdate="2021-02-18">
+<author pid="68/489">Nicola Basilico</author>
+<author pid="g/NicolaGatti">Nicola Gatti 0001</author>
+<title>Automated Abstractions for Patrolling Security Games.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3574</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BasilicoG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CohnDS11" mdate="2022-04-19">
+<author pid="c/RobertSCohn">Robert Cohn</author>
+<author pid="d/EHDurfee">Edmund H. Durfee</author>
+<author pid="09/3058">Satinder Singh 0001</author>
+<title>Comparing Action-Query Strategies in Semi-Autonomous Agents.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3744</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CohnDS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EisnerFS11" mdate="2021-02-18">
+<author pid="06/9879">Jochen Eisner</author>
+<author pid="f/StefanFunke">Stefan Funke</author>
+<author pid="74/9877">Sabine Storandt</author>
+<title>Optimal Route Planning for Electric Vehicles in Large Networks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3637</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#EisnerFS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HaraborG11" mdate="2021-02-18">
+<author pid="83/8778">Daniel Damir Harabor</author>
+<author pid="04/3354">Alban Grastien</author>
+<title>Online Graph Pruning for Pathfinding On Grid Maps.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3761</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HaraborG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KleinS11" mdate="2021-02-18">
+<author pid="67/8408">Kyle Klein</author>
+<author pid="s/SubhashSuri">Subhash Suri</author>
+<title>Complete Information Pursuit Evasion in Polygonal Environments.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3604</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KleinS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/VernazaL11" mdate="2021-02-18">
+<author pid="07/1924">Paul Vernaza</author>
+<author pid="38/5967">Daniel D. Lee</author>
+<title>Learning Dimensional Descent for Optimal Motion Planning in High-dimensional Spaces.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3748</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#VernazaL11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Special Track on AI and the Web</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/ChangZRL11" mdate="2021-02-18">
+<author pid="02/5438">Yi Chang 0001</author>
+<author pid="12/5919">Ruiqiang Zhang</author>
+<author pid="43/7184">Srihari Reddy</author>
+<author pid="l/YanLiu2">Yan Liu 0002</author>
+<title>Detecting Multilingual and Multi-Regional Query Intent in Web Search.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3473</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChangZRL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChenJSY11" mdate="2021-02-18">
+<author pid="79/2536">Weizhu Chen</author>
+<author pid="02/9923">Zhanglong Ji</author>
+<author pid="65/9923">Si Shen</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>A Whole Page Click Model to Better Interpret Search Engine Click Data.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3621</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChenJSY11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CranshawMS11" mdate="2021-02-18">
+<author pid="51/7188">Justin Cranshaw</author>
+<author pid="98/7441">Jonathan Mugan</author>
+<author pid="18/5502">Norman M. Sadeh</author>
+<title>User-Controllable Learning of Location Privacy Policies With Gaussian Mixture Models.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3785</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CranshawMS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DaiMW11" mdate="2021-02-18">
+<author pid="08/3547-1">Peng Dai 0001</author>
+<author pid="30/6391">Mausam</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>Artificial Intelligence for Artificial Artificial Intelligence.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3775</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#DaiMW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DuQSP11" mdate="2021-02-18">
+<author pid="72/5841">Jianfeng Du</author>
+<author pid="71/5935">Guilin Qi</author>
+<author pid="12/4493">Yi-Dong Shen</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<title>Towards Practical ABox Abduction in Large OWL DL Ontologies.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3433</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#DuQSP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EyalKR11" mdate="2021-02-18">
+<author pid="08/9922">Ron Eyal</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<author pid="13/4267">Avi Rosenfeld</author>
+<title>Identifying Missing Node Information in Social Networks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3682</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#EyalKR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FigueroaA11" mdate="2021-02-18">
+<author pid="38/1215">Alejandro Figueroa 0001</author>
+<author pid="69/6932">John Atkinson</author>
+<title>Maximum Entropy Context Models for Ranking Biographical Answers to Open-Domain Definition Questions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3437</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#FigueroaA11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GordonBS11" mdate="2021-02-18">
+<author pid="15/4354">Andrew S. Gordon</author>
+<author pid="31/5154">Cosmin Adrian Bejan</author>
+<author pid="18/141">Kenji Sagae</author>
+<title>Commonsense Causal Reasoning Using Millions of Personal Stories.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3453</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GordonBS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HeLY11" mdate="2021-02-18">
+<author pid="44/9922">Luheng He</author>
+<author pid="71/5490">Nathan Nan Liu</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Active Dual Collaborative Filtering with Both Item and Attribute Feedback.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3622</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HeLY11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/JiangS11" mdate="2021-02-18">
+<author pid="69/7522">Qixia Jiang</author>
+<author pid="95/3291">Maosong Sun</author>
+<title>Fast Query Recommendation by Search.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3498</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#JiangS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KaldeliLA11" mdate="2021-02-18">
+<author pid="95/7561">Eirini Kaldeli</author>
+<author pid="55/6272">Alexander Lazovik</author>
+<author pid="43/3220-1">Marco Aiello 0001</author>
+<title>Continual Planning with Sensing for Web Service Composition.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3493</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KaldeliLA11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KumarZL11" mdate="2021-02-18">
+<author pid="25/7975">Shamanth Kumar</author>
+<author pid="93/909">Reza Zafarani</author>
+<author pid="92/309-1">Huan Liu 0001</author>
+<title>Understanding User Migration Patterns in Social Media.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3664</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KumarZL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LawZ11" mdate="2021-02-18">
+<author pid="32/1523">Edith Law</author>
+<author pid="65/7161">Haoqi Zhang</author>
+<title>Towards Large-Scale Collaborative Planning: Answering High-Level Search Queries Using Human Computation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3675</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LawZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Lecue11" mdate="2021-02-18">
+<author pid="02/3657">Freddy L&#233;cu&#233;</author>
+<title>Personalizing Your Web Services with Constructive DL Reasoning Join.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3566</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Lecue11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiuWO11" mdate="2021-02-18">
+<author pid="01/1235-1">Guanfeng Liu 0001</author>
+<author pid="59/2227-2">Yan Wang 0002</author>
+<author pid="o/MehmetAOrgun">Mehmet A. Orgun</author>
+<title>Trust Transitivity in Complex Social Networks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3633</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiuWO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SongMS11" mdate="2021-08-24">
+<author pid="65/657">Hengjie Song</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="03/1554-1">Zhiqi Shen 0001</author>
+<title>Generating True Relevance Labels in Chinese Search Engine Using Clickthrough Data.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3634</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SongMS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DucBI11" mdate="2021-02-18">
+<author pid="79/6726">Nguyen Tuan Duc</author>
+<author pid="b/DanushkaBollegala">Danushka Bollegala</author>
+<author pid="i/MIshizuka">Mitsuru Ishizuka</author>
+<title>Cross-Language Latent Relational Search: Mapping Knowledge across Languages.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3491</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#DucBI11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/VealeL11" mdate="2021-02-18">
+<author pid="32/2480">Tony Veale</author>
+<author pid="66/2535">Guofu Li</author>
+<title>Creative Introspection and Knowledge Acquisition.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3454</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#VealeL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangGWL11" mdate="2021-02-18">
+<author pid="16/1524">Shuaiqiang Wang</author>
+<author pid="g/ByronJGao">Byron J. Gao</author>
+<author pid="w/KeWang">Ke Wang 0001</author>
+<author pid="00/2494">Hady Wirawan Lauw</author>
+<title>CCRank: Parallel Learning to Rank with Cooperative Coevolution.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3563</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangGWL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WeiCLNL11" mdate="2022-12-15">
+<author pid="24/4105-2">Wei Wei 0002</author>
+<author pid="33/3180">Gao Cong</author>
+<author pid="l/XiaoliLi">Xiaoli Li 0001</author>
+<author pid="00/5480">See-Kiong Ng</author>
+<author pid="05/10612-1">Guohui Li 0001</author>
+<title>Integrating Community Question and Answer Archives.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3626</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WeiCLNL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WuERR11" mdate="2021-02-18">
+<author pid="16/2030">Shanchan Wu</author>
+<author pid="99/5856">Tamer Elsayed</author>
+<author pid="07/5760">William Rand</author>
+<author pid="r/LouiqaRaschid">Louiqa Raschid</author>
+<title>Predicting Author Blog Channels with High Value Future Posts for Monitoring.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3676</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WuERR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/XuGDZK11" mdate="2021-02-18">
+<author pid="59/2340">Guandong Xu</author>
+<author pid="24/9923">Yanhui Gu</author>
+<author pid="d/PeterDolog">Peter Dolog</author>
+<author pid="32/2837">Yanchun Zhang</author>
+<author pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</author>
+<title>SemRec: A Semantic Enhancement Framework for Tag Based Recommendation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3570</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#XuGDZK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YangBLWHSY11" mdate="2021-02-18">
+<author pid="12/7536">Lichun Yang</author>
+<author pid="31/529">Shenghua Bao</author>
+<author pid="91/9922">Qingliang Lin</author>
+<author pid="03/5595">Xian Wu</author>
+<author pid="56/2645">Dingyi Han</author>
+<author pid="87/1363">Zhong Su</author>
+<author pid="43/5685-1">Yong Yu 0001</author>
+<title>Analyzing and Predicting Not-Answered Questions in Community-based Question Answering Services.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3598</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#YangBLWHSY11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YinHXD11" mdate="2021-02-18">
+<author pid="91/4572">Dawei Yin</author>
+<author pid="00/7186">Liangjie Hong</author>
+<author pid="02/8315">Zhenzhen Xue</author>
+<author pid="97/5257-1">Brian D. Davison 0001</author>
+<title>Temporal Dynamics of User Interests in Tagging Systems.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3726</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#YinHXD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YoshidaHINM11" mdate="2021-02-18">
+<author pid="42/9922">Yasuhisa Yoshida</author>
+<author pid="68/6820">Tsutomu Hirao</author>
+<author pid="29/5953">Tomoharu Iwata</author>
+<author pid="16/3520">Masaaki Nagata</author>
+<author pid="11/4619">Yuji Matsumoto 0001</author>
+<title>Transfer Learning for Multiple-Domain Sentiment Analysis - Identifying Domain Dependent/Independent Word Polarity.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3597</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#YoshidaHINM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhangWML11" mdate="2021-02-18">
+<author pid="40/4372">Xianchao Zhang</author>
+<author pid="56/4798">You Wang</author>
+<author pid="95/9922">Nan Mou</author>
+<author pid="62/3656">Wenxin Liang</author>
+<title>Propagating Both Trust and Distrust with Target Differentiation for Combating Web Spam.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3600</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhangWML11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhouLKLSC11" mdate="2021-02-18">
+<author pid="07/7537">Tom Chao Zhou</author>
+<author pid="64/6843">Chin-Yew Lin</author>
+<author pid="k/IrwinKing">Irwin King</author>
+<author pid="l/MichaelRLyu">Michael R. Lyu</author>
+<author pid="56/3235">Young-In Song</author>
+<author pid="33/4066">Yunbo Cao</author>
+<title>Learning to Suggest Questions in Online Forums.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3672</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhouLKLSC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhuCLPXYY11" mdate="2021-02-18">
+<author pid="75/4030">Yin Zhu</author>
+<author pid="89/211">Yuqiang Chen</author>
+<author pid="66/9923">Zhongqi Lu</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<author pid="72/3906">Gui-Rong Xue</author>
+<author pid="43/5685-1">Yong Yu 0001</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>Heterogeneous Transfer Learning for Image Classification.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3671</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ZhuCLPXYY11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Special Track on Computational Sustainability and AI</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AppleCCDFGKLSS11" mdate="2021-02-18">
+<author pid="24/6826">Jim Apple</author>
+<author pid="79/3939">Paul Chang</author>
+<author pid="94/9923">Aran Clauson</author>
+<author pid="09/6536">Heidi E. Dixon</author>
+<author pid="40/9923">Hiba Fakhoury</author>
+<author pid="g/MatthewLGinsberg">Matthew L. Ginsberg</author>
+<author pid="77/1980">Erin Keenan</author>
+<author pid="33/9923">Alex Leighton</author>
+<author pid="84/9923">Kevin Scavezze</author>
+<author pid="07/4299">Bryan Smith</author>
+<title>Green Driver: AI in a Microcosm.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3648</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AppleCCDFGKLSS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/AuSS11" mdate="2021-02-18">
+<author pid="00/5626">Tsz-Chiu Au</author>
+<author pid="12/2176">Neda Shahidi</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>Enforcing Liveness in Autonomous Traffic Management.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3762</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AuSS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CrowleyP11" mdate="2021-02-18">
+<author pid="14/5500-1">Mark Crowley 0001</author>
+<author pid="p/DavidPoole">David Poole 0001</author>
+<title>Policy Gradient Planning for Environmental Decision Making with Existing Simulators.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3631</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CrowleyP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GolovinKGCM11" mdate="2021-02-18">
+<author pid="34/2538">Daniel Golovin</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="16/9922">Beth Gardner</author>
+<author pid="26/9923">Sarah J. Converse</author>
+<author pid="73/9923">Steve Morey</author>
+<title>Dynamic Resource Allocation in Conservation Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3617</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GolovinKGCM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HoenigmanBB11" mdate="2021-02-18">
+<author pid="37/2881">Rhonda Hoenigman</author>
+<author pid="80/2069">Elizabeth Bradley</author>
+<author pid="74/8284">Nichole Barger</author>
+<title>Water Conservation Through Facilitation on Residential Landscapes.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3763</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HoenigmanBB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HutchinsonLD11" mdate="2021-08-12">
+<author pid="82/9023">Rebecca A. Hutchinson</author>
+<author pid="47/5615-1">Li-Ping Liu 0001</author>
+<author pid="d/TGDietterich">Thomas G. Dietterich</author>
+<title>Incorporating Boosted Regression Trees into Ecological Latent Variable Models.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3711</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HutchinsonLD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KolterF11" mdate="2021-02-18">
+<author pid="67/2526">J. Zico Kolter</author>
+<author pid="92/10959">Joseph Ferreira Jr.</author>
+<title>A Large-Scale Study on Predicting and Contextualizing Building Energy Usage.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3759</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KolterF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LaiGSMCM11" mdate="2021-02-18">
+<author pid="92/3043">Katherine J. Lai</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<author pid="24/9922">Michael K. Schwartz</author>
+<author pid="47/9922">Kevin S. McKelvey</author>
+<author pid="86/9922">David E. Calkin</author>
+<author pid="36/9923">Claire A. Montgomery</author>
+<title>The Steiner Multigraph Problem: Wildlife Corridor Design for Multiple Species.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3768</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LaiGSMCM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiW11" mdate="2021-02-18">
+<author pid="l/HuiLi2">Hui Li 0002</author>
+<author pid="33/2153-1">Brian Williams 0001</author>
+<title>Hybrid Planning with Temporally Extended Goals for Sustainable Ocean Observing.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3667</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MadyPRB11" mdate="2021-02-18">
+<author pid="05/8664">Alie El-Din Mady</author>
+<author pid="81/2894">Gregory M. Provan</author>
+<author pid="45/1674">Conor Ryan</author>
+<author pid="49/1220">Kenneth N. Brown</author>
+<title>Stochastic Model Predictive Controller for the Integration of Building Use and Temperature Regulation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3719</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MadyPRB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PetrikZ11" mdate="2021-02-18">
+<author pid="41/6546">Marek Petrik</author>
+<author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author>
+<title>Linear Dynamic Programs for Resource Management.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3608</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#PetrikZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PhillipsE11" mdate="2021-02-18">
+<author pid="28/1474">Steven Phillips</author>
+<author pid="73/9922">Jane Elith</author>
+<title>Logistic Methods for Resource Selection Functions and Presence-Only Species Distribution Models.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3657</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#PhillipsE11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/QuinnLM11" mdate="2021-02-18">
+<author pid="14/2895">John Alexander Quinn</author>
+<author pid="81/1149">Kevin Leyton-Brown</author>
+<author pid="23/8297">Ernest Mwebaze</author>
+<title>Modeling and Monitoring Crop Disease in Developing Countries.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3777</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#QuinnLM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ReddyV11" mdate="2021-02-18">
+<author pid="21/9922">Prashant P. Reddy</author>
+<author pid="v/ManuelaMVeloso">Manuela M. Veloso</author>
+<title>Learned Behaviors of Multiple Autonomous Agents in Smart Grid Markets.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3773</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ReddyV11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SachenbacherLAH11" mdate="2021-02-18">
+<author pid="14/3994">Martin Sachenbacher</author>
+<author pid="l/MartinLeucker">Martin Leucker</author>
+<author pid="86/8428">Andreas Artmeier</author>
+<author pid="94/8428">Julian Haselmayr</author>
+<title>Efficient Energy-Optimal Routing for Electric Vehicles.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3735</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SachenbacherLAH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SanthanamSBH11" mdate="2021-02-18">
+<author pid="44/6515">Ganesh Ram Santhanam</author>
+<author pid="80/9922">Yuly Suvorov</author>
+<author pid="67/1905">Samik Basu 0001</author>
+<author pid="h/VasantHonavar">Vasant G. Honavar</author>
+<title>Verifying Intervention Policies to Counter Infection Propagation over Networks: A Model Checking Approach.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3742</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SanthanamSBH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SundaravaradanPRMS11" mdate="2021-02-18">
+<author pid="28/8315">Naren Sundaravaradan</author>
+<author pid="52/217">Debprakash Patnaik</author>
+<author pid="r/NarenRamakrishnan">Naren Ramakrishnan</author>
+<author pid="61/6132">Manish Marwah</author>
+<author pid="42/7583">Amip Shah</author>
+<title>Discovering Life Cycle Assessment Trees from Impact Factor Databases.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3751</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SundaravaradanPRMS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/VoiceVRRJ11" mdate="2021-02-18">
+<author pid="16/635">Thomas Voice</author>
+<author pid="83/2868">Perukrishnen Vytelingum</author>
+<author pid="81/1719">Sarvapali D. Ramchurn</author>
+<author pid="37/4849">Alex Rogers</author>
+<author pid="j/NicholasRJennings">Nicholas R. Jennings</author>
+<title>Decentralised Control of Micro-Storage in the Smart Grid.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3632</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#VoiceVRRJ11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Special Track on Integrated Intelligence</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BarbellaF11" mdate="2021-02-18">
+<author pid="76/9923">David Michael Barbella</author>
+<author pid="f/KDForbus">Kenneth D. Forbus</author>
+<title>Analogical Dialogue Acts: Supporting Learning by Reading Analogies in Instructional Texts.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3739</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BarbellaF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GoertzelPWGCLHY11" mdate="2021-02-18">
+<author pid="97/5783">Ben Goertzel</author>
+<author pid="44/8970">Joel Pitt</author>
+<author pid="07/9922">Jared Wigmore</author>
+<author pid="66/981">Nil Geisweiller</author>
+<author pid="50/769">Zhenhua Cai</author>
+<author pid="64/8966">Ruiting Lian</author>
+<author pid="54/9923">Deheng Huang</author>
+<author pid="98/2191">Gino Yu</author>
+<title>Cognitive Synergy between Procedural and Declarative Learning in the Control of Animated and Robotic Agents Using the OpenCogPrime AGI Architecture.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3562</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GoertzelPWGCLHY11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ItoM11" mdate="2021-02-18">
+<author pid="17/5852">Jonathan Yasuo Ito</author>
+<author pid="m/StacyMarsella">Stacy Marsella</author>
+<title>Contextually-Based Utility: An Appraisal-Based Approach at Modeling Framing and Decisions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3738</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ItoM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/XuL11" mdate="2021-02-18">
+<author pid="73/8399">Joseph Z. Xu</author>
+<author pid="l/JohnELaird">John E. Laird</author>
+<title>Combining Learned Discrete and Continuous Action Models.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3679</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#XuL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YanSC11" mdate="2021-02-18">
+<author pid="62/5622">Su Yan</author>
+<author pid="24/3865">W. Scott Spangler</author>
+<author pid="21/5521-1">Ying Chen 0001</author>
+<title>Cross Media Entity Extraction and Linkage for Chemical Documents.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3673</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#YanSC11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Special Track on New Scientific and Technical Advances in Research</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AmershiFKT11" mdate="2021-02-18">
+<author pid="51/681">Saleema Amershi</author>
+<author pid="f/JamesFogarty">James Fogarty</author>
+<author pid="93/161">Ashish Kapoor</author>
+<author pid="t/DesneySTan">Desney S. Tan</author>
+<title>Effective End-User Interaction with Machine Learning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3736</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AmershiFKT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/AroraRKS11" mdate="2022-04-20">
+<author pid="75/3623">Nimar S. Arora</author>
+<author pid="r/SJRussell">Stuart Russell 0001</author>
+<author pid="68/6888">Paul Kidwell</author>
+<author pid="22/3923">Erik B. Sudderth</author>
+<title>Global Seismic Monitoring: A Bayesian Approach.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3602</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AroraRKS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BrafmanPRSVW11" mdate="2021-02-18">
+<author pid="b/RonenIBrafman">Ronen I. Brafman</author>
+<author pid="40/7447">Enrico Pilotto</author>
+<author pid="r/FrancescaRossi">Francesca Rossi</author>
+<author pid="60/4824">Domenico Salvagnin</author>
+<author pid="v/KristenBrentVenable">Kristen Brent Venable</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Next Best Solution.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3630</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BrafmanPRSVW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CaliGP11" mdate="2021-02-18">
+<author pid="c/AndreaCali">Andrea Cal&#236;</author>
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="89/5672">Andreas Pieris</author>
+<title>New Expressive Languages for Ontological Query Answering.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3620</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#CaliGP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Cesa-BianchiSS11" mdate="2021-02-18">
+<author pid="c/NicoloCesaBianchi">Nicol&#242; Cesa-Bianchi</author>
+<author pid="95/2750">Shai Shalev-Shwartz</author>
+<author pid="12/5897">Ohad Shamir</author>
+<title>Quantity Makes Quality: Learning with Partial Views.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3121</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Cesa-BianchiSS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KameshwaranMP11" mdate="2021-02-18">
+<author pid="38/3113">Sampath Kameshwaran</author>
+<author pid="91/877">Sameep Mehta</author>
+<author pid="19/6766">Vinayaka Pandit</author>
+<title>Design and Analysis of Value Creation Networks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3635</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KameshwaranMP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KundaMG11" mdate="2021-02-18">
+<author pid="91/3839">Maithilee Kunda</author>
+<author pid="45/9797">Keith McGreggor</author>
+<author pid="g/AshokKGoel">Ashok K. Goel 0001</author>
+<title>Two Visual Strategies for Solving the Raven's Progressive Matrices Intelligence Test.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3644</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KundaMG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ParkKS11" mdate="2021-02-18">
+<author pid="40/7848">Jaeyoung Park</author>
+<author pid="35/6703">Kee-Eung Kim</author>
+<author pid="37/9922">Yoon-Kyu Song</author>
+<title>A POMDP-Based Optimal Control of P300-Based Brain-Computer Interfaces.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3614</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ParkKS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Rintanen11" mdate="2021-02-18">
+<author pid="65/3601">Jussi Rintanen</author>
+<title>Planning with Specialized SAT Solvers.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3669</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Rintanen11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SrivastavaIZ11" mdate="2021-02-18">
+<author pid="64/3431">Siddharth Srivastava</author>
+<author pid="i/NeilImmerman">Neil Immerman</author>
+<author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author>
+<title>Termination and Correctness Analysis of Cyclic Control.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3720</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SrivastavaIZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ViappianiB11" mdate="2021-02-18">
+<author pid="76/6477">Paolo Viappiani</author>
+<author pid="10/3411">Craig Boutilier</author>
+<title>Recommendation Sets and Choice Queries: There Is No Exploration/Exploitation Tradeoff!</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3592</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ViappianiB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WongODMSMB11" mdate="2021-02-18">
+<author pid="19/1015">Weng-Keen Wong</author>
+<author pid="50/2097">Ian Oberst</author>
+<author pid="99/9167">Shubhomoy Das</author>
+<author pid="51/8771">Travis Moore</author>
+<author pid="47/3113">Simone Stumpf</author>
+<author pid="49/8771">Kevin McIntosh</author>
+<author pid="b/MMBurnett">Margaret M. Burnett</author>
+<title>End-User Feature Labeling via Locally Weighted Logistic Regression.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3658</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WongODMSMB11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Special Track on Physically Grounded AI</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/ColtinV11" mdate="2021-02-18">
+<author pid="49/9923">Brian Coltin</author>
+<author pid="v/ManuelaMVeloso">Manuela M. Veloso</author>
+<title>Multi-Observation Sensor Resetting Localization with Ambiguous Landmarks.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3749</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ColtinV11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KonidarisKGB11" mdate="2021-02-18">
+<author pid="56/6762">George Dimitri Konidaris</author>
+<author pid="06/8399">Scott Kuindersma</author>
+<author pid="g/RodericAGrupen">Roderic A. Grupen</author>
+<author pid="a/AndrewGBarto">Andrew G. Barto</author>
+<title>Autonomous Skill Acquisition on a Mobile Manipulator.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3724</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KonidarisKGB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LaiBRF11" mdate="2021-02-18">
+<author pid="83/713">Kevin Lai</author>
+<author pid="17/6808">Liefeng Bo</author>
+<author pid="84/3585">Xiaofeng Ren</author>
+<author pid="f/DieterFox">Dieter Fox</author>
+<title>A Scalable Tree-Based Approach for Joint Object and Pose Recognition.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3786</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LaiBRF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiH11" mdate="2021-02-18">
+<author pid="12/1866">Wenzhe Li</author>
+<author pid="h/TracyAnneHammond">Tracy Anne Hammond</author>
+<title>Recognizing Text Through Sound Alone.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3791</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NwoguZB11" mdate="2021-02-18">
+<author pid="98/3822">Ifeoma Nwogu</author>
+<author pid="72/8614">Yingbo Zhou</author>
+<author pid="83/5007-1">Christopher Brown 0001</author>
+<title>DISCO: Describing Images Using Scene Contexts and Objects.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3599</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#NwoguZB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/OCallaghanR11" mdate="2022-10-18">
+<author pid="47/7734">Simon Timothy O'Callaghan</author>
+<author pid="22/2488">Fabio T. Ramos 0001</author>
+<title>Continuous Occupancy Mapping with Integral Kernels.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3784</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#OCallaghanR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RosenthalVD11" mdate="2021-02-18">
+<author pid="22/4189">Stephanie Rosenthal</author>
+<author pid="v/ManuelaMVeloso">Manuela M. Veloso</author>
+<author pid="04/4652">Anind K. Dey</author>
+<title>Learning Accuracy and Availability of Humans Who Help Mobile Robots.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3665</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#RosenthalVD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TellexKDWBTR11" mdate="2021-02-18">
+<author pid="50/3149">Stefanie Tellex</author>
+<author pid="10/6653">Thomas Kollar</author>
+<author pid="05/9922">Steven Dickerson</author>
+<author pid="50/7734">Matthew R. Walter</author>
+<author pid="61/735">Ashis Gopal Banerjee</author>
+<author pid="t/SethJTeller">Seth J. Teller</author>
+<author pid="32/2668">Nicholas Roy</author>
+<title>Understanding Natural Language Commands for Robotic Navigation and Mobile Manipulation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3623</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#TellexKDWBTR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangBMP11" mdate="2021-02-18">
+<author pid="06/2483">Zhikun Wang</author>
+<author pid="57/2269">Abdeslam Boularias</author>
+<author pid="25/8367">Katharina M&#252;lling</author>
+<author pid="p/JanPeters1">Jan Peters 0001</author>
+<title>Balancing Safety and Exploitability in Opponent Modeling.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3692</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangBMP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WilkieBLM11" mdate="2021-02-18">
+<author pid="25/6206">David Wilkie</author>
+<author pid="96/3850">Jur P. van den Berg</author>
+<author pid="l/MingCLin">Ming C. Lin</author>
+<author pid="m/DineshManocha">Dinesh Manocha</author>
+<title>Self-Aware Traffic Route Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3753</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WilkieBLM11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>AAAI / SIGART Doctoral Consortium</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Bao11" mdate="2021-02-18">
+<author pid="98/5980">Forrest Sheng Bao</author>
+<title>The AC(C) Language: Integrating Answer Set Programming and Constraint Logic Programming.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3552</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Bao11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Chhaya11" mdate="2021-02-18">
+<author pid="83/9923">Niyati Chhaya</author>
+<title>Joint Inference for Extracting Text Descriptors from Triage Images of Mass Disaster Victims.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3486</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Chhaya11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MenezesB11" mdate="2021-02-18">
+<author pid="68/8694">Maria Viviane de Menezes</author>
+<author pid="51/6275">Leliane Nunes de Barros</author>
+<title>Model Update for Automated Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3536</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MenezesB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Derbinsky11" mdate="2021-02-18">
+<author pid="35/7150">Nate Derbinsky</author>
+<title>Long-Term Declarative Memory for Generally Intelligent Agents.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3464</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Derbinsky11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Eldardiry11" mdate="2021-02-18">
+<author pid="51/9923">Hoda Eldardiry</author>
+<title>Ensemble Classification for Relational Domains.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3518</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Eldardiry11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Gordon11" mdate="2021-02-18">
+<author pid="99/1970">Benjamin M. Gordon</author>
+<title>Developing a Language for Spoken Programming.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3472</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Gordon11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Haghpanah11" mdate="2021-02-18">
+<author pid="36/8399">Yasaman Haghpanah</author>
+<title>A Probabilistic Trust and Reputation Model for Supply Chain Management.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3471</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Haghpanah11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Hoenigman11" mdate="2021-02-18">
+<author pid="37/2881">Rhonda Hoenigman</author>
+<title>Designing Water Efficient Residential Landscapes with Agent-Based Modeling.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3490</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Hoenigman11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Louis11" mdate="2021-02-18">
+<author pid="98/4709">Annie Priyadarshini Louis</author>
+<title>Predicting Text Quality for Scientific Articles.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3475</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Louis11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MacDermed11" mdate="2021-02-18">
+<author pid="85/9922">Liam MacDermed</author>
+<title>Scaling Up Game Theory: Achievable Set Methods for Efficiently Solving Stochastic Games of Complete and Incomplete Information.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3540</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MacDermed11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Pochter11" mdate="2021-02-18">
+<author pid="19/3451">Nir Pochter</author>
+<title>Pruning Techniques in Search and Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3535</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Pochter11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Ravindran11" mdate="2021-02-18">
+<author pid="82/9922">Srinath Ravindran</author>
+<title>Learning with Imprecise Classes, Rare Instances, and Complex Relationships.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3530</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Ravindran11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Spraragen11" mdate="2021-02-18">
+<author pid="61/5117">Marc Spraragen</author>
+<title>Modeling the Effects of Emotion on Cognition.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3463</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Spraragen11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Stober11" mdate="2021-02-18">
+<author pid="51/9922">Jeremy Stober</author>
+<title>Learning Sensor, Space and Object Geometry.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3462</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Stober11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Witkowski11" mdate="2021-02-18">
+<author pid="13/7442">Jens Witkowski</author>
+<title>Incentive-Compatible Trust Mechanisms.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/DC/DC11/paper/view/3487</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Witkowski11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Student Abstracts and Posters</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BachmanP11" mdate="2021-02-18">
+<author pid="65/7250">Philip Bachman</author>
+<author pid="p/DoinaPrecup">Doina Precup</author>
+<title>Learning Compact Representations of Time-Varying Processes.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3541</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BachmanP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BaillieEP11" mdate="2021-02-18">
+<author pid="27/9923">Chris Colin Baillie</author>
+<author pid="e/PEdwards">Peter Edwards</author>
+<author pid="25/2496">Edoardo Pignotti</author>
+<title>Assessing Quality in the Web of Linked Sensor Data.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3488</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BaillieEP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BaoZZ11" mdate="2022-01-06">
+<author pid="98/5980">Forrest Sheng Bao</author>
+<author pid="67/4758-2">Zhizheng Zhang 0002</author>
+<author pid="z/YuanlinZhang">Yuanlin Zhang 0002</author>
+<title>Medical Treatment Conflict Resolving in Answer Set Programming.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3546</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BaoZZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BareinboimP11" mdate="2021-02-18">
+<author pid="85/9005">Elias Bareinboim</author>
+<author pid="p/JudeaPearl">Judea Pearl</author>
+<title>Controlling Selection Bias in Causal Inference.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3522</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BareinboimP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BarkerK11" mdate="2021-02-18">
+<author pid="71/9922">Joseph Kelly Barker</author>
+<author pid="18/2128">Richard E. Korf</author>
+<title>Solving 4x5 Dots-And-Boxes.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3495</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BarkerK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BarrettS11" mdate="2021-02-18">
+<author pid="39/2945">Samuel Barrett</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>Ad Hoc Teamwork in Variations of the Pursuit Domain.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3517</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BarrettS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BazzazzadehBE11" mdate="2021-02-18">
+<author pid="30/9922">Navid Bazzazzadeh</author>
+<author pid="46/6569">Benedikt Brors</author>
+<author pid="63/1724">Roland Eils</author>
+<title>Reconstructing the Stochastic Evolution Diagram of Dynamic Complex Systems.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3483</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BazzazzadehBE11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BissonKBI11" mdate="2021-02-18">
+<author pid="97/9923">Francis Bisson</author>
+<author pid="41/4980">Froduald Kabanza</author>
+<author pid="22/5224">Abder Rezak Benaskeur</author>
+<author pid="87/6387">Hengameh Irandoust</author>
+<title>Provoking Opponents to Facilitate the Recognition of their Intentions.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3442</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#BissonKBI11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChakrabortyBP11" mdate="2021-02-18">
+<author pid="70/908">Shayok Chakraborty</author>
+<author pid="88/4691">Vineeth Nallure Balasubramanian</author>
+<author pid="31/6591">Sethuraman Panchanathan</author>
+<title>Dynamic Batch Mode Active Learning via L1 Regularization.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3478</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChakrabortyBP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChamberlandK11" mdate="2021-02-18">
+<author pid="81/9922">Simon Chamberland</author>
+<author pid="41/4980">Froduald Kabanza</author>
+<title>Heuristic Planning in Adversarial Dynamic Domains.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3492</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChamberlandK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChenW11" mdate="2021-02-18">
+<author pid="25/8790">Hung-Che Chen</author>
+<author pid="97/5340">Jyh-Da Wei</author>
+<title>Using Neural Networks for Evaluation in Heuristic Search Algorithm.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3476</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChenW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChungM11" mdate="2021-02-18">
+<author pid="56/9922">Jessica Elan Chung</author>
+<author pid="97/592">Eni Mustafaraj</author>
+<title>Can Collective Sentiment Expressed on Twitter Predict Political Elections?</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3549</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ChungM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DrescherW11" mdate="2021-02-18">
+<author pid="66/3792">Christian Drescher</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Conflict-Driven Constraint Answer Set Solving with Lazy Nogood Generation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3428</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#DrescherW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/E-MartinRS11" mdate="2021-02-18">
+<author pid="61/9074">Yolanda E-Mart&#237;n</author>
+<author pid="74/170">Mar&#237;a Dolores Rodr&#237;guez-Moreno</author>
+<author pid="95/2477-1">David E. Smith 0001</author>
+<title>Probabilistic Plan Graph Heuristic for Probabilistic Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3447</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#E-MartinRS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FuZ11" mdate="2021-05-19">
+<author pid="60/9922">Yifan Fu</author>
+<author pid="26/4253">Xingquan Zhu 0001</author>
+<title>Optimal Subset Selection for Active Learning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3138</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#FuZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FujitaIK11" mdate="2021-09-07">
+<author pid="75/6391">Katsuhide Fujita</author>
+<author pid="24/1535-1">Takayuki Ito 0001</author>
+<author pid="74/2158">Mark Klein</author>
+<title>Efficient Issue-Grouping Approach for Multi-Issues Negotiation between Exaggerator Agents.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3554</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#FujitaIK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GaoYZ11" mdate="2021-02-18">
+<author pid="02/563-7">Jian Gao 0007</author>
+<author pid="13/3656">Minghao Yin</author>
+<author pid="67/8263">Junping Zhou</author>
+<title>Hybrid Tractable Classes of Binary Quantified Constraint Satisfaction Problems.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3507</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GaoYZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GenterAS11" mdate="2021-02-18">
+<author pid="14/9799">Katie Long Genter</author>
+<author pid="52/1053">Noa Agmon</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>Role-Based Ad Hoc Teamwork.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3529</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GenterAS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GoelKL11" mdate="2021-02-18">
+<author pid="55/7029">Aman Goel</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<author pid="99/433">Kristina Lerman</author>
+<title>Using Conditional Random Fields to Exploit Token Structure and Labels for Accurate Semantic Annotation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3550</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GoelKL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GuoLGZ11" mdate="2021-05-19">
+<author pid="64/3254">Ting Guo</author>
+<author pid="04/9923">Zhanshan Li</author>
+<author pid="60/9923">Ruizhi Guo</author>
+<author pid="26/4253">Xingquan Zhu 0001</author>
+<title>Large Scale Diagnosis Using Associations between System Outputs and Components.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3451</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GuoLGZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HuYC11" mdate="2021-02-18">
+<author pid="94/929">Yanmei Hu</author>
+<author pid="13/3656">Minghao Yin</author>
+<author pid="15/965">Dunbo Cai</author>
+<title>On the Discovery and Utility of Precedence Constraints in Temporal Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3511</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HuYC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HuangYX11" mdate="2022-08-02">
+<author pid="46/6812">Ping Huang</author>
+<author pid="13/3656">Minghao Yin</author>
+<author pid="x/KeXu">Ke Xu 0001</author>
+<title>Exact Phase Transitions and Approximate Algorithm of #CSP.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3508</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HuangYX11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HuntleyB11" mdate="2021-02-18">
+<author pid="53/9923">Daniel Andrew Huntley</author>
+<author pid="b/VadimBulitko">Vadim Bulitko</author>
+<title>Extending the Applications of Recent Real-Time Heuristic Search.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3539</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#HuntleyB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/JhuoL11" mdate="2021-02-18">
+<author pid="80/7642">I-Hong Jhuo</author>
+<author pid="l/DTLee">D. T. Lee</author>
+<title>Multiple-Instance Learning: Multiple Feature Selection on Instance Representation.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3431</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#JhuoL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Joya11" mdate="2021-02-18">
+<author pid="86/7255">Michael Joya</author>
+<title>An Event-Based Framework for Process Inference.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3547</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Joya11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KoonceDFSS11" mdate="2021-02-18">
+<author pid="39/9923">Philip Koonce</author>
+<author pid="62/9922">Vasha Dutell</author>
+<author pid="61/9922">Jose Farrington</author>
+<author pid="73/8367">Vladimir Sukhoy</author>
+<author pid="26/3845">Alexander Stoytchev</author>
+<title>Toward Learning to Solve Insertion Tasks: A Developmental Approach Using Exploratory Behaviors and Proprioception.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3543</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#KoonceDFSS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LelisZH11" mdate="2021-02-18">
+<author pid="82/7788">Levi Lelis</author>
+<author pid="z/SandraZilles">Sandra Zilles</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<title>Time Complexity of Iterative-Deepening A*: The Informativeness Pathology (Abstract).</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3516</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LelisZH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiangZZ11" mdate="2021-05-18">
+<author pid="56/5830">Guohua Liang</author>
+<author pid="26/4253">Xingquan Zhu 0001</author>
+<author pid="71/964">Chengqi Zhang</author>
+<title>An Empirical Study of Bagging Predictors for Different Learning Algorithms.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/2913</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LiangZZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LunaB11" mdate="2021-02-18">
+<author pid="72/9853">Ryan Luna</author>
+<author pid="42/170">Kostas E. Bekris</author>
+<title>An Efficient and Complete Approach for Cooperative Path-Finding.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3477</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LunaB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/OztokE11" mdate="2021-02-18">
+<author pid="04/8909">Umut &#214;ztok</author>
+<author pid="e/EsraErdem">Esra Erdem 0001</author>
+<title>Generating Explanations for Complex Biomedical Queries.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3519</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#OztokE11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Pogorelc11" mdate="2021-02-18">
+<author pid="60/7557">Bogdan Pogorelc</author>
+<title>An Intelligent System for Prolonging Independent Living of Elderly.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3580</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Pogorelc11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/QiuHY11" mdate="2021-02-18">
+<author pid="91/1901">Baojun Qiu</author>
+<author pid="51/6972">Qi He</author>
+<author pid="66/3108">John Yen</author>
+<title>Evolution of Node Behavior in Link Prediction.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3467</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#QiuHY11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Redman11" mdate="2021-02-18">
+<author pid="81/8218">Crystal Redman</author>
+<title>Web Personalization and Cohort Information Services for Natural Resource Managers.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3444</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Redman11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SchreiberK11" mdate="2021-02-18">
+<author pid="89/9922">Ethan L. Schreiber</author>
+<author pid="18/2128">Richard E. Korf</author>
+<title>Using Partitions and Superstrings for Lossless Compression of Pattern Databases.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3496</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#SchreiberK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Ter-SarkisovM11" mdate="2021-02-18">
+<author pid="97/8284">Aram Ter-Sarkisov</author>
+<author pid="65/8284">Stephen R. Marsland</author>
+<title>Convergence Properties of (&#956; + &#955;) Evolutionary Algorithms.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3466</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Ter-SarkisovM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ToSP11a" mdate="2021-02-18">
+<author pid="17/7561">Son Thanh To</author>
+<author pid="s/TranCaoSon">Tran Cao Son</author>
+<author pid="p/EnricoPontelli">Enrico Pontelli</author>
+<title>On the Effectiveness of Belief State Representation in Contingent Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3559</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#ToSP11a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TziortziotisB11" mdate="2021-02-18">
+<author pid="34/9922">Nikolaos Tziortziotis</author>
+<author pid="56/6853">Konstantinos Blekas</author>
+<title>A Bayesian Reinforcement Learning framework Using Relevant Vector Machines.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3436</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#TziortziotisB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangV11" mdate="2021-02-18">
+<author pid="19/2648">Jingsong Wang</author>
+<author pid="55/1665">Marco Valtorta</author>
+<title>A Framework for Integration of Logical and Probabilistic Knowledge.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3499</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangV11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangBK11" mdate="2021-02-18">
+<author pid="19/1131">Ko-Hsin Cindy Wang</author>
+<author pid="73/3430">Adi Botea</author>
+<author pid="66/5607">Philip Kilby</author>
+<title>Solution Quality Improvements for Massively Multi-Agent Pathfinding.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3450</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangBK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangZ11" mdate="2021-02-18">
+<author pid="97/6505">Qing Wang</author>
+<author pid="50/6759-19">Liang Zhang 0019</author>
+<title>Online Updating the Generalized Inverse of Centered Matrices.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3025</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WangBMP11a" mdate="2021-02-18">
+<author pid="06/2483">Zhikun Wang</author>
+<author pid="57/2269">Abdeslam Boularias</author>
+<author pid="25/8367">Katharina M&#252;lling</author>
+<author pid="p/JanPeters1">Jan Peters 0001</author>
+<title>Modeling Opponent Actions for Table-Tennis Playing Robot.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3510</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WangBMP11a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WoodwardKCB11a" mdate="2021-02-18">
+<author pid="30/8009">Robert J. Woodward</author>
+<author pid="70/574">Shant Karakashian</author>
+<author pid="64/4385">Berthe Y. Choueiry</author>
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<title>Adaptive Neighborhood Inverse Consistency as Lookahead for Non-Binary CSPs.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3534</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WoodwardKCB11a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/XieNM11" mdate="2021-02-18">
+<author pid="12/7090">Fan Xie 0001</author>
+<author pid="56/5649">Hootan Nakhost</author>
+<author pid="m/MartinMuller3">Martin M&#252;ller 0003</author>
+<title>A Local Monte Carlo Tree Search Approach in Deterministic Planning.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3468</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#XieNM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Xu11" mdate="2021-02-18">
+<author pid="95/6230">Xiaoxi Xu</author>
+<title>Discovering Latent Strategies.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3532</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Xu11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Robotics Program</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AkgunSST11" mdate="2021-02-18">
+<author pid="80/7656">Baris Akg&#252;n</author>
+<author pid="19/8399">Kaushik Subramanian</author>
+<author pid="36/9522">Jaeeun Shim</author>
+<author pid="l/AndreaLockerd">Andrea Lockerd Thomaz</author>
+<title>Learning Tasks and Skills Together From a Human Teacher.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3553</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#AkgunSST11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Dodds11" mdate="2021-02-18">
+<author pid="49/744">Zachary Dodds</author>
+<title>Can Quadrotors Succeed as an Educational Platform?</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3465</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#Dodds11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FergusonGSW11" mdate="2021-02-18">
+<author pid="51/9282">Michael Ferguson</author>
+<author pid="134/6329">Kimberly A. Gero</author>
+<author pid="64/9923">Joao Salles</author>
+<author pid="57/9923">James Weis</author>
+<title>Playing Chess with a Human-Scale Mobile Manipulator.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3489</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#FergusonGSW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GoebelJR11" mdate="2021-02-18">
+<author pid="76/9922">Stephan Goebel</author>
+<author pid="46/8689">Ruben Jubeh</author>
+<author pid="75/9923">Simon-Lennert Raesch</author>
+<title>A Robotics Environment for Software Engineering Courses.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3509</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#GoebelJR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LanighanSBS11" mdate="2021-02-18">
+<author pid="70/9922">Michael Lanighan</author>
+<author pid="12/9922">Jerod Sikorskyj</author>
+<author pid="78/4873">Debra T. Burhans</author>
+<author pid="79/9922">Robert Selkowitz</author>
+<title>Lego Plays Chess: A Low-Cost, Low-Complexity Approach to Intelligent Robotics.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3542</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#LanighanSBS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MunozOS11" mdate="2021-02-18">
+<author pid="174/3681">Juan Pablo Mu&#241;oz</author>
+<author pid="25/9923">Arif Tuna Ozgelen</author>
+<author pid="s/ElizabethSklar">Elizabeth Sklar</author>
+<title>Learning from Demonstration in Spatial Exploration.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3524</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#MunozOS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/OzgelenCIKMSMPS11" mdate="2021-02-18">
+<author pid="25/9923">Arif Tuna Ozgelen</author>
+<author pid="15/9923">Michael Costantino</author>
+<author pid="24/8814">Adiba Ishak</author>
+<author pid="47/9923">Moses Kingston</author>
+<author pid="11/9462">Diquan Moore</author>
+<author pid="89/9923">Samuel Sanchez</author>
+<author pid="174/3681">Juan Pablo Mu&#241;oz</author>
+<author pid="65/1416">Simon Parsons</author>
+<author pid="s/ElizabethSklar">Elizabeth Sklar</author>
+<title>Approaches to Multi-Robot Exploration and Localization.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3523</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#OzgelenCIKMSMPS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WheelerKHPKWS11" mdate="2021-02-18">
+<author pid="98/9923">Kim Wheeler</author>
+<author pid="68/4682">Robin Knight</author>
+<author pid="29/9922">Collin Horvat</author>
+<author pid="07/9923">Daniel Packard</author>
+<author pid="68/9923">Casey Kuhns</author>
+<author pid="82/4218">Brent Wilkins</author>
+<author pid="12/9923">Robert Shiely</author>
+<title>Hekateros: A Desktop 5 Degree-of-Freedom Robot Arm for the Small-Scale Manipulation Robot Chess Challenge.</title>
+<year>2011</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3512</ee>
+<crossref>conf/aaai/2011</crossref>
+<url>db/conf/aaai/aaai2011.html#WheelerKHPKWS11</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

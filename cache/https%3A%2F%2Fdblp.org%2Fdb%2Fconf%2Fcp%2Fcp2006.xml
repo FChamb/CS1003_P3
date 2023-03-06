@@ -1,0 +1,865 @@
+<bht key="db/conf/cp/cp2006.bht" title="12. CP 2006: Nantes, France">  
+<h1>12. <ref href="db/conf/cp/index.html">CP</ref> 2006:
+Nantes, France</h1> <dblpcites><r><proceedings key="conf/cp/2006" mdate="2019-05-14">
+<editor pid="b/FredericBenhamou">Fr&#233;d&#233;ric Benhamou</editor>
+<title>Principles and Practice of Constraint Programming - CP 2006, 12th International Conference, CP 2006, Nantes, France, September 25-29, 2006, Proceedings</title>
+<booktitle>CP</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4204</volume>
+<publisher>Springer</publisher>
+<year>2006</year>
+<isbn>3-540-46267-8</isbn>
+<ee>https://doi.org/10.1007/11889205</ee>
+<url>db/conf/cp/cp2006.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Invited Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Ahmed06" mdate="2019-07-01">
+<author orcid="0000-0001-7049-7305" pid="58/2749-1">Shabbir Ahmed 0001</author>
+<title>Global Optimization of Probabilistically Constrained Linear Programs.</title>
+<pages>1</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_1</ee>
+<url>db/conf/cp/cp2006.html#Ahmed06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GrandoniI06" mdate="2017-12-11">
+<author pid="g/FGrandoni">Fabrizio Grandoni 0001</author>
+<author pid="i/GiuseppeFItaliano">Giuseppe F. Italiano</author>
+<title>Algorithms and Constraint Programming.</title>
+<pages>2-14</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_2</ee>
+<url>db/conf/cp/cp2006.html#GrandoniI06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Merlet06" mdate="2017-05-17">
+<author pid="m/JeanPierreMerlet">Jean-Pierre Merlet</author>
+<title>Interval Analysis and Robotics.</title>
+<pages>15</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_3</ee>
+<url>db/conf/cp/cp2006.html#Merlet06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Simonis06" mdate="2017-05-17">
+<author pid="30/449">Helmut Simonis</author>
+<title>Constraint Based Resilience Analysis.</title>
+<pages>16-28</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_4</ee>
+<url>db/conf/cp/cp2006.html#Simonis06</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Regular Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AptB06" mdate="2017-05-17">
+<author pid="a/KRApt">Krzysztof R. Apt</author>
+<author pid="04/1098">Sebastian Brand</author>
+<title>Infinite Qualitative Simulations by Means of Constraint Programming.</title>
+<pages>29-43</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_5</ee>
+<url>db/conf/cp/cp2006.html#AptB06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BalafoutisS06" mdate="2019-01-08">
+<author pid="19/5995">Thanasis Balafoutis</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>Algorithms for Stochastic CSPs.</title>
+<pages>44-58</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_6</ee>
+<url>db/conf/cp/cp2006.html#BalafoutisS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BeldiceanuCDP06" mdate="2017-09-16">
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<author pid="c/MCarlsson">Mats Carlsson</author>
+<author orcid="0000-0002-4272-6278" pid="26/2237">Sophie Demassey</author>
+<author pid="84/3969">Thierry Petit</author>
+<title>Graph Properties Based Filtering.</title>
+<pages>59-74</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_7</ee>
+<url>db/conf/cp/cp2006.html#BeldiceanuCDP06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BessiereHHKW06" mdate="2019-10-04">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<author pid="66/5390">Brahim Hnich</author>
+<author pid="54/4901">Zeynep Kiziltan</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The ROOTS Constraint.</title>
+<pages>75-90</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_8</ee>
+<url>db/conf/cp/cp2006.html#BessiereHHKW06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BrodskyN06" mdate="2017-12-13">
+<author pid="b/AlexanderBrodsky">Alexander Brodsky 0001</author>
+<author pid="93/989">Hadon Nash</author>
+<title>CoJava: Optimization Modeling by Nondeterministic Simulation.</title>
+<pages>91-106</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_9</ee>
+<url>db/conf/cp/cp2006.html#BrodskyN06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CohenCJ06" mdate="2019-06-17">
+<author pid="50/3733">David A. Cohen</author>
+<author pid="04/5623">Martin C. Cooper</author>
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<title>An Algebraic Characterisation of Complexity for Valued Constraint.</title>
+<pages>107-121</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_10</ee>
+<url>db/conf/cp/cp2006.html#CohenCJ06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CohenG06" mdate="2017-05-17">
+<author pid="50/3733">David A. Cohen</author>
+<author pid="07/3495">Martin James Green</author>
+<title>Typed Guarded Decompositions for Constraint Satisfaction.</title>
+<pages>122-136</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_11</ee>
+<url>db/conf/cp/cp2006.html#CohenG06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DimopoulosS06" mdate="2019-01-08">
+<author pid="93/696">Yannis Dimopoulos</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>Propagation in CSP and SAT.</title>
+<pages>137-151</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_12</ee>
+<url>db/conf/cp/cp2006.html#DimopoulosS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DoomsK06" mdate="2017-05-17">
+<author pid="71/1062">Gr&#233;goire Dooms</author>
+<author pid="k/IritKatriel">Irit Katriel</author>
+<title>The <i>Minimum Spanning Tree</i> Constraint.</title>
+<pages>152-166</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_13</ee>
+<url>db/conf/cp/cp2006.html#DoomsK06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GaglioloS06" mdate="2017-06-02">
+<author orcid="0000-0002-7330-7949" pid="51/7005">Matteo Gagliolo</author>
+<author pid="s/JurgenSchmidhuber">J&#252;rgen Schmidhuber</author>
+<title>Impact of Censored Sampling on the Performance of Restart Strategies.</title>
+<pages>167-181</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_14</ee>
+<url>db/conf/cp/cp2006.html#GaglioloS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentJM06" mdate="2019-10-19">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Watched Literals for Constraint Propagation in Minion.</title>
+<pages>182-197</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_15</ee>
+<url>db/conf/cp/cp2006.html#GentJM06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GoldsztejnJ06" mdate="2017-05-17">
+<author pid="g/AlexandreGoldsztejn">Alexandre Goldsztejn</author>
+<author pid="24/6296">Luc Jaulin</author>
+<title>Inner and Outer Approximations of Existentially Quantified Equality Constraints.</title>
+<pages>198-212</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_16</ee>
+<url>db/conf/cp/cp2006.html#GoldsztejnJ06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HutterHHL06" mdate="2019-06-02">
+<author pid="89/5383">Frank Hutter</author>
+<author pid="16/6871">Youssef Hamadi</author>
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author orcid="0000-0002-7644-5327" pid="81/1149">Kevin Leyton-Brown</author>
+<title>Performance Prediction and Automated Tuning of Randomized and Parametric Algorithms.</title>
+<pages>213-228</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_17</ee>
+<ee>https://www.wikidata.org/entity/Q60521687</ee>
+<url>db/conf/cp/cp2006.html#HutterHHL06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/IshtaiwiTASP06" mdate="2017-12-25">
+<author pid="73/5649">Abdelraouf Ishtaiwi</author>
+<author pid="t/JohnThornton">John Thornton 0001</author>
+<author pid="a/Anbulagan">Anbulagan</author>
+<author pid="s/AbdulSattar">Abdul Sattar 0001</author>
+<author pid="35/6186">Duc Nghia Pham</author>
+<title>Adaptive Clause Weight Redistribution.</title>
+<pages>229-243</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_18</ee>
+<url>db/conf/cp/cp2006.html#IshtaiwiTASP06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Jaulin06" mdate="2017-05-17">
+<author pid="24/6296">Luc Jaulin</author>
+<title>Localization of an Underwater Robot Using Interval Constraint Propagation.</title>
+<pages>244-255</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_19</ee>
+<url>db/conf/cp/cp2006.html#Jaulin06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JonssonKN06" mdate="2017-05-17">
+<author pid="j/PeterJonsson">Peter Jonsson</author>
+<author pid="59/2771">Fredrik Kuivinen</author>
+<author pid="n/GustavNordh">Gustav Nordh</author>
+<title>Approximability of Integer Programming with Generalised Constraints.</title>
+<pages>256-270</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_20</ee>
+<url>db/conf/cp/cp2006.html#JonssonKN06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KhemmoudjPB06" mdate="2017-05-17">
+<author pid="49/5432">Mohand Ou Idir Khemmoudj</author>
+<author pid="43/883">Marc Porcheron</author>
+<author pid="75/3739">Hachemi Bennaceur</author>
+<title>When Constraint Programming and Local Search Solve the Scheduling Problem of Electricit&#233; de France Nuclear Power Plant Outages.</title>
+<pages>271-283</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_21</ee>
+<url>db/conf/cp/cp2006.html#KhemmoudjPB06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LecoutreS06" mdate="2017-05-17">
+<author pid="95/2777">Christophe Lecoutre</author>
+<author pid="36/2394">Radoslaw Szymanek</author>
+<title>Generalized Arc Consistency for Positive Table Constraints.</title>
+<pages>284-298</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_22</ee>
+<url>db/conf/cp/cp2006.html#LecoutreS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LombardiM06" mdate="2017-05-31">
+<author pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>Stochastic Allocation and Scheduling for Conditional Task Graphs in MPSoCs.</title>
+<pages>299-313</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_23</ee>
+<url>db/conf/cp/cp2006.html#LombardiM06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GonzalezAM06" mdate="2017-05-17">
+<author pid="36/6634">Santiago Macho Gonz&#225;lez</author>
+<author pid="32/2567">Carlos Ans&#243;tegui</author>
+<author pid="96/1119">Pedro Meseguer</author>
+<title>Boosting Open CSPs.</title>
+<pages>314-328</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_24</ee>
+<url>db/conf/cp/cp2006.html#GonzalezAM06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MateescuD06" mdate="2017-05-17">
+<author pid="45/1660">Robert Mateescu</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>Compiling Constraint Networks into AND/OR Multi-valued Decision Diagrams (AOMDDs).</title>
+<pages>329-343</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_25</ee>
+<url>db/conf/cp/cp2006.html#MateescuD06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MichelSH06" mdate="2017-05-17">
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<author pid="58/6446">Andrew See</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Distributed Constraint-Based Local Search.</title>
+<pages>344-358</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_26</ee>
+<url>db/conf/cp/cp2006.html#MichelSH06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MichelSH06a" mdate="2017-05-17">
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<author pid="58/6446">Andrew See</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>High-Level Nondeterministic Abstractions in.</title>
+<pages>359-374</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_27</ee>
+<url>db/conf/cp/cp2006.html#MichelSH06a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Morris06" mdate="2017-05-17">
+<author pid="29/2838">Paul Morris</author>
+<title>A Structural Characterization of Temporal Dynamic Controllability.</title>
+<pages>375-389</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_28</ee>
+<url>db/conf/cp/cp2006.html#Morris06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NeveuCT06" mdate="2017-05-17">
+<author pid="39/6105">Bertrand Neveu</author>
+<author pid="89/1246">Gilles Chabert</author>
+<author pid="55/2812">Gilles Trombettoni</author>
+<title>When Interval Analysis Helps Inter-block Backtracking.</title>
+<pages>390-405</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_29</ee>
+<url>db/conf/cp/cp2006.html#NeveuCT06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/OttenGD06" mdate="2017-05-17">
+<author pid="32/2145">Lars Otten</author>
+<author pid="75/5684">Mattias Gr&#246;nkvist</author>
+<author pid="d/DPDubhashi">Devdatt P. Dubhashi</author>
+<title>Randomization in Constraint Programming for Airline Planning.</title>
+<pages>406-420</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_30</ee>
+<url>db/conf/cp/cp2006.html#OttenGD06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PhamTS06" mdate="2017-12-25">
+<author pid="35/6186">Duc Nghia Pham</author>
+<author pid="t/JohnThornton">John Thornton 0001</author>
+<author pid="s/AbdulSattar">Abdul Sattar 0001</author>
+<title>Towards an Efficient SAT Encoding for Temporal Reasoning.</title>
+<pages>421-436</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_31</ee>
+<url>db/conf/cp/cp2006.html#PhamTS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PraletSV06" mdate="2017-05-17">
+<author pid="12/5282">C&#233;dric Pralet</author>
+<author pid="87/6848">Thomas Schiex</author>
+<author pid="88/2213">G&#233;rard Verfaillie</author>
+<title>Decomposition of Multi-operator Queries on Semiring-Based Graphical Models.</title>
+<pages>437-452</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_32</ee>
+<url>db/conf/cp/cp2006.html#PraletSV06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Puget06" mdate="2017-05-17">
+<author pid="p/JFPuget">Jean-Fran&#231;ois Puget</author>
+<title>Dynamic Lex Constraints.</title>
+<pages>453-467</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_33</ee>
+<url>db/conf/cp/cp2006.html#Puget06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RichterFN06" mdate="2018-01-03">
+<author pid="41/5173">Yossi Richter</author>
+<author pid="f/AriFreund">Ari Freund 0001</author>
+<author pid="45/6147">Yehuda Naveh</author>
+<title>Generalizing AllDifferent: The SomeDifferent Constraint.</title>
+<pages>468-483</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_34</ee>
+<url>db/conf/cp/cp2006.html#RichterFN06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RollonL06" mdate="2017-05-17">
+<author pid="32/3788">Emma Rollon</author>
+<author pid="27/2738">Javier Larrosa</author>
+<title>Mini-bucket Elimination with Bucket Propagation.</title>
+<pages>484-498</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_35</ee>
+<url>db/conf/cp/cp2006.html#RollonL06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SamerS06" mdate="2017-05-17">
+<author pid="05/2999">Marko Samer</author>
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Constraint Satisfaction with Bounded Treewidth Revisited.</title>
+<pages>499-513</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_36</ee>
+<url>db/conf/cp/cp2006.html#SamerS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SamulowitzDB06" mdate="2017-05-17">
+<author pid="13/2167">Horst Samulowitz</author>
+<author pid="49/4230">Jessica Davies</author>
+<author pid="b/FahiemBacchus">Fahiem Bacchus</author>
+<title>Preprocessing QBF.</title>
+<pages>514-529</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_37</ee>
+<url>db/conf/cp/cp2006.html#SamulowitzDB06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Sellmann06" mdate="2017-05-17">
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<title>The Theory of Grammar Constraints.</title>
+<pages>530-544</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_38</ee>
+<url>db/conf/cp/cp2006.html#Sellmann06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Smith06" mdate="2017-05-17">
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>Constraint Programming Models for Graceful Graphs.</title>
+<pages>545-559</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_39</ee>
+<url>db/conf/cp/cp2006.html#Smith06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/StreeterS06" mdate="2017-05-17">
+<author pid="23/6068">Matthew J. Streeter</author>
+<author pid="s/StephenFSmith">Stephen F. Smith</author>
+<title>A Simple Distribution-Free Approach to the Max <i>k</i>-Armed Bandit Problem.</title>
+<pages>560-574</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_40</ee>
+<url>db/conf/cp/cp2006.html#StreeterS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TackSS06" mdate="2017-12-26">
+<author pid="41/5343">Guido Tack</author>
+<author pid="s/ChristianSchulte">Christian Schulte 0001</author>
+<author pid="s/GertSmolka">Gert Smolka</author>
+<title>Generating Propagators for Finite Set Constraints.</title>
+<pages>575-589</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_41</ee>
+<url>db/conf/cp/cp2006.html#TackSS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TamuraTKB06" mdate="2017-05-17">
+<author pid="15/3484">Naoyuki Tamura</author>
+<author pid="71/4394">Akiko Taga</author>
+<author pid="25/3028">Satoshi Kitagawa</author>
+<author pid="98/215">Mutsunori Banbara</author>
+<title>Compiling Finite Linear CSP into SAT.</title>
+<pages>590-603</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_42</ee>
+<url>db/conf/cp/cp2006.html#TamuraTKB06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HentenryckM06" mdate="2017-05-17">
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<title>Differentiable Invariants.</title>
+<pages>604-619</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_43</ee>
+<url>db/conf/cp/cp2006.html#HentenryckM06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HoevePRS06" mdate="2017-05-17">
+<author pid="61/5378">Willem Jan van Hoeve</author>
+<author pid="02/6567">Gilles Pesant</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<author pid="13/154">Ashish Sabharwal</author>
+<title>Revisiting the Sequence Constraint.</title>
+<pages>620-634</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_44</ee>
+<url>db/conf/cp/cp2006.html#HoevePRS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/VergerB06" mdate="2019-10-04">
+<author pid="19/6001">Guillaume Verger</author>
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<title>: A Bottom-Up Approach for Solving Quantified CSPs.</title>
+<pages>635-649</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_45</ee>
+<url>db/conf/cp/cp2006.html#VergerB06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Walsh06" mdate="2017-05-17">
+<author pid="86/2576">Toby Walsh</author>
+<title>General Symmetry Breaking Constraints.</title>
+<pages>650-664</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_46</ee>
+<url>db/conf/cp/cp2006.html#Walsh06</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AgrenFP06" mdate="2017-05-17">
+<author pid="134/3170">Magnus &#197;gren 0002</author>
+<author pid="08/4454">Pierre Flener</author>
+<author pid="50/4914">Justin Pearson</author>
+<title>Inferring Variable Conflicts for Local Search.</title>
+<pages>665-669</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_47</ee>
+<url>db/conf/cp/cp2006.html#AgrenFP06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BenhamouS06" mdate="2017-05-17">
+<author pid="25/6758">Belaid Benhamou</author>
+<author pid="85/641">Mohamed R&#233;da Sa&#239;di</author>
+<title>Reasoning by Dominance in Not-Equals Binary Constraint Networks.</title>
+<pages>670-674</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_48</ee>
+<url>db/conf/cp/cp2006.html#BenhamouS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BritoM06" mdate="2017-05-17">
+<author pid="31/1621">Ismel Brito</author>
+<author pid="96/1119">Pedro Meseguer</author>
+<title>Distributed Stable Matching Problems with Ties and Incomplete Lists.</title>
+<pages>675-679</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_49</ee>
+<url>db/conf/cp/cp2006.html#BritoM06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CooperCRR06" mdate="2017-05-17">
+<author pid="04/5623">Martin C. Cooper</author>
+<author pid="10/5160">Sylvain Cussat-Blanc</author>
+<author pid="91/6665">Marie de Roquemaurel</author>
+<author pid="13/2110">Pierre R&#233;gnier</author>
+<title>Soft Arc Consistency Applied to Optimal Planning.</title>
+<pages>680-684</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_50</ee>
+<url>db/conf/cp/cp2006.html#CooperCRR06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DotuH06" mdate="2017-05-17">
+<author pid="d/IvanDottu">Iv&#225;n Dot&#250;</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>A Note on Low Autocorrelation Binary Sequences.</title>
+<pages>685-689</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_51</ee>
+<url>db/conf/cp/cp2006.html#DotuH06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FergusonO06" mdate="2017-05-17">
+<author pid="f/AlexFerguson">Alex Ferguson</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Relaxations and Explanations for Quantified Constraint Satisfaction Problems.</title>
+<pages>690-694</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_52</ee>
+<url>db/conf/cp/cp2006.html#FergusonO06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FlenerPSH06" mdate="2017-05-17">
+<author pid="08/4454">Pierre Flener</author>
+<author pid="50/4914">Justin Pearson</author>
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Static and Dynamic Structural Symmetry Breaking.</title>
+<pages>695-699</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_53</ee>
+<url>db/conf/cp/cp2006.html#FlenerPSH06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BandaMRW06" mdate="2017-12-19">
+<author pid="b/MariaJGarciadelaBanda">Maria J. Garc&#237;a de la Banda</author>
+<author pid="m/KimMarriott">Kim Marriott</author>
+<author pid="88/960">Reza Rafeh</author>
+<author orcid="0000-0001-7326-8110" pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>The Modelling Language Zinc.</title>
+<pages>700-705</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_54</ee>
+<url>db/conf/cp/cp2006.html#BandaMRW06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KayaH06" mdate="2017-05-17">
+<author pid="86/6526">Latife Gen&#231; Kaya</author>
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<title>A Filter for the Circuit Constraint.</title>
+<pages>706-710</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_55</ee>
+<url>db/conf/cp/cp2006.html#KayaH06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GogateD06" mdate="2017-05-17">
+<author pid="14/4229">Vibhav Gogate</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>A New Algorithm for Sampling CSP Solutions Uniformly at Random.</title>
+<pages>711-715</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_56</ee>
+<url>db/conf/cp/cp2006.html#GogateD06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HamiezH06" mdate="2017-05-17">
+<author pid="89/4938">Jean-Philippe Hamiez</author>
+<author pid="h/JinKaoHao">Jin-Kao Hao</author>
+<title>Sports League Scheduling: Enumerative Search for Prob026 from CSPLib.</title>
+<pages>716-720</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_57</ee>
+<url>db/conf/cp/cp2006.html#HamiezH06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HellerS06" mdate="2017-05-17">
+<author pid="81/1354">Daniel S. Heller</author>
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<title>Dynamic Symmetry Breaking Restarted.</title>
+<pages>721-725</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_58</ee>
+<url>db/conf/cp/cp2006.html#HellerS06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HoughtonCG06" mdate="2017-05-17">
+<author pid="98/1813">Chris Houghton</author>
+<author pid="50/3733">David A. Cohen</author>
+<author pid="07/3495">Martin James Green</author>
+<title>The Effect of Constraint Representation on Structural Tractability.</title>
+<pages>726-730</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_59</ee>
+<url>db/conf/cp/cp2006.html#HoughtonCG06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HulubeiO06" mdate="2017-05-17">
+<author pid="63/5177">Tudor Hulubei</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Failure Analysis in Backtrack Search for Constraint Satisfaction.</title>
+<pages>731-735</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_60</ee>
+<url>db/conf/cp/cp2006.html#HulubeiO06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HulubeiO06a" mdate="2017-05-17">
+<author pid="63/5177">Tudor Hulubei</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Heavy-Tailed Runtime Distributions: Heuristics, Models and Optimal Refutations.</title>
+<pages>736-740</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_61</ee>
+<url>db/conf/cp/cp2006.html#HulubeiO06a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JegouNT06" mdate="2017-05-17">
+<author pid="10/6570">Philippe J&#233;gou</author>
+<author pid="30/3232">Samba Ndiaye</author>
+<author pid="34/5502">Cyril Terrioux</author>
+<title>An Extension of Complexity Bounds and Dynamic Heuristics for Tree-Decompositions of CSP.</title>
+<pages>741-745</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_62</ee>
+<url>db/conf/cp/cp2006.html#JegouNT06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KhemmoudjB06" mdate="2017-05-17">
+<author pid="49/5432">Mohand Ou Idir Khemmoudj</author>
+<author pid="75/3739">Hachemi Bennaceur</author>
+<title>Clique Inference Process for Solving Max-CSP.</title>
+<pages>746-750</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_63</ee>
+<url>db/conf/cp/cp2006.html#KhemmoudjB06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/QuimperW06" mdate="2021-04-09">
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Global Grammar Constraints.</title>
+<pages>751-755</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_64</ee>
+<url>db/conf/cp/cp2006.html#QuimperW06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SultanikMR06" mdate="2017-05-17">
+<author pid="64/1902">Evan Sultanik</author>
+<author pid="30/2228">Pragnesh Jay Modi</author>
+<author pid="r/WCRegli">William C. Regli</author>
+<title>Constraint Propagation for Domain Bounding in Distributed Task Scheduling.</title>
+<pages>756-760</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_65</ee>
+<url>db/conf/cp/cp2006.html#SultanikMR06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TiedemannHHA06" mdate="2017-05-17">
+<author pid="15/3498">Peter Tiedemann</author>
+<author pid="62/6349">Tarik Hadzic</author>
+<author pid="50/2704">Thomas Stuart Henney</author>
+<author pid="77/4535">Henrik Reif Andersen</author>
+<title>Interactive Distributed Configuration.</title>
+<pages>761-765</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_66</ee>
+<url>db/conf/cp/cp2006.html#TiedemannHHA06</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ZivanSZM06" mdate="2017-05-17">
+<author pid="38/2041">Roie Zivan</author>
+<author pid="15/2992">Uri Shapen</author>
+<author pid="72/63">Moshe Zazone</author>
+<author pid="m/AmnonMeisels">Amnon Meisels</author>
+<title>Retroactive Ordering for Dynamic Backtracking.</title>
+<pages>766-771</pages>
+<year>2006</year>
+<crossref>conf/cp/2006</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/11889205_67</ee>
+<url>db/conf/cp/cp2006.html#ZivanSZM06</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

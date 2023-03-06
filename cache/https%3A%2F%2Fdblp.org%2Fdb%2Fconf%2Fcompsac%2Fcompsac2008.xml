@@ -1,0 +1,3841 @@
+<bht key="db/conf/compsac/compsac2008.bht" title="COMPSAC 2008">  
+<h1>32nd <ref href="db/conf/compsac/index.html">COMPSAC</ref> 2008:
+Turku, Finland</h1> <dblpcites><r><proceedings key="conf/compsac/2008" mdate="2019-10-16">
+<title>Proceedings of the 32nd Annual IEEE International Computer Software and Applications Conference, COMPSAC 2008, 28 July - 1 August 2008, Turku, Finland</title>
+<isbn>978-0-7695-3262-2</isbn>
+<booktitle>COMPSAC</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2008</year>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/4591502/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/compsac/2008/3262/00/index.html</ee>
+<url>db/conf/compsac/compsac2008.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Taylor08" mdate="2017-05-21">
+<author pid="71/2446">Russell H. Taylor</author>
+<title>Medical Robotics and Computer-Integrated Surgery.</title>
+<pages>1</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.234</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.234</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Taylor08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Holley08" mdate="2017-05-21">
+<author pid="54/3367">Jean Holley</author>
+<title>Generation Y: Understanding the Trend and Planning for the Impact.</title>
+<pages>2</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.204</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.204</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Holley08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Subramanyan08" mdate="2017-05-21">
+<author pid="47/5233">Rajesh Subramanyan</author>
+<title>Position Statement: How Well Technology Supports Software Evolution.</title>
+<pages>3</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.236</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.236</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Subramanyan08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Subramanyan08a" mdate="2017-05-21">
+<author pid="47/5233">Rajesh Subramanyan</author>
+<title>Panel Description: Software Testing for Large Globally Distributed Projects.</title>
+<pages>4</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.241</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.241</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Subramanyan08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Cao08" mdate="2017-05-21">
+<author pid="75/5028">Di Cao</author>
+<title>Oil-Field Services' Data Acquisition System - A Globally Distributed Development.</title>
+<pages>5</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.227</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.227</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Cao08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Mead08" mdate="2017-05-21">
+<author pid="91/4770">Nancy R. Mead</author>
+<title>Position Statement: The Impact of Software Assurance on Computing Education.</title>
+<pages>6</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.214</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.214</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Mead08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BelliS08" mdate="2017-05-21">
+<author pid="74/4321">Fevzi Belli</author>
+<author pid="85/2148">Cristina Cerschi Seceleanu</author>
+<title>Panel Description: 40 Years of Software Engineering.</title>
+<pages>7</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.42</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BelliS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Randell08" mdate="2017-05-21">
+<author pid="r/BrianRandell">Brian Randell</author>
+<title>Position Statement: How Far Have We Come?</title>
+<pages>8</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.233</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.233</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Randell08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Yau08" mdate="2017-05-21">
+<author pid="51/247">Stephen S. Yau</author>
+<title>Position Statement: Advances and Challenges of Software Engineering.</title>
+<pages>9</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.240</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.240</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Yau08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Gligor08" mdate="2017-05-21">
+<author pid="20/2659">Virgil D. Gligor</author>
+<title>Position Statement: On the Evolution of Adversary Models in Computer Systems and Networks.</title>
+<pages>10</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.237</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.237</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Gligor08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Leino08" mdate="2017-05-21">
+<author pid="l/KRMLeino">K. Rustan M. Leino</author>
+<title>Position Statement: Ceaselessly-Analyzing Development Environments, One Direction for the Next 40 Years of Software Engineering.</title>
+<pages>11</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.242</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.242</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Leino08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BasagiannisKPA08" mdate="2018-11-02">
+<author orcid="0000-0002-4513-0541" pid="18/2391">Stylianos Basagiannis</author>
+<author orcid="0000-0002-4309-5295" pid="20/2927">Panagiotis Katsaros</author>
+<author pid="48/232">Andrew Pombortsis</author>
+<author pid="32/1829">Nikolaos Alexiou 0001</author>
+<title>A Probabilistic Attacker Model for Quantitative Verification of DoS Security Threats.</title>
+<pages>12-19</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.48</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BasagiannisKPA08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/KarlstedtLT08" mdate="2021-04-09">
+<author pid="76/5818">Tomi Karlstedt</author>
+<author orcid="0000-0001-5296-677X" pid="l/VLeppanen">Ville Lepp&#228;nen</author>
+<author pid="12/5179">Sanna Tuohimaa</author>
+<title>Embedding Rule-Based Security Monitors into Java Programs.</title>
+<pages>20-27</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.150</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.150</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#KarlstedtLT08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/KongX08" mdate="2017-05-21">
+<author pid="95/203">Jun Kong</author>
+<author pid="11/5481">Dianxiang Xu</author>
+<title>A UML-Based Framework for Design and Analysis of Dependable Software.</title>
+<pages>28-31</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.114</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.114</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#KongX08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/YuN08" mdate="2017-05-21">
+<author pid="28/4207">Weider D. Yu</author>
+<author pid="84/6904">Ellora Nayak</author>
+<title>An Algorithmic Approach to Authorization Rules Conflict Resolution in Software Security.</title>
+<pages>32-35</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.229</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.229</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#YuN08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiPXL08" mdate="2017-05-21">
+<author pid="37/2548">Juncao Li</author>
+<author pid="34/2926">Nicholas T. Pilkington</author>
+<author pid="51/1316">Fei Xie</author>
+<author pid="61/3234">Qiang Liu</author>
+<title>Embedded Architecture Description Language.</title>
+<pages>36-43</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.121</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.121</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiPXL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/UnderwoodMC08" mdate="2017-06-02">
+<author pid="18/5732">Ryan C. Underwood</author>
+<author orcid="0000-0002-2158-0337" pid="91/2733">Bruce M. McMillin</author>
+<author orcid="0000-0002-2087-9599" pid="73/3384">Mariesa L. Crow</author>
+<title>An Open Framework for Highly Concurrent Real-Time Hardware-in-the-Loop Simulation.</title>
+<pages>44-51</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.165</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.165</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#UnderwoodMC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HungC08" mdate="2017-05-21">
+<author pid="21/5869">Li-Che Hung</author>
+<author pid="39/5269">Yaw-Chung Chen</author>
+<title>Parallel Table Lookup for Next Generation Internet.</title>
+<pages>52-59</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.69</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HungC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HuangWHW08" mdate="2017-05-21">
+<author pid="79/1046">Hsin-Han Huang</author>
+<author pid="40/1148">Ching-Huey Wang</author>
+<author pid="52/2437">Jiun-Long Huang</author>
+<author pid="65/6289">Feng-Jian Wang</author>
+<title>A Proxy Design for Nearest-Neighbor Query Processing in Mobile Environments.</title>
+<pages>60-63</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.181</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.181</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HuangWHW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BisanzHP08" mdate="2017-05-21">
+<author pid="28/3112">Stefan Bisanz</author>
+<author pid="50/651">Ulrich Hannemann</author>
+<author pid="24/440">Jan Peleska 0001</author>
+<title>Executable Semantics for Hybrid Systems - The Hybrid Low-Level Framework.</title>
+<pages>64-67</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.155</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.155</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BisanzHP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FuHLWL08" mdate="2017-06-02">
+<author pid="96/3121">Yingfang Fu</author>
+<author orcid="0000-0002-8122-8052" pid="21/6810">Jingsha He</author>
+<author pid="86/1762">Liangyu Luan</author>
+<author pid="66/4610">Rong Wang</author>
+<author pid="15/6932">Guorui Li</author>
+<title>A Zone-Based Distributed Key Management Scheme for Wireless Mesh Networks.</title>
+<pages>68-71</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.131</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.131</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FuHLWL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PegatoquetTP08" mdate="2017-05-21">
+<author pid="72/1886">Alain Pegatoquet</author>
+<author pid="96/4071">Filip Thoen</author>
+<author pid="91/1317">Denis Paterson</author>
+<title>Virtual Reality for 2.5 G Wireless Communication Modem Software Development.</title>
+<pages>72-75</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.101</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.101</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PegatoquetTP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HanJBH08" mdate="2022-01-03">
+<author pid="24/6206">Ah-Rim Han</author>
+<author pid="79/2253">Sang-Uk Jeon</author>
+<author pid="32/5432">Doo-Hwan Bae</author>
+<author orcid="0000-0001-9786-7732" pid="h/JangEuiHong">Jang-Eui Hong</author>
+<title>Behavioral Dependency Measurement for Change-Proneness Prediction in UML 2.0 Design Models.</title>
+<pages>76-83</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.80</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HanJBH08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BaiLTC08" mdate="2020-09-05">
+<author pid="67/2196">Xiaoying Bai</author>
+<author pid="09/5700">Shufang Lee</author>
+<author pid="87/3960">Wei-Tek Tsai</author>
+<author orcid="0000-0002-8780-3994" pid="98/2361">Yinong Chen</author>
+<title>Collaborative Web Services Monitoring with Active Service Broker.</title>
+<pages>84-91</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.75</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BaiLTC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/YuZYLW08" mdate="2017-05-21">
+<author pid="55/3144">Lian Yu</author>
+<author pid="99/3847">Jun Zhou</author>
+<author pid="86/3069">Yue Yi</author>
+<author pid="62/5860">Ping Li</author>
+<author pid="47/3932">Qianxiang Wang</author>
+<title>Ontology Model-Based Static Analysis on Java Programs.</title>
+<pages>92-99</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.73</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.73</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#YuZYLW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhangLZMM08" mdate="2017-05-21">
+<author pid="04/3348">Yan Zhang</author>
+<author pid="97/4626">Yi Liu</author>
+<author pid="03/4043">Le Zhang</author>
+<author pid="58/6005">Zhiyi Ma</author>
+<author pid="14/2036">Hong Mei</author>
+<title>Modeling and Checking for Non-functional Attributes in Extended UML Class Diagram.</title>
+<pages>100-107</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.72</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.72</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhangLZMM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RazaviK08" mdate="2017-05-21">
+<author pid="12/441">Ali Razavi</author>
+<author pid="33/5071">Kostas Kontogiannis</author>
+<title>Pattern and Policy Driven Log Analysis for Software Monitoring.</title>
+<pages>108-111</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.81</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RazaviK08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhangLSG08" mdate="2017-05-21">
+<author pid="84/6775">Pengcheng Zhang</author>
+<author pid="l/BixinLi">Bixin Li</author>
+<author pid="54/3913">Mingjie Sun</author>
+<author pid="16/4016">Xufang Gong</author>
+<title>A PSC-Based Approach to Monitor the Timed Properties in Web Service Compositions.</title>
+<pages>112-115</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.231</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.231</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhangLSG08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/TanCD08" mdate="2017-05-21">
+<author pid="13/3957">Lin Tan</author>
+<author pid="89/3076">Chi-Hung Chi</author>
+<author pid="69/6772">Jianming Deng</author>
+<title>Quantifying Trust Based on Service Level Agreement for Software as a Service.</title>
+<pages>116-119</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.211</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.211</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#TanCD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ArissXWCL08" mdate="2017-05-21">
+<author pid="55/6826">Omar el Ariss</author>
+<author pid="11/5481">Dianxiang Xu</author>
+<author pid="w/WEricWong">W. Eric Wong</author>
+<author pid="21/6510">Yuting Chen</author>
+<author pid="87/2778">Yann-Hang Lee</author>
+<title>A Systematic Approach for Integrating Fault Trees into System Statecharts.</title>
+<pages>120-123</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.19</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ArissXWCL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/JiangOC08" mdate="2017-05-21">
+<author pid="44/1673">Hsinyi Jiang</author>
+<author pid="01/6813">Katsunori Oyama</author>
+<author pid="c/CarlKChang">Carl K. Chang</author>
+<title>An Input Adjustable Tree Algorithm for Evolutionary Testing.</title>
+<pages>124-127</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.187</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.187</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#JiangOC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhangJCT08" mdate="2018-11-14">
+<author pid="01/1844-4">Zhenyu Zhang 0004</author>
+<author pid="34/2005-1">Bo Jiang 0001</author>
+<author orcid="0000-0001-7726-6235" pid="c/WingKwonChan">W. K. Chan 0001</author>
+<author orcid="0000-0002-0460-8377" pid="t/THTse">T. H. Tse</author>
+<title>Debugging through Evaluation Sequences: A Controlled Experimental Study.</title>
+<pages>128-135</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.207</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.207</ee>
+<ee>https://www.wikidata.org/entity/Q57611451</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhangJCT08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ChenYLJ08" mdate="2021-06-04">
+<author pid="53/1273">Ing-Xiang Chen</author>
+<author orcid="0000-0003-0046-9645" pid="36/3687">Cheng-Zen Yang</author>
+<author pid="49/4958">Ting-Kun Lu</author>
+<author pid="06/1063">Hojun Jaygarl</author>
+<title>Implicit Social Network Model for Predicting and Tracking the Location of Faults.</title>
+<pages>136-143</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.162</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.162</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ChenYLJ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BarzinFHS08" mdate="2017-05-21">
+<author pid="11/302">R. Barzin</author>
+<author pid="16/3971">S. Fukushima</author>
+<author pid="58/5326">William E. Howden</author>
+<author pid="76/4741">S. Sharifi</author>
+<title>Superfit Combinational Elusive Bug Detection.</title>
+<pages>144-151</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.5</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.5</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BarzinFHS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/TallamTGZ08" mdate="2020-09-05">
+<author pid="40/6567">Sriraman Tallam</author>
+<author pid="94/1247-2">Chen Tian 0002</author>
+<author orcid="0000-0002-9348-3974" pid="g/RajivGupta">Rajiv Gupta 0001</author>
+<author pid="95/3760-1">Xiangyu Zhang 0001</author>
+<title>Avoiding Program Failures Through Safe Execution Perturbations.</title>
+<pages>152-159</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.23</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#TallamTGZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Sun08" mdate="2021-08-21">
+<author pid="205/8837">Chang-Ai Sun</author>
+<title>A Transformation-Based Approach to Generating Scenario-Oriented Test Cases from UML Activity Diagrams for Concurrent Applications.</title>
+<pages>160-167</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.74</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Sun08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GotliebP08" mdate="2017-05-21">
+<author pid="45/6358">Arnaud Gotlieb</author>
+<author pid="14/3367">Matthieu Petit</author>
+<title>Constraint Reasoning in Path-Oriented Random Testing.</title>
+<pages>168-171</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.78</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.78</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GotliebP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AbufardehM08" mdate="2017-05-21">
+<author pid="18/1913">Sameer Abufardeh</author>
+<author pid="98/1637">Kenneth Magel</author>
+<title>QA/Testing Bi-directional Languages Software: Issues and Challenges.</title>
+<pages>172-175</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.84</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.84</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AbufardehM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CounsellS08" mdate="2017-06-02">
+<author pid="93/6557">Steve Counsell</author>
+<author orcid="0000-0001-8918-3365" pid="93/5842">Stephen Swift</author>
+<title>Refactoring Steps, Java Refactorings and Empirical Evidence.</title>
+<pages>176-179</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.148</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.148</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CounsellS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FengPT08" mdate="2018-11-14">
+<author pid="30/5155">Xin Feng</author>
+<author pid="p/DLParnas">David Lorge Parnas</author>
+<author orcid="0000-0002-0460-8377" pid="t/THTse">T. H. Tse</author>
+<title>Fault Propagation in Tabular Expression-Based Specifications.</title>
+<pages>180-183</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.115</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.115</ee>
+<ee>https://www.wikidata.org/entity/Q57611453</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FengPT08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/KolomvatsosAH08" mdate="2019-12-27">
+<author pid="72/712">Kostas Kolomvatsos</author>
+<author orcid="0000-0003-1517-6757" pid="07/5736">Christos Anagnostopoulos</author>
+<author orcid="0000-0002-8663-3049" pid="39/3808">Stathes Hadjiefthymiades</author>
+<title>On the Use of Fuzzy Logic in a Seller Bargaining Game.</title>
+<pages>184-191</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.172</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.172</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#KolomvatsosAH08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HaPKWY08" mdate="2022-06-13">
+<author pid="12/1056">You-min Ha</author>
+<author pid="45/2752-3">Sanghyun Park 0003</author>
+<author pid="64/5810">Sang-Wook Kim</author>
+<author orcid="0000-0003-3591-7735" pid="69/2661">Jung-Im Won</author>
+<author pid="57/3717">Jeehee Yoon</author>
+<title>Rule Discovery and Matching in Stock Databases.</title>
+<pages>192-198</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.20</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HaPKWY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FuNW08" mdate="2017-05-21">
+<author pid="22/2389">Kui Fu</author>
+<author pid="10/6799">Guihua Nie</author>
+<author pid="58/1340">Huimin Wang</author>
+<title>Hybrid Strategies for Attribute Relation Learning from Candidates.</title>
+<pages>199-202</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.21</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FuNW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BayleyZ08" mdate="2020-04-30">
+<author pid="76/6181">Ian Bayley</author>
+<author pid="55/521-2">Hong Zhu 0002</author>
+<title>Specifying Behavioural Features of Design Patterns in First Order Logic.</title>
+<pages>203-210</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.67</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BayleyZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/NavidPourIM08" mdate="2021-05-12">
+<author pid="47/1665">Sara NavidPour</author>
+<author pid="87/3378">Mohammad Izadi</author>
+<author orcid="0000-0002-6803-6750" pid="m/AliMovagharRahimabadi">Ali Movaghar 0001</author>
+<title>Live and Fair Constraint Automata and Their Linear Temporal Logic of Steps.</title>
+<pages>211-218</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.130</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.130</ee>
+<ee>https://www.wikidata.org/entity/Q57835483</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#NavidPourIM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GallardoMS08" mdate="2020-10-25">
+<author pid="15/4377">Mar&#237;a-del-Mar Gallardo</author>
+<author orcid="0000-0003-2456-4946" pid="95/1885">Pedro Merino 0001</author>
+<author orcid="0000-0003-2755-3089" pid="22/111">David San&#225;n</author>
+<title>Model Checking C Programs with Dynamic Memory Allocation.</title>
+<pages>219-226</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.143</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.143</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GallardoMS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BharadwajM08" mdate="2017-05-21">
+<author pid="45/235">Ramesh Bharadwaj</author>
+<author pid="15/3402">Supratik Mukhopadhyay</author>
+<title>A Formal Approach to Developing Reliable Event-Driven Service-Oriented Systems.</title>
+<pages>227-230</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.87</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.87</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BharadwajM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiSGW08" mdate="2017-07-28">
+<author pid="53/2189">Li Li</author>
+<author pid="58/3449">Xiaoyu Song</author>
+<author pid="76/2502-1">Ming Gu 0001</author>
+<author pid="06/3456-1">Jianmin Wang 0001</author>
+<title>A Maximum Weight Heuristic Method for Abstract State Computation.</title>
+<pages>231-234</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.7</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.7</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiSGW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhuWX08" mdate="2017-05-21">
+<author pid="23/5224">Jiaqi Zhu</author>
+<author pid="83/1259">Hanpin Wang</author>
+<author pid="90/4855">Zhongyuan Xu</author>
+<title>A New Temporal Logic CTL[k-QDDC] and Its Verification.</title>
+<pages>235-238</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.53</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhuWX08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/YangL08" mdate="2017-05-21">
+<author pid="98/343">Jingwei Yang</author>
+<author pid="61/2115-1">Lin Liu 0001</author>
+<title>Modelling Requirements Patterns with a Goal and PF Integrated Analysis Approach.</title>
+<pages>239-246</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.51</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#YangL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Elghazi08" mdate="2019-09-16">
+<author orcid="0000-0002-2790-4419" pid="50/6650">Hamid Elghazi</author>
+<title>MV - TMM: A Multi View Traceability Management Method.</title>
+<pages>247-254</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.195</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.195</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Elghazi08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/KitazawaOKKK08" mdate="2017-05-21">
+<author pid="46/714">Naoyuki Kitazawa</author>
+<author pid="89/6032">Akira Osada</author>
+<author pid="10/10">Kazuyuki Kamijo</author>
+<author pid="99/386">Haruhiko Kaiya</author>
+<author pid="86/3166">Kenji Kaijiri</author>
+<title>So/M: A Requirements Definition Tool Using Characteristics of Existing Similar Systems.</title>
+<pages>255-262</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.41</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#KitazawaOKKK08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MoonHY08" mdate="2017-05-21">
+<author pid="24/52">Mikyeong Moon</author>
+<author pid="95/1784">Minwoo Hong</author>
+<author pid="99/3678">Keunhyuk Yeom</author>
+<title>Two-Level Variability Analysis for Business Process with Reusability and Extensibility.</title>
+<pages>263-270</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.129</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.129</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MoonHY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Al-Fedaghi08" mdate="2017-06-02">
+<author orcid="0000-0002-0012-7306" pid="51/4448">Sabah S. Al-Fedaghi</author>
+<title>Software Engineering Interpretation of Information Processing Regulations.</title>
+<pages>271-274</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.11</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Al-Fedaghi08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhaoWLD08" mdate="2018-01-30">
+<author pid="06/572">Zongtao Zhao</author>
+<author pid="68/6546-1">Jun Wei 0001</author>
+<author pid="38/4000">Li Lin</author>
+<author pid="36/679">Xiaoning Ding</author>
+<title>A Concurrency Control Mechanism for Composite Service Supporting User-Defined Relaxed Atomicity.</title>
+<pages>275-278</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.95</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.95</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhaoWLD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhouLXLL08" mdate="2017-05-21">
+<author pid="71/4779">Xiaocong Zhou</author>
+<author pid="75/5928">Wenjun Li</author>
+<author pid="72/4712">Han-jun Xian</author>
+<author pid="91/1107">Taizong Lai</author>
+<author pid="16/6501">Hui Liang</author>
+<title>Towards Context Modeling for Algorithm Animation.</title>
+<pages>279-286</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.31</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhouLXLL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/OyamaJXCTF08" mdate="2017-05-21">
+<author pid="01/6813">Katsunori Oyama</author>
+<author pid="06/1063">Hojun Jaygarl</author>
+<author pid="16/839">Jinchun Xia</author>
+<author pid="c/CarlKChang">Carl K. Chang</author>
+<author pid="95/6417">Atsushi Takeuchi</author>
+<author pid="25/1368">Hiroshi Fujimoto</author>
+<title>A Human-Machine Dimensional Inference Ontology that Weaves Human Intentions and Requirements of Context Awareness Systems.</title>
+<pages>287-294</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.238</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.238</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#OyamaJXCTF08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhouHHX08" mdate="2017-05-21">
+<author pid="05/3403">Xin Zhou</author>
+<author pid="76/3309">Zhenzhong Huo</author>
+<author pid="92/4937">Yaowen Huang</author>
+<author pid="73/1149">Jian Xu</author>
+<title>Facilitating Software Traceability Understanding with ENVISION.</title>
+<pages>295-302</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.36</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhouHHX08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HunoldKKRRR08" mdate="2017-05-21">
+<author pid="h/SaschaHunold">Sascha Hunold</author>
+<author pid="k/MatthiasKorch">Matthias Korch</author>
+<author pid="59/5548">Bj&#246;rn Krellner</author>
+<author pid="r/ThomasRauber">Thomas Rauber</author>
+<author pid="07/6690">Thomas Reichel</author>
+<author pid="r/GudulaRunger">Gudula R&#252;nger</author>
+<title>Transformation of Legacy Software into Client/Server Applications through Pattern-Based Rearchitecturing.</title>
+<pages>303-310</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.158</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.158</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HunoldKKRRR08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GoaerTOS08" mdate="2022-10-20">
+<author pid="42/4379">Olivier Le Goa&#235;r</author>
+<author pid="84/5123">Dalila Tamzalit</author>
+<author pid="o/MouradChabaneOussalah">Mourad Oussalah 0001</author>
+<author orcid="0000-0003-1961-1410" pid="s/AbdelhakDjamelSeriai">Abdelhak Seriai</author>
+<title>Evolution Shelf: Reusing Evolution Expertise within Component-Based Software Architectures.</title>
+<pages>311-318</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.104</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.104</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GoaerTOS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PivetaAPMGP08" mdate="2022-04-09">
+<author orcid="0000-0002-0092-4495" pid="93/1270">Eduardo Kessler Piveta</author>
+<author orcid="0000-0001-5914-1631" pid="72/1322-1">Jo&#227;o Ara&#250;jo 0001</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author orcid="0000-0003-2046-2766" pid="m/AnaMoreira">Ana Moreira 0001</author>
+<author orcid="0000-0001-8324-8244" pid="23/5008">Pedro Guerreiro</author>
+<author pid="25/2048">Roberto Tom Price</author>
+<title>Searching for Opportunities of Refactoring Sequences: Reducing the Search Space.</title>
+<pages>319-326</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.119</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.119</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PivetaAPMGP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BreivoldCE08" mdate="2021-10-14">
+<author pid="54/6842">Hongyu Pei Breivold</author>
+<author orcid="0000-0002-5278-755X" pid="c/IvicaCrnkovic">Ivica Crnkovic</author>
+<author pid="39/1823">Peter J. Eriksson</author>
+<title>Analyzing Software Evolvability.</title>
+<pages>327-330</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.50</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.50</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BreivoldCE08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ChushoY08" mdate="2017-05-21">
+<author pid="48/1386">Takeshi Chusho</author>
+<author pid="26/4233">Noriyuki Yagi</author>
+<title>Modeling by Form Transformation for End-User Initiative Development.</title>
+<pages>331-334</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.9</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ChushoY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AhamedTM08" mdate="2017-05-21">
+<author pid="a/SheikhIqbalAhamed">Sheikh Iqbal Ahamed</author>
+<author pid="83/2264">Nilothpal Talukder</author>
+<author pid="14/5517">Mehrab Monjur</author>
+<title>WiFi Radar: Design and Implementation of an Infrastructure-less Location Tracking System for Pervasive Environment.</title>
+<pages>335-338</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.127</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.127</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AhamedTM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RudzkiHM08" mdate="2017-05-21">
+<author pid="82/2212">Jakub Rudzki</author>
+<author pid="14/5303">Imed Hammouda</author>
+<author pid="80/5814">Tommi Mikkonen</author>
+<title>Ensuring Architecture Conventions in Multi-site Development.</title>
+<pages>339-346</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.38</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RudzkiHM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SuL08" mdate="2017-05-21">
+<author pid="26/5371">Hang Su</author>
+<author pid="87/2939">Husheng Liao</author>
+<title>XQPE: A Partial Evaluation System for XQuery.</title>
+<pages>347-354</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.17</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SuL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ShimosawaMI08" mdate="2017-05-21">
+<author pid="42/25">Taku Shimosawa</author>
+<author pid="33/2414">Hiroya Matsuba</author>
+<author pid="97/6217">Yutaka Ishikawa</author>
+<title>Logical Partitioning without Architectural Supports.</title>
+<pages>355-364</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.170</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.170</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ShimosawaMI08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BouzoualeghMBJ08" mdate="2017-05-21">
+<author pid="86/3340">Ahcene Bouzoualegh</author>
+<author pid="13/3729">Dominique Marcadet</author>
+<author pid="52/5245">Fr&#233;d&#233;ric Boulanger</author>
+<author pid="63/939">Christophe Jacquet</author>
+<title>An Architecture Description Language for Verification in Component-Based Software.</title>
+<pages>365-368</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.107</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.107</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BouzoualeghMBJ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/TangPLZJ08" mdate="2019-01-07">
+<author pid="87/661">Shan Tang</author>
+<author pid="14/6370-1">Xin Peng 0001</author>
+<author pid="29/2316">Yiming Lau</author>
+<author pid="37/4220">Wenyun Zhao</author>
+<author pid="08/3289">Zhixiong Jiang</author>
+<title>An Adaptive Software Architecture Model Based on Component-Mismatches Detection and Elimination.</title>
+<pages>369-372</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.13</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#TangPLZJ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FanYCL08" mdate="2017-05-21">
+<author pid="17/5233">Guisheng Fan</author>
+<author pid="90/4237">Huiqun Yu</author>
+<author pid="23/243">Liqiong Chen</author>
+<author pid="88/5652">Dongmei Liu</author>
+<title>Analyzing BPEL Compositionality Based on Petri Nets.</title>
+<pages>373-376</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.44</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FanYCL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/NetoR08" mdate="2017-05-21">
+<author pid="16/4959">Ivan Silva Neto</author>
+<author pid="r/FranciscoReverbel">Francisco Reverbel</author>
+<title>On the Performance of Transactional Remote Invocations over Commonly Used Transports.</title>
+<pages>377-384</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.112</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.112</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#NetoR08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Malek08" mdate="2017-05-21">
+<author pid="88/4685">Sam Malek</author>
+<title>Dealing with the Crosscutting Structure of Software Architectural Styles.</title>
+<pages>385-392</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.124</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.124</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Malek08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Sharafi08" mdate="2017-05-21">
+<author pid="27/3068">Sayed Mehran Sharafi</author>
+<title>Extending Team Automata to Evaluate Software Architectural Design.</title>
+<pages>393-400</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.57</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Sharafi08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/WeigoldBTBG08" mdate="2019-10-19">
+<author pid="81/5875">Thomas Weigold</author>
+<author pid="98/6777">Peter Buhler</author>
+<author orcid="0000-0002-2167-1343" pid="90/1818">Jeyarajan Thiyagalingam</author>
+<author pid="12/2564">Artie Basukoski</author>
+<author pid="50/3186">Vladimir Getov</author>
+<title>Advanced Grid Programming with Components: A Biometric Identification Case Study.</title>
+<pages>401-408</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.97</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.97</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#WeigoldBTBG08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/JungCY08" mdate="2017-05-21">
+<author pid="98/4065">Im Young Jung</author>
+<author pid="51/5405">In Soon Cho</author>
+<author pid="58/4211">Heon Young Yeom</author>
+<title>A Cost-Effective Guarantee of Security and Scalability on HVEM DataGrid with Active Disk.</title>
+<pages>409-416</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.28</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#JungCY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ElciRK08" mdate="2017-05-21">
+<author pid="e/AtillaElci">Atilla El&#231;i</author>
+<author pid="24/1588">Behnam Rahnama</author>
+<author pid="34/3309">Saman Kamran</author>
+<title>Defining a Strategy to Select Either of Closed/Open World Assumptions on Semantic Robots.</title>
+<pages>417-423</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.182</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.182</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ElciRK08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HuangZLY08" mdate="2017-05-21">
+<author pid="14/4834">Jing Huang</author>
+<author pid="10/4661">Wei Zhang</author>
+<author pid="74/1312">Yansheng Lu</author>
+<author pid="41/6432">Qin Yang</author>
+<title>Reflective Design for Component-Based Distributed Systems with Timing Constraints.</title>
+<pages>424-427</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.166</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.166</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HuangZLY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AguiarCUC08" mdate="2017-05-21">
+<author pid="93/5268">C&#233;sar S. Aguiar</author>
+<author pid="52/696">Daniel I. Cruz</author>
+<author pid="94/4583">Roberta Spolon Ulson</author>
+<author pid="56/4787">Marcos Antonio Cavenaghi</author>
+<title>The Application of Distributed Virtual Machines for Enterprise Computer Management: A Two-Tier Network File System for Image Provisioning and Management.</title>
+<pages>428-431</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.103</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.103</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AguiarCUC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/TalukderA08" mdate="2017-05-21">
+<author pid="83/2264">Nilothpal Talukder</author>
+<author pid="a/SheikhIqbalAhamed">Sheikh Iqbal Ahamed</author>
+<title>FPCS: A Formal Approach for Privacy-Aware Context-Based Services.</title>
+<pages>432-439</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.154</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.154</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#TalukderA08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BayonaCAG08" mdate="2020-10-25">
+<author pid="40/105">Sussy Bayona Or&#233;</author>
+<author orcid="0000-0002-2864-2203" pid="14/1597">Jos&#233; Antonio Calvo-Manzano</author>
+<author pid="44/4295">Gonzalo Cuevas Agust&#237;n</author>
+<author orcid="0000-0002-6104-7430" pid="02/5492">Tom&#225;s San Feliu Gilabert</author>
+<title>Teaching Team Software Process in Graduate Courses to Increase Productivity and Improve Software Quality.</title>
+<pages>440-446</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.135</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.135</ee>
+<ee>https://www.wikidata.org/entity/Q57537930</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BayonaCAG08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ThompsonE08" mdate="2017-05-21">
+<author pid="48/6443">J. Barrie Thompson</author>
+<author pid="89/4694">Helen M. Edwards</author>
+<title>Advancing Industry-Related Elements: The Meat on the Curricula Bones.</title>
+<pages>447-454</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.120</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.120</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ThompsonE08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MeadSDI08" mdate="2020-07-28">
+<author orcid="0000-0002-2919-086X" pid="91/4770">Nancy R. Mead</author>
+<author pid="46/984">Daniel Shoemaker 0001</author>
+<author pid="92/180">Antonio Drommi</author>
+<author pid="37/4993">Jeffrey A. Ingalsbe</author>
+<title>An Immersion Program to Help Students Understand the Impact of Cross Cultural Differences in Software Engineering Work.</title>
+<pages>455-459</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.82</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.82</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MeadSDI08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GotardoTZ08" mdate="2017-05-21">
+<author pid="144/3230">Reginaldo Aparecido Gotardo</author>
+<author pid="t/CACTeixeira">C&#233;sar A. C. Teixeira</author>
+<author pid="61/335">S&#233;rgio Donizetti Zorzo</author>
+<title>IP2 Model - Content Recommendation in Web-Based Educational Systems Using User's Interests and Preferences and Resources' Popularity.</title>
+<pages>460-463</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.198</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.198</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GotardoTZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/WeigertWBDM08" mdate="2017-05-21">
+<author pid="14/777">Thomas Weigert</author>
+<author pid="93/3923">Frank Weil</author>
+<author pid="29/1917">Aswin van den Berg</author>
+<author pid="25/4256">Paul Dietz</author>
+<author pid="57/1423">Kevin Marth</author>
+<title>Automated Code Generation for Industrial-Strength Systems.</title>
+<pages>464-472</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.26</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#WeigertWBDM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhangHZM08" mdate="2018-02-23">
+<author pid="13/6769-12">Ying Zhang 0012</author>
+<author pid="11/539-1">Gang Huang 0001</author>
+<author pid="73/4015">Nuyun Zhang</author>
+<author pid="14/2036">Hong Mei</author>
+<title>Editable Replay of IDE-Based Repetitive Tasks.</title>
+<pages>473-480</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.25</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhangHZM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Davis08" mdate="2017-05-21">
+<author pid="43/266">Alan M. Davis</author>
+<title>Contraindications, Precautions, Overdoses, and Adverse Reactions: What Software Engineering Can Learn from Pharmaceuticals.</title>
+<pages>481-487</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.79</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.79</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Davis08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CrouchHW08" mdate="2019-06-02">
+<author orcid="0000-0001-8985-6814" pid="06/117">Stephen Crouch</author>
+<author pid="h/PeterHenderson">Peter Henderson 0001</author>
+<author pid="32/3003">Robert John Walters</author>
+<title>Utilising Located Functions to Model and Optimise Distributed Computations.</title>
+<pages>488-489</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.15</ee>
+<ee>https://www.wikidata.org/entity/Q59517974</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CrouchHW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/DongWZZT08" mdate="2019-05-28">
+<author pid="92/748-6">Wei Dong 0006</author>
+<author pid="64/856-1">Ji Wang 0001</author>
+<author pid="97/2179">Changzhi Zhao</author>
+<author pid="56/5624">Xian Zhang</author>
+<author pid="181/2690">Jie Tian</author>
+<title>Automating Software FMEA via Formal Analysis of Dependence Relations.</title>
+<pages>490-491</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.71</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#DongWZZT08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/OgataM08" mdate="2020-10-25">
+<author orcid="0000-0001-6996-3073" pid="42/5272">Shinpei Ogata</author>
+<author pid="80/3916">Saeko Matsuura</author>
+<title>Scenario-Based Automatic Prototype Generation.</title>
+<pages>492-493</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.98</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.98</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#OgataM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FariaYTPM08" mdate="2017-05-21">
+<author pid="50/5138">Eust&#225;quio S&#227;o Jos&#233; de Faria</author>
+<author pid="90/5666">Keiji Yamanaka</author>
+<author pid="63/1312">Josimeire do Amaral Tavares</author>
+<author pid="71/2673">Geraldo Henrique Lacerda Pinto</author>
+<author pid="36/1947">Lowghan Henrique Sud&#225;rio de Melo</author>
+<title>AIDDES - Distributed Intelligent Pair-Software Development Environment.</title>
+<pages>494-495</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.178</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.178</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FariaYTPM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RudzkiS08" mdate="2017-05-21">
+<author pid="82/2212">Jakub Rudzki</author>
+<author pid="82/3938">Tarja Syst&#228;</author>
+<title>Small Steps Approach to Tackling Software Quality in a Commercial Setting.</title>
+<pages>496-498</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.194</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.194</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RudzkiS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Matevska08" mdate="2017-05-21">
+<author pid="m/JasminkaMatevska">Jasminka Matevska</author>
+<title>An Optimised Runtime Reconfiguration of Component-Based Software Systems.</title>
+<pages>499-501</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.111</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.111</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Matevska08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ElciKO08" mdate="2018-11-14">
+<author pid="e/AtillaElci">Atilla El&#231;i</author>
+<author pid="18/5441">Mamadou Tadiou Kone</author>
+<author orcid="0000-0002-7873-1562" pid="o/MehmetAOrgun">Mehmet A. Orgun</author>
+<title>Message from the ESAS 2008 Workshop Organizers.</title>
+<pages>502</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.249</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.249</ee>
+<ee>https://www.wikidata.org/entity/Q58185172</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ElciKO08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ElciKO08a" mdate="2017-05-21">
+<author pid="e/AtillaElci">Atilla El&#231;i</author>
+<author pid="18/5441">Mamadou Tadiou Kone</author>
+<author pid="o/MehmetAOrgun">Mehmet A. Orgun</author>
+<title>ESAS 2008 Workshop Organization.</title>
+<pages>503-504</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.250</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.250</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ElciKO08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Al-Shrouf08" mdate="2017-05-21">
+<author pid="97/731">Faiz M. Al-Shrouf</author>
+<title>Facilitator Agent Design Pattern of Procurement Business Systems.</title>
+<pages>505-510</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.225</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.225</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Al-Shrouf08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/WangLZW08" mdate="2017-05-21">
+<author pid="57/2298">Meisheng Wang</author>
+<author pid="48/4546">Qingshan Li</author>
+<author pid="67/4612">Chenguang Zhao</author>
+<author pid="13/4381">Yingqiang Wang</author>
+<title>A Contract Net Model Based on Agent Active Perception.</title>
+<pages>511-516</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.68</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.68</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#WangLZW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FariaYTPM08a" mdate="2017-05-21">
+<author pid="50/5138">Eust&#225;quio S&#227;o Jos&#233; de Faria</author>
+<author pid="90/5666">Keiji Yamanaka</author>
+<author pid="63/1312">Josimeire do Amaral Tavares</author>
+<author pid="71/2673">Geraldo Henrique Lacerda Pinto</author>
+<author pid="36/1947">Lowghan Henrique Sud&#225;rio de Melo</author>
+<title>Intelligent Software Agents Mediating the Pair Participation in a Distributed Intelligent Pair-Software Development Environment.</title>
+<pages>517-520</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.177</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.177</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FariaYTPM08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GunasekeraZKL08" mdate="2017-05-21">
+<author pid="57/3185">Kutila Gunasekera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="k/ShonaliKrishnaswamy">Shonali Krishnaswamy</author>
+<author pid="l/SengWaiLoke">Seng Wai Loke</author>
+<title>VERSAG: Context-Aware Adaptive Mobile Agents for the Semantic Web.</title>
+<pages>521-522</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.92</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.92</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GunasekeraZKL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Leenheer08" mdate="2017-05-21">
+<author pid="65/5607">Pieter De Leenheer</author>
+<title>Keynote: Towards An Ontological Foundation for Evolving Agent Communities.</title>
+<pages>523-528</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.188</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.188</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Leenheer08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/OngenaeVTDDD08" mdate="2018-11-14">
+<author orcid="0000-0003-2529-5477" pid="62/738">Femke Ongenae</author>
+<author pid="34/1717">Stijn Verstichel</author>
+<author pid="30/888">Filip De Turck</author>
+<author pid="43/2362">Tom Dhaene</author>
+<author pid="39/211">Bart Dhoedt</author>
+<author pid="d/PietDemeester">Piet Demeester</author>
+<title>OTAGen: A Tunable Ontology Generator for Benchmarking Ontology-Based Agent Collaboration.</title>
+<pages>529-530</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.134</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.134</ee>
+<ee>https://www.wikidata.org/entity/Q57769697</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#OngenaeVTDDD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MonchZ08" mdate="2017-05-21">
+<author pid="m/LarsMonch">Lars M&#246;nch</author>
+<author pid="39/4791">Jens Zimmermann</author>
+<title>An Ontology to Support Adaptive Agents for Complex Manufacturing Systems.</title>
+<pages>531-536</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.145</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.145</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MonchZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/IndumathiU08" mdate="2017-05-21">
+<author pid="28/4748">J. Indumathi</author>
+<author pid="64/238">G. V. Uma</author>
+<title>Fabrication of Ontology for Security in Health Care Systems.</title>
+<pages>537-538</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.199</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.199</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#IndumathiU08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ErmolayevKM08" mdate="2019-09-16">
+<author pid="90/6206">Vadim Ermolayev</author>
+<author orcid="0000-0001-7398-3464" pid="34/6768">Natalya Keberle</author>
+<author pid="97/5875">Wolf-Ekkehard Matzke</author>
+<title>An Ontology of Environments, Events, and Happenings.</title>
+<pages>539-546</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.141</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.141</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ErmolayevKM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BasharatS08" mdate="2017-05-21">
+<author pid="35/4950">Amna Basharat</author>
+<author pid="56/5618">Gabriella Spinelli</author>
+<title>Towards Engineering Ontologies for Cognitive Profiling of Agents on the Semantic Web.</title>
+<pages>547-552</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.212</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.212</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BasharatS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BahreiniE08" mdate="2017-05-21">
+<author pid="42/885">Kiavash Bahreini</author>
+<author pid="e/AtillaElci">Atilla El&#231;i</author>
+<title>SDISSASA: A Multiagent-Based Web Mining via Semantic Access to Web Resources in Enterprise Architecture.</title>
+<pages>553-558</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.100</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.100</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BahreiniE08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/UbisKMLHHC08" mdate="2019-06-02">
+<author pid="20/6428">F. Ubis</author>
+<author pid="40/1375">Tom Kirkham</author>
+<author orcid="0000-0002-3342-3160" pid="80/1224">Brian Matthews</author>
+<author orcid="0000-0001-6227-3408" pid="20/6839">Jose L. Martinez Lastra</author>
+<author pid="94/4203">Robert Harrison</author>
+<author pid="122/0601">Vladimir Villase&#241;or Herrera</author>
+<author pid="55/176">A. Chowdrey</author>
+<title>The Challenges along the Road to the Realisation of a Factory Automation Lifecycle.</title>
+<pages>559-562</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.197</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.197</ee>
+<ee>https://www.wikidata.org/entity/Q59100810</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#UbisKMLHHC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Powers08" mdate="2017-05-21">
+<author pid="45/6398">Brenda Powers</author>
+<title>A Multi-agent Architecture for NATO Network Enabled Capabilities: Enabling Semantic Interoperability in Dynamic Environments (NC3A RD-2376).</title>
+<pages>563-564</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.174</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.174</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Powers08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MorenoL08" mdate="2017-06-02">
+<author orcid="0000-0003-2378-6360" pid="m/JuanCarlosGonzalezMoreno">Juan Carlos Gonz&#225;lez Moreno</author>
+<author pid="20/6323">Luis V&#225;zquez L&#243;pez</author>
+<title>Design of Multiagent System Architecture.</title>
+<pages>565-568</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.169</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.169</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MorenoL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SadiqS08" mdate="2017-05-21">
+<author pid="30/43">Muhammad Ainan Sadiq</author>
+<author pid="93/5025">Syed Muhammad Ali Shah</author>
+<title>Shared Storage in J2ME: A Multi-agent System Approach.</title>
+<pages>569-574</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.167</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.167</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SadiqS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RumleyKRG08" mdate="2017-06-15">
+<author pid="71/1891">S&#233;bastien Rumley</author>
+<author pid="42/5493">Elvira K&#228;gi</author>
+<author orcid="0000-0002-5424-7784" pid="61/1742">Hugh Rudnick</author>
+<author pid="85/5825">Alain Germond</author>
+<title>Multi-agent Approach to Electrical Distribution Networks Control.</title>
+<pages>575-580</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.224</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.224</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RumleyKRG08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AyedS08" mdate="2017-05-21">
+<author pid="j/LeilaJemniBenAyed">Leila Jemni Ben Ayed</author>
+<author pid="63/3615">Fatma Siala</author>
+<title>From AUML Protocol Diagrams to Event B for the Specification and the Verification of Interaction Protocols in Multi-agent Systems.</title>
+<pages>581-584</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.176</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.176</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AyedS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Guo08" mdate="2017-05-21">
+<author pid="60/6622">Qinglin Guo</author>
+<title>The Similarity Computing of Documents Based on VSM.</title>
+<pages>585-586</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.196</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.196</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Guo08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GonsalvesIKI08" mdate="2017-05-21">
+<author pid="53/552">Tad Gonsalves</author>
+<author pid="51/5636">Atsushi Ito</author>
+<author pid="01/846">Ryo Kawabata</author>
+<author pid="84/1030">Kiyoshi Itoh</author>
+<title>Swarm Intelligence in the Optimization of Software Development Project Schedule.</title>
+<pages>587-592</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.179</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.179</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GonsalvesIKI08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PloskasBZW08" mdate="2020-10-25">
+<author pid="74/6312">Nikiforos Ploskas</author>
+<author orcid="0000-0003-4575-7261" pid="38/9994">Michael S. Berger</author>
+<author pid="94/2739-5">Jiang Zhang 0005</author>
+<author pid="43/3073">Gert-Joachim Wintterle</author>
+<title>A Knowledge Management Framework for Software Configuration Management.</title>
+<pages>593-598</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.106</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.106</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PloskasBZW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RollandYYL08" mdate="2018-11-07">
+<author pid="r/CRolland">Colette Rolland</author>
+<author pid="33/5374">Eric S. K. Yu</author>
+<author orcid="0000-0002-4408-1952" pid="y/JianYang1">Jian Yang 0001</author>
+<author pid="61/2115-1">Lin Liu 0001</author>
+<title>Message from the REFS 2008 Workshop Organizers.</title>
+<pages>599</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.251</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.251</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RollandYYL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RollandYYL08a" mdate="2017-05-21">
+<author pid="r/CRolland">Colette Rolland</author>
+<author pid="33/5374">Eric S. K. Yu</author>
+<author pid="181/2854">Jian Yang</author>
+<author pid="61/2115-1">Lin Liu 0001</author>
+<title>REFS 2008 Workshop Organization.</title>
+<pages>600</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.252</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.252</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RollandYYL08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/KnaussL08" mdate="2017-06-02">
+<author orcid="0000-0002-6631-872X" pid="k/EricKnauss">Eric Knauss</author>
+<author pid="l/DanielLubke">Daniel L&#252;bke</author>
+<title>Using the Friction between Business Processes and Use Cases in SOA Requirements.</title>
+<pages>601-606</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.136</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.136</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#KnaussL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/WuJ08" mdate="2017-05-21">
+<author pid="80/6229">Budan Wu</author>
+<author pid="22/3510">Zhi Jin</author>
+<title>Service-Oriented Modeling: An Extensive Reuse Method.</title>
+<pages>607-612</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.30</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#WuJ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Lassoued08" mdate="2017-05-21">
+<author pid="51/4691">M&#233;nel Lassoued</author>
+<title>Intentional Services Specification Enhancement with Scenario-Based Techniques to Analyze Security Threats.</title>
+<pages>613-618</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.133</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.133</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Lassoued08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RejebBM08" mdate="2019-10-19">
+<author orcid="0000-0002-8466-3586" pid="95/6095">Helmi Ben Rejeb</author>
+<author orcid="0000-0001-9749-119X" pid="97/2705">Vincent Boly</author>
+<author pid="51/4044">Laure Morel-Guimaraes</author>
+<title>A New Methodology Based on Kano Model for the Evaluation of a New Product Acceptability during the Front-End Phases.</title>
+<pages>619-624</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.94</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.94</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RejebBM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/OyamaJXCTF08a" mdate="2017-05-21">
+<author pid="01/6813">Katsunori Oyama</author>
+<author pid="06/1063">Hojun Jaygarl</author>
+<author pid="16/839">Jinchun Xia</author>
+<author pid="c/CarlKChang">Carl K. Chang</author>
+<author pid="95/6417">Atsushi Takeuchi</author>
+<author pid="25/1368">Hiroshi Fujimoto</author>
+<title>Requirements Analysis Using Feedback from Context Awareness Systems.</title>
+<pages>625-630</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.239</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.239</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#OyamaJXCTF08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AdamD08" mdate="2017-05-21">
+<author pid="35/2311">Sebastian Adam</author>
+<author pid="22/3714">J&#246;rg D&#246;rr</author>
+<title>The Role of Service Abstraction and Service Variability and Its Impact on Requirements Engineering for Service-Oriented Systems.</title>
+<pages>631-634</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.54</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AdamD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/DavisNPZ08" mdate="2017-06-02">
+<author pid="43/266">Alan M. Davis</author>
+<author pid="62/4314">Nur Nurmuliani</author>
+<author pid="93/6311">Sooyong Park</author>
+<author orcid="0000-0002-6051-0155" pid="57/215">Didar Zowghi</author>
+<title>Requirements Change: What's the Alternative?</title>
+<pages>635-638</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.216</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.216</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#DavisNPZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhouRY08" mdate="2018-11-02">
+<author orcid="0000-0002-4026-1649" pid="48/4230">Jiehan Zhou</author>
+<author pid="85/2702">Mika Rautiainen</author>
+<author orcid="0000-0002-8079-5514" pid="34/76">Mika Ylianttila</author>
+<title>SCCM: Service-Oriented Community Coordinated Multimedia Architecture.</title>
+<pages>639-642</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.90</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.90</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhouRY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/YounesA08" mdate="2017-05-21">
+<author pid="06/3178">Ahlem Ben Younes</author>
+<author pid="j/LeilaJemniBenAyed">Leila Jemni Ben Ayed</author>
+<title>From UML Activity Diagrams to Event B for the Specification and the Verification of Workflow Applications.</title>
+<pages>643-648</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.217</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.217</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#YounesA08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LimPC08" mdate="2017-05-21">
+<author pid="67/2145">Soo Ling Lim</author>
+<author pid="97/3979">Eric Platon</author>
+<author pid="23/5600">Karl Cox</author>
+<title>Synthesis of Actor Dependency and Business Motivation for Service Requirements Engineering.</title>
+<pages>649-652</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.59</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LimPC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AhamedZ08" mdate="2017-05-21">
+<author pid="a/SheikhIqbalAhamed">Sheikh Iqbal Ahamed</author>
+<author pid="45/1198">Mohammad Zulkernine</author>
+<title>Message from the STPSA 2008 Workshop Organizers.</title>
+<pages>653</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.253</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.253</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AhamedZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AhamedZ08a" mdate="2017-05-21">
+<author pid="a/SheikhIqbalAhamed">Sheikh Iqbal Ahamed</author>
+<author pid="45/1198">Mohammad Zulkernine</author>
+<title>STPSA 2008 Workshop Organization.</title>
+<pages>654</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.254</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.254</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AhamedZ08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SinghP08" mdate="2017-05-21">
+<author pid="53/1512">Manpreet Singh</author>
+<author pid="118/7533">Manjeet Singh Patterh</author>
+<title>Access Control Framework for Secure Network Computing Environment.</title>
+<pages>655-660</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.64</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.64</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SinghP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ElahiLY08" mdate="2017-05-21">
+<author pid="91/1565">Golnaz Elahi</author>
+<author pid="88/5134">Zeev Lieber</author>
+<author pid="33/5374">Eric S. K. Yu</author>
+<title>Trade-off Analysis of Identity Management Systems with an Untrusted Identity Provider.</title>
+<pages>661-666</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.164</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.164</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ElahiLY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MatosF08" mdate="2017-05-21">
+<author pid="68/4588">Simone Nasser Matos</author>
+<author pid="80/1617">Clovis Torres Fernandes</author>
+<title>Using Responsibilities for Early Identification of Hot Spots Reused in Frameworks Modeling.</title>
+<pages>667-672</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.34</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MatosF08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Cimato08" mdate="2017-06-02">
+<author orcid="0000-0003-1737-6218" pid="60/3624">Stelvio Cimato</author>
+<title>A Lightweight Protocol for Dynamic RFID Identification.</title>
+<pages>673-678</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.152</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.152</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Cimato08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RamnathGR08" mdate="2017-05-21">
+<author pid="23/1595">Rajiv Ramnath</author>
+<author pid="91/1357">Vasudha Gupta</author>
+<author pid="89/1528">Jay Ramanathan</author>
+<title>RED-Transaction and Goal-Model Based Analysis of Layered Security of Physical Spaces.</title>
+<pages>679-685</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.185</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.185</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RamnathGR08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/XuQHWC08" mdate="2019-07-03">
+<author pid="91/2335">Dong-Hong Xu</author>
+<author pid="01/2240">Yong Qi</author>
+<author pid="06/6398">Di Hou</author>
+<author pid="30/1619">Gong-Zhen Wang</author>
+<author pid="21/5521-4">Ying Chen 0004</author>
+<title>An Improved Calculus for Secure Dynamic Services Composition.</title>
+<pages>686-691</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.18</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#XuQHWC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HongLLWD08" mdate="2017-05-21">
+<author pid="79/5433">Yuan Hong</author>
+<author pid="49/53">Shuo Lu</author>
+<author pid="33/85">Qian Liu</author>
+<author pid="w/LingyuWang">Lingyu Wang 0001</author>
+<author pid="29/2226">Rachida Dssouli</author>
+<title>Preserving Privacy in E-health Systems Using Hippocratic Databases.</title>
+<pages>692-697</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.62</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HongLLWD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FrigaultW08" mdate="2017-05-21">
+<author pid="21/6019">Marcel Frigault</author>
+<author pid="w/LingyuWang">Lingyu Wang 0001</author>
+<title>Measuring Network Security Using Bayesian Network-Based Attack Graphs.</title>
+<pages>698-703</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.88</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.88</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FrigaultW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BenferhatKM08" mdate="2017-05-21">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="56/1533">Tayeb Kenaza</author>
+<author pid="19/5783">A&#239;cha Mokhtari</author>
+<title>A Naive Bayes Approach for Detecting Coordinated Attacks.</title>
+<pages>704-709</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.213</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.213</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BenferhatKM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiuY08" mdate="2022-05-30">
+<author pid="65/622-1">Xiaodong Liu 0001</author>
+<author pid="78/4510">Hongji Yang</author>
+<title>Message from the QUORS 2008 Workshop Organizers.</title>
+<pages>710</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.255</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.255</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiuY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiuY08a" mdate="2022-05-30">
+<author pid="65/622-1">Xiaodong Liu 0001</author>
+<author pid="78/4510">Hongji Yang</author>
+<title>QUORS 2008 Workshop Organization.</title>
+<pages>711</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.256</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.256</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiuY08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LuCCCC08" mdate="2020-12-29">
+<author pid="83/1018">Chih-Wei Lu</author>
+<author orcid="0000-0002-7910-4704" pid="62/6434">Chih-Hung Chang</author>
+<author pid="c/WilliamCChu">William C. Chu</author>
+<author pid="06/3931">Ya-Wen Cheng</author>
+<author pid="29/809">Hsin-Chien Chang</author>
+<title>A Requirement Tool to Support Model-Based Requirement Engineering.</title>
+<pages>712-717</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.232</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.232</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LuCCCC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PuYXXC08" mdate="2021-04-09">
+<author pid="40/59">Jianjun Pu</author>
+<author pid="78/4510">Hongji Yang</author>
+<author orcid="0000-0001-7743-1296" pid="46/5742">Baowen Xu</author>
+<author pid="19/360-3">Lei Xu 0003</author>
+<author pid="c/WilliamCChu">William Cheng-Chung Chu</author>
+<title>Combining MDE and UML to Reverse Engineer Web-Based Legacy Systems.</title>
+<pages>718-725</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.63</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PuYXXC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BernardiL08" mdate="2017-06-15">
+<author orcid="0000-0002-3223-7032" pid="95/554">Mario Luca Bernardi</author>
+<author orcid="0000-0003-3632-0156" pid="d/GiuseppeADiLucca">Giuseppe A. Di Lucca</author>
+<title>A Taxonomy of Interactions Introduced by Aspects.</title>
+<pages>726-731</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.159</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.159</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BernardiL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PaesH08" mdate="2019-09-25">
+<author pid="83/1965">Carlos Eduardo de Barros Paes</author>
+<author orcid="0000-0002-9746-7605" pid="h/CelsoMassakiHirata">Celso Massaki Hirata</author>
+<title>RUP Extension For the Software Performance.</title>
+<pages>732-738</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.86</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.86</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PaesH08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GallinaG08" mdate="2017-05-21">
+<author pid="34/3823">Barbara Gallina</author>
+<author pid="g/NicolasGuelfi">Nicolas Guelfi</author>
+<title>A Product Line Perspective for Quality Reuse of Development Frameworks for Distributed Transactional Applications.</title>
+<pages>739-744</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.32</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GallinaG08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/DahiyaD08" mdate="2022-10-02">
+<author orcid="0000-0002-4586-9899" pid="93/3252">Deepak Dahiya</author>
+<author pid="17/2207">Sudha Dahiya</author>
+<title>Software Reuse in Design and Development of Aspects.</title>
+<pages>745-750</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.55</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#DahiyaD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiLK08" mdate="2022-05-30">
+<author pid="61/2493">Chengpu Li</author>
+<author pid="65/622-1">Xiaodong Liu 0001</author>
+<author orcid="0000-0002-0023-2595" pid="97/8920">Jessie B. Kennedy</author>
+<title>Semantics-Based Component Repository: Current State of Arts and a Calculation Rating Factor-Based Framework.</title>
+<pages>751-756</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.40</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiLK08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CiraciBA08" mdate="2017-05-21">
+<author pid="62/306">Selim Ciraci</author>
+<author pid="b/PimvandenBroek">Pim van den Broek</author>
+<author pid="a/MAksit">Mehmet Aksit</author>
+<title>Framework for Computer-Aided Evolution of Object-Oriented Designs.</title>
+<pages>757-764</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.46</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CiraciBA08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/KangPHZY08" mdate="2017-05-21">
+<author pid="56/6072">Jian Kang</author>
+<author pid="40/59">Jianjun Pu</author>
+<author pid="87/2652">Jianchu Huang</author>
+<author pid="57/2664">Zihou Zhou</author>
+<author pid="78/4510">Hongji Yang</author>
+<title>Business Intelligence Recovery from Legacy Code.</title>
+<pages>765-770</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.35</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#KangPHZY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Sato08" mdate="2017-05-21">
+<author pid="68/5837">Hiroyuki Sato</author>
+<title>Delay Front and Skip Interval - Assessing Open Source Software Maintenance of System Vendors and Computer Centers.</title>
+<pages>771-776</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.43</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Sato08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiL08" mdate="2022-06-01">
+<author pid="37/4190">Yang Li</author>
+<author pid="65/622-2">Xiaodong Liu 0002</author>
+<title>Message from the BINDIS 2008 Workshop Organizers.</title>
+<pages>777</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.257</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.257</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiL08a" mdate="2022-06-01">
+<author pid="37/4190">Yang Li</author>
+<author pid="65/622-2">Xiaodong Liu 0002</author>
+<title>BINDIS 2008 Workshop Organization.</title>
+<pages>778</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.258</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.258</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiL08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/WangZX08" mdate="2021-10-14">
+<author pid="97/6505">Qing Wang</author>
+<author pid="66/4615-2">Yong Zhang 0002</author>
+<author orcid="0000-0001-9390-3097" pid="x/ChunxiaoXing">Chunxiao Xing</author>
+<title>Object Oriented Design Based on Role and Rule.</title>
+<pages>779-784</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.122</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.122</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#WangZX08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiuWZZ08" mdate="2017-05-21">
+<author pid="l/YanLiu11">Yan Liu 0011</author>
+<author pid="61/4797">Qingling Wang</author>
+<author pid="34/6446">Mingguang Zhuang</author>
+<author pid="87/6171">Yunyun Zhu</author>
+<title>Reengineering Legacy Systems with RESTful Web Service.</title>
+<pages>785-790</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.89</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.89</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiuWZZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Shinde08" mdate="2017-05-21">
+<author pid="59/3692">Ashutosh Shinde</author>
+<title>Challenges of Building High Performing On-Demand Software.</title>
+<pages>791-794</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.37</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Shinde08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/IzumiMS08" mdate="2017-05-21">
+<author pid="28/2565">Masataka Izumi</author>
+<author pid="28/926">Takao Miura</author>
+<author pid="23/47">Isamu Shioya</author>
+<title>Entropy-Based Age Estimation of Blog Authors.</title>
+<pages>795-800</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.201</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.201</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#IzumiMS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SuYLCH08" mdate="2022-10-02">
+<author pid="87/221">Lili Su</author>
+<author pid="23/3025">Shenggang Yang</author>
+<author pid="42/1295">Yushun Li</author>
+<author orcid="0000-0003-0371-9646" pid="69/2675">Xiaochun Cheng</author>
+<author orcid="0000-0003-4651-5248" pid="07/563">Ronghuai Huang</author>
+<title>Semantic-Oriented Ubiquitous Learning Object Management System SULOMS.</title>
+<pages>801-806</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.49</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SuYLCH08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Li08" mdate="2017-05-21">
+<author pid="37/4190">Yang Li</author>
+<title>Service Productivity Improvement and Software Technology Support.</title>
+<pages>807-812</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.160</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.160</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Li08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/YauCMBC08" mdate="2017-05-21">
+<author pid="51/247">Stephen S. Yau</author>
+<author pid="00/2250">Jo&#227;o W. Cangussu</author>
+<author pid="m/AdityaPMathur">Aditya P. Mathur</author>
+<author pid="74/4321">Fevzi Belli</author>
+<author pid="71/5252">Kai-Yuan Cai</author>
+<title>Message from the IWSC 2008 Workshop Organizers.</title>
+<pages>813</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.259</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.259</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#YauCMBC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/YauCMBC08a" mdate="2017-05-21">
+<author pid="51/247">Stephen S. Yau</author>
+<author pid="00/2250">Jo&#227;o W. Cangussu</author>
+<author pid="m/AdityaPMathur">Aditya P. Mathur</author>
+<author pid="74/4321">Fevzi Belli</author>
+<author pid="71/5252">Kai-Yuan Cai</author>
+<title>IWSC 2008 Workshop Organization.</title>
+<pages>814-815</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.260</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.260</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#YauCMBC08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhouKJ08" mdate="2017-12-02">
+<author pid="94/569">Changyan Zhou</author>
+<author pid="12/2833-1">Ratnesh Kumar 0001</author>
+<author pid="58/6402">Shengbing Jiang</author>
+<title>Keynote: Hierarchical Fault Detection in Embedded Control Software.</title>
+<pages>816-823</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.60</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhouKJ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/JiangHCHY08" mdate="2017-05-21">
+<author pid="87/5409">Chang-Hai Jiang</author>
+<author pid="99/5658">Hai Hu</author>
+<author pid="71/5252">Kai-Yuan Cai</author>
+<author pid="91/5329">Dazhi Huang</author>
+<author pid="51/247">Stephen S. Yau</author>
+<title>An Intelligent Control Architecture for Adaptive Service-Based Software Systems with Workflow Patterns.</title>
+<pages>824-829</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.184</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.184</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#JiangHCHY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MillerDM08" mdate="2017-05-21">
+<author pid="64/3734">Scott D. Miller</author>
+<author pid="83/4417">Raymond A. DeCarlo</author>
+<author pid="m/AdityaPMathur">Aditya P. Mathur</author>
+<title>Quantitative Modeling for Incremental Software Process Control.</title>
+<pages>830-835</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.189</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.189</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MillerDM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HarelKR08" mdate="2021-07-27">
+<author pid="55/4634">Avi Harel</author>
+<author orcid="0000-0003-2315-0477" pid="00/7568">Ron S. Kenett</author>
+<author orcid="0000-0002-7655-6254" pid="40/2142">Fabrizio Ruggeri 0001</author>
+<title>Decision Support for User Interface Design: Usability Diagnosis by Time Analysis of the User Activity.</title>
+<pages>836-840</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.61</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HarelKR08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/DingZ08" mdate="2017-05-21">
+<author pid="75/157">Zuohua Ding</author>
+<author pid="58/1863">Kao Zhang</author>
+<title>Performance Analysis of Concurrent Programs Using Ordinary Differential Equations.</title>
+<pages>841-846</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.77</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.77</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#DingZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/StochelS08" mdate="2017-05-21">
+<author pid="72/3164">Marek Grzegorz Stochel</author>
+<author pid="21/6615">Radek Sztando</author>
+<title>Testing Optimization for Mission-Critical, Complex, Distributed Systems.</title>
+<pages>847-852</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.96</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.96</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#StochelS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HuJC08" mdate="2017-05-21">
+<author pid="99/5658">Hai Hu</author>
+<author pid="87/5409">Chang-Hai Jiang</author>
+<author pid="71/5252">Kai-Yuan Cai</author>
+<title>Adaptive Software Testing in the Context of an Improved Controlled Markov Chain Model.</title>
+<pages>853-858</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.186</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.186</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HuJC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CaoDG08" mdate="2017-05-21">
+<author pid="14/2589">Longbing Cao</author>
+<author pid="15/4113">Ruwei Dai</author>
+<author pid="20/2852">Vladimir I. Gorodetski</author>
+<title>Message from the EOCS-MCP 2008 Workshop Organizers.</title>
+<pages>859</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.261</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.261</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CaoDG08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CaoDG08a" mdate="2017-05-21">
+<author pid="14/2589">Longbing Cao</author>
+<author pid="15/4113">Ruwei Dai</author>
+<author pid="20/2852">Vladimir I. Gorodetski</author>
+<title>EOCS-MCP 2008 Workshop Organization.</title>
+<pages>860-861</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.262</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.262</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CaoDG08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiCD08" mdate="2017-05-21">
+<author pid="66/815">Yaodong Li</author>
+<author pid="39/6085">Xia Cui</author>
+<author pid="15/4113">Ruwei Dai</author>
+<title>Paradigms of Meta-synthetic Computing.</title>
+<pages>862-867</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.52</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.52</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiCD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CuiD08" mdate="2017-05-21">
+<author pid="39/6085">Xia Cui</author>
+<author pid="15/4113">Ruwei Dai</author>
+<title>Meta-synthetic Computing Formula of Situation Assessment in Social Interactions.</title>
+<pages>868-872</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.10</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CuiD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Levin08" mdate="2019-10-19">
+<author orcid="0000-0002-2141-315X" pid="l/MarkShLevin">Mark Sh. Levin</author>
+<title>Towards Four-Layer Framework of Combinatorial Problems.</title>
+<pages>873-878</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.180</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.180</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Levin08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/JiangSY08" mdate="2017-05-21">
+<author pid="56/5843">Jinlei Jiang</author>
+<author pid="s/JohannHSchlichter">Johann H. Schlichter</author>
+<author pid="67/3001">Guangwen Yang</author>
+<title>Design More Usable and Reliable Large-Scale Software Systems: A New Approach Based on P2P, SOA and Web 2.0.</title>
+<pages>879-884</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.93</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.93</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#JiangSY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ChengDZL08" mdate="2017-05-21">
+<author pid="155/5744">Gang Cheng</author>
+<author pid="15/4113">Ruwei Dai</author>
+<author pid="39/229">Mingchang Zhao</author>
+<author pid="66/815">Yaodong Li</author>
+<title>An Effective Communication Platform Based on XMPP for HWME.</title>
+<pages>885-889</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.29</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ChengDZL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhaoS08" mdate="2017-05-21">
+<author pid="93/6302">Jijun Zhao</author>
+<author pid="05/7042">Ferenc Szidarovszky</author>
+<title>A Dynamic Model and Simulation of Industrial Clusters.</title>
+<pages>890-895</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.27</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhaoS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Cao08a" mdate="2017-06-02">
+<author orcid="0000-0003-1562-9429" pid="14/2589">Longbing Cao</author>
+<title>Metasynthetic Computing for Solving Open Complex Problems.</title>
+<pages>896-901</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.16</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Cao08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BahreiniE08a" mdate="2017-05-21">
+<author pid="42/885">Kiavash Bahreini</author>
+<author pid="e/AtillaElci">Atilla El&#231;i</author>
+<title>A New Software Architecture for J2EE Enterprise Environments via Semantic Access to Web Sources for Web Mining by Distributed Intelligent Software Agents.</title>
+<pages>902-907</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.102</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.102</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BahreiniE08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiLC08" mdate="2017-05-21">
+<author pid="66/3387">Hui Li</author>
+<author pid="74/2397">Zhen Li</author>
+<author pid="39/6085">Xia Cui</author>
+<title>Modern Distance Education: A Special Open Complex Giant System.</title>
+<pages>908-912</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.222</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.222</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiLC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ChaiFLZ08" mdate="2017-05-21">
+<author pid="93/2032">Yanyan Chai</author>
+<author pid="40/759">Lei Fan</author>
+<author pid="66/815">Yaodong Li</author>
+<author pid="39/229">Mingchang Zhao</author>
+<title>An Opinions Expression and Induction System of Experts in Hall for Workshop of Meta-synthetic Engineering.</title>
+<pages>913-917</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.14</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ChaiFLZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiDL08" mdate="2017-05-21">
+<author pid="73/3630">Minhua Li</author>
+<author pid="15/4113">Ruwei Dai</author>
+<author pid="66/815">Yaodong Li</author>
+<title>A Novel Scheme Producing and Evaluation System in HWME.</title>
+<pages>918-922</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.12</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiDL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/WangCW08" mdate="2017-05-21">
+<author pid="35/7092">Wei Wang</author>
+<author pid="39/6085">Xia Cui</author>
+<author pid="90/0">Ai Wang</author>
+<title>News Analysis Based on Meta-synthesis Approach.</title>
+<pages>923-928</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.8</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#WangCW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/YangDC08" mdate="2017-05-21">
+<author pid="49/2337">Weijie Yang</author>
+<author pid="15/4113">Ruwei Dai</author>
+<author pid="39/6085">Xia Cui</author>
+<title>Extracting Social Network among Various Entities from Chinese News Stories by Content Analysis.</title>
+<pages>929-934</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.6</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#YangDC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/JiangJ08" mdate="2017-05-21">
+<author pid="64/4112">Michael Jiang</author>
+<author pid="j/JamesJoshi">James Joshi</author>
+<title>Message from the IWSSE 2008 Workshop Organizers.</title>
+<pages>935</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.263</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.263</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#JiangJ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/JiangJ08a" mdate="2017-05-21">
+<author pid="64/4112">Michael Jiang</author>
+<author pid="j/JamesJoshi">James Joshi</author>
+<title>IWSSE 2008 Workshop Organization.</title>
+<pages>936</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.264</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.264</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#JiangJ08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/JayaramM08" mdate="2017-05-21">
+<author pid="21/2983">K. R. Jayaram</author>
+<author pid="m/AdityaPMathur">Aditya P. Mathur</author>
+<title>On the Adequacy of Statecharts as a Source of Tests for Cryptographic Protocols.</title>
+<pages>937-942</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.203</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.203</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#JayaramM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AliaL08" mdate="2017-05-21">
+<author pid="48/1461">Mourad Alia</author>
+<author pid="67/2171">Marc Lacoste</author>
+<title>A QoS and Security Adaptation Model for Autonomic Pervasive Systems.</title>
+<pages>943-948</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.283</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.283</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AliaL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MeadVP08" mdate="2017-06-02">
+<author orcid="0000-0002-2919-086X" pid="91/4770">Nancy R. Mead</author>
+<author pid="37/6825">Venkatesh Viswanathan</author>
+<author pid="34/5998">Deepa Padmanabhan</author>
+<title>Incorporating Security Requirements Engineering into the Dynamic Systems Development Method.</title>
+<pages>949-954</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.85</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.85</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MeadVP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/KhanZ08" mdate="2017-05-21">
+<author pid="k/UmairKhan">Muhammad Umair Ahmed Khan</author>
+<author pid="45/1198">Mohammad Zulkernine</author>
+<title>Quantifying Security in Secure Software Development Phases.</title>
+<pages>955-960</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.173</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.173</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#KhanZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CanforaV08" mdate="2018-11-14">
+<author orcid="0000-0003-0049-1279" pid="63/4434">Gerardo Canfora</author>
+<author orcid="0000-0002-0558-4450" pid="38/2506">Corrado Aaron Visaggio</author>
+<title>A System to Prevent Multi-users and Multi-sessions Attack to Breach Privacy Policies in a Trust-End Filter.</title>
+<pages>961-966</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.202</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.202</ee>
+<ee>https://www.wikidata.org/entity/Q57752104</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CanforaV08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhuLCFRH08" mdate="2017-10-20">
+<author pid="69/3658">Zhaosheng Zhu</author>
+<author pid="76/3136">Guohan Lu</author>
+<author pid="88/2827-4">Yan Chen 0004</author>
+<author pid="60/608">Zhi (Judy) Fu</author>
+<author pid="09/372">Phil Roberts</author>
+<author pid="47/2149">Keesook Han</author>
+<title>Botnet Research Survey.</title>
+<pages>967-972</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.205</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.205</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhuLCFRH08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/NoponenK08" mdate="2022-10-02">
+<author orcid="0000-0002-4798-3345" pid="31/5722">Sami Noponen</author>
+<author pid="25/2912">Kaarina Karppinen</author>
+<title>Information Security of Remote File Transfers with Mobile Devices.</title>
+<pages>973-978</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.128</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.128</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#NoponenK08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ShahriarZ08" mdate="2022-10-02">
+<author orcid="0000-0003-1021-7986" pid="67/1486">Hossain Shahriar</author>
+<author pid="45/1198">Mohammad Zulkernine</author>
+<title>Mutation-Based Testing of Buffer Overflow Vulnerabilities.</title>
+<pages>979-984</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.123</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.123</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ShahriarZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AbramowiczM08" mdate="2019-10-19">
+<author orcid="0000-0001-5464-9698" pid="69/2328">Witold Abramowicz</author>
+<author pid="m/LAMaciaszek">Leszek A. Maciaszek</author>
+<title>Message from the SemBPM 2008 Workshop Organizers.</title>
+<pages>985</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.265</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.265</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AbramowiczM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AbramowiczM08a" mdate="2017-05-21">
+<author pid="69/2328">Witold Abramowicz</author>
+<author pid="m/LAMaciaszek">Leszek A. Maciaszek</author>
+<title>SemBPM 2008 Workshop Organization.</title>
+<pages>986</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.266</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.266</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AbramowiczM08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FilipowskaKSSW08" mdate="2019-10-19">
+<author orcid="0000-0002-8425-1872" pid="06/4354">Agata Filipowska</author>
+<author pid="68/2242">Monika Kaczmarek</author>
+<author pid="28/4815">Monika Starzecka</author>
+<author pid="40/1441">Piotr Stolarski</author>
+<author pid="49/2495">Adam Walczak</author>
+<title>Semantic Enterprise Description for the Needs of Business Process Automation.</title>
+<pages>987-992</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.161</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.161</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FilipowskaKSSW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CelikE08" mdate="2017-05-21">
+<author pid="92/5742">Duygu &#199;elik</author>
+<author pid="e/AtillaElci">Atilla El&#231;i</author>
+<title>Semantic QoS Model for Extended IOPE Matching and Composition of Web Services.</title>
+<pages>993-998</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.208</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.208</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CelikE08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GagneT08" mdate="2017-05-21">
+<author pid="42/753">Denis Gagn&#233;</author>
+<author pid="02/2492">Andr&#233; Trudel</author>
+<title>A Temporal Semantics for Workflow Control Patterns.</title>
+<pages>999-1004</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.66</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GagneT08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/DecreusP08" mdate="2017-06-02">
+<author pid="33/2506">Ken Decreus</author>
+<author orcid="0000-0001-9247-6150" pid="72/6796">Geert Poels</author>
+<title>Putting Business into Business Process Models.</title>
+<pages>1005-1010</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.110</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.110</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#DecreusP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/JablonskiVD08" mdate="2017-05-21">
+<author pid="j/StefanJablonski">Stefan Jablonski</author>
+<author pid="30/2501">Bernhard Volz</author>
+<author pid="05/4108">Sebastian Dornstauder</author>
+<title>A Meta Modeling Framework for Domain Specific Process Management.</title>
+<pages>1011-1016</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.58</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#JablonskiVD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/KlugeHBF08" mdate="2017-05-21">
+<author pid="28/4661">Rolf Kluge</author>
+<author pid="95/1277">Thomas Hering</author>
+<author pid="87/5744">Roman Belter</author>
+<author pid="38/3891">Bogdan Franczyk</author>
+<title>An Approach for Matching Functional Business Requirements to Standard Application Software Packages via Ontology.</title>
+<pages>1017-1022</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.147</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.147</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#KlugeHBF08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GorbenkoRK08" mdate="2019-10-19">
+<author orcid="0000-0001-6757-1797" pid="55/4111">Anatoliy Gorbenko</author>
+<author pid="r/AlexanderBRomanovsky">Alexander B. Romanovsky</author>
+<author pid="93/305">Vyacheslav S. Kharchenko</author>
+<title>How to Enhance UDDI with Dependability Capabilities.</title>
+<pages>1023-1028</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.33</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GorbenkoRK08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BelterK08" mdate="2017-05-21">
+<author pid="87/5744">Roman Belter</author>
+<author pid="28/4661">Rolf Kluge</author>
+<title>Towards Distributed Management of Service-Oriented Computing Infrastructures.</title>
+<pages>1029-1034</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.117</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.117</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BelterK08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FabbriniFL08" mdate="2022-10-02">
+<author pid="32/3700">Fabrizio Fabbrini</author>
+<author pid="40/5616">Mario Fusani</author>
+<author orcid="0000-0003-2960-5241" pid="l/GiuseppeLami">Giuseppe Lami</author>
+<title>Message from the SECAD 2008 Workshop Organizers.</title>
+<pages>1035</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.267</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.267</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FabbriniFL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FabbriniFL08a" mdate="2017-05-21">
+<author pid="32/3700">Fabrizio Fabbrini</author>
+<author pid="40/5616">Mario Fusani</author>
+<author pid="l/GiuseppeLami">Giuseppe Lami</author>
+<title>SECAD 2008 Workshop Organization.</title>
+<pages>1036</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.268</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.268</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FabbriniFL08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Dorling08" mdate="2017-05-21">
+<author pid="17/3050">Alec Dorling</author>
+<title>The Role of Process Standards in Automotive Systems Development.</title>
+<pages>1037-1038</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.235</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.235</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Dorling08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FabbriniFLS08" mdate="2022-10-02">
+<author pid="32/3700">Fabrizio Fabbrini</author>
+<author pid="40/5616">Mario Fusani</author>
+<author orcid="0000-0003-2960-5241" pid="l/GiuseppeLami">Giuseppe Lami</author>
+<author pid="52/5937">Edoardo Sivera</author>
+<title>Software Engineering in the European Automotive Industry: Achievements and Challenges.</title>
+<pages>1039-1044</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.140</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.140</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FabbriniFLS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/VanamaliBH08" mdate="2021-06-23">
+<author pid="94/3407">Bhaskar Vanamali</author>
+<author pid="72/1149">Fabio Bella</author>
+<author pid="65/1570">Klaus A. H&#246;rmann</author>
+<title>From CMMI to SPICE - Experiences on How to Survive a SPICE Assessment Having Already Implemented CMMI.</title>
+<pages>1045-1052</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.230</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.230</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#VanamaliBH08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PanaroniSFFL08" mdate="2022-10-02">
+<author pid="46/3116">Paolo Panaroni</author>
+<author pid="41/3099">Giovanni Sartori</author>
+<author pid="32/3700">Fabrizio Fabbrini</author>
+<author pid="40/5616">Mario Fusani</author>
+<author orcid="0000-0003-2960-5241" pid="l/GiuseppeLami">Giuseppe Lami</author>
+<title>Safety in Automotive Software: An Overview of Current Practices.</title>
+<pages>1053-1058</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.139</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.139</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PanaroniSFFL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BocchiFL08" mdate="2017-06-02">
+<author pid="34/1918">Laura Bocchi</author>
+<author pid="f/JoseLuizFiadeiro">Jos&#233; Luiz Fiadeiro</author>
+<author orcid="0000-0003-0688-3521" pid="75/5295">Ant&#243;nia Lopes</author>
+<title>Service-Oriented Modelling of Automotive Systems.</title>
+<pages>1059-1064</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.228</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.228</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BocchiFL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MontiNASSW08" mdate="2017-05-21">
+<author pid="95/6910">Stefano Monti</author>
+<author pid="71/1550">Walter Nesci</author>
+<author pid="45/2768">Serino Angellotti</author>
+<author pid="39/1897">Claudio Schellino</author>
+<author pid="11/5046">Massimo Seminara</author>
+<author pid="24/3606">Rainer Wuesthenagen</author>
+<title>Configuration and Change Management of the Outcomes of an Automotive Engine Control Model Based Software Design Process.</title>
+<pages>1065-1069</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.109</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.109</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MontiNASSW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BotterweckTCNP08" mdate="2017-06-02">
+<author orcid="0000-0002-5556-1660" pid="60/2897">Goetz Botterweck</author>
+<author pid="60/1716">Steffen Thiel</author>
+<author pid="22/3738">Ciar&#225;n Cawley</author>
+<author pid="14/4681">Daren Nestor</author>
+<author pid="72/3511">Andr&#233; Preu&#223;ner</author>
+<title>Visual Configuration in Automotive Software Product Lines.</title>
+<pages>1070-1075</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.108</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.108</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BotterweckTCNP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PhungS08" mdate="2019-04-10">
+<author orcid="0000-0002-4674-1184" pid="69/608">Phu H. Phung</author>
+<author pid="s/DavidSands">David Sands 0001</author>
+<title>Security Policy Enforcement in the OSGi Framework Using Aspect-Oriented Programming.</title>
+<pages>1076-1082</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.149</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.149</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PhungS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AngellottiMNPPSSW08" mdate="2017-05-21">
+<author pid="45/2768">Serino Angellotti</author>
+<author pid="95/6910">Stefano Monti</author>
+<author pid="71/1550">Walter Nesci</author>
+<author pid="96/5621">Alessandro Peciarolo</author>
+<author pid="42/5694">Giovanni Prodi</author>
+<author pid="39/1897">Claudio Schellino</author>
+<author pid="11/5046">Massimo Seminara</author>
+<author pid="07/3000">Rainer Wuestenhagen</author>
+<title>Control IP's Sharing: From Configurable Mechatronic Control to Autosar SW-C Package. A New Model Business Scenario across Automotive OEMs and Component Supplier and the New Roles of SW IP's Supplier and SW IP's Integrator.</title>
+<pages>1083-1088</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.137</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.137</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AngellottiMNPPSSW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/StrassnerMZ08" mdate="2019-10-19">
+<author pid="62/3732">John Strassner</author>
+<author orcid="0000-0003-0049-7320" pid="82/3243">Sven van der Meer</author>
+<author pid="05/3499-3">Jing Zhang 0003</author>
+<title>Message from the MDDS 2008 Workshop Organizers.</title>
+<pages>1089</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.269</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.269</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#StrassnerMZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/StrassnerMZ08a" mdate="2019-10-19">
+<author pid="62/3732">John Strassner</author>
+<author orcid="0000-0003-0049-7320" pid="82/3243">Sven van der Meer</author>
+<author pid="05/3499-3">Jing Zhang 0003</author>
+<title>MDDAS 2008 Workshop Organization.</title>
+<pages>1090</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.270</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.270</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#StrassnerMZ08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CombemaleBTH08" mdate="2017-05-21">
+<author pid="24/757">Beno&#238;t Combemale</author>
+<author pid="66/3478">Laurent Broto</author>
+<author pid="77/2224">Alain Tchana</author>
+<author pid="46/902">Daniel Hagimont</author>
+<title>Metamodeling Autonomic System Management Policies - Ongoing Works.</title>
+<pages>1091-1096</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.24</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CombemaleBTH08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/StrassnerLZ08" mdate="2017-05-21">
+<author pid="62/3732">John Strassner</author>
+<author pid="l/YanLiu3">Yan Liu 0003</author>
+<author pid="05/3499-3">Jing Zhang 0003</author>
+<title>A Context-Aware Policy Model to Support Autonomic Networking.</title>
+<pages>1097-1102</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.210</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.210</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#StrassnerLZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CarrollM08" mdate="2019-10-19">
+<author pid="02/5421">Ray Carroll</author>
+<author orcid="0000-0003-0049-7320" pid="82/3243">Sven van der Meer</author>
+<title>Semantic Integration of User Data - Models and Processes Enabling Seamless Mobility.</title>
+<pages>1103-1109</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.220</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.220</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CarrollM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SolomonILM08" mdate="2017-05-21">
+<author pid="05/6612">Bogdan Solomon</author>
+<author pid="76/6507">Dan Ionescu</author>
+<author pid="55/887">Marin Litoiu</author>
+<author pid="89/357">Mircea Mihaescu</author>
+<title>Model-Driven Engineering for Autonomic Provisioned Systems.</title>
+<pages>1110-1115</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.221</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.221</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SolomonILM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SriplakichWM08" mdate="2017-05-21">
+<author pid="60/623">Prawee Sriplakich</author>
+<author pid="20/2103">Guillaume Waignier</author>
+<author pid="79/426">Anne-Fran&#231;oise Le Meur</author>
+<title>Enabling Dynamic Co-evolution of Models and Runtime Applications.</title>
+<pages>1116-1121</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.39</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SriplakichWM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CaragiozidisMKLB08" mdate="2020-10-25">
+<author pid="83/765">Michael Caragiozidis</author>
+<author pid="140/9370">Nikos Mouratidis</author>
+<author pid="78/2330">Christoforos D. Kavadias</author>
+<author orcid="0000-0002-2349-9946" pid="56/5980">Michael Loupis</author>
+<author orcid="0000-0003-4575-7261" pid="38/9994">Michael S. Berger</author>
+<title>Design Methodology for a Modular Component Based Software Architecture.</title>
+<pages>1122-1127</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.83</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.83</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CaragiozidisMKLB08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Doustmohammadi08" mdate="2017-05-21">
+<author pid="12/6996">Ali Doostmohammadi</author>
+<title>An Enhanced Autonomic Multiclass Multithreaded Web Server: A Performance Model Approach.</title>
+<pages>1128-1133</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.138</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.138</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Doustmohammadi08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ChungJS08" mdate="2017-05-21">
+<author pid="13/648">Jen-Yao Chung</author>
+<author pid="03/4349">Jun-Jang Jeng</author>
+<author pid="97/3115">Josef Schiefer</author>
+<title>Message from the RTSOAA 2008 Workshop Organizers.</title>
+<pages>1134</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.271</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.271</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ChungJS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ChungJS08a" mdate="2017-05-21">
+<author pid="13/648">Jen-Yao Chung</author>
+<author pid="03/4349">Jun-Jang Jeng</author>
+<author pid="97/3115">Josef Schiefer</author>
+<title>RTSOAA 2008 workshop Organization.</title>
+<pages>1135</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.272</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.272</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ChungJS08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RooneyG08" mdate="2020-10-25">
+<author pid="77/2046">Sean Rooney</author>
+<author orcid="0000-0002-6785-5631" pid="82/2053">Luis Garc&#233;s-Erice</author>
+<title>Predicting Performance on a Loosely Controlled Event System.</title>
+<pages>1136-1142</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.56</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RooneyG08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Cuzzocrea08" mdate="2017-06-02">
+<author orcid="0000-0002-7104-6415" pid="c/AlfredoCuzzocrea">Alfredo Cuzzocrea</author>
+<title>Towards Real-Time Data Transformation Services over Grids.</title>
+<pages>1143-1149</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.193</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.193</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Cuzzocrea08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CuiGCCT08" mdate="2020-10-25">
+<author orcid="0000-0002-9251-9752" pid="64/2289">Zhan Cui</author>
+<author pid="23/2265">Nick Godwin</author>
+<author orcid="0000-0002-4501-9739" pid="76/2687">Kuo-Ming Chao</author>
+<author pid="13/648">Jen-Yao Chung</author>
+<author pid="17/1589">Chen-Fang Tsai</author>
+<title>A Functional Data Service Framework for Integrating Heterogeneous Data Sources.</title>
+<pages>1150-1155</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.284</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.284</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CuiGCCT08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SavolainenK08" mdate="2017-05-21">
+<author pid="84/3557">Juha Savolainen</author>
+<author pid="73/4479">Anssi Karhinen</author>
+<title>Matching Service Requirements to Empirical Capability Models in Service-Oriented Architectures.</title>
+<pages>1156-1161</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.142</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.142</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SavolainenK08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MagidABBR08" mdate="2017-05-21">
+<author pid="45/4827">Yonit Magid</author>
+<author pid="65/1481">Asaf Adi</author>
+<author pid="28/693">Maya Barnea</author>
+<author pid="27/6689">David Botzer</author>
+<author pid="27/4864">Ella Rabinovich</author>
+<title>Application Generation Framework for Real-Time Complex Event Processing.</title>
+<pages>1162-1167</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.146</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.146</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MagidABBR08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BelliL08" mdate="2017-05-21">
+<author pid="74/4321">Fevzi Belli</author>
+<author pid="88/6455">Michael Linschulte</author>
+<title>Event-Driven Modeling and Testing of Web Services.</title>
+<pages>1168-1173</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.144</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.144</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BelliL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GaoMYBJ08" mdate="2017-05-21">
+<author pid="92/5418">Tong Gao</author>
+<author pid="46/6707">Hachem Moussa</author>
+<author pid="51/5492">I-Ling Yen</author>
+<author pid="52/960">Farokh B. Bastani</author>
+<author pid="03/4349">Jun-Jang Jeng</author>
+<title>Service Composition for Real-Time Assurance.</title>
+<pages>1174-1179</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.183</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.183</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GaoMYBJ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/MathesHF08" mdate="2022-10-02">
+<author pid="84/104">Markus Mathes</author>
+<author pid="95/2459">Steffen Heinzl</author>
+<author orcid="0000-0002-7205-8389" pid="f/BerndFreisleben">Bernd Freisleben</author>
+<title>WS-TemporalPolicy: A WS-Policy Extension for Describing Service Properties with Time Constraints.</title>
+<pages>1180-1186</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.105</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.105</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#MathesHF08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LiuDHZ08" mdate="2017-05-21">
+<author pid="83/6813">Rujuan Liu</author>
+<author pid="94/6283">Guilan Dai</author>
+<author pid="37/1427">Changjun Hu</author>
+<author pid="31/4837">Chongchong Zhao</author>
+<title>A Verification Method for Temporal Consistency of Service Flow.</title>
+<pages>1187-1192</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.209</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.209</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LiuDHZ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/JiangYA08" mdate="2017-05-21">
+<author pid="64/4112">Michael Jiang</author>
+<author pid="88/3272">Zhihui Yang</author>
+<author pid="97/6723">Anant Athale</author>
+<title>A Model-Based Approach to Implementing Real-Time Mobile Services.</title>
+<pages>1193-1198</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.125</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.125</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#JiangYA08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/McGregorE08" mdate="2019-06-02">
+<author orcid="0000-0002-0491-4403" pid="95/6742">Carolyn McGregor</author>
+<author pid="60/5435">J. Mikael Eklund</author>
+<title>Real-Time Service-Oriented Architectures to Support Remote Critical Care: Trends and Challenges.</title>
+<pages>1199-1204</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.175</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.175</ee>
+<ee>https://www.wikidata.org/entity/Q59174072</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#McGregorE08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FuWJL08" mdate="2020-03-11">
+<author pid="11/3895">Zhenghua Fu</author>
+<author orcid="0000-0002-0657-0683" pid="40/1513">Chai Wah Wu</author>
+<author pid="03/4349">Jun-Jang Jeng</author>
+<author pid="l/HuiLei">Hui Lei 0001</author>
+<title>PACTS: A Service Oriented Architecture for Real-Time Peer-Assisted Content Delivery Service.</title>
+<pages>1205-1210</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.153</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.153</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FuWJL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BabarTL08" mdate="2017-05-21">
+<author pid="03/1909">Muhammad Ali Babar</author>
+<author pid="77/3984">Mari Tainlassi</author>
+<author pid="37/6147">Bj&#246;rn Lundell</author>
+<title>Message from the QACOS 2008 Workshop Organizers.</title>
+<pages>1211</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.273</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.273</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BabarTL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BabarTL08a" mdate="2017-05-21">
+<author pid="03/1909">Muhammad Ali Babar</author>
+<author pid="77/3984">Mari Tainlassi</author>
+<author pid="37/6147">Bj&#246;rn Lundell</author>
+<title>QACOS 2008 Workshop Organization.</title>
+<pages>1212</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.274</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.274</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BabarTL08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/CiolkowskiS08" mdate="2018-11-02">
+<author orcid="0000-0001-8494-4794" pid="03/4122">Marcus Ciolkowski</author>
+<author pid="82/3826">Mart&#237;n Soto</author>
+<title>Towards a Process Maturity Model for Open Source Software.</title>
+<pages>1213-1214</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.47</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#CiolkowskiS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AhmedCB08" mdate="2017-05-21">
+<author pid="51/331">Faheem Ahmed</author>
+<author pid="c/LuizFernandoCapretz">Luiz Fernando Capretz</author>
+<author pid="03/1909">Muhammad Ali Babar</author>
+<title>A Model of Open Source Software-Based Product Line Development.</title>
+<pages>1215-1220</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.126</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.126</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AhmedCB08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HerraizRCG08" mdate="2022-12-07">
+<author orcid="0000-0002-0582-7539" pid="36/4997">Israel Herraiz</author>
+<author orcid="0000-0002-1442-6761" pid="r/GregorioRobles">Gregorio Robles</author>
+<author orcid="0000-0002-6943-1285" pid="05/4705">Rafael Capilla</author>
+<author orcid="0000-0001-9682-460X" pid="66/1148">Jes&#250;s M. Gonz&#225;lez-Barahona</author>
+<title>Managing Libre Software Distributions under a Product Line Approach.</title>
+<pages>1221-1225</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.45</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HerraizRCG08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/LennerholtLL08" mdate="2017-05-21">
+<author pid="96/2697">Christian Lennerholt</author>
+<author pid="75/1284">Brian Lings</author>
+<author pid="37/6147">Bj&#246;rn Lundell</author>
+<title>Architectural Issues in Opening Up the Advantages of Open Source in Product Development Companies.</title>
+<pages>1226-1227</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.223</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.223</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#LennerholtLL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/ZhouNEIS08" mdate="2020-10-25">
+<author orcid="0000-0002-4026-1649" pid="48/4230">Jiehan Zhou</author>
+<author orcid="0000-0003-2114-3257" pid="63/7353">Eila Niemel&#228;</author>
+<author orcid="0000-0002-2350-9673" pid="96/4243">Antti Evesti</author>
+<author pid="12/997">Anne Immonen</author>
+<author orcid="0000-0001-5742-5876" pid="81/1465">Pekka Savolainen</author>
+<title>OntoArch Approach for Reliability-Aware Software Architecture Development.</title>
+<pages>1228-1233</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.91</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.91</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#ZhouNEIS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/NakagawaSMAMM08" mdate="2019-10-19">
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<author orcid="0000-0002-8921-5483" pid="91/5321">Elaine P. M. de Sousa</author>
+<author pid="32/6514">Kiyoshi de Brito Murata</author>
+<author pid="15/718">Gabriel de Faria Andery</author>
+<author pid="22/6533">Leonardo Bitencourt Morelli</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Software Architecture Relevance in Open Source Software Evolution: A Case Study.</title>
+<pages>1234-1239</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.171</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.171</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#NakagawaSMAMM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BoenderCVDM08" mdate="2017-05-21">
+<author pid="43/6316">Jaap Boender</author>
+<author pid="34/6390">Roberto Di Cosmo</author>
+<author pid="v/JeromeVouillon">J&#233;r&#244;me Vouillon</author>
+<author pid="46/4657">Berke Durak</author>
+<author pid="39/5638">Fabio Mancinelli</author>
+<title>Improving the Quality of GNU/Linux Distributions.</title>
+<pages>1240-1246</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.226</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.226</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BoenderCVDM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/OtteMK08" mdate="2017-05-21">
+<author pid="40/5703">Tobias Otte</author>
+<author pid="97/2078">Robert Moreton</author>
+<author pid="90/6456">Heinz D. Knoell</author>
+<title>Applied Quality Assurance Methods under the Open Source Development Model.</title>
+<pages>1247-1252</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.65</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#OtteMK08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/DuPP08" mdate="2017-05-21">
+<author pid="43/6984">Weichang Du</author>
+<author pid="p/JPlaice">John Plaice</author>
+<author pid="r/PanosRondogiannis">Panagiotis Rondogiannis</author>
+<title>SECASA 2008 Workshop Organization.</title>
+<pages>1253</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.275</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.275</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#DuPP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BesshoKKS08" mdate="2017-05-21">
+<author pid="78/5969">Masahiro Bessho</author>
+<author pid="17/4796">Shinsuke Kobayashi</author>
+<author pid="84/6935">Noboru Koshizuka</author>
+<author pid="60/4410">Ken Sakamura</author>
+<title>uNavi : Implementation and Deployment of a Place-Based Pedestrian Navigation System.</title>
+<pages>1254-1259</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.70</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.70</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BesshoKKS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/YongQHY08" mdate="2019-01-29">
+<author pid="01/2240">Yong Qi</author>
+<author pid="28/2705">Qingsheng Zhang</author>
+<author pid="53/1151">Hui He</author>
+<author pid="45/5095">Yujie Niu</author>
+<title>Designing Simulated Context-Aware Telephone in Pervasive Spaces.</title>
+<pages>1260-1265</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.76</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.76</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#YongQHY08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PlaiceMDW08" mdate="2017-05-21">
+<author pid="p/JPlaice">John Plaice</author>
+<author pid="82/4650">Blanca Mancilla</author>
+<author pid="91/6072">Gabriel Ditu</author>
+<author pid="w/WilliamWWadge">William W. Wadge</author>
+<title>Sequential Demand-Driven Evaluation of Eager TransLucid.</title>
+<pages>1266-1271</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.191</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.191</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PlaiceMDW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/RahillyP08" mdate="2017-05-21">
+<author pid="74/4553">Toby Rahilly</author>
+<author pid="p/JPlaice">John Plaice</author>
+<title>A Multithreaded Implementation for TransLucid.</title>
+<pages>1272-1277</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.192</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.192</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#RahillyP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PaquetMT08" mdate="2017-06-02">
+<author pid="p/JoeyPaquet">Joey Paquet</author>
+<author orcid="0000-0002-8791-4790" pid="m/SergueiAMokhov">Serguei A. Mokhov</author>
+<author pid="t/XinTong2">Xin Tong 0002</author>
+<title>Design and Implementation of Context Calculus in the GIPSY Environment.</title>
+<pages>1278-1283</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.200</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.200</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PaquetMT08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/PlaiceM08" mdate="2017-05-21">
+<author pid="p/JPlaice">John Plaice</author>
+<author pid="82/4650">Blanca Mancilla</author>
+<title>Synchronous Communities.</title>
+<pages>1284-1287</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.190</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.190</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#PlaiceM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Mokhov08" mdate="2017-06-02">
+<author orcid="0000-0002-8791-4790" pid="m/SergueiAMokhov">Serguei A. Mokhov</author>
+<title>Towards Syntax and Semantics of Hierarchical Contexts in Multimedia Processing Applications Using MARFL.</title>
+<pages>1288-1294</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.206</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.206</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Mokhov08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SeceleanuPH08" mdate="2017-06-15">
+<author pid="85/2148">Cristina Cerschi Seceleanu</author>
+<author orcid="0000-0003-4040-3480" pid="77/4503">Paul Pettersson</author>
+<author orcid="0000-0002-7235-6888" pid="65/1154">Hans Hansson</author>
+<title>Message from the CORCS 2008 Workshop Organizers.</title>
+<pages>1295</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.276</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.276</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SeceleanuPH08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SeceleanuPH08a" mdate="2017-06-15">
+<author pid="85/2148">Cristina Cerschi Seceleanu</author>
+<author orcid="0000-0003-4040-3480" pid="77/4503">Paul Pettersson</author>
+<author pid="65/1154">Hans Hansson</author>
+<title>CORCS 2008 Workshop Organization.</title>
+<pages>1296</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.277</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.277</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SeceleanuPH08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/HoangBPS08" mdate="2021-04-09">
+<author pid="10/3682">Natacha Hoang</author>
+<author orcid="0000-0002-0163-8757" pid="53/4951">Nicolas Belloir</author>
+<author pid="36/6378">Cong-Duc Pham</author>
+<author orcid="0000-0003-0165-3743" pid="38/7036">S&#233;verine Sentilles</author>
+<title>Valentine: A Dynamic and Adaptive Operating System for Wireless Sensor Networks.</title>
+<pages>1297-1302</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.168</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.168</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#HoangBPS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/DearleBLM08" mdate="2020-10-25">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-5093-0906" pid="03/427">Dharini Balasubramaniam</author>
+<author pid="97/4717">Jonathan Lewis</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>A Component-Based Model and Language for Wireless Sensor Network Applications.</title>
+<pages>1303-1308</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.151</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.151</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#DearleBLM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AysanPD08" mdate="2017-06-02">
+<author pid="38/4810">H&#252;seyin Aysan</author>
+<author orcid="0000-0001-5269-3900" pid="67/907">Sasikumar Punnekkat</author>
+<author pid="72/922">Radu Dobrin</author>
+<title>Error Modeling in Dependable Component-Based Systems.</title>
+<pages>1309-1314</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.99</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.99</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AysanPD08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/GuoSA08" mdate="2017-05-21">
+<author pid="53/382">Yu Guo</author>
+<author pid="13/6749">Krzysztof Sierszecki</author>
+<author pid="35/4438">Christo Angelov</author>
+<title>A (Re)Configuration Mechanism for Resource-Constrained Embedded Systems.</title>
+<pages>1315-1320</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.282</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.282</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#GuoSA08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/VulgarakisS08" mdate="2017-05-21">
+<author pid="170/0381">Aneta Vulgarakis</author>
+<author pid="85/2148">Cristina Cerschi Seceleanu</author>
+<title>Embedded Systems Resources: Views on Modeling and Analysis.</title>
+<pages>1321-1328</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.215</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.215</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#VulgarakisS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/AutiliBIM08" mdate="2020-03-27">
+<author orcid="0000-0001-5951-1567" pid="21/1998">Marco Autili</author>
+<author pid="44/1899">Paolo Di Benedetto</author>
+<author pid="i/PaolaInverardi">Paola Inverardi</author>
+<author pid="39/5638">Fabio Mancinelli</author>
+<title>A Resource-Oriented Static Analysis Approach to Adaptable Java Applications.</title>
+<pages>1329-1334</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.157</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.157</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#AutiliBIM08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/NematiKN08" mdate="2017-05-21">
+<author pid="50/2638">Farhang Nemati</author>
+<author pid="32/4625">Johan Kraft</author>
+<author pid="77/288">Christer Norstr&#246;m</author>
+<title>Validation of Temporal Simulation Models of Complex Real-Time Systems.</title>
+<pages>1335-1340</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.118</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.118</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#NematiKN08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Assayad08" mdate="2017-05-21">
+<author pid="80/1209">Ismail Assayad</author>
+<title>Joint SW/HW Modelling and Design Exploration Using P-Ware.</title>
+<pages>1341-1346</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.22</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Assayad08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BehnamSNN08" mdate="2017-05-21">
+<author pid="91/459">Moris Behnam</author>
+<author pid="45/4154">Insik Shin</author>
+<author pid="33/4193">Thomas Nolte</author>
+<author pid="46/6716">Mikael Nolin</author>
+<title>An Overrun Method to Support Composition of Semi-independent Real-Time Components.</title>
+<pages>1347-1352</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.113</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.113</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BehnamSNN08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SeceleanuS08" mdate="2018-11-02">
+<author pid="29/4116">Tiberiu Seceleanu</author>
+<author orcid="0000-0003-0878-0614" pid="70/3877">Detlef Streitferdt</author>
+<title>Message from the IEESD 2008 Workshop Organizers.</title>
+<pages>1353</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.278</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.278</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SeceleanuS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SeceleanuS08a" mdate="2017-05-21">
+<author pid="29/4116">Tiberiu Seceleanu</author>
+<author pid="70/3877">Detlef Streitferdt</author>
+<title>IEESD 2008 Workshop Organization.</title>
+<pages>1354</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.279</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.279</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SeceleanuS08a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/BiasiSLI08" mdate="2017-05-21">
+<author pid="03/2090">Mauro De Biasi</author>
+<author pid="43/6684">Carlo Snickars</author>
+<author pid="42/3614">Krister Landern&#228;s</author>
+<author pid="45/4536">Alf J. Isaksson</author>
+<title>Simulation of Process Control with WirelessHART Networks Subject to Clock Drift.</title>
+<pages>1355-1360</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.163</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.163</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#BiasiSLI08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/SavioKWB08" mdate="2017-06-02">
+<author pid="76/6686">Domnic Savio</author>
+<author orcid="0000-0003-3519-8232" pid="12/1312">Stamatis Karnouskos</author>
+<author pid="30/235">Daniel Wuwer</author>
+<author pid="24/2975">Thomas Bangemann</author>
+<title>Dynamically Optimized Production Planning Ssing Cross-Layer SOA.</title>
+<pages>1361-1365</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.219</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.219</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#SavioKWB08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/FerragutoWBPS08" mdate="2017-05-21">
+<author pid="67/4587">Massimo Ferraguto</author>
+<author pid="12/3194">Tim Wittrock</author>
+<author pid="86/630">Mark Barrenscheen</author>
+<author pid="02/2320">Matti Paakko</author>
+<author pid="83/6553">Ville Sipinen</author>
+<title>The On-Board Control Procedures Subsystem for the Herschel and Planck Satellites.</title>
+<pages>1366-1371</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.218</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.218</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#FerragutoWBPS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/StreitferdtWNNL08" mdate="2020-10-25">
+<author orcid="0000-0003-0878-0614" pid="70/3877">Detlef Streitferdt</author>
+<author pid="47/6333">Georg Wendt</author>
+<author pid="26/1474">Philipp Nenninger</author>
+<author pid="83/1748">Alexander Ny&#223;en</author>
+<author orcid="0000-0002-3440-1238" pid="l/HorstLichter">Horst Lichter</author>
+<title>Model Driven Development Challenges in the Automation Domain.</title>
+<pages>1372-1375</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.156</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.156</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#StreitferdtWNNL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/NyssenLSN08" mdate="2020-10-25">
+<author pid="83/1748">Alexander Ny&#223;en</author>
+<author orcid="0000-0002-3440-1238" pid="l/HorstLichter">Horst Lichter</author>
+<author orcid="0000-0003-0878-0614" pid="70/3877">Detlef Streitferdt</author>
+<author pid="26/1474">Philipp Nenninger</author>
+<title>MeDUSA - A Model-Based Construction Method for Embedded and Real-Time Software.</title>
+<pages>1376-1382</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.132</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.132</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#NyssenLSN08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/compsac/Laanti08" mdate="2017-05-21">
+<author pid="13/6100">Maarit Laanti</author>
+<title>Implementing Program Model with Agile Principles in a Large Software Development Organization.</title>
+<pages>1383-1391</pages>
+<year>2008</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2008.116</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2008.116</ee>
+<crossref>conf/compsac/2008</crossref>
+<url>db/conf/compsac/compsac2008.html#Laanti08</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

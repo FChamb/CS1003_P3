@@ -1,0 +1,136 @@
+<bht key="db/conf/icoodb/icoodb2009.bht" title="International Conference on Objects and Databases 2009">  
+<h1>2. <ref href="db/conf/icoodb/index.html">ICOODB</ref> 2009:
+Zurich, Switzerland</h1> <dblpcites><r><proceedings key="conf/icoodb/2009" mdate="2019-05-14">
+<editor pid="n/MoiraCNorrie">Moira C. Norrie</editor>
+<editor pid="73/6114">Michael Grossniklaus</editor>
+<title>Object Databases, Second International Conference, ICOODB 2009, Zurich, Switzerland, July 1-3, 2009. Revised Papers</title>
+<year>2010</year>
+<volume>5936</volume>
+<isbn>978-3-642-14680-0</isbn>
+<ee>https://doi.org/10.1007/978-3-642-14681-7</ee>
+<booktitle>ICOODB</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/icoodb/icoodb2009.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icoodb/DearleKM09" mdate="2017-06-04">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Orthogonal Persistence Revisited.</title>
+<pages>1-22</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_1</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#DearleKM09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icoodb/AlagicRB09" mdate="2017-05-19">
+<author pid="a/SuadAlagic">Suad Alagic</author>
+<author pid="77/1862">Mark Royer</author>
+<author pid="54/197">David Briggs</author>
+<title>Verification Technology for Object-Oriented/XML Transactions.</title>
+<pages>23-40</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_2</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#AlagicRB09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icoodb/Garcia09" mdate="2017-05-19">
+<author pid="279/9246">Miguel Garcia</author>
+<title>Compiler Plugins Can Handle Nested Languages: AST-Level Expansion of LINQ Queries for Java.</title>
+<pages>41-58</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_3</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#Garcia09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icoodb/SignerN09" mdate="2017-09-16">
+<author orcid="0000-0001-9916-0837" pid="05/2783">Beat Signer</author>
+<author pid="n/MoiraCNorrie">Moira C. Norrie</author>
+<title>Active Components as a Method for Coupling Data and Services - A Database-Driven Application Development Process.</title>
+<pages>59-76</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_4</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#SignerN09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icoodb/BlejaKAS09" mdate="2021-10-14">
+<author pid="11/8115">Michal Bleja</author>
+<author orcid="0000-0003-0953-3762" pid="52/3437">Tomasz Marek Kowalski</author>
+<author orcid="0000-0002-6866-3383" pid="95/2060">Radoslaw Adamus</author>
+<author orcid="0000-0002-7282-002X" pid="s/KSubieta">Kazimierz Subieta</author>
+<title>Optimization of Object-Oriented Queries Involving Weakly Dependent Subqueries.</title>
+<pages>77-94</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_5</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#BlejaKAS09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icoodb/JarkeJNQS09" mdate="2019-12-27">
+<author pid="j/MatthiasJarke">Matthias Jarke</author>
+<author orcid="0000-0002-9421-8566" pid="j/ManfredAJeusfeld">Manfred A. Jeusfeld</author>
+<author pid="01/3413">Hans W. Nissen</author>
+<author orcid="0000-0002-1698-4345" pid="q/ChristophQuix">Christoph Quix</author>
+<author pid="65/3551">Martin Staudt 0001</author>
+<title>Metamodelling with Datalog and Classes: ConceptBase at the Age of 21.</title>
+<pages>95-112</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_6</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#JarkeJNQS09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icoodb/GrossniklausLSN09" mdate="2017-06-04">
+<author orcid="0000-0003-1609-2221" pid="73/6114">Michael Grossniklaus</author>
+<author pid="81/4741">Stefania Leone</author>
+<author pid="77/5842">Alexandre de Spindler</author>
+<author pid="n/MoiraCNorrie">Moira C. Norrie</author>
+<title>Unified Event Model for Object Databases.</title>
+<pages>113-131</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_7</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#GrossniklausLSN09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icoodb/BertinoCB09" mdate="2019-10-19">
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author orcid="0000-0001-9181-0962" pid="50/3965">Elena Camossi</author>
+<author orcid="0000-0003-0122-7656" pid="b/MBertolotto">Michela Bertolotto</author>
+<title>Multi-granular Spatio-temporal Object Models: Concepts and Research Directions.</title>
+<pages>132-148</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_8</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#BertinoCB09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icoodb/AlagicB09" mdate="2017-05-19">
+<author pid="a/SuadAlagic">Suad Alagic</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<title>Mapping XSD to OO Schemas.</title>
+<pages>149-166</pages>
+<year>2009</year>
+<booktitle>ICOODB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14681-7_9</ee>
+<crossref>conf/icoodb/2009</crossref>
+<url>db/conf/icoodb/icoodb2009.html#AlagicB09</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,409 @@
+<bht key="db/journals/constraints/constraints22.bht" title="Constraints - An International Journal, Volume 22"> 
+<h1><ref href="db/journals/constraints/index.html">Constraints - An International Journal</ref>, Volume 22</h1> 
+<h2>Volume 22, Number 1, January 2017</h2> <dblpcites><r style="ee"><article key="journals/constraints/HoeveR17" mdate="2020-03-13">
+<author pid="61/5378">Willem-Jan van Hoeve</author>
+<author pid="r/MichelRueher">Michel Rueher</author>
+<title>Introduction to the fast track issue for CP 2016.</title>
+<pages>1-2</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10601-016-9256-8</ee>
+<url>db/journals/constraints/constraints22.html#HoeveR17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/CohenJ17" mdate="2020-03-13">
+<author pid="50/3733">David A. Cohen</author>
+<author pid="j/PeterJeavons">Peter G. Jeavons</author>
+<title>The power of propagation: when GAC is enough.</title>
+<pages>3-23</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10601-016-9251-0</ee>
+<url>db/journals/constraints/constraints22.html#CohenJ17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/DvijothamCHVM17" mdate="2020-03-27">
+<author orcid="0000-0002-1328-4677" pid="16/8758">Krishnamurthy Dvijotham</author>
+<author orcid="0000-0002-6758-515X" pid="00/2960">Michael Chertkov</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author orcid="0000-0001-7999-9897" pid="84/10964">Marc Vuffray</author>
+<author pid="15/7818">Sidhant Misra</author>
+<title>Graphical models for optimal power flow.</title>
+<pages>24-49</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-016-9253-y</ee>
+<url>db/journals/constraints/constraints22.html#DvijothamCHVM17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/ManloveMT17" mdate="2020-03-13">
+<author orcid="0000-0001-6754-7308" pid="m/DManlove">David F. Manlove</author>
+<author pid="143/7266">Iain McBride</author>
+<author pid="146/1886">James Trimble 0001</author>
+<title>&#34;Almost-stable&#34; matchings in the Hospitals / Residents problem with Couples.</title>
+<pages>50-72</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10601-016-9249-7</ee>
+<ee>https://www.wikidata.org/entity/Q59615555</ee>
+<url>db/journals/constraints/constraints22.html#ManloveMT17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/HebrardHVSC17" mdate="2020-03-13">
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<author pid="75/6282">Marie-Jos&#233; Huguet</author>
+<author pid="193/3319">Daniel Veysseire</author>
+<author pid="193/3257">Ludivine Boche Sauvan</author>
+<author pid="91/456">Bertrand Cabon</author>
+<title>Constraint programming for planning test campaigns of communications satellites.</title>
+<pages>73-89</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-016-9254-x</ee>
+<url>db/journals/constraints/constraints22.html#HebrardHVSC17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/TackM17" mdate="2020-03-13">
+<author pid="41/5343">Guido Tack</author>
+<author pid="63/2774">Christopher Mears</author>
+<title>PhD theses in constraints.</title>
+<pages>90</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10601-016-9265-7</ee>
+<url>db/journals/constraints/constraints22.html#TackM17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/Akgun17" mdate="2020-03-13">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<title>Extensible automated constraint modelling via refinement of abstract problem specifications.</title>
+<pages>91-92</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-016-9258-6</ee>
+<url>db/journals/constraints/constraints22.html#Akgun17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/Bekkouche17" mdate="2020-03-13">
+<author orcid="0000-0001-8331-9276" pid="144/7752">Mohammed Bekkouche</author>
+<title>Combining techniques of bounded model checking and constraint programming to aid for error localization.</title>
+<pages>93-94</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-016-9259-5</ee>
+<url>db/journals/constraints/constraints22.html#Bekkouche17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/Giraldez-Cru17" mdate="2020-03-13">
+<author orcid="0000-0001-8963-6299" pid="66/11227">Jes&#250;s Gir&#225;ldez-Cru</author>
+<title>Beyond the structure of SAT formulas.</title>
+<pages>95-96</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-016-9260-z</ee>
+<url>db/journals/constraints/constraints22.html#Giraldez-Cru17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/Mouelhi17" mdate="2020-03-13">
+<author orcid="0000-0003-4880-8941" pid="90/10876">Achref El Mouelhi</author>
+<title>Tractable classes for CSPs of arbitrary arity: from theory to practice.</title>
+<pages>97-98</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-016-9262-x</ee>
+<url>db/journals/constraints/constraints22.html#Mouelhi17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/Scott17" mdate="2020-03-13">
+<author pid="141/2134">Joseph D. Scott</author>
+<title>Other things besides number: Abstraction, constraint propagation, and string variable types.</title>
+<pages>99-100</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-016-9263-9</ee>
+<url>db/journals/constraints/constraints22.html#Scott17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/Zghidi17" mdate="2020-03-13">
+<author orcid="0000-0001-9757-5094" pid="193/3475">Imen Zghidi</author>
+<title>Towards statistical consistency for stochastic constraint programming.</title>
+<pages>101-102</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-016-9264-8</ee>
+<url>db/journals/constraints/constraints22.html#Zghidi17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/Milano17" mdate="2020-03-13">
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>Report from the Editor in Chief, year 2015.</title>
+<pages>103-105</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10601-016-9247-9</ee>
+<url>db/journals/constraints/constraints22.html#Milano17</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 2, April 2017</h2> <dblpcites><r style="ee"><article key="journals/constraints/MichelH17" mdate="2022-04-09">
+<author orcid="0000-0001-7230-7130" pid="m/LaurentDMichel">Laurent D. Michel</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>A microkernel architecture for constraint programming.</title>
+<pages>107-151</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-016-9242-1</ee>
+<url>db/journals/constraints/constraints22.html#MichelH17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/CominPR17" mdate="2020-03-13">
+<author pid="116/2931">Carlo Comin</author>
+<author orcid="0000-0003-0944-0419" pid="78/154">Roberto Posenato</author>
+<author pid="81/4826">Romeo Rizzi</author>
+<title>Hyper temporal networks - A tractable generalization of simple temporal networks and its relation to mean payoff games.</title>
+<pages>152-190</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-016-9243-0</ee>
+<url>db/journals/constraints/constraints22.html#CominPR17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/JegouT17" mdate="2020-03-13">
+<author pid="10/6570">Philippe J&#233;gou</author>
+<author pid="34/5502">Cyril Terrioux</author>
+<title>Combining restarts, nogoods and bag-connected decompositions for solving CSPs.</title>
+<pages>191-229</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-016-9248-8</ee>
+<url>db/journals/constraints/constraints22.html#JegouT17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/NguyenBGS17" mdate="2020-03-13">
+<author pid="25/834">Hiep Nguyen</author>
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="18/1193">Simon de Givry</author>
+<author orcid="0000-0001-6049-3415" pid="87/6848">Thomas Schiex</author>
+<title>Triangle-based consistencies for cost function networks.</title>
+<pages>230-264</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-016-9250-1</ee>
+<url>db/journals/constraints/constraints22.html#NguyenBGS17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/KemmarLLBC17" mdate="2022-10-02">
+<author pid="116/6690">Amina Kemmar</author>
+<author orcid="0000-0003-4736-2976" pid="25/423">Yahia Lebbah</author>
+<author pid="79/3951">Samir Loudni</author>
+<author pid="29/2067">Patrice Boizumault</author>
+<author orcid="0000-0001-9700-5075" pid="29/2665">Thierry Charnois</author>
+<title>Prefix-projection global constraint and top-k approach for sequential pattern mining.</title>
+<pages>265-306</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-016-9252-z</ee>
+<url>db/journals/constraints/constraints22.html#KemmarLLBC17</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 3, July 2017</h2> <dblpcites><r style="ee"><article key="journals/constraints/Lierler17" mdate="2020-03-13">
+<author pid="l/YLierler">Yuliya Lierler</author>
+<title>What is answer set programming to propositional satisfiability.</title>
+<pages>307-337</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s10601-016-9257-7</ee>
+<ee>https://www.wikidata.org/entity/Q59611995</ee>
+<url>db/journals/constraints/constraints22.html#Lierler17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/PuranikS17" mdate="2020-03-13">
+<author pid="193/8722">Yash Puranik</author>
+<author orcid="0000-0003-2087-9131" pid="123/7012">Nikolaos V. Sahinidis</author>
+<title>Domain reduction techniques for global NLP and MINLP optimization.</title>
+<pages>338-376</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10601-016-9267-5</ee>
+<url>db/journals/constraints/constraints22.html#PuranikS17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/Stergiou17" mdate="2020-03-13">
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>Revisiting restricted path consistency.</title>
+<pages>377-402</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10601-016-9255-9</ee>
+<url>db/journals/constraints/constraints22.html#Stergiou17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/PolashNS17" mdate="2020-10-26">
+<author orcid="0000-0001-8922-7938" pid="73/10607">Md. Masbaul Alam Polash</author>
+<author pid="80/1228">M. A. Hakim Newton</author>
+<author orcid="0000-0002-2567-2052" pid="s/AbdulSattar">Abdul Sattar 0001</author>
+<title>Constraint-directed search for all-interval series.</title>
+<pages>403-431</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10601-016-9261-y</ee>
+<ee>https://www.wikidata.org/entity/Q60691975</ee>
+<url>db/journals/constraints/constraints22.html#PolashNS17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/KreterSS17" mdate="2020-03-13">
+<author pid="141/7170">Stefan Kreter</author>
+<author orcid="0000-0001-5452-4086" pid="82/2883">Andreas Schutt</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Using constraint programming for solving RCPSP/max-cal.</title>
+<pages>432-462</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10601-016-9266-6</ee>
+<url>db/journals/constraints/constraints22.html#KreterSS17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/BartTM17" mdate="2021-02-23">
+<author orcid="0000-0002-9869-3428" pid="150/6040">Anicet Bart</author>
+<author pid="76/1220">Charlotte Truchet</author>
+<author pid="29/5834">&#201;ric Monfroy</author>
+<title>A global constraint for over-approximation of real-time streams.</title>
+<pages>463-490</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10601-017-9268-z</ee>
+<url>db/journals/constraints/constraints22.html#BartTM17</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 22, Number 4, October 2017</h2> Integration of Artificial Intelligence and Operations Research Techniques in Constraint Programming 
+<dblpcites><r style="ee"><article key="journals/constraints/SalvagninL17" mdate="2020-03-13">
+<author pid="60/4824">Domenico Salvagnin</author>
+<author pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<title>Introduction to the CPAIOR 2017 fast track issue.</title>
+<pages>491-492</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s10601-017-9273-2</ee>
+<url>db/journals/constraints/constraints22.html#SalvagninL17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/CauwelaertS17" mdate="2020-03-13">
+<author pid="155/8955">Sascha Van Cauwelaert</author>
+<author pid="78/2903">Pierre Schaus</author>
+<title>Efficient filtering for the Resource-Cost AllDifferent constraint.</title>
+<pages>493-511</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10601-017-9269-y</ee>
+<url>db/journals/constraints/constraints22.html#CauwelaertS17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/DekkerBCFM17" mdate="2020-03-13">
+<author orcid="0000-0002-0053-6724" pid="204/5900">Jip J. Dekker</author>
+<author pid="162/3119">Gustav Bj&#246;rdal</author>
+<author orcid="0000-0003-3079-8095" pid="c/MCarlsson">Mats Carlsson</author>
+<author orcid="0000-0001-8730-4098" pid="08/4454">Pierre Flener</author>
+<author orcid="0000-0002-5734-5881" pid="71/5015">Jean-No&#235;l Monette</author>
+<title>Auto-tabling for subproblem presolving in MiniZinc.</title>
+<pages>512-529</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s10601-017-9270-5</ee>
+<ee>https://www.wikidata.org/entity/Q57574224</ee>
+<url>db/journals/constraints/constraints22.html#DekkerBCFM17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/NattafAL17" mdate="2020-03-13">
+<author pid="162/3112">Margaux Nattaf</author>
+<author pid="35/6486">Christian Artigues</author>
+<author pid="68/750">Pierre Lopez</author>
+<title>Cumulative scheduling with variable task profiles and concave piecewise linear processing rate functions.</title>
+<pages>530-547</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10601-017-9271-4</ee>
+<url>db/journals/constraints/constraints22.html#NattafAL17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/AogaGS17" mdate="2020-10-26">
+<author orcid="0000-0002-7213-146X" pid="176/2594">John O. R. Aoga</author>
+<author orcid="0000-0002-2156-2155" pid="41/3130">Tias Guns</author>
+<author pid="78/2903">Pierre Schaus</author>
+<title>Mining Time-constrained Sequential Patterns with Constraint Programming.</title>
+<pages>548-570</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10601-017-9272-3</ee>
+<url>db/journals/constraints/constraints22.html#AogaGS17</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

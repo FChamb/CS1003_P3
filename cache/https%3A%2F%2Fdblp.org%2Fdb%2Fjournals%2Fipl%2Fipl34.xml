@@ -1,0 +1,756 @@
+<bht key="db/journals/ipl/ipl34.bht" title="IPL, Volume 34">
+
+<h1><ref href="db/journals/ipl/index.html">Information Processing Letters</ref>, Volume 34</h1>
+<h2>Volume 34, Number 1, 22 February 1990</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/KuriharaK90" mdate="2017-05-26">
+<author pid="09/4875">Masahito Kurihara</author>
+<author pid="74/3856">Ikuo Kaji</author>
+<title>Modular Term Rewriting Systems and the Termination.</title>
+<pages>1-4</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#KuriharaK90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90221-I</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Ahuja90" mdate="2017-05-26">
+<author pid="84/447">Mohan Ahuja</author>
+<title>Flush Primitives for Asynchronous Distributed Systems.</title>
+<pages>5-12</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#Ahuja90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90222-J</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Simonson90" mdate="2017-05-26">
+<author pid="49/5803">Shai Simonson</author>
+<title>Routing with Critical Paths.</title>
+<pages>13-19</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#Simonson90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90223-K</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/AnderssonC90" mdate="2017-05-26">
+<author pid="a/AAndersson">Arne Andersson</author>
+<author pid="07/952">Svante Carlsson</author>
+<title>Construction of a Tree From its Traversals in Optimal Time and Space.</title>
+<pages>21-25</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#AnderssonC90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90224-L</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Jacob90" mdate="2017-05-26">
+<author pid="j/JeremyLJacob">Jeremy Jacob</author>
+<title>Separability and the Detection of Hidden Channels.</title>
+<pages>27-29</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#Jacob90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90225-M</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/MartinezWL90" mdate="2017-05-26">
+<author pid="93/6740">Alejandro D. Mart&#237;nez</author>
+<author pid="49/2323">Rosita Wachenchauzer</author>
+<author pid="44/4611">Rafael Dueire Lins</author>
+<title>Cycle Reference Counting with Local Mark-Scan.</title>
+<pages>31-35</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#MartinezWL90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90226-N</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/MurphyS90" mdate="2017-05-26">
+<author pid="99/1919">O. J. Murphy</author>
+<author pid="s/StanleyMSelkow">Stanley M. Selkow</author>
+<title>Finding Nearest Neighbors with Voronoi Tessellations.</title>
+<pages>37-41</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#MurphyS90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90227-O</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/PurdyP90" mdate="2017-05-26">
+<author pid="p/CarlaNPurdy">Carla Neaderhouser Purdy</author>
+<author pid="p/GeorgeBPurdy">George B. Purdy</author>
+<title>The Area-Time Complexity of the Greatest Common Divisor Problem: A Lower Bound.</title>
+<pages>43-46</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#PurdyP90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90228-P</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/LeungY90" mdate="2017-05-26">
+<author pid="49/2011">Joseph Y.-T. Leung</author>
+<author pid="79/5100">Gilbert H. Young</author>
+<title>Preemptive Scheduling to Minimize Mean Weighted Flow Time.</title>
+<pages>47-50</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#LeungY90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90229-Q</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/MorrisonABD90" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>On the Classification of Binding Mechanisms.</title>
+<pages>51-55</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#MorrisonABD90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90230-U</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Francez90" mdate="2017-05-26">
+<author pid="f/NissimFrancez">Nissim Francez</author>
+<title>Corrigenda: Cooperating Proofs for Distributed Programs with Multiparty Interactions.</title>
+<pages>57</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ipl/ipl34.html#Francez90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90231-L</ee>
+<note>see: IPL 32(5): 235-242 (22 September 1989)</note>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 34, Number 2, 16 March 1990</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/Ntafos90" mdate="2017-05-26">
+<author pid="48/2827">Simeon C. Ntafos</author>
+<title>The Robber Route Problem.</title>
+<pages>59-63</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl34.html#Ntafos90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90137-M</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/DeyBT90" mdate="2017-05-26">
+<author pid="74/3822">Pradip Dey</author>
+<author pid="b/BRBryant">Barrett R. Bryant</author>
+<author pid="t/TadaoTakaoka">Tadao Takaoka</author>
+<title>Lexical Ambiguity in Tree Adjoining Grammars.</title>
+<pages>65-69</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl34.html#DeyBT90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90138-N</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/WeeCW90" mdate="2017-05-26">
+<author pid="71/5660">Young C. Wee</author>
+<author pid="c/SChaiken">Seth Chaiken</author>
+<author pid="w/DanEWillard">Dan E. Willard</author>
+<title>On the Angle Restricted Nearest Neighbor Problem.</title>
+<pages>71-76</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl34.html#WeeCW90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90139-O</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Sen90" mdate="2017-05-26">
+<author pid="s/SandeepSen">Sandeep Sen</author>
+<title>Finding an Approximate Median with High Probability in Constant Parallel Time.</title>
+<pages>77-80</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl34.html#Sen90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90140-S</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/CookP90" mdate="2017-05-26">
+<author pid="c/StephenACook">Stephen A. Cook</author>
+<author pid="p/TPitassi">Toniann Pitassi</author>
+<title>A Feasibly Constructive Lower Bound for Resolution Proofs.</title>
+<pages>81-85</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl34.html#CookP90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90141-J</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Laumond90" mdate="2017-05-26">
+<author pid="39/6941">Jean-Paul Laumond</author>
+<title>Connectivity of Plane Triangulations.</title>
+<pages>87-96</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl34.html#Laumond90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90142-K</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Olariu90a" mdate="2017-05-26">
+<author pid="o/StephanOlariu">Stephan Olariu</author>
+<title>On the Closure of Triangle-Free Graphs Under Substitution.</title>
+<pages>97-101</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl34.html#Olariu90a</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90143-L</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/CosnardDF90" mdate="2017-05-26">
+<author pid="c/MichelCosnard">Michel Cosnard</author>
+<author pid="23/6399">Jean Duprat</author>
+<author pid="f/AfonsoFerreira">Afonso Ferreira</author>
+<title>The Complexity of Searching in X+Y and Other Multisets.</title>
+<pages>103-109</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl34.html#CosnardDF90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90144-M</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 34, Number 3, 9 April 1990</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/Hoare90" mdate="2017-05-26">
+<author pid="h/CARHoare">C. A. R. Hoare</author>
+<title>Fixed Points of Increasing Functions.</title>
+<pages>111-112</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#Hoare90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90087-E</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Pallo90" mdate="2017-05-26">
+<author pid="50/2388">Jean Marcel Pallo</author>
+<title>A Distance Metric on Binary Trees Using Lattice-Theoretic Measures.</title>
+<pages>113-116</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#Pallo90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90088-F</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/BertoniGM90" mdate="2017-05-26">
+<author pid="91/6093">Alberto Bertoni</author>
+<author pid="69/1383">Massimiliano Goldwurm</author>
+<author pid="43/4982">Paolo Massazza</author>
+<title>Counting Problems and Algebraic Formal Power Series in Noncommuting Variables.</title>
+<pages>117-121</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#BertoniGM90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90089-G</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/HarnK90" mdate="2017-05-26">
+<author pid="h/LeinHarn">Lein Harn</author>
+<author pid="86/1001">Thomas Kiesler</author>
+<title>An Efficient Probabilistic Encryption Scheme.</title>
+<pages>123-129</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#HarnK90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90090-K</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ParkK90" mdate="2017-05-26">
+<author pid="73/4222">Moon Hwa Park</author>
+<author pid="66/1606-2">Myunghwan Kim 0001</author>
+<title>A Distributed Synchronization Scheme for Fair Multi-Process Handshakes.</title>
+<pages>131-138</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#ParkK90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90091-B</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Goeman90" mdate="2017-05-26">
+<author pid="99/3801">Henk Goeman</author>
+<title>Towards a Theory of (Self) Applicative Communicating Processes: A Short Note.</title>
+<pages>139-142</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#Goeman90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90092-C</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Meinel90" mdate="2017-05-26">
+<author pid="m/CMeinel">Christoph Meinel</author>
+<title>Logic VS. Complexity Theoretic Properties of the Graph Accessibility Problem for Directed Graphs of Bounded Degree.</title>
+<pages>143-146</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#Meinel90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90093-D</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Teng90" mdate="2017-05-26">
+<author pid="t/ShangHuaTeng">Shang-Hua Teng</author>
+<title>Space Efficient Processor Identity Protocol.</title>
+<pages>147-154</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#Teng90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90094-E</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Tipper90" mdate="2017-05-26">
+<author pid="83/3952">John C. Tipper</author>
+<title>A Straightforward Iterative Algorithm for the Planar Voronoi Diagram.</title>
+<pages>155-160</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#Tipper90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90095-F</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Plehn90" mdate="2017-05-26">
+<author pid="09/2940">J&#252;rgen Plehn</author>
+<title>Preemptive Scheduling of Independent Jobs with Releas Times and Deadlines on a Hypercube.</title>
+<pages>161-166</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl34.html#Plehn90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90096-G</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 34, Number 4, 24 April 1990</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/Manber90" mdate="2017-05-26">
+<author pid="m/UdiManber">Udi Manber</author>
+<title>Recognizing Breadth-First Search Trees in Linear Time.</title>
+<pages>167-171</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl34.html#Manber90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90155-Q</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Kale90" mdate="2017-05-26">
+<author pid="k/LaxmikantVKale">Laxmikant V. Kal&#233;</author>
+<title>An Almost Perfect Heuristic for the N Nonattacking Queens Problem.</title>
+<pages>173-178</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl34.html#Kale90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90156-R</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Lutz90" mdate="2017-05-26">
+<author pid="45/107">Earlin Lutz</author>
+<title>Some Proofs of Data Refinement.</title>
+<pages>179-185</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl34.html#Lutz90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90157-S</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/WangCL90" mdate="2017-05-26">
+<author pid="40/251">Biing-Feng Wang</author>
+<author pid="98/6029">Gen-Huey Chen</author>
+<author pid="55/354">Ferng-Chiang Lin</author>
+<title>Constant Time Sorting on a Processor Array with a Reconfigurable Bus System.</title>
+<pages>187-192</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl34.html#WangCL90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90158-T</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Bradford90" mdate="2017-05-26">
+<author pid="46/1304">James H. Bradford</author>
+<title>Sequence Matching with Binary Codes.</title>
+<pages>193-196</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl34.html#Bradford90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90159-U</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/BagchiHMS90" mdate="2017-05-26">
+<author pid="17/6897">Anindo Bagchi</author>
+<author pid="22/3735">S. Louis Hakimi</author>
+<author pid="44/5156">John Mitchem</author>
+<author pid="18/2546">Edward F. Schmeichel</author>
+<title>Parallel Algorithms for Gossiping by Mail.</title>
+<pages>197-202</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl34.html#BagchiHMS90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90160-Y</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Khuller90" mdate="2017-05-26">
+<author pid="k/SamirKhuller">Samir Khuller</author>
+<title>Coloring Algorithms for K_5-Minor Free Graphs.</title>
+<pages>203-208</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl34.html#Khuller90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90161-P</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/CooperK90" mdate="2017-05-26">
+<author pid="67/5216">James W. Cooper</author>
+<author pid="88/1909">Leslie J. Kitchen</author>
+<title>Casop: A Fast Algorithm for Computing the n-Ary Composition of a Binary Associative Operator.</title>
+<pages>209-213</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl34.html#CooperK90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90162-Q</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/RamalingamR90" mdate="2017-05-26">
+<author pid="r/GRamalingam">G. Ramalingam</author>
+<author pid="r/CPanduRangan">C. Pandu Rangan</author>
+<title>New Sequential and Parallel Algorithms for Interval Graph Recognition.</title>
+<pages>215-219</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>4</number>
+<url>db/journals/ipl/ipl34.html#RamalingamR90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90163-R</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 34, Number 5, 7 May 1990</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/Dunne90" mdate="2020-10-26">
+<author orcid="0000-0002-6033-3742" pid="d/PaulEDunne">Paul E. S. Dunne</author>
+<title>Comment on Kochol's Paper &#34;Efficient Monotone Circuits for Threshold Functions&#34;.</title>
+<pages>221-222</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#Dunne90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90125-H</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/RonnS90" mdate="2017-05-26">
+<author pid="12/4540">Stefan R&#246;nn</author>
+<author pid="65/2832">Heikki Saikkonen</author>
+<title>Distributed Termination Detection with Counters.</title>
+<pages>223-227</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#RonnS90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90126-I</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Tuza90" mdate="2017-05-26">
+<author pid="95/4519">Zsolt Tuza</author>
+<title>Periodic String Division Generated by Deterministic L Systems.</title>
+<pages>229-234</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#Tuza90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90127-J</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Kim90" mdate="2017-05-26">
+<author pid="37/963">Sung Kwon Kim</author>
+<title>A Parallel Algorithm for Finding a Maximum Clique of a Set of Circular Arcs of a Circle.</title>
+<pages>235-241</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#Kim90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90128-K</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Murphy90" mdate="2017-05-26">
+<author pid="64/174">Owen Murphy</author>
+<title>A Unifying Framework for Trie Design Heuristics.</title>
+<pages>243-249</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#Murphy90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90129-L</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Pugh90" mdate="2022-04-04">
+<author pid="p/WilliamPugh">William W. Pugh</author>
+<title>Slow Optimally Balanced Search Strategies VS. Cached Fast Uniformly Balanced Search Strategies.</title>
+<pages>251-254</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#Pugh90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90130-P</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Pombortsis90" mdate="2017-05-26">
+<author pid="p/ASPomportsis">Andreas S. Pombortsis</author>
+<title>Sharing Special Purpose Resources in a Multiprocessor Environment.</title>
+<pages>255-260</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#Pombortsis90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90131-G</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/KuoT90" mdate="2017-05-26">
+<author pid="85/5566">R. T. Kuo</author>
+<author pid="33/6715">S. S. Tseng</author>
+<title>The Necessary and Sufficient Condition for the Worst-Case Male Optimal Stable Matching.</title>
+<pages>261-263</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#KuoT90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90132-H</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Robson90" mdate="2017-05-26">
+<author pid="45/4690">J. M. Robson</author>
+<title>Random Access Machines with Multi-Dimensional Memories.</title>
+<pages>265-266</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#Robson90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90133-I</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/WeissS90" mdate="2017-05-26">
+<author pid="w/MarkAllenWeiss">Mark Allen Weiss</author>
+<author pid="s/RobertSedgewick">Robert Sedgewick</author>
+<title>More on Shellsort Increment Sequences.</title>
+<pages>267-270</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#WeissS90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90134-J</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/GonnetB90" mdate="2020-10-26">
+<author pid="g/GastonHGonnet">Gaston H. Gonnet</author>
+<author orcid="0000-0003-3208-9778" pid="b/RABaezaYates">Ricardo A. Baeza-Yates</author>
+<title>An Analysis of the Karp-Rabin String Matching Algorithm.</title>
+<pages>271-274</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#GonnetB90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90135-K</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Althofer90" mdate="2017-05-26">
+<author pid="38/2620">Ingo Alth&#246;fer</author>
+<title>Tight Lower Bounds on the Length of Word Chains.</title>
+<pages>275-276</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl34.html#Althofer90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90136-L</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 34, Number 6, 28 May 1990</h2> 
+<dblpcites><r style="ee"><article key="journals/ipl/Goldreich90" mdate="2018-11-02">
+<author orcid="0000-0002-4329-135X" pid="g/OdedGoldreich">Oded Goldreich 0001</author>
+<title>A Note on Computational Indistinguishability.</title>
+<pages>277-281</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl34.html#Goldreich90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90010-U</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Chandrasekharan90" mdate="2017-05-26">
+<author pid="21/5724">N. Chandrasekharan</author>
+<title>Isomorphism Testing of k-Trees is in NC, for Fixed k.</title>
+<pages>283-287</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl34.html#Chandrasekharan90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90011-L</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ChomickiS90" mdate="2017-05-26">
+<author pid="c/JChomicki">Jan Chomicki</author>
+<author pid="s/VSSubrahmanian">V. S. Subrahmanian</author>
+<title>Generalized Closed World Assumptions is Pi^0_2-Complete.</title>
+<pages>289-291</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl34.html#ChomickiS90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90012-M</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/Heath90" mdate="2017-05-26">
+<author pid="h/LenwoodSHeath">Lenwood S. Heath</author>
+<title>Covering a Set with Arithmetic Progressions is NP-Complete.</title>
+<pages>293-298</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl34.html#Heath90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90013-N</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/ZarghamD90" mdate="2017-05-26">
+<author pid="11/6253">Mehdi R. Zargham</author>
+<author pid="24/4340">Kenneth J. Danhof</author>
+<title>Toward a Definition of Fault Analysis for Petri Nets Models.</title>
+<pages>299-305</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl34.html#ZarghamD90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90014-O</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/KleinS90" mdate="2020-08-17">
+<author pid="k/PhilipNKlein">Philip N. Klein</author>
+<author pid="s/CliffordStein">Clifford Stein 0001</author>
+<title>A Parallel Algorithm for Eliminating Cycles in Undirected Graphs.</title>
+<pages>307-312</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl34.html#KleinS90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90015-P</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/MatsliachS90" mdate="2017-05-26">
+<author pid="47/4999">Gabriel Matsliach</author>
+<author pid="s/OShmueli">Oded Shmueli</author>
+<title>Distributing A B+-Tree in a Loosely Coupled Environment.</title>
+<pages>313-321</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl34.html#MatsliachS90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90016-Q</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ipl/SenguptaB90" mdate="2017-05-26">
+<author pid="88/2693">Abhijit Sengupta</author>
+<author pid="73/3006">Subir Bandyopadhyay</author>
+<title>Deadlock-Free Routing in k-Ary Hypercube Network in Presence of Processor Failures.</title>
+<pages>323-328</pages>
+<year>1990</year>
+<volume>34</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>6</number>
+<url>db/journals/ipl/ipl34.html#SenguptaB90</url>
+<ee>https://doi.org/10.1016/0020-0190(90)90017-R</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

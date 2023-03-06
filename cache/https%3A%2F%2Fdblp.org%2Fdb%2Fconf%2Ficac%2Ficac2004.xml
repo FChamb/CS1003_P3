@@ -1,0 +1,942 @@
+<bht key="db/conf/icac/icac2004.bht" title="International Conference on Autonomic Computing 2004">  
+<h1><ref href="db/conf/icac/index.html">ICAC</ref> 2004:
+New York, NY, USA</h1> <dblpcites><r><proceedings key="conf/icac/2004" mdate="2019-10-16">
+<title>1st International Conference on Autonomic Computing (ICAC 2004), 17-19 May 2004, New York, NY, USA</title>
+<booktitle>ICAC</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2004</year>
+<isbn>0-7695-2114-2</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/9121/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/icac/2004/2114/00/index.html</ee>
+<url>db/conf/icac/icac2004.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+<h2>Full Papers</h2> 
+<h3>General Architecture and Environment for Autonomic Computing Systems I</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/WhiteHWCK04" mdate="2011-10-26">
+<author pid="58/5565">Steve R. White</author>
+<author pid="09/6718">James E. Hanson</author>
+<author pid="56/2564">Ian Whalley</author>
+<author pid="37/6295">David M. Chess</author>
+<author pid="10/3207">Jeffrey O. Kephart</author>
+<title>An Architectural Approach to Autonomic Computing.</title>
+<pages>2-9</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.8</ee>
+<url>db/conf/icac/icac2004.html#WhiteHWCK04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/LiuPH04" mdate="2017-07-06">
+<author pid="33/794-1">Hua Liu 0001</author>
+<author pid="p/ManishParashar">Manish Parashar</author>
+<author pid="38/2282">Salim Hariri</author>
+<title>A Component-Based Programming Model for Autonomic Applications.</title>
+<pages>10-17</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.2</ee>
+<url>db/conf/icac/icac2004.html#LiuPH04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/BarrettMKB04" mdate="2011-10-26">
+<author pid="42/2781">Rob Barrett</author>
+<author pid="94/226">Paul P. Maglio</author>
+<author pid="54/6752">Eser Kandogan</author>
+<author pid="29/3053">John H. Bailey</author>
+<title>Usable Autonomic Computing Systems: The Administrator's.</title>
+<pages>18-26</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.66</ee>
+<url>db/conf/icac/icac2004.html#BarrettMKB04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>AI and Learning for Autonomic Computing Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/KycymanW04" mdate="2011-10-26">
+<author pid="24/5830">Emre Kycyman</author>
+<author pid="91/1356">Yi-Min Wang</author>
+<title>Discovering Correctness Constraints for Self-Management of System Configuration.</title>
+<pages>28-35</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.26</ee>
+<url>db/conf/icac/icac2004.html#KycymanW04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ChenZLJB04" mdate="2011-10-26">
+<author pid="83/3844">Mike Y. Chen</author>
+<author pid="79/3207">Alice X. Zheng</author>
+<author pid="85/4910">Jim Lloyd</author>
+<author pid="j/MichaelIJordan">Michael I. Jordan</author>
+<author pid="b/EricABrewer">Eric A. Brewer</author>
+<title>Failure Diagnosis Using Decision Trees.</title>
+<pages>36-43</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.31</ee>
+<url>db/conf/icac/icac2004.html#ChenZLJB04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/MesnierTGES04" mdate="2011-10-26">
+<author pid="m/MichaelPMesnier">Michael P. Mesnier</author>
+<author pid="44/5931">Eno Thereska</author>
+<author pid="g/GregoryRGanger">Gregory R. Ganger</author>
+<author pid="03/6368">Daniel Ellard</author>
+<author pid="s/MargoISeltzer">Margo I. Seltzer</author>
+<title>File Classification in Self-* Storage Systems.</title>
+<pages>44-51</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.32</ee>
+<url>db/conf/icac/icac2004.html#MesnierTGES04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Performance Management for Autonomic Computing Systems I</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/KandasamyAH04" mdate="2011-10-26">
+<author pid="63/6537">Nagarajan Kandasamy</author>
+<author pid="a/SherifAbdelwahed">Sherif Abdelwahed</author>
+<author pid="92/2628">John P. Hayes</author>
+<title>Self-Optimization in Computer Systems via On-Line Control: Application to Power Management.</title>
+<pages>54-61</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.55</ee>
+<url>db/conf/icac/icac2004.html#KandasamyAH04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/BennaniM04" mdate="2011-10-26">
+<author pid="29/2483">Mohamed N. Bennani</author>
+<author pid="m/DAMenasce">Daniel A. Menasc&#233;</author>
+<title>Assessing the Robustness of Self-Managing Computer Systems under Highly Variable Workloads.</title>
+<pages>62-69</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.10</ee>
+<url>db/conf/icac/icac2004.html#BennaniM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/WalshTKD04" mdate="2011-10-26">
+<author pid="w/WilliamEWalsh">William E. Walsh</author>
+<author pid="68/2197">Gerald Tesauro</author>
+<author pid="10/3207">Jeffrey O. Kephart</author>
+<author pid="15/2206">Rajarshi Das</author>
+<title>Utility Functions in Autonomic Systems.</title>
+<pages>70-77</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.68</ee>
+<url>db/conf/icac/icac2004.html#WalshTKD04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Autonomic Computing in Massively Distributed Systems I</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/RanganathanC04" mdate="2011-10-26">
+<author pid="73/6323">Anand Ranganathan</author>
+<author pid="c/RoyHCampbell">Roy H. Campbell</author>
+<title>Autonomic Pervasive Computing Based on Planning.</title>
+<pages>80-87</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.17</ee>
+<url>db/conf/icac/icac2004.html#RanganathanC04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/SadjadiM04" mdate="2011-10-26">
+<author pid="s/SeyedMasoudSadjadi">Seyed Masoud Sadjadi</author>
+<author pid="m/PhilipKMcKinley">Philip K. McKinley</author>
+<title>Transparent Self-Optimization in Existing CORBA Applications.</title>
+<pages>88-95</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.63</ee>
+<url>db/conf/icac/icac2004.html#SadjadiM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ChakravartiBL04" mdate="2011-10-26">
+<author pid="41/6070">Arjav J. Chakravarti</author>
+<author pid="10/1300">Gerald Baumgartner</author>
+<author pid="l/MarioLauria">Mario Lauria</author>
+<title>The Organic Grid: Self-Organizing Computation on a Peer-to-Peer Network.</title>
+<pages>96-103</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.60</ee>
+<url>db/conf/icac/icac2004.html#ChakravartiBL04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>System-Level Technologies for Autonomic Computing Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/DunaganRDJVW04" mdate="2021-07-28">
+<author pid="10/3285">John Dunagan</author>
+<author pid="06/5828">Roussi Roussev</author>
+<author pid="33/5358">Brad Daniels</author>
+<author pid="24/3059-1">Aaron Johnson 0001</author>
+<author pid="78/2444">Chad Verbowski</author>
+<author pid="91/1356">Yi-Min Wang</author>
+<title>Towards a Self-Managing Software Patching Process Using Black-Box Persistent-State Manifests.</title>
+<pages>106-113</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.61</ee>
+<url>db/conf/icac/icac2004.html#DunaganRDJVW04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/Mikic-RakicM04" mdate="2011-10-26">
+<author pid="38/6980">Marija Mikic-Rakic</author>
+<author pid="65/1728">Nenad Medvidovic</author>
+<title>Support for Disconnected Operation via Architectural Self-Reconfiguration.</title>
+<pages>114-121</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.58</ee>
+<url>db/conf/icac/icac2004.html#Mikic-RakicM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ZhangLLJ04" mdate="2017-11-07">
+<author pid="z/ZhengZhang">Zheng Zhang 0001</author>
+<author pid="97/2553">Shiding Lin</author>
+<author pid="32/2523">Qiao Lian</author>
+<author pid="19/4764">Chao Jin</author>
+<title>RepStore: A Self-Managing and Self-Tuning Storage Backend with Smart Bricks.</title>
+<pages>122-129</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.50</ee>
+<url>db/conf/icac/icac2004.html#ZhangLLJ04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>General Architecture and Environment for Autonomic Computing Systems II</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/Anthony04" mdate="2011-10-26">
+<author pid="04/3029">Richard John Anthony</author>
+<title>Emergence: A Paradigm for Robust and Scalable Distributed Applications.</title>
+<pages>132-139</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.29</ee>
+<url>db/conf/icac/icac2004.html#Anthony04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ChessSWW04" mdate="2011-10-26">
+<author pid="37/6295">David M. Chess</author>
+<author pid="79/4154">Alla Segal</author>
+<author pid="56/2564">Ian Whalley</author>
+<author pid="58/5565">Steve R. White</author>
+<title>Unity: Experiences with a Prototype Autonomic Computing System.</title>
+<pages>140-147</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.65</ee>
+<url>db/conf/icac/icac2004.html#ChessSWW04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/AggarwalDMM04" mdate="2020-01-02">
+<author pid="75/3847">Gagan Aggarwal</author>
+<author pid="06/3699">Mayur Datar</author>
+<author pid="55/693">Nina Mishra</author>
+<author pid="m/RajeevMotwani">Rajeev Motwani 0001</author>
+<title>On Identifying Stable Ways to Configure Systems.</title>
+<pages>148-153</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.40</ee>
+<url>db/conf/icac/icac2004.html#AggarwalDMM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/SrivastavaBS04" mdate="2011-10-26">
+<author pid="33/4411">Biplav Srivastava</author>
+<author pid="23/4351">Joseph P. Bigus</author>
+<author pid="91/582">Don A. Schlosnagle</author>
+<title>Bringing Planning to Autonomic Applications with ABLE.</title>
+<pages>154-161</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.23</ee>
+<url>db/conf/icac/icac2004.html#SrivastavaBS04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Autonomic Computing in Storage and Database Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/AriGH04" mdate="2011-10-26">
+<author pid="23/4866">Ismail Ari</author>
+<author pid="48/5394">Melanie Gottwals</author>
+<author pid="16/5564">Dick Henze</author>
+<title>SANBoost: Automated SAN-Level Caching in Storage Area Network.</title>
+<pages>164-171</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.53</ee>
+<url>db/conf/icac/icac2004.html#AriGH04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/KurmasK04" mdate="2011-10-26">
+<author pid="51/109">Zachary Kurmas</author>
+<author pid="k/KimberlyKeeton">Kimberly Keeton</author>
+<title>Using the Distiller to Direct the Development of Self-Configuration Software.</title>
+<pages>172-179</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.67</ee>
+<url>db/conf/icac/icac2004.html#KurmasK04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ZilioZLMLCPCGALV04" mdate="2011-10-26">
+<author pid="60/6783">Daniel C. Zilio</author>
+<author pid="32/3773">Calisto Zuzarte</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="11/5303">Wenbin Ma</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="93/595">Roberta Cochrane</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="83/5689">Latha S. Colby</author>
+<author pid="g/JarekGryz">Jarek Gryz</author>
+<author pid="92/3170">Eric Alton</author>
+<author pid="76/5443">Dongming Liang</author>
+<author pid="73/4409">Gary Valentin</author>
+<title>Recommending Materialized Views and Indexes with IBM DB2 Design Advisor.</title>
+<pages>180-188</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.47</ee>
+<url>db/conf/icac/icac2004.html#ZilioZLMLCPCGALV04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/BoninoBC04" mdate="2011-10-26">
+<author pid="26/5462">Dario Bonino</author>
+<author pid="77/610">Alessio Bosca</author>
+<author pid="59/2777">Fulvio Corno</author>
+<title>An Agent Based Autonomic Semantic Platform.</title>
+<pages>189-196</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.7</ee>
+<url>db/conf/icac/icac2004.html#BoninoBC04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Performance Management for Autonomic Computing Systems II</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/NorrisCFC04" mdate="2011-10-26">
+<author pid="96/385">James Norris</author>
+<author pid="47/935">Keith Coleman</author>
+<author pid="90/5133">Armando Fox</author>
+<author pid="c/GeorgeCandea">George Candea</author>
+<title>OnCall: Defeating Spikes with a Free-Market Application Cluste.</title>
+<pages>198-205</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.41</ee>
+<url>db/conf/icac/icac2004.html#NorrisCFC04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/AiberGLRSW04" mdate="2011-10-26">
+<author pid="30/6675">Sarel Aiber</author>
+<author pid="91/1513">Dagan Gilat</author>
+<author pid="57/839">Ariel Landau</author>
+<author pid="74/6591">Natalia Razinkov</author>
+<author pid="05/4215">Aviad Sela</author>
+<author pid="24/5083">Segev Wasserkrug</author>
+<title>Autonomic Self-Optimization According to Business Objectives.</title>
+<pages>206-213</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.19</ee>
+<url>db/conf/icac/icac2004.html#AiberGLRSW04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/DiaconescuMM04" mdate="2016-02-18">
+<author pid="75/1461">Ada Diaconescu</author>
+<author pid="16/6077">Adrian Mos</author>
+<author pid="87/4649-1">John Murphy 0001</author>
+<title>Automatic Performance Management in Component Based Software Systems.</title>
+<pages>214-221</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.15</ee>
+<url>db/conf/icac/icac2004.html#DiaconescuMM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/MahabhashyamG04" mdate="2011-10-26">
+<author pid="92/175">Sai Rajesh Mahabhashyam</author>
+<author pid="29/3422">Natarajan Gautam</author>
+<title>Dynamic Resource Allocation of Shared Data Centers Supporting Multiclass Requests.</title>
+<pages>222-229</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.28</ee>
+<url>db/conf/icac/icac2004.html#MahabhashyamG04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Autonomic Computing in Massively Distributed Systems II</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/GelenbeGLLS04" mdate="2011-10-26">
+<author pid="g/ErolGelenbe">Erol Gelenbe</author>
+<author pid="05/6076">Michael Gellman</author>
+<author pid="51/1891">Ricardo Lent</author>
+<author pid="58/5506">Peixiang Liu</author>
+<author pid="20/4">Pu Su</author>
+<title>Autonomous Smart Routing for Network QoS.</title>
+<pages>232-239</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.21</ee>
+<url>db/conf/icac/icac2004.html#GelenbeGLLS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ChangHK04" mdate="2011-10-26">
+<author pid="32/3354">Yu-Han Chang</author>
+<author pid="31/2709">Tracey Ho</author>
+<author pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</author>
+<title>Mobilized Ad-Hoc Networks: A Reinforcement Learning Approach.</title>
+<pages>240-247</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.39</ee>
+<url>db/conf/icac/icac2004.html#ChangHK04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/LewisOFBW04" mdate="2017-09-12">
+<author pid="80/6593-1">David Lewis 0001</author>
+<author pid="84/6494">Tony O'Donnell</author>
+<author pid="94/236">Kevin Feeney</author>
+<author pid="56/6689">Aoife Brady</author>
+<author pid="w/VincentPWade">Vincent Wade</author>
+<title>Managing User-Centric Adaptive Services for Pervasive Computing.</title>
+<pages>248-255</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.37</ee>
+<url>db/conf/icac/icac2004.html#LewisOFBW04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/BohraNGSI04" mdate="2011-10-26">
+<author pid="90/4643">Aniruddha Bohra</author>
+<author pid="46/2869">Iulian Neamtiu</author>
+<author pid="29/261">Pascal Gallard</author>
+<author pid="24/6786">Florin Sultan</author>
+<author pid="25/5411">Liviu Iftode</author>
+<title>Remote Repair of Operating System State Using Backdoors.</title>
+<pages>256-263</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.49</ee>
+<url>db/conf/icac/icac2004.html#BohraNGSI04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Posters</h2> 
+<h3>General Architecture and Environment for Autonomic Computing Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/BrownHHLLSY04" mdate="2011-10-26">
+<author pid="78/6905">Aaron B. Brown</author>
+<author pid="32/2459">Joseph L. Hellerstein</author>
+<author pid="04/5427">Matt Hogstrom</author>
+<author pid="71/1476">Tony Lau</author>
+<author pid="31/3001">Sam Lightstone</author>
+<author pid="36/2194">Peter Shum</author>
+<author pid="33/6593">Mary Peterson Yost</author>
+<title>Benchmarking Autonomic Capabilities: Promises and Pitfalls.</title>
+<pages>266-267</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.22</ee>
+<url>db/conf/icac/icac2004.html#BrownHHLLSY04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ZambonelliGMT04" mdate="2019-10-07">
+<author pid="54/3140">Franco Zambonelli</author>
+<author pid="42/3224">Marie-Pierre Gleizes</author>
+<author pid="90/6532">Marco Mamei</author>
+<author pid="t/RobertTolksdorf">Robert Tolksdorf</author>
+<title>Spray Computers: Frontiers of Self-Organizatio.</title>
+<pages>268-269</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.56</ee>
+<url>db/conf/icac/icac2004.html#ZambonelliGMT04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/VermaC04" mdate="2011-10-26">
+<author pid="45/4989">Dinesh C. Verma</author>
+<author pid="93/6458">Seraphin B. Calo</author>
+<title>A Toolkit for Policy Enablement in Autonomic Computing.</title>
+<pages>270-271</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.5</ee>
+<url>db/conf/icac/icac2004.html#VermaC04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ChenK04" mdate="2011-10-26">
+<author pid="67/1695">Guanling Chen</author>
+<author pid="k/DavidKotz">David Kotz</author>
+<title>Dependency Management in Distributed Settings.</title>
+<pages>272-273</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.25</ee>
+<url>db/conf/icac/icac2004.html#ChenK04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/TrumlerPBU04" mdate="2011-10-26">
+<author pid="53/986">Wolfgang Trumler</author>
+<author pid="93/2668">Jan Petzold</author>
+<author pid="02/4364">Faruk Bagci</author>
+<author pid="u/TheoUngerer">Theo Ungerer</author>
+<title>AMUN - Autonomic Middleware for Ubiquitous eNvironments Applied to the Smart Doorplate Project.</title>
+<pages>274-275</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.6</ee>
+<url>db/conf/icac/icac2004.html#TrumlerPBU04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ChengHGSS04" mdate="2011-10-26">
+<author pid="01/4306">Shang-Wen Cheng</author>
+<author pid="72/3354">An-Cheng Huang</author>
+<author pid="01/2201">David Garlan</author>
+<author pid="15/3453">Bradley R. Schmerl</author>
+<author pid="s/PeterSteenkiste">Peter Steenkiste</author>
+<title>Rainbow: Architecture-Based Self-Adaptation with Reusable Infrastructure.</title>
+<pages>276-277</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.46</ee>
+<url>db/conf/icac/icac2004.html#ChengHGSS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/LiP04" mdate="2020-01-22">
+<author pid="74/2397-10">Zhen Li 0010</author>
+<author pid="p/ManishParashar">Manish Parashar</author>
+<title>Rudder: A Rule-Based Multi-Agent Infrastructure for Supporting Autonomic Grid Applications.</title>
+<pages>278-279</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.52</ee>
+<url>db/conf/icac/icac2004.html#LiP04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/MelchiorS04" mdate="2011-10-26">
+<author pid="22/2148">Nik A. Melchior</author>
+<author pid="54/1343">William D. Smart</author>
+<title>Autonomic Systems for Mobile Robots.</title>
+<pages>280-281</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.20</ee>
+<url>db/conf/icac/icac2004.html#MelchiorS04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>AI and Learning for Autonomic Computing Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/LittmanRFH04" mdate="2014-12-15">
+<author pid="l/MLLittman">Michael L. Littman</author>
+<author pid="r/NishkamRavi">Nishkam Ravi</author>
+<author pid="23/5201">Eitan Fenson</author>
+<author pid="26/1455">Richard E. Howard</author>
+<title>Reinforcement Learning for Autonomic Network Repair.</title>
+<pages>284-285</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.48</ee>
+<url>db/conf/icac/icac2004.html#LittmanRFH04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/WhitesonS04" mdate="2011-10-26">
+<author pid="42/2548">Shimon Whiteson</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>Towards Autonomic Computing: Adaptive Network Routing and Scheduling.</title>
+<pages>286-287</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.62</ee>
+<url>db/conf/icac/icac2004.html#WhitesonS04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Performance Management for Autonomic Computing</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/ChenDGWS04" mdate="2017-11-22">
+<author pid="93/2896">Yiyu Chen 0001</author>
+<author pid="64/541">Amitayu Das</author>
+<author pid="29/3422">Natarajan Gautam</author>
+<author pid="75/5723">Qian Wang</author>
+<author pid="72/3356">Anand Sivasubramaniam</author>
+<title>Pricing and Autonomic Control of Web Servers with Time-Varying Request Patterns.</title>
+<pages>290-291</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.45</ee>
+<url>db/conf/icac/icac2004.html#ChenDGWS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ChenA04" mdate="2020-11-12">
+<author pid="01/5394-19">Liang Chen 0019</author>
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<title>Self-Adaptation in a Middleware for Processing Data Streams.</title>
+<pages>292-293</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.54</ee>
+<url>db/conf/icac/icac2004.html#ChenA04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/CrompS04" mdate="2011-10-26">
+<author pid="77/1054">Robert F. Cromp</author>
+<author pid="38/2226">Gilad Suberri</author>
+<title>Automated Job Monitoring in a High Performance Computing Environment.</title>
+<pages>294-295</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.12</ee>
+<url>db/conf/icac/icac2004.html#CrompS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/WengMG04" mdate="2011-10-26">
+<author pid="98/392">Jianshu Weng</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<author pid="g/AngelaGoh">Angela Goh</author>
+<title>Dynamic Negotiations for Grid Services.</title>
+<pages>296-297</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.27</ee>
+<url>db/conf/icac/icac2004.html#WengMG04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>System-Level Technologies for Autonomic Computing</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/DearleKM04" mdate="2017-06-15">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="29/5954">Andrew J. McCarthy</author>
+<title>A Framework for Constraint-Based Deployment and Autonomic Management of Distributed Applications.</title>
+<pages>300-301</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.3</ee>
+<url>db/conf/icac/icac2004.html#DearleKM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/ReissE04" mdate="2011-10-26">
+<author pid="r/StevenPReiss">Steven P. Reiss</author>
+<author pid="50/3665">Guy Eddon</author>
+<title>Automated Support for Recovery.</title>
+<pages>302-303</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.13</ee>
+<url>db/conf/icac/icac2004.html#ReissE04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/StojanovicASS04" mdate="2011-10-26">
+<author pid="62/4365">Ljiljana Stojanovic</author>
+<author pid="05/3102">Andreas Abecker</author>
+<author pid="51/6821">Nenad Stojanovic</author>
+<author pid="s/RudiStuder">Rudi Studer</author>
+<title>Ontology-Based Correlation Engines.</title>
+<pages>304-305</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.43</ee>
+<url>db/conf/icac/icac2004.html#StojanovicASS04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/MajithiaWG04" mdate="2011-10-26">
+<author pid="89/5708">Shalil Majithia</author>
+<author pid="w/DavidWWalker">David W. Walker</author>
+<author pid="g/WAGray">W. A. Gray</author>
+<title>Automated Web Service Composition Using Semantic Web Technologies.</title>
+<pages>306-307</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.14</ee>
+<url>db/conf/icac/icac2004.html#MajithiaWG04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/GrabarnikSSM04" mdate="2011-10-26">
+<author pid="19/5056">Genady Grabarnik</author>
+<author pid="79/3205">Abdi Salahshour</author>
+<author pid="17/6946">Balan Subramanian</author>
+<author pid="70/972">Sheng Ma</author>
+<title>Generic Adapter Logging Toolkit.</title>
+<pages>308-309</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.34</ee>
+<url>db/conf/icac/icac2004.html#GrabarnikSSM04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/SadjadiMSC04" mdate="2011-10-26">
+<author pid="s/SeyedMasoudSadjadi">Seyed Masoud Sadjadi</author>
+<author pid="m/PhilipKMcKinley">Philip K. McKinley</author>
+<author pid="s/REKurtStirewalt">R. E. Kurt Stirewalt</author>
+<author pid="93/2440">Betty H. C. Cheng</author>
+<title>Generation of Self-Optimizing Wireless Network Applications.</title>
+<pages>310-311</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.33</ee>
+<url>db/conf/icac/icac2004.html#SadjadiMSC04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/DudleyJOST04" mdate="2011-10-26">
+<author pid="47/6062">Gary Dudley</author>
+<author pid="77/5629">Neeraj Joshi</author>
+<author pid="99/6483">David M. Ogle</author>
+<author pid="17/6946">Balan Subramanian</author>
+<author pid="11/5446">Brad B. Topo</author>
+<title>Autonomic Self-Healing Systems in a Cross-Product IT Environment.</title>
+<pages>312-313</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.18</ee>
+<url>db/conf/icac/icac2004.html#DudleyJOST04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/FrankeNSKZK04" mdate="2011-10-26">
+<author pid="17/3453">Hubertus Franke</author>
+<author pid="04/3478">Shailabh Nagar</author>
+<author pid="04/2523">Chandra Seetharaman</author>
+<author pid="93/3496">Vivek Kashyap</author>
+<author pid="82/6954">Haoqiang Zheng</author>
+<author pid="33/306">Jiantao Kong</author>
+<title>Enabling Autonomic Workload Management in Linux.</title>
+<pages>314-315</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.30</ee>
+<url>db/conf/icac/icac2004.html#FrankeNSKZK04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/GinisS04" mdate="2011-10-26">
+<author pid="29/5967">Roman Ginis</author>
+<author pid="42/4610">Robert E. Strom</author>
+<title>An Autonomic Messaging Middleware with Stateful Stream Transformation.</title>
+<pages>316-318</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.9</ee>
+<url>db/conf/icac/icac2004.html#GinisS04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Autonomic Computing for Massively Distributed Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/TripathiKKOTAJD04" mdate="2013-09-15">
+<author pid="t/AnandRTripathi">Anand R. Tripathi</author>
+<author pid="47/2875">Muralidhar Koka</author>
+<author pid="93/1768">Sandeep Karanth</author>
+<author pid="56/5962">Ivan Osipkov</author>
+<author pid="90/517">Harsha Talkad</author>
+<author pid="73/1017-2">Tanvir Ahmed 0002</author>
+<author pid="52/417">D. Johnson</author>
+<author pid="69/6477">S. Dier</author>
+<title>Robustness and Security in a Mobile-Agent Based Network Monitoring System.</title>
+<pages>320-321</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.51</ee>
+<url>db/conf/icac/icac2004.html#TripathiKKOTAJD04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/BeygelzimerGLR04" mdate="2011-10-26">
+<author pid="27/1683">Alina Beygelzimer</author>
+<author pid="68/2403">Geoffrey Grinstein</author>
+<author pid="48/6987">Ralph Linsker</author>
+<author pid="r/IrinaRish">Irina Rish</author>
+<title>Improving Network Robustness.</title>
+<pages>322-323</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.36</ee>
+<url>db/conf/icac/icac2004.html#BeygelzimerGLR04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/QuHJROFZP04" mdate="2011-10-26">
+<author pid="12/1799">Guangzhi Qu</author>
+<author pid="38/2282">Salim Hariri</author>
+<author pid="21/5397">Santosh Jangiti</author>
+<author pid="76/3953">Jayprakash Rudraraju</author>
+<author pid="16/6000">Seungchan Oh</author>
+<author pid="83/4934">Samer Fayssal</author>
+<author pid="62/3627">Guangsen Zhang</author>
+<author pid="p/ManishParashar">Manish Parashar</author>
+<title>Online Monitoring and Analysis for Self-Protection against Network Attacks.</title>
+<pages>324-325</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.42</ee>
+<url>db/conf/icac/icac2004.html#QuHJROFZP04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/SaffreB04" mdate="2011-10-26">
+<author pid="38/6986">Fabrice Saffre</author>
+<author pid="92/1461">H&#229;vard Rast Blok</author>
+<title>&#34;SelfService&#34;, - A Theoretical Protocol for Autonomic Distribution of Services in P2P Communities.</title>
+<pages>326-327</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.1</ee>
+<url>db/conf/icac/icac2004.html#SaffreB04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/PallickaraF04" mdate="2016-06-27">
+<author pid="p/ShrideepPallickara">Shrideep Pallickara</author>
+<author pid="f/GeoffreyFox">Geoffrey C. Fox</author>
+<title>A Scheme for Reliable Delivery of Events in Distributed Middleware Systems.</title>
+<pages>328-329</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.4</ee>
+<url>db/conf/icac/icac2004.html#PallickaraF04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/LoeserDAR04" mdate="2011-10-26">
+<author pid="l/CLoeser">Chris Loeser</author>
+<author pid="38/1360">Michael Ditze</author>
+<author pid="83/5513">Peter Altenbernd</author>
+<author pid="r/FranzJosefRammig">Franz J. Rammig</author>
+<title>GRUSEL - A Self Optimizing, Bandwidth Aware Video on Demand P2P Application.</title>
+<pages>330-331</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.35</ee>
+<url>db/conf/icac/icac2004.html#LoeserDAR04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/BaldoniBQV04" mdate="2011-10-26">
+<author pid="b/RBaldoni">Roberto Baldoni</author>
+<author pid="28/3991">Roberto Beraldi</author>
+<author pid="24/2123">Leonardo Querzoni</author>
+<author pid="v/AntoninoVirgillito">Antonino Virgillito</author>
+<title>Subscription-Driven Self-Organization in Content-Based Publish/Subscribe.</title>
+<pages>332-333</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.57</ee>
+<url>db/conf/icac/icac2004.html#BaldoniBQV04</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Storage and Database Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/icac/BhideGJMR04" mdate="2011-10-26">
+<author pid="40/4935">Manish Bhide</author>
+<author pid="g/AjayGupta4">Ajay Gupta 0004</author>
+<author pid="31/5373">Mukul Joshi</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<author pid="31/1190">Shree Raman</author>
+<title>Policy Framework for Autonomic Data Managemen.</title>
+<pages>336-337</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.44</ee>
+<url>db/conf/icac/icac2004.html#BhideGJMR04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/Fontana04" mdate="2011-10-26">
+<author pid="06/628">Jim Fontana</author>
+<title>The Component Balancer: Optimization of Component-Based Applications.</title>
+<pages>338-339</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.59</ee>
+<url>db/conf/icac/icac2004.html#Fontana04</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icac/IlyasMHBA04" mdate="2011-10-26">
+<author pid="i/IhabFIlyas">Ihab F. Ilyas</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="41/6335">Paul G. Brown</author>
+<author pid="01/3996">Ashraf Aboulnaga</author>
+<title>Automatic Relationship Discovery in Self-Managing Database Systems.</title>
+<pages>340-341</pages>
+<year>2004</year>
+<crossref>conf/icac/2004</crossref>
+<booktitle>ICAC</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICAC.2004.16</ee>
+<url>db/conf/icac/icac2004.html#IlyasMHBA04</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

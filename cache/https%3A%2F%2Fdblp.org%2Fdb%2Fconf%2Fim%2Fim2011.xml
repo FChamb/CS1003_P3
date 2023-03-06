@@ -1,0 +1,2472 @@
+<bht key="db/conf/im/im2011.bht" title="Integrated Network Management 2011">  
+<h1>12. <ref href="db/conf/im/index.html">Integrated Network Management</ref> 2011:
+Dublin, Ireland</h1> <dblpcites><r><proceedings key="conf/im/2011" mdate="2011-08-22">
+<editor pid="14/2269">Nazim Agoulmine</editor>
+<editor pid="b/CBartolini">Claudio Bartolini</editor>
+<editor pid="p/TomPfeifer">Tom Pfeifer</editor>
+<editor pid="16/508">Declan O'Sullivan</editor>
+<title>Proceedings of the 12th IFIP/IEEE International Symposium on Integrated Network Management, IM 2011, Dublin, Ireland, 23-27 May 2011</title>
+<isbn>978-1-4244-9221-3</isbn>
+<booktitle>Integrated Network Management</booktitle>
+<publisher>IEEE</publisher>
+<year>2011</year>
+<url>db/conf/im/im2011.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Home Network Management and Service Popularity</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/SventekKSDPSRLBGM11" mdate="2020-10-25">
+<author pid="s/JSSventek">Joe Sventek</author>
+<author pid="85/4903">Alexandros Koliousis</author>
+<author pid="53/937">Oliver Sharma</author>
+<author pid="70/3064">Naranker Dulay</author>
+<author pid="42/4544">Dimosthenis Pediaditakis</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<author pid="r/TomRodden">Tom Rodden</author>
+<author pid="18/7595">Tom Lodge</author>
+<author orcid="0000-0003-2948-032X" pid="07/1099">Ben Bedwell</author>
+<author pid="90/5140">Kevin Glover</author>
+<author orcid="0000-0001-5205-5992" pid="28/5155">Richard Mortier</author>
+<title>An information plane architecture supporting home network management.</title>
+<pages>1-8</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990667</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SventekKSDPSRLBGM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/PerelmanMS11" mdate="2019-09-16">
+<author pid="67/9977">Vladislav Perelman</author>
+<author pid="62/8235">Nikolay Melnikov</author>
+<author orcid="0000-0001-8346-1555" pid="39/5680">J&#252;rgen Sch&#246;nw&#228;lder</author>
+<title>Flow signatures of popular applications.</title>
+<pages>9-16</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990668</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#PerelmanMS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/FamaeyWT11" mdate="2021-04-09">
+<author orcid="0000-0002-3587-1354" pid="01/6700">Jeroen Famaey</author>
+<author pid="43/1771">Tim Wauters</author>
+<author pid="30/888">Filip De Turck</author>
+<title>On the merits of popularity prediction in multimedia content caching.</title>
+<pages>17-24</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990669</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#FamaeyWT11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Interdomain Routing and SLA</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/EyermannR11" mdate="2017-05-17">
+<author pid="65/1910">Frank Eyermann</author>
+<author pid="97/1158">Gabi Dreo Rodosek</author>
+<title>An auditing system for multi-domain IP carrying Service Level Agreements.</title>
+<pages>25-32</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990670</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#EyermannR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/GroleatP11" mdate="2017-05-17">
+<author pid="40/9980">Tristan Groleat</author>
+<author pid="10/1701">H&#233;lia Pouyllau</author>
+<title>Distributed inter-domain SLA negotiation using Reinforcement Learning.</title>
+<pages>33-40</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990671</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#GroleatP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LeeLK11" mdate="2022-10-02">
+<author orcid="0000-0001-7945-3763" pid="34/2820">Sihyung Lee</author>
+<author pid="74/4580">Kyriaki Levanti</author>
+<author pid="96/2520">Hyong S. Kim</author>
+<title>Impact analysis of BGP sessions for prioritization of maintenance operations.</title>
+<pages>41-48</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990672</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LeeLK11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/SantosBGBCA11" mdate="2020-10-25">
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author pid="41/8505">Rafael Santos Bezerra</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0002-4700-7707" pid="45/2226">Leandro Marcio Bertholdo</author>
+<author pid="31/2469">Winnie Cheng</author>
+<author pid="a/NikosAnerousis">Nikos Anerousis</author>
+<title>A data confidentiality architecture for developing management mashups.</title>
+<pages>49-56</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990673</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SantosBGBCA11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LiSSK11" mdate="2017-05-17">
+<author pid="l/JunLi8">Jun Li 0008</author>
+<author pid="11/3042">Sharad Singhal</author>
+<author pid="78/3547">Ram Swaminathan</author>
+<author pid="36/4757">Alan H. Karp</author>
+<title>Managing data retention policies at scale.</title>
+<pages>57-64</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990674</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LiSSK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/CherkasovaLBKKV11" mdate="2017-05-17">
+<author pid="88/4130">Ludmila Cherkasova</author>
+<author pid="56/8170">Roger Lau</author>
+<author pid="61/8170">Harald Burose</author>
+<author pid="92/9980">Subramaniam Venkata Kalambur</author>
+<author pid="73/8170">Bernhard Kappler</author>
+<author pid="30/9979">Kuttiraja Veeranan</author>
+<title>Run-time performance optimization and job management in a data protection solution.</title>
+<pages>65-72</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990675</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#CherkasovaLBKKV11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/CastilloSS11" mdate="2017-05-17">
+<author pid="25/442">Claris Castillo</author>
+<author pid="94/538">Mike Spreitzer</author>
+<author pid="28/980">Malgorzata Steinder</author>
+<title>Towards efficient resource management for data-analytic platforms.</title>
+<pages>73-80</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990676</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#CastilloSS11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Management of Cloud Services and Infrastructure:
+Part 1</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/DudkowskiTNB11" mdate="2017-05-17">
+<author pid="29/480">Dominique Dudkowski</author>
+<author pid="54/9980">Bioniko Tauhid</author>
+<author pid="44/1246">Giorgio Nunzi</author>
+<author pid="05/2754">Marcus Brunner</author>
+<title>A prototype for in-network management in NaaS-enabled networks.</title>
+<pages>81-88</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990677</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#DudkowskiTNB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MacielBLCM11" mdate="2022-01-18">
+<author pid="80/6621">Paulo Ditarso Maciel Jr.</author>
+<author pid="b/FranciscoVilarBrasileiro">Francisco Vilar Brasileiro</author>
+<author pid="51/3127">Raquel Lopes 0001</author>
+<author pid="11/8358">Marcus Carvalho</author>
+<author pid="64/4283">Miranda Mowbray</author>
+<title>Evaluating the impact of planning long-term contracts on the management of a hybrid IT infrastructure.</title>
+<pages>89-96</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990678</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MacielBLCM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/KikuchiM11" mdate="2017-05-17">
+<author pid="28/4909">Shinji Kikuchi</author>
+<author pid="68/8921">Yasuhide Matsumoto</author>
+<title>What will happen if cloud management operations burst out?</title>
+<pages>97-104</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990679</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KikuchiM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/QianMT11" mdate="2017-05-17">
+<author pid="27/4035">Haiyang Qian</author>
+<author pid="m/DeepMedhi">Deep Medhi</author>
+<author pid="t/KishorSTrivedi">Kishor S. Trivedi</author>
+<title>A hierarchical model to evaluate quality of experience of online services hosted by cloud computing.</title>
+<pages>105-112</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990680</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#QianMT11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>MANETs and Wireless Networks Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/ZhaoLRB11" mdate="2022-03-16">
+<author pid="31/2950">Hang Zhao</author>
+<author orcid="0000-0002-9438-0926" pid="l/JorgeLobo1">Jorge Lobo 0001</author>
+<author pid="88/4138-1">Arnab Roy 0001</author>
+<author pid="00/1396">Steven M. Bellovin</author>
+<title>Policy refinement of network services for MANETs.</title>
+<pages>113-120</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990681</ee>
+<ee>https://www.wikidata.org/entity/Q109585598</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ZhaoLRB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BaliosianVRAVGG11" mdate="2018-11-02">
+<author pid="12/4344">Javier Baliosian</author>
+<author pid="66/8448">Jorge Visca</author>
+<author orcid="0000-0002-9152-3522" pid="64/9795">Matias Richart</author>
+<author pid="77/9979">Guillermo Apollonia</author>
+<author pid="58/8448">Leonardo Vidal</author>
+<author pid="78/8446">Martin Giachino</author>
+<author orcid="0000-0001-6046-0023" pid="53/4707">Eduardo Gramp&#237;n</author>
+<title>Self-managed content-based routing for opportunistic networks.</title>
+<pages>121-128</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990682</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BaliosianVRAVGG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/WongCL11" mdate="2018-11-02">
+<author pid="27/3435">Starsky H. Y. Wong</author>
+<author orcid="0000-0003-0362-2844" pid="130/5040">Chi-Kin Chau</author>
+<author pid="36/2220">Kang-Won Lee</author>
+<title>Managing interoperation in multi-organization MANETs by dynamic gateway assignment.</title>
+<pages>129-136</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990683</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#WongCL11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Management of Cloud Services and Infrastructure:
+Part 2</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/MoensFLDT11" mdate="2021-04-09">
+<author pid="21/9978">Hendrik Moens</author>
+<author orcid="0000-0002-3587-1354" pid="01/6700">Jeroen Famaey</author>
+<author pid="23/2276">Steven Latr&#233;</author>
+<author pid="39/211">Bart Dhoedt</author>
+<author pid="30/888">Filip De Turck</author>
+<title>Design and evaluation of a hierarchical application placement algorithm in large scale clouds.</title>
+<pages>137-144</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990684</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MoensFLDT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BochicchioLM11" mdate="2017-06-15">
+<author orcid="0000-0002-9122-6317" pid="94/1328">Mario A. Bochicchio</author>
+<author orcid="0000-0002-6902-0160" pid="68/606">Antonella Longo</author>
+<author pid="01/9980">Caterina Mansueto</author>
+<title>Cloud services for SMEs: Contract Management's requirements specification.</title>
+<pages>145-152</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990685</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BochicchioLM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/KoslovskiSGV11" mdate="2023-01-30">
+<author orcid="0000-0003-4936-1619" pid="26/5509">Guilherme Pi&#234;gas Koslovski</author>
+<author pid="12/7050">Sebastien Soudan</author>
+<author pid="99/2017-1">Paulo Gon&#231;alves 0001</author>
+<author pid="p/PVBPrimet">Pascale Vicat-Blanc Primet</author>
+<title>Locating Virtual Infrastructures: Users and InP perspectives.</title>
+<pages>153-160</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990686</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KoslovskiSGV11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BreitgandE11" mdate="2022-10-02">
+<author orcid="0000-0002-0473-041X" pid="59/4355">David Breitgand</author>
+<author pid="70/1434">Amir Epstein</author>
+<title>SLA-aware placement of multi-virtual machine elastic services in compute clouds.</title>
+<pages>161-168</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990687</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BreitgandE11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Virtualisation Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/WhalleyS11" mdate="2017-05-17">
+<author pid="56/2564">Ian Whalley</author>
+<author pid="28/980">Malgorzata Steinder</author>
+<title>Licence-aware management of virtual machines.</title>
+<pages>169-176</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990688</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#WhalleyS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/DaitxEG11" mdate="2017-05-17">
+<author pid="26/2755">Fabio Fabian Daitx</author>
+<author pid="81/9978">Rafael Pereira Esteves</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>On the use of SNMP as a management interface for virtual networks.</title>
+<pages>177-184</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990689</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#DaitxEG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/DeR11" mdate="2017-05-17">
+<author pid="74/1771">Pradipta De</author>
+<author pid="71/1647">Sambuddha Roy</author>
+<title>VMSpreader: Multi-tier application resiliency through virtual machine striping.</title>
+<pages>185-192</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990690</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#DeR11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Self-Managed Networks</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/SchmelzAELNT11" mdate="2017-05-17">
+<author pid="20/18">Lars-Christoph Schmelz</author>
+<author pid="36/2447">Mehdi Amirijoo</author>
+<author pid="28/1954">Andreas Eisenbl&#228;tter</author>
+<author pid="40/2635">Remco Litjens</author>
+<author pid="30/9980">Michaela Neuland</author>
+<author pid="89/8197">John Turk</author>
+<title>A coordination framework for self-organisation in LTE networks.</title>
+<pages>193-200</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990691</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SchmelzAELNT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/SeoKASH11" mdate="2021-04-09">
+<author pid="20/3049">Sin-Seok Seo</author>
+<author orcid="0000-0001-7143-0364" pid="63/5816">Joon-Myung Kang</author>
+<author pid="14/2269">Nazim Agoulmine</author>
+<author pid="62/3732">John Strassner</author>
+<author pid="h/JamesWonKiHong">James Won-Ki Hong</author>
+<title>FAST: A fuzzy-based adaptive scheduling technique for IEEE 802.16 networks.</title>
+<pages>201-208</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990692</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SeoKASH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/HandurukandeFWZ11" mdate="2021-10-14">
+<author pid="25/3100">Sidath Handurukande</author>
+<author orcid="0000-0002-9857-0188" pid="13/1806">Szymon Fedor</author>
+<author pid="77/1873">Stefan Wallin</author>
+<author pid="09/6653">Martin Zach</author>
+<title>Magneto approach to QoS monitoring.</title>
+<pages>209-216</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990693</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#HandurukandeFWZ11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Service Composition and Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/EilamEKS11" mdate="2017-05-17">
+<author pid="16/1242">Tamar Eilam</author>
+<author pid="04/9980">Michael Elder</author>
+<author pid="96/249">Alexander V. Konstantinou</author>
+<author pid="55/4033">Ed C. Snible</author>
+<title>Pattern-based composite application deployment.</title>
+<pages>217-224</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990694</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#EilamEKS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/JaiswalSV11" mdate="2021-08-03">
+<author pid="97/9978">Vimmi Jaiswal</author>
+<author pid="72/2540-7">Amit Sharma 0007</author>
+<author pid="23/669">Akshat Verma</author>
+<title>ReComp: QoS-aware recursive service composition at minimum cost.</title>
+<pages>225-232</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990695</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#JaiswalSV11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/JoukovTOPCPT11" mdate="2017-05-17">
+<author pid="71/6060">Nikolai Joukov</author>
+<author pid="73/5769">Vasily Tarasov</author>
+<author pid="95/4745">Joel Ossher</author>
+<author pid="p/BPfitzmann">Birgit Pfitzmann</author>
+<author pid="95/9979">Sergej Chicherin</author>
+<author pid="p/MarcoPistoia">Marco Pistoia</author>
+<author pid="29/636">Takaaki Tateishi</author>
+<title>Static discovery and remediation of code-embedded resource dependencies.</title>
+<pages>233-240</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990696</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#JoukovTOPCPT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LuT11" mdate="2020-01-07">
+<author pid="19/9978">Qinghua Lu 0001</author>
+<author pid="91/661">Vladimir Tosic</author>
+<title>Support for concurrent adaptation of multiple Web service compositions to maximize business metrics.</title>
+<pages>241-248</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990697</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LuT11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>IT Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/DalmazoCSWLSGGBH11" mdate="2019-10-19">
+<author orcid="0000-0002-6996-7602" pid="50/8505">Bruno Lopes Dalmazo</author>
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="04/8505">Abraham Lincoln Rabelo de Sousa</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0002-8118-0802" pid="95/7493">Roben Castagna Lunardi</author>
+<author pid="11/8505">Ricardo Luis dos Santos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="b/CBartolini">Claudio Bartolini</author>
+<author pid="87/6784">Marianne Hickey</author>
+<title>Leveraging IT project lifecycle data to predict support costs.</title>
+<pages>249-256</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990698</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#DalmazoCSWLSGGBH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MatosMSM11" mdate="2020-09-17">
+<author pid="14/4663">Fernando Matos 0001</author>
+<author pid="48/41">Alexandre Matos</author>
+<author orcid="0000-0002-5079-8327" pid="00/4225">Paulo Sim&#245;es 0001</author>
+<author orcid="0000-0003-1615-2925" pid="m/EdmundoMonteiro">Edmundo Monteiro</author>
+<title>QoS adaptation in inter-domain services.</title>
+<pages>257-264</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990699</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MatosMSM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/HagenK11" mdate="2017-05-17">
+<author pid="05/7489">Sebastian Hagen</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Towards solid IT Change Management: Automated detection of conflicting IT change plans.</title>
+<pages>265-272</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990700</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#HagenK11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Shared Resources Managemen</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/KannanB11" mdate="2017-05-17">
+<author pid="69/3706">Kalapriya Kannan</author>
+<author pid="08/6630">Anuradha Bhamidipaty</author>
+<title>Elimination based Fault Localization in shared resource environments.</title>
+<pages>273-280</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990701</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KannanB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/AlshaerE11" mdate="2020-03-27">
+<author pid="a/HAlshaer">Hamada Alshaer</author>
+<author orcid="0000-0002-3319-9103" pid="82/5029">Jaafar M. H. Elmirghani</author>
+<title>Probabilistic differentiated availability services in WDM networks protected by shared protection schemes.</title>
+<pages>281-288</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990702</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#AlshaerE11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/FrancoisASF11" mdate="2017-05-17">
+<author pid="29/6239">J&#233;r&#244;me Fran&#231;ois</author>
+<author pid="18/4593">Humberto J. Abdelnur</author>
+<author pid="05/6228">Radu State</author>
+<author pid="f/OlivierFestor">Olivier Festor</author>
+<title>PTF: Passive Temporal Fingerprinting.</title>
+<pages>289-296</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990703</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#FrancoisASF11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Resources Monitoring and Trading</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/CarvalhoG11" mdate="2017-05-17">
+<author pid="09/9978">Marcio Barbosa de Carvalho</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>Incorporating virtualization awareness in service monitoring systems.</title>
+<pages>297-304</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990704</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#CarvalhoG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/AlptekinB11" mdate="2020-03-27">
+<author orcid="0000-0003-0146-1581" pid="46/5343">G&#252;lfem Isiklar Alptekin</author>
+<author pid="55/2997">Ayse Basar Bener</author>
+<title>The impact of power management to spectrum trading.</title>
+<pages>305-312</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990705</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#AlptekinB11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>P2P Services Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/DuarteNGT11" mdate="2021-10-14">
+<author pid="61/9978">Pedro Arthur Pinheiro Rosa Duarte</author>
+<author pid="78/7495">J&#233;ferson Campos Nobre</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0002-5669-588X" pid="20/369">Liane Margarida Rockenbach Tarouco</author>
+<title>A P2P-Based self-healing service for network maintenance.</title>
+<pages>313-320</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990706</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#DuarteNGT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MansilhaBLMFGB11" mdate="2020-10-25">
+<author pid="41/2381">Rodrigo B. Mansilha</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="38/9979">Matheus B. Lehmann</author>
+<author pid="84/9978">Alan Mezzomo</author>
+<author pid="88/1326">Giovani Facchini</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Observing the BitTorrent universe through Telescopes.</title>
+<pages>321-328</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990707</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MansilhaBLMFGB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MehtaHGHKV11" mdate="2022-05-05">
+<author pid="12/9978">Anil Mehta</author>
+<author pid="39/9979">Neda Hantehzadeh</author>
+<author pid="89/1365">Vijay K. Gurbani</author>
+<author pid="22/6176">Tin Kam Ho</author>
+<author pid="62/9977">Jun Koshiko</author>
+<author pid="51/1824-2">Ramanarayanan Viswanathan 0002</author>
+<title>On the inefficacy of Euclidean classifiers for detecting self-similar Session Initiation Protocol (SIP) messages.</title>
+<pages>329-336</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990708</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MehtaHGHKV11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/UllahDBG11" mdate="2022-10-02">
+<author pid="33/7455-1">Ihsan Ullah 0001</author>
+<author pid="56/5177">Guillaume Doyen</author>
+<author orcid="0000-0001-5096-8093" pid="96/5000">Gr&#233;gory Bonnet</author>
+<author pid="38/3936">Dominique Ga&#239;ti</author>
+<title>User behavior anticipation in P2P live video streaming systems through a Bayesian network.</title>
+<pages>337-344</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990709</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#UllahDBG11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Security Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/WagenerSED11" mdate="2017-11-02">
+<author pid="64/6079">G&#233;rard Wagener</author>
+<author pid="05/6228">Radu State</author>
+<author pid="e/ThomasEngel">Thomas Engel 0001</author>
+<author pid="30/1354">Alexandre Dulaunoy</author>
+<title>Adaptive and self-configurable honeypots.</title>
+<pages>345-352</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990710</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#WagenerSED11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/ButlerJB11" mdate="2019-10-19">
+<author orcid="0000-0003-0610-0128" pid="69/3425">Bernard Butler</author>
+<author orcid="0000-0002-4945-7031" pid="72/5075">Brendan Jennings</author>
+<author pid="55/2436">Dmitri Botvich</author>
+<title>An experimental testbed to predict the performance of XACML Policy Decision Points.</title>
+<pages>353-360</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990711</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ButlerJB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/CarmoNF11" mdate="2019-09-16">
+<author pid="94/9979">Rodrigo do Carmo</author>
+<author orcid="0000-0001-8857-4436" pid="52/665">Mohamed Nassar 0001</author>
+<author pid="f/OlivierFestor">Olivier Festor</author>
+<title>Artemisa: An open-source honeypot back-end to support security in VoIP domains.</title>
+<pages>361-368</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990712</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#CarmoNF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/AlsubhiBB11" mdate="2017-05-17">
+<author pid="10/1467">Khalid Alsubhi</author>
+<author pid="01/4742">Nizar Bouabdallah</author>
+<author pid="b/RaoufBoutaba">Raouf Boutaba</author>
+<title>Performance analysis in Intrusion Detection and Prevention Systems.</title>
+<pages>369-376</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990713</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#AlsubhiBB11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Fault and Anomaly Detection</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/ReidemeisterJW11" mdate="2017-05-17">
+<author pid="93/7009">Thomas Reidemeister</author>
+<author pid="36/2112-2">Miao Jiang 0002</author>
+<author pid="24/4770">Paul A. S. Ward</author>
+<title>Mining unstructured log files for recurrent fault diagnosis.</title>
+<pages>377-384</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990536</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ReidemeisterJW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/WangVLTSS11" mdate="2017-05-17">
+<author pid="78/1760">Chengwei Wang</author>
+<author pid="86/5561">Krishnamurthy Viswanathan</author>
+<author pid="31/917">Choudur Lakshminarayan</author>
+<author pid="59/3510">Vanish Talwar</author>
+<author pid="73/9979">Wade Satterfield</author>
+<author pid="s/KarstenSchwan">Karsten Schwan</author>
+<title>Statistical techniques for online anomaly detection in data centers.</title>
+<pages>385-392</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990537</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#WangVLTSS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/Fukuda11" mdate="2017-05-17">
+<author pid="66/1199">Kensuke Fukuda</author>
+<title>On the use of weighted syslog time series for anomaly detection.</title>
+<pages>393-398</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990538</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#Fukuda11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Security Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/Roschke0M11" mdate="2017-05-17">
+<author pid="49/2421">Sebastian Roschke</author>
+<author pid="24/1795">Feng Cheng 0002</author>
+<author pid="m/CMeinel">Christoph Meinel</author>
+<title>BALG: Bypassing Application Layer Gateways using multi-staged encrypted shellcodes.</title>
+<pages>399-406</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990539</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#Roschke0M11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/YewL11" mdate="2017-05-17">
+<author pid="25/3048">Chern Har Yew</author>
+<author pid="l/HananLutfiyya">Hanan Lutfiyya</author>
+<title>A middleware-based approach to supporting trust-based service selection.</title>
+<pages>407-414</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990540</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#YewL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/RibeiroFM11" mdate="2017-05-17">
+<author pid="34/8183">Victor Pasknel de Alencar Ribeiro</author>
+<author pid="96/3717">Raimir Holanda Filho</author>
+<author pid="77/4808">Jos&#233; Everardo Bessa Maia</author>
+<title>Online traffic classification based on sub-flows.</title>
+<pages>415-421</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990541</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#RibeiroFM11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Coordination and SLA Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/FagernesC11" mdate="2017-05-17">
+<author pid="39/5875">Siri Fagernes</author>
+<author pid="15/3990">Alva L. Couch</author>
+<title>Coordination and information exchange among resource management agents.</title>
+<pages>422-429</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990542</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#FagernesC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/KimSH11" mdate="2017-05-17">
+<author pid="28/5343">Sung-Su Kim</author>
+<author pid="62/3732">John Strassner</author>
+<author pid="h/JamesWonKiHong">James Won-Ki Hong</author>
+<title>Semantic overlay network for peer-to-peer hybrid information search and retrieval.</title>
+<pages>430-437</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990543</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KimSH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/YangZAP11" mdate="2017-05-17">
+<author pid="46/999-13">Bo Yang 0013</author>
+<author pid="25/4091">Sai Zeng</author>
+<author pid="39/6032">Naga Ayachitula</author>
+<author pid="55/9978">Rajeev Puri</author>
+<title>SLA-driven applicability analysis for patch management.</title>
+<pages>438-445</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990544</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#YangZAP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MbarekCK11" mdate="2017-05-17">
+<author pid="20/2568">Nader Mbarek</author>
+<author pid="68/7208">Mohamed Aymen Chalouf</author>
+<author pid="99/5005">Francine Krief</author>
+<title>Towards global service level guarantee within autonomic computing systems.</title>
+<pages>446-453</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990545</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MbarekCK11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Routing Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/ZhangYWLQ11" mdate="2018-01-29">
+<author pid="13/5236-16">Bin Zhang 0016</author>
+<author pid="62/2814">Jiahai Yang</author>
+<author pid="82/4905">Jianping Wu</author>
+<author pid="181/2688-2">Qi Li 0002</author>
+<author pid="04/6410">Donghong Qin</author>
+<title>An efficient parallel TCAM scheme for the forwarding engine of the next-generation router.</title>
+<pages>454-461</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990546</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ZhangYWLQ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/JingLLF11" mdate="2017-05-17">
+<author pid="43/1839">Tan Jing</author>
+<author pid="l/JunzhouLuo">Junzhou Luo</author>
+<author pid="64/6025-17">Wei Li 0017</author>
+<author pid="89/1051">Shan Feng</author>
+<title>Building reliable centralized intra-domain routing in Trustworthy and Controllable Network.</title>
+<pages>462-469</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990547</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#JingLLF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/WangFP11" mdate="2018-03-21">
+<author pid="46/2005-1">Ning Wang 0001</author>
+<author pid="21/9979">Abubaker Fagear</author>
+<author pid="p/GeorgePavlou">George Pavlou</author>
+<title>Adaptive post-failure load balancing in fast reroute enabled IP networks.</title>
+<pages>470-477</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990548</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#WangFP11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>QoS Management for Time Sensitive Applications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/DabbebiBF11" mdate="2017-05-17">
+<author pid="45/8236">Oussema Dabbebi</author>
+<author pid="04/5407">Remi Badonnel</author>
+<author pid="f/OlivierFestor">Olivier Festor</author>
+<title>A broad-spectrum strategy for runtime risk management in VoIP enterprise architectures.</title>
+<pages>478-484</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990549</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#DabbebiBF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MokCC11" mdate="2017-05-17">
+<author pid="68/9978">Ricky K. P. Mok</author>
+<author pid="73/5303">Edmond W. W. Chan</author>
+<author pid="87/4986">Rocky K. C. Chang</author>
+<title>Measuring the quality of experience of HTTP video streaming.</title>
+<pages>485-492</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990550</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MokCC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/FemminellaMR11" mdate="2017-05-17">
+<author pid="31/5872">Mauro Femminella</author>
+<author pid="96/7881">Emanuele Maccherani</author>
+<author pid="31/4060">Gianluca Reali</author>
+<title>Performance management of Java-based SIP application servers.</title>
+<pages>493-500</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990551</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#FemminellaMR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/OlariuFPM11" mdate="2020-06-15">
+<author orcid="0000-0002-9852-7091" pid="64/9978">Cristian Olariu</author>
+<author pid="99/6666">M&#237;che&#225;l &#211; Foghl&#250;</author>
+<author pid="04/2368">Philip Perry</author>
+<author orcid="0000-0001-9777-005X" pid="56/753-1">Liam Murphy 0001</author>
+<title>VoIP quality monitoring in LTE femtocells.</title>
+<pages>501-508</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990552</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#OlariuFPM11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Wireless Networks</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/ThorpeMM11" mdate="2020-06-15">
+<author pid="37/9979">Christina Thorpe</author>
+<author pid="62/3802">Se&#225;n Murphy</author>
+<author orcid="0000-0001-9777-005X" pid="56/753-1">Liam Murphy 0001</author>
+<title>IEEE802.11k enabled adaptive carrier sense management mechanism (KAPCS2).</title>
+<pages>509-515</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990553</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ThorpeMM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/GielowNS11" mdate="2019-10-19">
+<author pid="98/9980">Fernando Gielow</author>
+<author orcid="0000-0001-5427-2384" pid="22/4022">Michele Nogueira</author>
+<author orcid="0000-0002-5861-4414" pid="85/7266">Aldri Luiz dos Santos</author>
+<title>Resilient approach for energy management on Hot Spots in WSNs.</title>
+<pages>516-523</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990554</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#GielowNS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/SeolK11" mdate="2017-05-17">
+<author pid="13/8209">Jae-Young Seol</author>
+<author pid="32/673">Seong-Lyun Kim</author>
+<title>Cost-efficient deployment of a wireless sensor network under dynamic spectrum sharing.</title>
+<pages>524-530</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990555</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SeolK11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Resource Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/RahmanA11" mdate="2017-05-17">
+<author pid="18/6200">Mohammad Ashiqur Rahman</author>
+<author pid="a/EhabAlShaer">Ehab Al-Shaer</author>
+<title>A declarative approach for global network security configuration verification and evaluation.</title>
+<pages>531-538</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990556</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#RahmanA11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MaWTM11" mdate="2017-05-17">
+<author pid="60/6791">Di Ma</author>
+<author pid="51/8">Liming Wang</author>
+<author pid="32/5495">Ye Tian</author>
+<author pid="51/4914">Wei Mao</author>
+<title>Host-identifier-based scheme for source accountability of the internet.</title>
+<pages>539-546</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990557</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MaWTM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/VashistMPCG11" mdate="2017-05-17">
+<author pid="88/4733">Akshay Vashist</author>
+<author pid="32/3417">Siun-Chuon Mau</author>
+<author pid="27/6261">Alexander Poylisher</author>
+<author pid="10/2201">Ritu Chadha</author>
+<author pid="48/4764">Abhrajit Ghosh</author>
+<title>Leveraging social network for predicting demand and estimating available resources for communication network management.</title>
+<pages>547-554</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990558</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#VashistMPCG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/KleinMPTSS11" mdate="2017-05-17">
+<author pid="18/6315-2">Dominik Klein 0002</author>
+<author pid="80/2984">Michael Menth</author>
+<author pid="76/1731">Rastin Pries</author>
+<author pid="t/PhuocTranGia">Phuoc Tran-Gia</author>
+<author pid="74/925">Michael Scharf</author>
+<author pid="85/5834">Michael S&#246;llner</author>
+<title>A subscription model for time-scheduled data transfers.</title>
+<pages>555-562</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990559</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KleinMPTSS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/YerimaPMM11" mdate="2019-06-02">
+<author pid="88/454">Suleiman Y. Yerima</author>
+<author orcid="0000-0002-9365-9132" pid="61/4077">Gerard P. Parr</author>
+<author orcid="0000-0002-6871-3504" pid="m/SallyIMcClean">Sally I. McClean</author>
+<author pid="21/3828">Philip J. Morrow</author>
+<title>Modelling and evaluation of a policy-based resource management framework for converged next generation networks.</title>
+<pages>563-570</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990560</ee>
+<ee>https://www.wikidata.org/entity/Q60570344</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#YerimaPMM11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>IT and Virtual Infrastructure</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/ElmiseryB11" mdate="2017-06-04">
+<author orcid="0000-0003-1077-4790" pid="60/351">Ahmed M. Elmisery</author>
+<author pid="55/2436">Dmitri Botvich</author>
+<title>Private recommendation service for IPTV systems: Protecting user profile privacy.</title>
+<pages>571-577</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990561</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ElmiseryB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/SethiSSGG11" mdate="2017-05-17">
+<author pid="29/568">Manish Sethi</author>
+<author pid="02/1507">Narendran Sachindran</author>
+<author pid="99/9980">Manoj Soni</author>
+<author pid="g/ManishGupta7">Manish Gupta 0007</author>
+<author pid="72/9977">Pratik Gupta</author>
+<title>A framework for migrating production snapshots of composite applications to virtualized environments.</title>
+<pages>578-585</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990562</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SethiSSGG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/SantosWLDGGBH11" mdate="2022-10-02">
+<author pid="11/8505">Ricardo Luis dos Santos</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0002-8118-0802" pid="95/7493">Roben Castagna Lunardi</author>
+<author orcid="0000-0002-6996-7602" pid="50/8505">Bruno Lopes Dalmazo</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/CBartolini">Claudio Bartolini</author>
+<author pid="87/6784">Marianne Hickey</author>
+<title>A solution for identifying the root cause of problems in IT change management.</title>
+<pages>586-593</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990563</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SantosWLDGGBH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/ChenZSWJY11" mdate="2017-05-17">
+<author pid="99/311-2">Ming Chen 0002</author>
+<author pid="z/HuiZhang0002">Hui Zhang 0002</author>
+<author pid="60/2464">Ya-Yunn Su</author>
+<author pid="18/5637">Xiaorui Wang</author>
+<author pid="47/4422">Guofei Jiang</author>
+<author pid="38/467">Kenji Yoshihira</author>
+<title>Effective VM sizing in virtualized data centers.</title>
+<pages>594-601</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990564</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ChenZSWJY11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/SetzerS11" mdate="2017-05-17">
+<author pid="66/3826">Thomas Setzer</author>
+<author pid="38/5098">Alexander Stage</author>
+<title>Filtering multivariate workload non-conformance in shared IT-infrastructures.</title>
+<pages>602-609</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990565</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SetzerS11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Session</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/SantanaCF11" mdate="2022-12-07">
+<author pid="42/838">&#193;damo L. de Santana</author>
+<author orcid="0000-0002-5971-3668" pid="86/1069">Diego Lisboa Cardoso</author>
+<author pid="20/6897">Carlos Renato Lisboa Franc&#234;s</author>
+<title>A bandwidth scheduler for triple play services based on fuzzy theory.</title>
+<pages>610-613</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990583</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SantanaCF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/ZhangWQL11" mdate="2017-05-17">
+<author pid="96/3115">Kun Zhang</author>
+<author pid="w/RuiWang14">Rui Wang 0014</author>
+<author pid="08/4002">Depei Qian</author>
+<author pid="26/2404">Zhongzhi Luan</author>
+<title>Enhancing cooperation with multiple stage auctions in opportunistic routing for wireless mesh networks.</title>
+<pages>614-617</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990584</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ZhangWQL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/WangWHHJL11" mdate="2020-09-16">
+<author pid="58/6576-6">Xiaofei Wang 0006</author>
+<author orcid="0000-0002-4674-7711" pid="13/4881-1">Xiaojun Wang 0001</author>
+<author pid="62/921">Chengchen Hu</author>
+<author pid="95/1050">Keqiang He</author>
+<author pid="49/8398">Junchen Jiang</author>
+<author pid="35/837-1">Bin Liu 0001</author>
+<title>Measurements on movie distribution behavior in Peer-to-Peer networks.</title>
+<pages>618-621</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990585</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#WangWHHJL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/GmachRC11" mdate="2017-05-17">
+<author pid="g/DanielGmach">Daniel Gmach</author>
+<author pid="r/JerryRolia">Jerry Rolia</author>
+<author pid="88/4130">Ludmila Cherkasova</author>
+<title>Chargeback model for resource pools in the cloud.</title>
+<pages>622-625</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990586</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#GmachRC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MakanjuZM11" mdate="2021-07-25">
+<author pid="38/4887">Adetokunbo Makanju</author>
+<author orcid="0000-0003-2796-7265" pid="z/ANZincirHeywood">A. Nur Zincir-Heywood</author>
+<author orcid="0000-0001-5549-4675" pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<title>A next generation entropy based framework for alert detection in system logs.</title>
+<pages>626-629</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990587</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MakanjuZM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/Stelte11" mdate="2017-05-17">
+<author pid="79/8275">Bj&#246;rn Stelte</author>
+<title>An event management communication system for Wireless Sensor Networks.</title>
+<pages>630-633</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990588</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#Stelte11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/GriffinLB11" mdate="2017-05-17">
+<author pid="47/8447">Leigh Griffin</author>
+<author pid="35/6583">Eamonn de Leastar</author>
+<author pid="55/2436">Dmitri Botvich</author>
+<title>Dynamic shared groups within XMPP: An investigation of the XMPP group model.</title>
+<pages>634-637</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990589</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#GriffinLB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LopesCD11" mdate="2022-06-09">
+<author pid="54/8614">Miguel Lopes</author>
+<author orcid="0000-0003-0691-1377" pid="99/6652">Ant&#243;nio Costa 0001</author>
+<author orcid="0000-0001-9135-6245" pid="39/5706">Bruno Dias</author>
+<title>Automatic and independent Domain Name Service Configuration Management.</title>
+<pages>638-641</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990644</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LopesCD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/FioreseSB11" mdate="2019-06-02">
+<author orcid="0000-0003-1140-0002" pid="62/7074">Adriano Fiorese</author>
+<author orcid="0000-0002-5079-8327" pid="00/4225">Paulo Sim&#245;es 0001</author>
+<author orcid="0000-0002-1347-0242" pid="69/3863">Fernando Boavida</author>
+<title>Performance evaluation of service searching using aggregation in peer-to-peer Service Overlay Networks.</title>
+<pages>642-645</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990645</ee>
+<ee>https://www.wikidata.org/entity/Q59159092</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#FioreseSB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BrennanEKFOFF11" mdate="2021-10-14">
+<author orcid="0000-0001-8236-362X" pid="30/625">Rob Brennan</author>
+<author pid="26/8901">Zohar Etzioni</author>
+<author pid="06/5075">John Keeney</author>
+<author pid="94/236">Kevin Feeney</author>
+<author orcid="0000-0003-1090-3548" pid="16/508">Declan O'Sullivan</author>
+<author pid="81/1948">William M. Fitzgerald</author>
+<author orcid="0000-0002-0183-1215" pid="f/SNFoley">Simon N. Foley</author>
+<title>Federated autonomic management of HAN services.</title>
+<pages>646-649</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990646</ee>
+<ee>https://www.wikidata.org/entity/Q58833259</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BrennanEKFOFF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/GregrMSP11" mdate="2017-05-17">
+<author pid="25/9557">Matej Gr&#233;gr</author>
+<author pid="56/5421">Petr Matousek</author>
+<author pid="57/3265">Miroslav Sv&#233;da</author>
+<author pid="27/9979">Tomas Podermanski</author>
+<title>Practical IPv6 monitoring-challenges and techniques.</title>
+<pages>650-653</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990647</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#GregrMSP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/JainPMP11" mdate="2017-06-04">
+<author pid="120/2749">Varsha Jain</author>
+<author orcid="0000-0002-9365-9132" pid="61/4077">Gerard P. Parr</author>
+<author pid="21/3828">Philip J. Morrow</author>
+<author pid="79/9979">Matthew Polaine</author>
+<title>Intelligent energy efficient network management across the access networks to CPE pathway.</title>
+<pages>654-657</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990648</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#JainPMP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/KeeneyCHWCSM11" mdate="2019-10-19">
+<author pid="06/5075">John Keeney</author>
+<author orcid="0000-0002-9054-9747" pid="70/1905">Owen Conlan</author>
+<author pid="64/481">Viliam Holub</author>
+<author pid="80/5294-2">Miao Wang 0002</author>
+<author pid="28/9184">Laetitia Chapel</author>
+<author pid="74/3315">Martin Serrano</author>
+<author orcid="0000-0003-0049-7320" pid="82/3243">Sven van der Meer</author>
+<title>A semantic monitoring and management framework for end-to-end services.</title>
+<pages>658-661</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990649</ee>
+<ee>https://www.wikidata.org/entity/Q64060590</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KeeneyCHWCSM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LiQQW11" mdate="2020-10-17">
+<author pid="59/2144">Juan Li</author>
+<author pid="65/7820">Yan Qiao</author>
+<author pid="13/342">Xuesong Qiu 0001</author>
+<author pid="54/9978">Guanjue Wang</author>
+<title>A new method of network bottleneck diagnosis.</title>
+<pages>662-665</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990650</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LiQQW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MagdalinosKSKA11" mdate="2022-01-03">
+<author pid="84/5799">Panagis Magdalinos</author>
+<author orcid="0000-0003-2953-3858" pid="69/4921">Apostolos Kousaridas</author>
+<author pid="38/8825">Panagiotis Spapis</author>
+<author orcid="0000-0002-3890-6583" pid="93/9926">Giorgos P. Katsikas</author>
+<author pid="46/671">Nancy Alonistioti</author>
+<title>Feedback-based learning for self-managed network elements.</title>
+<pages>666-669</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990651</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MagdalinosKSKA11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/AbaciPMMK11" mdate="2019-06-02">
+<author pid="25/9980">Huseyin Abaci</author>
+<author orcid="0000-0002-9365-9132" pid="61/4077">Gerard P. Parr</author>
+<author orcid="0000-0002-6871-3504" pid="m/SallyIMcClean">Sally I. McClean</author>
+<author pid="89/6140">Adrian Moore 0001</author>
+<author pid="146/7824">Louise Krug</author>
+<title>Dynamic bit-rate adjustment based on traffic characteristics for metro and core networks.</title>
+<pages>670-673</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990652</ee>
+<ee>https://www.wikidata.org/entity/Q60570328</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#AbaciPMMK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/InoyatovTKK11" mdate="2017-05-17">
+<author pid="26/8505">Khamidulla Inoyatov</author>
+<author pid="60/215">Shahnaza Tursunova</author>
+<author pid="93/149">Igor Kim</author>
+<author pid="02/5300">Young-Tak Kim</author>
+<title>IEEE 802.21 MIH in Linux Kernel space for cognitive and smart handovers.</title>
+<pages>674-677</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990653</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#InoyatovTKK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/YamazakiYHKTM11" mdate="2017-05-17">
+<author pid="92/9979">Masanori Yamazaki</author>
+<author pid="48/7402">Naosuke Yokoe</author>
+<author pid="25/799">Yusuke Hirota</author>
+<author pid="04/3775">Kazuhiko Kinoshita</author>
+<author pid="30/3255">Hideki Tode</author>
+<author pid="90/4990">Koso Murakami</author>
+<title>Sustainable QoS provisioning platform for network services based on flexible combination of distributed components.</title>
+<pages>678-681</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990654</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#YamazakiYHKTM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/TupakulaV11" mdate="2019-10-19">
+<author pid="76/2607">Udaya Kiran Tupakula</author>
+<author orcid="0000-0002-3621-9114" pid="v/VijayVaradharajan">Vijay Varadharajan</author>
+<title>On the design of Virtual machine Intrusion detection system.</title>
+<pages>682-685</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990655</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#TupakulaV11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/NishikawaMOA11" mdate="2017-05-17">
+<author pid="30/3856">Kenichi Nishikawa</author>
+<author pid="96/2113">Takeshi Masuda</author>
+<author pid="44/2333">Yousuke Ohno</author>
+<author pid="86/9977">Yukio Akiyama</author>
+<title>A state recognition method based on screen images toward advanced integrated operation management support.</title>
+<pages>686-689</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990656</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#NishikawaMOA11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/SalvadorANBG11" mdate="2018-11-02">
+<author pid="50/3157">Ewerton Monteiro Salvador</author>
+<author pid="34/5480">Jussara M. Almeida</author>
+<author orcid="0000-0002-1095-6714" pid="n/JoseMarcosSNogueira">Jos&#233; Marcos S. Nogueira</author>
+<author pid="05/8505">Paulo Teles Barbosa</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>A characterization study of SNMP usage patterns.</title>
+<pages>690-693</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990657</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SalvadorANBG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BouetI11" mdate="2018-11-02">
+<author orcid="0000-0003-0516-8729" pid="08/3536">Mathieu Bouet</author>
+<author pid="52/1230">Maurice Isra&#235;l</author>
+<title>INSPIRE Ontology Handler: Automatically building and managing a knowledge base for Critical Information Infrastructure protection.</title>
+<pages>694-697</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990658</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BouetI11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/Schmid11" mdate="2019-12-17">
+<author pid="69/131-4">Markus Schmid 0004</author>
+<title>An approach for autonomic performance management in SOA workflows.</title>
+<pages>698-701</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990659</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#Schmid11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BenharrefSBB11" mdate="2017-05-17">
+<author pid="56/6417">Abdelghani Benharref</author>
+<author pid="27/3573">Mohamed Adel Serhani</author>
+<author pid="32/1047">Salah Bouktif</author>
+<author pid="b/JamalBentahar">Jamal Bentahar</author>
+<title>Online monitoring for sustainable communities of Web Services.</title>
+<pages>702-705</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990660</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BenharrefSBB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/KamiyamaKMH11" mdate="2021-07-25">
+<author pid="12/4881">Noriaki Kamiyama</author>
+<author pid="13/6662">Ryoichi Kawahara</author>
+<author orcid="0000-0003-1583-4174" pid="62/6630">Tatsuya Mori</author>
+<author pid="80/6939">Haruhisa Hasegawa</author>
+<title>Limiting pre-distribution and clustering users on multicast pre-distribution VoD.</title>
+<pages>706-709</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990661</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KamiyamaKMH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/AmmalA11" mdate="2017-05-17">
+<author pid="06/9979">R. Ananthalakshmi Ammal</author>
+<author pid="18/9979">Kumar K. B. Aneesh</author>
+<title>MapReduce framework based distributed NMS architecture.</title>
+<pages>710-713</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990662</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#AmmalA11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/UrbanskiDMT11" mdate="2017-05-17">
+<author pid="92/4673">William Urbanski</author>
+<author pid="17/6775">Matthew Dunlop</author>
+<author pid="m/RandyCMarchany">Randy C. Marchany</author>
+<author pid="75/2821">Joseph G. Tront</author>
+<title>Cover-VT: Converged Security Visualization Tool.</title>
+<pages>714-717</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990663</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#UrbanskiDMT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/XuSWJ11" mdate="2018-08-08">
+<author pid="19/360-4">Lei Xu 0004</author>
+<author pid="29/563-8">Lei Shi 0008</author>
+<author pid="32/9980">Runxin Wang</author>
+<author orcid="0000-0002-4945-7031" pid="72/5075">Brendan Jennings</author>
+<title>A multiple criteria service composition selection algorithm supporting time-sensitive rules.</title>
+<pages>718-721</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990664</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#XuSWJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/KamelBRR11" mdate="2022-06-23">
+<author pid="90/1451">Michel Kamel</author>
+<author pid="17/1645">Karima Boudaoud</author>
+<author pid="95/9977">Stassia Resondry</author>
+<author orcid="0000-0001-6726-6637" pid="62/1718">Michel Riveill</author>
+<title>A low-energy consuming and user-centric security management architecture adapted to mobile environments.</title>
+<pages>722-725</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990665</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KamelBRR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/Fan11" mdate="2017-05-17">
+<author pid="50/4839">Zhong Fan</author>
+<title>Distributed demand response and user adaptation in smart grids.</title>
+<pages>726-729</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990666</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#Fan11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>IT and Advanced Service Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/AslamGMRP11" mdate="2020-10-25">
+<author pid="63/8281">Muhammad Sohaib Aslam</author>
+<author pid="11/8195">Antony Guinard</author>
+<author pid="84/1182">Alan McGibney</author>
+<author orcid="0000-0002-4388-661X" pid="45/4280">Susan Rea</author>
+<author orcid="0000-0001-9706-5705" pid="25/1850">Dirk Pesch</author>
+<title>Wi-design, Wi-manage, why bother?</title>
+<pages>730-744</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990597</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#AslamGMRP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LinTM11" mdate="2017-05-17">
+<author pid="32/6067">Shyyunn Sheran Lin</author>
+<author pid="01/9981">Gregory S. Thompson</author>
+<author pid="74/9979">Viren Malaviya</author>
+<title>Embedded approach for device inventory collection utilizing OS programmability.</title>
+<pages>745-759</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990598</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LinTM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/PretoriusGI11" mdate="2017-05-17">
+<author pid="60/8864">Maria Pretorius</author>
+<author pid="61/197">Mona Ghassemian</author>
+<author pid="96/8863">C. Ierotheou</author>
+<title>Virtualisation - Securing a greener tomorrow with yesteryear' technology.</title>
+<pages>760-772</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990599</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#PretoriusGI11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/AnerousisDH11" mdate="2017-05-17">
+<author pid="a/NikosAnerousis">Nikos Anerousis</author>
+<author pid="48/6719">Yixin Diao</author>
+<author pid="27/5712">Aliza Heching</author>
+<title>The cost of service quality in IT Outsourcing.</title>
+<pages>773-784</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990600</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#AnerousisDH11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Emerging Management Technologies</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/AcharyaSB11" mdate="2017-05-17">
+<author pid="13/5809">Arup Acharya</author>
+<author pid="80/930">Shachi Sharma</author>
+<author pid="17/4919">Nilanjan Banerjee</author>
+<title>Presence based network topology tracing system for VoIP networks.</title>
+<pages>785-799</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990601</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#AcharyaSB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LahmadiNF11" mdate="2017-05-17">
+<author pid="49/5526">Abdelkader Lahmadi</author>
+<author pid="11/1471">Emmanuel Nataf</author>
+<author pid="f/OlivierFestor">Olivier Festor</author>
+<title>YANG-based configuration modeling - The SecSIP IPS case study -.</title>
+<pages>800-811</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990490</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LahmadiNF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/WacH11" mdate="2020-03-27">
+<author orcid="0000-0002-8060-399X" pid="79/6635">Katarzyna Wac</author>
+<author pid="76/3287">David Hausheer</author>
+<title>COPD24: From Future Internet technologies to health telemonitoring and teletreatment application.</title>
+<pages>812-826</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990491</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#WacH11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Distributed Control and SON</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/BandhRST11" mdate="2017-05-17">
+<author pid="97/4032">Tobias Bandh</author>
+<author pid="78/6302">Raphael Romeikat</author>
+<author pid="78/1417">Henning Sanneck</author>
+<author pid="93/1244">Haitao Tang</author>
+<title>Policy-based coordination and management of SON functions.</title>
+<pages>827-840</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990492</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BandhRST11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/SzilagyiS11" mdate="2017-05-17">
+<author pid="05/2204">P&#233;ter Szil&#225;gyi</author>
+<author pid="78/1417">Henning Sanneck</author>
+<title>LTE relay node self-configuration.</title>
+<pages>841-855</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990493</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SzilagyiS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/RiggioGFZRJ11" mdate="2020-06-15">
+<author orcid="0000-0002-8329-2779" pid="04/2612">Roberto Riggio</author>
+<author orcid="0000-0002-1001-8242" pid="83/9975">Matteo Gerola</author>
+<author pid="96/71">Antonio Francescon</author>
+<author pid="06/1853">Andrea Zanardi</author>
+<author pid="37/5947">Tinku Rasheed</author>
+<author pid="87/6768">Fran&#231;ois Jan</author>
+<title>Network topology visualization and monitoring for multi-hop wireless networks.</title>
+<pages>856-870</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990494</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#RiggioGFZRJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BasharPMSN11" mdate="2021-10-14">
+<author orcid="0000-0001-5567-6444" pid="28/8371">Abul Bashar</author>
+<author orcid="0000-0002-9365-9132" pid="61/4077">Gerard Parr</author>
+<author orcid="0000-0002-6871-3504" pid="m/SallyIMcClean">Sally I. McClean</author>
+<author pid="42/250">Bryan W. Scotney</author>
+<author pid="n/DetlefDNauck">Detlef D. Nauck</author>
+<title>Novel distributed call admission control solution based on machine learning approach.</title>
+<pages>871-881</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990495</ee>
+<ee>https://www.wikidata.org/entity/Q60570346</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BasharPMSN11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Service Assurance</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/SanchezCMFPSB11" mdate="2017-05-17">
+<author pid="49/8275">Antonio Cuadra S&#225;nchez</author>
+<author pid="120/3975">Maria del Mar Cutanda-Rodr&#237;guez</author>
+<author pid="18/9978">Rosa Maria Martinez</author>
+<author pid="91/9977">Olga Fernandez</author>
+<author pid="59/9979">Silvia Prieto</author>
+<author pid="10/9978">Salvador Serrano</author>
+<author pid="83/9979">Jose Carlos Barbadillo</author>
+<title>OMEGA-Q: A platform for measuring, troubleshooting and monitoring the quality of IPTV services.</title>
+<pages>882-895</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990496</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SanchezCMFPSB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MullarkeyJR11" mdate="2023-02-18">
+<author pid="56/412">Peter W. Mullarkey</author>
+<author pid="80/9979">Mike Johns</author>
+<author pid="63/9979">Shaun Rooney</author>
+<title>Discovering anomalous behavior in large networked systems.</title>
+<pages>896-910</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990498</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MullarkeyJR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LiFCLC11" mdate="2022-08-11">
+<author pid="94/1464-1">Weichao Li 0001</author>
+<author pid="00/8970">Waiting W. T. Fok</author>
+<author pid="73/5303">Edmond W. W. Chan</author>
+<author orcid="0000-0002-9082-3208" pid="53/1565">Xiapu Luo</author>
+<author orcid="0000-0002-2648-5814" pid="87/4986">Rocky K. C. Chang</author>
+<title>Planetopus: A system for facilitating collaborative network monitoring.</title>
+<pages>911-924</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990499</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LiFCLC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/RoxburghSG11" mdate="2017-05-17">
+<author pid="06/2945">David Roxburgh</author>
+<author pid="83/9978">Daniel Spaven</author>
+<author pid="16/9980">Craig Gallen</author>
+<title>Monitoring as an SLA-oriented consumable service for SaaS assurance: A prototype.</title>
+<pages>925-939</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990500</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#RoxburghSG11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Dissertation Digest</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/MacedoNP11" mdate="2018-11-02">
+<author pid="74/2460">Daniel F. Macedo</author>
+<author orcid="0000-0002-1095-6714" pid="n/JoseMarcosSNogueira">Jos&#233; Marcos S. Nogueira</author>
+<author pid="33/592">Guy Pujolle</author>
+<title>Self-configuration of wireless multi-hop networks.</title>
+<pages>940-945</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990526</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MacedoNP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/FiorezeP11" mdate="2017-05-17">
+<author pid="55/6893">Tiago Fioreze</author>
+<author pid="p/AikoPras">Aiko Pras</author>
+<title>Self-management of hybrid optical and packet switching networks.</title>
+<pages>946-951</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990527</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#FiorezeP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MorariuS11" mdate="2017-05-17">
+<author pid="86/4847">Cristian Morariu</author>
+<author pid="00/4292">Burkhard Stiller</author>
+<title>An open architecture for distributed IP traffic analysis (DITA).</title>
+<pages>952-957</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990528</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MorariuS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/SperottoP11" mdate="2018-11-02">
+<author orcid="0000-0002-9481-5846" pid="59/2521">Anna Sperotto</author>
+<author pid="p/AikoPras">Aiko Pras</author>
+<title>Flow-based intrusion detection.</title>
+<pages>958-963</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990529</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SperottoP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BartoliniS11" mdate="2017-05-17">
+<author pid="b/CBartolini">Claudio Bartolini</author>
+<author pid="19/4945">Cesare Stefanelli</author>
+<title>Business-driven IT management.</title>
+<pages>964-969</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990530</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BartoliniS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/WuhibS11" mdate="2017-05-17">
+<author pid="71/6704">Fetahi Wuhib</author>
+<author pid="s/RolfStadler">Rolf Stadler</author>
+<title>Distributed monitoring and resource management for large cloud environments.</title>
+<pages>970-975</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990531</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#WuhibS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MarquezanG11" mdate="2017-05-17">
+<author pid="70/345">Clarissa Cassales Marquezan</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>On the investigation of the joint use of self-* properties and Peer-To-Peer for network management.</title>
+<pages>976-981</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990532</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MarquezanG11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>6th IFIP/IEEE International Workshop on Broadband Convergence Networks (BcN 2011)</h2> 
+<h3>Broadband Convergence Services</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/BoschDPW11" mdate="2017-05-17">
+<author pid="40/6589">Peter Bosch</author>
+<author pid="73/6352">Alessandro Duminuco</author>
+<author pid="71/1916">Fabio Pianese</author>
+<author pid="15/4322">Thomas L. Wood</author>
+<title>Telco clouds and Virtual Telco: Consolidation, convergence, and beyond.</title>
+<pages>982-988</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990511</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BoschDPW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/GotohYTK11" mdate="2017-05-17">
+<author pid="02/444">Yusuke Gotoh</author>
+<author pid="65/177">Tomoki Yoshihisa</author>
+<author pid="49/1532">Hideo Taniguchi</author>
+<author pid="95/2931">Masanori Kanazawa</author>
+<title>A method to reduce interruption time considering number of clients on broadcast and communications integration environments.</title>
+<pages>989-996</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990512</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#GotohYTK11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/KimK11" mdate="2017-05-17">
+<author pid="93/149">Igor Kim</author>
+<author pid="02/5300">Young-Tak Kim</author>
+<title>Performance evaluation and improvement of TCP throughput over PFMIPv6 with MIH.</title>
+<pages>997-1004</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990513</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KimK11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Broadband Convergence Networking</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/ToniRAF11" mdate="2017-10-14">
+<author orcid="0000-0002-8441-8791" pid="81/7871">Laura Toni</author>
+<author pid="75/8108-2">Lorenzo Rossi 0002</author>
+<author pid="14/2269">Nazim Agoulmine</author>
+<author pid="02/4932">Jean-Guy Fontaine</author>
+<title>Joint source channel coding optimization for heterogeneous access networks in multiuser scenario.</title>
+<pages>1005-1012</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990514</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ToniRAF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MoradpoorPMSO11" mdate="2019-06-02">
+<author orcid="0000-0002-8709-2678" pid="155/4213">Naghmeh Moradpoor</author>
+<author orcid="0000-0002-9365-9132" pid="61/4077">Gerard P. Parr</author>
+<author orcid="0000-0002-6871-3504" pid="m/SallyIMcClean">Sally I. McClean</author>
+<author pid="42/250">Bryan W. Scotney</author>
+<author pid="46/2705">Gilbert Owusu</author>
+<title>Hybrid optical and wireless technology integrations for next generation broadband access networks.</title>
+<pages>1013-1020</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990515</ee>
+<ee>https://www.wikidata.org/entity/Q60570336</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MoradpoorPMSO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/CherkaouiANTF11" mdate="2017-09-16">
+<author pid="89/9979">El Hadi Cherkaoui</author>
+<author pid="14/2269">Nazim Agoulmine</author>
+<author pid="08/4656">Thinh Nguyen</author>
+<author orcid="0000-0002-8441-8791" pid="81/7871">Laura Toni</author>
+<author pid="02/4932">Jean-Guy Fontaine</author>
+<title>Taking advantage of the diversity in wireless access networks: On the simulation of a user centric approach.</title>
+<pages>1021-1028</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990516</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#CherkaouiANTF11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/VoSH11" mdate="2021-04-09">
+<author pid="00/9981">Phuong Luu Vo</author>
+<author pid="92/1635">Muhammad Shoaib Siddiqui</author>
+<author orcid="0000-0003-3484-7333" pid="73/1778">Choong Seon Hong</author>
+<title>The node-centric formulation for network utility maximization of multihop wireless networks with elastic and inelastic traffic.</title>
+<pages>1029-1034</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990517</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#VoSH11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>6th IFIP/IEEE International Workshop on Business-driven IT Management (BDIM 2011)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/BochicchioLM11a" mdate="2017-06-15">
+<author orcid="0000-0002-9122-6317" pid="94/1328">Mario A. Bochicchio</author>
+<author orcid="0000-0002-6902-0160" pid="68/606">Antonella Longo</author>
+<author pid="01/9980">Caterina Mansueto</author>
+<title>Contract Management for Cloud Services: Information modelling aspects.</title>
+<pages>1035-1042</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990501</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BochicchioLM11a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MarcuS11" mdate="2017-05-17">
+<author pid="21/6287">Patricia Marcu</author>
+<author pid="75/5600">Thomas Schaaf</author>
+<title>An information model for inter-organizational fault management.</title>
+<pages>1043-1049</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990502</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MarcuS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/RichterS11" mdate="2017-05-17">
+<author pid="83/2886">Christian Richter</author>
+<author pid="75/5600">Thomas Schaaf</author>
+<title>A maturity model for tool landscapes of IT service providers.</title>
+<pages>1050-1057</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990503</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#RichterS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/TsarouchisOL11" mdate="2021-10-14">
+<author pid="20/4802">Christos Tsarouchis</author>
+<author orcid="0000-0003-1090-3548" pid="16/508">Declan O'Sullivan</author>
+<author orcid="0000-0002-3503-4644" pid="80/6593-1">David Lewis 0001</author>
+<title>A study in the expressiveness of semantically different policy modelling schemes.</title>
+<pages>1058-1061</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990504</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#TsarouchisOL11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LindnerMMR11" mdate="2017-05-17">
+<author pid="25/3555">Maik A. Lindner</author>
+<author pid="66/9980">Fiona McDonald</author>
+<author pid="92/9977">Barry McLarnon</author>
+<author pid="67/4536">Philip Robinson</author>
+<title>Towards automated business-driven indication and mitigation of VM sprawl in Cloud supply chains.</title>
+<pages>1062-1065</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990505</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LindnerMMR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/ReidemeisterJW11a" mdate="2017-05-17">
+<author pid="93/7009">Thomas Reidemeister</author>
+<author pid="36/2112-2">Miao Jiang 0002</author>
+<author pid="24/4770">Paul A. S. Ward</author>
+<title>Learning to self-recover.</title>
+<pages>1066-1069</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990506</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ReidemeisterJW11a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/FitoG11" mdate="2019-06-02">
+<author pid="77/8384">Josep Oriol Fit&#243;</author>
+<author orcid="0000-0003-0751-3100" pid="81/5135">Jordi Guitart</author>
+<title>Initial thoughts on business-driven IT management challenges in Cloud computing providers.</title>
+<pages>1070-1073</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990507</ee>
+<ee>https://www.wikidata.org/entity/Q61732526</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#FitoG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/KnittlB11" mdate="2020-10-25">
+<author orcid="0000-0001-9507-8713" pid="34/3304">Silvia Knittl</author>
+<author pid="01/4558-2">Michael Brenner 0002</author>
+<title>Towards a Configuration Management System for hybrid cloud deployments.</title>
+<pages>1074-1077</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990508</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#KnittlB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/Hauser11" mdate="2017-05-17">
+<author pid="48/9465">Michael Hauser</author>
+<title>Towards adopting a tooldriven, integrated and automated change management process for virtual machine provisioning.</title>
+<pages>1078-1081</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990509</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#Hauser11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BartoliniST11" mdate="2017-06-04">
+<author pid="b/CBartolini">Claudio Bartolini</author>
+<author pid="19/4945">Cesare Stefanelli</author>
+<author orcid="0000-0002-7417-4455" pid="65/1897">Mauro Tortonesi</author>
+<title>On decision making in business-driven IT management.</title>
+<pages>1082-1088</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990510</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BartoliniST11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>4th IFIP/IEEE Distributed Autonomous Network Management Systems Workshop (DANMS 2011)</h2> 
+<h3>OTT Services and Service Management</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/PauwVTO11" mdate="2017-06-04">
+<author pid="61/8297">Tim De Pauw</author>
+<author orcid="0000-0003-0575-5894" pid="56/3545">Bruno Volckaert</author>
+<author pid="30/888">Filip De Turck</author>
+<author pid="78/8297">Veerle Ongenae</author>
+<title>On the design of a flexible software platform for in-building OTT service provisioning.</title>
+<pages>1089-1094</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990518</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#PauwVTO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LimaSCOSM11" mdate="2021-06-15">
+<author pid="142/4632">Alberto Sampaio Lima</author>
+<author orcid="0000-0002-2980-8877" pid="02/4334">Jos&#233; Neuman de Souza</author>
+<author pid="38/2140">Arthur de Castro Callado</author>
+<author pid="06/8505">J. Augusto Oliveira</author>
+<author pid="s/JacquesPhilippeSauve">Jacques Philippe Sauv&#233;</author>
+<author pid="31/3704">Ant&#227;o Moura</author>
+<title>A business-driven IT services improvement model.</title>
+<pages>1095-1102</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990519</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LimaSCOSM11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Autonomics in Management</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/JohnssonMAT11" mdate="2018-11-14">
+<author pid="86/1402">Andreas Johnsson</author>
+<author orcid="0000-0002-6153-2380" pid="33/3168">Catalin Meirosu</author>
+<author pid="56/9980">Navid Anjum</author>
+<author pid="95/9978">Amir Tirdad</author>
+<title>Towards automatic provisioning and validation of Ethernet services over transport networks.</title>
+<pages>1103-1108</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990520</ee>
+<ee>https://www.wikidata.org/entity/Q57804316</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#JohnssonMAT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/TauberKD11" mdate="2018-11-14">
+<author pid="56/8261">Markus Tauber</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Autonomic management of client concurrency in a distributed storage service.</title>
+<pages>1109-1115</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990521</ee>
+<ee>https://www.wikidata.org/entity/Q57728854</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#TauberKD11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/McLarnonRMS11" mdate="2017-05-17">
+<author pid="92/9977">Barry McLarnon</author>
+<author pid="67/4536">Philip Robinson</author>
+<author pid="25/434">Peter Milligan</author>
+<author pid="80/4748">Paul Sage</author>
+<title>Introducing automated management through iteratively increased automation and indicators.</title>
+<pages>1116-1121</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990522</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#McLarnonRMS11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Monitoring, Modeling and Theoretical Frameworks</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/FallonH11" mdate="2017-05-17">
+<author pid="91/5728">Liam Fallon</author>
+<author pid="77/5430">Yangcheng Huang</author>
+<title>GSQR: A generic service quality reporting protocol for terminals.</title>
+<pages>1122-1128</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990523</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#FallonH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/Wallin11" mdate="2017-05-17">
+<author pid="77/1873">Stefan Wallin</author>
+<title>UML visualization of YANG models.</title>
+<pages>1129-1134</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990524</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#Wallin11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/MakhloufiDBG11" mdate="2022-10-02">
+<author pid="60/7454">Rafik Makhloufi</author>
+<author pid="56/5177">Guillaume Doyen</author>
+<author orcid="0000-0001-5096-8093" pid="96/5000">Gr&#233;gory Bonnet</author>
+<author pid="38/3936">Dominique Ga&#239;ti</author>
+<title>Situated vs. global aggregation schemes for autonomous management systems.</title>
+<pages>1135-1139</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990525</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MakhloufiDBG11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>1st IFIP/IEEE Workshop on Managing Federations and Cooperative Management Workshop (ManFed.CoM 2011)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/Tranoris11" mdate="2019-09-25">
+<author orcid="0000-0002-3433-037X" pid="08/853">Christos Tranoris</author>
+<title>Adopting the DSM paradigm: Defining federation scenarios through resource brokers for experimentally driven research.</title>
+<pages>1140-1147</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990574</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#Tranoris11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BrennanFWTO11" mdate="2021-10-14">
+<author orcid="0000-0001-8236-362X" pid="30/625">Rob Brennan</author>
+<author pid="94/236">Kevin Feeney</author>
+<author pid="25/11424">Brian Walshe</author>
+<author pid="67/5173">Hendrik Thomas</author>
+<author orcid="0000-0003-1090-3548" pid="16/508">Declan O'Sullivan</author>
+<title>Explicit federal relationship management to support semantic integration.</title>
+<pages>1148-1155</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990575</ee>
+<ee>https://www.wikidata.org/entity/Q58833255</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BrennanFWTO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BaudeC11" mdate="2017-05-17">
+<author pid="03/1165">Fran&#231;oise Baude</author>
+<author pid="90/1364">Virginie Legrand Contes</author>
+<title>A component-based orchestration management framework for multidomain SOA.</title>
+<pages>1156-1163</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990576</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BaudeC11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/Akashi11" mdate="2017-05-17">
+<author pid="65/462">Osamu Akashi</author>
+<title>Analysis of cooperative management strategies against route-hijacking.</title>
+<pages>1164-1171</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990577</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#Akashi11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/ZhengMLM11" mdate="2020-03-27">
+<author pid="73/8385">Xingyu Zheng</author>
+<author orcid="0000-0003-1064-5948" pid="44/4683">Patrick Maill&#233;</author>
+<author pid="54/7291">Cam Tu Phan Le</author>
+<author pid="56/8380">Stephane Morucci</author>
+<title>Improving the efficiency of collaborative work with trust management.</title>
+<pages>1172-1179</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990578</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#ZhengMLM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/BarronDJ11" mdate="2017-06-04">
+<author pid="43/8636">Jason Barron</author>
+<author orcid="0000-0002-3300-1152" pid="70/6828">Steven Davy</author>
+<author orcid="0000-0002-4945-7031" pid="72/5075">Brendan Jennings</author>
+<title>Conflict analysis during authoring of management policies for federations.</title>
+<pages>1180-1187</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990579</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#BarronDJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/HollriglKDH11" mdate="2018-11-24">
+<author orcid="0000-0001-6080-464X" pid="75/2613">Thorsten H&#246;llrigl</author>
+<author pid="34/9064">Holger K&#252;hner</author>
+<author pid="30/546">Jochen Dinger</author>
+<author pid="25/2112">Hannes Hartenstein</author>
+<title>Extension for information card systems to achieve User-Controlled Automated Identity Delegation.</title>
+<pages>1188-1191</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990580</ee>
+<ee>https://www.wikidata.org/entity/Q58332962</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#HollriglKDH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/FoleyA11" mdate="2018-11-02">
+<author orcid="0000-0002-0183-1215" pid="f/SNFoley">Simon N. Foley</author>
+<author pid="73/9977">Wayne Mac Adams</author>
+<title>Trust management of XMPP federation.</title>
+<pages>1192-1195</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990581</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#FoleyA11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/WahleMFP11" mdate="2017-05-17">
+<author pid="85/7608">Sebastian Wahle</author>
+<author pid="47/2348">Thomas Magedanz</author>
+<author pid="96/9979">Shane Fox</author>
+<author pid="10/5296">Eamonn Power</author>
+<title>Heterogeous resource description and management in generic resource federation frameworks.</title>
+<pages>1196-1199</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990582</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#WahleMFP11</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>3rd IEEE/IFIP International Workshop on Management of the Future Internet (ManFI 2011)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/im/JohnssonJB11" mdate="2017-06-04">
+<author pid="92/3716">Martin Johnsson</author>
+<author orcid="0000-0002-4945-7031" pid="72/5075">Brendan Jennings</author>
+<author pid="55/2436">Dmitri Botvich</author>
+<title>Inherently self-managed networks: Requirements, properties and an initial model.</title>
+<pages>1200-1207</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990566</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#JohnssonJB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/RiggioGMZJ11" mdate="2020-06-15">
+<author orcid="0000-0002-8329-2779" pid="04/2612">Roberto Riggio</author>
+<author orcid="0000-0002-1001-8242" pid="83/9975">Matteo Gerola</author>
+<author pid="52/6570">Daniele Miorandi</author>
+<author pid="06/1853">Andrea Zanardi</author>
+<author pid="87/6768">Fran&#231;ois Jan</author>
+<title>A distributed network monitoring framework for wireless networks.</title>
+<pages>1208-1215</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990567</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#RiggioGMZJ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/CherukuriLBSM11" mdate="2017-08-23">
+<author pid="03/9981">Ramkumar Cherukuri</author>
+<author pid="13/5407-2">Xuan Liu 0002</author>
+<author pid="98/2846">Andy C. Bavier</author>
+<author pid="65/5400">James P. G. Sterbenz</author>
+<author pid="m/DeepMedhi">Deep Medhi</author>
+<title>Network virtualization in GpENI: Framework, implementation &#38; integration experience.</title>
+<pages>1216-1223</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990568</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#CherukuriLBSM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/HausheerPWS11" mdate="2017-05-17">
+<author pid="76/3287">David Hausheer</author>
+<author pid="67/4067">Abhay Parekh</author>
+<author pid="w/JeanCWalrand">Jean C. Walrand</author>
+<author pid="45/8816">Galina Schwartz</author>
+<title>Towards a compelling new Internet platform.</title>
+<pages>1224-1227</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990569</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#HausheerPWS11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/SeoKKH11" mdate="2021-04-09">
+<author pid="20/3049">Sin-Seok Seo</author>
+<author pid="67/8636">Arum Kwon</author>
+<author orcid="0000-0001-7143-0364" pid="63/5816">Joon-Myung Kang</author>
+<author pid="h/JamesWonKiHong">James Won-Ki Hong</author>
+<title>OSLAM: Towards ontology-based SLA management for IPTV services.</title>
+<pages>1228-1234</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990570</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#SeoKKH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/LymberopoulosGPKAHLM11" mdate="2022-10-02">
+<author pid="72/271">Leonidas Lymberopoulos</author>
+<author orcid="0000-0003-4600-9812" pid="50/3218">Paola Grosso</author>
+<author pid="56/9978">Chrysa Papagianni</author>
+<author orcid="0000-0002-9550-0088" pid="03/1583">Dimitrios Kalogeras</author>
+<author pid="40/2189">Georgios Androulidakis</author>
+<author orcid="0000-0002-5685-8714" pid="30/4433">Jeroen van der Ham</author>
+<author pid="d/CeesTAMdeLaat">Cees de Laat</author>
+<author pid="m/BasilSMaglaris">Vasilis Maglaris</author>
+<title>Managing federations of virtualized infrastructures: A semantic-aware policy based approach.</title>
+<pages>1235-1242</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990571</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#LymberopoulosGPKAHLM11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/RoobroeckLWT11" mdate="2017-05-17">
+<author pid="29/9980">Klaas Roobroeck</author>
+<author pid="23/2276">Steven Latr&#233;</author>
+<author pid="43/1771">Tim Wauters</author>
+<author pid="30/888">Filip De Turck</author>
+<title>Optimized network utilisation through buffering in PCN enabled multimedia access networks.</title>
+<pages>1243-1249</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990572</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#RoobroeckLWT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/im/PeoplesPM11" mdate="2019-06-02">
+<author pid="11/5488">Cathryn Peoples</author>
+<author orcid="0000-0002-9365-9132" pid="61/4077">Gerard Parr</author>
+<author orcid="0000-0002-6871-3504" pid="m/SallyIMcClean">Sally I. McClean</author>
+<title>Context-aware characterisation of energy consumption in data centres.</title>
+<pages>1250-1257</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990573</ee>
+<ee>https://www.wikidata.org/entity/Q60570323</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#PeoplesPM11</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

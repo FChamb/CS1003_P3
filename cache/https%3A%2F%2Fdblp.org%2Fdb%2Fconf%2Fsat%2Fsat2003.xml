@@ -1,0 +1,494 @@
+<bht key="db/conf/sat/sat2003.bht" title="Theory and Applications of Satisfiability Testing 2003">  
+<h1>6th <ref href="db/conf/sat/index.html">SAT</ref> 2003:
+Santa Margherita Ligure, Italy</h1> <dblpcites><r><proceedings key="conf/sat/2003" mdate="2019-05-14">
+<editor pid="g/EnricoGiunchiglia">Enrico Giunchiglia</editor>
+<editor pid="35/5174">Armando Tacchella</editor>
+<title>Theory and Applications of Satisfiability Testing, 6th International Conference, SAT 2003. Santa Margherita Ligure, Italy, May 5-8, 2003 Selected Revised Papers</title>
+<booktitle>SAT</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2919</volume>
+<publisher>Springer</publisher>
+<year>2004</year>
+<isbn>3-540-20851-8</isbn>
+<ee>https://doi.org/10.1007/b95238</ee>
+<ee>https://www.wikidata.org/entity/Q56039662</ee>
+<url>db/conf/sat/sat2003.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/DransfieldMT03" mdate="2017-05-23">
+<author pid="28/4905">Michael R. Dransfield</author>
+<author pid="m/VictorWMarek">V. Wiktor Marek</author>
+<author pid="t/MiroslawTruszczynski">Miroslaw Truszczynski</author>
+<title>Satisfiability and Computing van der Waerden Numbers.</title>
+<pages>1-13</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_1</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#DransfieldMT03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Chen03" mdate="2017-05-23">
+<author pid="83/3627">Hubie Chen</author>
+<title>An Algorithm for SAT Above the Threshold.</title>
+<pages>14-24</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_2</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#Chen03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/GentGNRT03" mdate="2022-10-02">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0001-5758-2556" pid="g/EnricoGiunchiglia">Enrico Giunchiglia</author>
+<author pid="42/105">Massimo Narizzano</author>
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<author orcid="0000-0001-9487-331X" pid="35/5174">Armando Tacchella</author>
+<title>Watched Data Structures for QBF Solvers.</title>
+<pages>25-36</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_3</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#GentGNRT03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/GoldbergN03" mdate="2017-05-23">
+<author pid="g/EugeneGoldberg">Eugene Goldberg</author>
+<author pid="25/5481">Yakov Novikov</author>
+<title>How Good Can a Resolution Based SAT-solver Be?</title>
+<pages>37-52</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_4</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#GoldbergN03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/LiSB03" mdate="2017-05-23">
+<author pid="23/2160">Xiao Yu Li</author>
+<author pid="00/5524">Matthias F. M. Stallmann</author>
+<author pid="53/1366">Franc Brglez</author>
+<title>A Local Search SAT Solver Using an Effective Switching Strategy and an Efficient Unit Propagation.</title>
+<pages>53-68</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_5</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#LiSB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/HanataniHI03" mdate="2017-05-23">
+<author pid="93/1398">Youichi Hanatani</author>
+<author pid="87/5311">Takashi Horiyama</author>
+<author pid="65/4683">Kazuo Iwama</author>
+<title>Density Condensation of Boolean Formulas.</title>
+<pages>69-77</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_6</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#HanataniHI03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/ClarkeTVW03" mdate="2017-05-23">
+<author pid="c/EdmundMClarke">Edmund M. Clarke</author>
+<author pid="37/913">Muralidhar Talupur</author>
+<author pid="v/HelmutVeith">Helmut Veith</author>
+<author pid="40/3934">Dong Wang</author>
+<title>SAT Based Predicate Abstraction for Hardware Verification.</title>
+<pages>78-92</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_7</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#ClarkeTVW03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BuningSZ03" mdate="2017-05-23">
+<author pid="k/HKleineBuning">Hans Kleine B&#252;ning</author>
+<author pid="s/KSubramani">K. Subramani</author>
+<author pid="52/3862">Xishun Zhao</author>
+<title>On Boolean Models for Quantified Boolean Horn Formulas.</title>
+<pages>93-104</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_8</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BuningSZ03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Prestwich03" mdate="2022-02-07">
+<author pid="56/661">Steven D. Prestwich</author>
+<title>Local Search on SAT-encoded Colouring Problems.</title>
+<pages>105-119</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_9</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#Prestwich03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/SemerjianM03" mdate="2017-05-23">
+<author pid="60/5170">Guilhem Semerjian</author>
+<author pid="75/5766">R&#233;mi Monasson</author>
+<title>A Study of Pure Random Walk on Random Satisfiability Problems with &#34;Physical&#34; Methods.</title>
+<pages>120-134</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_10</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#SemerjianM03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/MaarenN03" mdate="2017-05-23">
+<author pid="m/HansvanMaaren">Hans van Maaren</author>
+<author pid="22/2873">Linda van Norden</author>
+<title>Hidden Threshold Phenomena for Fixed-Density SAT-formulae.</title>
+<pages>135-149</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_11</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#MaarenN03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BaumerS03" mdate="2017-05-23">
+<author pid="23/2562">Sven Baumer</author>
+<author pid="s/RainerSchuler">Rainer Schuler</author>
+<title>Improving a Probabilistic 3-SAT Algorithm by Dynamic Search and Independent Clause Pairs.</title>
+<pages>150-161</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_12</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BaumerS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BroeringL03" mdate="2017-05-23">
+<author pid="21/6136">Elizabeth Broering</author>
+<author pid="52/5972">Satyanarayana V. Lokam</author>
+<title>Width-Based Algorithms for SAT and CIRCUIT-SAT: (Extended Abstract).</title>
+<pages>162-171</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_13</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BroeringL03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/PorschenRS03" mdate="2017-05-23">
+<author pid="80/4747">Stefan Porschen</author>
+<author pid="00/735">Bert Randerath</author>
+<author pid="s/EwaldSpeckenmeyer">Ewald Speckenmeyer</author>
+<title>Linear Time Algorithms for Some Not-All-Equal Satisfiability Problems.</title>
+<pages>172-187</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_14</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#PorschenRS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Szeider03" mdate="2017-05-23">
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<title>On Fixed-Parameter Tractable Parameterizations of SAT.</title>
+<pages>188-202</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_15</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#Szeider03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Parisi03" mdate="2017-05-23">
+<author pid="39/2199">Giorgio Parisi</author>
+<title>On the Probabilistic Approach to the Random Satisfiability Problem.</title>
+<pages>203-213</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_16</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#Parisi03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/EglySTWZ03" mdate="2017-05-23">
+<author pid="e/UweEgly">Uwe Egly</author>
+<author pid="75/2935">Martina Seidl</author>
+<author pid="t/HansTompits">Hans Tompits</author>
+<author pid="39/6130">Stefan Woltran</author>
+<author pid="80/1756">Michael Zolda</author>
+<title>Comparing Different Prenexing Strategies for Quantified Boolean Formulas.</title>
+<pages>214-228</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_17</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#EglySTWZ03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Bruni03" mdate="2017-05-23">
+<author pid="93/2317">Renato Bruni</author>
+<title>Solving Error Correction for Large Data Sets by Means of a SAT Solver.</title>
+<pages>229-241</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_18</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#Bruni03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/SabharwalBK03" mdate="2017-05-23">
+<author pid="13/154">Ashish Sabharwal</author>
+<author pid="b/PaulBeame">Paul Beame</author>
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<title>Using Problem Structure for Efficient Clause Learning.</title>
+<pages>242-256</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_19</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#SabharwalBK03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/ArmandoC03" mdate="2017-05-23">
+<author pid="a/AArmando">Alessandro Armando</author>
+<author pid="c/LucaCompagna">Luca Compagna</author>
+<title>Abstraction-Driven SAT-based Analysis of Security Protocols.</title>
+<pages>257-271</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_20</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#ArmandoC03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/KhurshidMSJ03" mdate="2017-05-23">
+<author pid="k/SarfrazKhurshid">Sarfraz Khurshid</author>
+<author pid="48/3911">Darko Marinov</author>
+<author pid="40/4153">Ilya Shlyakhter</author>
+<author pid="80/1906-1">Daniel Jackson 0001</author>
+<title>A Case for Efficient Solution Enumeration.</title>
+<pages>272-286</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_21</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#KhurshidMSJ03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/ZhangM03" mdate="2017-05-23">
+<author pid="94/5689">Lintao Zhang</author>
+<author pid="79/6934">Sharad Malik</author>
+<title>Cache Performance of SAT Solvers: a Case Study for Efficient Implementation of Algorithms.</title>
+<pages>287-298</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_22</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#ZhangM03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BessiereHW03" mdate="2017-06-15">
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Local Consistencies in SAT.</title>
+<pages>299-314</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_23</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BessiereHW03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BjesseKDSZ03" mdate="2017-05-23">
+<author pid="99/529">Per Bjesse</author>
+<author pid="82/3557">James H. Kukula</author>
+<author pid="30/6446">Robert F. Damiano</author>
+<author pid="76/3042">Ted Stanion</author>
+<author pid="70/2232">Yunshan Zhu</author>
+<title>Guiding SAT Diagnosis with Tree Decompositions.</title>
+<pages>315-329</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_24</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BjesseKDSZ03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Williams03" mdate="2017-05-23">
+<author pid="w/RyanWilliams">Ryan Williams 0001</author>
+<title>On Computing k-CNF Formula Properties.</title>
+<pages>330-340</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_25</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#Williams03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BacchusW03" mdate="2017-05-23">
+<author pid="b/FahiemBacchus">Fahiem Bacchus</author>
+<author pid="58/2523">Jonathan Winter</author>
+<title>Effective Preprocessing with Hyper-Resolution and Equality Reduction.</title>
+<pages>341-355</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_26</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BacchusW03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BuningZ03" mdate="2017-05-23">
+<author pid="k/HKleineBuning">Hans Kleine B&#252;ning</author>
+<author pid="52/3862">Xishun Zhao</author>
+<title>Read-Once Unit Resolution.</title>
+<pages>356-369</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_27</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BuningZ03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/DrakeF03" mdate="2021-10-14">
+<author pid="86/2083">Lyndon Drake</author>
+<author orcid="0000-0001-5015-2676" pid="51/6077">Alan M. Frisch</author>
+<title>The Interaction Between Inference and Branching Heuristics.</title>
+<pages>370-382</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_28</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#DrakeF03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Pretolani03" mdate="2017-05-23">
+<author pid="60/1006">Daniele Pretolani</author>
+<title>Hypergraph Reductions and Satisfiability Problems.</title>
+<pages>383-397</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_29</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#Pretolani03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/FrancoKSWWDV03" mdate="2019-05-21">
+<author pid="f/JohnVFranco">John V. Franco</author>
+<author pid="57/6309">Michal Kouril</author>
+<author pid="s/JohnSSchlipf">John S. Schlipf</author>
+<author pid="84/2282">Jeffrey Ward</author>
+<author orcid="0000-0001-9883-4473" pid="48/1058">Sean A. Weaver</author>
+<author pid="28/4905">Michael R. Dransfield</author>
+<author pid="60/1793">W. Mark Vanfleet</author>
+<title>SBSAT: a State-Based, BDD-Based Satisfiability Solver.</title>
+<pages>398-410</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_30</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#FrancoKSWWDV03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/MneimnehS03" mdate="2017-05-23">
+<author pid="65/4819">Maher N. Mneimneh</author>
+<author pid="34/5374">Karem A. Sakallah</author>
+<title>Computing Vertex Eccentricity in Exponentially Large Graphs: QBF Formulation and Solution.</title>
+<pages>411-425</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_31</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#MneimnehS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Kullmann03" mdate="2017-05-23">
+<author pid="23/1836">Oliver Kullmann</author>
+<title>The Combinatorics of Conflicts between Clauses.</title>
+<pages>426-440</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_32</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#Kullmann03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/HerbstrittB03" mdate="2017-06-05">
+<author orcid="0000-0002-1660-5720" pid="h/MarcHerbstritt">Marc Herbstritt</author>
+<author pid="b/BerndBecker">Bernd Becker 0001</author>
+<title>Conflict-Based Selection of Branching Rules.</title>
+<pages>441-451</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_33</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#HerbstrittB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BerreS03" mdate="2017-05-23">
+<author pid="02/358">Daniel Le Berre</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>The Essentials of the SAT 2003 Competition.</title>
+<pages>452-467</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_34</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BerreS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BerreST03" mdate="2021-10-14">
+<author pid="02/358">Daniel Le Berre</author>
+<author pid="90/5314">Laurent Simon</author>
+<author orcid="0000-0001-9487-331X" pid="35/5174">Armando Tacchella</author>
+<title>Challenges in the QBF Arena: the SAT'03 Evaluation of QBF Solvers.</title>
+<pages>468-485</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_35</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BerreST03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/DequenD03" mdate="2021-10-14">
+<author orcid="0000-0001-7497-1182" pid="16/3798">Gilles Dequen</author>
+<author pid="09/4733-2">Olivier Dubois 0002</author>
+<title>kcnfs: An Efficient Solver for Random k-SAT Formulae.</title>
+<pages>486-501</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_36</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#DequenD03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/EenS03" mdate="2017-05-23">
+<author pid="14/2089">Niklas E&#233;n</author>
+<author pid="86/3014">Niklas S&#246;rensson</author>
+<title>An Extensible SAT-solver.</title>
+<pages>502-518</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_37</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#EenS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BraunsteinZ03" mdate="2017-06-15">
+<author orcid="0000-0002-4562-3610" pid="61/3700">Alfredo Braunstein</author>
+<author pid="01/2463">Riccardo Zecchina</author>
+<title>Survey and Belief Propagation on Random K-SAT.</title>
+<pages>519-528</pages>
+<ee>https://doi.org/10.1007/978-3-540-24605-3_38</ee>
+<year>2003</year>
+<crossref>conf/sat/2003</crossref>
+<booktitle>SAT</booktitle>
+<url>db/conf/sat/sat2003.html#BraunsteinZ03</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

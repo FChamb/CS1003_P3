@@ -1,0 +1,3191 @@
+<bht key="db/conf/ijcai/ijcai97.bht" title="15. IJCAI 1997: Nagoya, Japan">  
+<h1>15th <ref href="db/conf/ijcai/index.html">IJCAI</ref> 1997:
+Nagoya, Japan</h1>
+
+<dblpcites><r><proceedings key="conf/ijcai/1997" mdate="2019-08-20">
+<title>Proceedings of the Fifteenth International Joint Conference on Artificial Intelligence, IJCAI 97, Nagoya, Japan, August 23-29, 1997, 2 Volumes</title>
+<booktitle>IJCAI</booktitle>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1997</year>
+<ee type="oa">http://ijcai.org/proceedings/1997-1</ee>
+<ee type="oa">http://ijcai.org/proceedings/1997-2</ee>
+<url>db/conf/ijcai/ijcai97.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>VOLUME 1</h2> 
+<h3>AI Challenges</h3> 
+<h4>Challenge 1</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/SrinivasanKMS97" mdate="2022-04-30">
+<author pid="75/6930-1">Ashwin Srinivasan 0001</author>
+<author pid="k/RossDKing">Ross D. King</author>
+<author pid="m/StephenMuggleton">Stephen H. Muggleton</author>
+<author pid="93/2269">Michael J. E. Sternberg</author>
+<title>The Predictive Toxicology Evaluation Challenge.</title>
+<pages>4-9</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SrinivasanKMS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/001.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FriedmanGHR97" mdate="2022-04-20">
+<author pid="86/249">Nir Friedman</author>
+<author pid="37/1288">Mois&#233;s Goldszmidt</author>
+<author pid="h/DavidHeckerman">David Heckerman</author>
+<author pid="r/SJRussell">Stuart Russell 0001</author>
+<title>Challenge: What is the Impact of Bayesian Networks on Learning?</title>
+<pages>10-15</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#FriedmanGHR97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/002.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PerkowitzE97" mdate="2019-08-20">
+<author pid="48/1670">Mike Perkowitz</author>
+<author pid="e/OEtzioni">Oren Etzioni</author>
+<title>Adaptive Web Sites: an AI Challenge.</title>
+<pages>16-23</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#PerkowitzE97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/003.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Challenge 2</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/KitanoTSVCOMNA97" mdate="2019-08-20">
+<author pid="71/1622">Hiroaki Kitano</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<author pid="v/ManuelaMVeloso">Manuela M. Veloso</author>
+<author pid="c/SilviaCoradeschi">Silvia Coradeschi</author>
+<author pid="59/4044">Eiichi Osawa</author>
+<author pid="23/603">Hitoshi Matsubara</author>
+<author pid="80/5227">Itsuki Noda</author>
+<author pid="01/1390">Minoru Asada</author>
+<title>The RoboCup Synthetic Agent Challenge 97.</title>
+<pages>24-30</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KitanoTSVCOMNA97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/004.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/OkunoNK97" mdate="2019-08-20">
+<author pid="09/2222">Hiroshi G. Okuno</author>
+<author pid="38/5179">Tomohiro Nakatani</author>
+<author pid="99/5456">Takeshi Kawabata</author>
+<title>Understanding Three Simultaneous Speeches.</title>
+<pages>30-35</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#OkunoNK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/005.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Ishiguro97" mdate="2019-08-20">
+<author pid="92/3644">Hiroshi Ishiguro</author>
+<title>Distributed Vision System: A Perceptual Information Infrastructure for Robot Navigation.</title>
+<pages>36-43</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Ishiguro97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/006.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Challenge 3</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Kambhampati97" mdate="2019-08-20">
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<title>Challenges in Bridging Plan Synthesis Paradigms.</title>
+<pages>44-49</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Kambhampati97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/007.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SelmanKM97" mdate="2019-08-20">
+<author pid="s/BartSelman">Bart Selman</author>
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<author pid="m/DavidAMcAllester">David A. McAllester</author>
+<title>Ten Challenges in Propositional Reasoning and Search.</title>
+<pages>50-54</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SelmanKM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/008.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Geller97" mdate="2019-08-20">
+<author pid="g/JamesGeller">James Geller</author>
+<title>Challenge: How IJCAI 1999 can Prove Value of AI by Using AI.</title>
+<pages>55-61</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Geller97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/009.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Automated Reasoning</h3> 
+<h4>Automated Reasoning 1:
+Belief Revision</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/DuboisCHP97" mdate="2019-08-20">
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="03/3567">Luis Fari&#241;as del Cerro</author>
+<author pid="h/AndreasHerzig">Andreas Herzig</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Qualitative Relevance and Independence: A Roadmap.</title>
+<pages>62-67</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DuboisCHP97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/011.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Liberatore97" mdate="2019-08-20">
+<author pid="l/PLiberatore">Paolo Liberatore</author>
+<title>The Complexity of Belief Update.</title>
+<pages>68-73</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Liberatore97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/012.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Williams97" mdate="2019-08-20">
+<author pid="84/6183">Mary-Anne Williams</author>
+<title>Anytime Belief Revision.</title>
+<pages>74-81</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Williams97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/013.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Automated Reasoning 2:
+Belief Revision</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/ZhangF97" mdate="2019-08-20">
+<author pid="04/3348-3">Yan Zhang 0003</author>
+<author pid="f/NormanYFoo">Norman Y. Foo</author>
+<title>Towards Generalized Rule-based Updates.</title>
+<pages>82-88</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ZhangF97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/014.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhangCZC97" mdate="2019-08-20">
+<author pid="12/4822">Dongmo Zhang</author>
+<author pid="55/5853">Shifu Chen</author>
+<author pid="12/1545">Wujia Zhu</author>
+<author pid="76/2315">Zhaoqian Chen</author>
+<title>Representation Theorems for Multiple Belief Changes.</title>
+<pages>89-94</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ZhangCZC97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/015.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhangCZL97" mdate="2019-08-20">
+<author pid="12/4822">Dongmo Zhang</author>
+<author pid="55/5853">Shifu Chen</author>
+<author pid="12/1545">Wujia Zhu</author>
+<author pid="34/4691">Hongbing Li</author>
+<title>Nonmonotonic Reasoning and Multiple Belief Revision.</title>
+<pages>95-101</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ZhangCZL97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/016.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Automated Reasoning 3:
+Theorem Proving</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/DenzingerFF97" mdate="2019-08-20">
+<author pid="d/JDenzinger">J&#246;rg Denzinger</author>
+<author pid="35/2729">Marc Fuchs</author>
+<author pid="10/455">Matthias Fuchs</author>
+<title>High Performance ATP Systems by Combining Several AI Methods.</title>
+<pages>102-107</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DenzingerFF97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/017.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PlaistedZ97" mdate="2019-08-20">
+<author pid="p/DAPlaisted">David A. Plaisted</author>
+<author pid="70/2232">Yunshan Zhu</author>
+<title>Equational Reasoning using AC Constraints.</title>
+<pages>108-113</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#PlaistedZ97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/018.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Voronkov97" mdate="2019-08-20">
+<author pid="v/AndreiVoronkov">Andrei Voronkov</author>
+<title>Strategies in Rigid-Variable Methods.</title>
+<pages>114-121</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Voronkov97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/019.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Automated Reasoning 4:
+Propositional KBS</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BoufkhadGMMS97" mdate="2019-08-20">
+<author pid="75/5742">Yacine Boufkhad</author>
+<author pid="g/EricGregoire">&#201;ric Gr&#233;goire</author>
+<author pid="37/6177">Pierre Marquis</author>
+<author pid="50/4396">Bertrand Mazure</author>
+<author pid="s/LakhdarSais">Lakhdar Sais</author>
+<title>Tractable Cover Compilations.</title>
+<pages>122-127</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BoufkhadGMMS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/020.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Straccia97" mdate="2019-08-20">
+<author pid="s/UmbertoStraccia">Umberto Straccia</author>
+<title>A Four-Valued Fuzzy Propositional Logic.</title>
+<pages>128-135</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Straccia97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/021.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Automated Reasoning 5:
+Description Logic</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/DoniniNR97" mdate="2023-02-02">
+<author pid="d/FrancescoMDonini">Francesco M. Donini</author>
+<author pid="n/DanieleNardi">Daniele Nardi</author>
+<author pid="00/4014">Riccardo Rosati 0001</author>
+<title>Autoepistemic Description Logics.</title>
+<pages>136-141</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DoniniNR97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/022.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Badea97" mdate="2019-08-20">
+<author pid="35/6382">Liviu Badea</author>
+<title>Reifying Concepts in Description Logics.</title>
+<pages>142-149</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Badea97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/023.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Automated Reasoning 6:
+Nonmonotonism</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BesnardS97" mdate="2019-08-20">
+<author pid="b/PhilippeBesnard">Philippe Besnard</author>
+<author pid="s/TorstenSchaub">Torsten Schaub</author>
+<title>Circumscribing Inconsistency.</title>
+<pages>150-155</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BesnardS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/024.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WangYY97" mdate="2019-08-20">
+<author pid="57/1130">Xianchang Wang</author>
+<author pid="y/JiaHuaiYou">Jia-Huai You</author>
+<author pid="y/LiYanYuan">Li-Yan Yuan</author>
+<title>A Default Interpretation of Defeasible Network.</title>
+<pages>156-161</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#WangYY97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/026.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Junker97" mdate="2019-08-20">
+<author pid="07/1887">Ulrich Junker</author>
+<title>A Cumulative-Model Semantics for Dynamic Preferences on Assumptions.</title>
+<pages>162-167</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Junker97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/027.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DelgrandeS97" mdate="2019-08-20">
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<author pid="s/TorstenSchaub">Torsten Schaub</author>
+<title>Compiling Reasoning with and about Preferences into Default Logic.</title>
+<pages>168-175</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DelgrandeS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/028.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Automated Reasoning 7:
+Nonmonotonism for Logic Programming</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/InoueK97" mdate="2019-08-20">
+<author pid="i/KatsumiInoue">Katsumi Inoue</author>
+<author pid="25/4965">Yoshimitsu Kudoh</author>
+<title>Learning Extended Logic Programs.</title>
+<pages>176-181</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#InoueK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/029.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WakakiS97" mdate="2019-08-20">
+<author pid="34/2236">Toshiko Wakaki</author>
+<author pid="s/KenSatoh">Ken Satoh</author>
+<title>Compiling Prioritized Circumscription into Extended Logic Programs.</title>
+<pages>182-189</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#WakakiS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/030.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Automated Reasoning 8:
+Modal Logic</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BalbianiD97" mdate="2019-08-20">
+<author pid="76/50">Philippe Balbiani</author>
+<author pid="d/StephaneDemri">St&#233;phane Demri</author>
+<title>Prefixed Tableaux Systems for Modal Logics with Enriched Languages.</title>
+<pages>190-195</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BalbianiD97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/031.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MontanariP97" mdate="2019-08-20">
+<author pid="68/27">Angelo Montanari</author>
+<author pid="56/317">Alberto Policriti</author>
+<title>A Set-Theoretic Approach to Automated Deduction in Graded Modal Logics.</title>
+<pages>196-201</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MontanariP97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/032.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HustadtS97" mdate="2019-08-20">
+<author pid="h/UllrichHustadt">Ullrich Hustadt</author>
+<author pid="s/RenateASchmidt">Renate A. Schmidt</author>
+<title>On Evaluating Decision Procedures for Modal Logic.</title>
+<pages>202-209</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#HustadtS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/033.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Automated Reasoning 9</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Arima97" mdate="2019-08-20">
+<author pid="35/2908">Jun Arima</author>
+<title>Preduction: A Common Form of Induction and Analogy.</title>
+<pages>210-215</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Arima97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/034.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DefourneauxP97" mdate="2019-08-20">
+<author pid="12/6702">Gilles D&#233;fourneaux</author>
+<author pid="84/5281">Nicolas Peltier</author>
+<title>Analogy and Abduction in Automated Deduction.</title>
+<pages>216-225</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DefourneauxP97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/035.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Case-Based Reasoning</h3> 
+<h4>Case-Based Reasoning 1</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/DubitzkySHBA97" mdate="2019-08-20">
+<author pid="82/680">Werner Dubitzky</author>
+<author pid="69/3341">Alfons Schuster</author>
+<author pid="h/JohnGHughes">John G. Hughes</author>
+<author pid="b/DavidABell">David A. Bell</author>
+<author pid="05/5286">Kenneth Adamson</author>
+<title>How Similar is VERY YOUNG to 43 Years of Age? On the Representation and Comparison of Polymorphic Properties.</title>
+<pages>226-231</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DubitzkySHBA97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/036.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/VealeK97" mdate="2019-08-20">
+<author pid="32/2480">Tony Veale</author>
+<author pid="k/MarkTKeane">Mark T. Keane</author>
+<title>The Competence of Sub-Optimal Theories of STructure Mapping on Hard Analogies.</title>
+<pages>232-237</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#VealeK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/037.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/OkamotoY97" mdate="2019-08-20">
+<author pid="88/5893">Seishi Okamoto</author>
+<author pid="40/1942">Nobuhiro Yugami</author>
+<title>An Average-Case Analysis of the k-Nearest Neighbar Classifier for Noisy Domains.</title>
+<pages>238-245</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#OkamotoY97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/038.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Case-Based Reasoning 2</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/LeakeKW97" mdate="2019-08-20">
+<author pid="61/6475">David B. Leake</author>
+<author pid="38/45">Andrew Kinley</author>
+<author pid="w/DavidCWilson">David C. Wilson</author>
+<title>Learning to Integrate Multiple Knowledge Sources for Case-Based Reasoning.</title>
+<pages>246-251</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LeakeKW97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/039.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SchusterDLABHW97" mdate="2019-08-20">
+<author pid="69/3341">Alfons Schuster</author>
+<author pid="82/680">Werner Dubitzky</author>
+<author pid="34/6676">Philippe Lopes</author>
+<author pid="05/5286">Kenneth Adamson</author>
+<author pid="b/DavidABell">David A. Bell</author>
+<author pid="h/JohnGHughes">John G. Hughes</author>
+<author pid="67/4032">John A. White</author>
+<title>Aggregating Features and Matching Cases on Vague Linguistic Expressions.</title>
+<pages>252-257</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SchusterDLABHW97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/040.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HoL97" mdate="2019-08-20">
+<author pid="87/2048">Tu Bao Ho</author>
+<author pid="50/867">Chi Mai Luong</author>
+<title>Using Case-Based Reasoning in Interpreting Unsupervised Inductive Learning Results.</title>
+<pages>258-267</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#HoL97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/041.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Cognitive Modeling</h3> 
+<h4>Cognitive Modeling 1</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/NumaoKS97" mdate="2019-08-20">
+<author pid="71/1556">Masayuki Numao</author>
+<author pid="81/2900">Masashi Kobayashi</author>
+<author pid="61/2366">Katsuyuki Sakaniwa</author>
+<title>Acquisition of Human Feelings in Music Arrangements.</title>
+<pages>268-273</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#NumaoKS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/042.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SisonNS97" mdate="2019-08-20">
+<author pid="35/5077">Rayond Sison</author>
+<author pid="71/1556">Masayuki Numao</author>
+<author pid="87/4103">Masamichi Shimura</author>
+<title>Using Data and Theory in Multistretegy (Mis)Concept(ion) Discovery.</title>
+<pages>274-279</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SisonNS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/043.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FerretG97" mdate="2019-08-20">
+<author pid="79/6612">Olivier Ferret</author>
+<author pid="10/3237">Brigitte Grau</author>
+<title>An Aggregation Procedure for Building Episodic Memory.</title>
+<pages>280-287</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#FerretG97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/044.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Cognitive Modeling 2</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/HayesP97" mdate="2019-08-20">
+<author pid="85/4817">Caroline C. Hayes</author>
+<author pid="38/6681">Michael I. Parzen</author>
+<title>An Achievement Test for Knowledge-Based Systems: QUEM.</title>
+<pages>288-293</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#HayesP97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/045.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BhattaG97" mdate="2019-08-20">
+<author pid="53/736">Sambasiva R. Bhatta</author>
+<author pid="g/AshokKGoel">Ashok K. Goel 0001</author>
+<title>A Functional Theory of Design Patterns.</title>
+<pages>294-300</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BhattaG97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/046.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HirakiSP97" mdate="2019-08-20">
+<author pid="15/692">Kazuo Hiraki</author>
+<author pid="10/4947">Akio Sashima</author>
+<author pid="28/1474">Steven Phillips</author>
+<title>Mental Tracking: A Computational Model of Spatial Development.</title>
+<pages>301-309</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#HirakiSP97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/047.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Cognitive Modeling 3</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Bittencourt97" mdate="2019-08-20">
+<author pid="64/1847">Guilherme Bittencourt</author>
+<title>In the Quest of the Missing Link.</title>
+<pages>310-315</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Bittencourt97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/048.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Fisher97" mdate="2019-08-20">
+<author pid="f/MichaelFisher">Michael Fisher 0001</author>
+<title>Implementing BDI-like Systems by Direct Execution.</title>
+<pages>316-321</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Fisher97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/049.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FreedR97" mdate="2019-08-20">
+<author pid="95/5209">Michael Freed</author>
+<author pid="85/3616">Roger W. Remington</author>
+<title>Managing Decision Resources in Plan Execution.</title>
+<pages>322-328</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#FreedR97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/051.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Computer-Aided Eduction</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/LeloucheM97" mdate="2019-08-20">
+<author pid="00/6650">Ruddy Lelouche</author>
+<author pid="15/6247">Jean-Fran&#231;ois Morin</author>
+<title>Use of Abstraction and Complexity Levels in Intelligent Educational System Design.</title>
+<pages>329-334</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LeloucheM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/052.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/AshleyA97" mdate="2019-08-20">
+<author pid="39/1439">Kevin D. Ashley</author>
+<author pid="50/904">Vincent Aleven</author>
+<title>Reasoning Symbolically About Partially Matched Cases.</title>
+<pages>335-341</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#AshleyA97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/053.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/IkedaSM97" mdate="2019-08-20">
+<author pid="96/251">Mitsuru Ikeda</author>
+<author pid="98/4283">Kazuhisa Seta</author>
+<author pid="16/645">Riichiro Mizoguchi</author>
+<title>Task Ontology Makes It Easier To Use Authoring Tools.</title>
+<pages>342-351</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#IkedaSM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/054.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Constraint Satisfaction</h3> 
+<h4>Constraint Satisfaction 1:
+Constraint Programming</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BistarelliMR97" mdate="2019-08-20">
+<author pid="53/6380">Stefano Bistarelli</author>
+<author pid="m/UgoMontanari">Ugo Montanari</author>
+<author pid="r/FrancescaRossi">Francesca Rossi</author>
+<title>Semiring-based Constraint Logic Programming.</title>
+<pages>352-357</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BistarelliMR97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/055.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TrombettoniN97" mdate="2019-08-20">
+<author pid="55/2812">Gilles Trombettoni</author>
+<author pid="39/6105">Bertrand Neveu</author>
+<title>Computational Complexity of Multi-way, Dataflow Constraint Problems.</title>
+<pages>358-365</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#TrombettoniN97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/056.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Constraint Satisfaction 2:
+SAT</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/LiA97" mdate="2019-08-20">
+<author pid="35/5239">Chu Min Li</author>
+<author pid="a/Anbulagan">Anbulagan</author>
+<title>Heuristics Based on Unit Propagation for Satisfiability Problems.</title>
+<pages>366-371</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LiA97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/057.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CastellC97" mdate="2019-08-20">
+<author pid="34/802">Thierry Castell</author>
+<author pid="17/3769">Michel Cayrol</author>
+<title>Hidden Gold in Random Generation of SAT Satisfiable Instances.</title>
+<pages>372-377</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#CastellC97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-1/Papers/058.pdf</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WahS97" mdate="2012-05-15">
+<author pid="w/BenjaminWWah">Benjamin W. Wah</author>
+<author pid="10/967">Yi Shang</author>
+<title>Discrete Lagrangian-Based Search for Solving MAX-SAT Problems.</title>
+<pages>378-383</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#WahS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Frank97" mdate="2012-05-15">
+<author pid="32/67">Jeremy Frank</author>
+<title>Learning Short-Term Weights for GSAT.</title>
+<pages>384-391</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Frank97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Constraint Satisfaction 3:
+Local Consistency</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/FaltingsG97" mdate="2017-11-17">
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<author pid="37/1919">Esther M. Gelle</author>
+<title>Local Consistency for Ternary Numeric Constraints.</title>
+<pages>392-397</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#FaltingsG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BessiereR97" mdate="2012-05-15">
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<title>Arc Consistency for General Constraint Networks: Preliminary Results.</title>
+<pages>398-404</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BessiereR97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/DevilleBH97" mdate="2012-05-15">
+<author pid="13/1302">Yves Deville</author>
+<author pid="50/3328">Olivier Barette</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Constraint Satisfaction over Connected Row Convex Constraints.</title>
+<pages>405-411</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DevilleBH97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Constraint Satisfaction 4</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/DebruyneB97" mdate="2012-05-15">
+<author pid="30/847">Romuald Debruyne</author>
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<title>Some Practicable Filtering Techniques for the Constraint Satisfaction Problem.</title>
+<pages>412-417</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DebruyneB97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WeigelF97" mdate="2012-05-15">
+<author pid="78/1540">Rainer Weigel</author>
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<title>Structuring Techniques for Constraint Satisfaction Problems.</title>
+<pages>418-423</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#WeigelF97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Larrosa97" mdate="2012-05-15">
+<author pid="27/2738">Javier Larrosa</author>
+<title>Merging Constraint Satisfaction Subproblems to Avoid Redundant Search.</title>
+<pages>424-433</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Larrosa97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Diagnosis and Qualiative Reasoning</h3> 
+<h4>Diagnosis 1</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/LeckieD97" mdate="2012-05-15">
+<author pid="73/1139">Christopher Leckie</author>
+<author pid="14/1875">Michael Dale</author>
+<title>Locating Faults in Tree-Structured Networks.</title>
+<pages>434-439</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LeckieD97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/StumptnerW97" mdate="2012-05-15">
+<author pid="s/MarkusStumptner">Markus Stumptner</author>
+<author pid="w/FranzWotawa">Franz Wotawa</author>
+<title>Diagnosing Tree Structured Systems.</title>
+<pages>440-445</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#StumptnerW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LampertiP97" mdate="2012-05-15">
+<author pid="48/4023">Gianfranco Lamperti</author>
+<author pid="66/6400">Paolo Pogliano</author>
+<title>Event-Based Reasoning for Short Circuit Diagnosis in Power Transmission Networks.</title>
+<pages>446-453</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LampertiP97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Diagnosis 2</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/TeijeH97" mdate="2012-05-15">
+<author pid="96/3134">Annette ten Teije</author>
+<author pid="h/FrankvanHarmelen">Frank van Harmelen</author>
+<title>Exploiting Domain Knowledge for Approximate Diagnosis.</title>
+<pages>454-459</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#TeijeH97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BaumgartnerFFN97" mdate="2020-03-03">
+<author pid="b/PeterBaumgartner">Peter Baumgartner 0001</author>
+<author pid="66/2373-1">Peter Fr&#246;hlich 0001</author>
+<author pid="f/UlrichFurbach">Ulrich Furbach</author>
+<author pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>Semantically Guided Theorem Proving for Diagnosis Applications.</title>
+<pages>460-465</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BaumgartnerFFN97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/FrohlichN97" mdate="2020-03-03">
+<author pid="66/2373-1">Peter Fr&#246;hlich 0001</author>
+<author pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>A Static Model-Based Engine for Model-Based Reasoning.</title>
+<pages>466-473</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#FrohlichN97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Diagnosis 3</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/LoiezT97" mdate="2020-02-15">
+<author pid="02/142">&#201;tienne Loiez</author>
+<author pid="61/5943">Patrick Taillibert</author>
+<title>Polynomial Temporal Band Sequences for Analog Diagnosis.</title>
+<pages>474-479</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LoiezT97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Struss97" mdate="2012-05-15">
+<author pid="s/PeterStruss">Peter Struss</author>
+<title>Fundamentals of Model-Based Diagnosis of Dynamic Systems.</title>
+<pages>480-485</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Struss97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/JongR97" mdate="2012-05-15">
+<author pid="21/3073">Hidde de Jong</author>
+<author pid="44/230">Frank van Raalte</author>
+<title>Comparative Analysis of STructurally Different Dynamical Systems.</title>
+<pages>486-493</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#JongR97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Qualiative Reasoning 1:
+Modeling Support</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/IwasakiFFR97" mdate="2012-05-15">
+<author pid="83/238">Yumi Iwasaki</author>
+<author pid="61/3618">Adam Farquhar</author>
+<author pid="f/RichardFikes">Richard Fikes</author>
+<author pid="r/JamesRice">James Rice</author>
+<title>A Web-Based Compositional Modeling System for Sharing of Physical Knowledge.</title>
+<pages>494-500</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#IwasakiFFR97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/KitamuraIM97" mdate="2012-05-15">
+<author pid="25/2238">Yoshinobu Kitamura</author>
+<author pid="96/251">Mitsuru Ikeda</author>
+<author pid="16/645">Riichiro Mizoguchi</author>
+<title>A Causal Time Ontology for Qualitative Reasoning.</title>
+<pages>501-507</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KitamuraIM97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Qualiative Reasoning 2:
+Perception and Belief</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/ValMS97" mdate="2012-05-15">
+<author pid="v/AlvarodelVal">Alvaro del Val</author>
+<author pid="69/5263">Pedrito Maynard-Reid II</author>
+<author pid="s/YoavShoham">Yoav Shoham</author>
+<title>Qualitative Reasoning about Perception and Belief.</title>
+<pages>508-513</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ValMS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/SikkaM97" mdate="2012-05-15">
+<author pid="91/6351">Pavan Sikka</author>
+<author pid="22/2627">Brenan J. McCarragher</author>
+<title>Rule-based Contact Monitoring Using Examples Obtained by Task Demonstration.</title>
+<pages>514-521</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SikkaM97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Qualiative Reasoning 3:
+Geometric and Spatial Reasoning</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/RenzN97" mdate="2012-05-15">
+<author pid="21/1718">Jochen Renz</author>
+<author pid="n/BernhardNebel">Bernhard Nebel</author>
+<title>On the Complexity of Qualitative Spatial Reasoning: A Maximal Tractable Fragment of the Region Connection Calculus.</title>
+<pages>522-527</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#RenzN97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/JamnikBG97" mdate="2012-05-15">
+<author pid="41/1392">Mateja Jamnik</author>
+<author pid="b/AlanBundy">Alan Bundy</author>
+<author pid="48/463">Ian Green</author>
+<title>Automation of Diagrammatic Reasoning.</title>
+<pages>528-533</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#JamnikBG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Yip97" mdate="2012-05-15">
+<author pid="08/3744">Kenneth Yip</author>
+<title>Structural Inferences from Massive Datasets.</title>
+<pages>534-541</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Yip97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Qualiative Reasoning 4:
+Causality</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/KurumataniN97" mdate="2012-05-15">
+<author pid="20/214">Koichi Kurumatani</author>
+<author pid="86/2316">Mari Nakamura</author>
+<title>Qualitative Analysis of Causal Graphs with Equilibrium Type-Transition.</title>
+<pages>542-548</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KurumataniN97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/FooNPPZ97" mdate="2016-05-11">
+<author pid="f/NormanYFoo">Norman Y. Foo</author>
+<author pid="n/AbhayaCNayak">Abhaya C. Nayak</author>
+<author pid="p/MauricePagnucco">Maurice Pagnucco</author>
+<author pid="96/4302">Pavlos Peppas</author>
+<author pid="04/3348-3">Yan Zhang 0003</author>
+<title>Action Localness, Genericity and Invariants in STRIPS.</title>
+<pages>549-554</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#FooNPPZ97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Geffner97" mdate="2012-05-15">
+<author pid="g/HectorGeffner">Hector Geffner</author>
+<title>Causality, Constraints and Indirect Effects.</title>
+<pages>555-561</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Geffner97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Qualiative Reasoning 5</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/StrouliaG97" mdate="2016-10-25">
+<author pid="66/3519">Eleni Stroulia</author>
+<author pid="g/AshokKGoel">Ashok K. Goel 0001</author>
+<title>Redesigning a Problem-Solver's Operations to Improve Solution Quality.</title>
+<pages>562-567</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#StrouliaG97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/MostermanB97" mdate="2012-05-15">
+<author pid="78/1737">Pieter J. Mosterman</author>
+<author pid="15/6242">Gautam Biswas</author>
+<title>Formal Specifications for Hybrid Dynamical Systems.</title>
+<pages>568-577</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MostermanB97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Distributed Artificial Intelligence</h3> 
+<h4>Distributed AI 1:
+Interagent Communication</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/DeckerSW97" mdate="2012-05-15">
+<author pid="d/KSDecker">Keith Decker</author>
+<author pid="s/KatiaPSycara">Katia P. Sycara</author>
+<author pid="19/596">Mike Williamson</author>
+<title>Middle-Agents for the Internet.</title>
+<pages>578-583</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DeckerSW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LabrouF97" mdate="2012-05-15">
+<author pid="23/5133">Yannis Labrou</author>
+<author pid="f/TWFinin">Timothy W. Finin</author>
+<title>Semantics and Conversations for an Agent Communication Language.</title>
+<pages>584-591</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LabrouF97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ItoS97" mdate="2021-09-07">
+<author pid="24/1535-1">Takayuki Ito 0001</author>
+<author pid="57/1646">Toramatsu Shintani</author>
+<title>Persuasion among Agents: An Approach to Implementing a Group Decision System Based on Multi-Agent Negotiation.</title>
+<pages>592-599</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ItoS97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Distributed AI 2:
+Coordination and Cooperation</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/dInvernoLW97" mdate="2019-04-26">
+<author pid="47/2186">Mark d'Inverno</author>
+<author pid="09/6641">Michael Luck</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Cooperation Structures.</title>
+<pages>600-605</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#dInvernoLW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/CarmelM97" mdate="2012-05-15">
+<author pid="59/5636">David Carmel</author>
+<author pid="m/ShaulMarkovitch">Shaul Markovitch</author>
+<title>Exploration and Adaptation in Multiagent Systems: A Model-based Approach.</title>
+<pages>606-611</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#CarmelM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/DurfeeS97" mdate="2012-05-15">
+<author pid="d/EHDurfee">Edmund H. Durfee</author>
+<author pid="48/6408">Young-pa So</author>
+<title>The Effects of Runtime Coordination Strategies Within Static Organizations.</title>
+<pages>612-619</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DurfeeS97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Distributed AI 3:
+Multiagent Algorithms</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/ArmstrongD97" mdate="2012-05-15">
+<author pid="85/3487">Aaron A. Armstrong</author>
+<author pid="d/EHDurfee">Edmund H. Durfee</author>
+<title>Dynamic Prioritization of Complex Agents in Distributed Constraint Satisfaction Problems.</title>
+<pages>620-625</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ArmstrongD97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ShohamT97" mdate="2012-05-15">
+<author pid="s/YoavShoham">Yoav Shoham</author>
+<author pid="44/3648">Katsumi Tanaka</author>
+<title>A Dynamic Theory of Incentives in Multi-Agent Systems.</title>
+<pages>626-631</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ShohamT97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/SandholmY97" mdate="2012-05-15">
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<author pid="67/6557">Fredrik Ygge</author>
+<title>On the Gains and Losses of Speculation in Equilibrium Markets.</title>
+<pages>632-639</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SandholmY97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Distributed AI 4:
+Multiagent Algorithms</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/PrasadL97" mdate="2012-05-15">
+<author pid="85/5888">M. V. Nagendra Prasad</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>The Use of Meta-level Information in Learning Situation-Specific Coordination.</title>
+<pages>640-646</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#PrasadL97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/CrnogoracRR97" mdate="2012-05-15">
+<author pid="04/1790">Lobel Crnogorac</author>
+<author pid="95/4624">Anand S. Rao</author>
+<author pid="r/KRamamohanarao">Kotagiri Ramamohanarao</author>
+<title>Analysis of Inheritance Mechanisms in Agent-Oriented Programming.</title>
+<pages>647-654</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#CrnogoracRR97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Expert Systems</h3> 
+<dblpcites><r><inproceedings key="conf/ijcai/MorgensternS97" mdate="2012-05-15">
+<author pid="46/2598">Leora Morgenstern</author>
+<author pid="11/1286">Moninder Singh</author>
+<title>An Expert System Using Nonmonotonic Techniques for Beneefits Inquiry in the Insurance Industry.</title>
+<pages>655-661</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MorgensternS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/KramerKS97" mdate="2015-01-02">
+<author pid="k/StefanKramer1">Stefan Kramer 0001</author>
+<author pid="k/HermannKaindl">Hermann Kaindl</author>
+<author pid="28/4246">Stefan Schlee</author>
+<title>Can We Benefit from Metrics in KBS Development?</title>
+<pages>662-667</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KramerKS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/KingstonGL97" mdate="2014-11-05">
+<author pid="k/JohnKingston">John Kingston</author>
+<author pid="65/2723">Anna Griffith</author>
+<author pid="37/1758">Terri J. Lydiard</author>
+<title>Multi-Perspective Modeling of the Air Camaign Planning Process.</title>
+<pages>668-677</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KingstonGL97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Game Playing</h3> 
+<h4>Game Playing 1:
+Go</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/Ricaud97" mdate="2012-05-15">
+<author pid="25/4434">Patrick Ricaud</author>
+<title>A Model of Strategy for the Game of Go Using Abstraction Mechanisms.</title>
+<pages>678-683</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Ricaud97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/KojimaUN97" mdate="2012-05-15">
+<author pid="33/5397">Takuya Kojima</author>
+<author pid="37/2299">Kazuhiro Ueda</author>
+<author pid="60/1948">Saburo Nagano</author>
+<title>An Evolutionary Algorithm Extended by Ecological Analogy and its Application to the Game of Go.</title>
+<pages>684-691</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KojimaUN97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Game Playing 2</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/JunghannsS97" mdate="2012-05-15">
+<author pid="48/1290">Andreas Junghanns</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>Search Versus Knowledge in Game-Playing Programs Revisited.</title>
+<pages>692-697</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#JunghannsS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/MeyerGZ97" mdate="2012-05-15">
+<author pid="79/2786">Christophe Meyer</author>
+<author pid="g/JGGanascia">Jean-Gabriel Ganascia</author>
+<author pid="78/2478">Jean-Daniel Zucker</author>
+<title>Learning Strategies in Games by Anticipation.</title>
+<pages>698-707</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MeyerGZ97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Information Retrieval</h3> 
+<h4>Information Retrieval Distinguished Paper</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/CarbonellYFBGL97" mdate="2012-05-15">
+<author pid="56/3395">Jaime G. Carbonell</author>
+<author pid="25/1666">Yiming Yang</author>
+<author pid="00/4847">Robert E. Frederking</author>
+<author pid="70/2311">Ralf D. Brown</author>
+<author pid="46/1452">Yibing Geng</author>
+<author pid="33/2454">Danny Lee</author>
+<title>Translingual Information Retrieval: A Comparative Evaluation.</title>
+<pages>708-715</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#CarbonellYFBGL97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Information Retrieval 1</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/KindoYMW97" mdate="2012-05-15">
+<author pid="84/5246">Toshiki Kindo</author>
+<author pid="73/3927">Hideyuki Yoshida</author>
+<author pid="21/4786">Tetsuro Morimoto</author>
+<author pid="50/6703">Taisuke Watanabe</author>
+<title>Adaptive Personal Information Filtering System that Organizes Personal Profiles Automatically.</title>
+<pages>716-721</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KindoYMW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/OhsawaY97" mdate="2012-05-15">
+<author pid="24/4750">Yukio Ohsawa</author>
+<author pid="23/5332">Masahiko Yachida</author>
+<title>An Index Navigator for Understanding and Expressing User's Coherent Interest.</title>
+<pages>722-728</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#OhsawaY97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/KushmerickWD97" mdate="2012-05-15">
+<author pid="03/510">Nicholas Kushmerick</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<author pid="44/4879">Robert B. Doorenbos</author>
+<title>Wrapper Induction for Information Extraction.</title>
+<pages>729-737</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KushmerickWD97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Information Retrieval 2</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/SugimotoKT97" mdate="2012-05-15">
+<author pid="39/3774">Masanori Sugimoto</author>
+<author pid="11/6170">Norio Katayama</author>
+<author pid="35/2213">Atsuhiro Takasu</author>
+<title>COSPEX: A System for Constructing Private Digital Libraries.</title>
+<pages>738-744</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SugimotoKT97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LamLH97" mdate="2012-05-15">
+<author pid="48/1707">Wai Lam</author>
+<author pid="64/5486">Kon Fan Low</author>
+<author pid="75/144">Chao Yang Ho</author>
+<title>Using a Bayesian Network Induction Approach for Text Categorization.</title>
+<pages>745-750</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LamLH97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HuffmanB97" mdate="2012-05-15">
+<author pid="08/2678">Scott B. Huffman</author>
+<author pid="14/6291">Catherine Baudin</author>
+<title>Toward Structured Retrieval in Semi-structured Information Spaces.</title>
+<pages>751-757</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#HuffmanB97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Information Retrieval 3</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/RusS97" mdate="2012-05-15">
+<author pid="r/DanielaRus">Daniela Rus</author>
+<author pid="53/6745">Peter de Santis</author>
+<title>The Self-Organizing Desk.</title>
+<pages>758-763</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#RusS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/AmatiCU97" mdate="2012-05-15">
+<author pid="a/GianniAmati">Gianni Amati</author>
+<author pid="c/FabioCrestani">Fabio Crestani</author>
+<author pid="27/3178">Flavio Ubaldini</author>
+<title>A Learning System for Selective Dissemination of Information.</title>
+<pages>764-769</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#AmatiCU97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/JoachimsFM97" mdate="2012-05-15">
+<author pid="j/ThorstenJoachims">Thorsten Joachims</author>
+<author pid="80/2274">Dayne Freitag</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<title>Web Watcher: A Tour Guide for the World Wide Web.</title>
+<pages>770-777</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#JoachimsFM97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Information Retrieval 4</h4> 
+<dblpcites><r><inproceedings key="conf/ijcai/DuschkaL97" mdate="2012-05-15">
+<author pid="d/OMDuschka">Oliver M. Duschka</author>
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<title>Recursive Plans for Information Gathering.</title>
+<pages>778-784</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DuschkaL97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/FriedmanW97" mdate="2021-11-03">
+<author pid="305/2786">Marc T. Friedman</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>Efficiently Executing Information-Gathering Plans.</title>
+<pages>785-791</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (1)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#FriedmanW97</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>VOLUME 2</h2>
+<h3>Learning</h3> 
+<h4>Learing 1</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/SchefferH97" mdate="2019-08-20">
+<author pid="s/TobiasScheffer">Tobias Scheffer</author>
+<author pid="h/RalfHerbrich">Ralf Herbrich</author>
+<title>Unbiased Assesment of Learning Algorithms.</title>
+<pages>798-803</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SchefferH97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/001.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GrudicL97" mdate="2019-08-20">
+<author pid="g/GregoryZGrudic">Gregory Z. Grudic</author>
+<author pid="03/5383">Peter D. Lawrence</author>
+<title>Is Nonparametric Learning Practical in Very High Dimensional Spaces?</title>
+<pages>804-809</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#GrudicL97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/002.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WashioM97" mdate="2019-08-20">
+<author pid="w/TakashiWashio">Takashi Washio</author>
+<author pid="08/6525">Hiroshi Motoda</author>
+<title>Discovering Admissible Models of Complex Systems Based on Scale-Types and Idemtity Constraints.</title>
+<pages>810-819</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#WashioM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/003.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Learing 2:
+Reinforcement Learning</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/KohriMT97" mdate="2019-08-20">
+<author pid="68/3265">Takayuki Kohri</author>
+<author pid="25/1764">Kei Matsubayashi</author>
+<author pid="t/MarioTokoro">Mario Tokoro</author>
+<title>An Adaptive Architecture for Modular Q-Learning.</title>
+<pages>820-825</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KohriMT97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/004.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Munos97" mdate="2019-08-20">
+<author pid="69/6815">R&#233;mi Munos</author>
+<title>A Convergent Reinforcement Learning Algorithm in the Continuous Case Based on a Finite Difference Method.</title>
+<pages>826-831</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Munos97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/005.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SubramanianDC97" mdate="2019-08-20">
+<author pid="99/5507">Devika Subramanian</author>
+<author pid="d/PDruschel">Peter Druschel</author>
+<author pid="75/1324">Johnny Chen</author>
+<title>Ants and Reinforcement Learning: A Case Study in Routing in Dynamic Networks.</title>
+<pages>832-839</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SubramanianDC97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/006.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Learing 3:
+Decision Trees</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Davidsson97" mdate="2019-08-20">
+<author pid="30/1219">Paul Davidsson</author>
+<title>Integrating Models of Discrimination and Characterization for Learning from Examples in Open Domains.</title>
+<pages>840-845</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Davidsson97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/007.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Webb97" mdate="2019-08-20">
+<author pid="w/GeoffreyIWebb">Geoffrey I. Webb</author>
+<title>Decision Tree Grafting.</title>
+<pages>846-851</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Webb97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/008.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Furnkranz97" mdate="2019-08-20">
+<author pid="f/JohannesFurnkranz">Johannes F&#252;rnkranz</author>
+<title>Noise-Tolerant Windowing.</title>
+<pages>852-859</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Furnkranz97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/009.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Learing 4:
+Classification</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/AskerM97" mdate="2019-08-20">
+<author pid="50/4588">Lars Asker</author>
+<author pid="67/7006">Richard Maclin</author>
+<title>Ensembles as a Sequence of Classifiers.</title>
+<pages>860-865</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#AskerM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/010.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TingG97" mdate="2019-08-20">
+<author pid="35/3074">Kai Ming Ting</author>
+<author pid="w/IanHWitten">Ian H. Witten</author>
+<title>Stacked Generalizations: When Does It Work?</title>
+<pages>866-873</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#TingG97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/011.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Learing 5:
+Applications</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/LingW97" mdate="2019-08-20">
+<author pid="99/4062">Charles X. Ling</author>
+<author pid="76/16">Handong Wang</author>
+<title>Alignment Algorithms for Learning to Read Aloud.</title>
+<pages>874-879</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LingW97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/012.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/AsohHHMAM97" mdate="2019-08-20">
+<author pid="45/2329">Hideki Asoh</author>
+<author pid="24/64">Satoru Hayamizu</author>
+<author pid="23/4640">Isao Hara</author>
+<author pid="91/808">Yoichi Motomura</author>
+<author pid="81/2408">Shotaro Akaho</author>
+<author pid="83/1351">Toshihiro Matsui</author>
+<title>Socially Embedded Learning of the Office-Conversant Mobil Robot Jijo-2.</title>
+<pages>880-887</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#AsohHHMAM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/013.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Learing 6:
+Logic and IPL</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/SebagR97" mdate="2019-08-20">
+<author pid="s/MicheleSebag">Mich&#232;le Sebag</author>
+<author pid="r/CelineRouveirol">C&#233;line Rouveirol</author>
+<title>Tractable Induction and Classification in First Order Logic Via Stochastic Matching.</title>
+<pages>888-893</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SebagR97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/015.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SasakiH97" mdate="2019-08-20">
+<author pid="93/4187">Yutaka Sasaki</author>
+<author pid="85/6710">Masahiko Haruno</author>
+<title>RHB+: A Type-Oriented ILP System Learning from Positive Data.</title>
+<pages>894-899</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SasakiH97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/016.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DimopoulosDK97" mdate="2019-08-20">
+<author pid="93/696">Yannis Dimopoulos</author>
+<author pid="d/SasoDzeroski">Saso Dzeroski</author>
+<author pid="k/AntonisCKakas">Antonis C. Kakas</author>
+<title>Integrating Explanatory and Descriptive Learning in ILP.</title>
+<pages>900-907</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DimopoulosDK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/016A.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Learing 7:
+Dynamic Environments</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/ShirazS97" mdate="2019-08-20">
+<author pid="74/3570">G. M. Shiraz</author>
+<author pid="s/ClaudeSammut">Claude Sammut</author>
+<title>Combining Knowledge Acquisition and Machine Learning to Control Dynamic Systems.</title>
+<pages>908-913</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ShirazS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/017.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SucB97" mdate="2019-08-20">
+<author pid="s/DorianSuc">Dorian Suc</author>
+<author pid="b/IvanBratko">Ivan Bratko</author>
+<title>Skill Reconstruction as Induction of LQ Controllers with Subgoals.</title>
+<pages>914-919</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SucB97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/018.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ShatkayK97" mdate="2019-08-20">
+<author pid="63/2826">Hagit Shatkay</author>
+<author pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</author>
+<title>Learning Topological Maps with Weak Local Odometric Information.</title>
+<pages>920-929</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ShatkayK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/019.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Learing 8</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/LiuKH97" mdate="2019-08-20">
+<author pid="l/BingLiu1">Bing Liu 0001</author>
+<author pid="89/2168">Liang-Ping Ku</author>
+<author pid="h/WynneHsu">Wynne Hsu</author>
+<title>Discovering Interesting Holes in Data.</title>
+<pages>930-935</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LiuKH97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/020.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Nomura97" mdate="2019-08-20">
+<author pid="65/5641">Tatsuya Nomura</author>
+<title>An Analysis on Crossovers for Real Number Chromosomes in an Infinite Population Size.</title>
+<pages>936-941</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Nomura97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/021.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WangG97" mdate="2019-08-20">
+<author pid="181/2613">Ke Wang</author>
+<author pid="42/6573">Han Chong Goh</author>
+<title>Minimum Splits Based Discretization for Continuous Features.</title>
+<pages>942-951</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#WangG97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/022.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Natural-Language Processing and Graphical Presentatioon</h3> 
+<h4>Natural-Language Processing 1:
+Generation</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/CallawayL97" mdate="2019-08-20">
+<author pid="55/4287">Charles B. Callaway</author>
+<author pid="88/4922">James C. Lester</author>
+<title>Dynamically Imroving Explanations: A Revision-Based Approach to Explanation Generation.</title>
+<pages>952-958</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#CallawayL97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/023.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FehrerH97" mdate="2019-08-20">
+<author pid="34/5651">Detlef Fehrer</author>
+<author pid="00/5108">Helmut Horacek</author>
+<title>Exploiting the Addressee's Inferential Capabilities in Presenting Mathematical Proofs.</title>
+<pages>959-964</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#FehrerH97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/024.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HuangF97" mdate="2019-08-20">
+<author pid="79/4664">Xiaorong Huang</author>
+<author pid="99/4867">Armin Fiedler</author>
+<title>Proof Verbalization as an Application of NLG.</title>
+<pages>965-972</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#HuangF97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/025.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Natural-Language Processing 2:
+Machine Translation</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/LiC97" mdate="2019-08-20">
+<author pid="83/5144">Jun-Jie Li</author>
+<author pid="97/6969">Key-Sun Choi</author>
+<title>Corpus-Based Chinese-Korean Abstracting Translation System.</title>
+<pages>972-976</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LiC97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/026.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/YamabanaKMDTS97" mdate="2019-08-20">
+<author pid="43/464">Kiyoshi Yamabana</author>
+<author pid="01/6211">Shin-ichiro Kamei</author>
+<author pid="51/6698">Kazunori Muraki</author>
+<author pid="29/360">Shinichi Doi</author>
+<author pid="91/1916">Shinko Tamura</author>
+<author pid="61/4831">Kenji Satoh</author>
+<title>A Hybrid Approach to Interactive Machine Translation - Integrating Rule-based, Corpus-based, and Example-basedMethod.</title>
+<pages>977-982</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#YamabanaKMDTS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/026A.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MimaFI97" mdate="2019-08-20">
+<author pid="47/5158">Hideki Mima</author>
+<author pid="11/2974">Osamu Furuse</author>
+<author pid="41/5465">Hitoshi Iida</author>
+<title>Improving Performance of Transfer-Driven Machine Translation with Extra-Linguistic Informatioon from Context, Situation and Environment.</title>
+<pages>983-989</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MimaFI97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/027.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Natural-Language Processing 3:
+Dialogue and Discourse</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Sgouros97" mdate="2019-08-20">
+<author pid="79/1249">Nikitas M. Sgouros</author>
+<title>Dynamic, User-Centered Resolution in Interactive Stories.</title>
+<pages>990-995</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Sgouros97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/028.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/StaabH97" mdate="2019-08-20">
+<author pid="s/SteffenStaab">Steffen Staab</author>
+<author pid="h/UdoHahn">Udo Hahn</author>
+<title>&#34;Tall&#34;, &#34;Good&#34;, &#34;High&#34; - Compared to What?</title>
+<pages>996-1001</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#StaabH97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/030.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Dymetman97" mdate="2019-08-20">
+<author pid="74/1221">Marc Dymetman</author>
+<title>Charts, Interaction-free Grammars, and the Compact Representation of Ambiguity.</title>
+<pages>1002-1009</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Dymetman97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/031.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Natural-Language Processing 4:
+Dialogue and Discourse</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/MarkertH97" mdate="2019-08-20">
+<author pid="70/2476">Katja Markert</author>
+<author pid="h/UdoHahn">Udo Hahn</author>
+<title>On the Interaction of Metonymies and Anaphora.</title>
+<pages>1010-1015</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MarkertH97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/032.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GardentK97" mdate="2019-08-20">
+<author pid="71/6819">Claire Gardent</author>
+<author pid="k/MKohlhase">Michael Kohlhase</author>
+<title>Computing Parallelism in Discourse.</title>
+<pages>1016-1021</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#GardentK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/033.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ReedL97" mdate="2019-08-20">
+<author pid="12/4444">Chris Reed</author>
+<author pid="54/3768">Derek Long</author>
+<title>Content Ordering in the Generation of Persuasive Discourse.</title>
+<pages>1022-1029</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ReedL97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/034.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Natural-Language Processing 5:
+Dialogue and Discourse</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/SadekBP97" mdate="2021-05-10">
+<author pid="66/3750">M. David Sadek</author>
+<author pid="97/5513">Philippe Bretier</author>
+<author pid="25/3557">Franck Panaget</author>
+<title>ARTIMIS: Natural Dialogue Meets Rational Agency.</title>
+<pages>1030-1035</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SadekBP97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/035.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Denecke97" mdate="2019-08-20">
+<author pid="11/5440">Matthias Denecke</author>
+<title>An Information-based Approach for Guiding Multi-Modal Human-Computer-Interaction.</title>
+<pages>1036-1041</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Denecke97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/036.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Blanchon97" mdate="2019-08-20">
+<author pid="92/1331">Herv&#233; Blanchon</author>
+<title>Interactive Disambiguation of Natural Language Input: a Methodology and Two Implementatioons for French and English.</title>
+<pages>1042-1049</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Blanchon97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/037.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Graphics</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/WangNWSI97" mdate="2019-08-20">
+<author pid="01/1652">Lisong Wang</author>
+<author pid="35/3720">Tsuyoshi Nakamura</author>
+<author pid="69/2929">Minkai Wang</author>
+<author pid="04/5137">Hirohisa Seki</author>
+<author pid="40/2365">Hidenori Itoh</author>
+<title>A Method of Generating Calligraphy of Japanese Character using Deformable Contourse.</title>
+<pages>1050-1055</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#WangNWSI97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/038.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhouF97" mdate="2019-08-20">
+<author pid="90/5406">Michelle X. Zhou</author>
+<author pid="f/StevenFeiner">Steven Feiner</author>
+<title>The Representation and Use of a Visual Lexicon for Automated Graphics Generation.</title>
+<pages>1056-1065</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI (2)</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ZhouF97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/039.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Neural Networks</h3> 
+<h4>Neural Nets 1:
+Rule Extractions</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/FrasconiGS97" mdate="2019-08-20">
+<author pid="73/32">Paolo Frasconi</author>
+<author pid="g/MarcoGori">Marco Gori</author>
+<author pid="s/ASperduti">Alessandro Sperduti</author>
+<title>On the Efficient Classification of Data Structures by Neural Networks.</title>
+<pages>1066-1071</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#FrasconiGS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/040.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RahmelBH97" mdate="2019-08-20">
+<author pid="13/2760">J&#252;rgen Rahmel</author>
+<author pid="b/CBlum">Christian Blum 0001</author>
+<author pid="82/4392">Peter Hahn</author>
+<title>On the Role of Hierarchy for Neural Network Interpretation.</title>
+<pages>1072-1077</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#RahmelBH97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/041.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SaitoN97" mdate="2019-08-20">
+<author pid="26/2033">Kazumi Saito</author>
+<author pid="43/294">Ryohei Nakano</author>
+<title>Law Discovery using Neural Networks.</title>
+<pages>1078-1083</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SaitoN97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/042.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Ishida97" mdate="2019-08-20">
+<author pid="70/1023">Yoshiteru Ishida</author>
+<title>Active Diagnosis by Self-Organization: An Approach by The Immune Network Metaphor.</title>
+<pages>1084-1091</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Ishida97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/043.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Neural Nets 2:
+Language and Structure Processing</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Lowe97" mdate="2019-08-20">
+<author pid="60/1550">Will Lowe</author>
+<title>Meaning and the Mental Lexicon.</title>
+<pages>1092-1097</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Lowe97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/044.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Tsukimoto97" mdate="2019-08-20">
+<author pid="01/5706">Hiroshi Tsukimoto</author>
+<title>Extracting Propositions from Trained Neural Networks.</title>
+<pages>1098-1105</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Tsukimoto97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/045.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Collier97" mdate="2019-08-20">
+<author pid="90/2619">Nigel Collier</author>
+<title>Convergence Time Characteristics of an Associative Memory for Natural Language Processing.</title>
+<pages>1106-1113</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Collier97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/046.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Neural Nets 3:
+Neurobiologically Inspired Computation</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/ZemelD97" mdate="2019-08-20">
+<author pid="16/6366">Richard S. Zemel</author>
+<author pid="22/522">Peter Dayan</author>
+<title>Combining Probabilistic Population Codes.</title>
+<pages>1114-1119</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ZemelD97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/047.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ChoeM97" mdate="2019-08-20">
+<author pid="81/4331">Yoonsuck Choe</author>
+<author pid="m/RistoMiikkulainen">Risto Miikkulainen</author>
+<title>Self-Organization and Segmentation with Laterally Connected Spiking Neurons.</title>
+<pages>1120-1125</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ChoeM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/048.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KashinoM97" mdate="2019-08-20">
+<author pid="68/651">Kunio Kashino</author>
+<author pid="92/4484">Hiroshi Murase</author>
+<title>A Music Stream Segregation System Based on Adaptive Multi-Agents.</title>
+<pages>1126-1133</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KashinoM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/049.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Neural Nets 4:
+Learning Algorithms and Architectures</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/TeowL97" mdate="2019-08-20">
+<author pid="60/4725">Loo-Nin Teow</author>
+<author pid="08/2138">Kia-Fock Loe</author>
+<title>An Effective Learning Method for Max-Min Neural Networks.</title>
+<pages>1134-1139</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#TeowL97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/050.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WeijtersHBP97" mdate="2019-08-20">
+<author pid="w/AJMMWeijters">Ton Weijters</author>
+<author pid="h/HJaapvandenHerik">H. Jaap van den Herik</author>
+<author pid="b/AvdBosch">Antal van den Bosch</author>
+<author pid="30/6647">Eric O. Postma</author>
+<title>Avoiding Overfitting with BP-SOM.</title>
+<pages>1140-1145</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#WeijtersHBP97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/051.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MurakawaYKH97" mdate="2019-08-20">
+<author pid="95/1852">Masahiro Murakawa</author>
+<author pid="68/5288">Shuji Yoshizawa</author>
+<author pid="25/854">Isamu Kajitani</author>
+<author pid="04/830">Tetsuya Higuchi</author>
+<title>Evolvable Hardware for Generalized Neural Networks.</title>
+<pages>1146-1155</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MurakawaYKH97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/052.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Planning and Scheduling</h3> 
+<h4>Planning 1:
+Relations among Techniques</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BoutilierBG97" mdate="2019-08-20">
+<author pid="10/3411">Craig Boutilier</author>
+<author pid="b/RonenIBrafman">Ronen I. Brafman</author>
+<author pid="88/4021">Christopher W. Geib</author>
+<title>Prioritized Goal Decomposition of Markov Decision Processes: Toward a Synthesis of Classical and Decision Theoretic Planning.</title>
+<pages>1156-1162</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BoutilierBG97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/053.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GivanD97" mdate="2019-08-20">
+<author pid="g/RobertGivan">Robert Givan</author>
+<author pid="71/9415">Thomas L. Dean</author>
+<title>Model Minimization, Regression, and Propositional STRIPS Planning.</title>
+<pages>1163-1168</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#GivanD97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/054.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ErnstMW97" mdate="2019-08-20">
+<author pid="e/MDErnst">Michael D. Ernst</author>
+<author pid="93/4679">Todd D. Millstein</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>Automatic SAT-Compilation of Planning Problems.</title>
+<pages>1169-1177</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ErnstMW97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/055.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Planning 2:
+Reactive Planning</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/WilliamsN97" mdate="2019-08-20">
+<author pid="33/2153-1">Brian C. Williams</author>
+<author pid="57/2360">P. Pandurang Nayak</author>
+<title>A Reactive Planner for a Model-based Executive.</title>
+<pages>1178-1185</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#WilliamsN97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/056.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Howard97" mdate="2019-08-20">
+<author pid="65/3631">Michael D. Howard</author>
+<title>Modeling Command Entities.</title>
+<pages>1186-1193</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Howard97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/057.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Planning 3:
+Planning under Uncertainty</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/MiuraS97" mdate="2019-08-20">
+<author pid="69/3213">Jun Miura</author>
+<author pid="24/3955">Yoshiaki Shirai</author>
+<title>Vision-Motion Planning of a Mobile Robot considering Vision Uncertainty and Planning Cost.</title>
+<pages>1194-1200</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MiuraS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/058.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MouaddibZ97" mdate="2019-08-20">
+<author pid="90/5967">Abdel-Illah Mouaddib</author>
+<author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author>
+<title>Handling Duration Uncertainty in Meta-Level Control of Progressive Processing.</title>
+<pages>1201-1207</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MouaddibZ97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/059.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Planning 4:
+Reasoning about Plans</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Lesh97" mdate="2019-08-20">
+<author pid="64/1883">Neal Lesh</author>
+<title>Adaptive Goal Recognition.</title>
+<pages>1208-1214</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Lesh97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/060.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LukaszewiczM97" mdate="2019-08-20">
+<author pid="73/4447">Witold Lukaszewicz</author>
+<author pid="71/3763">Ewa Madalinska-Bugaj</author>
+<title>Reasoning about Plans.</title>
+<pages>1215-1220</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LukaszewiczM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/061.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GiacomoLL97" mdate="2019-08-20">
+<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+<author pid="74/5003">Yves Lesp&#233;rance</author>
+<author pid="l/HJLevesque">Hector J. Levesque</author>
+<title>Reasoning about Concurrent Execution Prioritized Interrupts, and Exogenous Actions in the Situation Calculus.</title>
+<pages>1221-1226</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#GiacomoLL97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/062.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/EstlinM97" mdate="2019-08-20">
+<author pid="07/479">Tara A. Estlin</author>
+<author pid="m/RaymondJMooney">Raymond J. Mooney</author>
+<title>Learning to Improve both Efficiency and Quality of Planning.</title>
+<pages>1227-1233</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#EstlinM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/063.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Planning 5:
+Applications and Support</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/PellGKMS97" mdate="2019-08-20">
+<author pid="53/1240">Barney Pell</author>
+<author pid="76/2348">Erann Gat</author>
+<author pid="53/1378">Ron Keesing</author>
+<author pid="22/5493">Nicola Muscettola</author>
+<author pid="64/73">Benjamin D. Smith</author>
+<title>Robust Periodic Planning and Execution for Autonomous Spacecraft.</title>
+<pages>1234-1239</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#PellGKMS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/064.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BiundoS97" mdate="2019-08-20">
+<author pid="37/5274">Susanne Biundo</author>
+<author pid="151/9339">Werner Stephan 0001</author>
+<title>System Assistance in Structured Domain Model Development.</title>
+<pages>1240-1245</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BiundoS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/065.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BarrosHB97" mdate="2019-08-20">
+<author pid="51/6275">Leliane Nunes de Barros</author>
+<author pid="h/JamesAHendler">James A. Hendler</author>
+<author pid="12/6612">V. Richard Benjamins</author>
+<title>Par-KAP: a Knowledge Acquisition Tool for Building Practical Planning Systems.</title>
+<pages>1246-1253</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BarrosHB97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/066.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Scheduling</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Schaerf97" mdate="2019-08-20">
+<author pid="73/2861">Andrea Schaerf</author>
+<title>Combining Local Search and Look-Ahead for Scheduling and Constraint Satisfaction Problems.</title>
+<pages>1254-1259</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Schaerf97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/067.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MorrisBR97" mdate="2019-08-20">
+<author pid="32/2472-1">Robert A. Morris 0001</author>
+<author pid="84/4326">John L. Bresina</author>
+<author pid="48/3965">Stuart M. Rodgers</author>
+<title>Automatic Generation of Heuristics for Scheduling.</title>
+<pages>1260-1266</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MorrisBR97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/068.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/McVeyADS97" mdate="2019-08-20">
+<author pid="61/1575">Charles B. McVey</author>
+<author pid="78/6551">Ella M. Atkins</author>
+<author pid="d/EHDurfee">Edmund H. Durfee</author>
+<author pid="s/KangGShin">Kang G. Shin</author>
+<title>Development of Iterative Real-time Scheduler to Planner Feedback.</title>
+<pages>1267-1275</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#McVeyADS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/069.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Probabilistic Reasoning</h3> 
+<h4>Probabilistic Reasoning Distinguisted Paper</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/HuangR97" mdate="2022-04-20">
+<author pid="88/377">Timothy Huang</author>
+<author pid="r/SJRussell">Stuart Russell 0001</author>
+<title>Object Identification in a Bayesian Context.</title>
+<pages>1276-1283</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#HuangR97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/070.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Probabilistic Reasoning 1:
+Efficiency</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Poole97" mdate="2019-08-20">
+<author pid="p/DavidPoole">David Poole 0001</author>
+<title>Probabilistic Partial Evaluation: Exploiting Rule Structure in Probabilistic Inference.</title>
+<pages>1284-1291</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Poole97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/071.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BinderMR97" mdate="2022-04-20">
+<author pid="06/3294">John Binder</author>
+<author pid="26/2599">Kevin P. Murphy</author>
+<author pid="r/SJRussell">Stuart Russell 0001</author>
+<title>Space-Efficient Inference in Dynamic Probabilistic Networks.</title>
+<pages>1292-1296</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BinderMR97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/072.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Dechter97" mdate="2019-08-20">
+<author pid="d/RDechter">Rina Dechter</author>
+<title>Mini-Buckets: A General Scheme for Generating Approximations in Automated Reasoning.</title>
+<pages>1297-1303</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Dechter97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/073.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Probabilistic Reasoning 2:
+Causal Discovery</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/DaiKWW97" mdate="2021-06-06">
+<author pid="d/HonghuaDai">Honghua Dai 0001</author>
+<author pid="97/3195">Kevin B. Korb</author>
+<author pid="86/2899">Chris S. Wallace</author>
+<author pid="59/4107">Xindong Wu 0001</author>
+<title>A Study of Causal Discovery With Weak Links and Small Samples.</title>
+<pages>1304-1309</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DaiKWW97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/074.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/McCreathS97" mdate="2020-04-22">
+<author pid="55/4813">Eric McCreath</author>
+<author pid="20/6874-1">Arun Sharma 0001</author>
+<title>ILP with Noise and Fixed Example Size: A Bayesian Approach.</title>
+<pages>1310-1315</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#McCreathS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/075.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KollerP97" mdate="2019-08-20">
+<author pid="k/DaphneKoller">Daphne Koller</author>
+<author pid="p/AviPfeffer">Avi Pfeffer</author>
+<title>Learning Probabilities for Noisy First-Order Rules.</title>
+<pages>1316-1323</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#KollerP97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/076.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Probabilistic Reasoning 4</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Shoham97" mdate="2019-08-20">
+<author pid="s/YoavShoham">Yoav Shoham</author>
+<title>A Symmetric View of Utilities and Probabilities.</title>
+<pages>1324-1329</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Shoham97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/077.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SatoK97" mdate="2019-08-20">
+<author pid="11/864">Taisuke Sato</author>
+<author pid="41/6140">Yoshitaka Kameya</author>
+<title>PRISM: A Language for Symbolic-Statistical Modeling.</title>
+<pages>1330-1339</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SatoK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/078.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Robotics</h3> 
+<h4>Robotics 1</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/RekleitisDM97" mdate="2019-08-20">
+<author pid="41/6804">Ioannis M. Rekleitis</author>
+<author pid="d/GregoryDudek">Gregory Dudek</author>
+<author pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<title>Multi-Robot Exploration of an Unknown Environment, Efficiently Reducing the Odometry Error.</title>
+<pages>1340-1345</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#RekleitisDM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/079.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BurgardFT97" mdate="2019-08-20">
+<author pid="b/WolframBurgard">Wolfram Burgard</author>
+<author pid="f/DieterFox">Dieter Fox</author>
+<author pid="t/SebastianThrun">Sebastian Thrun</author>
+<title>Active Mobile Robot Localization.</title>
+<pages>1346-1352</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BurgardFT97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/080.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MurphyHS97" mdate="2019-08-20">
+<author pid="71/3442">Robin R. Murphy</author>
+<author pid="83/6302">Dale K. Hawkins</author>
+<author pid="84/2795">Marcel Schoppers</author>
+<title>Reactive Combination of Belief Over Time Using Direct Perception.</title>
+<pages>1353-1359</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MurphyHS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/081.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Robotics 2</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/LargeCB97" mdate="2019-08-20">
+<author pid="85/3237">Edward W. Large</author>
+<author pid="c/HIChristensen">Henrik I. Christensen</author>
+<author pid="b/RuzenaBajcsy">Ruzena Bajcsy</author>
+<title>Scaling the Dynamic Approach to Autonomous Path Planning: Planning Horizon Dynamics.</title>
+<pages>1360-1365</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LargeCB97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/082.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HuberG97" mdate="2019-08-20">
+<author pid="81/682">Manfred Huber</author>
+<author pid="g/RodericAGrupen">Roderic A. Grupen</author>
+<title>Learning to Coordinate Controllers - Reinforcement Learning on a Control Basis.</title>
+<pages>1366-1371</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#HuberG97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/083.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PendersB97" mdate="2019-08-20">
+<author pid="10/1381">Jacques Penders</author>
+<author pid="63/6310">Peter J. Braspenning</author>
+<title>Situated Actions and Cognition.</title>
+<pages>1372-1381</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#PendersB97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/084.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Search</h3> 
+<h4>Search 1:
+Depth-First Search</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Meseguer97" mdate="2019-08-20">
+<author pid="96/1119">Pedro Meseguer</author>
+<title>Interleaved Depth-First Search.</title>
+<pages>1382-1387</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Meseguer97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/085.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Walsh97" mdate="2019-08-20">
+<author pid="86/2576">Toby Walsh</author>
+<title>Depth-bounded Discrepancy Search.</title>
+<pages>1388-1395</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Walsh97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/086.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Search 2:
+Bin Packing</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/GentW97" mdate="2019-08-20">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>From Approximate to Optimal Solutions: Constructing Pruning and Propagation Rules.</title>
+<pages>1396-1401</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#GentW97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/087.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LeeT97" mdate="2019-08-20">
+<author pid="57/107">Ho Soo Lee</author>
+<author pid="76/2490">Mark Trumbo</author>
+<title>An Approximate 0-1 Edge-Labeling Algorithm for Constrained Bin-Packing Problem.</title>
+<pages>1402-1411</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#LeeT97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/088.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Temporal Reasoning</h3> 
+<h4>Temporal Reasoning Distinguished Paper</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Lin97" mdate="2019-08-20">
+<author pid="73/6980">Fangzhen Lin</author>
+<title>Applications of the Situation Calculus To Formalizing Control and Strategy Information: The Prolog Cut Operator.</title>
+<pages>1412-1419</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Lin97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/089.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Temporal Reasoning 1</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BjarelandK97" mdate="2019-08-20">
+<author pid="29/3247">Marcus Bj&#228;reland</author>
+<author pid="68/5373">Lars Karlsson</author>
+<title>Reasoning by Regression: Pre- and Postdiction Procedures for Logics of Action and Change.</title>
+<pages>1420-1425</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BjarelandK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/090.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Costello97" mdate="2019-08-20">
+<author pid="50/1687">Tom Costello</author>
+<title>Change, Change, Change: Three Approaches.</title>
+<pages>1426-1433</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Costello97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/091.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Temporal Reasoning 2</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Karlsson97" mdate="2019-08-20">
+<author pid="68/5373">Lars Karlsson</author>
+<title>Reasoning with Incomplete Initial Information and Nondeterminism in Situation Calculus.</title>
+<pages>1434-1440</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Karlsson97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/092.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BaralL97" mdate="2019-08-20">
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<author pid="l/JorgeLobo1">Jorge Lobo 0001</author>
+<title>Defeasible Specifications in Action Theories.</title>
+<pages>1441-1446</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BaralL97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/093.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DrakengrenB97" mdate="2019-08-20">
+<author pid="63/2717">Thomas Drakengren</author>
+<author pid="29/3247">Marcus Bj&#228;reland</author>
+<title>Reasoning about Action in Polynomial Time.</title>
+<pages>1447-1453</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DrakengrenB97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/094.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Temporal Reasoning 3</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/NavarreteM97" mdate="2019-08-20">
+<author pid="87/535">Isabel Navarrete</author>
+<author pid="34/6494">Roque Mar&#237;n</author>
+<title>Qualitative Temporal Reasoning with Points and Durations.</title>
+<pages>1454-1459</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#NavarreteM97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/095.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GereviniC97" mdate="2019-08-20">
+<author pid="73/3274">Alfonso Gerevini</author>
+<author pid="96/6270">Matteo Cristani</author>
+<title>On Finding a Solution in Temporal Constraint Satisfaction Problems.</title>
+<pages>1460-1465</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#GereviniC97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/096.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DrakengrenJ97" mdate="2019-08-20">
+<author pid="63/2717">Thomas Drakengren</author>
+<author pid="j/PeterJonsson">Peter Jonsson</author>
+<title>Towards a Complete Classification of Tractability in Allen's Algebra.</title>
+<pages>1466-1475</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#DrakengrenJ97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/097.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Vision</h3> 
+<h4>Vision 1</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BeveridgeGS97" mdate="2019-08-20">
+<author pid="97/1091">J. Ross Beveridge</author>
+<author pid="87/2447">Christopher R. Graves</author>
+<author pid="72/905">Jim Steinborn</author>
+<title>Comparing Random Starts Local Search with Key Feature Matching.</title>
+<pages>1476-1481</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#BeveridgeGS97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/098.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ChungO97" mdate="2019-08-20">
+<author pid="83/483">Jae-Moon Chung</author>
+<author pid="52/901">Noboru Ohnishi</author>
+<title>Chain of Circles for Matching and Recognition of Planar Shapes.</title>
+<pages>1482-1487</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ChungO97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/099.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SatohNK97" mdate="2021-07-21">
+<author pid="50/290">Shin'ichi Satoh 0001</author>
+<author pid="n/YuichiNakamura">Yuichi Nakamura</author>
+<author pid="k/TakeoKanade">Takeo Kanade</author>
+<title>Name-It: Naming and Detecting Faces in Video by the Integration of Image and Natural Language Processing.</title>
+<pages>1488-1495</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SatohNK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/100.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Vision 2:
+Stereo Vision</h4> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/IwahoriKBWI97" mdate="2019-08-20">
+<author pid="15/6471">Yuji Iwahori</author>
+<author pid="10/2637">Wataru Kato</author>
+<author pid="56/4904">Shoaib Bhuiyab</author>
+<author pid="58/714">Robert J. Woodham</author>
+<author pid="26/5966">Naohiro Ishii</author>
+<title>Neural Network Based Photometric Strereo Using Illumination Planning.</title>
+<pages>1496-1501</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#IwahoriKBWI97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/101.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhangX97" mdate="2019-08-20">
+<author pid="73/5043">Zhengyou Zhang</author>
+<author pid="21/1244">Gang Xu</author>
+<title>A General Expression of the Fundamental Matrix for Both Perspective and Affine Cameras.</title>
+<pages>1502-1510</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#ZhangX97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/102.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Panel</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/SinghBHKK97" mdate="2019-08-20">
+<author pid="s/MunindarPSingh">Munindar P. Singh</author>
+<author pid="b/DGBobrow">Daniel G. Bobrow</author>
+<author pid="h/MichaelNHuhns">Michael N. Huhns</author>
+<author pid="88/1661">Margaret King</author>
+<author pid="71/1622">Hiroaki Kitano</author>
+<title>The Next Big Thing: Position Statements.</title>
+<pages>1511-1524</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#SinghBHKK97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/103.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Videos</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/HeizmannZ97" mdate="2019-08-20">
+<author pid="59/4592">J. Heizmann</author>
+<author pid="35/1386">Alexander Zelinsky</author>
+<title>Robust Real-Time Face Tracking and Gesture Recognition.</title>
+<pages>1525-1530</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#HeizmannZ97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/104.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PadghamT97" mdate="2019-08-20">
+<author pid="p/LPadgham">Lin Padgham</author>
+<author pid="45/2160">Guy Taylor</author>
+<title>PAC - Personality and Cognition: An Interactive System for Modelling Agent Scenarios.</title>
+<pages>1531-1538</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#PadghamT97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/105.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Doctoral Consortium Abstracts</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Agostini97" mdate="2019-08-20">
+<author pid="91/1045">Alessandro Agostini</author>
+<title>Modularity in Computer Assisted Reasoning Systems.</title>
+<pages>1539</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Agostini97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/106.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Boyd97" mdate="2019-08-20">
+<author pid="81/4569">Sarah Boyd</author>
+<title>Describing Time-Varying Data.</title>
+<pages>1540</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Boyd97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/107.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Jamnik97" mdate="2019-08-20">
+<author pid="41/1392">Mateja Jamnik</author>
+<title>Automation of Diagrammatic Proofs in Mathematics.</title>
+<pages>1541</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Jamnik97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/108.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Sison97" mdate="2019-08-20">
+<author pid="24/4989">Raymund Sison</author>
+<title>Toward the Automatic Discovery of Misconceptions.</title>
+<pages>1542</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Sison97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/109.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Song97" mdate="2019-08-20">
+<author pid="22/214">Hongjun Song</author>
+<title>Control Structures for Software Agents.</title>
+<pages>1543</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Song97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/110.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Teller97" mdate="2019-08-20">
+<author pid="64/3706">Astro Teller</author>
+<title>Algorithm Evolution for Signal Understanding.</title>
+<pages>1544</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Teller97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/111.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Virili97" mdate="2019-08-20">
+<author pid="32/6830">Francesco Virili</author>
+<title>The Use of Neural Network Approach in Financial Asset Management.</title>
+<pages>1545</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Virili97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/112.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Wang97" mdate="2019-08-20">
+<author pid="26/4500">Hongxue Wang</author>
+<title>Constrainted Object Hierarchy - An Architecture for Intelligent Systems.</title>
+<pages>1546</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Wang97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/113.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Invited Speakers</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Bibel97" mdate="2019-08-20">
+<author pid="b/WBibel">Wolfgang Bibel</author>
+<title>Let's Plan It Deductively!</title>
+<pages>1549-1562</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Bibel97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/114.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Boden97" mdate="2019-08-20">
+<author pid="75/6153">Margaret A. Boden</author>
+<title>Creativity and Artificial Intelligence.</title>
+<pages>1563-1566</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Boden97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/115.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Castelfranchi97" mdate="2019-08-20">
+<author pid="96/1517">Cristiano Castelfranchi</author>
+<title>Modeling Social Action for AI Agents.</title>
+<pages>1567-1576</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Castelfranchi97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/116.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Dickmanns97" mdate="2019-08-20">
+<author pid="35/385">Ernst D. Dickmanns</author>
+<title>Vehicles Capable of Dynamic Vision.</title>
+<pages>1577-1592</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Dickmanns97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/117.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Inaba97" mdate="2019-08-20">
+<author pid="16/5895">Masayuki Inaba</author>
+<title>Remote-Brained Robots.</title>
+<pages>1593-1606</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Inaba97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/118.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/McKeown97" mdate="2019-08-20">
+<author pid="m/KathleenMcKeown">Kathleen R. McKeown</author>
+<title>Generating Multimedia Briefings: Language Generation in a Coordinated Multimedia Environment.</title>
+<pages>1607-1612</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#McKeown97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/119.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Morgenstern97" mdate="2019-08-20">
+<author pid="46/2598">Leora Morgenstern</author>
+<title>Inheritance Comes of Age: Applying Nonmonotonic Techniques to Problems in Industry.</title>
+<pages>1613-1621</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Morgenstern97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/120.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MotodaY97" mdate="2019-08-20">
+<author pid="08/6525">Hiroshi Motoda</author>
+<author pid="53/6903">Kenichi Yoshida</author>
+<title>Machine Learning Techniques to Make Computers Easier to Use.</title>
+<pages>1622-1631</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#MotodaY97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/121.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Steels97" mdate="2019-08-20">
+<author pid="55/5357">Luc Steels</author>
+<title>The Origins of Syntax in Visually Grounded Robotic Agents.</title>
+<pages>1632-1641</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Steels97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/122.pdf</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Hentenryck97" mdate="2019-08-20">
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Numerica: A Modeling Language for Global Optimization.</title>
+<pages>1642-1650</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Hentenryck97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/123.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Awards</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Joshi97" mdate="2019-08-20">
+<author pid="j/AravindKJoshi">Aravind K. Joshi</author>
+<title>Research Excellence Award: Relationship Between Natural Language Processing and AI.</title>
+<pages>1651-1652</pages>
+<year>1997</year>
+<crossref>conf/ijcai/1997</crossref>
+<booktitle>IJCAI</booktitle>
+<url>db/conf/ijcai/ijcai97.html#Joshi97</url>
+<ee type="oa">http://ijcai.org/Proceedings/97-2/Papers/124.pdf</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

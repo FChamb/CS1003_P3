@@ -1,0 +1,537 @@
+<bht key="db/conf/sara/sara2007.bht" title="SARA 2007">  
+<h1>7. <ref href="db/conf/sara/index.html">SARA</ref> 2007:
+Whistler, Canada</h1> <dblpcites><r><proceedings key="conf/sara/2007" mdate="2019-05-14">
+<editor orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</editor>
+<editor pid="80/5790">Wheeler Ruml</editor>
+<title>Abstraction, Reformulation, and Approximation, 7th International Symposium, SARA 2007, Whistler, Canada, July 18-21, 2007, Proceedings</title>
+<booktitle>SARA</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4612</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-73579-3</isbn>
+<ee>https://doi.org/10.1007/978-3-540-73580-9</ee>
+<url>db/conf/sara/sara2007.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Invited Talks (Abstracts)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sara/Bulitko07" mdate="2017-05-23">
+<author pid="b/VadimBulitko">Vadim Bulitko</author>
+<title>State Abstraction in Real-Time Heuristic Search.</title>
+<pages>1</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_1</ee>
+<url>db/conf/sara/sara2007.html#Bulitko07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Frisch07" mdate="2021-10-14">
+<author orcid="0000-0001-5015-2676" pid="51/6077">Alan M. Frisch</author>
+<title>Abstraction and Reformulation in the Generation of Constraint Models.</title>
+<pages>2-3</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_2</ee>
+<url>db/conf/sara/sara2007.html#Frisch07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Hooker07" mdate="2017-05-23">
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<title>A Framework for Integrating Optimization and Constraint Programming.</title>
+<pages>4</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_3</ee>
+<url>db/conf/sara/sara2007.html#Hooker07</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sara/AbrilSB07" mdate="2017-05-23">
+<author pid="a/MontserratAbrilLopez">Montserrat Abril</author>
+<author pid="50/2495">Miguel A. Salido</author>
+<author pid="60/1527">Federico Barber</author>
+<title>DFS-Tree Based Heuristic Search.</title>
+<pages>5-19</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_4</ee>
+<url>db/conf/sara/sara2007.html#AbrilSB07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/AndersonHS07" mdate="2023-01-16">
+<author pid="60/1633-3">Kenneth Anderson 0003</author>
+<author pid="h/RobertHolte">Robert Holte</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>Partial Pattern Databases.</title>
+<pages>20-34</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_5</ee>
+<url>db/conf/sara/sara2007.html#AndersonHS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/AndersonR07" mdate="2021-07-25">
+<author pid="34/2647">Scot Anderson</author>
+<author orcid="0000-0002-1145-1283" pid="r/PZRevesz">Peter Z. Revesz</author>
+<title>CDB-PV: A Constraint Database-Based Program Verifier.</title>
+<pages>35-49</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_6</ee>
+<url>db/conf/sara/sara2007.html#AndersonR07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Bartak07" mdate="2017-05-23">
+<author pid="04/5344">Roman Bart&#225;k</author>
+<title>Generating Implied Boolean Constraints Via Singleton Consistency.</title>
+<pages>50-63</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_7</ee>
+<url>db/conf/sara/sara2007.html#Bartak07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/BayerMCK07" mdate="2020-09-05">
+<author pid="52/1979">Kenneth M. Bayer</author>
+<author orcid="0000-0003-2060-5878" pid="80/3650">Martin Michalowski</author>
+<author pid="64/4385">Berthe Y. Choueiry</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<title>Reformulating Constraint Satisfaction Problems to Improve Scalability.</title>
+<pages>64-79</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_8</ee>
+<url>db/conf/sara/sara2007.html#BayerMCK07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/BessiereHHKQW07" mdate="2021-04-09">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<author pid="66/5390">Brahim Hnich</author>
+<author pid="54/4901">Zeynep Kiziltan</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Reformulating Global Constraints: The Slideand RegularConstraints.</title>
+<pages>80-92</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_9</ee>
+<url>db/conf/sara/sara2007.html#BessiereHHKQW07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/DAlmeidaCLS07" mdate="2017-05-23">
+<author pid="91/1911">Dominique D'Almeida</author>
+<author pid="47/2681">Jean-Fran&#231;ois Condotta</author>
+<author pid="95/2777">Christophe Lecoutre</author>
+<author pid="s/LakhdarSais">Lakhdar Sais</author>
+<title>Relaxation of Qualitative Constraint Networks.</title>
+<pages>93-108</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_10</ee>
+<url>db/conf/sara/sara2007.html#DAlmeidaCLS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Kleer07" mdate="2017-05-23">
+<author pid="d/JohandeKleer">Johan de Kleer</author>
+<title>Dynamic Domain Abstraction Through Meta-diagnosis.</title>
+<pages>109-123</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_11</ee>
+<url>db/conf/sara/sara2007.html#Kleer07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/SaegerS07" mdate="2017-05-23">
+<author pid="76/4297">Stijn De Saeger</author>
+<author pid="97/6888">Atsushi Shimojima</author>
+<title>Channeling Abstraction.</title>
+<pages>124-138</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_12</ee>
+<url>db/conf/sara/sara2007.html#SaegerS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/FeldmanPG07" mdate="2017-05-23">
+<author pid="44/4566">Alexander Feldman</author>
+<author pid="81/2894">Gregory M. Provan</author>
+<author pid="81/3406">Arjan J. C. van Gemund</author>
+<title>Approximate Model-Based Diagnosis Using Greedy Stochastic Search.</title>
+<pages>139-154</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_13</ee>
+<url>db/conf/sara/sara2007.html#FeldmanPG07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/FelnerO07" mdate="2017-05-23">
+<author pid="43/5063">Ariel Felner</author>
+<author pid="12/6692">Nir Ofek</author>
+<title>Combining Perimeter Search and Pattern Database Abstractions.</title>
+<pages>155-168</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_14</ee>
+<url>db/conf/sara/sara2007.html#FelnerO07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/GammerA07" mdate="2017-05-23">
+<author pid="14/454">Igor Gammer</author>
+<author pid="17/1143">Eyal Amir</author>
+<title>Solving Satisfiability in Ground Logic with Equality by Efficient Conversion to Propositional Logic.</title>
+<pages>169-183</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_15</ee>
+<url>db/conf/sara/sara2007.html#GammerA07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/GentMR07" mdate="2017-06-05">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="38/6313">Andrea Rendl</author>
+<title>Tailoring Solver-Independent Constraint Models: A Case Study with Essence' and Minion.</title>
+<pages>184-199</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_16</ee>
+<url>db/conf/sara/sara2007.html#GentMR07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/GregoryLF07" mdate="2021-11-02">
+<author pid="72/2560">Peter Gregory</author>
+<author pid="54/3768">Derek Long</author>
+<author pid="35/2895">Maria Fox 0001</author>
+<title>A Meta-CSP Model for Optimal Planning.</title>
+<pages>200-214</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_17</ee>
+<url>db/conf/sara/sara2007.html#GregoryLF07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/HinrichsG07" mdate="2017-05-23">
+<author pid="h/TimothyLHinrichs">Timothy L. Hinrichs</author>
+<author pid="g/MRGenesereth">Michael R. Genesereth</author>
+<title>Reformulation for Extensional Reasoning.</title>
+<pages>215-229</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_18</ee>
+<url>db/conf/sara/sara2007.html#HinrichsG07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/IbrahimT07" mdate="2022-04-09">
+<author orcid="0000-0001-6203-2727" pid="55/6241">Zina M. Ibrahim</author>
+<author pid="26/2828">Ahmed Y. Tawfik</author>
+<title>An Abstract Theory and Ontology of Motion Based on the Regions Connection Calculus.</title>
+<pages>230-242</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_19</ee>
+<url>db/conf/sara/sara2007.html#IbrahimT07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/KuterH07" mdate="2017-05-23">
+<author pid="69/5953">Ugur Kuter</author>
+<author pid="92/3545">Jiaqiao Hu</author>
+<title>Computing and Using Lower and Upper Bounds for Action Elimination in MDP Planning.</title>
+<pages>243-257</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_20</ee>
+<url>db/conf/sara/sara2007.html#KuterH07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/JongS07" mdate="2017-05-23">
+<author pid="25/2154">Nicholas K. Jong</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>Model-Based Exploration in Continuous State Spaces.</title>
+<pages>258-272</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_21</ee>
+<url>db/conf/sara/sara2007.html#JongS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/JonssonB07" mdate="2017-05-23">
+<author pid="05/3488">Anders Jonsson</author>
+<author pid="a/AndrewGBarto">Andrew G. Barto</author>
+<title>Active Learning of Dynamic Bayesian Networks in Markov Decision Processes.</title>
+<pages>273-284</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_22</ee>
+<url>db/conf/sara/sara2007.html#JonssonB07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/GonzalezM07" mdate="2017-05-23">
+<author pid="36/6634">Santiago Macho Gonz&#225;lez</author>
+<author pid="96/1119">Pedro Meseguer</author>
+<title>Boosting MUS Extraction.</title>
+<pages>285-299</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_23</ee>
+<url>db/conf/sara/sara2007.html#GonzalezM07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/RaghavanB07" mdate="2021-10-14">
+<author pid="04/2966">Sriram Raghavan</author>
+<author orcid="0000-0002-5364-7639" pid="69/2281">Balaraman Ravindran</author>
+<title>Homogeneous Hierarchical Composition of Areas in Multi-robot Area Coverage.</title>
+<pages>300-313</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_24</ee>
+<url>db/conf/sara/sara2007.html#RaghavanB07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/SaittaTT07" mdate="2022-10-02">
+<author pid="s/LorenzaSaitta">Lorenza Saitta</author>
+<author pid="19/1181">Pietro Torasso</author>
+<author orcid="0000-0002-4276-7213" pid="41/3800">Gianluca Torta</author>
+<title>Formalizing the Abstraction Process in Model-Based Diagnosis.</title>
+<pages>314-328</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_25</ee>
+<url>db/conf/sara/sara2007.html#SaittaTT07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/SchachteS07" mdate="2018-11-14">
+<author pid="71/214">Peter Schachte</author>
+<author orcid="0000-0002-2352-1883" pid="s/HaraldSondergaard">Harald S&#248;ndergaard</author>
+<title>Boolean Approximation Revisited.</title>
+<pages>329-343</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_26</ee>
+<ee>https://www.wikidata.org/entity/Q57665016</ee>
+<url>db/conf/sara/sara2007.html#SchachteS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/SturtevantJ07" mdate="2017-05-23">
+<author pid="18/991">Nathan R. Sturtevant</author>
+<author pid="82/4197">M. Renee Jansen</author>
+<title>An Analysis of Map-Based Abstraction and Refinement.</title>
+<pages>344-358</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_27</ee>
+<url>db/conf/sara/sara2007.html#SturtevantJ07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Surynek07" mdate="2017-05-23">
+<author pid="13/1754">Pavel Surynek</author>
+<title>Solving Difficult SAT Instances Using Greedy Clique Decomposition.</title>
+<pages>359-374</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_28</ee>
+<url>db/conf/sara/sara2007.html#Surynek07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/SaittaZ07" mdate="2017-05-23">
+<author pid="s/LorenzaSaitta">Lorenza Saitta</author>
+<author pid="78/2478">Jean-Daniel Zucker</author>
+<title>Abstraction and Complexity Measures.</title>
+<pages>375-390</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_29</ee>
+<url>db/conf/sara/sara2007.html#SaittaZ07</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Summaries</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sara/Abbott07" mdate="2017-05-23">
+<author pid="p/RussAbbott">Russ Abbott</author>
+<title>Abstraction, Emergence, and Thought.</title>
+<pages>391-392</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_30</ee>
+<url>db/conf/sara/sara2007.html#Abbott07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/BeckG07" mdate="2017-05-23">
+<author pid="43/2165">J. Christopher Beck</author>
+<author pid="29/4227">Michael Gr&#252;ninger</author>
+<title>What's Your Problem? The Problem of Problem Definition.</title>
+<pages>393-394</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_31</ee>
+<url>db/conf/sara/sara2007.html#BeckG07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/CambazardO07" mdate="2017-05-23">
+<author pid="74/6721">Hadrien Cambazard</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>A Reformulation-Based Approach to Explanation in Constraint Satisfaction.</title>
+<pages>395-396</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_32</ee>
+<url>db/conf/sara/sara2007.html#CambazardO07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/CrawfordCM07" mdate="2021-02-23">
+<author pid="99/4622">Broderick Crawford</author>
+<author pid="02/3606-1">Carlos Castro 0001</author>
+<author pid="29/5834">&#201;ric Monfroy</author>
+<title>Integration of Constraint Programming and Metaheuristics.</title>
+<pages>397-398</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_33</ee>
+<url>db/conf/sara/sara2007.html#CrawfordCM07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Haley07" mdate="2017-05-23">
+<author pid="02/900">David C. Haley</author>
+<title>Rule-Based Reasoning Via Abstraction.</title>
+<pages>399</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_34</ee>
+<url>db/conf/sara/sara2007.html#Haley07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Hinrichs07" mdate="2017-05-23">
+<author pid="h/TimothyLHinrichs">Timothy L. Hinrichs</author>
+<title>Extensional Reasoning.</title>
+<pages>400-401</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_35</ee>
+<url>db/conf/sara/sara2007.html#Hinrichs07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/MichalowskiKC07" mdate="2020-09-05">
+<author orcid="0000-0003-2060-5878" pid="80/3650">Martin Michalowski</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<author pid="64/4385">Berthe Y. Choueiry</author>
+<title>Reformulating Constraint Models Using Input Data.</title>
+<pages>402-404</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_36</ee>
+<url>db/conf/sara/sara2007.html#MichalowskiKC07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Pickett07" mdate="2017-05-23">
+<author pid="12/2314">Marc Pickett</author>
+<title>Using Analogy Discovery to Create Abstractions.</title>
+<pages>405-406</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_37</ee>
+<url>db/conf/sara/sara2007.html#Pickett07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Salido07" mdate="2017-05-23">
+<author pid="50/2495">Miguel A. Salido</author>
+<title>Distributed CSPs: Why It Is Assumed a Variable per Agent?</title>
+<pages>407-408</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_38</ee>
+<url>db/conf/sara/sara2007.html#Salido07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Schkufza07" mdate="2017-05-23">
+<author pid="33/3357">Eric Schkufza</author>
+<title>Decomposition of Games for Efficient Reasoning.</title>
+<pages>409-410</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_39</ee>
+<url>db/conf/sara/sara2007.html#Schkufza07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/VuO07" mdate="2017-05-23">
+<author pid="94/1218">Xuan-Ha Vu</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Generalized Constraint Acquisition.</title>
+<pages>411-412</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_40</ee>
+<url>db/conf/sara/sara2007.html#VuO07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/YangCH07" mdate="2017-05-23">
+<author pid="29/3081">Fan Yang</author>
+<author pid="56/4455">Joseph C. Culberson</author>
+<author pid="h/RobertHolte">Robert Holte</author>
+<title>Using Infeasibility to Improve Abstraction-Based Heuristics.</title>
+<pages>413-414</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_41</ee>
+<url>db/conf/sara/sara2007.html#YangCH07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sara/Zhou07" mdate="2017-05-23">
+<author pid="z/RongZhou1">Rong Zhou 0001</author>
+<title>Leveraging Graph Locality Via Abstraction.</title>
+<pages>415-416</pages>
+<year>2007</year>
+<crossref>conf/sara/2007</crossref>
+<booktitle>SARA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73580-9_42</ee>
+<url>db/conf/sara/sara2007.html#Zhou07</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

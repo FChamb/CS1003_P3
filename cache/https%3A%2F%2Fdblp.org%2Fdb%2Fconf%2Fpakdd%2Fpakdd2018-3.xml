@@ -1,0 +1,936 @@
+<bht key="db/conf/pakdd/pakdd2018-3.bht" title="PAKDD 2018"> 
+<h1>22nd <ref href="db/conf/pakdd/index.html">PAKDD</ref> 2018:
+Melbourne, VIC, Australia</h1><dblpcites><r><proceedings key="conf/pakdd/2018-3" mdate="2019-05-14">
+<editor pid="71/5859">Dinh Q. Phung</editor>
+<editor pid="t/VincentSMTseng">Vincent S. Tseng</editor>
+<editor pid="w/GeoffreyIWebb">Geoffrey I. Webb</editor>
+<editor pid="193/2564">Bao Ho</editor>
+<editor pid="167/3222">Mohadeseh Ganji</editor>
+<editor pid="08/10247">Lida Rashidi</editor>
+<title>Advances in Knowledge Discovery and Data Mining - 22nd Pacific-Asia Conference, PAKDD 2018, Melbourne, VIC, Australia, June 3-6, 2018, Proceedings, Part III</title>
+<booktitle>PAKDD (3)</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10939</volume>
+<isbn>978-3-319-93039-8</isbn>
+<isbn>978-3-319-93040-4</isbn>
+<ee>https://doi.org/10.1007/978-3-319-93040-4</ee>
+<url>db/conf/pakdd/pakdd2018-3.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Feature Learning and Data Mining Process</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pakdd/0004H18" mdate="2019-09-16">
+<author orcid="0000-0003-0649-8850" pid="62/1539-4">Wei Song 0004</author>
+<author pid="218/2129">Chaomin Huang</author>
+<title>Discovering High Utility Itemsets Based on the Artificial Bee Colony Algorithm.</title>
+<pages>3-14</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_1</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#0004H18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/RanbadugeVC18" mdate="2020-09-05">
+<author pid="162/3257">Thilina Ranbaduge</author>
+<author orcid="0000-0001-6713-7667" pid="89/7958">Dinusha Vatsalan</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<title>A Scalable and Efficient Subgroup Blocking Scheme for Multidatabase Record Linkage.</title>
+<pages>15-27</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_2</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#RanbadugeVC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/ZhangBKTC18" mdate="2018-06-19">
+<author pid="10/4661">Wei Zhang</author>
+<author pid="221/2914">Shiladitya Bose</author>
+<author pid="214/4126">Said Kobeissi</author>
+<author pid="214/4064">Scott Tomko</author>
+<author pid="214/4103">Chris Challis</author>
+<title>Efficient Feature Selection Framework for Digital Marketing Applications.</title>
+<pages>28-39</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_3</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ZhangBKTC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/XieQ18" mdate="2018-06-19">
+<author pid="26/6923">Xiaojun Xie</author>
+<author pid="32/1395">Xiaolin Qin</author>
+<title>Dynamic Feature Selection Algorithm Based on Minimum Vertex Cover of Hypergraph.</title>
+<pages>40-51</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_4</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#XieQ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/PereraCK18" mdate="2022-10-02">
+<author orcid="0000-0002-5020-1738" pid="27/10105">Kushani Perera</author>
+<author orcid="0000-0002-7865-072X" pid="19/3414">Jeffrey Chan</author>
+<author pid="47/5584">Shanika Karunasekera</author>
+<title>Feature Selection for Multiclass Binary Data.</title>
+<pages>52-63</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_5</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#PereraCK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/MontielRBA18" mdate="2020-09-05">
+<author orcid="0000-0003-2245-0718" pid="213/1611">Jacob Montiel</author>
+<author pid="41/5377">Jesse Read</author>
+<author pid="48/1070">Albert Bifet</author>
+<author pid="a/TAbdessalem">Talel Abdessalem</author>
+<title>Scalable Model-Based Cascaded Imputation of Missing Data.</title>
+<pages>64-76</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_6</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#MontielRBA18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/ZhangIK18" mdate="2018-06-19">
+<author pid="211/5754">Guoxi Zhang</author>
+<author pid="29/5953">Tomoharu Iwata</author>
+<author pid="27/4448">Hisashi Kashima</author>
+<title>On Reducing Dimensionality of Labeled Data Efficiently.</title>
+<pages>77-88</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_7</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ZhangIK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/AkgunDKC18" mdate="2018-11-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<title>Using Metric Space Indexing for Complete and Efficient Record Linkage.</title>
+<pages>89-101</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_8</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#AkgunDKC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/BhardwajM18" mdate="2018-06-19">
+<author pid="127/1347">Kartikeya Bhardwaj</author>
+<author pid="88/3494">Radu Marculescu</author>
+<title>Dimensionality Reduction via Community Detection in Small Sample Datasets.</title>
+<pages>102-114</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_9</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#BhardwajM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/TangDXL18" mdate="2018-06-19">
+<author pid="214/3840">Xiaochuan Tang</author>
+<author pid="18/5175">Yuanshun Dai</author>
+<author pid="21/6849">Yanping Xiang</author>
+<author pid="34/5417">Liang Luo</author>
+<title>An Interaction-Enhanced Feature Selection Algorithm.</title>
+<pages>115-125</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_10</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#TangDXL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/AlharbiLX18" mdate="2019-10-30">
+<author pid="202/8950">Abdullah Semran Alharbi</author>
+<author pid="74/4581">Yuefeng Li</author>
+<author orcid="0000-0002-1137-0272" pid="29/3925-1">Yue Xu 0001</author>
+<title>An Extended Random-Sets Model for Fusion-Based Text Feature Selection.</title>
+<pages>126-138</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_11</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#AlharbiLX18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/WeiWW18" mdate="2018-06-19">
+<author pid="221/2912">Jipeng Wei</author>
+<author pid="99/10036">Qianjin Wei</author>
+<author pid="24/6463">Yimin Wen</author>
+<title>Attribute Reduction Algorithm Based on Improved Information Gain Rate and Ant Colony Optimization.</title>
+<pages>139-150</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_12</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#WeiWW18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/CaiRZ18" mdate="2022-12-07">
+<author pid="174/2232">Xingyu Cai</author>
+<author pid="r/SanguthevarRajasekaran">Sanguthevar Rajasekaran</author>
+<author pid="21/3626-10">Fan Zhang 0010</author>
+<title>Efficient Approximate Algorithms for the Closest Pair Problem in High Dimensional Spaces.</title>
+<pages>151-163</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_13</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#CaiRZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/PratapSK18" mdate="2021-10-14">
+<author orcid="0000-0002-8824-6202" pid="00/10670">Rameshwar Pratap</author>
+<author pid="205/2785">Ishan Sohony</author>
+<author pid="07/3731">Raghav Kulkarni</author>
+<title>Efficient Compression Technique for Sparse Sets.</title>
+<pages>164-176</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_14</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#PratapSK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/JurekP18" mdate="2019-03-12">
+<author pid="45/8120">Anna Jurek</author>
+<author pid="33/1882">Deepak P 0001</author>
+<title>It Pays to Be Certain: Unsupervised Record Linkage via Ambiguity Minimization.</title>
+<pages>177-190</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_15</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#JurekP18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Community Detection and Network Science</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pakdd/MandaglioAT18" mdate="2018-06-19">
+<author pid="218/6425">Domenico Mandaglio</author>
+<author pid="88/9414">Alessia Amelio</author>
+<author pid="t/AndreaTagarelli">Andrea Tagarelli</author>
+<title>Consensus Community Detection in Multilayer Networks Using Parameter-Free Graph Pruning.</title>
+<pages>193-205</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_16</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#MandaglioAT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/XuCZDL18" mdate="2022-04-09">
+<author orcid="0000-0002-5734-3616" pid="32/8512">Shuai Xu</author>
+<author pid="20/2389">Jiuxin Cao</author>
+<author pid="205/7394">Xuelin Zhu</author>
+<author pid="07/2924">Yi Dong</author>
+<author pid="58/2670-4">Bo Liu 0004</author>
+<title>Community Discovery Based on Social Relations and Temporal-Spatial Topics in LBSNs.</title>
+<pages>206-217</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_17</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#XuCZDL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/WangLJCJ18" mdate="2022-07-20">
+<author pid="21/5941-2">Wenjun Wang 0002</author>
+<author pid="82/1364">Xiao Liu</author>
+<author pid="163/2737">Pengfei Jiao</author>
+<author pid="48/761-5">Xue Chen 0005</author>
+<author pid="67/1861-1">Di Jin 0001</author>
+<title>A Unified Weakly Supervised Framework for Community Detection and Semantic Matching.</title>
+<pages>218-230</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_18</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#WangLJCJ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/Parikh0V18" mdate="2018-06-19">
+<author pid="72/7629">Pulkit Parikh</author>
+<author pid="g/ManishGupta1">Manish Gupta 0001</author>
+<author pid="03/4045">Vasudeva Varma</author>
+<title>Tapping Community Memberships and Devising a Novel Homophily Modeling Approach for Trust Prediction.</title>
+<pages>231-243</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_19</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#Parikh0V18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Deep Learning Theory and Applications in KDD</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pakdd/ItoSTIY18" mdate="2022-10-02">
+<author pid="190/2670">Tomoki Ito</author>
+<author pid="66/835">Hiroki Sakaji</author>
+<author pid="70/1077">Kota Tsubouchi</author>
+<author orcid="0000-0003-0870-7310" pid="10/3765">Kiyoshi Izumi</author>
+<author pid="91/5209">Tatsuo Yamashita</author>
+<title>Text-Visualizing Neural Network Model: Understanding Online Financial Textual Data.</title>
+<pages>247-259</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_20</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ItoSTIY18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/GondaraW18" mdate="2020-06-26">
+<author pid="177/1788">Lovedeep Gondara</author>
+<author pid="w/KeWang">Ke Wang 0001</author>
+<title>MIDA: Multiple Imputation Using Denoising Autoencoders.</title>
+<pages>260-272</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_21</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#GondaraW18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/Le0V18" mdate="2019-10-19">
+<author orcid="0000-0002-3126-184X" pid="45/466">Hung Le</author>
+<author pid="55/2269">Truyen Tran 0001</author>
+<author pid="81/1984">Svetha Venkatesh</author>
+<title>Dual Control Memory Augmented Neural Networks for Treatment Recommendations.</title>
+<pages>273-284</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_22</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#Le0V18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/GandhiOMH18" mdate="2022-10-16">
+<author pid="136/7864">Sunil Gandhi</author>
+<author pid="34/3824">Tim Oates 0001</author>
+<author pid="33/2194">Tinoosh Mohsenin</author>
+<author pid="51/6245">W. David Hairston</author>
+<title>Denoising Time Series Data Using Asymmetric Generative Adversarial Networks.</title>
+<pages>285-296</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_23</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#GandhiOMH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/JiangG0CZL18" mdate="2022-12-07">
+<author pid="35/8172">Xinwei Jiang</author>
+<author pid="30/3983">Junbin Gao</author>
+<author pid="13/1997-1">Xiaobo Liu 0001</author>
+<author pid="96/106">Zhihua Cai</author>
+<author pid="87/461-6">Dongmei Zhang 0006</author>
+<author pid="86/8392-2">Yuanxing Liu 0002</author>
+<title>Shared Deep Kernel Learning for Dimensionality Reduction.</title>
+<pages>297-308</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_24</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#JiangG0CZL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/GabaleS18" mdate="2018-06-19">
+<author pid="06/8397">Vijay Gabale</author>
+<author pid="17/521">Uma Sawant</author>
+<title>CDSSD: Refreshing Single Shot Object Detection Using a Conv-Deconv Network.</title>
+<pages>309-321</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_25</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#GabaleS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/TangYKWY18" mdate="2018-06-19">
+<author pid="190/1177">Yujin Tang</author>
+<author pid="221/2904">Kei Yonekawa</author>
+<author pid="25/2313">Mori Kurokawa</author>
+<author pid="211/3918">Shinya Wada</author>
+<author pid="18/2449">Kiyohito Yoshihara</author>
+<title>Binary Classification of Sequences Possessing Unilateral Common Factor with AMS and APR.</title>
+<pages>322-334</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_26</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#TangYKWY18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/KumarBMRL18" mdate="2022-10-02">
+<author orcid="0000-0002-5783-5207" pid="134/6673">Vishwajeet Kumar</author>
+<author pid="217/1629">Kireeti Boorla</author>
+<author pid="209/1817">Yogesh Meena</author>
+<author pid="r/GaneshRamakrishnan">Ganesh Ramakrishnan</author>
+<author orcid="0000-0003-4651-2821" pid="20/2537">Yuan-Fang Li</author>
+<title>Automating Reading Comprehension by Generating Question and Answer Pairs.</title>
+<pages>335-348</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_27</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#KumarBMRL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/ZhuLLWQ18" mdate="2022-09-09">
+<author pid="186/2585">Xinyue Zhu</author>
+<author pid="23/4955-1">Yifan Liu 0001</author>
+<author pid="125/2215">Jiahong Li</author>
+<author pid="62/2525-1">Tao Wan 0001</author>
+<author pid="05/1860">Zengchang Qin</author>
+<title>Emotion Classification with Data Augmentation Using Generative Adversarial Networks.</title>
+<pages>349-360</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_28</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ZhuLLWQ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/0002NLV18" mdate="2019-09-26">
+<author orcid="0000-0002-0401-988X" pid="78/4136-2">Dang Nguyen 0002</author>
+<author pid="129/2628">Tu Dinh Nguyen</author>
+<author orcid="0000-0002-4711-7543" pid="05/6715-1">Wei Luo 0001</author>
+<author pid="81/1984">Svetha Venkatesh</author>
+<title>Trans2Vec: Learning Transaction Embedding via Items and Frequent Itemsets.</title>
+<pages>361-372</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_29</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#0002NLV18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/NeerbekAD18" mdate="2020-10-25">
+<author pid="51/569">Jan Neerbek</author>
+<author orcid="0000-0002-1091-9948" pid="a/IraAssent">Ira Assent</author>
+<author pid="d/PeterDolog">Peter Dolog</author>
+<title>Detecting Complex Sensitive Information via Phrase Structure in Recursive Neural Networks.</title>
+<pages>373-385</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_30</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#NeerbekAD18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Clustering and Unsupervised Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pakdd/ZhuTA18" mdate="2021-08-24">
+<author orcid="0000-0003-4776-4932" pid="80/3703-2">Ye Zhu 0002</author>
+<author pid="35/3074">Kai Ming Ting</author>
+<author orcid="0000-0002-0931-0916" pid="75/2663">Maia Angelova</author>
+<title>A Distance Scaling Method to Improve Density-Based Clustering.</title>
+<pages>389-400</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_31</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ZhuTA18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/ChenT18" mdate="2019-09-25">
+<author orcid="0000-0002-1589-8082" pid="89/5615-9">Bo Chen 0009</author>
+<author pid="35/3074">Kai Ming Ting</author>
+<title>Neighbourhood Contrast: A Better Means to Detect Clusters Than Density.</title>
+<pages>401-412</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_32</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ChenT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/CaiHX0HDZ18" mdate="2020-12-29">
+<author pid="194/1410">Borui Cai</author>
+<author pid="00/1198">Guangyan Huang</author>
+<author pid="98/2912-1">Yong Xiang 0001</author>
+<author orcid="0000-0001-6488-1052" pid="85/93-4">Jing He 0004</author>
+<author pid="182/3758">Guang-Li Huang</author>
+<author pid="97/1199">Ke Deng</author>
+<author pid="29/4724">Xiangmin Zhou</author>
+<title>Clustering of Multiple Density Peaks.</title>
+<pages>413-425</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_33</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#CaiHX0HDZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/GuoHCZ18" mdate="2022-10-02">
+<author pid="221/2907">Zhishuai Guo</author>
+<author orcid="0000-0003-1606-0588" pid="221/2924">Tianyi Huang</author>
+<author pid="221/2921">Zhiling Cai</author>
+<author orcid="0000-0001-8898-9244" pid="z/WilliamZhu">William Zhu 0001</author>
+<title>A New Local Density for Density Peak Clustering.</title>
+<pages>426-438</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_34</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#GuoHCZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/MohottiN18" mdate="2019-09-25">
+<author pid="221/2920">Wathsala Anupama Mohotti</author>
+<author orcid="0000-0002-9954-0159" pid="99/1071">Richi Nayak</author>
+<title>An Efficient Ranking-Centered Density-Based Document Clustering Method.</title>
+<pages>439-451</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_35</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#MohottiN18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/AyeRR18" mdate="2018-06-19">
+<author pid="178/8698">Zay Maung Maung Aye</author>
+<author pid="90/1092">Benjamin I. P. Rubinstein</author>
+<author pid="r/KRamamohanarao">Kotagiri Ramamohanarao</author>
+<title>Fast Manifold Landmarking Using Locality-Sensitive Hashing.</title>
+<pages>452-464</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_36</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#AyeRR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/AribiOLL18" mdate="2018-06-19">
+<author pid="134/2826">Noureddine Aribi</author>
+<author pid="146/4696">Abdelkader Ouali</author>
+<author pid="25/423">Yahia Lebbah</author>
+<author pid="79/3951">Samir Loudni</author>
+<title>Equitable Conceptual Clustering Using OWA Operator.</title>
+<pages>465-477</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_37</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#AribiOLL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/DalleauCS18" mdate="2019-12-27">
+<author pid="166/8134">Kevin Dalleau</author>
+<author orcid="0000-0003-2316-7623" pid="90/3960">Miguel Couceiro</author>
+<author pid="s/MSmail-Tabbone">Malika Sma&#239;l-Tabbone</author>
+<title>Unsupervised Extremely Randomized Trees.</title>
+<pages>478-489</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_38</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#DalleauCS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/YanLNFFYY018" mdate="2022-10-02">
+<author pid="67/8039">Yaowei Yan</author>
+<author pid="179/2444">Dongsheng Luo</author>
+<author pid="151/3208">Jingchao Ni</author>
+<author pid="58/6731">Hongliang Fei</author>
+<author pid="54/3488-1">Wei Fan 0001</author>
+<author orcid="0000-0001-6879-2567" pid="136/9729">Xiong Yu</author>
+<author pid="66/3108">John Yen</author>
+<author pid="91/4353-1">Xiang Zhang 0001</author>
+<title>Local Graph Clustering by Multi-network Random Walk with Restart.</title>
+<pages>490-501</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_39</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#YanLNFFYY018</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/BegAZK18" mdate="2020-03-27">
+<author pid="221/2916">Maham Anwar Beg</author>
+<author pid="52/10585">Muhammad Ahmad</author>
+<author pid="90/573">Arif Zaman</author>
+<author orcid="0000-0002-6955-6168" pid="77/9060">Imdadullah Khan</author>
+<title>Scalable Approximation Algorithm for Graph Summarization.</title>
+<pages>502-514</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_40</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#BegAZK18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Privacy-Preserving and Security</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pakdd/GharibshahPF18" mdate="2020-10-25">
+<author pid="134/8345">Joobin Gharibshah</author>
+<author orcid="0000-0002-3411-8483" pid="48/9024">Evangelos E. Papalexakis</author>
+<author orcid="0000-0002-3882-9987" pid="f/MichalisFaloutsos">Michalis Faloutsos</author>
+<title>RIPEx: Extracting Malicious IP Addresses from Security Forums Using Cross-Forum Learning.</title>
+<pages>517-529</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_41</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#GharibshahPF18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/ChristenVRS18" mdate="2018-11-02">
+<author pid="c/PeterChristen">Peter Christen</author>
+<author orcid="0000-0002-5386-5871" pid="221/2923">Anushka Vidanage</author>
+<author orcid="0000-0001-5405-3704" pid="162/3257">Thilina Ranbaduge</author>
+<author pid="127/7152">Rainer Schnell</author>
+<title>Pattern-Mining Based Cryptanalysis of Bloom Filters for Privacy-Preserving Record Linkage.</title>
+<pages>530-542</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_42</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ChristenVRS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/NguyenGRV18" mdate="2019-10-19">
+<author pid="178/4461">Thanh Dai Nguyen</author>
+<author pid="47/333-1">Sunil Gupta 0001</author>
+<author orcid="0000-0003-2247-850X" pid="57/6712">Santu Rana</author>
+<author pid="81/1984">Svetha Venkatesh</author>
+<title>A Privacy Preserving Bayesian Optimization with High Efficiency.</title>
+<pages>543-555</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_43</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#NguyenGRV18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/ChenWZ18" mdate="2019-10-07">
+<author pid="88/2827">Yan Chen</author>
+<author pid="w/WeiWang12">Wei Wang 0012</author>
+<author orcid="0000-0002-3574-5665" pid="74/1890-1">Xiangliang Zhang 0001</author>
+<title>Randomizing SVM Against Adversarial Attacks Under Uncertainty.</title>
+<pages>556-568</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_44</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ChenWZ18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Recommendation and Data Factorization</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pakdd/BanerjeeGSR18" mdate="2021-10-14">
+<author pid="154/8755">Debopriyo Banerjee</author>
+<author orcid="0000-0002-3967-186X" pid="52/6987">Niloy Ganguly</author>
+<author pid="67/3314">Shamik Sural</author>
+<author pid="50/5583">Krothapalli Sreenivasa Rao</author>
+<title>One for the Road: Recommending Male Street Attire.</title>
+<pages>571-582</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_45</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#BanerjeeGSR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/ZhangWLWLCWX18" mdate="2020-06-30">
+<author pid="66/4615">Yong Zhang</author>
+<author pid="01/6961-1">Hua Wei 0001</author>
+<author pid="82/5725">Xuelian Lin</author>
+<author pid="84/3254-7">Fei Wu 0007</author>
+<author pid="27/178">Zhenhui Li</author>
+<author pid="151/6220">Kaiheng Chen</author>
+<author pid="47/8988">Yuandong Wang</author>
+<author pid="37/5126-7">Jie Xu 0007</author>
+<title>Context-Aware Location Annotation on Mobility Records Through User Grouping.</title>
+<pages>583-596</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_46</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ZhangWLWLCWX18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/WangQRSLZ18" mdate="2021-03-15">
+<author pid="99/7033-3">Xiaojie Wang 0003</author>
+<author orcid="0000-0001-6501-9050" pid="41/1074-1">Jianzhong Qi 0001</author>
+<author pid="r/KRamamohanarao">Kotagiri Ramamohanarao</author>
+<author pid="62/3689-21">Yu Sun 0021</author>
+<author pid="50/3402-26">Bo Li 0026</author>
+<author pid="03/505">Rui Zhang 0003</author>
+<title>A Joint Optimization Approach for Personalized Recommendation Diversification.</title>
+<pages>597-609</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_47</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#WangQRSLZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/HuangCCCF18" mdate="2021-10-14">
+<author pid="221/2909">Si-Ying Huang</author>
+<author pid="33/1965">Yung-Yu Chen</author>
+<author pid="88/8280">Hung-Yuan Chen</author>
+<author orcid="0000-0002-8449-7872" pid="60/4796">Lun-Chi Chen</author>
+<author pid="85/6913">Yao-Chung Fan</author>
+<title>Personalized Item-of-Interest Recommendation on Storage Constrained Smartphone Based on Word Embedding Quantization.</title>
+<pages>610-621</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_48</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#HuangCCCF18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Social Network, Ubiquitous Data and Graph Mining</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pakdd/MaoXWWX18" mdate="2018-06-19">
+<author pid="191/6097">Hangyu Mao</author>
+<author pid="181/1848">Yang Xiao</author>
+<author pid="41/3241">Yuan Wang</author>
+<author pid="221/2903">Jiakang Wang</author>
+<author pid="39/3878">Zhen Xiao</author>
+<title>Topic-Specific Retweet Count Ranking for Weibo.</title>
+<pages>625-637</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_49</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#MaoXWWX18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/TanL018" mdate="2018-10-18">
+<author pid="77/6056">Qi Tan</author>
+<author pid="51/3710-7">Yang Liu 0007</author>
+<author pid="l/JimingLiu-1">Jiming Liu 0001</author>
+<title>Motif-Aware Diffusion Network Inference.</title>
+<pages>638-650</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_50</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#TanL018</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/ShinHLOF18" mdate="2018-06-19">
+<author pid="153/2052">Kijung Shin</author>
+<author pid="84/2381">Mohammad Hammoud</author>
+<author pid="129/5624">Euiwoong Lee</author>
+<author pid="01/7536">Jinoh Oh</author>
+<author pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>Tri-Fly: Distributed Estimation of Global and Local Triangle Counts in Graph Streams.</title>
+<pages>651-663</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_51</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ShinHLOF18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/IslamALH18" mdate="2020-11-25">
+<author orcid="0000-0002-8763-1002" pid="00/6184-1">Md. Ashraful Islam 0001</author>
+<author pid="76/5318">Chowdhury Farhan Ahmed</author>
+<author orcid="0000-0002-7541-9127" pid="29/654">Carson K. Leung</author>
+<author pid="221/2925">Calvin S. H. Hoi</author>
+<title>WFSM-MaxPWS: An Efficient Approach for Mining Weighted Frequent Subgraphs from Edge-Weighted Graph Databases.</title>
+<pages>664-676</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_52</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#IslamALH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/LiZB18" mdate="2018-06-19">
+<author pid="23/6950">Jia Li</author>
+<author pid="39/10481">Brian D. Ziebart</author>
+<author pid="b/TYBergerWolf">Tanya Y. Berger-Wolf</author>
+<title>A Game-Theoretic Adversarial Approach to Dynamic Network Prediction.</title>
+<pages>677-688</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_53</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#LiZB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/WangDLYJ018" mdate="2022-12-07">
+<author pid="200/2355">Xinjue Wang</author>
+<author pid="97/1199">Ke Deng</author>
+<author orcid="0000-0002-9059-330X" pid="l/JianxinLi">Jianxin Li 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-9697-7670" pid="j/ChristianSJensen">Christian S. Jensen</author>
+<author pid="86/2859-1">Xiaochun Yang 0001</author>
+<title>Targeted Influence Minimization in Social Networks.</title>
+<pages>689-700</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_54</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#WangDLYJ018</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/WenPS18" mdate="2019-09-25">
+<author pid="152/4872">Yu Ting Wen</author>
+<author pid="92/1623">Wen-Chih Peng</author>
+<author orcid="0000-0003-2216-077X" pid="86/10294">Hong-Han Shuai</author>
+<title>Maximizing Social Influence on Target Users.</title>
+<pages>701-712</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_55</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#WenPS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/Zhao0GTXL18" mdate="2021-10-14">
+<author pid="34/8420">Lun Zhao</author>
+<author pid="25/4120-1">Yuan Yao 0001</author>
+<author pid="84/10716">Guibing Guo</author>
+<author orcid="0000-0003-4405-3887" pid="58/1757">Hanghang Tong</author>
+<author pid="03/2611-7">Feng Xu 0007</author>
+<author pid="38/5132">Jian Lu 0001</author>
+<title>Team Expansion in Collaborative Environments.</title>
+<pages>713-725</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_56</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#Zhao0GTXL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/HeimannLPCK18" mdate="2018-06-19">
+<author pid="215/4357">Mark Heimann</author>
+<author pid="21/231">Wei Lee</author>
+<author pid="221/2915">Shengjie Pan</author>
+<author pid="35/6313">Kuan-Yu Chen</author>
+<author pid="91/9987">Danai Koutra</author>
+<title>HashAlign: Hash-Based Alignment of Multiple Graphs.</title>
+<pages>726-739</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_57</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#HeimannLPCK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/MarLTCS18" mdate="2018-06-19">
+<author pid="221/2918">Jaron Mar</author>
+<author pid="46/4291">Jiamou Liu</author>
+<author pid="221/2927">Yanni Tang</author>
+<author pid="15/3894">Wu Chen</author>
+<author pid="213/0784">Tianyi Sun</author>
+<title>Evaluating and Analyzing Reliability over Decentralized and Complex Networks.</title>
+<pages>740-751</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_58</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#MarLTCS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/ChehreghaniBA18" mdate="2022-06-23">
+<author orcid="0000-0003-3436-0541" pid="98/6406">Mostafa Haghir Chehreghani</author>
+<author pid="48/1070">Albert Bifet</author>
+<author pid="a/TAbdessalem">Talel Abdessalem</author>
+<title>Efficient Exact and Approximate Algorithms for Computing Betweenness Centrality in Directed Graphs.</title>
+<pages>752-764</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_59</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#ChehreghaniBA18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/AkcoraDGK18" mdate="2018-06-19">
+<author pid="64/10038">Cuneyt Gurcan Akcora</author>
+<author pid="216/2597">Asim Kumer Dey</author>
+<author pid="18/1090">Yulia R. Gel</author>
+<author pid="36/195">Murat Kantarcioglu</author>
+<title>Forecasting Bitcoin Price with Graph Chainlets.</title>
+<pages>765-776</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_60</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#AkcoraDGK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/AnsahKLLL18" mdate="2021-07-25">
+<author orcid="0000-0003-2396-5086" pid="221/2910">Jeffery Ansah</author>
+<author orcid="0000-0003-0193-2654" pid="59/4967-4">Wei Kang 0004</author>
+<author orcid="0000-0003-2843-5738" pid="61/2115-3">Lin Liu 0003</author>
+<author pid="l/JixueLiu">Jixue Liu</author>
+<author orcid="0000-0002-9023-1878" pid="20/1583">Jiuyong Li</author>
+<title>Information Propagation Trees for Protest Event Prediction.</title>
+<pages>777-789</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_61</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#AnsahKLLL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/TingLC18" mdate="2018-06-19">
+<author pid="221/2917">Lo Pang-Yun Ting</author>
+<author pid="90/5961">Cheng-Te Li</author>
+<author pid="43/6010">Kun-Ta Chuang</author>
+<title>Predictive Team Formation Analysis via Feature Representation Learning on Social Networks.</title>
+<pages>790-802</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_62</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#TingLC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/EbrahimiSWC18" mdate="2021-06-24">
+<author pid="160/2341">Mohammad Ebrahimi</author>
+<author pid="167/2174">Elaheh ShafieiBavani</author>
+<author pid="53/3032">Raymond K. Wong 0001</author>
+<author orcid="0000-0003-4971-8729" pid="52/488-1">Fang Chen 0001</author>
+<title>Leveraging Local Interactions for Geolocating Social Media Users.</title>
+<pages>803-815</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_63</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#EbrahimiSWC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pakdd/KimonMRS18" mdate="2018-06-19">
+<author pid="203/0179">Liron Ben Kimon</author>
+<author pid="160/6851">Yisroel Mirsky</author>
+<author pid="r/LiorRokach">Lior Rokach</author>
+<author pid="74/6180">Bracha Shapira</author>
+<title>Utilizing Sequences of Touch Gestures for User Verification on Mobile Devices.</title>
+<pages>816-828</pages>
+<year>2018</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93040-4_64</ee>
+<crossref>conf/pakdd/2018-3</crossref>
+<url>db/conf/pakdd/pakdd2018-3.html#KimonMRS18</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

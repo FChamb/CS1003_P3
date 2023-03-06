@@ -1,0 +1,3035 @@
+<bht key="db/conf/icdm/icdm2018w.bht" title="ICDM 2018 - Workshops"> 
+<h1>18th <ref href="db/conf/icdm/index.html">ICDM</ref> 2018:
+Singapore - Workshops</h1> <dblpcites><r><proceedings key="conf/icdm/2018w" mdate="2019-11-14">
+<editor pid="58/1757">Hanghang Tong</editor>
+<editor pid="216/3138">Zhenhui Jessie Li</editor>
+<editor pid="77/1985">Feida Zhu 0001</editor>
+<editor pid="189/5902">Jeffrey Yu</editor>
+<title>2018 IEEE International Conference on Data Mining Workshops, ICDM Workshops, Singapore, Singapore, November 17-20, 2018</title>
+<booktitle>ICDM Workshops</booktitle>
+<publisher>IEEE</publisher>
+<year>2018</year>
+<isbn>978-1-5386-9288-2</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/8626049/proceeding</ee>
+<url>db/conf/icdm/icdm2018w.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>ADMiS 2018:
+First IEEE International Workshop on Adapting Data Mining for Security</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/AntonAFS18" mdate="2019-10-19">
+<author orcid="0000-0003-4005-9165" pid="199/4177">Simon Duque Ant&#243;n</author>
+<author pid="218/5970">Lia Ahrens</author>
+<author pid="199/4113">Daniel Fraunholz</author>
+<author pid="83/8184">Hans Dieter Schotten</author>
+<title>Time is of the Essence: Machine Learning-Based Intrusion Detection in Industrial Time Series Data.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00008</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AntonAFS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/EgoziV18" mdate="2019-10-19">
+<author orcid="0000-0003-2363-4017" pid="235/6852">Gal Egozi</author>
+<author orcid="0000-0002-7466-7823" pid="v/RakeshMVerma">Rakesh M. Verma</author>
+<title>Phishing Email Detection Using Robust NLP Techniques.</title>
+<pages>7-12</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00009</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#EgoziV18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/FaridiSV18" mdate="2019-09-26">
+<author pid="235/6938">Houtan Faridi</author>
+<author pid="225/3552">Srivathsan Srinivasagopalan</author>
+<author orcid="0000-0002-7466-7823" pid="v/RakeshMVerma">Rakesh M. Verma</author>
+<title>Performance Evaluation of Features and Clustering Algorithms for Malware.</title>
+<pages>13-22</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00010</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#FaridiSV18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/HozhabrierdiHM18" mdate="2019-02-15">
+<author pid="235/6870">Pegah Hozhabrierdi</author>
+<author pid="235/6994">Dunai Fuentes Hitos</author>
+<author pid="m/CKMohan">Chilukuri K. Mohan</author>
+<title>Python Source Code De-anonymization Using Nested Bigrams.</title>
+<pages>23-28</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00011</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#HozhabrierdiHM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/KhavkinL18" mdate="2019-02-15">
+<author pid="235/6960">Michael Khavkin</author>
+<author pid="84/2603">Mark Last</author>
+<title>Preserving Differential Privacy and Utility of Non-stationary Data Streams.</title>
+<pages>29-34</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00012</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#KhavkinL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/KotaniS18" mdate="2019-02-15">
+<author pid="214/2250">Gaku Kotani</author>
+<author pid="45/4378">Yuji Sekiya</author>
+<title>Unsupervised Scanning Behavior Detection Based on Distribution of Network Traffic Features Using Robust Autoencoders.</title>
+<pages>35-38</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00013</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#KotaniS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/0008VC0018" mdate="2019-09-25">
+<author orcid="0000-0001-7959-6764" pid="74/7037-8">Liu Liu 0008</author>
+<author pid="06/3162">Olivier Y. de Vel</author>
+<author pid="66/3019-15">Chao Chen 0015</author>
+<author pid="z/JunZhang10">Jun Zhang 0010</author>
+<author pid="50/2192-1">Yang Xiang 0001</author>
+<title>Anomaly-Based Insider Threat Detection Using Deep Autoencoders.</title>
+<pages>39-48</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00014</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#0008VC0018</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/TaoWX18" mdate="2019-02-15">
+<author pid="235/6854">Jialing Tao</author>
+<author pid="39/721">Hui Wang</author>
+<author pid="97/4397">Tao Xiong</author>
+<title>Selective Graph Attention Networks for Account Takeover Detection.</title>
+<pages>49-54</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00015</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#TaoWX18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>BlockSEA 2018:
+1st Workshop on Blockchain and Sharing Economy Applications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/JourdanBWD18" mdate="2022-10-02">
+<author orcid="0000-0002-2449-4549" pid="228/8157">Marc Jourdan</author>
+<author pid="07/7138">Sebastien Blandin</author>
+<author pid="91/5132">Laura Wynter</author>
+<author pid="42/5554">Pralhad Deshpande</author>
+<title>Characterizing Entities in the Bitcoin Blockchain.</title>
+<pages>55-62</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00016</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#JourdanBWD18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/HarriganSI18" mdate="2021-10-14">
+<author orcid="0000-0002-6069-7001" pid="22/6950">Martin Harrigan</author>
+<author pid="29/563-8">Lei Shi 0008</author>
+<author pid="227/3476">Jacob Illum</author>
+<title>Airdrops and Privacy: A Case Study in Cross-Blockchain Analysis.</title>
+<pages>63-70</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00017</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#HarriganSI18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MadalaJC18" mdate="2020-10-25">
+<author pid="232/9891">D. S. V. Madala</author>
+<author orcid="0000-0002-9753-2999" pid="22/4404">Mahabir Prasad Jhanwar</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<title>Certificate Transparency Using Blockchain.</title>
+<pages>71-80</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00018</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MadalaJC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Lu0W18" mdate="2021-11-17">
+<author orcid="0000-0002-2765-1140" pid="10/5980-1">Yuan Lu 0001</author>
+<author pid="17/2212-5">Qiang Tang 0005</author>
+<author pid="292/9191">Guiling Wang 0001</author>
+<title>On Enabling Machine Learning Tasks atop Public Blockchains: A Crowdsourcing Approach.</title>
+<pages>81-88</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00019</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Lu0W18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhangB18" mdate="2019-10-19">
+<author orcid="0000-0002-2320-9582" pid="65/7564">Bingsheng Zhang</author>
+<author pid="190/5268">Hamed Balogun</author>
+<title>On the Sustainability of Blockchain Funding.</title>
+<pages>89-96</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00020</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhangB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/VictorZ18" mdate="2020-03-27">
+<author orcid="0000-0001-8329-3133" pid="222/5982">Friedhelm Victor</author>
+<author pid="122/0595">Sebastian Zickau</author>
+<title>Geofences on the Blockchain: Enabling Decentralized Location-Based Services.</title>
+<pages>97-104</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00021</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#VictorZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/DykcikCSP18" mdate="2022-12-07">
+<author pid="186/7029">Lukasz Dykcik</author>
+<author pid="172/1435">Laurent Chuat</author>
+<author pid="35/11083">Pawel Szalachowski</author>
+<author orcid="0000-0002-5280-5412" pid="16/6873">Adrian Perrig</author>
+<title>BlockPKI: An Automated, Resilient, and Transparent Public-Key Infrastructure.</title>
+<pages>105-114</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00022</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#DykcikCSP18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>BSDM 2018:
+Blockchain Systems for Decentralized Mining</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/SonPJ18" mdate="2020-10-20">
+<author pid="215/6026">Hojae Son</author>
+<author orcid="0000-0003-3115-2325" pid="39/2085-1">Anand Paul 0001</author>
+<author pid="88/2456">Gwanggil Jeon</author>
+<title>Country Interest Analysis Based on Long-Term Short-Term Memory(LSTM) In Decentralized System.</title>
+<pages>115-119</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00023</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SonPJ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Ide18" mdate="2022-01-03">
+<author orcid="0000-0001-8993-2776" pid="i/TsuyoshiIde">Tsuyoshi Id&#233;</author>
+<title>Collaborative Anomaly Detection on Blockchain from Noisy Sensor Data.</title>
+<pages>120-127</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00024</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Ide18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LuXLZ18" mdate="2022-12-07">
+<author pid="19/9978">Qinghua Lu 0001</author>
+<author pid="47/3196">Xiwei Xu</author>
+<author orcid="0000-0003-2958-9923" pid="74/1932">Yue Liu</author>
+<author pid="z/WeishanZhang">Weishan Zhang</author>
+<title>Design Pattern as a Service for Blockchain Applications.</title>
+<pages>128-135</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00025</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LuXLZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PirbhulalWL18" mdate="2022-04-21">
+<author orcid="0000-0003-0843-8974" pid="188/8899">Sandeep Pirbhulal</author>
+<author pid="75/2327">Wanqing Wu</author>
+<author orcid="0000-0001-9016-2617" pid="115/5533-1">Guanglin Li 0001</author>
+<title>A Biometric Security Model for Wearable Healthcare.</title>
+<pages>136-143</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00026</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PirbhulalWL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AbbasiMQ18" mdate="2022-04-09">
+<author pid="235/6893">Faima Abbasi</author>
+<author orcid="0000-0001-8817-1629" pid="41/8730">Muhammad Muzammal</author>
+<author pid="92/5150">Qiang Qu</author>
+<title>A Decentralized Approach for Negative Link Prediction in Large Graphs.</title>
+<pages>144-150</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00027</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AbbasiMQ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ToyodaOM18" mdate="2021-04-09">
+<author pid="45/10835">Kentaroh Toyoda</author>
+<author orcid="0000-0003-3961-1426" pid="74/1137">Tomoaki Ohtsuki</author>
+<author orcid="0000-0002-3332-4699" pid="96/1515">P. Takis Mathiopoulos</author>
+<title>Time Series Analysis for Bitcoin Transactions: The Case of Pirate@40's HYIP Scheme.</title>
+<pages>151-155</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00028</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ToyodaOM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/RahmadikaKLR18" mdate="2021-04-09">
+<author orcid="0000-0002-7848-6579" pid="235/6940">Sandi Rahmadika</author>
+<author pid="235/6952">Bruno Joachim Kweka</author>
+<author pid="235/6855">Cho Nwe Zin Latt</author>
+<author pid="80/2281">Kyung-Hyune Rhee</author>
+<title>A Preliminary Approach of Blockchain Technology in Supply Chain System.</title>
+<pages>156-160</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00029</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#RahmadikaKLR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/YuLX18" mdate="2019-02-15">
+<author pid="55/2008">Yue Yu</author>
+<author pid="12/7768">Ran Liang</author>
+<author pid="235/6902">Jiqiu Xu</author>
+<title>A Scalable and Extensible Blockchain Architecture.</title>
+<pages>161-163</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00030</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#YuLX18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ChengCY18" mdate="2019-02-15">
+<author pid="77/1514">Dong Cheng</author>
+<author pid="235/6980">Suihe Chen</author>
+<author pid="235/6963">Yinjian Yang</author>
+<title>A Cooperative Architecture for Blockchain Federated Mediators from Industry Perspective.</title>
+<pages>164-167</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00031</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ChengCY18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/WuLML18" mdate="2019-02-15">
+<author pid="94/5917">Chih-Hung Wu</author>
+<author pid="235/6866">Chih-Chiang Lu</author>
+<author pid="182/5068">Yu-Feng Ma</author>
+<author pid="75/5695">Ruei-Shan Lu</author>
+<title>A New Forecasting Framework for Bitcoin Price with LSTM.</title>
+<pages>168-175</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00032</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#WuLML18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CDEC:
+1st International Workshop on Cross-disciplinary Data Exchange and Collaboration</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/Iwasa18" mdate="2019-02-15">
+<author pid="235/6950">Daiji Iwasa</author>
+<title>Preliminary Case Study on Data Utilization and Collaboration on the Web.</title>
+<pages>176-179</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00033</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Iwasa18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/EjiriIS18" mdate="2019-02-15">
+<author pid="235/6910">Yusuke Ejiri</author>
+<author pid="162/0789">Eiji Ikeda</author>
+<author pid="232/8938">Hiromichi Sasaki</author>
+<title>Realization of Data Exchange and Utilization Society by Blockchain and Data Jacket: Merit of Consortium to Accelerate Co-Creation.</title>
+<pages>180-182</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00034</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#EjiriIS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GuWWZBS18" mdate="2020-08-04">
+<author pid="223/7941">Haiqian Gu</author>
+<author pid="29/5259-21">Jie Wang 0021</author>
+<author pid="05/8765">Ziwen Wang</author>
+<author pid="40/7726">Bojin Zhuang</author>
+<author pid="235/6918">Wenhao Bian</author>
+<author pid="60/3006">Fei Su</author>
+<title>Cross-Platform Modeling of Users' Behavior on Social Media.</title>
+<pages>183-190</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00035</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GuWWZBS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/HiranoSKIMNK18" mdate="2022-10-02">
+<author orcid="0000-0001-5883-8250" pid="66/7952-1">Masanori Hirano 0001</author>
+<author pid="66/835">Hiroki Sakaji</author>
+<author pid="215/2565">Shoko Kimura</author>
+<author orcid="0000-0003-0870-7310" pid="10/3765">Kiyoshi Izumi</author>
+<author orcid="0000-0001-7301-1956" pid="17/7595">Hiroyasu Matsushima</author>
+<author pid="235/6948">Shintaro Nagao</author>
+<author pid="39/4735">Atsuo Kato</author>
+<title>Selection of Related Stocks using Financial Text Mining.</title>
+<pages>191-198</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00036</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#HiranoSKIMNK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhouCCZ18" mdate="2019-02-15">
+<author pid="23/8064">Pei Zhou</author>
+<author pid="173/2608">Muhao Chen</author>
+<author pid="18/2428">Kai-Wei Chang</author>
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<title>Quantification and Analysis of Scientific Language Variation Across Research Fields.</title>
+<pages>199-203</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00037</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhouCCZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AbeH18" mdate="2019-02-15">
+<author pid="63/1096">Akinori Abe</author>
+<author pid="05/3991">Yuki Hayashi</author>
+<title>How to Determine the Necessary Knowledge in the Conflicting Situation?</title>
+<pages>204-209</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00038</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AbeH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/IfukuKA18" mdate="2019-02-15">
+<author pid="235/6982">Masafumi Ifuku</author>
+<author pid="68/4245">Noriyuki Kushiro</author>
+<author pid="192/0226">Yusuke Aoyama</author>
+<title>Requirements Definition with Extended Goal Graph.</title>
+<pages>210-218</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00039</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#IfukuKA18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DaMNet 2018:
+The Eighth IEEE ICDM Workshop on Data Mining in Networks</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/AtzmuellerSSB18" mdate="2019-02-15">
+<author pid="22/4732">Martin Atzmueller</author>
+<author pid="23/5819">Henry Soldano</author>
+<author pid="99/9286">Guillaume Santini</author>
+<author pid="04/3811">Dominique Bouthinon</author>
+<title>MinerLSD: Efficient Local Pattern Mining on Attributed Graphs.</title>
+<pages>219-228</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00040</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AtzmuellerSSB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/RytherS18" mdate="2020-10-25">
+<author orcid="0000-0001-9060-2707" pid="235/6956">Christopher Ryther</author>
+<author pid="s/JakobGrueSimonsen">Jakob Grue Simonsen</author>
+<title>Within-Network Classification in Temporal Graphs.</title>
+<pages>229-236</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00041</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#RytherS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MuhuriSCC18" mdate="2019-02-15">
+<author pid="220/2368">Samya Muhuri</author>
+<author pid="140/7608">Ananya Sarkar</author>
+<author pid="235/6874">Sambhabi Chakraborty</author>
+<author pid="68/4274">Susanta Chakraborty</author>
+<title>Drug Vector Minimization in Cancer Therapy Based on Boolean Logic Model of Gene Regulatory Network.</title>
+<pages>237-243</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00042</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MuhuriSCC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PhetsouvanhOD18" mdate="2020-09-05">
+<author pid="235/6936">Silivanxay Phetsouvanh</author>
+<author pid="o/FrederiqueEOggier">Fr&#233;d&#233;rique E. Oggier</author>
+<author orcid="0000-0002-4203-1572" pid="d/AnwitamanDatta">Anwitaman Datta</author>
+<title>EGRET: Extortion Graph Exploration Techniques in the Bitcoin Network.</title>
+<pages>244-251</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00043</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PhetsouvanhOD18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhaoZL0LH18" mdate="2019-12-27">
+<author pid="50/7650">Danfeng Zhao</author>
+<author pid="219/8434">Yeyi Zhang</author>
+<author pid="235/6947">Junchen Lin</author>
+<author pid="62/1539-7">Wei Song 0007</author>
+<author orcid="0000-0002-2773-4421" pid="31/1394">Antonio Liotta</author>
+<author pid="31/2671">Dongmei Huang</author>
+<title>Query of Marine Big Data Based on Graph Compression and Views.</title>
+<pages>252-257</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00044</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhaoZL0LH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ColinTD18" mdate="2020-04-18">
+<author pid="157/8205">Igor Colin</author>
+<author pid="172/7718-1">Albert Thomas 0001</author>
+<author pid="58/5876">Moez Draief</author>
+<title>Parallel Contextual Bandits in Wireless Handover Optimization.</title>
+<pages>258-265</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00045</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ColinTD18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/TajeunaBW18" mdate="2019-02-15">
+<author pid="172/7715">Etienne Gael Tajeuna</author>
+<author pid="18/2698">Mohamed Bouguessa</author>
+<author pid="w/ShengruiWang">Shengrui Wang</author>
+<title>A Network-Based Approach to Enhance Electricity Load Forecasting.</title>
+<pages>266-275</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00046</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#TajeunaBW18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AbedijaberiL18" mdate="2021-08-04">
+<author pid="181/9418">Armita Abedijaberi</author>
+<author pid="68/6646">Jennifer L. Leopold</author>
+<title>Motif-Level Robustness Analysis of Power Grids.</title>
+<pages>276-283</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00047</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AbedijaberiL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Li18" mdate="2019-02-15">
+<author pid="235/6847">Wentan Li</author>
+<title>Finding Tenuous Groups in Social Networks.</title>
+<pages>284-291</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00048</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Li18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Deep Learning and Tensor/Matrix Decomposition for Applications in Neuroscience</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/SharaevSMOBPPB18" mdate="2021-05-19">
+<author pid="218/6860">Maksim Sharaev</author>
+<author pid="65/4251">Alexander Smirnov</author>
+<author pid="235/6895">Tatiana Melnikova-Pitskhelauri</author>
+<author orcid="0000-0002-4840-4499" pid="247/9945">Vyacheslav A. Orlov</author>
+<author pid="144/7845">Evgeny Burnaev</author>
+<author pid="235/6987">Igor Pronin</author>
+<author pid="235/6882">David Pitskhelauri</author>
+<author pid="123/4426">Alexander Bernstein</author>
+<title>Functional Brain Areas Mapping in Patients with Glioma Based on Resting-State fMRI Data Decomposition.</title>
+<pages>292-298</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00049</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SharaevSMOBPPB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PominovaASKBB18" mdate="2022-10-02">
+<author pid="235/6884">Marina Pominova</author>
+<author orcid="0000-0001-5451-7492" pid="163/2145">Alexey Artemov</author>
+<author pid="218/6860">Maksim Sharaev</author>
+<author orcid="0000-0003-3623-6106" pid="98/3656">Ekaterina Kondrateva</author>
+<author pid="123/4426">Alexander Bernstein</author>
+<author pid="144/7845">Evgeny Burnaev</author>
+<title>Voxelwise 3D Convolutional and Recurrent Neural Networks for Epilepsy and Depression Diagnostics from Structural and Functional MRI Data.</title>
+<pages>299-307</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00050</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PominovaASKBB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SharaevAKISBCB18" mdate="2022-10-02">
+<author pid="218/6860">Maksim Sharaev</author>
+<author orcid="0000-0001-5451-7492" pid="163/2145">Alexey Artemov</author>
+<author orcid="0000-0003-3623-6106" pid="98/3656">Ekaterina Kondrateva</author>
+<author pid="20/504-2">Sergei Ivanov 0002</author>
+<author pid="218/6694">Svetlana Sushchinskaya</author>
+<author pid="123/4426">Alexander Bernstein</author>
+<author pid="c/AndrzejCichocki">Andrzej Cichocki</author>
+<author pid="144/7845">Evgeny Burnaev</author>
+<title>Learning Connectivity Patterns via Graph Kernels for fMRI-Based Depression Diagnostics.</title>
+<pages>308-314</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00051</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SharaevAKISBCB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Asante-MensahC18" mdate="2019-02-15">
+<author pid="235/2810">Maame G. Asante-Mensah</author>
+<author pid="c/AndrzejCichocki">Andrzej Cichocki</author>
+<title>Medical Image De-noising Using Deep Networks.</title>
+<pages>315-319</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00052</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Asante-MensahC18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DEEP 2018:
+Workshop on Data Mining for eLearning Personalization</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/TuXCB18" mdate="2019-02-15">
+<author pid="235/6886">Yuwei Tu</author>
+<author pid="62/29">Ying Xiong</author>
+<author pid="73/6153">Weiyu Chen</author>
+<author pid="139/0747">Christopher G. Brinton</author>
+<title>A Domain-Independent Text Segmentation Method for Educational Course Content.</title>
+<pages>320-327</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00053</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#TuXCB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GugnaniKP18" mdate="2019-02-15">
+<author pid="235/6989">Akshay Gugnani</author>
+<author pid="235/6954">Vinay Kumar Reddy Kasireddy</author>
+<author pid="53/4001">Karthikeyan Ponnalagu</author>
+<title>Generating Unified Candidate Skill Graph for Career Path Recommendation.</title>
+<pages>328-333</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00054</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GugnaniKP18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/NakagawaIM18" mdate="2019-02-15">
+<author pid="202/0235">Hiromi Nakagawa</author>
+<author pid="117/7377">Yusuke Iwasawa</author>
+<author pid="m/YMatsuo">Yutaka Matsuo</author>
+<title>End-to-End Deep Knowledge Tracing by Learning Binary Question-Embedding.</title>
+<pages>334-342</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00055</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#NakagawaIM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/NadeemSM18" mdate="2019-02-15">
+<author pid="183/6394">Moin Nadeem</author>
+<author pid="27/7221">Dustin Stansbury</author>
+<author pid="217/1559">Shane Mooney</author>
+<title>Neural Educational Recommendation Engine (NERE).</title>
+<pages>343-348</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00056</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#NadeemSM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AkimovLM18" mdate="2022-10-02">
+<author orcid="0000-0002-7467-4409" pid="235/6858">Mikhail Akimov</author>
+<author pid="222/9563">Ekaterina Loginova</author>
+<author pid="235/6933">Maxim Musin</author>
+<title>A Graph-Based Approach for Learner-Tailored Teaching of Korean Grammar Constructions.</title>
+<pages>349-354</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00057</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AkimovLM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MondalGSK18" mdate="2019-10-19">
+<author pid="200/0310">Sneha Mondal</author>
+<author pid="235/6989">Akshay Gugnani</author>
+<author orcid="0000-0001-7533-533X" pid="s/RenukaSindhgatta">Renuka Sindhgatta</author>
+<author pid="235/6954">Vinay Kumar Reddy Kasireddy</author>
+<title>Khan Academy: A Social Networking and Community Question Answering Perspective.</title>
+<pages>355-359</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00058</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MondalGSK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Ling018" mdate="2019-10-19">
+<author orcid="0000-0001-8506-158X" pid="133/2695">Lin Ling</author>
+<author orcid="0000-0002-6624-9752" pid="04/3030">Chee-Wei Tan 0001</author>
+<title>Human-Assisted Computation for Auto-Grading.</title>
+<pages>360-364</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00059</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Ling018</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Trakunphutthirak18" mdate="2022-10-02">
+<author orcid="0000-0002-0736-3686" pid="235/6881">Ruangsak Trakunphutthirak</author>
+<author pid="45/1630">Yen Cheung</author>
+<author pid="50/10222">Vincent Cheng-Siong Lee</author>
+<title>Detecting Student at Risk of Failure: A Case Study of Conceptualizing Mining from Internet Access Log Files.</title>
+<pages>365-371</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00060</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Trakunphutthirak18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DELL:
+The First International Workshop on Developmental Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/ChenL18a" mdate="2022-10-19">
+<author pid="35/966-2">Weimin Chen 0002</author>
+<author orcid="0000-0002-7618-3275" pid="55/7901-1">Xianglong Liu 0001</author>
+<title>Weighted Quantization and Hamming Search for Fast Image Super-Resolution.</title>
+<pages>372-378</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00061</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ChenL18a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GaoGS18" mdate="2019-02-15">
+<author pid="194/9305">Ziheng Gao</author>
+<author pid="27/9955">Naiyang Guan</author>
+<author pid="125/5198">Longfei Su</author>
+<title>Graph Regularized Symmetric Non-Negative Matrix Factorization for Graph Clustering.</title>
+<pages>379-384</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00062</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GaoGS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LanZZD18" mdate="2020-06-22">
+<author pid="55/10037">Meng Lan</author>
+<author pid="155/6855">Yipeng Zhang</author>
+<author pid="28/10770">Lefei Zhang</author>
+<author pid="70/6443-1">Bo Du 0001</author>
+<title>Defect Detection from UAV Images Based on Region-Based CNNs.</title>
+<pages>385-390</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00063</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LanZZD18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MaWHLG18" mdate="2021-09-20">
+<author pid="211/5867">Zhuoqi Ma</author>
+<author pid="10/8359-1">Nannan Wang 0001</author>
+<author pid="93/11505">Yi Hao</author>
+<author pid="17/2703-1">Jie Li 0001</author>
+<author orcid="0000-0003-1443-0776" pid="99/4522">Xinbo Gao 0001</author>
+<title>Learning via Social Preference: A Coarse-to-Fine Training Strategy for Style Transfer Systems.</title>
+<pages>391-398</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00064</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MaWHLG18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ShenWW18" mdate="2019-02-15">
+<author pid="204/5623">Jianghao Shen</author>
+<author pid="45/9063">Sicheng Wang</author>
+<author pid="119/4026">Zhangyang Wang</author>
+<title>Growing Deep Forests Efficiently with Soft Routing and Learned Connectivity.</title>
+<pages>399-402</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00065</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ShenWW18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/WestphalGL18" mdate="2019-09-25">
+<author orcid="0000-0002-2161-7371" pid="139/2582">Florian Westphal</author>
+<author pid="88/4207">H&#229;kan Grahn</author>
+<author pid="55/1994">Niklas Lavesson</author>
+<title>User Feedback and Uncertainty in User Guided Binarization.</title>
+<pages>403-410</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00066</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#WestphalGL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhangGJSSW18" mdate="2022-05-02">
+<author pid="15/4777-10">Tao Zhang 0010</author>
+<author pid="21/8587-2">Chen Gong 0002</author>
+<author orcid="0000-0002-0940-3338" pid="24/669">Wenjing Jia</author>
+<author pid="82/6511">Xiaoning Song</author>
+<author pid="68/5216-8">Jun Sun 0008</author>
+<author pid="13/5168-1">Xiaojun Wu 0001</author>
+<title>Supervised Image Classification with Self-Paced Regularization.</title>
+<pages>411-414</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00067</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhangGJSSW18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DGCC 2018:
+International Workshop on Data-driven Granular Cognitive Computing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/GongWHLLY18" mdate="2020-03-16">
+<author pid="235/6955">Chenxu Gong</author>
+<author pid="05/3838-1">Guoyin Wang 0001</author>
+<author pid="28/441-2">Jun Hu 0002</author>
+<author pid="20/2039">Ming Liu</author>
+<author pid="33/4528-30">Li Liu 0030</author>
+<author pid="235/6983">Zihe Yang</author>
+<title>Finding Multi-granularity Community Structures in Social Networks Based on Significance of Community Partition.</title>
+<pages>415-421</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00068</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GongWHLLY18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/JanuszGS18" mdate="2021-10-14">
+<author orcid="0000-0002-9763-1399" pid="02/2713">Andrzej Janusz</author>
+<author pid="206/3300">Lukasz Grad</author>
+<author pid="53/3187">Dominik Slezak</author>
+<title>Utilizing Hybrid Information Sources to Learn Representations of Cards in Collectible Card Video Games.</title>
+<pages>422-429</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00069</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#JanuszGS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/QianZCCZZ18" mdate="2019-09-24">
+<author pid="201/6594">Fulan Qian</author>
+<author pid="68/10077">Cunliang Zhu</author>
+<author pid="16/3283">Xi Chen</author>
+<author pid="92/6289-25">Jie Chen 0025</author>
+<author pid="41/3875">Shu Zhao</author>
+<author pid="32/4846">Yanping Zhang</author>
+<title>A Novel Approach for Influence Maximization Based on Clonal Selection Theory in Social Networks.</title>
+<pages>430-437</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00070</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#QianZCCZZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/RenLWLSC18" mdate="2021-08-31">
+<author pid="211/9470">Shiya Ren</author>
+<author pid="68/8126">Zhixing Li</author>
+<author pid="120/5267">Huaming Wang</author>
+<author pid="86/6196">Yuan Li</author>
+<author orcid="0000-0003-3600-0435" pid="22/6778-3">Ke Shen 0003</author>
+<author pid="160/7320">Sijie Cheng</author>
+<title>NEARM: Natural Language Enhanced Association Rules Mining.</title>
+<pages>438-445</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00071</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#RenLWLSC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SakaiNW18" mdate="2019-02-15">
+<author pid="10/4456">Hiroshi Sakai</author>
+<author pid="84/1985">Michinori Nakata</author>
+<author pid="72/5275">Junzo Watada</author>
+<title>A Model of Rule Generation Handling Granules Defined by Implications in Table Data Sets.</title>
+<pages>446-453</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00072</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SakaiNW18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ShuLX18" mdate="2021-09-03">
+<author pid="204/1451">Hang Shu</author>
+<author pid="75/4402-5">Qun Liu 0005</author>
+<author pid="154/1976">Shuyin Xia</author>
+<title>Multi-granularity Network Representation Learning Based on Game Theory.</title>
+<pages>454-461</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00073</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ShuLX18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SwiechowskiS18" mdate="2019-02-15">
+<author pid="00/8484">Maciej Swiechowski</author>
+<author pid="53/3187">Dominik Slezak</author>
+<title>Granular Games in Real-Time Environment.</title>
+<pages>462-469</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00074</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SwiechowskiS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/TsumotoHKI18" mdate="2019-02-15">
+<author pid="66/3259">Shusaku Tsumoto</author>
+<author pid="41/5168">Shoji Hirano</author>
+<author pid="14/5934">Tomohiro Kimura</author>
+<author pid="48/10567">Haruko Iwata</author>
+<title>Construction of Clinical Pathway Generation from Nursing Records and Discharge Summaries.</title>
+<pages>470-477</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00075</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#TsumotoHKI18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Wang18" mdate="2020-03-16">
+<author pid="05/3838-1">Guoyin Wang 0001</author>
+<title>DGCC: A Case for Integration of Brain Cognition and Intelligence Computation.</title>
+<pages>478-479</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00076</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Wang18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/WangWQ18" mdate="2022-10-02">
+<author orcid="0000-0003-3521-7472" pid="78/6727">Zhen Wang</author>
+<author pid="34/6751">Ling Wei</author>
+<author pid="117/3275">Jian-Jun Qi</author>
+<title>Concept Analysis Based on Granular Formal Contexts.</title>
+<pages>480-486</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00077</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#WangWQ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/YuSWLXG18" mdate="2022-07-06">
+<author pid="55/6749-7">Hong Yu 0007</author>
+<author pid="235/6859">Zuoyu Sun</author>
+<author pid="05/3838-1">Guoyin Wang 0001</author>
+<author pid="17/2703-2">Jie Li 0002</author>
+<author pid="198/2954">Yongfang Xie</author>
+<author pid="74/6639">Gang Guo</author>
+<title>A Multi-granular Hierarchical Evaluation Model for Multiple Criteria Three Sorting.</title>
+<pages>487-494</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00078</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#YuSWLXG18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DINA 2018:
+4th Workshop on Data Integration and Applications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/FolkmanFP18" mdate="2019-02-15">
+<author pid="235/6873">Tyler Folkman</author>
+<author pid="235/6898">Rey Furner</author>
+<author pid="235/6879">Drew Pearson</author>
+<title>GenERes: A Genealogical Entity Resolution System.</title>
+<pages>495-501</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00079</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#FolkmanFP18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/FrisoliN18" mdate="2019-02-15">
+<author pid="235/6891">Kayla Frisoli</author>
+<author pid="03/3958">Rebecca Nugent</author>
+<title>Exploring the Effect of Household Structure in Historical Record Linkage of Early 1900s Ireland Census Records.</title>
+<pages>502-509</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00080</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#FrisoliN18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Tai18" mdate="2020-10-25">
+<author orcid="0000-0002-4136-9870" pid="235/6849">Xiao Hui Tai</author>
+<title>Record Linkage and Matching Problems in Forensics.</title>
+<pages>510-517</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00081</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Tai18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SchnellB18" mdate="2019-02-15">
+<author pid="127/7152">Rainer Schnell</author>
+<author pid="b/ChristianBorgs">Christian Borgs</author>
+<title>Hardening Encrypted Patient Names Against Cryptographic Attacks Using Cellular Automata.</title>
+<pages>518-522</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00082</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SchnellB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ReisLHV18" mdate="2020-10-25">
+<author pid="235/6986">Debora Gomes dos Reis</author>
+<author pid="40/407">Marcelo Ladeira</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0003-2785-8958" pid="58/5054">M&#225;rcio de Carvalho Victorino</author>
+<title>Large Database Schema Matching using Data Mining Techniques.</title>
+<pages>523-530</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00083</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ReisLHV18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/NentwigR18" mdate="2021-10-14">
+<author pid="96/9196">Markus Nentwig</author>
+<author orcid="0000-0002-2665-1114" pid="r/ERahm">Erhard Rahm</author>
+<title>Incremental Clustering on Linked Data.</title>
+<pages>531-538</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00084</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#NentwigR18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DIT 2018:
+1st Workshop on Data-driven Intelligent Transportation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/RahiliROC18" mdate="2020-03-03">
+<author pid="118/0978">Salar Rahili</author>
+<author pid="235/6967">Benjamin Rivi&#232;re</author>
+<author pid="235/6883">Suzanne Olivier</author>
+<author pid="117/2025">Soon-Jo Chung</author>
+<title>Optimal Routing for Autonomous Taxis using Distributed Reinforcement Learning.</title>
+<pages>556-563</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00087</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#RahiliROC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/CoskunBC18" mdate="2019-02-15">
+<author pid="155/0035">Mustafa Coskun</author>
+<author pid="12/5306">Abdelkader Baggag</author>
+<author pid="22/5463">Sanjay Chawla</author>
+<title>Deep Reinforcement Learning for Traffic Light Optimization.</title>
+<pages>564-571</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00088</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#CoskunBC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/DangCL18" mdate="2019-02-15">
+<author pid="116/6349">The Anh Dang</author>
+<author pid="235/6856">Jodi Chiam</author>
+<author pid="22/1805">Ying Li</author>
+<title>A Comparative Study of Urban Mobility Patterns Using Large-Scale Spatio-Temporal Data.</title>
+<pages>572-579</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00089</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#DangCL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SilvadA18" mdate="2022-01-31">
+<author orcid="0000-0002-4941-1009" pid="158/2351-2">Carla Silva 0002</author>
+<author orcid="0000-0002-2017-808X" pid="65/2132">Pedro M. d'Orey</author>
+<author orcid="0000-0002-6020-8087" pid="20/682">Ana Aguiar</author>
+<title>Interpreting Traffic Congestion Using Fundamental Diagrams and Probabilistic Graphical Modeling.</title>
+<pages>580-587</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00090</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SilvadA18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MarzuoliMF18" mdate="2019-02-15">
+<author pid="124/2185">Aude Marzuoli</author>
+<author pid="235/6984">Philippe Monmousseau</author>
+<author pid="76/3866">Eric Feron</author>
+<title>Passenger-Centric Metrics for Air Transportation Leveraging Mobile Phone and Twitter Data.</title>
+<pages>588-595</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00091</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MarzuoliMF18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AlamIASNS18" mdate="2019-02-15">
+<author pid="201/8372">Munshi Yusuf Alam</author>
+<author pid="235/6923">Shahrukh Imam</author>
+<author pid="235/6851">Harshit Anurag</author>
+<author pid="124/3732">Sujoy Saha</author>
+<author pid="24/2949">Subrata Nandi</author>
+<author pid="183/1499">Mousumi Saha</author>
+<title>LiSense: Monitoring City Street Lighting During Night using Smartphone Sensors.</title>
+<pages>596-603</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00092</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AlamIASNS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ShchurBFGS18" mdate="2019-02-15">
+<author pid="210/2544">Oleksandr Shchur</author>
+<author pid="203/8114">Aleksandar Bojchevski</author>
+<author pid="235/6922">Mohamed Farghal</author>
+<author pid="43/3011">Stephan G&#252;nnemann</author>
+<author pid="11/10456">Yusuf Saber</author>
+<title>Anomaly Detection in Car-Booking Graphs.</title>
+<pages>604-607</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00093</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ShchurBFGS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhaoCL18" mdate="2019-02-15">
+<author pid="227/6571">Kangjia Zhao</author>
+<author pid="31/2740">Wenqing Chen</author>
+<author pid="26/4387">Kong-wei Lye</author>
+<title>Online Vehicle Dispatch: from Assignment to Scheduling.</title>
+<pages>608-611</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00094</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhaoCL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/KataokaGMM18" mdate="2021-07-25">
+<author orcid="0000-0003-0545-3415" pid="31/4385">Kotaro Kataoka</author>
+<author pid="218/9630">Saurabh Gangwar</author>
+<author pid="233/8157">Karthik Yadav Mudda</author>
+<author pid="210/0932">Souraj Mandal</author>
+<title>A Smartphone-Based Probe Data Platform for Road Management and Safety in Developing Countries.</title>
+<pages>612-615</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00095</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#KataokaGMM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/TsaoICP18" mdate="2019-12-27">
+<author pid="235/6939">Paul Tsao</author>
+<author orcid="0000-0001-6432-9161" pid="16/3">Tsi-Ui Ik</author>
+<author pid="84/1107">Guan-Wen Chen</author>
+<author pid="92/1623">Wen-Chih Peng</author>
+<title>Stitching Aerial Images for Vehicle Positioning and Tracking.</title>
+<pages>616-623</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00096</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#TsaoICP18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GohKZ18" mdate="2019-02-15">
+<author pid="235/6969">Gary Goh</author>
+<author pid="182/2222">Jing Yu Koh</author>
+<author pid="47/722">Yue Zhang</author>
+<title>Twitter-Informed Crowd Flow Prediction.</title>
+<pages>624-631</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00097</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GohKZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AksehirliL18" mdate="2019-02-15">
+<author pid="08/9943">Emin Aksehirli</author>
+<author pid="22/1805">Ying Li</author>
+<title>Predicting MRT Trips in Singapore by Creating a Mobility Behavior Model Based on GSM Data.</title>
+<pages>632-639</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00098</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AksehirliL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SongPWB18" mdate="2019-02-15">
+<author pid="198/0734">Baoyang Song</author>
+<author pid="139/3501">Hasan Poonawala</author>
+<author pid="91/5132">Laura Wynter</author>
+<author pid="07/7138">Sebastien Blandin</author>
+<title>Robust Commuter Movement Inference from Connected Mobile Devices.</title>
+<pages>640-647</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00099</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SongPWB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SunderrajanVL18" mdate="2019-02-15">
+<author pid="146/0083">Abhinav Sunderrajan</author>
+<author pid="30/8937">Jagannadan Varadarajan</author>
+<author pid="46/4476">Kong Wei Lye</author>
+<title>Road Speed Profiling for Upfront Travel Time Estimation.</title>
+<pages>648-654</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00100</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SunderrajanVL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/WangHZL18" mdate="2020-10-25">
+<author pid="88/9436">Yazhe Wang</author>
+<author orcid="0000-0002-6972-6577" pid="45/4167">Chih-Chieh Hung</author>
+<author pid="93/4303">Baihua Zheng</author>
+<author pid="l/EePengLim">Ee-Peng Lim</author>
+<title>TripDecoder: Inferring Routes of Passengers of Mass Rapid Transit Systems by Smart Card Transaction Data.</title>
+<pages>655-658</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00101</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#WangHZL18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DLC 2018:
+Workshop on Deep Learning and Clustering</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/Kimura18" mdate="2019-02-15">
+<author pid="12/5107">Masaomi Kimura</author>
+<title>AutoClustering: A Feed-Forward Neural Network Based Clustering Algorithm.</title>
+<pages>659-666</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00102</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Kimura18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LengLZQ18" mdate="2022-06-23">
+<author pid="219/1664">Jiaxu Leng</author>
+<author pid="91/112-39">Ying Liu 0039</author>
+<author orcid="0000-0003-0843-1916" pid="217/5169">Tianlin Zhang</author>
+<author orcid="0000-0001-6005-5714" pid="220/9862">Pei Quan</author>
+<title>Context Learning Network for Object Detection.</title>
+<pages>667-673</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00103</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LengLZQ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PratiherCAB18" mdate="2019-10-19">
+<author pid="160/8753">Sawon Pratiher</author>
+<author orcid="0000-0003-1218-0769" pid="213/8050">Subhankar Chattoraj</author>
+<author pid="134/6808">Sumit Agarwal</author>
+<author pid="224/7079">Shubhobrata Bhattacharya</author>
+<title>Grading Tumor Malignancy via Deep Bidirectional LSTM on Graph Manifold Encoded Histopathological Image.</title>
+<pages>674-681</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00104</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PratiherCAB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Same18" mdate="2019-02-15">
+<author pid="57/1285">Allou Sam&#233;</author>
+<title>Sequential Variational Learning of Dynamic Factor Mixtures.</title>
+<pages>682-688</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00105</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Same18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/YiC18" mdate="2019-02-15">
+<author pid="198/1248">Subin Yi</author>
+<author pid="13/1402">Jaesik Choi</author>
+<title>Learning the Group Structure of Deep Neural Networks with an Expectation Maximization Method.</title>
+<pages>689-696</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00106</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#YiC18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DMBIH 2018:
+Sixth Workshop on Data Mining in Biomedical Informatics and Healthcare</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/ChakravortiLGR18" mdate="2019-02-15">
+<author pid="235/6876">Dante Chakravorti</author>
+<author pid="235/6890">Kathleen Law</author>
+<author pid="69/1553">Jonathan Gemmell</author>
+<author pid="32/1675">Daniela Raicu</author>
+<title>Detecting and Characterizing Trends in Online Mental Health Discussions.</title>
+<pages>697-706</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00107</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ChakravortiLGR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/CrielaardP18" mdate="2020-12-25">
+<author pid="235/6995">Loes Crielaard</author>
+<author pid="59/3814">Panagiotis Papapetrou</author>
+<title>Explainable Predictions of Adverse Drug Events from Electronic Health Records Via Oracle Coaching.</title>
+<pages>707-714</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00108</ee>
+<ee>https://www.wikidata.org/entity/Q102630779</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#CrielaardP18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/FodehLJS18" mdate="2020-05-05">
+<author pid="07/4880">Samah J. Fodeh</author>
+<author pid="90/1606">Taihua Li</author>
+<author pid="235/6916">Haya Jarad</author>
+<author pid="235/6966">Basmah Safdar</author>
+<title>Identifying Patients with Coronary Microvascular Dysfunction using Machine Learning.</title>
+<pages>715-721</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00109</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#FodehLJS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Noriega-AtalaHT18" mdate="2019-02-15">
+<author pid="205/9052">Enrique Noriega-Atala</author>
+<author pid="232/1810">Paul Douglas Hein</author>
+<author pid="235/6949">Shraddha Satish Thumsi</author>
+<author pid="232/1923">Zechy Wong</author>
+<author pid="64/5700">Xia Wang</author>
+<author pid="84/3699">Clayton Thomas Morrison</author>
+<title>Inter-Sentence Relation Extraction for Associating Biological Context with Events in Biomedical Texts.</title>
+<pages>722-731</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00110</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Noriega-AtalaHT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PathakRVGSK18" mdate="2020-06-15">
+<author orcid="0000-0002-6984-8208" pid="156/9541">Shreyasi Pathak</author>
+<author pid="235/6974">Jorit van Rossen</author>
+<author pid="210/6337">Onno Vijlbrief</author>
+<author pid="210/6336">Jeroen Geerdink</author>
+<author orcid="0000-0002-6776-3868" pid="47/5048">Christin Seifert</author>
+<author pid="k/MauricevanKeulen">Maurice van Keulen</author>
+<title>Automatic Structuring of Breast Cancer Radiology Reports for Quality Assurance.</title>
+<pages>732-739</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00111</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PathakRVGSK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PaulM18" mdate="2022-12-07">
+<author pid="61/9100">Sushmita Paul</author>
+<author orcid="0000-0002-8093-7914" pid="235/6920">Madhumita</author>
+<title>Robust Computational Method for Identification of miRNA-mRNA Modules in Cervical Cancer.</title>
+<pages>740-747</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00112</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PaulM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PiresGPCM18" mdate="2020-06-15">
+<author pid="235/6877">Sofia Pires</author>
+<author orcid="0000-0003-2111-4579" pid="235/6880">Marta Gromicho</author>
+<author pid="167/8737">Susana Pinto</author>
+<author pid="01/11408">Mamede de Carvalho</author>
+<author orcid="0000-0002-1459-8096" pid="90/3540">Sara C. Madeira</author>
+<title>Predicting Non-invasive Ventilation in ALS Patients Using Stratified Disease Progression Groups.</title>
+<pages>748-757</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00113</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PiresGPCM18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DMESS 2018:
+Eighth Workshop on Data Mining in Earth System Science</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/BhatiaG18" mdate="2019-02-15">
+<author pid="199/7860">Udit Bhatia</author>
+<author pid="65/6458">Auroop Ratan Ganguly</author>
+<title>Extreme Values from Spatiotemporal Chaos: Precipitation Extremes and Climate Variability.</title>
+<pages>758-762</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00114</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#BhatiaG18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/CollierDGMKGNML18" mdate="2019-02-15">
+<author pid="218/6037">Edward Collier</author>
+<author pid="235/6921">Kate Duffy</author>
+<author pid="39/8961">Sangram Ganguly</author>
+<author pid="235/6946">Geri Madanguit</author>
+<author pid="60/7185">Subodh Kalia</author>
+<author pid="116/5259">Shreekant Gayaka</author>
+<author pid="70/10416">Ramakrishna R. Nemani</author>
+<author pid="04/10417">Andrew R. Michaelis</author>
+<author pid="43/6294">Shuang Li</author>
+<author pid="65/6458">Auroop R. Ganguly</author>
+<author pid="15/3402">Supratik Mukhopadhyay</author>
+<title>Progressively Growing Generative Adversarial Networks for High Resolution Semantic Segmentation of Satellite Images.</title>
+<pages>763-769</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00115</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#CollierDGMKGNML18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LangfordKH18" mdate="2021-04-09">
+<author pid="197/3004">Zachary L. Langford</author>
+<author orcid="0000-0002-0159-0546" pid="75/6514-1">Jitendra Kumar 0001</author>
+<author orcid="0000-0001-5802-4134" pid="45/5409">Forrest M. Hoffman</author>
+<title>Wildfire Mapping in Interior Alaska Using Deep Neural Networks on Imbalanced Datasets.</title>
+<pages>770-778</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00116</ee>
+<ee>https://www.wikidata.org/entity/Q62550200</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LangfordKH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LuKCKL18" mdate="2020-11-13">
+<author pid="62/1412">Yuping Lu</author>
+<author orcid="0000-0002-0159-0546" pid="75/6514-1">Jitendra Kumar 0001</author>
+<author pid="201/5289">Nathan Collier</author>
+<author pid="194/7482">Bhargavi Krishna</author>
+<author pid="l/MALangston">Michael A. Langston</author>
+<title>Detecting Outliers in Streaming Time Series Data from ARM Distributed Sensors.</title>
+<pages>779-786</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00117</ee>
+<ee>https://www.wikidata.org/entity/Q62550176</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LuKCKL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MillsSKSHH18" mdate="2021-10-14">
+<author pid="93/730">Richard Tran Mills</author>
+<author pid="12/10956">Vamsi Sripathi</author>
+<author orcid="0000-0002-0159-0546" pid="75/6514-1">Jitendra Kumar 0001</author>
+<author orcid="0000-0002-4978-9423" pid="56/1471">Sarat Sreepathi</author>
+<author orcid="0000-0001-5802-4134" pid="45/5409">Forrest M. Hoffman</author>
+<author orcid="0000-0002-9830-0022" pid="43/2836">William W. Hargrove</author>
+<title>Parallel k-Means Clustering of Geospatial Data Sets Using Manycore CPU Architectures.</title>
+<pages>787-794</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00118</ee>
+<ee>https://www.wikidata.org/entity/Q62550189</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MillsSKSHH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SongLHHPL18" mdate="2019-12-27">
+<author pid="62/1539-7">Wei Song 0007</author>
+<author pid="53/5842">Minghui Li</author>
+<author pid="51/6972">Qi He</author>
+<author pid="31/2671">Dongmei Huang</author>
+<author pid="34/6704">Cristian Perra</author>
+<author orcid="0000-0002-2773-4421" pid="31/1394">Antonio Liotta</author>
+<title>A Residual Convolution Neural Network for Sea Ice Classification with Sentinel-1 SAR Imagery.</title>
+<pages>795-802</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00119</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SongLHHPL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhanYJ18" mdate="2019-02-15">
+<author pid="235/6846">Donglin Zhan</author>
+<author pid="235/6896">Shiyu Yi</author>
+<author pid="235/6990">Denglin Jiang</author>
+<title>Small-Scale Demographic Sequences Projection Based on Time Series Clustering and LSTM-RNN.</title>
+<pages>803-809</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00120</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhanYJ18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DMS 2018:
+IEEE International Workshop on Data Mining for Service</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/ChenKM18" mdate="2019-02-15">
+<author pid="203/7325">Tianle Chen</author>
+<author pid="35/1878">Brian Keng</author>
+<author pid="73/3901">Javier Moreno</author>
+<title>Multivariate Arrival Times with Recurrent Neural Networks for Personalized Demand Forecasting.</title>
+<pages>810-819</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00121</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ChenKM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/DoanVK18" mdate="2019-02-15">
+<author pid="211/6830">Thang Doan</author>
+<author pid="207/3982">Neil Veira</author>
+<author pid="35/1878">Brian Keng</author>
+<title>Generating Realistic Sequences of Customer-Level Transactions for Retail Datasets.</title>
+<pages>820-827</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00122</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#DoanVK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GoossensDH18" mdate="2019-12-27">
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="235/6943">Tiblets Demewez</author>
+<author orcid="0000-0002-4027-4351" pid="09/7444">Marwan Hassani</author>
+<title>Effective Steering of Customer Journey via Order-Aware Recommendation.</title>
+<pages>828-837</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00123</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GoossensDH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LiLXY18" mdate="2020-07-29">
+<author pid="74/2397-14">Zhen Li 0014</author>
+<author pid="184/6579">Fangzhou Li</author>
+<author pid="67/4008">Jing Xiao</author>
+<author orcid="0000-0002-2056-8977" pid="90/5587">Zhi Yang</author>
+<title>Effects of Negative Customer Reviews on Sales: Evidence Based on Text Data Mining.</title>
+<pages>838-847</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00124</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LiLXY18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/KanekoYIO18" mdate="2019-02-15">
+<author pid="170/7358">Yuta Kaneko</author>
+<author pid="20/1983">Katsutoshi Yada</author>
+<author pid="235/6872">Wataru Ihara</author>
+<author pid="235/6930">Ryunosuke Odagiri</author>
+<title>How Game Users Consume Virtual Currency: The Relationship Between Consumed Quantity, Inventory, and Elapsed Time Since Last Consumption in the Mobile Game World.</title>
+<pages>848-855</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00125</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#KanekoYIO18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MizufuneK18" mdate="2019-02-15">
+<author pid="235/6904">Kosuke Mizufune</author>
+<author pid="194/4728">Sotaro Katsumata</author>
+<title>Joint Classification Model of Topic and Polarity: Finding Satisfaction and Dissatisfaction Factors from Airport Service Review.</title>
+<pages>856-863</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00126</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MizufuneK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/RajputCD18" mdate="2019-10-19">
+<author pid="214/3192">Kunal Rajput</author>
+<author orcid="0000-0001-6264-8644" pid="24/2908">Girija Chetty</author>
+<author pid="167/4635">Rachel Davey</author>
+<title>Deep Neural Models for Chronic Disease Status Detection in Free Text Clinical Records.</title>
+<pages>864-869</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00127</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#RajputCD18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>DSBDA 2018:
+The 6th International Workshop on Data Science and Big Data Analytics</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/BeganovicS18" mdate="2019-02-15">
+<author pid="235/6871">Dorian Beganovic</author>
+<author pid="s/EvgueniNSmirnov">Evgueni N. Smirnov</author>
+<title>Ensemble Cross-Conformal Prediction.</title>
+<pages>870-877</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00128</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#BeganovicS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/CasillasW18" mdate="2019-02-15">
+<author pid="63/2375">Jorge Casillas</author>
+<author pid="63/1591">Shuo Wang</author>
+<title>Concept Drift Detection in Histogram-Based Straightforward Data Stream Prediction.</title>
+<pages>878-885</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00129</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#CasillasW18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/CharlierFSH18" mdate="2019-02-15">
+<author pid="206/3338">J&#233;r&#233;my Charlier</author>
+<author pid="94/11498">Eric Falk</author>
+<author pid="05/6228">Radu State</author>
+<author pid="220/8768">Jean Hilger</author>
+<title>User-Device Authentication in Mobile Banking Using APHEN for Paratuck2 Tensor Decomposition.</title>
+<pages>886-894</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00130</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#CharlierFSH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ChenDCM18" mdate="2020-12-29">
+<author pid="29/6497">Zhuo Chen</author>
+<author pid="163/8729">Ruizhou Ding</author>
+<author pid="199/8630">Ting-Wu Chin</author>
+<author orcid="0000-0002-5734-4221" pid="59/2715">Diana Marculescu</author>
+<title>Understanding the Impact of Label Granularity on CNN-Based Image Classification.</title>
+<pages>895-904</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00131</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ChenDCM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LiuWM18" mdate="2020-09-15">
+<author pid="13/5407-7">Xuan Liu 0007</author>
+<author pid="38/2429-1">Xiaoguang Wang 0001</author>
+<author orcid="0000-0001-6629-8434" pid="m/StanMatwin">Stan Matwin</author>
+<title>Improving the Interpretability of Deep Neural Networks with Knowledge Distillation.</title>
+<pages>905-912</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00132</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LiuWM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GhoshPBRNS18" mdate="2020-10-25">
+<author orcid="0000-0001-9700-3555" pid="62/10648-2">Arindam Ghosh 0002</author>
+<author orcid="0000-0002-5656-6340" pid="164/6595">Prithviraj Pramanik</author>
+<author pid="235/6885">Kartick Das Banerjee</author>
+<author pid="235/6899">Ashutosh Roy</author>
+<author pid="24/2949">Subrata Nandi</author>
+<author pid="124/3732">Sujoy Saha</author>
+<title>Analyzing Correlation Between Air and Noise Pollution with Influence on Air Quality Prediction.</title>
+<pages>913-918</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00133</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GhoshPBRNS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GrobVMMB18" mdate="2019-02-15">
+<author pid="142/1636">David Grob</author>
+<author pid="235/6935">Mehmet Vurkac</author>
+<author pid="194/6868">Agnieszka Miguel</author>
+<author pid="235/6942">Mirka Mandich</author>
+<author pid="235/6864">Rana Bayrakcsmith</author>
+<title>Pareto Optimization of Parameter Selection Speeds Up and Improves Quality of Motion Computation: Applying Evolutionary Multi-objective Optimization to Randomized-Subspace Robust PCA.</title>
+<pages>919-928</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00134</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GrobVMMB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LiJGWC18" mdate="2019-02-15">
+<author pid="205/0187">Zixuan Li</author>
+<author pid="00/1728">Xiaolong Jin</author>
+<author pid="205/7534">Saiping Guan</author>
+<author pid="65/5018">Yuanzhuo Wang</author>
+<author pid="44/912">Xueqi Cheng</author>
+<title>Path Reasoning over Knowledge Graph: A Multi-agent and Reinforcement Learning Based Method.</title>
+<pages>929-936</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00135</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LiJGWC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LinBCR18" mdate="2022-01-03">
+<author orcid="0000-0002-7979-5509" pid="210/2458">Baihan Lin</author>
+<author pid="45/11240-1">Djallel Bouneffouf 0001</author>
+<author pid="79/6762">Guillermo A. Cecchi</author>
+<author pid="r/IrinaRish">Irina Rish</author>
+<title>Contextual Bandit with Adaptive Feature Extraction.</title>
+<pages>937-944</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00136</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LinBCR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MicNZ18" mdate="2019-02-15">
+<author pid="169/1176">Vladimir Mic</author>
+<author pid="66/3996">David Novak</author>
+<author pid="z/PZezula">Pavel Zezula</author>
+<title>Modifying Hamming Spaces for Efficient Search.</title>
+<pages>945-953</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00137</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MicNZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/OnukiT18" mdate="2019-11-12">
+<author pid="141/9964">Masaki Onuki</author>
+<author pid="99/4274-1">Yuichi Tanaka 0001</author>
+<title>SVD for Very Large Matrices: An Approach with Polar Decomposition and Polynomial Approximation.</title>
+<pages>954-963</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00138</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#OnukiT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SakataOT18" mdate="2019-02-15">
+<author pid="235/6977">Ryuji Sakata</author>
+<author pid="129/2635">Iku Ohama</author>
+<author pid="25/4674">Tadahiro Taniguchi</author>
+<title>An Extension of Gradient Boosted Decision Tree Incorporating Statistical Tests.</title>
+<pages>964-969</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00139</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SakataOT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/VazquezZZ18" mdate="2019-09-25">
+<author pid="18/9197">F&#233;lix Iglesias V&#225;zquez</author>
+<author pid="87/6719">Tanja Zseby</author>
+<author orcid="0000-0001-7713-4208" pid="27/4179">Arthur Zimek</author>
+<title>Outlier Detection Based on Low Density Models.</title>
+<pages>970-979</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00140</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#VazquezZZ18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>GA 2018:
+International Workshop on Graph Analytics</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/CuiP18" mdate="2019-02-15">
+<author pid="215/8377">Qianna Cui</author>
+<author pid="77/3132">Haiwei Pan</author>
+<title>Online and Semi-Online Vector Scheduling on A Single Machine with Rejection.</title>
+<pages>980-985</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00141</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#CuiP18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/0001JCXZS18" mdate="2022-10-02">
+<author orcid="0000-0002-3650-0301" pid="98/5766-1">Xin Huang 0001</author>
+<author pid="90/8494">Jiaxin Jiang</author>
+<author pid="07/1560">Byron Choi</author>
+<author orcid="0000-0001-9404-5848" pid="x/JianliangXu">Jianliang Xu</author>
+<author pid="68/1980">Zhiwei Zhang</author>
+<author pid="165/3067">Yunya Song</author>
+<title>PP-DBLP: Modeling and Generating Attributed Public-Private Networks with DBLP.</title>
+<pages>986-989</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00142</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#0001JCXZS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/JenaKS18" mdate="2019-02-15">
+<author pid="235/6894">Bismita Jena</author>
+<author pid="186/1267">Cynthia Khan</author>
+<author pid="s/RSunderraman">Rajshekhar Sunderraman</author>
+<title>SparkFSM: A Highly Scalable Frequent Subgraph Mining Approach using Apache Spark.</title>
+<pages>990-997</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00143</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#JenaKS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/KumarB18" mdate="2019-10-22">
+<author pid="16/9278-1">Siddharth Bhatia 0001</author>
+<author pid="67/5917-2">Rajiv Kumar 0002</author>
+<title>Review of Graph Processing Frameworks.</title>
+<pages>998-1005</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00144</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#KumarB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SunBHH18" mdate="2019-09-25">
+<author pid="20/8149">Yiwei Sun</author>
+<author pid="45/9077">Ngot Bui</author>
+<author pid="117/7451">Tsung-Yu Hsieh</author>
+<author orcid="0000-0001-5399-3489" pid="h/VasantHonavar">Vasant G. Honavar</author>
+<title>Multi-view Network Embedding via Graph Factorization Clustering and Co-regularized Multi-view Agreement.</title>
+<pages>1006-1013</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00145</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SunBHH18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>GRLA 2018:
+International Workshop on Large Scale Graph Representation Learning and Applications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/AlhussienCN18" mdate="2019-09-25">
+<author pid="227/2116">Ikhlas Alhussien</author>
+<author orcid="0000-0002-3030-1280" pid="80/7421">Erik Cambria</author>
+<author pid="227/2405">Zhang NengSheng</author>
+<title>Semantically Enhanced Models for Commonsense Knowledge Acquisition.</title>
+<pages>1014-1021</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00146</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AlhussienCN18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ChuFGWH18" mdate="2019-02-15">
+<author pid="121/4823">Yunfei Chu</author>
+<author pid="68/3731">Chunyan Feng</author>
+<author pid="45/7794">Caili Guo</author>
+<author pid="147/1393">Yaqing Wang</author>
+<author pid="78/4381">Jenq-Neng Hwang</author>
+<title>Event2vec: Heterogeneous Hypergraph Embedding for Event Data.</title>
+<pages>1022-1029</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00147</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ChuFGWH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GuoWL18" mdate="2019-02-15">
+<author pid="216/4845">Lan-Zhe Guo</author>
+<author pid="91/2526">Shao-Bo Wang</author>
+<author pid="57/413">Yu-Feng Li</author>
+<title>Large Margin Graph Construction for Semi-Supervised Learning.</title>
+<pages>1030-1033</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00148</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GuoWL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/IvanovDB18" mdate="2019-02-15">
+<author pid="133/2766">Sergey Ivanov</author>
+<author pid="230/4660">Nikita Durasov</author>
+<author pid="144/7845">Evgeny Burnaev</author>
+<title>Learning Node Embeddings for Influence Set Completion.</title>
+<pages>1034-1037</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00149</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#IvanovDB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LiHD18" mdate="2022-09-30">
+<author orcid="0000-0002-5056-0351" pid="l/ZhaoLi-7">Zhao Li 0007</author>
+<author pid="233/6209">Jiaming Huang</author>
+<author pid="235/6973">Donghui Ding</author>
+<title>Learning Network Representations with Neighboring Affinity.</title>
+<pages>1038-1045</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00150</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LiHD18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/NozawaKK18" mdate="2022-06-23">
+<author pid="215/4422">Kento Nozawa</author>
+<author orcid="0000-0002-9953-3469" pid="215/4359">Masanari Kimura</author>
+<author orcid="0000-0001-7425-3949" pid="76/3303">Atsunori Kanemura</author>
+<title>Analyzing Centralities of Embedded Nodes.</title>
+<pages>1046-1049</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00151</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#NozawaKK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PanovT18" mdate="2019-02-15">
+<author pid="30/10085">Maxim Panov</author>
+<author pid="228/9303">Stanislav Tsepa</author>
+<title>Constructing Graph Node Embeddings via Discrimination of Similarity Distributions.</title>
+<pages>1050-1053</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00152</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PanovT18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>HDM 2018:
+6th ICDM Workshop on High Dimensional Data Mining</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/DebSKRGK18" mdate="2022-10-02">
+<author orcid="0000-0001-5345-1751" pid="235/6981">Bishal Deb</author>
+<author orcid="0000-0001-6787-7286" pid="235/6911">Ankita Sarkar</author>
+<author orcid="0000-0003-1799-1069" pid="230/3978">Nupur Kumari</author>
+<author pid="235/6905">Akash Rupela</author>
+<author pid="57/6295">Piyush Gupta</author>
+<author pid="79/1076">Balaji Krishnamurthy</author>
+<title>Multimapper: Data Density Sensitive Topological Visualization.</title>
+<pages>1054-1061</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00153</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#DebSKRGK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/FlexerDSG18" mdate="2022-04-09">
+<author orcid="0000-0002-1691-737X" pid="95/4897">Arthur Flexer</author>
+<author pid="06/9875">Monika D&#246;rfler</author>
+<author pid="50/1447">Jan Schl&#252;ter</author>
+<author pid="09/6775">Thomas Grill</author>
+<title>Hubness as a Case of Technical Algorithmic Bias in Music Recommendation.</title>
+<pages>1062-1069</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00154</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#FlexerDSG18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/HmamoucheLC18" mdate="2019-02-15">
+<author pid="172/1593">Youssef Hmamouche</author>
+<author pid="42/4726">Lotfi Lakhal</author>
+<author pid="05/1208">Alain Casali</author>
+<title>Predictors Extraction in Time Series Using Authorities-Hubs Ranking.</title>
+<pages>1070-1079</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00155</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#HmamoucheLC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LeeWZ18" mdate="2019-02-15">
+<author pid="121/8559">Hyunmin Lee</author>
+<author pid="235/6961">Zhen Hao Wu</author>
+<author pid="32/3360">Zhaolei Zhang</author>
+<title>Dimension Reduction on Open Data Using Variational Autoencoder.</title>
+<pages>1080-1085</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00156</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LeeWZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Lu18" mdate="2019-02-15">
+<author pid="220/4072">Yingjing Lu</author>
+<title>Mining Connections Between Domains through Latent Space Mapping.</title>
+<pages>1086-1093</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00157</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Lu18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MoultonJ18a" mdate="2019-02-15">
+<author pid="227/3109">Ryan Moulton</author>
+<author pid="172/2694">Yunjiang Jiang</author>
+<title>Maximally Consistent Sampling and the Jaccard Index of Probability Distributions.</title>
+<pages>1094-1103</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00158</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MoultonJ18a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ShekharTK18" mdate="2019-02-15">
+<author pid="150/5161">Mihir Shekhar</author>
+<author pid="29/2701">Lini T. Thomas</author>
+<author pid="k/KKarlapalem">Kamalakar Karlapalem</author>
+<title>High Dimensional Clustering: A Strongly Connected Component Clustering Solution (SCCC).</title>
+<pages>1104-1111</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00159</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ShekharTK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Wang18a" mdate="2019-02-15">
+<author pid="80/7163">Donglin Wang</author>
+<title>HILLS: Hierarchical Indoor Localization for Large-Scale Architectural Complex.</title>
+<pages>1112-1121</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00160</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Wang18a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/WasidA18" mdate="2019-02-15">
+<author pid="190/3903">Mohammed Wasid</author>
+<author pid="64/100">Rashid Ali</author>
+<title>Clustering Approach for Multidimensional Recommender Systems.</title>
+<pages>1122-1127</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00161</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#WasidA18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/YinZ18" mdate="2019-02-15">
+<author pid="207/6623">Ao Yin</author>
+<author pid="87/8200">Chunkai Zhang</author>
+<title>BOFE: Anomaly Detection in Linear Time Based on Feature Estimation.</title>
+<pages>1128-1133</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00162</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#YinZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhangLBYLG18" mdate="2019-02-15">
+<author pid="04/6390">Qizhi Zhang</author>
+<author pid="l/KuangchihLee">Kuang-Chih Lee</author>
+<author pid="147/1475">Hongying Bao</author>
+<author pid="01/10474">Yuan You</author>
+<author pid="33/3999">Wenjie Li</author>
+<author pid="139/7919">Dongbai Guo</author>
+<title>Large Scale Classification in Deep Neural Network with Label Mapping.</title>
+<pages>1134-1143</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00163</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhangLBYLG18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>IWSC 2018:
+2nd International Workshop on Social Computing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/YokobayashiM18" mdate="2019-02-15">
+<author pid="204/3781">Ryohei Yokobayashi</author>
+<author pid="28/926">Takao Miura</author>
+<title>Multidimensional Data Mining Based on Tensor.</title>
+<pages>1144-1151</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00164</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#YokobayashiM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/InoueM18" mdate="2019-02-15">
+<author pid="219/8480">Maoto Inoue</author>
+<author pid="28/926">Takao Miura</author>
+<title>Tracking Aspects in News Documents.</title>
+<pages>1152-1159</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00165</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#InoueM18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AggarwalT18" mdate="2021-10-14">
+<author orcid="0000-0001-7230-3869" pid="222/5040">Apeksha Aggarwal</author>
+<author pid="37/640">Durga Toshniwal</author>
+<title>Spatio-Temporal Frequent Itemset Mining on Web Data.</title>
+<pages>1160-1165</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00166</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AggarwalT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AlduaijiD18" mdate="2021-04-09">
+<author orcid="0000-0002-3423-0993" pid="189/8495">Noha Alduaiji</author>
+<author orcid="0000-0001-6916-7907" pid="80/1045">Amitava Datta</author>
+<title>An Empirical Study on Sentiments in Twitter Communities.</title>
+<pages>1166-1172</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00167</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AlduaijiD18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/RohdeMDS18" mdate="2020-01-04">
+<author pid="235/6906">Logan Rohde</author>
+<author orcid="0000-0002-4253-5201" pid="88/10235">Somya D. Mohanty</author>
+<author pid="06/6599-1">Jing Deng 0001</author>
+<author pid="s/FereidoonSadri">Fereidoon Sadri</author>
+<title>The Propagation of Counteracting Information in Online Social Networks: A Case Study.</title>
+<pages>1173-1177</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00168</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#RohdeMDS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GautamBSA18" mdate="2020-03-27">
+<author orcid="0000-0002-3258-9927" pid="216/0891">Bhaskar Gautam</author>
+<author orcid="0000-0002-4049-3677" pid="01/9555">Annappa Basava</author>
+<author pid="27/2328">Abhishek Singh</author>
+<author pid="53/3333">Amit Agrawal</author>
+<title>When and Where?: Behavior Dominant Location Forecasting with Micro-Blog Streams.</title>
+<pages>1178-1185</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00169</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GautamBSA18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/TalL18" mdate="2019-06-12">
+<author pid="99/11381">Omer Tal</author>
+<author pid="51/3710-8">Yang Liu 0008</author>
+<title>TCENR: A Hybrid Neural Recommender for Location Based Social Networks.</title>
+<pages>1186-1191</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00170</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#TalL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AbitbolKF18" mdate="2022-12-07">
+<author pid="217/4466">Jacob Levy Abitbol</author>
+<author orcid="0000-0001-5382-8950" pid="13/8264">M&#225;rton Karsai</author>
+<author pid="44/344">Eric Fleury</author>
+<title>Location, Occupation, and Semantics Based Socioeconomic Status Inference on Twitter.</title>
+<pages>1192-1199</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00171</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AbitbolKF18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/HossnyM18" mdate="2020-12-29">
+<author pid="174/3628">Ahmad Hany Hossny</author>
+<author orcid="0000-0001-8191-1997" pid="126/5006">Lewis Mitchell</author>
+<title>Event Detection in Twitter: A Keyword Volume Approach.</title>
+<pages>1200-1208</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00172</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#HossnyM18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>OEDM 2018:
+Workshop on Optimization Based Techniques for Emerging Data Mining Problems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/GuanQLSGL18" mdate="2020-08-29">
+<author pid="75/4038">Lei Guan</author>
+<author pid="176/0956">Linbo Qiao</author>
+<author pid="254/0830-1">Dongsheng Li 0001</author>
+<author pid="74/3590-5">Tao Sun 0005</author>
+<author pid="204/0971">Keshi Ge</author>
+<author pid="07/2551">Xicheng Lu</author>
+<title>An Efficient ADMM-Based Algorithm to Nonconvex Penalized Support Vector Machines.</title>
+<pages>1209-1216</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00173</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GuanQLSGL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/HajewskiOS18" mdate="2021-10-14">
+<author pid="235/6931">Jeffrey Hajewski</author>
+<author orcid="0000-0003-4987-5353" pid="61/6500">Suely Oliveira</author>
+<author orcid="0000-0002-7453-6268" pid="115/9109">David E. Stewart</author>
+<title>Smoothed Hinge Loss and &#8467;1 Support Vector Machines.</title>
+<pages>1217-1223</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00174</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#HajewskiOS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/KocakAMN18" mdate="2020-03-27">
+<author orcid="0000-0002-6317-0141" pid="235/6848">Gokberk Kocak</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Closed Frequent Itemset Mining with Arbitrary Side Constraints.</title>
+<pages>1224-1232</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00175</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#KocakAMN18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LiSQC18" mdate="2021-03-09">
+<author pid="31/5668">Biao Li</author>
+<author pid="84/5467-1">Yong Shi 0001</author>
+<author pid="52/1384">Zhiquan Qi</author>
+<author pid="160/5999-1">Zhensong Chen 0001</author>
+<title>A Survey on Semantic Segmentation.</title>
+<pages>1233-1240</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00176</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LiSQC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LiW18" mdate="2019-02-15">
+<author pid="61/500">Yue Li</author>
+<author pid="72/6811">Bo Wang</author>
+<title>A Study on Customer Churn of Commercial Banks Based on Learning from Label Proportions.</title>
+<pages>1241-1247</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00177</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LiW18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MaN18" mdate="2019-02-15">
+<author pid="233/3450">Rongrong Ma</author>
+<author pid="11/8770">Lingfeng Niu</author>
+<title>Compact Deep Neural Networks with &#8467;1, 1 and &#8467;1, 2 Regularization.</title>
+<pages>1248-1254</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00178</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MaN18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ShiZGZQ18" mdate="2022-01-03">
+<author pid="84/5467-1">Yong Shi 0001</author>
+<author pid="201/6264">Yuanchun Zheng</author>
+<author orcid="0000-0002-4787-8406" pid="79/3642">Kun Guo</author>
+<author pid="174/0179">Luyao Zhu</author>
+<author pid="73/2512">Yi Qu</author>
+<title>Intrinsic or Extrinsic Evaluation: An Overview of Word Embedding Evaluation.</title>
+<pages>1255-1262</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00179</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ShiZGZQ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/TangZL18" mdate="2019-02-15">
+<author pid="130/4396">Jianxiong Tang</author>
+<author pid="07/5342">Na Zhang</author>
+<author pid="161/4433">Qia Li</author>
+<title>Robust Binary Classification via &#8467;0-SVM.</title>
+<pages>1263-1270</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00180</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#TangZL18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>SAREC 2018:
+1st Workshop on Scalable and Applicable Recommendation Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/BallenG18" mdate="2019-02-15">
+<author pid="173/5436">Peter Ballen</author>
+<author pid="g/SudiptoGuha">Sudipto Guha</author>
+<title>Elastic Nonnegative Matrix Factorization.</title>
+<pages>1271-1278</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00181</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#BallenG18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/DeshmukhNR18" mdate="2019-09-25">
+<author pid="233/1236">Anup Anand Deshmukh</author>
+<author pid="233/1231">Pratheeksha Nair</author>
+<author orcid="0000-0003-0625-5103" pid="88/3599">Shrisha Rao</author>
+<title>A Scalable Clustering Algorithm for Serendipity in Recommender Systems.</title>
+<pages>1279-1288</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00182</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#DeshmukhNR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/KrishnaGA18" mdate="2019-06-04">
+<author pid="207/7800">Vaibhav Krishna</author>
+<author pid="55/3523-2">Tian Guo 0002</author>
+<author pid="91/10229">Nino Antulov-Fantulin</author>
+<title>Is Simple Better? Revisiting Non-Linear Matrix Factorization for Learning Incomplete Ratings.</title>
+<pages>1289-1293</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00183</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#KrishnaGA18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LiH018" mdate="2019-02-15">
+<author pid="204/3795">Zhaoqiang Li</author>
+<author pid="79/729">Jiajin Huang</author>
+<author pid="z/NingZhong">Ning Zhong 0001</author>
+<title>Leveraging Reconstructive Profiles of Users and Items for Tag-Aware Recommendation.</title>
+<pages>1294-1299</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00184</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LiH018</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/NiuJXCW18" mdate="2019-09-24">
+<author pid="14/1289">Kun Niu</author>
+<author pid="188/7908">Haizhen Jiao</author>
+<author pid="64/4216">Xiao Xu</author>
+<author pid="66/332">Cheng Cheng</author>
+<author pid="188/7759-32">Chao Wang 0032</author>
+<title>A Novel Learning Approach to Improve Mobile Application Recommendation Diversity.</title>
+<pages>1300-1307</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00185</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#NiuJXCW18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SafderH18" mdate="2019-12-27">
+<author pid="207/9001">Iqra Safder</author>
+<author orcid="0000-0002-6509-9190" pid="78/11279">Saeed-Ul Hassan</author>
+<title>DS4A: Deep Search System for Algorithms from Full-Text Scholarly Big Data.</title>
+<pages>1308-1315</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00186</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SafderH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhaoFSS0Q18" mdate="2021-10-14">
+<author orcid="0000-0003-4392-8450" pid="139/4721">Guoshuai Zhao</author>
+<author pid="64/3069">Hao Fu</author>
+<author pid="s/RuihuaSong">Ruihua Song</author>
+<author pid="18/6321">Tetsuya Sakai</author>
+<author orcid="0000-0002-8608-8482" pid="08/6809-1">Xing Xie 0001</author>
+<author pid="45/6567">Xueming Qian</author>
+<title>Why You Should Listen to This Song: Reason Generation for Explainable Recommendation.</title>
+<pages>1316-1322</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00187</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhaoFSS0Q18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhaoCYZW18" mdate="2020-03-20">
+<author pid="68/2099">Hanqing Zhao</author>
+<author pid="83/6331">Xu Chen</author>
+<author pid="166/5900">Jiangchao Yao</author>
+<author pid="85/3714-2">Ya Zhang 0002</author>
+<author pid="55/5407">Yanfeng Wang</author>
+<title>Recommendation with Hybrid Interest Model.</title>
+<pages>1323-1331</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00188</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhaoCYZW18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ZhengLZS018" mdate="2019-10-18">
+<author pid="185/3834">Xiaoyao Zheng</author>
+<author pid="96/3245">Yonglong Luo</author>
+<author pid="86/1953-1">Ji Zhang 0001</author>
+<author pid="17/2200">Liping Sun</author>
+<author pid="53/5475-2">Fulong Chen 0002</author>
+<title>A Novel Differential Privacy Recommendation Method Based on a Distributed Framework.</title>
+<pages>1332-1339</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00189</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ZhengLZS018</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>SENTIRE 2018:
+Sentiment Elicitation from Natural Text for Information Retrieval and Extraction</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/JinZ18a" mdate="2019-10-19">
+<author orcid="0000-0003-2882-5437" pid="207/9954">Shengmin Jin</author>
+<author pid="93/909">Reza Zafarani</author>
+<title>Sentiment Prediction in Social Networks.</title>
+<pages>1340-1347</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00190</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#JinZ18a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MerelloRMOC18" mdate="2019-09-25">
+<author pid="235/1818">Simone Merello</author>
+<author pid="235/1789">Andrea Picasso Ratto</author>
+<author pid="169/7255">Yukun Ma</author>
+<author orcid="0000-0002-8445-395X" pid="91/10065">Luca Oneto</author>
+<author orcid="0000-0002-3030-1280" pid="80/7421">Erik Cambria</author>
+<title>Investigating Timing and Impact of News on the Stock Market.</title>
+<pages>1348-1354</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00191</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MerelloRMOC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PracianoCMMJP18" mdate="2021-05-19">
+<author orcid="0000-0002-7423-6695" pid="235/6927">Bruno Justino Garcia Praciano</author>
+<author pid="119/1057">Jo&#227;o Paulo Carvalho Lustosa da Costa</author>
+<author orcid="0000-0003-0632-6434" pid="156/1363">Joao Paulo Abreu Maranhao</author>
+<author orcid="0000-0001-7100-7304" pid="124/2039">F&#225;bio L&#250;cio Lopes de Mendon&#231;a</author>
+<author orcid="0000-0003-1101-3029" pid="s/RTdeSousaJ">Rafael Tim&#243;teo de Sousa J&#250;nior</author>
+<author pid="235/6875">Juliano Barbosa Prettz</author>
+<title>Spatio-Temporal Trend Analysis of the Brazilian Elections Based on Twitter Data.</title>
+<pages>1355-1360</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00192</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PracianoCMMJP18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SaeedSK18" mdate="2021-10-14">
+<author orcid="0000-0001-5026-0765" pid="235/6957">Hafiz Hassaan Saeed</author>
+<author pid="04/2970">Khurram Shahzad</author>
+<author pid="07/7790">Faisal Kamiran</author>
+<title>Overlapping Toxic Sentiment Classification Using Deep Neural Architectures.</title>
+<pages>1361-1366</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00193</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SaeedSK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SuyunuAOCUZOB18" mdate="2021-10-14">
+<author pid="225/3230">Burak Suyunu</author>
+<author orcid="0000-0002-9200-8848" pid="168/3043">Gonul Ayci</author>
+<author pid="235/6919">Mine &#214;gretir</author>
+<author pid="41/6613">Ali Taylan Cemgil</author>
+<author pid="59/4527">Suzan Uskudarli</author>
+<author pid="38/8194">Hamza Zeytinoglu</author>
+<author pid="59/778">B&#252;lent &#214;zel</author>
+<author pid="135/6050">Arman Boyaci</author>
+<title>Semi-Supervised Psychometric Scoring of Document Collections.</title>
+<pages>1367-1374</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00194</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SuyunuAOCUZOB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/WangHL18" mdate="2023-01-13">
+<author pid="94/37-1">Zhaoxia Wang 0001</author>
+<author pid="93/9382">Seng-Beng Ho</author>
+<author pid="41/479">Zhiping Lin</author>
+<title>Stock Market Prediction Analysis by Incorporating Social and News Opinion and Sentiment.</title>
+<pages>1375-1380</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00195</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#WangHL18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>SSTDM 2018:
+International Workshop on Spatial and Spatiotemporal Data Mining</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/TokotokoFGHCS18" mdate="2021-10-14">
+<author pid="219/7193">Janna&#239; Tokotoko</author>
+<author pid="53/1920">Fr&#233;d&#233;ric Flouvat</author>
+<author orcid="0000-0002-1649-4418" pid="219/7158">Claire Goiran</author>
+<author orcid="0000-0001-6565-3633" pid="219/7157">Laetitia H&#233;douin</author>
+<author pid="75/9618">Antoine Collin</author>
+<author orcid="0000-0003-1667-3819" pid="13/3368">Nazha Selmaoui-Folcher</author>
+<title>Supervised Classification of Satellite Images with Spatially Inaccurate Training Field Data.</title>
+<pages>1381-1388</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00196</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#TokotokoFGHCS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/FizeRT18" mdate="2021-10-14">
+<author pid="219/8487">Jacques Fize</author>
+<author pid="r/MathieuRoche">Mathieu Roche</author>
+<author orcid="0000-0001-9313-6414" pid="t/MTeisseire">Maguelonne Teisseire</author>
+<title>Matching Heterogeneous Textual Data Using Spatial Features.</title>
+<pages>1389-1396</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00197</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#FizeRT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GadirajuVKWK18" mdate="2019-02-15">
+<author pid="152/3858">Krishna Karthik Gadiraju</author>
+<author pid="48/6853">Ranga Raju Vatsavai</author>
+<author pid="41/4217">Nikhil Kaza</author>
+<author pid="235/6972">Eric Wibbels</author>
+<author pid="235/6991">Anirudh Krishna</author>
+<title>Machine Learning Approaches for Slum Detection Using Very High Resolution Satellite Images.</title>
+<pages>1397-1404</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00198</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GadirajuVKWK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ChakeriL18" mdate="2019-02-15">
+<author pid="16/7049">Alireza Chakeri</author>
+<author pid="150/9768">Mark Lowe</author>
+<title>From Geolocation-Based Only to Semantically-Aware Digital Advertising: A Neural Embedding Approach.</title>
+<pages>1405-1410</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00199</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ChakeriL18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Demo Session</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/AshokLP18" mdate="2022-01-03">
+<author pid="210/0872">Xavier Jayaraj Siddarth Ashok</author>
+<author orcid="0000-0003-0065-8665" pid="l/EePengLim">Ee-Peng Lim</author>
+<author pid="11/11036">Philips Kokoh Prasetyo</author>
+<title>JobSense: A Data-Driven Career Knowledge Exploration Framework and System.</title>
+<pages>1411-1416</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00200</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AshokLP18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ShenDZLDFYL18" mdate="2021-09-09">
+<author orcid="0000-0002-3220-904X" pid="01/8558-1">Ying Shen 0001</author>
+<author pid="115/6282-2">Yang Deng 0002</author>
+<author pid="43/6657">Jin Zhang</author>
+<author pid="127/6999">Yaliang Li</author>
+<author pid="86/4539">Nan Du</author>
+<author pid="54/3488-1">Wei Fan 0001</author>
+<author pid="02/1640-7">Min Yang 0007</author>
+<author pid="64/9060">Kai Lei</author>
+<title>IDDAT: An Ontology-Driven Decision Support System for Infectious Disease Diagnosis and Therapy.</title>
+<pages>1417-1422</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00201</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ShenDZLDFYL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/XueKYWH18" mdate="2019-02-15">
+<author pid="50/11411">Zijun Xue</author>
+<author pid="135/5111">Ting-Yu Ko</author>
+<author pid="235/6865">Neo Yuchen</author>
+<author pid="235/6951">Ming-Kuang Daniel Wu</author>
+<author pid="48/8392">Chu-Cheng Hsieh</author>
+<title>Isa: Intuit Smart Agent, A Neural-Based Agent-Assist Chatbot.</title>
+<pages>1423-1428</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00202</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#XueKYWH18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/0002LWGT18" mdate="2021-10-14">
+<author pid="70/5884-2">Mo Sha 0002</author>
+<author pid="143/0258-1">Yuchen Li 0001</author>
+<author orcid="0000-0002-7661-3917" pid="123/2365-1">Yanhao Wang 0001</author>
+<author pid="179/2634">Wentian Guo</author>
+<author orcid="0000-0001-9315-4057" pid="t/KianLeeTan">Kian-Lee Tan</author>
+<title>River: A Real-Time Influence Monitoring System on Social Media Streams.</title>
+<pages>1429-1434</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00203</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#0002LWGT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/SongDRSB18" mdate="2019-09-25">
+<author pid="37/5972">Fei Song</author>
+<author pid="d/YanleiDiao">Yanlei Diao</author>
+<author pid="41/5377">Jesse Read</author>
+<author pid="235/6913">Arnaud Stiegler</author>
+<author orcid="0000-0002-8339-7773" pid="48/1070">Albert Bifet</author>
+<title>EXAD: A System for Explainable Anomaly Detection on Big Data Traces.</title>
+<pages>1435-1440</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00204</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#SongDRSB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/RossiAK18" mdate="2019-02-15">
+<author pid="17/5085">Ryan A. Rossi</author>
+<author pid="33/11518">Nesreen K. Ahmed</author>
+<author pid="81/4388">Eunyee Koh</author>
+<title>Interactive Higher-Order Network Analysis.</title>
+<pages>1441-1446</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00205</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#RossiAK18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/WangGBB18" mdate="2019-02-18">
+<author pid="61/8151">Jason Wang</author>
+<author pid="g/DavidGoldberg1">David Goldberg 0001</author>
+<author pid="235/6924">Pauline Burke</author>
+<author pid="235/6869">Dave Bhoite</author>
+<title>Designing and Analyzing A/B Tests in an Online Marketplace.</title>
+<pages>1447-1452</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00206</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#WangGBB18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LeeHPL18" mdate="2022-04-09">
+<author orcid="0000-0002-1986-7750" pid="139/2266">Roy Ka-Wei Lee</author>
+<author pid="235/6888">Ming Shan Hee</author>
+<author pid="11/11036">Philips Kokoh Prasetyo</author>
+<author orcid="0000-0003-0065-8665" pid="l/EePengLim">Ee-Peng Lim</author>
+<title>Linky: Visualizing User Identity Linkage Results for Multiple Online Social Networks.</title>
+<pages>1453-1458</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00207</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LeeHPL18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LinFWGDZ18" mdate="2021-10-14">
+<author pid="41/912">Jerry Chun-Wei Lin</author>
+<author orcid="0000-0002-7680-9899" pid="76/2649">Philippe Fournier-Viger</author>
+<author pid="235/6889">Lintai Wu</author>
+<author orcid="0000-0002-5781-8116" pid="145/5903">Wensheng Gan</author>
+<author orcid="0000-0003-0135-7450" pid="130/8288">Youcef Djenouri</author>
+<author pid="86/1953-1">Ji Zhang 0001</author>
+<title>PPSF: An Open-Source Privacy-Preserving and Security Mining Framework.</title>
+<pages>1459-1463</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00208</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LinFWGDZ18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GunesCBT18" mdate="2019-10-19">
+<author pid="55/11207">Omer Gunes</author>
+<author orcid="0000-0002-6676-5343" pid="144/6858">Nicholas Cole</author>
+<author pid="235/6914">Sebastian Bates</author>
+<author pid="235/6887">Jonas Tupp-Mugglestone</author>
+<title>Ask George Washington on Negotiated Texts with Quill Q&#38;A.</title>
+<pages>1464-1468</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00209</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GunesCBT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/OggierPD18" mdate="2020-09-05">
+<author pid="o/FrederiqueEOggier">Fr&#233;d&#233;rique E. Oggier</author>
+<author pid="235/6936">Silivanxay Phetsouvanh</author>
+<author orcid="0000-0002-4203-1572" pid="d/AnwitamanDatta">Anwitaman Datta</author>
+<title>BiVA: Bitcoin Network Visualization &#38; Analysis.</title>
+<pages>1469-1474</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00210</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#OggierPD18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/AfraOR18" mdate="2019-02-15">
+<author pid="143/9681">Salim Afra</author>
+<author pid="16/6917">Tansel &#214;zyer</author>
+<author pid="86/6475">Jon G. Rokne</author>
+<title>NetDriller Version 2: A Powerful Social Network Analysis Tool.</title>
+<pages>1475-1480</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00211</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#AfraOR18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/LutovKC18" mdate="2019-10-19">
+<author pid="192/1758">Artem Lutov</author>
+<author pid="90/4017">Mourad Khayati</author>
+<author orcid="0000-0003-2588-4212" pid="71/5578">Philippe Cudr&#233;-Mauroux</author>
+<title>Clubmark: A Parallel Isolation Framework for Benchmarking and Profiling Clustering Algorithms on NUMA Architectures.</title>
+<pages>1481-1486</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00212</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#LutovKC18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ChenEFGPST18" mdate="2019-02-15">
+<author pid="11/8555">Bei Chen</author>
+<author pid="155/3185">Bradley Eck</author>
+<author pid="33/8510">Francesco Fusco</author>
+<author pid="200/8653">Robert Gormally</author>
+<author pid="15/2399">Mark Purcell</author>
+<author pid="34/8928">Mathieu Sinn</author>
+<author pid="200/8936">Seshu Tirupathi</author>
+<title>Castor: Contextual IoT Time Series Data and Model Management at Scale.</title>
+<pages>1487-1492</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00213</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ChenEFGPST18</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>PhD Forum</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icdm/Agboola18" mdate="2019-02-15">
+<author pid="235/6897">Ifeoluwa Agboola</author>
+<title>Development of Mental Model in Understanding Users' Thought Processes for the Evaluation and Functional Enhancement of Clinical Decision Support Systems.</title>
+<pages>1493-1494</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00214</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Agboola18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Azmi18" mdate="2019-09-16">
+<author orcid="0000-0002-0073-8940" pid="235/6985">Elnaz Azmi</author>
+<title>On Using Clustering for the Optimization of Hydrological Simulations.</title>
+<pages>1495-1496</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00215</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Azmi18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Thirunavukarasu18" mdate="2022-01-03">
+<author orcid="0000-0002-8821-6003" pid="194/2536">Balasubramaniam Thirunavukarasu</author>
+<author orcid="0000-0002-9954-0159" pid="99/1071">Richi Nayak</author>
+<author orcid="0000-0002-9307-2120" pid="01/753">Chau Yuen</author>
+<title>Understanding Urban Spatio-Temporal Usage Patterns Using Matrix Tensor Factorization.</title>
+<pages>1497-1498</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00216</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Thirunavukarasu18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/ChaturvediT18" mdate="2019-05-08">
+<author pid="78/425-1">Animesh Chaturvedi 0001</author>
+<author pid="07/3137">Aruna Tiwari</author>
+<title>SysEvoRecomd: Graph Evolution and Change Learning Based System Evolution Recommender.</title>
+<pages>1499-1500</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00217</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#ChaturvediT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/DerrT18" mdate="2019-02-15">
+<author pid="207/7927">Tyler Derr</author>
+<author pid="64/10812">Jiliang Tang</author>
+<title>Congressional Vote Analysis Using Signed Networks.</title>
+<pages>1501-1502</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00218</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#DerrT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/HondaMS18" mdate="2019-02-15">
+<author pid="183/1668">Takato Honda</author>
+<author pid="52/6010">Yasuko Matsubara</author>
+<author pid="s/YasushiSakurai">Yasushi Sakurai</author>
+<title>Automatic Mining of Large IoT Sensor Tensor.</title>
+<pages>1503-1504</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00219</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#HondaMS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/MinnZD18" mdate="2019-11-14">
+<author pid="148/4909">Sein Minn</author>
+<author orcid="0000-0001-6077-4356" pid="77/1985">Feida Zhu 0001</author>
+<author pid="d/MichelCDesmarais">Michel C. Desmarais</author>
+<title>Improving Knowledge Tracing Model by Integrating Problem Difficulty.</title>
+<pages>1505-1506</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00220</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#MinnZD18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/PramanikNS18" mdate="2020-10-25">
+<author orcid="0000-0002-5656-6340" pid="164/6595">Prithviraj Pramanik</author>
+<author pid="24/2949">Subrata Nandi</author>
+<author pid="183/1499">Mousumi Saha</author>
+<title>AirCalypse: Revealing Fine-Grained Air Quality from Social Media.</title>
+<pages>1507-1508</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00221</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#PramanikNS18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/0003S18" mdate="2019-02-15">
+<author pid="49/669-3">Ahmed Saleh 0003</author>
+<author pid="06/2380">Ansgar Scherp</author>
+<title>Attend2trend: Attention Model for Real-Time Detecting and Forecasting of Trending Topics.</title>
+<pages>1509-1510</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00222</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#0003S18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/Srivastava18" mdate="2019-02-15">
+<author pid="229/1682">Shivin Srivastava</author>
+<title>Extracting Addresses from Unstructured Text Using Bi-directional Recurrent Neural Networks.</title>
+<pages>1511-1513</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00223</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#Srivastava18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/GautamT18" mdate="2020-06-15">
+<author orcid="0000-0002-4543-6495" pid="160/7938">Chandan Gautam</author>
+<author pid="07/3137">Aruna Tiwari</author>
+<title>Localized Multiple Kernel Support Vector Data Description.</title>
+<pages>1514-1521</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00224</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#GautamT18</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icdm/BodapatiRN18" mdate="2019-02-15">
+<author pid="233/6338">Sravan Babu Bodapati</author>
+<author pid="233/6410">Sriraghavendra Ramaswamy</author>
+<author pid="233/6461">Gururaj Narayanan</author>
+<title>A Machine Learning Approach to Detecting Start Reading Location of eBooks.</title>
+<pages>1522-1529</pages>
+<year>2018</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2018.00225</ee>
+<crossref>conf/icdm/2018w</crossref>
+<url>db/conf/icdm/icdm2018w.html#BodapatiRN18</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

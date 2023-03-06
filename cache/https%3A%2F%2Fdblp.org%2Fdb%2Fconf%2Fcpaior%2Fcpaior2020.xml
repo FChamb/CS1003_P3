@@ -1,0 +1,484 @@
+<bht key="db/conf/cpaior/cpaior2020.bht" title="CPAIOR 2020">  
+<h1>17th <ref href="db/conf/cpaior/index.html">CPAIOR</ref> 2020:
+Vienna, Austria</h1> <dblpcites><r><proceedings key="conf/cpaior/2020" mdate="2020-09-22">
+<editor orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</editor>
+<editor orcid="0000-0002-3992-8637" pid="64/493">Nysret Musliu</editor>
+<title>Integration of Constraint Programming, Artificial Intelligence, and Operations Research - 17th International Conference, CPAIOR 2020, Vienna, Austria, September 21-24, 2020, Proceedings</title>
+<booktitle>CPAIOR</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12296</volume>
+<isbn>978-3-030-58941-7</isbn>
+<isbn>978-3-030-58942-4</isbn>
+<ee>https://doi.org/10.1007/978-3-030-58942-4</ee>
+<url>db/conf/cpaior/cpaior2020.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Invited Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cpaior/GottlobLLOP20" mdate="2021-09-16">
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author orcid="0000-0002-7601-3727" pid="232/1851">Matthias Lanzinger</author>
+<author orcid="0000-0003-4018-4994" pid="230/4402">Davide Mario Longo</author>
+<author orcid="0000-0002-7742-0439" pid="242/1925">Cem Okulmus</author>
+<author orcid="0000-0002-1760-122X" pid="26/5252">Reinhard Pichler</author>
+<title>The HyperTrac Project: Recent Progress and Future Research Directions on Hypergraph Decompositions.</title>
+<pages>3-21</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_1</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#GottlobLLOP20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Pokutta20" mdate="2020-09-22">
+<author pid="75/7718">Sebastian Pokutta</author>
+<title>Restarting Algorithms: Sometimes There Is Free Lunch.</title>
+<pages>22-38</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_2</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#Pokutta20</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Regular Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cpaior/AkgunDMSSS20" mdate="2022-06-23">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-2693-6953" pid="67/9680-1">Nguyen Dang 0001</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-1415-9712" pid="55/1790">Andr&#225;s Z. Salamon</author>
+<author pid="166/7452">Patrick Spracklen</author>
+<author pid="20/2227">Christopher Stone</author>
+<title>Discriminating Instance Generation from Abstract Specifications: A Case Study with CP and MIP.</title>
+<pages>41-51</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_3</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#AkgunDMSSS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BasciftciH20" mdate="2020-09-22">
+<author pid="274/6629">Beste Basciftci</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Bilevel Optimization for On-Demand Multimodal Transit Systems.</title>
+<pages>52-68</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_4</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#BasciftciH20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BattistuttaCCGS20" mdate="2020-10-25">
+<author pid="199/3952">Michele Battistutta</author>
+<author orcid="0000-0003-1191-1929" pid="35/7438">Sara Ceschia</author>
+<author pid="15/10933">Fabio De Cesco</author>
+<author orcid="0000-0003-0299-6086" pid="15/70">Luca Di Gaspero</author>
+<author orcid="0000-0001-6965-0536" pid="73/2861">Andrea Schaerf</author>
+<author pid="274/6580">Elena Topan</author>
+<title>Local Search and Constraint Programming for a Real-World Examination Timetabling Problem.</title>
+<pages>69-81</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_5</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#BattistuttaCCGS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BeldiceanuRS20" mdate="2020-09-22">
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<author pid="255/5556">Maria-Isabel Restrepo-Ruiz</author>
+<author pid="30/449">Helmut Simonis</author>
+<title>Parameterised Bounds on the Sum of Variables in Time-Series Constraints.</title>
+<pages>82-98</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_6</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#BeldiceanuRS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BengioFLPS20" mdate="2020-09-22">
+<author pid="56/953">Yoshua Bengio</author>
+<author pid="215/2337">Emma Frejinger</author>
+<author pid="196/3740">Andrea Lodi 0001</author>
+<author pid="168/2241">Rahul Patel</author>
+<author pid="82/1542-2">Sriram Sankaranarayanan 0002</author>
+<title>A Learning-Based Algorithm to Quickly Compute Good Primal Solutions for Stochastic Integer Programs.</title>
+<pages>99-111</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_7</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#BengioFLPS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BernalBDATV20" mdate="2020-09-22">
+<author pid="211/3306">David E. Bernal</author>
+<author pid="179/7407">Kyle E. C. Booth</author>
+<author pid="00/4049">Raouf Dridi</author>
+<author pid="11/5352">Hedayat Alghassi</author>
+<author pid="15/1025">Sridhar R. Tayur</author>
+<author pid="149/1236">Davide Venturelli</author>
+<title>Integer Programming Techniques for Minor-Embedding in Quantum Annealers.</title>
+<pages>112-129</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_8</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#BernalBDATV20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/CohenSB20" mdate="2020-09-22">
+<author pid="195/8189">Eldan Cohen</author>
+<author pid="146/4547">Arik Senderovich</author>
+<author pid="43/2165">J. Christopher Beck</author>
+<title>An Ising Framework for Constrained Clustering on Special Purpose Hardware.</title>
+<pages>130-147</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_9</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#CohenSB20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ContaldoTS20" mdate="2020-09-22">
+<author pid="208/2250">Francesco Contaldo</author>
+<author pid="153/2204">Patrick Trentin</author>
+<author pid="73/5341">Roberto Sebastiani</author>
+<title>From MiniZinc to Optimization Modulo Theories, and Back.</title>
+<pages>148-166</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_10</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#ContaldoTS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/DalmeijerH20" mdate="2021-04-09">
+<author orcid="0000-0002-4304-7517" pid="207/0624">Kevin Dalmeijer</author>
+<author orcid="0000-0001-7085-9994" pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Transfer-Expanded Graphs for On-Demand Multimodal Transit Systems.</title>
+<pages>167-175</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_11</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#DalmeijerH20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/EtheveABJK20" mdate="2021-12-25">
+<author orcid="0000-0003-4436-3391" pid="265/5553">Marc Etheve</author>
+<author orcid="0000-0003-4602-2638" pid="135/3327">Zacharie Al&#232;s</author>
+<author orcid="0000-0002-5430-3168" pid="265/6270">C&#244;me Bissuel</author>
+<author orcid="0000-0003-3445-4847" pid="07/4592">Olivier Juan</author>
+<author orcid="0000-0002-2184-2261" pid="17/5643">Safia Kedad-Sidhoum</author>
+<title>Reinforcement Learning for Variable Selection in a Branch and Bound Algorithm.</title>
+<pages>176-185</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_12</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#EtheveABJK20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/FazekasSBP20" mdate="2021-09-16">
+<author orcid="0000-0002-0497-3059" pid="194/1549">Katalin Fazekas</author>
+<author orcid="0000-0003-1439-8702" pid="132/1582">Markus Sinnl</author>
+<author orcid="0000-0001-7170-9242" pid="b/ArminBiere">Armin Biere</author>
+<author orcid="0000-0002-7428-9770" pid="41/7939">Sophie N. Parragh</author>
+<title>Duplex Encoding of Staircase At-Most-One Constraints for the Antibandwidth Problem.</title>
+<pages>186-204</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_13</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#FazekasSBP20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/GangeBDS20" mdate="2020-10-25">
+<author pid="76/3059">Graeme Gange</author>
+<author orcid="0000-0001-7660-8061" pid="142/7082">Jeremias Berg</author>
+<author pid="115/4370">Emir Demirovic</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Core-Guided and Core-Boosted Search for CP.</title>
+<pages>205-221</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_14</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#GangeBDS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/GokGSTO20" mdate="2022-10-02">
+<author orcid="0000-0001-8615-8412" pid="258/9615">Yagmur S. G&#246;k</author>
+<author pid="80/9804">Daniel Guimarans</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="28/6443">Maurizio Tomasella</author>
+<author pid="155/8046">Cemalettin Ozturk</author>
+<title>Robust Resource Planning for Aircraft Ground Operations.</title>
+<pages>222-238</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_15</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#GokGSTO20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BouchetGR20" mdate="2021-09-16">
+<author orcid="0000-0001-6560-8453" pid="274/6695">Pierre-Yves Bouchet</author>
+<author orcid="0000-0002-2111-3528" pid="77/1801">Stefano Gualandi</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<title>Primal Heuristics for Wasserstein Barycenters.</title>
+<pages>239-255</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_16</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#BouchetGR20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/HaouasAP20" mdate="2020-09-22">
+<author pid="274/6603">Mohammed Najib Haouas</author>
+<author pid="29/6167">Daniel Aloise</author>
+<author pid="02/6567">Gilles Pesant</author>
+<title>An Exact CP Approach for the Cardinality-Constrained Euclidean Minimum Sum-of-Squares Clustering Problem.</title>
+<pages>256-272</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_17</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#HaouasAP20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/HoppmannMBCK20" mdate="2021-09-16">
+<author orcid="0000-0001-9184-8215" pid="223/0074">Kai Hoppmann</author>
+<author orcid="0000-0003-0964-9802" pid="274/6601">Gioni Mexi</author>
+<author orcid="0000-0003-1836-4200" pid="68/8719">Oleg Burdakov</author>
+<author orcid="0000-0002-2741-468X" pid="25/4908">Carl Johan Casselgren</author>
+<author orcid="0000-0002-1967-0077" pid="06/5896">Thorsten Koch</author>
+<title>Minimum Cycle Partition with Length Requirements.</title>
+<pages>273-282</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_18</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#HoppmannMBCK20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/HoshinoF20" mdate="2020-09-22">
+<author pid="76/5981">Richard Hoshino</author>
+<author pid="274/6684">Irene Fabris</author>
+<title>Optimizing Student Course Preferences in School Timetabling.</title>
+<pages>283-299</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_19</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#HoshinoF20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/IsoartR20" mdate="2020-09-22">
+<author pid="249/1855">Nicolas Isoart</author>
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<title>Adaptive CP-Based Lagrangian Relaxation for TSP Solving.</title>
+<pages>300-316</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_20</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#IsoartR20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/LemosML20" mdate="2022-08-04">
+<author orcid="0000-0002-3876-1011" pid="213/6511">Alexandre Lemos</author>
+<author orcid="0000-0002-7934-5495" pid="53/3914">Pedro T. Monteiro 0001</author>
+<author orcid="0000-0003-4868-415X" pid="94/3399">In&#234;s Lynce</author>
+<title>Minimal Perturbation in University Timetabling with Maximum Satisfiability.</title>
+<pages>317-333</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_21</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#LemosML20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Mercier-AubinGQ20" mdate="2021-04-09">
+<author pid="273/7198">Alexandre Mercier-Aubin</author>
+<author orcid="0000-0001-5493-8836" pid="84/1025">Jonathan Gaudreault</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<title>Leveraging Constraint Scheduling: A Case Study to the Textile Industry.</title>
+<pages>334-346</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_22</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#Mercier-AubinGQ20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/MogaliHS20" mdate="2021-07-25">
+<author orcid="0000-0003-2047-7634" pid="139/0960">Jayanth Krishna Mogali</author>
+<author orcid="0000-0002-0023-753X" pid="61/5378">Willem-Jan van Hoeve</author>
+<author orcid="0000-0002-7053-3166" pid="s/StephenFSmith">Stephen F. Smith</author>
+<title>Template Matching and Decision Diagrams for Multi-agent Path Finding.</title>
+<pages>347-363</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_23</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#MogaliHS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/MulambaMCG20" mdate="2020-10-25">
+<author orcid="0000-0002-9122-926X" pid="261/9448">Maxime Mulamba</author>
+<author orcid="0000-0001-8675-8178" pid="245/6756">Jayanta Mandi</author>
+<author orcid="0000-0003-1810-082X" pid="249/1891">Rocsildes Canoy</author>
+<author orcid="0000-0002-2156-2155" pid="41/3130">Tias Guns</author>
+<title>Hybrid Classification and Reasoning for Image-Based Constraint Solving.</title>
+<pages>364-380</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_24</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#MulambaMCG20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/PiacentiniCEB20" mdate="2020-10-25">
+<author orcid="0000-0003-1747-9516" pid="133/2017">Chiara Piacentini</author>
+<author pid="142/5506">Hyunmin Cheong</author>
+<author pid="42/3732">Mehran Ebrahimi</author>
+<author pid="83/8697">Adrian Butscher</author>
+<title>Multi-speed Gearbox Synthesis Using Global Search and Non-convex Optimization.</title>
+<pages>381-398</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_25</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#PiacentiniCEB20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Serra20" mdate="2020-09-22">
+<author pid="119/6438">Thiago Serra</author>
+<title>Enumerative Branching with Less Repetition.</title>
+<pages>399-416</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_26</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#Serra20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/SerraKR20" mdate="2020-09-22">
+<author pid="119/6438">Thiago Serra</author>
+<author pid="115/6458-4">Abhinav Kumar 0004</author>
+<author pid="17/4216">Srikumar Ramalingam</author>
+<title>Lossless Compression of Deep Neural Networks.</title>
+<pages>417-430</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_27</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#SerraKR20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/TangB20" mdate="2020-09-22">
+<author pid="274/6589">Tanya Y. Tang</author>
+<author pid="43/2165">J. Christopher Beck</author>
+<title>CP and Hybrid Models for Two-Stage Batching and Scheduling.</title>
+<pages>431-446</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_28</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#TangB20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ThiessenQB20" mdate="2020-09-22">
+<author pid="274/6633">Maximilian Thiessen</author>
+<author pid="q/LuisQuesada">Luis Quesada 0001</author>
+<author pid="49/1220">Kenneth N. Brown</author>
+<title>Improving a Branch-and-Bound Approach for the Degree-Constrained Minimum Spanning Tree Problem with LKH.</title>
+<pages>447-456</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_29</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#ThiessenQB20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ThomasKS20" mdate="2020-10-25">
+<author orcid="0000-0002-7360-5372" pid="220/7810">Charles Thomas 0005</author>
+<author orcid="0000-0003-1809-9822" pid="67/10056">Roger Kameugne</author>
+<author orcid="0000-0002-3153-8941" pid="78/2903">Pierre Schaus</author>
+<title>Insertion Sequence Variables for Hybrid Routing and Scheduling Problems.</title>
+<pages>457-474</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_30</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#ThomasKS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/TrosserGK20" mdate="2021-09-16">
+<author orcid="0000-0002-1692-8079" pid="274/6626">Fulya Tr&#246;sser</author>
+<author orcid="0000-0002-2242-0458" pid="18/1193">Simon de Givry</author>
+<author orcid="0000-0002-3727-6698" pid="61/6509">George Katsirelos</author>
+<title>Relaxation-Aware Heuristics for Exact Optimization in Graphical Models.</title>
+<pages>475-491</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_31</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#TrosserGK20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/VolteBGN20" mdate="2021-10-14">
+<author pid="242/2895">Gabriel Volte</author>
+<author orcid="0000-0002-3641-5609" pid="56/6477">Eric Bourreau</author>
+<author pid="16/4193">Rodolphe Giroudeau</author>
+<author orcid="0000-0001-5663-5062" pid="46/7298">Olivier Naud</author>
+<title>Exact Method Approaches for the Differential Harvest Problem.</title>
+<pages>492-510</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_32</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#VolteBGN20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/WessenCS20" mdate="2021-09-16">
+<author orcid="0000-0003-4126-6879" pid="274/6578">Johan Wess&#233;n</author>
+<author orcid="0000-0003-3079-8095" pid="c/MCarlsson">Mats Carlsson</author>
+<author orcid="0000-0002-6283-7004" pid="s/ChristianSchulte">Christian Schulte 0001</author>
+<title>Scheduling of Dual-Arm Multi-tool Assembly Robots and Workspace Layout Optimization.</title>
+<pages>511-520</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_33</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#WessenCS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/WitzigB20" mdate="2020-09-22">
+<author pid="129/9112">Jakob Witzig</author>
+<author pid="83/131">Timo Berthold</author>
+<title>Conflict-Free Learning for Mixed Integer Programming.</title>
+<pages>521-530</pages>
+<year>2020</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58942-4_34</ee>
+<crossref>conf/cpaior/2020</crossref>
+<url>db/conf/cpaior/cpaior2020.html#WitzigB20</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+</bht>
+

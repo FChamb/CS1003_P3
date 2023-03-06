@@ -1,0 +1,633 @@
+<bht key="db/conf/pos/pos94.bht" title="6th POS 1994: Tarascon, Provence, France">
+<h1>6th <ref href="db/conf/pos/index.html">POS</ref> 1994: Tarascon, Provence, France</h1>
+
+<dblpcites><r><proceedings key="conf/pos/1994" mdate="2022-05-11">
+<editor pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</editor>
+<editor pid="m/DavidMaier">David Maier 0001</editor>
+<editor pid="b/VBenzaken">V&#233;ronique Benzaken</editor>
+<title>Persistent Object Systems, Proceedings of the Sixth International Workshop on Persistent Object Systems, Tarascon, Provence, France, 5-9 September 1994</title>
+<series href="db/series/wic/index.html">Workshops in Computing</series>
+<publisher>Springer and British Computer Society</publisher>
+<year>1995</year>
+<isbn>3-540-19912-8</isbn>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0</ee>
+<url>db/conf/pos/pos94.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/X94" mdate="2012-09-18">
+<title>Title, Preface, Programme Commitee.</title>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#X94</url>
+<cdrom>POS/1994/frontmatter.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Object Store Engineering 1</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Atkinson94" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Object Store Engineering 1.</title>
+<pages>1-2</pages>
+<cdrom>POS/1994/P001.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Atkinson94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_1</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MossH94" mdate="2019-06-24">
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<author pid="h/AntonyLHosking">Antony L. Hosking</author>
+<title>Expressing Object Residency Optimizations Using Pointer Type Annotations.</title>
+<pages>3-15</pages>
+<cdrom>POS/1994/P003.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#MossH94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_2</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MunroCMSS94" mdate="2019-06-24">
+<author pid="m/DavidSMunro">David S. Munro</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="31/3170">S. Scheuerl</author>
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<title>Concurrent Shadow Paging in the Flask Architecture.</title>
+<pages>16-42</pages>
+<cdrom>POS/1994/P016.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#MunroCMSS94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_3</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Object Store Engineering 2</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Benzaken94" mdate="2019-06-24">
+<author pid="b/VBenzaken">V&#233;ronique Benzaken</author>
+<title>Object Store Engineering 2.</title>
+<pages>43-44</pages>
+<cdrom>POS/1994/P043.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Benzaken94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_4</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BlottKRS94" mdate="2019-06-24">
+<author pid="b/SBlott">Stephen Blott</author>
+<author pid="37/5899">Helmut Kaufmann</author>
+<author pid="r/LukasRelly">Lukas Relly</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<title>Buffering Long Externally-Defined Objects.</title>
+<pages>45-59</pages>
+<cdrom>POS/1994/P045.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#BlottKRS94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_5</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/DearleBFHLNRV94" mdate="2019-06-24">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="45/5804">Rex di Bona</author>
+<author pid="59/4584">James Farrow</author>
+<author pid="h/FransAHenskens">Frans A. Henskens</author>
+<author pid="73/5473">Anders Lindstr&#246;m</author>
+<author pid="57/4555">Stephen Norris</author>
+<author pid="17/3411">John Rosenberg</author>
+<author pid="72/6183">Francis Vaughan</author>
+<title>Protection in Grasshopper: A Persistent Operating System.</title>
+<pages>60-78</pages>
+<cdrom>POS/1994/P060.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#DearleBFHLNRV94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_6</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/SuzukiKT94" mdate="2019-06-24">
+<author pid="49/6727">Shinji Suzuki</author>
+<author pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</author>
+<author pid="44/3483">Mikio Takagi</author>
+<title>An Efficient Pointer Swizzling Method for Navigation Intensive Applications.</title>
+<pages>79-95</pages>
+<cdrom>POS/1994/P079.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#SuzukiKT94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_7</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Object Caching</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Dearle94" mdate="2019-06-24">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Object Caching.</title>
+<pages>96-98</pages>
+<cdrom>POS/1994/P096.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Dearle94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_8</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/OTooleS94" mdate="2021-03-10">
+<author pid="88/6703">James W. O'Toole Jr.</author>
+<author pid="s/LiubaShrira">Liuba Shrira</author>
+<title>Hybrid Caching for Large-Scale Object Systems.</title>
+<pages>99-114</pages>
+<cdrom>POS/1994/P099.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#OTooleS94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_9</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/GerlhofK94" mdate="2019-06-24">
+<author pid="55/2695">Carsten Andreas Gerlhof</author>
+<author pid="k/AlfonsKemper">Alfons Kemper</author>
+<title>Prefetch Support Relations in Object Bases.</title>
+<pages>115-126</pages>
+<cdrom>POS/1994/P115.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#GerlhofK94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_10</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Concurrency</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Moody94" mdate="2019-06-24">
+<author pid="36/5483">Ken Moody</author>
+<title>Concurrency.</title>
+<pages>127-128</pages>
+<cdrom>POS/1994/P127.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Moody94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_11</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/SkarraBW94" mdate="2019-06-24">
+<author pid="35/4896">Andrea H. Skarra</author>
+<author pid="70/179">Naser S. Barghouti</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<title>Semantic Synchronization in a Persistent Object System Library.</title>
+<pages>129-146</pages>
+<cdrom>POS/1994/P129.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#SkarraBW94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_12</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/DaynesG94" mdate="2019-06-24">
+<author pid="d/LaurentDaynes">Laurent Dayn&#232;s</author>
+<author pid="52/5789">Olivier Gruber</author>
+<title>Customizing Concurrency Controls using Graph of Locking Capabilities.</title>
+<pages>147-161</pages>
+<cdrom>POS/1994/P147.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#DaynesG94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_13</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Object Store Engineering 3</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Morrison94" mdate="2019-06-24">
+<author pid="82/2183">Ronald Morrison</author>
+<title>Object Store Engineering 3.</title>
+<pages>162-163</pages>
+<cdrom>POS/1994/P162.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Morrison94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_14</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BushellDBV94" mdate="2019-06-24">
+<author pid="25/1816">S. J. Bushell</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="72/6183">Francis Vaughan</author>
+<title>Using C as a Compiler Target Language for Native Code Generation in Persistent Systems.</title>
+<pages>164-183</pages>
+<cdrom>POS/1994/P164.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#BushellDBV94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_15</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FerreiraS94" mdate="2019-06-24">
+<author pid="f/PauloJPFerreira">Paulo Ferreira 0001</author>
+<author pid="s/MarcShapiro">Marc Shapiro 0001</author>
+<title>Garbage Collection of Persistent Objects in Distributed Shared Memory.</title>
+<pages>184-199</pages>
+<cdrom>POS/1994/P184.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#FerreiraS94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_16</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications of Persistent Object Systems 1</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Maier94" mdate="2019-06-24">
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Applications of Persistent Object Systems 1.</title>
+<pages>200-201</pages>
+<cdrom>POS/1994/P200.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Maier94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_17</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ReinwaldDCLPS94" mdate="2019-07-07">
+<author pid="76/3381">Berthold Reinwald</author>
+<author pid="d/SDessloch">Stefan De&#223;loch</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="53/1724">Tobin J. Lehman</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="15/2307-1">V. Srinivasan 0001</author>
+<title>Making Real Data Persistent: Initial Experiences with SMRC.</title>
+<pages>202-216</pages>
+<cdrom>POS/1994/P202.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#ReinwaldDCLPS94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_18</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/GrossmanAQX94" mdate="2019-06-24">
+<author pid="g/RobertLGrossman">Robert L. Grossman</author>
+<author pid="82/4668">N. Araujo</author>
+<author pid="199/4704">Xiao Qin</author>
+<author pid="93/4450">W. Xu</author>
+<title>Managing Physical Folios of Objects Between Nodes.</title>
+<pages>217-234</pages>
+<cdrom>POS/1994/P217.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#GrossmanAQX94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_19</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/SjobergCWA94" mdate="2022-05-11">
+<author pid="32/889">Dag I. K. Sj&#248;berg</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="w/RayWelland">Ray Welland</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Analysing Persistent Language Applications.</title>
+<pages>235-255</pages>
+<cdrom>POS/1994/P235.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#SjobergCWA94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_20</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>System Evolution</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Skarra94" mdate="2019-06-24">
+<author pid="35/4896">Andrea H. Skarra</author>
+<title>System Evolution.</title>
+<pages>256-258</pages>
+<cdrom>POS/1994/P256.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Skarra94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_21</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/LangworthyZ94" mdate="2019-06-24">
+<author pid="63/7029">David E. Langworthy</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Storage Class Extensibility in the Brown Object Storage System.</title>
+<pages>259-283</pages>
+<cdrom>POS/1994/P259.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#LangworthyZ94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_22</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FerrandinaMZ94" mdate="2020-11-17">
+<author pid="27/1922">Fabrizio Ferrandina</author>
+<author pid="m/ThorstenMeyer">Thorsten Meyer</author>
+<author pid="z/RZicari">Roberto V. Zicari</author>
+<title>Correctness of Lazy Database Updates for Object Database Systems.</title>
+<pages>284-301</pages>
+<cdrom>POS/1994/P284.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#FerrandinaMZ94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_23</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FarkasD94" mdate="2019-06-24">
+<author pid="91/3786">Alex Farkas</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Changing Persistent Applications.</title>
+<pages>302-315</pages>
+<cdrom>POS/1994/P302.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#FarkasD94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_24</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Reflection and New Language Constructs</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Welland94" mdate="2019-06-24">
+<author pid="w/RayWelland">Ray Welland</author>
+<title>Reflection and New Language Constructs.</title>
+<pages>316-317</pages>
+<cdrom>POS/1994/P316.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Welland94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_25</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/KaplanW94" mdate="2019-06-24">
+<author pid="47/6814">Alan Kaplan</author>
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<title>Conch: Experimenting with Enhanced Name Management for Persistent Object Systems.</title>
+<pages>318-331</pages>
+<cdrom>POS/1994/P318.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#KaplanW94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_26</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/CooperK94" mdate="2022-03-17">
+<author pid="c/RichardCooper">Richard Cooper 0001</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<title>Type-Safe Linguistic Run-time Reflection - A Practical Perspective.</title>
+<pages>332-354</pages>
+<cdrom>POS/1994/P332.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#CooperK94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_27</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/KirbyCM94" mdate="2019-06-24">
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>START: A Linguistic Reflection Tool Using Hyper-Program Technology.</title>
+<pages>355-373</pages>
+<cdrom>POS/1994/P355.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#KirbyCM94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_28</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/RusselSC94" mdate="2019-10-01">
+<author orcid="0000-0002-3589-3051" pid="85/2723">Gordon Russell 0001</author>
+<author pid="46/6637">Paul Shaw</author>
+<author pid="39/5175">W. Paul Cockshott</author>
+<title>DAIS: An Object-Addressed Processor Cache.</title>
+<pages>374-386</pages>
+<cdrom>POS/1994/P374.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#RusselSC94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_29</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/HenskensKJR94" mdate="2019-06-24">
+<author pid="h/FransAHenskens">Frans A. Henskens</author>
+<author pid="53/588">David M. Koch</author>
+<author pid="74/5118">Rasool Jalili</author>
+<author pid="17/3411">John Rosenberg</author>
+<title>Hardware Support for Stability in a Persistent Architecture.</title>
+<pages>387-399</pages>
+<cdrom>POS/1994/P387.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#HenskensKJR94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_30</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Optimisation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Berman94" mdate="2019-06-24">
+<author pid="73/4908">Sonia Berman</author>
+<title>Optimisation.</title>
+<pages>400-401</pages>
+<cdrom>POS/1994/P400.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Berman94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_31</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/SousaM94" mdate="2019-06-24">
+<author pid="56/5148">Pedro Manuel Antunes Sousa</author>
+<author pid="85/3319">Jos&#233; Alves Marques</author>
+<title>Object Clustering in Persistent and Distributed Systems.</title>
+<pages>402-414</pages>
+<cdrom>POS/1994/P402.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#SousaM94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_32</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/RabittiBD94" mdate="2019-06-24">
+<author pid="60/423">Fausto Rabitti</author>
+<author pid="65/1909">Leonardo Benedetti</author>
+<author pid="91/4692">Federico Demi</author>
+<title>Query Processing in PIOS.</title>
+<pages>415-440</pages>
+<cdrom>POS/1994/P415.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#RabittiBD94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_33</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications of Persistent Object Systems 2</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Shrira94" mdate="2019-06-24">
+<author pid="s/LiubaShrira">Liuba Shrira</author>
+<title>Applications of Persistent Object Systems 2.</title>
+<pages>441-443</pages>
+<cdrom>POS/1994/P441.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Shrira94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_34</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BlakemanP94" mdate="2019-06-24">
+<author pid="51/6811">P. D. Blakeman</author>
+<author pid="42/3282">Malcolm S. Powell</author>
+<title>Type-Safe Inter-application Communication in the Feynman Persistent Environment.</title>
+<pages>444-454</pages>
+<cdrom>POS/1994/P444.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#BlakemanP94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_35</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/FranchittiKB94" mdate="2019-06-24">
+<author pid="03/3140">Jean-Claude Franchitti</author>
+<author pid="64/2075">Roger King</author>
+<author pid="b/OmarBoucelma">Omar Boucelma</author>
+<title>A Toolkit to Support Scalable Persistent Object Base Infrastructures.</title>
+<pages>455-470</pages>
+<cdrom>POS/1994/P455.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#FranchittiKB94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_36</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Discussion</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/DonnorFM94" mdate="2021-07-07">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="91/3786">Alex Farkas</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Keynote Discussion on Evolution in Persistent Systems.</title>
+<pages>471-476</pages>
+<cdrom>POS/1994/P471.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#DonnorFM94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_37</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Persistent Systems Engineering</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Doucet94" mdate="2019-06-24">
+<author pid="d/AnneDoucet">Anne Doucet</author>
+<title>Persistent Systems Engineering.</title>
+<pages>477-478</pages>
+<cdrom>POS/1994/P477.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Doucet94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_38</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Odberg94" mdate="2019-06-24">
+<author pid="25/4658">Erik Odberg</author>
+<title>A Global Perspective of Schema Modification Management for Object-Oriented Databases.</title>
+<pages>479-502</pages>
+<cdrom>POS/1994/P479.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#Odberg94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_39</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MainettoGV94" mdate="2019-06-24">
+<author pid="00/6995">Gianni Mainetto</author>
+<author pid="15/2582">Mariella Di Giacomo</author>
+<author pid="64/6007">Luca Vinciotti</author>
+<title>Distributed Galileo: A Persistent Programming Language with Transactions.</title>
+<pages>503-525</pages>
+<cdrom>POS/1994/P503.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#MainettoGV94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_40</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/RozenSG94" mdate="2019-06-24">
+<author pid="57/1484">Steve Rozen</author>
+<author pid="s/LincolnStein">Lincoln Stein</author>
+<author pid="28/4334">Nathan Goodman</author>
+<title>Constructing a Domain-Specific DBMS using a Persistent Object System.</title>
+<pages>526-541</pages>
+<cdrom>POS/1994/P526.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#RozenSG94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_41</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BrownBR94" mdate="2019-06-24">
+<author pid="b/AlfredLBrown">Fred Brown</author>
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="60/423">Fausto Rabitti</author>
+<title>Concluding Remarks.</title>
+<pages>542-544</pages>
+<cdrom>POS/1994/P542.pdf</cdrom>
+<year>1994</year>
+<crossref>conf/pos/1994</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos94.html#BrownBR94</url>
+<ee>https://doi.org/10.1007/978-1-4471-2122-0_42</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

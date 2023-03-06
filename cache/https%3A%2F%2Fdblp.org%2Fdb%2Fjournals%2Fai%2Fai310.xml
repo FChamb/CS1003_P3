@@ -1,0 +1,79 @@
+<bht key="db/journals/ai/ai310.bht" title="Artificial Intelligence, Volume 310"> 
+<h1><ref href="db/journals/ai/index.html">Artificial Intelligence</ref>, Volume 310</h1> 
+<h2>Volume 310, September 2022</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/Bonatti22" mdate="2022-08-25">
+<author orcid="0000-0003-1436-5660" pid="b/PABonatti">Piero A. Bonatti</author>
+<title>A false sense of security.</title>
+<pages>103741</pages>
+<year>2022</year>
+<volume>310</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2022.103741</ee>
+<url>db/journals/ai/ai310.html#Bonatti22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/BaumannBU22" mdate="2022-08-25">
+<author orcid="0000-0003-2534-3299" pid="34/8219">Ringo Baumann</author>
+<author orcid="0000-0001-9001-6820" pid="b/GerhardBrewka">Gerhard Brewka</author>
+<author pid="82/11198-1">Markus Ulbricht 0001</author>
+<title>Shedding new light on the foundations of abstract argumentation: Modularization and weak admissibility.</title>
+<pages>103742</pages>
+<year>2022</year>
+<volume>310</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2022.103742</ee>
+<url>db/journals/ai/ai310.html#BaumannBU22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/LiuCWLCXCJ22" mdate="2022-08-25">
+<author orcid="0000-0002-8671-2302" pid="236/6028">Jingping Liu</author>
+<author orcid="0000-0001-6267-6389" pid="69/510-19">Tao Chen 0019</author>
+<author pid="188/7759">Chao Wang</author>
+<author orcid="0000-0003-0670-5602" pid="177/7508">Jiaqing Liang</author>
+<author pid="53/7995">Lihan Chen</author>
+<author pid="96/999">Yanghua Xiao</author>
+<author pid="221/5813">Yunwen Chen</author>
+<author pid="94/2193">Ke Jin</author>
+<title>VoCSK: Verb-oriented commonsense knowledge mining with taxonomy-guided induction.</title>
+<pages>103744</pages>
+<year>2022</year>
+<volume>310</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2022.103744</ee>
+<url>db/journals/ai/ai310.html#LiuCWLCXCJ22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/AkgunFGJMN22" mdate="2022-10-02">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="51/6077">Alan M. Frisch</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Conjure: Automatic Generation of Constraint Models from Problem Specifications.</title>
+<pages>103751</pages>
+<year>2022</year>
+<volume>310</volume>
+<journal>Artif. Intell.</journal>
+<ee type="oa">https://doi.org/10.1016/j.artint.2022.103751</ee>
+<url>db/journals/ai/ai310.html#AkgunFGJMN22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/OkumuraMDT22" mdate="2022-09-10">
+<author orcid="0000-0002-9491-7367" pid="234/9130-1">Keisuke Okumura 0001</author>
+<author pid="174/3489">Manao Machida</author>
+<author orcid="0000-0002-2377-205X" pid="d/XavierDefago">Xavier D&#233;fago</author>
+<author pid="140/6343">Yasumasa Tamura</author>
+<title>Priority inheritance with backtracking for iterative multi-agent path finding.</title>
+<pages>103752</pages>
+<year>2022</year>
+<volume>310</volume>
+<journal>Artif. Intell.</journal>
+<ee type="oa">https://doi.org/10.1016/j.artint.2022.103752</ee>
+<url>db/journals/ai/ai310.html#OkumuraMDT22</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

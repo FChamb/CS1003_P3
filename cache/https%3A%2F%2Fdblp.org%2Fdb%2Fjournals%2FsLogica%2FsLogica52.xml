@@ -1,0 +1,397 @@
+<bht key="db/journals/sLogica/sLogica52.bht" title="Studia Logica, Volume 52"> 
+<h1><ref href="db/journals/sLogica/index.html">Studia Logica</ref>, Volume 52</h1>
+<h2>Volume 52, Number 1, February 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/sLogica/FontV93" mdate="2020-09-01">
+<author pid="05/1869">Josep Maria Font</author>
+<author pid="36/3432">Ventura Verd&#250;</author>
+<title>The lattice of distributive closure operators over an algebra.</title>
+<pages>1-14</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>1</number>
+<url>db/journals/sLogica/sLogica52.html#FontV93</url>
+<ee>https://doi.org/10.1007/BF01053060</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/HosoiM93" mdate="2020-09-01">
+<author pid="57/6181">Tsutomu Hosoi</author>
+<author pid="41/1315">Isao Masuda</author>
+<title>A study of intermediate propositional logics on the thrid slice.</title>
+<pages>15-22</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>1</number>
+<url>db/journals/sLogica/sLogica52.html#HosoiM93</url>
+<ee>https://doi.org/10.1007/BF01053061</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Shimura93" mdate="2020-09-01">
+<author pid="30/5538">Tatsuya Shimura</author>
+<title>Kripke completeness of some intermediate predicate logics with the axiom of constant domain and a variant of canonical formulas.</title>
+<pages>23-40</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>1</number>
+<url>db/journals/sLogica/sLogica52.html#Shimura93</url>
+<ee>https://doi.org/10.1007/BF01053062</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Sasaki93" mdate="2020-09-01">
+<author pid="40/6284">Katsumi Sasaki</author>
+<title>The simple substitution property of the intermediate propositional logics on finite slices.</title>
+<pages>41-62</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>1</number>
+<url>db/journals/sLogica/sLogica52.html#Sasaki93</url>
+<ee>https://doi.org/10.1007/BF01053063</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Rautenberg93" mdate="2020-09-01">
+<author pid="87/3947">Wolfgang Rautenberg</author>
+<title>On reduced matrices.</title>
+<pages>63-72</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>1</number>
+<url>db/journals/sLogica/sLogica52.html#Rautenberg93</url>
+<ee>https://doi.org/10.1007/BF01053064</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Suzuki93" mdate="2020-09-01">
+<author pid="94/4394">Nobu-Yuki Suzuki</author>
+<title>Some results on the Kripke sheaf semantics for super-intuitionistic predicate logics.</title>
+<pages>73-94</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>1</number>
+<url>db/journals/sLogica/sLogica52.html#Suzuki93</url>
+<ee>https://doi.org/10.1007/BF01053065</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Rudeanu93" mdate="2020-09-01">
+<author pid="17/5272">Sergiu Rudeanu</author>
+<title>On Lukasiewicz-Moisil algebras of fuzzy sets.</title>
+<pages>95-112</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>1</number>
+<url>db/journals/sLogica/sLogica52.html#Rudeanu93</url>
+<ee>https://doi.org/10.1007/BF01053066</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/White93" mdate="2020-09-01">
+<author pid="26/6410">Richard B. White</author>
+<title>A consistent theory of attributes in a logic without contraction.</title>
+<pages>113-142</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>1</number>
+<url>db/journals/sLogica/sLogica52.html#White93</url>
+<ee>https://doi.org/10.1007/BF01053067</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Vasyukov93" mdate="2022-10-02">
+<author orcid="0000-0001-8839-9148" pid="15/5423">Vladimir L. Vasyukov</author>
+<title>The completeness of the factor semantics for Lukasiewicz's infinite-valued logics.</title>
+<pages>143-168</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>1</number>
+<url>db/journals/sLogica/sLogica52.html#Vasyukov93</url>
+<ee>https://doi.org/10.1007/BF01053068</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 52, Number 2, May 1993</h2> Automated Theorem Proving for Non-Classical Logics 
+<dblpcites><r style="ee"><article key="journals/sLogica/Morgan93" mdate="2020-09-01">
+<author pid="95/5204">Charles G. Morgan</author>
+<title>Introduction.</title>
+<pages>181</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#Morgan93</url>
+<ee>https://doi.org/10.1007/BF01058387</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Beavers93" mdate="2020-09-01">
+<author pid="44/1867">Gordon Beavers</author>
+<title>Automated theorem proving for Lukasiewicz logics.</title>
+<pages>183-196</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#Beavers93</url>
+<ee>https://doi.org/10.1007/BF01058388</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/CaferraDH93" mdate="2020-09-01">
+<author pid="c/RicardoCaferra">Ricardo Caferra</author>
+<author pid="d/StephaneDemri">St&#233;phane Demri</author>
+<author pid="51/3524">Michel Herment</author>
+<title>A framework for the transfer of proofs, lemmas and strategies from classical to non classical logics.</title>
+<pages>197-232</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#CaferraDH93</url>
+<ee>https://doi.org/10.1007/BF01058389</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Gent93" mdate="2020-09-01">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<title>Theory matrices (for modal logics) Using alphabetical monotonicity.</title>
+<pages>233-258</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#Gent93</url>
+<ee>https://doi.org/10.1007/BF01058390</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Jiang93" mdate="2020-09-01">
+<author pid="86/6210">Yue Jun Jiang</author>
+<title>A intensional epistemic logic.</title>
+<pages>259-280</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#Jiang93</url>
+<ee>https://doi.org/10.1007/BF01058391</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/BuchsbaumP93" mdate="2020-09-01">
+<author pid="09/3359">Arthur Buchsbaum</author>
+<author pid="69/3857">Tarcisio H. C. Pequeno</author>
+<title>A reasoning method for a paraconsistent logic.</title>
+<pages>281-290</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#BuchsbaumP93</url>
+<ee>https://doi.org/10.1007/BF01058392</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Pelletier93" mdate="2020-09-01">
+<author pid="14/2354">Francis Jeffry Pelletier</author>
+<title>Identity in modal logic theorem proving.</title>
+<pages>291-308</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#Pelletier93</url>
+<ee>https://doi.org/10.1007/BF01058393</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Stachniak93" mdate="2020-09-01">
+<author pid="32/4183">Zbigniew Stachniak</author>
+<title>An essay on resolution logics.</title>
+<pages>309-322</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#Stachniak93</url>
+<ee>https://doi.org/10.1007/BF01058394</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Vellino93" mdate="2020-09-01">
+<author orcid="0000-0003-4304-2801" pid="17/4249">Andr&#233; Vellino</author>
+<title>The relative complexity of analytic tableaux and SL-resolution.</title>
+<pages>323-338</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>2</number>
+<url>db/journals/sLogica/sLogica52.html#Vellino93</url>
+<ee>https://doi.org/10.1007/BF01058395</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 52, Number 3, August 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/sLogica/Makinson93" mdate="2020-09-01">
+<author pid="48/5245">David Makinson</author>
+<title>Five faces of minimality.</title>
+<pages>339-380</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>3</number>
+<url>db/journals/sLogica/sLogica52.html#Makinson93</url>
+<ee>https://doi.org/10.1007/BF01057652</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Restall93" mdate="2022-01-03">
+<author orcid="0000-0001-8257-6764" pid="11/3682">Greg Restall</author>
+<title>How to be <i>really</i> contraction free.</title>
+<pages>381-392</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>3</number>
+<url>db/journals/sLogica/sLogica52.html#Restall93</url>
+<ee>https://doi.org/10.1007/BF01057653</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Kolany93" mdate="2020-09-01">
+<author pid="18/5023">Adam Kolany</author>
+<title>Satisfiability on hypergraphs.</title>
+<pages>393-404</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>3</number>
+<url>db/journals/sLogica/sLogica52.html#Kolany93</url>
+<ee>https://doi.org/10.1007/BF01057654</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Schweigert93" mdate="2020-09-01">
+<author pid="82/4313">Dietmar Schweigert</author>
+<title>Hybrid terms and sentences.</title>
+<pages>405-418</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>3</number>
+<url>db/journals/sLogica/sLogica52.html#Schweigert93</url>
+<ee>https://doi.org/10.1007/BF01057655</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/CattaneoCG93" mdate="2020-09-01">
+<author pid="88/1366">Gianpiero Cattaneo</author>
+<author pid="36/5062">Maria Luisa Dalla Chiara</author>
+<author orcid="0000-0003-2078-0297" pid="77/5217">Roberto Giuntini</author>
+<title>Fuzzy intuitionistic quantum logics.</title>
+<pages>419-442</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>3</number>
+<url>db/journals/sLogica/sLogica52.html#CattaneoCG93</url>
+<ee>https://doi.org/10.1007/BF01057656</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Slaney93" mdate="2020-09-01">
+<author pid="s/JohnKSlaney">John K. Slaney</author>
+<title>Sentential constants in systems near R.</title>
+<pages>443-456</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>3</number>
+<url>db/journals/sLogica/sLogica52.html#Slaney93</url>
+<ee>https://doi.org/10.1007/BF01057657</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Freund93" mdate="2020-09-01">
+<author pid="08/2922">Michael Freund</author>
+<title>Supracompact inference operations.</title>
+<pages>457-482</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>3</number>
+<url>db/journals/sLogica/sLogica52.html#Freund93</url>
+<ee>https://doi.org/10.1007/BF01057658</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 52, Number 4, November 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/sLogica/Lauth93" mdate="2020-09-01">
+<author pid="65/3780">Bernhard Lauth</author>
+<title>Inductive inference in the limit for first-order sentences.</title>
+<pages>491-518</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>4</number>
+<url>db/journals/sLogica/sLogica52.html#Lauth93</url>
+<ee>https://doi.org/10.1007/BF01053257</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/BalzerLZ93" mdate="2020-09-01">
+<author pid="38/6627">Wolfgang Balzer</author>
+<author pid="65/3780">Bernhard Lauth</author>
+<author pid="50/6049">Gerhard Zoubek</author>
+<title>A model for science kinematics.</title>
+<pages>519-548</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>4</number>
+<url>db/journals/sLogica/sLogica52.html#BalzerLZ93</url>
+<ee>https://doi.org/10.1007/BF01053258</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Gentilini93" mdate="2020-09-01">
+<author pid="03/3424">Paolo Gentilini</author>
+<title>Syntactical results on the arithmetical completeness of modal logic.</title>
+<pages>549-564</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>4</number>
+<url>db/journals/sLogica/sLogica52.html#Gentilini93</url>
+<ee>https://doi.org/10.1007/BF01053259</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Brady93" mdate="2020-09-01">
+<author pid="28/5878">Ross T. Brady</author>
+<title>Rules in relevant logic-II: formula representation.</title>
+<pages>565-586</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>4</number>
+<url>db/journals/sLogica/sLogica52.html#Brady93</url>
+<ee>https://doi.org/10.1007/BF01053260</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/Roy93" mdate="2020-09-01">
+<author pid="51/843">Dev Kumar Roy</author>
+<title>Recursive versus recursively enumerable binary relations.</title>
+<pages>587-594</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>4</number>
+<url>db/journals/sLogica/sLogica52.html#Roy93</url>
+<ee>https://doi.org/10.1007/BF01053261</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/sLogica/ReyesZ93" mdate="2021-10-14">
+<author pid="24/6661">Gonzalo E. Reyes</author>
+<author orcid="0000-0002-2031-4803" pid="61/2836">Marek W. Zawadowski</author>
+<title>Formal systems for modal operators on locales.</title>
+<pages>595-614</pages>
+<year>1993</year>
+<volume>52</volume>
+<journal>Stud Logica</journal>
+<number>4</number>
+<url>db/journals/sLogica/sLogica52.html#ReyesZ93</url>
+<ee>https://doi.org/10.1007/BF01053262</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

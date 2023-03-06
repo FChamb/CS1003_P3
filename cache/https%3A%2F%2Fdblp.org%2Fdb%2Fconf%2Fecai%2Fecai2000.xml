@@ -1,0 +1,1636 @@
+<bht key="db/conf/ecai/ecai2000.bht" title="ECAI 2000">  
+<h1>14th <ref href="db/conf/ecai/index.html">ECAI</ref> 2000:
+Berlin, Germany</h1> <dblpcites><r><proceedings key="conf/ecai/2000" mdate="2003-06-30">
+<editor pid="79/2268">Werner Horn</editor>
+<title>ECAI 2000, Proceedings of the 14th European Conference on Artificial Intelligence, Berlin, Germany, August 20-25, 2000</title>
+<booktitle>ECAI</booktitle>
+<publisher>IOS Press</publisher>
+<year>2000</year>
+<url>db/conf/ecai/ecai2000.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/ecai/BenferhatDKP00" mdate="2003-06-30">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="75/323">Souhila Kaci</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Encoding Information Fusion in Possibilistic Logic: A General Framework for Rational Syntactic Merging.</title>
+<pages>3-7</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BenferhatDKP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BenferhatDP00" mdate="2003-06-30">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Kalman-like Filtering in a possibilistic Setting.</title>
+<pages>8-12</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BenferhatDP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BenferhatKPP00" mdate="2003-06-30">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="36/1515">S&#233;bastien Konieczny</author>
+<author pid="09/6707">Odile Papini</author>
+<author pid="96/1310">Ram&#243;n Pino P&#233;rez</author>
+<title>Iterated Revision by Epistemic States: Axioms, Semantics and Syntax.</title>
+<pages>13-17</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BenferhatKPP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Brewka00" mdate="2003-06-30">
+<author pid="b/GerhardBrewka">Gerhard Brewka</author>
+<title>Declarative Representation of Revision Strategies.</title>
+<pages>18-22</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Brewka00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Coste-MarquisM00" mdate="2003-06-30">
+<author pid="84/6816">Sylvie Coste-Marquis</author>
+<author pid="37/6177">Pierre Marquis</author>
+<title>Compiling Stratified Belief Bases.</title>
+<pages>23-27</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Coste-MarquisM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GiordanoGO00" mdate="2016-04-01">
+<author pid="g/LauraGiordano1">Laura Giordano 0001</author>
+<author pid="02/725">Valentina Gliozzi</author>
+<author pid="o/NicolaOlivetti">Nicola Olivetti</author>
+<title>A Conditional Logic for Iterated Belief Revision.</title>
+<pages>28-32</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#GiordanoGO00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/HoekW00" mdate="2003-06-30">
+<author pid="h/WiebevanderHoek">Wiebe van der Hoek</author>
+<author pid="w/CeesWitteveen">Cees Witteveen</author>
+<title>Classical, General Frameworks for Recovery.</title>
+<pages>33-37</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#HoekW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Weydert00" mdate="2003-06-30">
+<author pid="w/EmilWeydert">Emil Weydert</author>
+<title>How to Revise Ranked Probabilities.</title>
+<pages>38-44</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Weydert00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/FuchsLMN00" mdate="2003-06-30">
+<author pid="31/710">B&#233;atrice Fuchs</author>
+<author pid="20/3650">Jean Lieber</author>
+<author pid="m/AlainMille">Alain Mille</author>
+<author pid="n/AmedeoNapoli">Amedeo Napoli</author>
+<title>An Algorithm for Adaptation in Case-based Reasoning.</title>
+<pages>45-49</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#FuchsLMN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Hullermeier00" mdate="2003-06-30">
+<author pid="h/EykeHullermeier">Eyke H&#252;llermeier</author>
+<title>Focusing Search by Using Problem Solving Experience.</title>
+<pages>50-54</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Hullermeier00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Hullermeier00a" mdate="2003-06-30">
+<author pid="h/EykeHullermeier">Eyke H&#252;llermeier</author>
+<title>Similarity-based Inference as Evitential Reasoning.</title>
+<pages>55-59</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Hullermeier00a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/McKennaS00" mdate="2003-06-30">
+<author pid="45/1170">Elizabeth McKenna</author>
+<author pid="s/BarrySmyth">Barry Smyth</author>
+<title>Competence-guided Editing Methods for Lazy Learning.</title>
+<pages>60-64</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#McKennaS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/SmythMM00" mdate="2003-06-30">
+<author pid="s/BarrySmyth">Barry Smyth</author>
+<author pid="67/5895">Mark Mullins</author>
+<author pid="45/1170">Elizabeth McKenna</author>
+<title>Picture Perfect: Visualisation Techniques for Case-based Reasoning.</title>
+<pages>65-72</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#SmythMM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AzevedoB00" mdate="2003-06-30">
+<author pid="63/1774">Francisco Azevedo</author>
+<author pid="b/PBarahona">Pedro Barahona</author>
+<title>Differentiating Diagnosis Theories through Constaints over an Eight-valued Logic.</title>
+<pages>73-77</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#AzevedoB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Condotta00" mdate="2003-06-30">
+<author pid="47/2681">Jean-Fran&#231;ois Condotta</author>
+<title>Tractable Sets of the Generalized Interval Algebra.</title>
+<pages>78-82</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Condotta00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CukiermanD00" mdate="2003-06-30">
+<author pid="52/136">Diana Cukierman</author>
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<title>A Formalization of Structured Temporal Objects and Repetition.</title>
+<pages>83-87</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#CukiermanD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Debruyne00" mdate="2003-06-30">
+<author pid="30/847">Romuald Debruyne</author>
+<title>A Property of Path Inverse Consistency Leading to an Optimal PIC Algorithm.</title>
+<pages>88-92</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Debruyne00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/JonssonF00" mdate="2003-06-30">
+<author pid="30/4049">Ari K. J&#243;nsson</author>
+<author pid="32/67">Jeremy Frank</author>
+<title>A Framework for Dynamic Constraint Reasoning using Procedural Constraints.</title>
+<pages>93-97</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#JonssonF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LiG00" mdate="2003-06-30">
+<author pid="35/5239">Chu Min Li</author>
+<author pid="29/2327">Sylvain G&#233;rard</author>
+<title>On the Limit of Branching Rules for Hard Random Unsatisfiable 3-SAT.</title>
+<pages>98-102</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#LiG00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ManquinhoS00" mdate="2003-06-30">
+<author pid="57/1074">Vasco M. Manquinho</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o P. Marques Silva</author>
+<title>Search Pruning Conditions for Boolean Optimization.</title>
+<pages>103-107</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#ManquinhoS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/OddiC00" mdate="2003-06-30">
+<author pid="82/2253">Angelo Oddi</author>
+<author pid="c/AmedeoCesta">Amedeo Cesta</author>
+<title>Incremental Forward Checking for the Disjunctive Temporal Problem.</title>
+<pages>108-112</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#OddiC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/SingerGS00" mdate="2003-06-30">
+<author pid="88/5461">Josh Singer</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="26/6224">Alan Smaill</author>
+<title>Local Search on Random 2+p-SAT.</title>
+<pages>113-117</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#SingerGS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Solnon00" mdate="2003-06-30">
+<author pid="47/7026">Christine Solnon</author>
+<title>Solving Permutation Constraint Satisfaction Problems with Artificial Ants.</title>
+<pages>118-122</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Solnon00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/SlaneyTK00" mdate="2004-05-11">
+<author pid="s/JohnKSlaney">John K. Slaney</author>
+<author pid="64/3102">Sylvie Thi&#233;baux</author>
+<author pid="66/5607">Philip Kilby</author>
+<title>Estimating the Hardness of Optimisation.</title>
+<pages>123-130</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#SlaneyTK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ConsolePR00" mdate="2003-06-30">
+<author pid="c/LConsole">Luca Console</author>
+<author pid="24/855">Claudia Picardi</author>
+<author pid="r/MRibaud">Marina Ribaudo</author>
+<title>Diagnosis and Diagnosability Analysis Using PEPA.</title>
+<pages>131-135</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#ConsolePR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CordierDDLMST00" mdate="2003-06-30">
+<author pid="95/522">Marie-Odile Cordier</author>
+<author pid="35/3908">Philippe Dague</author>
+<author pid="66/810">Michel Dumas</author>
+<author pid="16/5677">Fran&#231;ois L&#233;vy</author>
+<author pid="77/5001">Jacky Montmain</author>
+<author pid="36/196">Marcel Staroswiecki</author>
+<author pid="89/1621">Louise Trav&#233;-Massuy&#232;s</author>
+<title>A Comparative Analysis of AI and Control Theory Approaches to Model-based Diagnosis.</title>
+<pages>136-140</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#CordierDDLMST00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/JongP00" mdate="2003-06-30">
+<author pid="21/3073">Hidde de Jong</author>
+<author pid="00/4531">Michel Page</author>
+<title>Qualitative Simulation of Large and Complex Genetic Regulation Systems.</title>
+<pages>141-145</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#JongP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/FelfernigFJS00" mdate="2003-06-30">
+<author pid="71/915">Alexander Felfernig</author>
+<author pid="47/1985">Gerhard Friedrich</author>
+<author pid="j/DietmarJannach">Dietmar Jannach</author>
+<author pid="s/MarkusStumptner">Markus Stumptner</author>
+<title>Consistency-Based Diagnosis of Configuration Knowledge Bases.</title>
+<pages>146-150</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#FelfernigFJS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LampertiZ00" mdate="2003-06-30">
+<author pid="48/4023">Gianfranco Lamperti</author>
+<author pid="23/565">Marina Zanella</author>
+<title>Uncertain Temporal Observations in Diagnosis.</title>
+<pages>151-155</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#LampertiZ00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LargouetC00" mdate="2003-06-30">
+<author pid="42/2089">Christine Largou&#235;t</author>
+<author pid="95/522">Marie-Odile Cordier</author>
+<title>Timed Automata Model to Improve the Classification of a Sequence of Images.</title>
+<pages>156-160</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#LargouetC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Lee00" mdate="2003-06-30">
+<author pid="02/1733">Mark Lee</author>
+<title>Qualitative Modelling of Linear Networks in Engineering Applications.</title>
+<pages>161-165</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Lee00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LiberatoreD00" mdate="2003-06-30">
+<author pid="l/PLiberatore">Paolo Liberatore</author>
+<author pid="d/FrancescoMDonini">Francesco M. Donini</author>
+<title>Verification Programs for Abduction.</title>
+<pages>166-170</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#LiberatoreD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MateisSW00" mdate="2003-06-30">
+<author pid="60/1792">Cristinel Mateis</author>
+<author pid="s/MarkusStumptner">Markus Stumptner</author>
+<author pid="w/FranzWotawa">Franz Wotawa</author>
+<title>Modeling Java Programs for Diagnosis.</title>
+<pages>171-175</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MateisSW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/PanatiD00" mdate="2003-06-30">
+<author pid="51/6549">Andrea Panati</author>
+<author pid="d/DTDupre">Daniele Theseider Dupr&#233;</author>
+<title>State-based vs Simulation-based Diagnosis of Dynamic Systems.</title>
+<pages>176-180</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#PanatiD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/TeijeH00" mdate="2003-06-30">
+<author pid="96/3134">Annette ten Teije</author>
+<author pid="h/FrankvanHarmelen">Frank van Harmelen</author>
+<title>Describing Problem Solving Methods using Anytime Performance Profiles.</title>
+<pages>181-185</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#TeijeH00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Tusch00" mdate="2003-06-30">
+<author pid="53/2631">G&#252;nter Tusch</author>
+<title>Optimal Sequential Decisions in Liver Transplantation on a POMDP Model.</title>
+<pages>186-190</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Tusch00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/VatchevaJM00" mdate="2003-06-30">
+<author pid="14/4307">Ivayla Vatcheva</author>
+<author pid="21/3073">Hidde de Jong</author>
+<author pid="24/195">Nicolaas J. I. Mars</author>
+<title>Selection of Perturbation Experiments for Model Discrimination.</title>
+<pages>191-198</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#VatchevaJM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ArecesGHR00" mdate="2003-06-30">
+<author pid="47/199">Carlos Areces</author>
+<author pid="07/3793">Rosella Gennari</author>
+<author pid="97/5021">Juan Heguiabehere</author>
+<author pid="r/MdRijke">Maarten de Rijke</author>
+<title>Tree-based Heuristics in Modal Theorem Proving.</title>
+<pages>199-203</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#ArecesGHR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BennettCTH00" mdate="2003-06-30">
+<author pid="87/2029">Brandon Bennett</author>
+<author pid="c/AnthonyGCohn">Anthony G. Cohn</author>
+<author pid="t/PaoloTorrini">Paolo Torrini</author>
+<author pid="56/6684">Shyamanta M. Hazarika</author>
+<title>A Foundation for Region-based Qualitative Geometry.</title>
+<pages>204-208</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BennettCTH00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BorgidaFH00" mdate="2022-04-12">
+<author pid="b/ABorgida">Alexander Borgida</author>
+<author pid="f/EnricoFranconi">Enrico Franconi</author>
+<author pid="h/IanHorrocks">Ian Horrocks 0001</author>
+<title>Explaining ALC Subsumption.</title>
+<pages>209-213</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BorgidaFH00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Grasso00" mdate="2003-06-30">
+<author pid="23/4422">Floriana Grasso</author>
+<title>Using an Ontology Conceptualisation Method to Capture an Advice Giving System Knowledge.</title>
+<pages>214-218</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Grasso00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GuarinoW00" mdate="2003-06-30">
+<author pid="65/6778">Nicola Guarino</author>
+<author pid="w/CAWelty">Christopher A. Welty</author>
+<title>Identity, Unity, and Individuality: Towards a Formal Toolkit for Ontological Analysis.</title>
+<pages>219-223</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#GuarinoW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MeathrelG00" mdate="2003-06-30">
+<author pid="97/4270">Richard C. Meathrel</author>
+<author pid="g/AntonyGalton">Antony Galton</author>
+<title>Qualitative Representation of Planar Outlines.</title>
+<pages>224-228</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MeathrelG00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MelisZM00" mdate="2018-08-06">
+<author pid="m/EMelis">Erica Melis</author>
+<author pid="31/548">J&#252;rgen Zimmer</author>
+<author pid="59/1656-2">Tobias M&#252;ller 0002</author>
+<title>Extensions of Constraint Solving for Proof Planning.</title>
+<pages>229-233</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MelisZM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MoratzRW00" mdate="2003-06-30">
+<author pid="11/3805">Reinhard Moratz</author>
+<author pid="21/1718">Jochen Renz</author>
+<author pid="73/1193">Diedrich Wolter</author>
+<title>Qualitative Spatial Reasoning about Line Segments.</title>
+<pages>234-238</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MoratzRW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Sattler00" mdate="2003-06-30">
+<author pid="s/UlrikeSattler">Ulrike Sattler</author>
+<title>Description Logics for the Representation of Aggregated Objects.</title>
+<pages>239-243</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Sattler00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/WolterZ00" mdate="2003-06-30">
+<author pid="w/FrankWolter">Frank Wolter</author>
+<author pid="z/MZakharyaschev">Michael Zakharyaschev</author>
+<title>Spatial Reasoning in RCC-8 with Boolean Region Terms.</title>
+<pages>244-250</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#WolterZ00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Aguilar-RuizST00" mdate="2003-06-30">
+<author pid="a/JesusSAguilarRuiz">Jes&#250;s S. Aguilar-Ruiz</author>
+<author pid="s/JCRiquelmeSantos">Jos&#233; Crist&#243;bal Riquelme Santos</author>
+<author pid="61/3556">Miguel Toro</author>
+<title>Data Set Editing by Ordered Projection.</title>
+<pages>251-255</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Aguilar-RuizST00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AlphonseR00" mdate="2003-06-30">
+<author pid="58/5127">&#201;rick Alphonse</author>
+<author pid="r/CelineRouveirol">C&#233;line Rouveirol</author>
+<title>Lazy Propositionalisation for Relational Learning.</title>
+<pages>256-260</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#AlphonseR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ArasAO00" mdate="2003-06-30">
+<author pid="16/3293">Necati Aras</author>
+<author pid="66/3410">I. Kuban Altinel</author>
+<author pid="o/BJohnOommen">B. John Oommen</author>
+<title>A Kohonen-like Decomposition Method for the Traveling Salesman Problem: KNIES<sub>DECOMPOSE</sub>.</title>
+<pages>261-265</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#ArasAO00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Munoz00" mdate="2003-06-30">
+<author pid="b/LABelancheM">Llu&#237;s A. Belanche Mu&#241;oz</author>
+<title>Similarity-based Heterogeneous Neuron Models.</title>
+<pages>271-275</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Munoz00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CosterA00" mdate="2003-06-30">
+<author pid="44/4855">Rickard C&#246;ster</author>
+<author pid="50/4588">Lars Asker</author>
+<title>Similarity-based Approach to Relevance Learning.</title>
+<pages>276-280</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#CosterA00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Dutech00" mdate="2003-06-30">
+<author pid="24/5229">Alain Dutech</author>
+<title>Solving POMDPs Using Selected Past Events.</title>
+<pages>281-285</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Dutech00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/EaswaranP00" mdate="2003-06-30">
+<author pid="00/533">Aneurin M. Easwaran</author>
+<author pid="p/JeremyVPitt">Jeremy Pitt</author>
+<title>An Agent Service Brokering Algorithm for Winner Determination in Combinatorial Auctions.</title>
+<pages>286-290</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#EaswaranP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/FurnkranzPKK00" mdate="2015-01-02">
+<author pid="f/JohannesFurnkranz">Johannes F&#252;rnkranz</author>
+<author pid="10/140">Bernhard Pfahringer</author>
+<author pid="k/HermannKaindl">Hermann Kaindl</author>
+<author pid="k/StefanKramer1">Stefan Kramer 0001</author>
+<title>Learning to Use Operational Advice.</title>
+<pages>291-295</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#FurnkranzPKK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GarciaS00" mdate="2022-10-25">
+<author pid="69/6651">Fr&#233;d&#233;rick Gar&#231;ia</author>
+<author pid="46/4661">Florent Serre</author>
+<title>Efficient Asymptotic Approximation in Temporal Difference Learning.</title>
+<pages>296-300</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#GarciaS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GoriFS00" mdate="2003-06-30">
+<author pid="g/MarcoGori">Marco Gori</author>
+<author pid="73/32">Paolo Frasconi</author>
+<author pid="s/ASperduti">Alessandro Sperduti</author>
+<title>Learning Efficiently with Neural Networks: A Theoretical Comparison between Structured and Flat Representations.</title>
+<pages>301-305</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#GoriFS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/HeuserR00" mdate="2003-06-30">
+<author pid="00/661">Udo Heuser</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Automatic Generation of Local Internet Catalogues Using the Hierarchical Radius-based Competitive Learning.</title>
+<pages>306-310</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#HeuserR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/KirchnerR00" mdate="2003-06-30">
+<author pid="39/5038">Frank Kirchner</author>
+<author pid="98/5843">Corinna Richter</author>
+<title>Q-Surfing: Exploring a World Model by Significance Values in Reinforcement Learning Tasks.</title>
+<pages>311-315</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#KirchnerR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LorenzoO00" mdate="2003-06-30">
+<author pid="81/2687">David Lorenzo</author>
+<author pid="77/6509">Ram&#243;n P. Otero</author>
+<title>Learning to Reason About Actions.</title>
+<pages>316-320</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#LorenzoO00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MaedcheS00" mdate="2003-06-30">
+<author pid="34/590">Alexander Maedche</author>
+<author pid="s/SteffenStaab">Steffen Staab</author>
+<title>Discovering Conceptual Relations from Text.</title>
+<pages>321-325</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MaedcheS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Torra00" mdate="2003-06-30">
+<author pid="t/VicencTorra">Vicen&#231; Torra</author>
+<title>Towards the Re-identification of Individuals in Data Files with Non-common Variables.</title>
+<pages>326-332</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Torra00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Agostini00" mdate="2003-06-30">
+<author pid="91/1045">Alessandro Agostini</author>
+<title>Team-Solvability: A Model-Theoretic Perspective.</title>
+<pages>333-337</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Agostini00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AmgoudPM00" mdate="2003-06-30">
+<author pid="90/1913">Leila Amgoud</author>
+<author pid="65/1416">Simon Parsons</author>
+<author pid="93/1858">Nicolas Maudet</author>
+<title>Arguments, Dialogue, and Negotiation.</title>
+<pages>338-342</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#AmgoudPM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BarbuceanuL00" mdate="2003-06-30">
+<author pid="15/4566">Mihai Barbuceanu</author>
+<author pid="17/4845">Wai-Kau Lo</author>
+<title>Integrating Individual, Organizational and Market Level Reasioning for Agent Coordination.</title>
+<pages>343-347</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BarbuceanuL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BourneEJ00" mdate="2003-06-30">
+<author pid="26/115">Rachel A. Bourne</author>
+<author pid="80/2552">Cora B. Excelente-Toledo</author>
+<author pid="j/NicholasRJennings">Nicholas R. Jennings</author>
+<title>Run-Time Selection of Coordination Mechanisms in Multi-Agent Systems.</title>
+<pages>348-352</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BourneEJ00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Castelfranchi00" mdate="2003-06-30">
+<author pid="96/1517">Cristiano Castelfranchi</author>
+<title>Founding Agents' &#34;Autonomy&#34; on Dependence Theory.</title>
+<pages>353-357</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Castelfranchi00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/HindriksIL00" mdate="2004-02-17">
+<author pid="67/2212">Koen V. Hindriks</author>
+<author pid="47/2186">Mark d'Inverno</author>
+<author pid="09/6641">Michael Luck</author>
+<title>Architecture for Agent Programming Languages.</title>
+<pages>363-367</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#HindriksIL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Liau00" mdate="2003-06-30">
+<author pid="03/3350">Churn-Jung Liau</author>
+<title>Logical Systems for Reasoning about Multi-agent Belief, Information Acquisition and Trust.</title>
+<pages>368-372</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Liau00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/LuoLL00" mdate="2006-05-05">
+<author pid="86/2830">Xudong Luo</author>
+<author pid="l/HofungLeung">Ho-fung Leung</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<title>Theory and Properties of a Selfish Protocol for Multi-Agent Meeting Scheduling Using Fuzzy Constraints.</title>
+<pages>373-377</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#LuoLL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ParsonsPSW00" mdate="2019-04-26">
+<author pid="65/1416">Simon Parsons</author>
+<author pid="69/4443">Ola Pettersson</author>
+<author pid="29/1929">Alessandro Saffiotti</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Intention Reconsideration in Theory and Practice.</title>
+<pages>378-382</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#ParsonsPSW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/TsurutaS00" mdate="2003-06-30">
+<author pid="33/1194">Takuo Tsuruta</author>
+<author pid="57/1646">Toramatsu Shintani</author>
+<title>Scheduling Meetings Using Distributed Valued Constraint Satisfaction Algorithm.</title>
+<pages>383-387</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#TsurutaS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Weiss00" mdate="2022-03-08">
+<author pid="07/2055">Gerhard Weiss 0001</author>
+<title>Achieving Coordination through Combining Joint Planning and Joint Learning.</title>
+<pages>388-392</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Weiss00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/WooldridgeP00" mdate="2019-04-26">
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<author pid="65/1416">Simon Parsons</author>
+<title>Languages for Negotiation.</title>
+<pages>393-400</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#WooldridgeP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BeckerKLP00" mdate="2003-06-30">
+<author pid="69/5386">Tilman Becker</author>
+<author pid="15/4771">Anne Kilger</author>
+<author pid="27/4487">Patrice Lopez</author>
+<author pid="19/3453">Peter Poller</author>
+<title>Multilingual Generation for Translation in Speech-to-Speech Dialogues and its Realization in Verbmobil.</title>
+<pages>401-405</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BeckerKLP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BidaultFS00" mdate="2003-06-30">
+<author pid="80/2227">Alain Bidault</author>
+<author pid="f/ChristineFroidevaux">Christine Froidevaux</author>
+<author pid="71/3798">Brigitte Safar</author>
+<title>Repairing Queries in a Mediator Approach.</title>
+<pages>406-410</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BidaultFS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CatalaCM00" mdate="2015-10-22">
+<author pid="53/3861">Neus Catal&#224;</author>
+<author pid="86/5802">N&#250;ria Castell</author>
+<author pid="169/5613">Mario Mart&#237;n</author>
+<title>Essence: A Portable Methodology for Acquiring Information Extraction Patterns.</title>
+<pages>411-415</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#CatalaCM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CiravegnaLS00" mdate="2003-06-30">
+<author pid="50/674">Fabio Ciravegna</author>
+<author pid="88/6222">Alberto Lavelli</author>
+<author pid="69/6644">Giorgio Satta</author>
+<title>Bringing Information Extraction out of the Labs: the NoName Environment.</title>
+<pages>416-420</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#CiravegnaLS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/EscuderoMR00" mdate="2004-02-09">
+<author pid="47/3320">Gerard Escudero</author>
+<author pid="62/3">Llu&#237;s M&#224;rquez</author>
+<author pid="66/1456">German Rigau</author>
+<title>Naive Bayes and Exemplar-based Approaches to Word Sense Disambiguation Revisited.</title>
+<pages>421-425</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#EscuderoMR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/FerretG00" mdate="2003-06-30">
+<author pid="79/6612">Olivier Ferret</author>
+<author pid="10/3237">Brigitte Grau</author>
+<title>A Topic Segmentation of Texts based on Semantic Domains.</title>
+<pages>426-430</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#FerretG00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Flycht-Erikson00" mdate="2003-06-30">
+<author pid="58/5052">Annika Flycht-Erikson</author>
+<title>A Domain Knowledge Manager for Dialogue Systems.</title>
+<pages>431-435</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Flycht-Erikson00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Huyck00" mdate="2003-06-30">
+<author pid="05/6687">Christian R. Huyck</author>
+<title>A Practical System for Human-like Parsing.</title>
+<pages>436-440</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Huyck00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/RibeiroLM00" mdate="2003-06-30">
+<author pid="98/6103">Ant&#243;nio Ribeiro</author>
+<author pid="55/4">Jos&#233; Gabriel Pereira Lopes</author>
+<author pid="149/5829">Jo&#227;o Mexia</author>
+<title>Linear Regression Based Alignment of Parallel Texts Using Homograph Words.</title>
+<pages>446-450</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#RibeiroLM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/VelardiC00" mdate="2003-06-30">
+<author pid="12/2807">Paola Velardi</author>
+<author pid="56/3976">Alessandro Cucchiarelli</author>
+<title>A Theoretical Analysis of Context-based Learning Algorithms or Word Sense Disambiguation.</title>
+<pages>451-458</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#VelardiC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AntoniouBGMR00" mdate="2003-06-30">
+<author pid="a/GrigorisAntoniou">Grigoris Antoniou</author>
+<author pid="93/3238">David Billington</author>
+<author pid="g/GuidoGovernatori">Guido Governatori</author>
+<author pid="m/MichaelJMaher">Michael J. Maher</author>
+<author pid="90/5628">Andrew Rock</author>
+<title>A Family of Defeasible Reasoning Logics and its Implementation.</title>
+<pages>459-463</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#AntoniouBGMR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/DelgrandeST00" mdate="2003-06-30">
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<author pid="s/TorstenSchaub">Torsten Schaub</author>
+<author pid="t/HansTompits">Hans Tompits</author>
+<title>Logic Programs with Compiled Preferences.</title>
+<pages>464-468</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#DelgrandeST00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GovernatoriM00" mdate="2003-06-30">
+<author pid="g/GuidoGovernatori">Guido Governatori</author>
+<author pid="m/MichaelJMaher">Michael J. Maher</author>
+<title>An Argumentation-Theoretic Characterization of Defeasible Logic.</title>
+<pages>469-473</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#GovernatoriM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Moinard00" mdate="2003-06-30">
+<author pid="m/YvesMoinard">Yves Moinard</author>
+<title>Characterizing General Preferential Entailments.</title>
+<pages>474-478</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Moinard00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MoinardR00" mdate="2003-06-30">
+<author pid="m/YvesMoinard">Yves Moinard</author>
+<author pid="37/4783">Raymond Rolland</author>
+<title>Equivalent Sets of Formulas for Circumscriptions.</title>
+<pages>479-483</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MoinardR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/NicolasSS00" mdate="2003-06-30">
+<author pid="n/PascalNicolas">Pascal Nicolas</author>
+<author pid="91/3201">Fr&#233;d&#233;ric Saubion</author>
+<author pid="14/5762">Igor St&#233;phan</author>
+<title>GADEL: a Genetic Algorithm to Compute Default Logic Extensions.</title>
+<pages>484-490</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#NicolasSS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CeccaroniR00" mdate="2022-09-13">
+<author pid="91/5923">Luigi Ceccaroni</author>
+<author pid="r/DSRobertson">Dave Robertson 0001</author>
+<title>WaRP: A Reactive Planner Integrated in an Environmental Decision Support System fo Wastewater Treatment Plant Management.</title>
+<pages>491-495</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#CeccaroniR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Hong00" mdate="2017-08-18">
+<author pid="h/JunHong9">Jun Hong 0009</author>
+<title>Plan Recognition through Goal Graph Analysis.</title>
+<pages>496-500</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Hong00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/KvarnstromDH00" mdate="2019-11-18">
+<author pid="05/3470">Jonas Kvarnstr&#246;m</author>
+<author pid="81/3618">Patrick Doherty 0001</author>
+<author pid="39/6592">Patrik Haslum</author>
+<title>Extending TALplanner with Concurrency and Resources.</title>
+<pages>501-505</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#KvarnstromDH00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MiguelJS00" mdate="2022-10-17">
+<author pid="17/2612">Ian Miguel</author>
+<author pid="16/727">Peter Jarvis</author>
+<author pid="s/QiangShen">Qiang Shen 0001</author>
+<title>Flexible Graphplan.</title>
+<pages>506-510</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MiguelJS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MikschS00" mdate="2003-06-30">
+<author pid="48/4040">Silvia Miksch</author>
+<author pid="45/6489">Andreas Seyfang</author>
+<title>Continual Planning with Time-Oriented, Skeletal Plans.</title>
+<pages>511-515</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MikschS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MoraitisT00" mdate="2003-06-30">
+<author pid="74/6150">Pavlos Moraitis</author>
+<author pid="37/5889">Alexis Tsouki&#224;s</author>
+<title>Graph Based Representation of Dynamic Planning.</title>
+<pages>516-520</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MoraitisT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/RefanidisV00" mdate="2003-06-30">
+<author pid="89/4430">Ioannis Refanidis</author>
+<author pid="v/IoannisPVlahavas">Ioannis P. Vlahavas</author>
+<title>Heuristic Planning with Resources.</title>
+<pages>521-525</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#RefanidisV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Rintanen00" mdate="2003-06-30">
+<author pid="65/3601">Jussi Rintanen</author>
+<title>Incorporation of Temporal Logic Control into Plan Operators.</title>
+<pages>526-530</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Rintanen00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/SebastiaOM00" mdate="2003-06-30">
+<author pid="53/4984">Laura Sebastia</author>
+<author pid="84/5121">Eva Onaindia</author>
+<author pid="26/3468">Eliseo Marzal</author>
+<title>A Graph-based Approach for POCL Planning.</title>
+<pages>531-535</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#SebastiaOM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/WallaceF00" mdate="2003-06-30">
+<author pid="44/4904">Richard J. Wallace</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Dispatchability Conditions for Schedules with Consumable Resources.</title>
+<pages>536-542</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#WallaceF00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CabalarOP00" mdate="2003-06-30">
+<author pid="48/6264">Pedro Cabalar</author>
+<author pid="77/6509">Ram&#243;n P. Otero</author>
+<author pid="96/5465">Silvia G&#243;mez Pose</author>
+<title>Temporal Constraint Networks in Action.</title>
+<pages>543-547</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#CabalarOP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GrosskreutzL00" mdate="2003-06-30">
+<author pid="46/2204">Henrik Grosskreutz</author>
+<author pid="l/GerhardLakemeyer">Gerhard Lakemeyer</author>
+<title>Turning High-Level Plans into Robot Programs in Uncertain Domains.</title>
+<pages>548-552</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#GrosskreutzL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/HerzigLP00" mdate="2013-04-10">
+<author pid="h/AndreasHerzig">Andreas Herzig</author>
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<author pid="51/448">Thomas Polacsek</author>
+<title>A modal logic for epistemic tests.</title>
+<pages>553-557</pages>
+<year>2000</year>
+<booktitle>ECAI</booktitle>
+<crossref>conf/ecai/2000</crossref>
+<url>db/conf/ecai/ecai2000.html#HerzigLP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/HindriksLL00" mdate="2004-02-09">
+<author pid="67/2212">Koen V. Hindriks</author>
+<author pid="74/5003">Yves Lesp&#233;rance</author>
+<author pid="l/HJLevesque">Hector J. Levesque</author>
+<title>An Embedding of ConGolog in 3APL.</title>
+<pages>558-562</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#HindriksLL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Ternovskaia00" mdate="2003-06-30">
+<author pid="t/EugeniaTernovska">Eugenia Ternovskaia</author>
+<title>ID-logic and the Ramification Problem for the Situation Calculus.</title>
+<pages>563-570</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Ternovskaia00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ArnborgS00" mdate="2003-06-30">
+<author pid="80/2752">Stefan Arnborg</author>
+<author pid="73/6374">Gunnar Sj&#246;din</author>
+<title>Bayes Rules in Finite Models.</title>
+<pages>571-575</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#ArnborgS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/DeventerN00" mdate="2003-06-30">
+<author pid="07/3820">Rainer Deventer</author>
+<author pid="n/HeinrichNiemann">Heinrich Niemann</author>
+<title>Non-linear Modelling of a Production Process by Hybrid Bayesian Networks.</title>
+<pages>576-580</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#DeventerN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Kern-Isberner00" mdate="2003-06-30">
+<author pid="k/GabrieleKernIsberner">Gabriele Kern-Isberner</author>
+<title>Solving the Inverse Representation Problem.</title>
+<pages>581-585</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Kern-Isberner00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Sabbadi00" mdate="2003-11-25">
+<author pid="64/3227">R&#233;gis Sabbadin</author>
+<title>Empirical Comparison of Probabilistic and Possibilistic Markov Decision Processes Algorithms.</title>
+<pages>586-590</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Sabbadi00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/VoglerRHN00" mdate="2003-06-30">
+<author pid="74/6337">Axel Vogler</author>
+<author pid="50/5031">Patrick Rammelt</author>
+<author pid="70/3920">J&#246;rg Herbers</author>
+<author pid="72/1545">Dietmar Neumerkel</author>
+<title>Visual Design Support in Dynamic Probabilistic Networks for Driver Modelling.</title>
+<pages>591-598</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#VoglerRHN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GentS00" mdate="2003-06-30">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>Symmetry Breaking in Constraint Programming.</title>
+<pages>599-603</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#GentS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Horacek00" mdate="2003-06-30">
+<author pid="00/5108">Helmut Horacek</author>
+<title>Towards Understanding Conceptual Differences Between Minimaxing and Product-Propagation.</title>
+<pages>604-608</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Horacek00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ShimboI00" mdate="2018-09-20">
+<author pid="92/5032">Masashi Shimbo</author>
+<author pid="71/5163">Toru Ishida 0001</author>
+<title>Towards Real-Time Search with Inadmissible Heuristics.</title>
+<pages>609-613</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#ShimboI00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Slaney00" mdate="2003-06-30">
+<author pid="s/JohnKSlaney">John K. Slaney</author>
+<title>Is there a Constaintness Knife-edge?</title>
+<pages>614-620</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Slaney00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ArdissonoT00" mdate="2003-06-30">
+<author pid="73/1621">Liliana Ardissono</author>
+<author pid="19/1181">Pietro Torasso</author>
+<title>Dynamic User Modeling in a Web Store Shell.</title>
+<pages>621-625</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#ArdissonoT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/DixonC00" mdate="2003-06-30">
+<author pid="11/7013">Simon Dixon</author>
+<author pid="28/3264">Emilios Cambouropoulos</author>
+<title>Beat Tracking with Musical Knowledge.</title>
+<pages>626-630</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#DixonC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MatsushitaYK00" mdate="2003-06-30">
+<author pid="19/5001">Mitsunori Matsushita</author>
+<author pid="67/2632">Hayato Yonezawa</author>
+<author pid="03/4243">Tsuneaki Kato</author>
+<title>Frame Representation of User's Requirement for Automated Data Visualization.</title>
+<pages>631-635</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MatsushitaYK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/VaudryC00" mdate="2003-06-30">
+<author pid="62/983">Christophe Vaudry</author>
+<author pid="73/6414">Michel Crampes</author>
+<title>Composition Through Agent Negotiation: A Step Towards Fluid Interface.</title>
+<pages>636-642</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#VaudryC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BaillieG00" mdate="2003-06-30">
+<author pid="86/2857">Jean-Christophe Baillie</author>
+<author pid="g/JGGanascia">Jean-Gabriel Ganascia</author>
+<title>Action Categorization from Video Sequences.</title>
+<pages>643-647</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BaillieG00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BeetzB00" mdate="2003-06-30">
+<author pid="b/MichaelBeetz">Michael Beetz</author>
+<author pid="91/5296">Thorsten Belker</author>
+<title>Autonomous Environment and Task Adaptation for Robotic Agents.</title>
+<pages>648-652</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BeetzB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BrodaHW00" mdate="2003-06-30">
+<author pid="11/6335">Krysia Broda</author>
+<author pid="h/ChristopherJHogger">Christopher J. Hogger</author>
+<author pid="14/5819">Sam Watson</author>
+<title>Constructing Teleo-reactive Robot Programs.</title>
+<pages>653-657</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BrodaHW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AngeloMP00" mdate="2004-12-10">
+<author pid="08/1311">Antonio D'Angelo</author>
+<author pid="50/1506">Federico Montesello</author>
+<author pid="05/794">Enrico Pagello</author>
+<title>Can Representation be Liberated from Symbolism: Modeling Robot Actions with Roboticles.</title>
+<pages>658-662</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#AngeloMP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/KoppW00" mdate="2003-06-30">
+<author pid="74/1320">Stefan Kopp</author>
+<author pid="w/IpkeWachsmuth">Ipke Wachsmuth</author>
+<title>A Knowledge-based Approach for Lifelike Gesture Animation.</title>
+<pages>663-667</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#KoppW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/PachowiczB00" mdate="2003-06-30">
+<author pid="p/PeterWPachowicz">Peter Pachowicz</author>
+<author pid="b/SungWookBaik">Sung Wook Baik</author>
+<title>On-Line Model Modification for Adaptive Object Recognition.</title>
+<pages>668-672</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#PachowiczB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/RotaT00" mdate="2003-06-30">
+<author pid="42/5934">Nathana&#235;l Rota</author>
+<author pid="90/263">Monique Thonnat</author>
+<title>Activity Recognition from Video Sequences using Declarative Models.</title>
+<pages>673-680</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#RotaT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/AnandBBM00" mdate="2003-06-30">
+<author pid="a/SarabjotSAnand">Sarabjot S. Anand</author>
+<author pid="51/4550">Matthias Baumgarten</author>
+<author pid="10/5463">Alex G. B&#252;chner</author>
+<author pid="08/988">Maurice D. Mulvenna</author>
+<title>Gaining Insights into Web Customers using Web Intelligence.</title>
+<pages>681-685</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#AnandBBM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BagnascoCM00" mdate="2003-06-30">
+<author pid="01/3852">Clara Bagnasco</author>
+<author pid="50/5465">Amedeo Cappelli</author>
+<author pid="09/1824">Bernardo Magnini</author>
+<title>A Dialogue Environment for Accessing Public Administration Data: the TAMIC-P System.</title>
+<pages>686-690</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BagnascoCM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BandiniM00" mdate="2003-06-30">
+<author pid="13/5210">Stefania Bandini</author>
+<author pid="62/3822">Sara Manzoni</author>
+<title>A Knowledge-Based System for the Design of Rubber Compounds in Motor Racing.</title>
+<pages>691-695</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#BandiniM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CiravegnaLMMGMFBRM00" mdate="2018-02-13">
+<author pid="50/674">Fabio Ciravegna</author>
+<author pid="88/6222">Alberto Lavelli</author>
+<author pid="20/6184">Nadia Mana</author>
+<author pid="96/786">Johannes Matiasek</author>
+<author pid="34/65">Luca Gilardoni</author>
+<author pid="20/629">Silvia Mazza</author>
+<author pid="28/6690">Massimo Ferraro</author>
+<author pid="64/3284">William J. Black</author>
+<author pid="48/6798">Fabio Rinaldi 0001</author>
+<author pid="32/6780">David Mowatt</author>
+<title>Flexible Text Classification for Financial Applications: The Facile System.</title>
+<pages>696-700</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#CiravegnaLMMGMFBRM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/CotterS00" mdate="2003-06-30">
+<author pid="35/2525">Paul Cotter</author>
+<author pid="s/BarrySmyth">Barry Smyth</author>
+<title>Personalisation Technologies for the Digital TV World.</title>
+<pages>701-705</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#CotterS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MaturanaBV00" mdate="2003-06-30">
+<author pid="96/4696">Francisco P. Maturana</author>
+<author pid="59/5416">Sivaram Balasubramanian</author>
+<author pid="59/3011">Dave Vasko</author>
+<title>An Autonomous Cooperative System for Material Handling Applications.</title>
+<pages>706-710</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MaturanaBV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MilneN00" mdate="2003-06-30">
+<author pid="m/RMilne">Robert Milne</author>
+<author pid="68/6821">Charlie Nicol</author>
+<title>Tiger: Continuous Diagnosis of Gas Turbines.</title>
+<pages>711-715</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MilneN00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/MontaniBRLPS00" mdate="2003-06-30">
+<author pid="m/StefaniaMontani">Stefania Montani</author>
+<author pid="27/3072">Riccardo Bellazzi</author>
+<author pid="14/3936">Alberto Riva</author>
+<author pid="57/1813">Cristiana Larizza</author>
+<author pid="39/3566">Luigi Portinale</author>
+<author pid="46/2882">Mario Stefanelli</author>
+<title>Artificial Intelligence Techniques for Diabetes Management: the T-IDDM Project.</title>
+<pages>716-720</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#MontaniBRLPS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Price00" mdate="2014-11-07">
+<author pid="56/5822">Chris J. Price</author>
+<title>Autosteve: Automated Electrical Design Analysis.</title>
+<pages>721-725</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Price00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/RajanBDGKKMMNRSTT00" mdate="2003-06-30">
+<author pid="22/999">Kanna Rajan</author>
+<author pid="27/2937">Douglas E. Bernard</author>
+<author pid="85/5247">Gregory Dorais</author>
+<author pid="33/310">Edward B. Gamble</author>
+<author pid="71/5065">Bob Kanefsky</author>
+<author pid="85/1519">James Kurien</author>
+<author pid="15/5524">William Millar</author>
+<author pid="22/5493">Nicola Muscettola</author>
+<author pid="57/2360">P. Pandurang Nayak</author>
+<author pid="56/3476">Nicolas F. Rouquette</author>
+<author pid="64/73">Benjamin D. Smith</author>
+<author pid="76/3537">William Taylor</author>
+<author pid="01/5528">Yu-Wen Tung</author>
+<title>Remote Agent: An Autonomous Control System for the New Millennium.</title>
+<pages>726-730</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#RajanBDGKKMMNRSTT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/GerritsS00" mdate="2003-06-30">
+<author pid="48/5511">Rik Gerrits</author>
+<author pid="00/5102">Silvie Spreeuwenberg</author>
+<title>VALENS: A Knowledge Based Tool to Validate and Verify an Aion Knowledge Base.</title>
+<pages>731-738</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#GerritsS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Bonissone00" mdate="2003-06-30">
+<author pid="b/PPBonissone">Piero P. Bonissone</author>
+<title>Hybrid Soft Computing: Where are we Going?</title>
+<pages>739-746</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Bonissone00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/DohrtyGKSNSW00" mdate="2004-11-19">
+<author pid="41/6174">Patrik Dohrty</author>
+<author pid="65/2029">G&#246;sta H. Granlund</author>
+<author pid="78/1283">Krzysztof Kuchcinski</author>
+<author pid="s/ErikSandewall">Erik Sandewall</author>
+<author pid="94/5686">Klas Nordberg</author>
+<author pid="61/3981">Erik Skarman</author>
+<author pid="70/6129">Johan Wiklund</author>
+<title>The WITAS Unmanned Aerial Vehicle Project.</title>
+<pages>747-755</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#DohrtyGKSNSW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Nardi00" mdate="2003-06-30">
+<author pid="n/DanieleNardi">Daniele Nardi</author>
+<title>Artificial Intelligence in RoboCup.</title>
+<pages>756-762</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Nardi00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Nebel00" mdate="2003-06-30">
+<author pid="n/BernhardNebel">Bernhard Nebel</author>
+<title>Knowledge Representation and Reasoning: The Theoretical Side of AI.</title>
+<pages>763-763</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Nebel00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Steels00" mdate="2003-06-30">
+<author pid="55/5357">Luc Steels</author>
+<title>The Emergence of Grammar in Communicating Autonomous Robotic Agents.</title>
+<pages>764-769</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Steels00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/Wallace00" mdate="2017-12-19">
+<author pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>Search in AI: Escaping from the CSP Straightjacket.</title>
+<pages>770-776</pages>
+<year>2000</year>
+<crossref>conf/ecai/2000</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2000.html#Wallace00</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

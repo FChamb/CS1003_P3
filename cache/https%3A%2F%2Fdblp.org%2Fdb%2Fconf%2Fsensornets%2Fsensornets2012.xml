@@ -1,0 +1,475 @@
+<bht key="db/conf/sensornets/sensornets2012.bht" title="International Conference on Sensor Networks 2012">  
+<h1><ref href="db/conf/sensornets/index.html">SENSORNETS</ref> 2012:
+Rome, Italy</h1> <dblpcites><r><proceedings key="conf/sensornets/2012" mdate="2012-05-08">
+<editor pid="s/MartenvanSinderen">Marten van Sinderen</editor>
+<editor pid="39/2760">Octavian Postolache</editor>
+<editor pid="14/6565">C&#233;sar Benavente-Peces</editor>
+<title>SENSORNETS 2012 - Proceedings of the 1st International Conference on Sensor Networks, Rome, Italy, 24-26 February, 2012</title>
+<booktitle>SENSORNETS</booktitle>
+<publisher>SciTePress</publisher>
+<year>2012</year>
+<isbn>978-989-8565-01-3</isbn>
+<url>db/conf/sensornets/sensornets2012.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Invited Speakers</h2> 
+<h3>Keynote Lectures</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/Sifakis12" mdate="2012-05-08">
+<author pid="s/JosephSifakis">Joseph Sifakis</author>
+<title>Trustworthy Computing Systems.</title>
+<pages>5</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#Sifakis12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/Lencioni12" mdate="2012-05-08">
+<author pid="77/11303">Paul Lencioni</author>
+<title>Embedded &#38; Interconnected Devices - Converting the Physical World into an Information System.</title>
+<pages>7</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#Lencioni12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/Marron12" mdate="2012-05-08">
+<author pid="65/3060">Pedro Jos&#233; Marr&#243;n</author>
+<title>Are We Ready to Go Large-scale? - Challenges in the Deployment and Maintenance of Heterogeneous Networks of Cooperating Objects.</title>
+<pages>9</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#Marron12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Sensor Networks Software and Architectures</h2> 
+<h3>Full Papers</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/MrazovacBKTV12" mdate="2012-05-08">
+<author pid="29/10233">Bojan Mrazovac</author>
+<author pid="92/8114">Milan Z. Bjelica</author>
+<author pid="89/5633">Dragan Kukolj</author>
+<author pid="21/10828">Branislav M. Todorovic</author>
+<author pid="81/11304">Sasa Vukosavljev</author>
+<title>Human Presence Detection using Radio Irregularity in Wireless Networks - Human Detection in Energy Aware Residential Networks.</title>
+<pages>5-14</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#MrazovacBKTV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/GonizziFGL12" mdate="2012-05-08">
+<author pid="72/11304">Pietro Gonizzi</author>
+<author pid="45/5951">Gianluigi Ferrari</author>
+<author pid="24/2689">Vincent Gay</author>
+<author pid="33/4545">Jeremie Leguay</author>
+<title>Redundant Distributed Data Storage - Experimentation with the SensLab Testbed.</title>
+<pages>15-23</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#GonizziFGL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/LinDL12" mdate="2012-05-08">
+<author pid="88/2478">Nan Lin</author>
+<author pid="43/502">Yabo Dong</author>
+<author pid="80/3109">Dongming Lu</author>
+<title>Fast Transparent Virtual Memory for Complex Data Processing in Sensor Networks.</title>
+<pages>24-34</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#LinDL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/HarveyDLS12" mdate="2019-03-22">
+<author pid="77/6861-2">Paul Harvey 0002</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="97/4717">Jonathan Lewis</author>
+<author pid="s/JSSventek">Joseph S. Sventek</author>
+<title>Channel and Active Component Abstractions for WSN Programming - A Language Model with Operating System Support.</title>
+<pages>35-44</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#HarveyDLS12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Short Papers</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/DoganB12" mdate="2012-05-08">
+<author pid="84/9661">Gulustan Dogan</author>
+<author pid="26/7038">Theodore Brown</author>
+<title>Using Provenance in Sensor Network Applications for Fault-tolerance and Troubleshooting - Position Paper.</title>
+<pages>47-52</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#DoganB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/BoersNGO12" mdate="2012-05-08">
+<author pid="67/6991">Nicholas M. Boers</author>
+<author pid="90/1785">Ioanis Nikolaidis</author>
+<author pid="83/2682">Pawel Gburzynski</author>
+<author pid="84/4142">Wladek Olesinski</author>
+<title>PicOS &#38; VNETI - Enabling Real Life Layer-less WSN Applications.</title>
+<pages>53-58</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#BoersNGO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/CecilioF12" mdate="2018-09-20">
+<author pid="65/8298">Jos&#233; Cec&#237;lio</author>
+<author pid="f/PedroFurtado">Pedro Furtado 0001</author>
+<title>Network Planning Tool with Traffic-adaptive Processing for Wireless Sensor Networks.</title>
+<pages>59-64</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#CecilioF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/StecklinaGG12" mdate="2012-05-08">
+<author pid="77/9207">Oliver Stecklina</author>
+<author pid="19/11304">Dieter Genschow</author>
+<author pid="32/11304">Christian Goltz</author>
+<title>TandemStack - A Flexible and Customizable Sensor Node Platform for Low Power Applications.</title>
+<pages>65-72</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#StecklinaGG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/GujratiS12" mdate="2012-05-08">
+<author pid="88/11303">Sumeet Gujrati</author>
+<author pid="s/GurdipSingh">Gurdip Singh</author>
+<title>Mutual Exclusion in Cyber-physical Systems.</title>
+<pages>73-79</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#GujratiS12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Posters</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/KamelJ12" mdate="2012-05-08">
+<author pid="82/617">Ibrahim Kamel</author>
+<author pid="80/8667">Hussam Juma</author>
+<title>Secure Delivery of Data in WSN .</title>
+<pages>83-86</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#KamelJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/AlQuraishiMH12" mdate="2012-05-08">
+<author pid="58/9920">Eman AlQuraishi</author>
+<author pid="48/7414">Paulvanna Nayaki Marimuthu</author>
+<author pid="h/SamiJHabib">Sami J. Habib</author>
+<title>Mobility Assisted Coverage Restoration Scheme in Wireless Sensor Networks.</title>
+<pages>87-90</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#AlQuraishiMH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/AronGP12" mdate="2019-01-15">
+<author pid="83/9337">Anania Aron</author>
+<author pid="76/9784">Gabriel Girban</author>
+<author pid="88/4157-1">Mircea Popa 0001</author>
+<title>On-line Monitoring of Battery State in Wireless Sensor Networks - Using Two Battery Models in WSN Constraints.</title>
+<pages>91-94</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#AronGP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/Hashish12" mdate="2012-05-08">
+<author pid="92/11303">Sonia Hashish</author>
+<title>Towards Increasing the Reusability of the Wireless Sensor Network Protocols.</title>
+<pages>95-98</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#Hashish12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/BacciuBCDGGGLLRRSV12" mdate="2016-01-13">
+<author pid="07/6626">Davide Bacciu</author>
+<author pid="32/5642">Mathias Broxvall</author>
+<author pid="18/1837">Sonya A. Coleman</author>
+<author pid="41/170">Mauro Dragone</author>
+<author pid="41/9473">Claudio Gallicchio</author>
+<author pid="68/4499">Claudio Gennaro</author>
+<author pid="57/11304">Roberto Guzm&#225;n</author>
+<author pid="69/11443">Rafa L&#243;pez</author>
+<author pid="00/3335">H&#233;ctor Lozano Peiteado</author>
+<author pid="38/6499">A. K. Ray</author>
+<author pid="79/11136">Arantxa Renter&#237;a</author>
+<author pid="29/1929">Alessandro Saffiotti</author>
+<author pid="30/7785">Claudio Vairo</author>
+<title>Self-sustaining Learning for Robotic Ecologies.</title>
+<pages>99-103</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#BacciuBCDGGGLLRRSV12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Wireless Information Networks</h2> 
+<h3>Short Paper</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/WanOOC12" mdate="2018-02-05">
+<author pid="22/2422-1">Jie Wan 0001</author>
+<author pid="o/MichaelJOGrady">Michael J. O'Grady</author>
+<author pid="o/GregoryMPOHare">Gregory M. P. O'Hare</author>
+<author pid="82/11303">Todor Colakov</author>
+<title>Browsing the Sensor Web - Pervasive Access for Wide-area Wireless Sensor Networks.</title>
+<pages>109-112</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#WanOOC12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Posters</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/PersiaC12" mdate="2012-05-08">
+<author pid="01/10660">Samuela Persia</author>
+<author pid="87/2897">Dajana Cassioli</author>
+<title>Energy/Latency Trade-offs in Geographic Routing for Ultrawideband Wireless Sensor Networks.</title>
+<pages>115-118</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#PersiaC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/BaoucheFM12" mdate="2012-05-08">
+<author pid="71/8080">Chakib Baouche</author>
+<author pid="36/5456">Antonio Freitas</author>
+<author pid="02/7030">Michel Misson</author>
+<title>Diffusion Behavior of IEEE 802.15.4 Unslotted CSMA/CA in a Cell of Proximity-based Localization Applications.</title>
+<pages>119-122</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#BaoucheFM12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Hardware</h2> 
+<h3>Full Paper</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/PeinadoM12" mdate="2012-05-08">
+<author pid="88/744">Alberto Peinado</author>
+<author pid="08/2219">Jorge Munilla</author>
+<title>Lightweight Authentication Protocols based on Rotations and the LPN Problem.</title>
+<pages>127-134</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#PeinadoM12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Manipulation</h2> 
+<h3>Full Paper</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/GadekeSSM12" mdate="2012-05-08">
+<author pid="73/8919">Tobias G&#228;deke</author>
+<author pid="20/752">Johannes Schmid</author>
+<author pid="28/6509">Wilhelm Stork</author>
+<author pid="m/KlausDMullerGlaser">Klaus D. M&#252;ller-Glaser</author>
+<title>Pedestrian Dead Reckoning as a Complementary Method for Wireless Sensor Network Ad-hoc Person Localization.</title>
+<pages>139-148</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#GadekeSSM12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Poster</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/DingYG12" mdate="2015-07-24">
+<author pid="88/4975">Zhiming Ding</author>
+<author pid="22/2344">Qi Yang</author>
+<author pid="05/2980-2">Limin Guo 0002</author>
+<title>A Relational Database and Key-value Store Combined Mechanism for Massive Heterogeneous Sensor Data Management.</title>
+<pages>151-154</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#DingYG12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Signal Processing</h2> 
+<h3>Full Paper</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/JiangMW12" mdate="2018-05-25">
+<author pid="16/3631-2">Hong Jiang 0002</author>
+<author pid="04/5820">Boyd Mathews</author>
+<author pid="62/695">Paul A. Wilford</author>
+<title>Sound Localization using Compressive Sensing.</title>
+<pages>159-166</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#JiangMW12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Short Paper</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/LiuWM12" mdate="2012-05-08">
+<author pid="59/3031">Guoliang Liu</author>
+<author pid="37/5353">Florentin W&#246;rg&#246;tter</author>
+<author pid="84/7557">Irene Markelic</author>
+<title>The Square-root Unscented Information Filter for State Estimation and Sensor Fusion.</title>
+<pages>169-173</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#LiuWM12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Poster</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/JnagKK12" mdate="2012-05-09">
+<author pid="27/10584">Tae-Su Jang</author>
+<author pid="05/3430">Kwan-Woong Kim</author>
+<author pid="96/5221">Yong-Kab Kim</author>
+<title>Controlling Chaotic Instabilities in Brillouin Fiber Sensor based on Neural Networks.</title>
+<pages>177-180</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#JnagKK12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Obstacles</h2> 
+<h3>Full Paper</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/EverLMNS12" mdate="2013-06-07">
+<author pid="41/6741">Enver Ever</author>
+<author pid="45/11303">R. Luchmun</author>
+<author pid="10/4346">Leonardo Mostarda</author>
+<author pid="n/AlfredoNavarra">Alfredo Navarra</author>
+<author pid="130/6514">Purav Shah</author>
+<title>UHEED - An Unequal Clustering Algorithm for Wireless Sensor Networks.</title>
+<pages>185-193</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#EverLMNS12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Short Papers</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/ZachariasNOL12" mdate="2012-05-08">
+<author pid="70/11303">Sven Zacharias</author>
+<author pid="02/3447">Thomas Newe</author>
+<author pid="84/11304">Sinead O'Keeffe</author>
+<author pid="85/4332">Elfed Lewis</author>
+<title>Coexistence of Different Wireless Sensor Networks - MAC Protocol Interference between X-MAC and Low Power Probing.</title>
+<pages>197-202</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#ZachariasNOL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/Coen-PorisiniS12" mdate="2012-05-08">
+<author pid="90/5778">Alberto Coen-Porisini</author>
+<author pid="05/6609">Sabrina Sicari</author>
+<title>Cross Layer Data Assessment in Wireless Sensor Networks.</title>
+<pages>203-208</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#Coen-PorisiniS12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Uses</h2> 
+<h3>Full Paper</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/DiracoLSGM12" mdate="2012-05-08">
+<author pid="58/6854">Giovanni Diraco</author>
+<author pid="81/3239">Alessandro Leone</author>
+<author pid="46/5521">Pietro Siciliano</author>
+<author pid="54/2022">Marco Grassi</author>
+<author pid="81/3724">Piero Malcovati</author>
+<title>A Multi-sensor System for Fall Detection in Ambient Assisted Living Contexts.</title>
+<pages>213-219</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#DiracoLSGM12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Short Papers</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/ZhaN12" mdate="2012-05-08">
+<author pid="87/293">Wei Zha</author>
+<author pid="n/WeeKeongNg">Wee Keong Ng</author>
+<title>Privacy-preserving In-network Aggregation in Wireless Sensor Network.</title>
+<pages>223-228</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#ZhaN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/Cierniewski12" mdate="2012-05-08">
+<author pid="86/9864">Jerzy Cierniewski</author>
+<title>Satellite Observation of Bare Soils for Their Average Diurnal Albedo Approximation.</title>
+<pages>229-234</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#Cierniewski12</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Poster</h3> 
+<dblpcites><r><inproceedings key="conf/sensornets/StolsmarkT12" mdate="2012-05-08">
+<author pid="25/11304">Ragnar St&#248;lsmark</author>
+<author pid="26/6537">Erlend T&#248;ssebro</author>
+<title>Uncertainty in Trilateration - Is RSSI-based Range Estimation Accurate Enough for Animal Tracking?</title>
+<pages>237-241</pages>
+<year>2012</year>
+<booktitle>SENSORNETS</booktitle>
+<crossref>conf/sensornets/2012</crossref>
+<url>db/conf/sensornets/sensornets2012.html#StolsmarkT12</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

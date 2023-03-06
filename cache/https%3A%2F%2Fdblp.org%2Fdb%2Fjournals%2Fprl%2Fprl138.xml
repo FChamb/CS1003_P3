@@ -1,0 +1,1296 @@
+<bht key="db/journals/prl/prl138.bht" title="Pattern Recognition Letters, Volume 138"> 
+<h1><ref href="db/journals/prl/index.html">Pattern Recognition Letters</ref>, Volume 138</h1> 
+<h2>Volume 138, October 2020</h2> International Conference on Image and Graphics (ICIG 2019) 
+<dblpcites><r style="ee"><article key="journals/prl/BonechiBSA20" mdate="2020-12-29">
+<author orcid="0000-0002-5540-3742" pid="167/1114">Simone Bonechi</author>
+<author pid="58/4974">Monica Bianchini</author>
+<author pid="71/2155">Franco Scarselli</author>
+<author pid="167/0877">Paolo Andreini</author>
+<title>Weak supervision for generating pixel-level annotations in scene text segmentation.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.023</ee>
+<url>db/journals/prl/prl138.html#BonechiBSA20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BaroTRCGL20" mdate="2021-10-14">
+<author pid="278/7756">Gretel Bernal Bar&#243;</author>
+<author orcid="0000-0001-7973-9075" pid="94/4588">Jos&#233; Francisco Mart&#237;nez Trinidad</author>
+<author orcid="0000-0001-9954-0653" pid="59/6181">Rosa Mar&#237;a Valdovinos Rosas</author>
+<author pid="88/6286">Jes&#250;s Ariel Carrasco-Ochoa</author>
+<author orcid="0000-0001-9971-0237" pid="10/2850">Ansel Y. Rodr&#237;guez Gonz&#225;lez</author>
+<author pid="00/961">Manuel S. Lazo-Cort&#233;s</author>
+<title>A PSO-based algorithm for mining association rules using a guided exploration strategy.</title>
+<pages>8-15</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.05.006</ee>
+<url>db/journals/prl/prl138.html#BaroTRCGL20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/SahaCKPMBS20" mdate="2021-09-16">
+<author orcid="0000-0003-1834-0495" pid="249/0598">Shaswata Saha</author>
+<author pid="196/7584">Neelotpal Chakraborty</author>
+<author pid="223/0064">Soumyadeep Kundu</author>
+<author pid="223/0059">Sayantan Paul</author>
+<author orcid="0000-0002-3445-7469" pid="97/7864">Ayatullah Faruk Mollah</author>
+<author orcid="0000-0003-1780-0461" pid="29/4599">Subhadip Basu</author>
+<author pid="03/5563">Ram Sarkar</author>
+<title>Multi-lingual scene text detection and language identification.</title>
+<pages>16-22</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.024</ee>
+<url>db/journals/prl/prl138.html#SahaCKPMBS20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/FontanellaCMFS20" mdate="2021-07-25">
+<author pid="50/5166">Francesco Fontanella</author>
+<author pid="62/291">Francesco Colace</author>
+<author pid="82/134">Mario Molinara</author>
+<author orcid="0000-0002-9642-3555" pid="22/6478">Alessandra Scotto di Freca</author>
+<author orcid="0000-0003-3865-9911" pid="93/1218">Filippo Stanco</author>
+<title>Pattern recognition and artificial intelligence techniques for cultural heritage.</title>
+<pages>23-29</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.018</ee>
+<url>db/journals/prl/prl138.html#FontanellaCMFS20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/VitaBD20" mdate="2022-08-16">
+<author orcid="0000-0002-6709-8001" pid="223/9184">Fabrizio De Vita</author>
+<author pid="60/2255">Dario Bruneo</author>
+<author pid="d/SajalKDas">Sajal K. Das 0001</author>
+<title>On the use of a full stack hardware/software infrastructure for sensor data fusion and fault prediction in industry 4.0.</title>
+<pages>30-37</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.028</ee>
+<ee>https://www.wikidata.org/entity/Q111901297</ee>
+<url>db/journals/prl/prl138.html#VitaBD20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/WangY20" mdate="2020-11-18">
+<author pid="76/6446">Shiwei Wang</author>
+<author pid="27/9964">Haibin Yan</author>
+<title>Discriminative sampling via deep reinforcement learning for kinship verification.</title>
+<pages>38-43</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.019</ee>
+<url>db/journals/prl/prl138.html#WangY20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/Yousef20" mdate="2021-06-04">
+<author orcid="0000-0001-9669-7241" pid="26/1956">Waleed A. Yousef</author>
+<title>Prudence when assuming normality: An advice for machine learning practitioners.</title>
+<pages>44-50</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.026</ee>
+<url>db/journals/prl/prl138.html#Yousef20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/SongQZJXTWM20" mdate="2021-10-14">
+<author pid="55/3110">Xin Song</author>
+<author orcid="0000-0002-5596-3694" pid="37/11359">Pengjiang Qian</author>
+<author pid="204/8377">Jiamin Zheng</author>
+<author pid="132/8904">Yizhang Jiang</author>
+<author pid="69/9300">Kaijian Xia</author>
+<author orcid="0000-0002-7391-6517" pid="226/8543">Bryan J. Traughber</author>
+<author orcid="0000-0002-7153-9703" pid="52/2631">Dongrui Wu</author>
+<author pid="40/905">Raymond F. Muzic Jr.</author>
+<title>mDixon-based synthetic CT generation via transfer and patch learning.</title>
+<pages>51-59</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.017</ee>
+<url>db/journals/prl/prl138.html#SongQZJXTWM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LimCCK20" mdate="2021-09-16">
+<author orcid="0000-0002-3741-5010" pid="145/0211">Hyunki Lim</author>
+<author pid="120/8562">Heeseung Choi</author>
+<author pid="177/2680">Yeji Choi</author>
+<author orcid="0000-0002-2741-7047" pid="27/4612">Ig-Jae Kim</author>
+<title>Memetic algorithm for multivariate time-series segmentation.</title>
+<pages>60-67</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.022</ee>
+<url>db/journals/prl/prl138.html#LimCCK20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/Basurto-LozadaH20" mdate="2020-12-29">
+<author pid="278/7700">Daniela Basurto-Lozada</author>
+<author pid="278/7701">Adeline Hillier</author>
+<author pid="254/1989">David Medina</author>
+<author pid="243/2184">Dagoberto Pulido</author>
+<author pid="45/1718">Sertac Karaman</author>
+<author orcid="0000-0002-0012-7963" pid="93/2942">Joaqu&#237;n Salas</author>
+<title>Dynamics of soil surface temperature with unmanned aerial systems.</title>
+<pages>68-74</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.003</ee>
+<url>db/journals/prl/prl138.html#Basurto-LozadaH20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/PretoriusKK20" mdate="2021-10-14">
+<author pid="188/4368">Arnu Pretorius</author>
+<author orcid="0000-0003-2980-3475" pid="99/10648">Herman Kamper</author>
+<author orcid="0000-0001-5625-8623" pid="116/2771">Steve Kroon</author>
+<title>On the expected behaviour of noise regularised deep neural networks as Gaussian processes.</title>
+<pages>75-81</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.027</ee>
+<url>db/journals/prl/prl138.html#PretoriusKK20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LiuSLGWW20" mdate="2021-09-16">
+<author orcid="0000-0002-4961-7074" pid="01/2537-12">Jin Liu 0012</author>
+<author pid="77/2258">Yu Sheng</author>
+<author orcid="0000-0001-5839-7504" pid="53/9999">Wei Lan</author>
+<author pid="19/113">Rui Guo</author>
+<author pid="61/5568">Yufei Wang</author>
+<author pid="75/2669-1">Jianxin Wang 0001</author>
+<title>Improved ASD classification using dynamic functional connectivity and multi-task feature selection.</title>
+<pages>82-87</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.005</ee>
+<url>db/journals/prl/prl138.html#LiuSLGWW20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/MaityJGCM20" mdate="2021-09-16">
+<author orcid="0000-0002-8161-4105" pid="185/7999">Maitreya Maity</author>
+<author orcid="0000-0002-3921-2866" pid="160/6020">Ayush Jaiswal</author>
+<author pid="248/9864">Kripasindhu Gantait</author>
+<author pid="51/11311">Jyotirmoy Chatterjee</author>
+<author pid="53/3573-1">Anirban Mukherjee 0001</author>
+<title>Quantification of malaria parasitaemia using trainable semantic segmentation and capsnet.</title>
+<pages>88-94</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.002</ee>
+<url>db/journals/prl/prl138.html#MaityJGCM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/PretoriusBNERJR20" mdate="2021-10-14">
+<author pid="188/4368">Arnu Pretorius</author>
+<author pid="230/4367">Elan Van Biljon</author>
+<author pid="169/9023">Benjamin van Niekerk</author>
+<author pid="230/3975">Ryan Eloff</author>
+<author pid="250/9621">Matthew Reynard</author>
+<author orcid="0000-0003-4366-4125" pid="241/5166">Steven D. James</author>
+<author orcid="0000-0002-0284-4114" pid="45/4591">Benjamin Rosman</author>
+<author orcid="0000-0003-2980-3475" pid="99/10648">Herman Kamper</author>
+<author orcid="0000-0001-5625-8623" pid="116/2771">Steve Kroon</author>
+<title>If dropout limits trainable depth, does critical initialisation still matter? A large-scale statistical analysis on ReLU networks.</title>
+<pages>95-105</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.06.025</ee>
+<url>db/journals/prl/prl138.html#PretoriusBNERJR20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/MuL20" mdate="2022-02-01">
+<author orcid="0000-0003-4982-9787" pid="254/0290">Lide Mu</author>
+<author pid="48/4950-3">Huafeng Liu 0003</author>
+<title>Noninvasive electrocardiographic imaging with low-rank and non-local total variation regularization.</title>
+<pages>106-114</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee type="oa">https://doi.org/10.1016/j.patrec.2020.07.007</ee>
+<url>db/journals/prl/prl138.html#MuL20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/Serratosa20a" mdate="2020-12-29">
+<author orcid="0000-0001-6112-5913" pid="22/1874">Francesc Serratosa</author>
+<title>A general model to define the substitution, insertion and deletion graph edit costs based on an embedded space.</title>
+<pages>115-122</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.010</ee>
+<url>db/journals/prl/prl138.html#Serratosa20a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BarraBNN20" mdate="2020-12-29">
+<author orcid="0000-0002-7692-0626" pid="231/8705">Paola Barra</author>
+<author orcid="0000-0003-4042-3000" pid="152/7431">Silvio Barra</author>
+<author pid="35/2888">Michele Nappi</author>
+<author orcid="0000-0003-4879-7138" pid="94/10571">Fabio Narducci</author>
+<title>SAFFO: A SIFT based approach for digital anastylosis for fresco recOnstruction.</title>
+<pages>123-129</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.008</ee>
+<url>db/journals/prl/prl138.html#BarraBNN20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BurdissoEM20" mdate="2023-01-23">
+<author pid="224/2038">Sergio Gast&#243;n Burdisso</author>
+<author pid="66/1156">Marcelo Errecalde</author>
+<author pid="56/2154">Manuel Montes-y-G&#243;mez</author>
+<title><i>&#964;</i>-SS3: A text classifier with dynamic n-grams for early risk detection over text streams.</title>
+<pages>130-137</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.001</ee>
+<url>db/journals/prl/prl138.html#BurdissoEM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ByunH20" mdate="2021-05-14">
+<author orcid="0000-0002-1248-292X" pid="177/7380">Jung-Hyun Byun</author>
+<author pid="79/2684">Tack-Don Han</author>
+<title>Axis bound registration of pan-tilt RGB-D scans for fast and accurate reconstruction.</title>
+<pages>138-145</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee type="oa">https://doi.org/10.1016/j.patrec.2020.07.016</ee>
+<url>db/journals/prl/prl138.html#ByunH20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/FuruyaO20" mdate="2021-09-16">
+<author orcid="0000-0001-9976-0330" pid="57/1639">Takahiko Furuya</author>
+<author orcid="0000-0002-7605-9135" pid="57/3819">Ryutarou Ohbuchi</author>
+<title>Transcoding across 3D shape representations for unsupervised learning of 3D shape feature.</title>
+<pages>146-154</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.012</ee>
+<url>db/journals/prl/prl138.html#FuruyaO20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/GigliVM20" mdate="2020-12-31">
+<author orcid="0000-0002-4393-4554" pid="226/2605">Leonardo Gigli</author>
+<author pid="92/8616">Santiago Velasco-Forero</author>
+<author pid="63/3229">Beatriz Marcotegui</author>
+<title>On minimum spanning tree streaming for hierarchical segmentation.</title>
+<pages>155-162</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.006</ee>
+<url>db/journals/prl/prl138.html#GigliVM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ZhaoZLF20" mdate="2021-09-16">
+<author pid="50/5032">Ling Zhao</author>
+<author pid="278/7787">Ailian Zhang</author>
+<author pid="91/112">Ying Liu</author>
+<author orcid="0000-0003-3026-6347" pid="81/3569-1">Hao Fei 0001</author>
+<title>Encoding multi-granularity structural information for joint Chinese word segmentation and POS tagging.</title>
+<pages>163-169</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.017</ee>
+<url>db/journals/prl/prl138.html#ZhaoZLF20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/JiHHHP20" mdate="2021-09-16">
+<author orcid="0000-0002-2197-3739" pid="36/6466">Zhong Ji</author>
+<author pid="278/7777">Zhenfei Hu</author>
+<author pid="240/1897">Erlu He</author>
+<author pid="98/6127">Jungong Han</author>
+<author orcid="0000-0001-6670-3727" pid="35/5889">Yanwei Pang</author>
+<title>Pedestrian attribute recognition based on multiple time steps attention.</title>
+<pages>170-176</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.018</ee>
+<url>db/journals/prl/prl138.html#JiHHHP20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/Rodriguez-DiezT20" mdate="2021-10-14">
+<author orcid="0000-0003-0645-3716" pid="159/2690">Vladimir Rodr&#237;guez-Diez</author>
+<author orcid="0000-0001-7973-9075" pid="94/4588">Jos&#233; Francisco Mart&#237;nez Trinidad</author>
+<author pid="88/6286">Jes&#250;s Ariel Carrasco-Ochoa</author>
+<author pid="00/961">Manuel S. Lazo-Cort&#233;s</author>
+<author pid="94/111">J. Arturo Olvera-L&#243;pez</author>
+<title>MinReduct: A new algorithm for computing the shortest reducts.</title>
+<pages>177-184</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.004</ee>
+<url>db/journals/prl/prl138.html#Rodriguez-DiezT20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/FardTG20" mdate="2020-11-18">
+<author pid="222/2634">Maziar Moradi Fard</author>
+<author pid="160/9125">Thibaut Thonet</author>
+<author pid="76/309">&#201;ric Gaussier</author>
+<title>Deep <i>k</i>-Means: Jointly clustering with <i>k</i>-Means and learning representations.</title>
+<pages>185-192</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.028</ee>
+<url>db/journals/prl/prl138.html#FardTG20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ChenQHLTZZ20" mdate="2021-09-16">
+<author orcid="0000-0002-5506-8913" pid="62/1656">Qingfeng Chen</author>
+<author pid="278/7758">Yulu Qiao</author>
+<author pid="61/8489">Fang Hu</author>
+<author pid="37/1386">Yongjie Li</author>
+<author pid="63/2156">Kai Tan</author>
+<author pid="94/2339">Mingrui Zhu</author>
+<author orcid="0000-0001-5715-7154" pid="71/964">Chengqi Zhang</author>
+<title>Community detection in complex network based on APT method.</title>
+<pages>193-200</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.021</ee>
+<url>db/journals/prl/prl138.html#ChenQHLTZZ20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/PassatKV20" mdate="2020-12-29">
+<author pid="83/4955">Nicolas Passat</author>
+<author orcid="0000-0001-9254-7537" pid="98/9838">Camille Kurtz</author>
+<author pid="60/4730">Antoine Vacavant</author>
+<title>Editorial - Virtual Special Issue: &#34;Hierarchical Representations: New Results and Challenges for Image Analysis&#34;.</title>
+<pages>201-203</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.019</ee>
+<url>db/journals/prl/prl138.html#PassatKV20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LiuLQ20" mdate="2020-11-18">
+<author pid="92/9611">Weidong Liu</author>
+<author pid="76/1820">Xin Liu</author>
+<author pid="73/10798">Wenbo Qiao</author>
+<title>Probabilistic graph-based valuation model for measuring the relative patent value in a valuation scenario.</title>
+<pages>204-210</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.023</ee>
+<url>db/journals/prl/prl138.html#LiuLQ20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/Wang20" mdate="2020-11-18">
+<author pid="05/4483">Weihan Wang</author>
+<title>MAGAN: A masked autoencoder generative adversarial network for processing missing IoT sequence data.</title>
+<pages>211-216</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.025</ee>
+<url>db/journals/prl/prl138.html#Wang20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ZhaoWXSJW20" mdate="2020-11-18">
+<author pid="171/3345">Jinyuan Zhao</author>
+<author pid="81/3479">Yanna Wang</author>
+<author pid="13/776">Baihua Xiao</author>
+<author pid="42/11339">Cunzhao Shi</author>
+<author pid="278/7769">Jingzhong Jiang</author>
+<author pid="52/871">Chunheng Wang</author>
+<title>Adversarial learning based attentional scene text recognizer.</title>
+<pages>217-222</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.027</ee>
+<url>db/journals/prl/prl138.html#ZhaoWXSJW20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BahetiIGT20" mdate="2022-04-09">
+<author pid="219/9851">Bhakti Baheti</author>
+<author pid="263/7046">Shubham Innani</author>
+<author orcid="0000-0002-7021-3453" pid="288/6063">Suhas S. Gajre</author>
+<author orcid="0000-0002-0111-4910" pid="39/7796">Sanjay N. Talbar</author>
+<title>Semantic scene segmentation in unstructured environment with modified DeepLabV3+.</title>
+<pages>223-229</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.029</ee>
+<url>db/journals/prl/prl138.html#BahetiIGT20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/YuXZ20" mdate="2020-11-18">
+<author pid="55/6749">Hong Yu</author>
+<author pid="07/5025">Jing Xiong</author>
+<author pid="98/2352">Xiaoxia Zhang</author>
+<title>Multi-view clustering by exploring complex mapping relationship between views.</title>
+<pages>230-236</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.031</ee>
+<url>db/journals/prl/prl138.html#YuXZ20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/WangXHW20" mdate="2020-11-18">
+<author pid="127/1441">Zhoufeng Wang</author>
+<author pid="15/1056">Jianwei Xu</author>
+<author pid="264/1179">Xiangqi He</author>
+<author pid="59/4472">Yujun Wang</author>
+<title>Analysis of spatiotemporal influence patterns of toxic gas monitoring concentrations in an urban drainage network based on IoT and GIS.</title>
+<pages>237-246</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.022</ee>
+<url>db/journals/prl/prl138.html#WangXHW20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/JoshiMD20" mdate="2021-09-16">
+<author orcid="0000-0002-4814-9555" pid="52/3684">Mahesh Joshi</author>
+<author pid="79/11161">Bodhisatwa Mazumdar</author>
+<author pid="86/1192">Somnath Dey</author>
+<title>A comprehensive security analysis of match-in-database fingerprint biometric system.</title>
+<pages>247-266</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.024</ee>
+<url>db/journals/prl/prl138.html#JoshiMD20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LinLNDO20" mdate="2021-10-14">
+<author orcid="0000-0002-4595-4049" pid="85/10305">Dongyun Lin</author>
+<author orcid="0000-0001-6400-5458" pid="12/289">Yiqun Li</author>
+<author pid="19/2769">Tin Lay Nwe</author>
+<author pid="99/7713">Sheng Dong</author>
+<author pid="277/5803">Zaw Min Oo</author>
+<title>RefineU-Net: Improved U-Net with progressive global feedbacks and residual attention guided local refinement for medical image segmentation.</title>
+<pages>267-275</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.013</ee>
+<url>db/journals/prl/prl138.html#LinLNDO20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/IgnatovI20" mdate="2021-09-16">
+<author orcid="0000-0002-6339-1200" pid="191/4777">Dmitry Ignatov</author>
+<author pid="199/2294">Andrey Ignatov</author>
+<title>Controlling information capacity of binary neural network.</title>
+<pages>276-281</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.033</ee>
+<url>db/journals/prl/prl138.html#IgnatovI20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BeheraSB20" mdate="2020-12-29">
+<author pid="278/7674">Nayan Kumar Subhashis Behera</author>
+<author pid="53/2452">Pankaj Kumar Sa</author>
+<author orcid="0000-0002-6107-114X" pid="89/9553">Sambit Bakshi</author>
+<title>Person re-identification for smart cities: State-of-the-art and the path ahead.</title>
+<pages>282-289</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.030</ee>
+<url>db/journals/prl/prl138.html#BeheraSB20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/TumraniDLS20" mdate="2022-10-02">
+<author orcid="0000-0002-6221-3488" pid="252/0167">Saifullah Tumrani</author>
+<author pid="252/0068">Zhiyi Deng</author>
+<author pid="245/4842">Haoyang Lin</author>
+<author orcid="0000-0003-2615-1555" pid="02/5139">Jie Shao</author>
+<title>Partial attention and multi-attribute learning for vehicle re-identification.</title>
+<pages>290-297</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.034</ee>
+<url>db/journals/prl/prl138.html#TumraniDLS20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/CuiDWYLHMGZ20" mdate="2021-09-16">
+<author orcid="0000-0003-2047-2091" pid="78/8387">Wenting Cui</author>
+<author orcid="0000-0002-7092-0596" pid="40/4846">Shaoyi Du</author>
+<author pid="195/2161">Teng Wan</author>
+<author pid="278/7677">Runzhao Yao</author>
+<author pid="207/5422">Yuying Liu</author>
+<author pid="194/7004">Mengqi Han</author>
+<author orcid="0000-0001-7044-6938" pid="255/6300">Qingnan Mou</author>
+<author pid="219/8410">Yu-Cheng Guo</author>
+<author pid="07/256-1">Nanning Zheng 0001</author>
+<title>Robust and precise isotropic scaling registration algorithm using bi-directional distance and correntropy.</title>
+<pages>298-304</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.026</ee>
+<url>db/journals/prl/prl138.html#CuiDWYLHMGZ20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BasuMP20" mdate="2020-11-20">
+<author pid="29/4599">Subhadip Basu</author>
+<author pid="93/3249">Ujjwal Maulik</author>
+<author pid="p/UmapadaPal">Umapada Pal 0001</author>
+<title>Special issue on deep learning for video text analysis.</title>
+<pages>305-307</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.036</ee>
+<url>db/journals/prl/prl138.html#BasuMP20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/XieBWZSH20" mdate="2020-11-18">
+<author pid="22/6484">Junyi Xie</author>
+<author pid="180/2219">Hao Bian</author>
+<author pid="189/9412">Yuanhang Wu</author>
+<author pid="57/2056">Yu Zhao</author>
+<author pid="278/7730">Linmin Shan</author>
+<author pid="122/3198">Shijie Hao</author>
+<title>Semantically-guided low-light image enhancement.</title>
+<pages>308-314</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.041</ee>
+<url>db/journals/prl/prl138.html#XieBWZSH20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/QiaoJTLC20" mdate="2021-10-14">
+<author orcid="0000-0003-4586-3152" pid="150/6671">Yiguo Qiao</author>
+<author orcid="0000-0003-3354-9617" pid="40/3714">Licheng Jiao</author>
+<author pid="123/7064">Xu Tang</author>
+<author pid="27/1736-2">Wenbin Li 0002</author>
+<author orcid="0000-0001-5177-4741" pid="79/608">Darren Cosker</author>
+<title>High-quality depth up-sampling via a supervised classification guided MRF model.</title>
+<pages>315-320</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.011</ee>
+<url>db/journals/prl/prl138.html#QiaoJTLC20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/Solorio-Fernandez20" mdate="2021-10-14">
+<author orcid="0000-0002-4674-852X" pid="55/9844">Sa&#250;l Solorio-Fern&#225;ndez</author>
+<author orcid="0000-0001-7973-9075" pid="94/4588">Jos&#233; Fco. Mart&#237;nez-Trinidad</author>
+<author pid="88/6286">Jes&#250;s Ariel Carrasco-Ochoa</author>
+<title>A Supervised Filter Feature Selection method for mixed data based on Spectral Feature Selection and Information-theory redundancy analysis.</title>
+<pages>321-328</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.039</ee>
+<url>db/journals/prl/prl138.html#Solorio-Fernandez20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/WangGTLQG20" mdate="2021-09-16">
+<author orcid="0000-0003-1547-9635" pid="62/3151-8">Song Wang 0008</author>
+<author pid="17/1430-5">Xin Guo 0005</author>
+<author pid="66/1748">Yun Tie</author>
+<author pid="54/5625">Ivan Lee</author>
+<author pid="82/3116-1">Lin Qi 0001</author>
+<author pid="66/4324">Ling Guan</author>
+<title>Weighted hybrid fusion with rank consistency.</title>
+<pages>329-335</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.037</ee>
+<url>db/journals/prl/prl138.html#WangGTLQG20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/YilmazAK20" mdate="2022-04-09">
+<author pid="208/1294">Bedir Yilmaz</author>
+<author orcid="0000-0002-2602-7805" pid="45/2479">Siti Norul Huda Sheikh Abdullah</author>
+<author pid="153/1795">Ven Jyn Kok</author>
+<title>Vanishing region loss for crowd density estimation.</title>
+<pages>336-345</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.001</ee>
+<url>db/journals/prl/prl138.html#YilmazAK20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/RossBC20" mdate="2021-09-16">
+<author orcid="0000-0001-8850-3013" pid="r/ArunRoss">Arun Ross</author>
+<author orcid="0000-0003-1623-7697" pid="152/7639">Sudipta Banerjee</author>
+<author orcid="0000-0001-8758-988X" pid="192/4596">Anurag Chowdhury</author>
+<title>Security in smart cities: A brief review of digital forensic schemes for biometric data.</title>
+<pages>346-354</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.009</ee>
+<url>db/journals/prl/prl138.html#RossBC20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/SanchezFLLS20" mdate="2021-12-25">
+<author pid="59/5985">Adri&#225;n Pe&#241;ate S&#225;nchez</author>
+<author orcid="0000-0003-2378-4277" pid="157/2453">David Freire-Obreg&#243;n</author>
+<author orcid="0000-0002-8140-6197" pid="278/7719">Adri&#225;n Lorenzo-Meli&#225;n</author>
+<author orcid="0000-0002-2834-2067" pid="l/JavierLorenzoNavarro">Javier Lorenzo-Navarro</author>
+<author orcid="0000-0002-8673-2725" pid="s/ModestoCastrillonSantana">Modesto Castrill&#243;n Santana</author>
+<title>TGC20ReId: A dataset for sport event re-identification in the wild.</title>
+<pages>355-361</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.003</ee>
+<url>db/journals/prl/prl138.html#SanchezFLLS20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BartolucciP20" mdate="2020-11-18">
+<author pid="30/3442">Francesco Bartolucci</author>
+<author pid="63/9381">Silvia Pandolfi</author>
+<title>An exact algorithm for time-dependent variational inference for the dynamic stochastic block model.</title>
+<pages>362-369</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.014</ee>
+<url>db/journals/prl/prl138.html#BartolucciP20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ZhangLLMYX20" mdate="2021-10-14">
+<author orcid="0000-0003-3661-7312" pid="152/4203">Juncheng Zhang</author>
+<author pid="13/322">Qingmin Liao</author>
+<author orcid="0000-0002-9201-9301" pid="89/3042">Shaojun Liu</author>
+<author pid="144/1634">Haoyu Ma</author>
+<author pid="75/2339">Wenming Yang</author>
+<author orcid="0000-0003-1174-610X" pid="72/1980">Jing-Hao Xue</author>
+<title>Real-MFF: A large realistic multi-focus image dataset with ground truth.</title>
+<pages>370-377</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.002</ee>
+<url>db/journals/prl/prl138.html#ZhangLLMYX20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LiPQP20" mdate="2021-09-16">
+<author orcid="0000-0003-1132-8776" pid="181/2689">Qing Li</author>
+<author pid="133/6556">Xiaojiang Peng</author>
+<author pid="q/YuQiao1">Yu Qiao 0001</author>
+<author pid="09/3920">Qiang Peng</author>
+<title>Learning label correlations for multi-label image recognition with graph networks.</title>
+<pages>378-384</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.040</ee>
+<url>db/journals/prl/prl138.html#LiPQP20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/NayakDM20" mdate="2020-12-29">
+<author orcid="0000-0002-8929-5778" pid="70/7730">Deepak Ranjan Nayak</author>
+<author pid="70/9321">Ratnakar Dash</author>
+<author pid="09/1560">Banshidhar Majhi</author>
+<title>Automated diagnosis of multi-class brain abnormalities using MRI images: A deep convolutional neural network based method.</title>
+<pages>385-391</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.04.018</ee>
+<url>db/journals/prl/prl138.html#NayakDM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/GoswamiS20" mdate="2021-09-16">
+<author orcid="0000-0002-5499-8748" pid="278/7786">Suranjan Goswami</author>
+<author orcid="0000-0002-8536-4991" pid="42/1440">Satish Kumar Singh</author>
+<title>A simple deep learning based image illumination correction method for paintings.</title>
+<pages>392-396</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.013</ee>
+<url>db/journals/prl/prl138.html#GoswamiS20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ZhaoZXCW20" mdate="2021-09-16">
+<author pid="11/8078">Jinghua Zhao</author>
+<author pid="150/7317">Da-Lin Zeng</author>
+<author orcid="0000-0003-2095-3477" pid="224/2190">Yujie Xiao</author>
+<author pid="278/7672">Liping Che</author>
+<author pid="93/9728">Mengjiao Wang</author>
+<title>User personality prediction based on topic preference and sentiment analysis using LSTM model.</title>
+<pages>397-402</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.035</ee>
+<url>db/journals/prl/prl138.html#ZhaoZXCW20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LiLZW20" mdate="2021-09-16">
+<author orcid="0000-0002-6141-5221" pid="278/7713">Sishang Li</author>
+<author orcid="0000-0003-0077-9715" pid="08/6294">Xueliang Liu</author>
+<author pid="72/6144-1">Ye Zhao 0001</author>
+<author pid="93/6765-1">Meng Wang 0001</author>
+<title>Person re-identification based on multi-scale constraint network.</title>
+<pages>403-409</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.012</ee>
+<url>db/journals/prl/prl138.html#LiLZW20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/WangDSWT20" mdate="2022-08-04">
+<author pid="172/4647">Mengyin Wang</author>
+<author pid="145/4226">Xiaoyu Du</author>
+<author orcid="0000-0003-4902-4663" pid="169/3410">Xiangbo Shu</author>
+<author pid="82/1331-7">Xun Wang 0007</author>
+<author orcid="0000-0001-9008-222X" pid="75/1030">Jinhui Tang 0001</author>
+<title>Deep supervised feature selection for social relationship recognition.</title>
+<pages>410-416</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.005</ee>
+<url>db/journals/prl/prl138.html#WangDSWT20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LermeHZA20" mdate="2022-04-09">
+<author pid="152/2298">Nicolas Lerm&#233;</author>
+<author orcid="0000-0001-8494-2289" pid="72/6122">Sylvie Le H&#233;garat-Mascle</author>
+<author pid="34/10139">Boyang Zhang</author>
+<author pid="76/456">Emanuel Aldea</author>
+<title>Fast and efficient reconstruction of digitized frescoes.</title>
+<pages>417-423</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.006</ee>
+<url>db/journals/prl/prl138.html#LermeHZA20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/AmiraXDZZH20" mdate="2022-04-09">
+<author pid="269/5458">Ouafa Amira</author>
+<author pid="87/1436">Shuang Xu</author>
+<author pid="14/2676">Fang Du</author>
+<author pid="74/982-1">Jiangshe Zhang 0001</author>
+<author orcid="0000-0002-1456-681X" pid="69/5538-2">Chunxia Zhang 0002</author>
+<author orcid="0000-0003-4253-9285" pid="195/3333">Rafik Hamza</author>
+<title>Weighted-capsule routing via a fuzzy gaussian model.</title>
+<pages>424-430</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.009</ee>
+<url>db/journals/prl/prl138.html#AmiraXDZZH20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/Dimov20" mdate="2020-11-18">
+<author pid="133/9851">Dimo T. Dimov</author>
+<title>Rotation-invariant NCC for 2D color matching of arbitrary shaped fragments of a fresco.</title>
+<pages>431-438</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.010</ee>
+<url>db/journals/prl/prl138.html#Dimov20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BeraDBM20" mdate="2021-10-14">
+<author orcid="0000-0002-0872-0331" pid="260/1802">Basudeb Bera</author>
+<author orcid="0000-0002-5196-9589" pid="39/871">Ashok Kumar Das</author>
+<author pid="03/1643">Walter Balzano</author>
+<author pid="84/7176">Carlo Maria Medaglia</author>
+<title>On the design of biometric-based user authentication protocol in smart city environment.</title>
+<pages>439-446</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.017</ee>
+<url>db/journals/prl/prl138.html#BeraDBM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BalreiraFW20" mdate="2021-09-16">
+<author orcid="0000-0002-0801-9393" pid="208/7522">Dennis Giovani Balreira</author>
+<author orcid="0000-0003-1206-2797" pid="135/0791">Danilo Marcondes Filho</author>
+<author orcid="0000-0002-5634-8765" pid="79/1265">Marcelo Walter</author>
+<title>Assessing similarity in handwritten texts.</title>
+<pages>447-454</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.011</ee>
+<url>db/journals/prl/prl138.html#BalreiraFW20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/AvolaCMFF20" mdate="2021-09-16">
+<author orcid="0000-0001-9437-6217" pid="91/3593">Danilo Avola</author>
+<author pid="64/4176">Luigi Cinque</author>
+<author orcid="0000-0002-1391-8502" pid="75/7001">Maria De Marsico</author>
+<author orcid="0000-0002-8111-9120" pid="143/4807-1">Alessio Fagioli 0001</author>
+<author orcid="0000-0002-8425-6892" pid="93/5522">Gian Luca Foresti</author>
+<title>LieToMe: Preliminary study on hand gestures for deception detection via Fisher-LSTM.</title>
+<pages>455-461</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.014</ee>
+<url>db/journals/prl/prl138.html#AvolaCMFF20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LiuWWZGWX20" mdate="2022-12-07">
+<author pid="186/6843">Yanbei Liu</author>
+<author pid="19/1924-40">Qi Wang 0040</author>
+<author pid="49/67">Xiao Wang</author>
+<author pid="79/1363-1">Fang Zhang 0001</author>
+<author orcid="0000-0002-5010-2596" pid="26/2190">Lei Geng</author>
+<author pid="20/3894-14">Jun Wu 0014</author>
+<author pid="95/1423">Zhitao Xiao</author>
+<title>Community enhanced graph convolutional networks.</title>
+<pages>462-468</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.015</ee>
+<url>db/journals/prl/prl138.html#LiuWWZGWX20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/XueWZZY20" mdate="2020-11-18">
+<author pid="03/517">Feng Xue</author>
+<author pid="132/5158">Wenbo Wang</author>
+<author pid="137/9454">Wenjie Zhou</author>
+<author pid="63/3737">Tao Zeng</author>
+<author pid="62/772">Tian Yang</author>
+<title>Cross-modal retrieval via label category supervised matrix factorization hashing.</title>
+<pages>469-475</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.007</ee>
+<url>db/journals/prl/prl138.html#XueWZZY20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LiZLGZ20" mdate="2020-12-29">
+<author orcid="0000-0003-3553-0813" pid="70/1726-6">Meng Li 0006</author>
+<author pid="92/573">Keli Zhang</author>
+<author pid="46/4291">Jiamou Liu</author>
+<author pid="235/3101">Hanxiao Gong</author>
+<author pid="43/6524-1">Zijian Zhang 0001</author>
+<title>Blockchain-based anomaly detection of electricity consumption in smart grids.</title>
+<pages>476-482</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.020</ee>
+<url>db/journals/prl/prl138.html#LiZLGZ20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/BoydFCB20" mdate="2021-09-16">
+<author orcid="0000-0001-9756-0570" pid="259/0623">Aidan Boyd</author>
+<author pid="02/9423">Zhaoyuan Fang</author>
+<author orcid="0000-0003-2379-2533" pid="39/2720">Adam Czajka</author>
+<author pid="b/KevinWBowyer">Kevin W. Bowyer</author>
+<title>Iris presentation attack detection: Where are we now?</title>
+<pages>483-489</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.018</ee>
+<url>db/journals/prl/prl138.html#BoydFCB20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/SantosRRM20" mdate="2020-12-29">
+<author pid="207/6956">Brucce Neves dos Santos</author>
+<author pid="82/10167">Rafael Geraldeli Rossi</author>
+<author orcid="0000-0002-5233-7639" pid="90/5551">Solange Oliveira Rezende</author>
+<author orcid="0000-0002-2309-3487" pid="69/8767">Ricardo Marcondes Marcacini</author>
+<title>A two-stage regularization framework for heterogeneous event networks.</title>
+<pages>490-496</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.019</ee>
+<url>db/journals/prl/prl138.html#SantosRRM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/MorenoARCASL20" mdate="2021-10-14">
+<author pid="278/7734">Gelaysi Moreno</author>
+<author orcid="0000-0002-1261-1779" pid="278/7676">Jefferson S. Ascaneo</author>
+<author pid="278/7736">Jorge O. Ricardo</author>
+<author pid="152/6318">Leandro T. De La Cruz</author>
+<author orcid="0000-0002-9613-7807" pid="278/7793">Yaumel Arias</author>
+<author pid="23/5381">J. Rudi Strickler</author>
+<author orcid="0000-0002-9709-073X" pid="126/4422">Rubens M. Lopes</author>
+<title>A new focus detection criterion in holograms of planktonic organisms.</title>
+<pages>497-506</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.004</ee>
+<url>db/journals/prl/prl138.html#MorenoARCASL20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/JinQW20" mdate="2020-11-18">
+<author pid="278/7742">Renyun Jin</author>
+<author pid="225/6941">Haifeng Qiu</author>
+<author pid="47/6070">Liguo Weng</author>
+<title>Distributed discrete-time event-triggered algorithm for economic dispatch problem.</title>
+<pages>507-512</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.016</ee>
+<url>db/journals/prl/prl138.html#JinQW20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/SumariMHCG20" mdate="2021-04-07">
+<author orcid="0000-0003-3115-2878" pid="274/1348">Felix O. Sumari</author>
+<author pid="274/1135">Luigy Machaca</author>
+<author orcid="0000-0003-3776-7865" pid="274/0921">Jose Huaman</author>
+<author pid="59/5772">Esteban W. G. Clua</author>
+<author orcid="0000-0002-8048-8960" pid="194/2302">Joris Gu&#233;rin</author>
+<title>Towards practical implementations of person re-identification from full video frames.</title>
+<pages>513-519</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.023</ee>
+<url>db/journals/prl/prl138.html#SumariMHCG20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ShiZYSRS20" mdate="2020-12-29">
+<author pid="99/8843">Chenglong Shi</author>
+<author pid="166/6754">Jiachao Zhang</author>
+<author orcid="0000-0002-0337-9410" pid="173/6775">Yazhou Yao</author>
+<author pid="03/3647">Yunlian Sun</author>
+<author pid="137/3711">Huaming Rao</author>
+<author orcid="0000-0003-4902-4663" pid="169/3410">Xiangbo Shu</author>
+<title>CAN-GAN: Conditioned-attention normalized GAN for face age synthesis.</title>
+<pages>520-526</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.021</ee>
+<url>db/journals/prl/prl138.html#ShiZYSRS20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ZenoKMA20" mdate="2021-10-14">
+<author orcid="0000-0002-7820-8210" pid="202/9938">Bassel Zeno</author>
+<author pid="230/2261">Ilya Kalinovskiy</author>
+<author orcid="0000-0001-7010-1585" pid="124/9031">Yuri Matveev</author>
+<author pid="156/9015">Bassel Alkhatib</author>
+<title>CtrlFaceNet: Framework for geometric-driven face image synthesis.</title>
+<pages>527-533</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.026</ee>
+<url>db/journals/prl/prl138.html#ZenoKMA20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/WangZL20" mdate="2021-09-16">
+<author orcid="0000-0002-9852-0025" pid="03/6042">Tianren Wang</author>
+<author pid="38/5156">Teng Zhang</author>
+<author pid="09/2347">Brian C. Lovell</author>
+<title>EBIT: Weakly-supervised image translation with edge and boundary enhancement.</title>
+<pages>534-539</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.025</ee>
+<url>db/journals/prl/prl138.html#WangZL20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/HuangLF20" mdate="2021-09-16">
+<author orcid="0000-0002-2175-1124" pid="51/957">Jialiang Huang</author>
+<author pid="58/2670">Bo Liu</author>
+<author pid="06/6031">Lihua Fu</author>
+<title>Joint multi-scale discrimination and region segmentation for person re-ID.</title>
+<pages>540-547</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.022</ee>
+<url>db/journals/prl/prl138.html#HuangLF20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LiJL20" mdate="2020-12-29">
+<author orcid="0000-0002-8447-9279" pid="49/6408">Xiaofeng Li</author>
+<author pid="278/7763">Hongshuang Jiao</author>
+<author pid="47/4826">Dong Li</author>
+<title>Intelligent medical heterogeneous big data set balanced clustering using deep learning.</title>
+<pages>548-555</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.027</ee>
+<url>db/journals/prl/prl138.html#LiJL20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/LiCLLZZ20" mdate="2020-11-18">
+<author pid="66/5479">Shanshan Li</author>
+<author pid="12/6921">Qiang Cai</author>
+<author pid="226/2683">Zhuangzi Li</author>
+<author pid="145/2836-2">Haisheng Li 0002</author>
+<author pid="225/9904">Naiguang Zhang</author>
+<author pid="12/5927-2">Xiaoyu Zhang 0002</author>
+<title>Attention-aware invertible hashing network with skip connections.</title>
+<pages>556-562</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.002</ee>
+<url>db/journals/prl/prl138.html#LiCLLZZ20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ConnorDMZ20" mdate="2021-09-16">
+<author orcid="0000-0003-4734-8103" pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-8813-303X" pid="169/1176">Vladimir Mic</author>
+<author pid="z/PZezula">Pavel Zezula</author>
+<title>On the application of convex transforms to metric search.</title>
+<pages>563-570</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.008</ee>
+<url>db/journals/prl/prl138.html#ConnorDMZ20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/XingL20" mdate="2021-09-16">
+<author orcid="0000-0002-2446-8439" pid="62/6584">Hong-Jie Xing</author>
+<author pid="278/7723">Li-Fei Li</author>
+<title>Robust least squares one-class support vector machine.</title>
+<pages>571-578</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.005</ee>
+<url>db/journals/prl/prl138.html#XingL20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ZhaoL20" mdate="2021-04-09">
+<author pid="45/2091-1">Yao Zhao 0001</author>
+<author orcid="0000-0003-2847-0349" pid="04/7485">Chunyu Lin</author>
+<title>Preface.</title>
+<pages>579</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.007</ee>
+<url>db/journals/prl/prl138.html#ZhaoL20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/HuynhN20" mdate="2021-09-16">
+<author orcid="0000-0002-2097-0704" pid="50/3907">Hieu Trung Huynh</author>
+<author pid="119/0198">Linh Nguyen</author>
+<title>Nonparametric maximum likelihood estimation using neural networks.</title>
+<pages>580-586</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.006</ee>
+<url>db/journals/prl/prl138.html#HuynhN20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/GeZPCXY20" mdate="2020-11-18">
+<author pid="77/8286">Yongxin Ge</author>
+<author pid="278/7702">Junyin Zhang</author>
+<author pid="20/115">Chen Peng</author>
+<author pid="50/6996-16">Min Chen 0016</author>
+<author pid="278/7760">Jiahong Xie</author>
+<author pid="43/3014-1">Dan Yang 0001</author>
+<title>Deep shape constrained network for robust face alignment.</title>
+<pages>587-593</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.008</ee>
+<url>db/journals/prl/prl138.html#GeZPCXY20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/SellamiABF20" mdate="2020-12-29">
+<author orcid="0000-0003-1534-1687" pid="221/4153">Akrem Sellami</author>
+<author pid="171/0453">Ali Ben Abbes</author>
+<author orcid="0000-0002-8975-222X" pid="87/987">Vincent Barra</author>
+<author pid="83/1660">Imed Riadh Farah</author>
+<title>Fused 3-D spectral-spatial deep neural networks and spectral clustering for hyperspectral image classification.</title>
+<pages>594-600</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.020</ee>
+<url>db/journals/prl/prl138.html#SellamiABF20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/AiZFSQXY20" mdate="2020-12-29">
+<author pid="78/8613">Danni Ai</author>
+<author pid="203/2813">Zhiqi Zhao</author>
+<author pid="146/4057">Jingfan Fan</author>
+<author pid="09/4495">Hong Song</author>
+<author pid="180/0830">Xiaoxia Qu</author>
+<author pid="28/11415">Junfang Xian</author>
+<author orcid="0000-0003-1250-6319" pid="y/JianYang9">Jian Yang 0009</author>
+<title>Spatial probabilistic distribution map-based two-channel 3D U-net for visual pathway segmentation.</title>
+<pages>601-607</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.003</ee>
+<url>db/journals/prl/prl138.html#AiZFSQXY20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/HuangWLZWXCM20" mdate="2022-10-02">
+<author pid="247/4163">Lijin Huang</author>
+<author orcid="0000-0002-5952-5341" pid="179/5318">Weijie Wei</author>
+<author orcid="0000-0002-8428-1131" pid="40/6686-3">Zhi Liu 0003</author>
+<author pid="141/2381">Tianhong Zhang</author>
+<author pid="14/2127-3">Jijun Wang 0003</author>
+<author pid="89/2985">Lihua Xu</author>
+<author pid="73/6153">Weiyu Chen</author>
+<author pid="35/3436">Olivier Le Meur</author>
+<title>Effective schizophrenia recognition using discriminative eye movement features and model-metric based features.</title>
+<pages>608-616</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.017</ee>
+<url>db/journals/prl/prl138.html#HuangWLZWXCM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/ZhouWZS20" mdate="2022-12-07">
+<author orcid="0000-0002-0465-3258" pid="57/621">Shuren Zhou</author>
+<author pid="181/2833">Jie Wu</author>
+<author pid="21/3626">Fan Zhang</author>
+<author pid="230/6572">Paramjit S. Sehdev</author>
+<title>Depth occlusion perception feature analysis for person re-identification.</title>
+<pages>617-623</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.009</ee>
+<url>db/journals/prl/prl138.html#ZhouWZS20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/NaghizadehAM20" mdate="2020-12-29">
+<author orcid="0000-0003-4469-7252" pid="150/6432">Alireza Naghizadeh</author>
+<author pid="246/5202">Mohammadsajad Abavisani</author>
+<author pid="m/DNMetaxas">Dimitris N. Metaxas</author>
+<title>Greedy AutoAugment.</title>
+<pages>624-630</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.08.024</ee>
+<url>db/journals/prl/prl138.html#NaghizadehAM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/DondiLS20" mdate="2022-10-02">
+<author orcid="0000-0002-0624-073X" pid="97/7404">Piercarlo Dondi</author>
+<author pid="90/6747">Luca Lombardi</author>
+<author orcid="0000-0002-8037-0057" pid="161/0384">Alessandra Setti</author>
+<title>DAFNE: A dataset of fresco fragments for digital anastlylosis.</title>
+<pages>631-637</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.015</ee>
+<url>db/journals/prl/prl138.html#DondiLS20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/AfsharHNOPM20" mdate="2021-04-07">
+<author pid="187/1624">Parnian Afshar</author>
+<author pid="262/3924">Shahin Heidarian</author>
+<author pid="223/8533">Farnoosh Naderkhani</author>
+<author pid="225/5549">Anastasia Oikonomou</author>
+<author pid="p/KonstantinosNPlataniotis">Konstantinos N. Plataniotis</author>
+<author orcid="0000-0003-1972-7923" pid="89/8935-1">Arash Mohammadi 0001</author>
+<title>COVID-CAPS: A capsule network-based framework for identification of COVID-19 cases from X-ray images.</title>
+<pages>638-643</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.010</ee>
+<ee>https://www.wikidata.org/entity/Q99595306</ee>
+<url>db/journals/prl/prl138.html#AfsharHNOPM20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/MahmoudiCBT20" mdate="2022-10-02">
+<author orcid="0000-0001-5134-0636" pid="275/3445">M. Amine Mahmoudi</author>
+<author pid="00/7269">Aladine Chetouani</author>
+<author pid="236/2470">Fatma Boufera</author>
+<author pid="66/8615">Hedi Tabia</author>
+<title>Learnable pooling weights for facial expression recognition.</title>
+<pages>644-650</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.001</ee>
+<url>db/journals/prl/prl138.html#MahmoudiCBT20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/HuangZ20" mdate="2021-07-29">
+<author orcid="0000-0001-7150-7229" pid="14/3718">Hsin-Hsiung Huang</author>
+<author pid="38/5156-2">Teng Zhang 0002</author>
+<title>Robust discriminant analysis using multi-directional projection pursuit.</title>
+<pages>651-656</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.013</ee>
+<url>db/journals/prl/prl138.html#HuangZ20</url>
+</article>
+</r>
+</dblpcites>
+
+In memory of Alfredo Petrosino 
+<dblpcites><r style="ee"><article key="journals/prl/Ceccarelli20" mdate="2020-11-18">
+<author pid="34/5571">Michele Ceccarelli</author>
+<title>Preface: In memory of Alfredo Petrosino.</title>
+<pages>657-658</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.038</ee>
+<url>db/journals/prl/prl138.html#Ceccarelli20</url>
+</article>
+</r>
+<r style="ee"><article key="journals/prl/MaddalenaGP20" mdate="2020-12-29">
+<author orcid="0000-0002-0567-4624" pid="17/659">Lucia Maddalena 0001</author>
+<author pid="g/MarcoGori">Marco Gori</author>
+<author pid="p/SankarKPal">Sankar K. Pal</author>
+<title>Pattern recognition and beyond: Alfredo Petrosino's scientific results.</title>
+<pages>659-669</pages>
+<year>2020</year>
+<volume>138</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.07.032</ee>
+<url>db/journals/prl/prl138.html#MaddalenaGP20</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

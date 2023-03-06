@@ -1,0 +1,254 @@
+<bht key="db/journals/jair/jair59.bht" title="Journal of Artificial Intelligence Research, Volume 59"> 
+<h1><ref href="db/journals/jair/index.html">Journal of Artificial Intelligence Research</ref>, Volume 59</h1> 
+<h2>Volume 59, May 2017</h2> 
+<dblpcites><r style="ee"><article key="journals/jair/MotzekM17" mdate="2019-09-25">
+<author pid="165/2019">Alexander Motzek</author>
+<author orcid="0000-0002-1174-3323" pid="m/RalfMoller">Ralf M&#246;ller 0001</author>
+<title>Indirect Causes in Dynamic Bayesian Networks Revisited.</title>
+<pages>1-58</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5361</ee>
+<ee>https://www.wikidata.org/entity/Q64363091</ee>
+<url>db/journals/jair/jair59.html#MotzekM17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/RoughgardenST17" mdate="2019-01-21">
+<author pid="r/TimRoughgarden">Tim Roughgarden</author>
+<author pid="32/8820">Vasilis Syrgkanis</author>
+<author pid="t/EvaTardos">&#201;va Tardos</author>
+<title>The Price of Anarchy in Auctions.</title>
+<pages>59-101</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5272</ee>
+<url>db/journals/jair/jair59.html#RoughgardenST17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/ChenWK17" mdate="2019-01-21">
+<author pid="23/6936">Yi-Chun Chen</author>
+<author pid="173/5453">Tim Allan Wheeler</author>
+<author pid="34/2029">Mykel J. Kochenderfer</author>
+<title>Learning Discrete Bayesian Networks from Continuous Data.</title>
+<pages>103-132</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5371</ee>
+<url>db/journals/jair/jair59.html#ChenWK17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/BredereckCNW17" mdate="2020-07-27">
+<author orcid="0000-0002-6303-6276" pid="23/7805">Robert Bredereck</author>
+<author pid="72/4415-1">Jiehua Chen 0001</author>
+<author pid="n/RolfNiedermeier">Rolf Niedermeier</author>
+<author orcid="0000-0003-2998-8668" pid="86/2576">Toby Walsh</author>
+<title>Parliamentary Voting Procedures: Agenda Control, Manipulation, and Uncertainty.</title>
+<pages>133-173</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5407</ee>
+<url>db/journals/jair/jair59.html#BredereckCNW17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/SteinGNRJ17" mdate="2019-10-19">
+<author orcid="0000-0003-2858-8857" pid="06/1681-1">Sebastian Stein 0001</author>
+<author pid="g/EnricoGerding">Enrico H. Gerding</author>
+<author pid="180/1390">Adrian Nedea</author>
+<author pid="13/4267">Avi Rosenfeld</author>
+<author orcid="0000-0003-0166-248X" pid="j/NicholasRJennings">Nicholas R. Jennings</author>
+<title>Market Interfaces for Electric Vehicle Charging.</title>
+<pages>175-227</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5387</ee>
+<url>db/journals/jair/jair59.html#SteinGNRJ17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/AhmedVLAJ17" mdate="2022-01-03">
+<author pid="01/10920">Asrar Ahmed</author>
+<author orcid="0000-0001-7342-5745" pid="72/759">Pradeep Varakantham</author>
+<author pid="132/7687">Meghna Lowalekar</author>
+<author orcid="0000-0002-6996-0742" pid="139/1308">Yossiri Adulyasak</author>
+<author pid="88/7260">Patrick Jaillet</author>
+<title>Sampling Based Approaches for Minimizing Regret in Uncertain Markov Decision Processes (MDPs).</title>
+<pages>229-264</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5242</ee>
+<url>db/journals/jair/jair59.html#AhmedVLAJ17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/FarinaG17" mdate="2019-01-21">
+<author pid="159/2090">Gabriele Farina</author>
+<author pid="g/NicolaGatti">Nicola Gatti 0001</author>
+<title>Adopting the Cascade Model in Ad Auctions: Efficiency Bounds and Truthful Algorithmic Mechanisms.</title>
+<pages>265-310</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5438</ee>
+<url>db/journals/jair/jair59.html#FarinaG17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/TassaGZ17" mdate="2019-10-19">
+<author pid="04/2852">Tamir Tassa</author>
+<author orcid="0000-0002-4106-3169" pid="72/3561">Tal Grinshpoun</author>
+<author pid="38/2041">Roie Zivan</author>
+<title>Privacy Preserving Implementation of the Max-Sum Algorithm and its Variants.</title>
+<pages>311-349</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5504</ee>
+<url>db/journals/jair/jair59.html#TassaGZ17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/OttenD17" mdate="2019-01-21">
+<author pid="32/2145">Lars Otten</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>AND/OR Branch-and-Bound on a Computational Grid.</title>
+<pages>351-435</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5456</ee>
+<url>db/journals/jair/jair59.html#OttenD17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/LiC17" mdate="2019-01-21">
+<author pid="42/9804">Yuqian Li</author>
+<author pid="c/VincentConitzer">Vincent Conitzer</author>
+<title>Game-Theoretic Question Selection for Tests.</title>
+<pages>437-462</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5413</ee>
+<url>db/journals/jair/jair59.html#LiC17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/CaiLL17" mdate="2021-04-09">
+<author orcid="0000-0003-1730-6922" pid="45/8399">Shaowei Cai</author>
+<author pid="78/2101">Jinkun Lin</author>
+<author pid="98/10657">Chuan Luo</author>
+<title>Finding A Small Vertex Cover in Massive Sparse Graphs: Construct, Local Search, and Preprocess.</title>
+<pages>463-494</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5443</ee>
+<url>db/journals/jair/jair59.html#CaiLL17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/RamakrishnanZS17" mdate="2019-01-21">
+<author pid="01/5768">Ramya Ramakrishnan</author>
+<author pid="29/6693">Chongjie Zhang</author>
+<author pid="30/6778">Julie A. Shah</author>
+<title>Perturbation Training for Human-Robot Teams.</title>
+<pages>495-541</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5390</ee>
+<url>db/journals/jair/jair59.html#RamakrishnanZS17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Hew17" mdate="2019-06-02">
+<author pid="37/4132">Patrick Chisan Hew</author>
+<title>The Length of Shortest Vertex Paths in Binary Occupancy Grids Compared to Shortest r-Constrained Ones.</title>
+<pages>543-563</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5442</ee>
+<ee>https://www.wikidata.org/entity/Q63353495</ee>
+<url>db/journals/jair/jair59.html#Hew17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/HunterT17" mdate="2020-12-29">
+<author orcid="0000-0001-5602-7446" pid="23/4530">Anthony Hunter</author>
+<author pid="07/1317">Matthias Thimm</author>
+<title>Probabilistic Reasoning with Abstract Argumentation Frameworks.</title>
+<pages>565-611</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5393</ee>
+<url>db/journals/jair/jair59.html#HunterT17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/WahWW17" mdate="2020-10-26">
+<author pid="41/10027">Elaine Wah</author>
+<author pid="135/0273">Mason Wright</author>
+<author orcid="0000-0002-1691-6844" pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>Welfare Effects of Market Making in Continuous Double Auctions.</title>
+<pages>613-650</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5360</ee>
+<url>db/journals/jair/jair59.html#WahWW17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Davis17" mdate="2019-01-21">
+<author pid="16/2975">Ernest Davis</author>
+<title>Logical Formalizations of Commonsense Reasoning: A Survey.</title>
+<pages>651-723</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5339</ee>
+<url>db/journals/jair/jair59.html#Davis17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/SonuCD17" mdate="2019-01-21">
+<author pid="67/10481">Ekhlas Sonu</author>
+<author pid="27/10279">Yingke Chen</author>
+<author pid="d/PrashantDoshi">Prashant Doshi</author>
+<title>Decision-Theoretic Planning Under Anonymity in Agent Populations.</title>
+<pages>725-770</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5449</ee>
+<url>db/journals/jair/jair59.html#SonuCD17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/AllenGJMR17" mdate="2019-01-21">
+<author pid="137/4896">Thomas E. Allen</author>
+<author pid="g/JudyGoldsmith">Judy Goldsmith</author>
+<author pid="178/8619">Hayden Elizabeth Justice</author>
+<author pid="54/7115">Nicholas Mattei</author>
+<author pid="178/8614">Kayla Raines</author>
+<title>Uniform Random Generation and Dominance Testing for CP-Nets.</title>
+<pages>771-813</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5455</ee>
+<url>db/journals/jair/jair59.html#AllenGJMR17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/GentJN17" mdate="2019-09-25">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Complexity of n-Queens Completion.</title>
+<pages>815-848</pages>
+<year>2017</year>
+<volume>59</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.5512</ee>
+<ee>https://www.wikidata.org/entity/Q56047935</ee>
+<url>db/journals/jair/jair59.html#GentJN17</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

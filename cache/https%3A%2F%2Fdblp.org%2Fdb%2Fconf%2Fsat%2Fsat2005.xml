@@ -1,0 +1,528 @@
+<bht key="db/conf/sat/sat2005.bht" title="Theory and Applications of Satisfiability Testing 2005">  
+<h1>8th <ref href="db/conf/sat/index.html">SAT</ref> 2005:
+St. Andrews, UK</h1> <dblpcites><r><proceedings key="conf/sat/2005" mdate="2019-05-14">
+<editor pid="b/FahiemBacchus">Fahiem Bacchus</editor>
+<editor pid="86/2576">Toby Walsh</editor>
+<title>Theory and Applications of Satisfiability Testing, 8th International Conference, SAT 2005, St. Andrews, UK, June 19-23, 2005, Proceedings</title>
+<volume>3569</volume>
+<year>2005</year>
+<isbn>3-540-26276-8</isbn>
+<booktitle>SAT</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/b137280</ee>
+<url>db/conf/sat/sat2005.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/ArgelichM05" mdate="2017-05-23">
+<author pid="37/2912">Josep Argelich</author>
+<author pid="50/4075">Felip Many&#224;</author>
+<title>Solving Over-Constrained Problems with SAT Technology.</title>
+<pages>1-15</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_1</ee>
+<url>db/conf/sat/sat2005.html#ArgelichM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/AudemardS05" mdate="2017-05-23">
+<author pid="35/2541">Gilles Audemard</author>
+<author pid="s/LakhdarSais">Lakhdar Sais</author>
+<title>A Symbolic Search Based Approach for Quantified Boolean Formulas.</title>
+<pages>16-30</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_2</ee>
+<url>db/conf/sat/sat2005.html#AudemardS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BelovS05" mdate="2017-05-23">
+<author pid="59/1724">Anton Belov</author>
+<author pid="32/4183">Zbigniew Stachniak</author>
+<title>Substitutional Definition of Satisfiability in Classical Propositional Logic.</title>
+<pages>31-45</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_3</ee>
+<url>db/conf/sat/sat2005.html#BelovS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/DershowitzHN05" mdate="2017-05-23">
+<author pid="d/NachumDershowitz">Nachum Dershowitz</author>
+<author pid="10/5046">Ziyad Hanna</author>
+<author pid="07/2593">Alexander Nadel</author>
+<title>A Clause-Based Heuristic for SAT Solvers.</title>
+<pages>46-60</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_4</ee>
+<url>db/conf/sat/sat2005.html#DershowitzHN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/EenB05" mdate="2017-05-23">
+<author pid="14/2089">Niklas E&#233;n</author>
+<author pid="b/ArminBiere">Armin Biere</author>
+<title>Effective Preprocessing in SAT Through Variable and Clause Elimination.</title>
+<pages>61-75</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_5</ee>
+<url>db/conf/sat/sat2005.html#EenB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/GalesiT05" mdate="2017-05-23">
+<author pid="06/2434">Nicola Galesi</author>
+<author pid="44/1612">Neil Thapen</author>
+<title>Resolution and Pebbling Games.</title>
+<pages>76-90</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_6</ee>
+<url>db/conf/sat/sat2005.html#GalesiT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/GentR05" mdate="2017-05-23">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<title>Local and Global Complete Solution Learning Methods for QBF.</title>
+<pages>91-106</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_7</ee>
+<url>db/conf/sat/sat2005.html#GentR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Goldberg05" mdate="2017-05-23">
+<author pid="g/EugeneGoldberg">Eugene Goldberg</author>
+<title>Equivalence Checking of Circuits with Parameterized Specifications.</title>
+<pages>107-121</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_8</ee>
+<url>db/conf/sat/sat2005.html#Goldberg05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/HeuleM05" mdate="2017-05-23">
+<author pid="h/MarijnHeule">Marijn Heule</author>
+<author pid="m/HansvanMaaren">Hans van Maaren</author>
+<title>Observed Lower Bounds for Random 3-SAT Phase Transition Density Using Linear Programming.</title>
+<pages>122-134</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_9</ee>
+<url>db/conf/sat/sat2005.html#HeuleM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/HirschN05" mdate="2017-05-23">
+<author pid="16/2310">Edward A. Hirsch</author>
+<author pid="50/1870">Sergey I. Nikolenko</author>
+<title>Simulating Cutting Plane Proofs with Restricted Degree of Falsity by Resolution.</title>
+<pages>135-142</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_10</ee>
+<url>db/conf/sat/sat2005.html#HirschN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/KourilF05" mdate="2017-05-23">
+<author pid="57/6309">Michal Kouril</author>
+<author pid="f/JohnVFranco">John V. Franco</author>
+<title>Resolution Tunnels for Improved SAT Solver Performance.</title>
+<pages>143-157</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_11</ee>
+<url>db/conf/sat/sat2005.html#KourilF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/LiH05" mdate="2017-05-23">
+<author pid="35/5239">Chu Min Li</author>
+<author pid="03/4775">Wenqi Huang</author>
+<title>Diversification and Determinism in Local Search for Satisfiability.</title>
+<pages>158-172</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_12</ee>
+<url>db/conf/sat/sat2005.html#LiH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/LiffitonS05" mdate="2017-05-23">
+<author pid="50/1766">Mark H. Liffiton</author>
+<author pid="34/5374">Karem A. Sakallah</author>
+<title>On Finding All Minimally Unsatisfiable Subformulas.</title>
+<pages>173-186</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_13</ee>
+<url>db/conf/sat/sat2005.html#LiffitonS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/MarinovKBZR05" mdate="2017-05-23">
+<author pid="48/3911">Darko Marinov</author>
+<author pid="k/SarfrazKhurshid">Sarfraz Khurshid</author>
+<author pid="69/5474">Suhabe Bugrara</author>
+<author pid="94/5689">Lintao Zhang</author>
+<author pid="r/MartinCRinard">Martin C. Rinard</author>
+<title>Optimizations for Compiling Declarative Models into Boolean Formulas.</title>
+<pages>187-202</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_14</ee>
+<url>db/conf/sat/sat2005.html#MarinovKBZR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Prestwich05" mdate="2022-02-07">
+<author pid="56/661">Steven D. Prestwich</author>
+<title>Random Walk with Continuously Smoothed Variable Weights.</title>
+<pages>203-215</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_15</ee>
+<url>db/conf/sat/sat2005.html#Prestwich05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Rolf05" mdate="2017-05-23">
+<author pid="65/4885">Daniel Rolf</author>
+<title>Derandomization of PPSZ for Unique- <i>k</i>-SAT.</title>
+<pages>216-225</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_16</ee>
+<url>db/conf/sat/sat2005.html#Rolf05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/SangBK05" mdate="2017-05-23">
+<author pid="38/104">Tian Sang</author>
+<author pid="b/PaulBeame">Paul Beame</author>
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<title>Heuristics for Fast Exact Model Counting.</title>
+<pages>226-240</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_17</ee>
+<url>db/conf/sat/sat2005.html#SangBK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/SheiniS05" mdate="2017-05-23">
+<author pid="69/3009">Hossein M. Sheini</author>
+<author pid="34/5374">Karem A. Sakallah</author>
+<title>A Scalable Method for Solving Satisfiability of Integer Linear Arithmetic Logic.</title>
+<pages>241-256</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_18</ee>
+<url>db/conf/sat/sat2005.html#SheiniS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/SinzD05" mdate="2017-05-23">
+<author pid="s/CarstenSinz">Carsten Sinz</author>
+<author pid="97/2773">Edda-Maria Dieringer</author>
+<title>DPvis - A Tool to Visualize the Structure of SAT Instances.</title>
+<pages>257-268</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_19</ee>
+<url>db/conf/sat/sat2005.html#SinzD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Southey05" mdate="2017-05-23">
+<author pid="49/3529">Finnegan Southey</author>
+<title>Constraint Metrics for Local Search.</title>
+<pages>269-281</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_20</ee>
+<url>db/conf/sat/sat2005.html#Southey05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Gelder05" mdate="2017-05-23">
+<author pid="g/AllenVanGelder">Allen Van Gelder</author>
+<title>Input Distance and Lower Bounds for Propositional Resolution Proof Length.</title>
+<pages>282-293</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_21</ee>
+<url>db/conf/sat/sat2005.html#Gelder05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/MaarenN05" mdate="2017-05-23">
+<author pid="m/HansvanMaaren">Hans van Maaren</author>
+<author pid="22/2873">Linda van Norden</author>
+<title>Sums of Squares, Satisfiability and Maximum Satisfiability.</title>
+<pages>294-308</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_22</ee>
+<url>db/conf/sat/sat2005.html#MaarenN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Wahlstrom05" mdate="2017-05-23">
+<author pid="42/318">Magnus Wahlstr&#246;m</author>
+<title>Faster Exact Solving of SAT Formulae with a Low Number of Occurrences per Variable.</title>
+<pages>309-323</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_23</ee>
+<url>db/conf/sat/sat2005.html#Wahlstrom05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/WeiS05" mdate="2017-05-23">
+<author pid="24/4105">Wei Wei</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<title>A New Approach to Model Counting.</title>
+<pages>324-339</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_24</ee>
+<url>db/conf/sat/sat2005.html#WeiS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Zarpas05" mdate="2017-05-23">
+<author pid="59/4881">Emmanuel Zarpas</author>
+<title>Benchmarking SAT Solvers for Bounded Model Checking.</title>
+<pages>340-354</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_25</ee>
+<url>db/conf/sat/sat2005.html#Zarpas05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/ZhaoB05" mdate="2017-05-23">
+<author pid="52/3862">Xishun Zhao</author>
+<author pid="k/HKleineBuning">Hans Kleine B&#252;ning</author>
+<title>Model-Equivalent Reductions.</title>
+<pages>355-370</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_26</ee>
+<url>db/conf/sat/sat2005.html#ZhaoB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/AlsinetMP05" mdate="2017-05-23">
+<author pid="57/572">Teresa Alsinet</author>
+<author pid="50/4075">Felip Many&#224;</author>
+<author pid="15/2411">Jordi Planes</author>
+<title>Improved Exact Solvers for Weighted Max-SAT.</title>
+<pages>371-377</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_27</ee>
+<url>db/conf/sat/sat2005.html#AlsinetMP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Benedetti05" mdate="2017-05-23">
+<author pid="59/4578">Marco Benedetti</author>
+<title>Quantifier Trees for QBFs.</title>
+<pages>378-385</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_28</ee>
+<url>db/conf/sat/sat2005.html#Benedetti05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/BubeckBZ05" mdate="2017-05-23">
+<author pid="10/5895">Uwe Bubeck</author>
+<author pid="k/HKleineBuning">Hans Kleine B&#252;ning</author>
+<author pid="52/3862">Xishun Zhao</author>
+<title>Quantifier Rewriting and Equivalence Models for Quantified Horn Formulas.</title>
+<pages>386-392</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_29</ee>
+<url>db/conf/sat/sat2005.html#BubeckBZ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Coste-MarquisBL05" mdate="2017-05-23">
+<author pid="84/6816">Sylvie Coste-Marquis</author>
+<author pid="02/358">Daniel Le Berre</author>
+<author pid="57/1650">Florian Letombe</author>
+<title>A Branching Heuristics for Quantified Renamable Horn Formulas.</title>
+<pages>393-399</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_30</ee>
+<url>db/conf/sat/sat2005.html#Coste-MarquisBL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/DantsinW05" mdate="2017-05-23">
+<author pid="d/EDantsin">Evgeny Dantsin</author>
+<author pid="26/3154">Alexander Wolpert</author>
+<title>An Improved Upper Bound for SAT.</title>
+<pages>400-407</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_31</ee>
+<url>db/conf/sat/sat2005.html#DantsinW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/DershowitzHK05" mdate="2017-05-23">
+<author pid="d/NachumDershowitz">Nachum Dershowitz</author>
+<author pid="10/5046">Ziyad Hanna</author>
+<author pid="80/3731">Jacob Katz</author>
+<title>Bounded Model Checking with QBF.</title>
+<pages>408-414</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_32</ee>
+<url>db/conf/sat/sat2005.html#DershowitzHK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/DurairajK05" mdate="2017-05-23">
+<author pid="87/6536">Vijay Durairaj</author>
+<author pid="20/4759">Priyank Kalla</author>
+<title>Variable Ordering for Efficient SAT Search by Analyzing Constraint-Variable Dependencies.</title>
+<pages>415-422</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_33</ee>
+<url>db/conf/sat/sat2005.html#DurairajK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/GershmanS05" mdate="2019-10-19">
+<author pid="62/1081">Roman Gershman</author>
+<author orcid="0000-0001-9169-3751" pid="s/OferStrichman">Ofer Strichman</author>
+<title>Cost-Effective Hyper-Resolution for Preprocessing CNF Formulas.</title>
+<pages>423-429</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_34</ee>
+<url>db/conf/sat/sat2005.html#GershmanS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Kulikov05" mdate="2017-05-23">
+<author pid="45/880">Alexander S. Kulikov</author>
+<title>Automated Generation of Simplification Rules for SAT and MAXSAT.</title>
+<pages>430-436</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_35</ee>
+<url>db/conf/sat/sat2005.html#Kulikov05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/LewisSB05" mdate="2017-11-27">
+<author pid="15/6934">Matthew D. T. Lewis</author>
+<author pid="81/2098-1">Tobias Schubert 0001</author>
+<author pid="b/BerndBecker">Bernd Becker 0001</author>
+<title>Speedup Techniques Utilized in Modern SAT Solvers.</title>
+<pages>437-443</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_36</ee>
+<url>db/conf/sat/sat2005.html#LewisSB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/LingSB05" mdate="2017-05-23">
+<author pid="08/3801">Andrew C. Ling</author>
+<author pid="74/3215">Deshanand P. Singh</author>
+<author pid="b/StephenDeanBrown">Stephen Dean Brown</author>
+<title>FPGA Logic Synthesis Using Quantified Boolean Satisfiability.</title>
+<pages>444-450</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_37</ee>
+<url>db/conf/sat/sat2005.html#LingSB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/ManquinhoM05" mdate="2017-05-23">
+<author pid="57/1074">Vasco M. Manquinho</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o P. Marques Silva</author>
+<title>On Applying Cutting Planes in DLL-Based Algorithms for Pseudo-Boolean Optimization.</title>
+<pages>451-458</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_38</ee>
+<url>db/conf/sat/sat2005.html#ManquinhoM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/MeierS05" mdate="2017-05-23">
+<author pid="11/3773-2">Andreas Meier 0002</author>
+<author pid="16/975">Volker Sorge</author>
+<title>A New Set of Algebraic Benchmark Problems for SAT Solvers.</title>
+<pages>459-466</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_39</ee>
+<url>db/conf/sat/sat2005.html#MeierS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/MneimnehLASS05" mdate="2017-05-23">
+<author pid="65/4819">Maher N. Mneimneh</author>
+<author pid="94/3399">In&#234;s Lynce</author>
+<author pid="90/6103">Zaher S. Andraus</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o P. Marques Silva</author>
+<author pid="34/5374">Karem A. Sakallah</author>
+<title>A Branch-and-Bound Algorithm for Extracting Smallest Minimal Unsatisfiable Formulas.</title>
+<pages>467-474</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_40</ee>
+<url>db/conf/sat/sat2005.html#MneimnehLASS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/SeitzAO05" mdate="2017-05-23">
+<author pid="98/2095">Sakari Seitz</author>
+<author pid="96/5608">Mikko Alava</author>
+<author pid="o/PekkaOrponen">Pekka Orponen</author>
+<title>Threshold Behaviour of WalkSAT and Focused Metropolis Search on Random 3-Satisfiability.</title>
+<pages>475-481</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_41</ee>
+<url>db/conf/sat/sat2005.html#SeitzAO05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sat/Zhang05" mdate="2017-05-23">
+<author pid="94/5689">Lintao Zhang</author>
+<title>On Subsumption Removal and On-the-Fly CNF Simplification.</title>
+<pages>482-489</pages>
+<year>2005</year>
+<crossref>conf/sat/2005</crossref>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/11499107_42</ee>
+<url>db/conf/sat/sat2005.html#Zhang05</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

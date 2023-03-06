@@ -1,0 +1,1558 @@
+<bht key="db/conf/cp/cp2003.bht" title="9. CP 2003: Kinsale, Ireland">  
+<h1>9. <ref href="db/conf/cp/index.html">CP</ref> 2003:
+Kinsale, Ireland</h1> <dblpcites><r><proceedings key="conf/cp/2003" mdate="2019-05-14">
+<editor pid="r/FrancescaRossi">Francesca Rossi</editor>
+<title>Principles and Practice of Constraint Programming - CP 2003, 9th International Conference, CP 2003, Kinsale, Ireland, September 29 - October 3, 2003, Proceedings</title>
+<booktitle>CP</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2833</volume>
+<publisher>Springer</publisher>
+<year>2003</year>
+<isbn>3-540-20202-1</isbn>
+<ee>https://doi.org/10.1007/b13743</ee>
+<url>db/conf/cp/cp2003.html</url>
+</proceedings>
+</r>
+</dblpcites>
+  
+<h2>Invited Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/KautzS03" mdate="2017-05-17">
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<title>Ten Challenges Redux: Recent Progress in Propositional Reasoning and Search.</title>
+<pages>1-18</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_1</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#KautzS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Sandholm03" mdate="2017-05-17">
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<title>Automated Mechanism Design: A New Application Area for Search Algorithms.</title>
+<pages>19-36</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_2</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Sandholm03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Wallace03" mdate="2017-12-19">
+<author pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>Languages versus Packages for Constraint Problem Solving.</title>
+<pages>37-52</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_3</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Wallace03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Walsh03" mdate="2017-05-17">
+<author pid="86/2576">Toby Walsh</author>
+<title>Constraint Patterns.</title>
+<pages>53-64</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_4</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Walsh03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Best Paper</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/HentenryckM03" mdate="2017-05-17">
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<title>Control Abstractions for Local Search.</title>
+<pages>65-80</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_5</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#HentenryckM03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Full Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AngelsmarkJ03" mdate="2017-05-17">
+<author pid="75/4104">Ola Angelsmark</author>
+<author pid="j/PeterJonsson">Peter Jonsson</author>
+<title>Improved Algorithms for Counting Solutions in Constraint Satisfaction Problems.</title>
+<pages>81-95</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_6</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#AngelsmarkJ03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AnsoteguiLM03" mdate="2017-05-17">
+<author pid="32/2567">Carlos Ans&#243;tegui</author>
+<author pid="02/246">Jose Larrubia</author>
+<author pid="50/4075">Felip Many&#224;</author>
+<title>Boosting Chaff's Performance by Incorporating CSP Heuristics.</title>
+<pages>96-107</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_7</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#AnsoteguiLM03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BailleuxB03" mdate="2017-05-17">
+<author pid="61/1873">Olivier Bailleux</author>
+<author pid="75/5742">Yacine Boufkhad</author>
+<title>Efficient CNF Encoding of Boolean Cardinality Constraints.</title>
+<pages>108-122</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_8</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BailleuxB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BentH03" mdate="2017-05-17">
+<author pid="93/1110">Russell Bent</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>A Two-Stage Hybrid Algorithm for Pickup and Delivery Vehicle Routing Problems with Time Windows.</title>
+<pages>123-137</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_9</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BentH03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BistarelliCHL03" mdate="2017-06-02">
+<author orcid="0000-0001-7411-9678" pid="53/6380">Stefano Bistarelli</author>
+<author pid="37/5371">Philippe Codognet</author>
+<author pid="55/6859">Kin Chuen Hui</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<title>Solving Finite Domain Constraint Hierarchies by Local Consistency and Tree Search.</title>
+<pages>138-152</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_10</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BistarelliCHL03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BourdaisGP03" mdate="2017-05-17">
+<author pid="26/4961">St&#233;phane Bourdais</author>
+<author pid="22/1674">Philippe Galinier</author>
+<author pid="02/6567">Gilles Pesant</author>
+<title>HIBISCUS: A Constraint Programming Application to Staff Scheduling in Health Care.</title>
+<pages>153-167</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_11</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BourdaisGP03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BoutilierPPS03" mdate="2017-05-17">
+<author pid="10/3411">Craig Boutilier</author>
+<author pid="05/6326">Relu Patrascu</author>
+<author pid="26/2122">Pascal Poupart</author>
+<author pid="96/6660">Dale Schuurmans</author>
+<title>Constraint-Based Optimization with the Minimax Decision Criterion.</title>
+<pages>168-182</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_12</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BoutilierPPS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BulatovJ03" mdate="2019-06-17">
+<author pid="b/AndreiABulatov">Andrei A. Bulatov</author>
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<title>An Algebraic Approach to Multi-sorted Constraints.</title>
+<pages>183-198</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_13</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BulatovJ03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Chen03" mdate="2017-05-17">
+<author pid="83/3627">Hubie Chen</author>
+<title>Periodic Constraint Satisfaction Problems: Polynomial-Time Algorithms.</title>
+<pages>199-213</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_14</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Chen03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChengLS03" mdate="2017-05-17">
+<author pid="72/4273">Chi Kan Cheng</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Box Constraint Collections for Adhoc Constraints.</title>
+<pages>214-228</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_15</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#ChengLS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChoiLS03" mdate="2017-05-17">
+<author pid="95/1372">Chiu Wo Choi</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Propagation Redundancy in Redundant Modelling.</title>
+<pages>229-243</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_16</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#ChoiLS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CohenCJK03" mdate="2019-06-17">
+<author pid="50/3733">David A. Cohen</author>
+<author pid="04/5623">Martin C. Cooper</author>
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<author pid="k/AAKrokhin">Andrei A. Krokhin</author>
+<title>Soft Constraints: Complexity and Multimorphisms.</title>
+<pages>244-258</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_17</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#CohenCJK03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CruzB03" mdate="2021-10-14">
+<author orcid="0000-0001-7835-8983" pid="18/4839">Jorge Cruz 0001</author>
+<author pid="b/PBarahona">Pedro Barahona</author>
+<title>Constraint Satisfaction Differential Problems.</title>
+<pages>259-273</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_18</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#CruzB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Dimitriou03" mdate="2017-05-17">
+<author pid="18/4520">Tassos Dimitriou</author>
+<title>A Wealth of SAT Distributions with Planted Assignments.</title>
+<pages>274-287</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_19</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Dimitriou03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DotuVC03" mdate="2017-05-17">
+<author pid="d/IvanDottu">Iv&#225;n Dot&#250;</author>
+<author pid="v/AlvarodelVal">Alvaro del Val</author>
+<author pid="c/ManuelCebrian">Manuel Cebri&#225;n</author>
+<title>Redundant Modeling for the QuasiGroup Completion Problem.</title>
+<pages>288-302</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_20</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#DotuVC03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FaltingsM03" mdate="2017-05-17">
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<author pid="36/6634">Santiago Macho-Gonzalez</author>
+<title>Open Constraint Optimization.</title>
+<pages>303-317</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_21</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#FaltingsM03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FrischJM03" mdate="2021-10-14">
+<author orcid="0000-0001-5015-2676" pid="51/6077">Alan M. Frisch</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Constraints for Breaking More Row and Column Symmetries.</title>
+<pages>318-332</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_22</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#FrischJM03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentHKL03" mdate="2019-06-02">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="17/2640">Warwick Harvey</author>
+<author orcid="0000-0002-8091-1458" pid="43/8396">Tom Kelsey</author>
+<author pid="04/794">Steve Linton</author>
+<title>Generic SBDD Using Computational Group Theory.</title>
+<pages>333-347</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_23</ee>
+<ee>https://www.wikidata.org/entity/Q61442817</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GentHKL03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentHRS03" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<author pid="38/6117">Kevin Smyth</author>
+<title>Using Stochastic Local Search to Solve Quantified Boolean Formulae.</title>
+<pages>348-362</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_24</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GentHRS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GivryLMS03" mdate="2017-05-17">
+<author pid="18/1193">Simon de Givry</author>
+<author pid="27/2738">Javier Larrosa</author>
+<author pid="96/1119">Pedro Meseguer</author>
+<author pid="87/6848">Thomas Schiex</author>
+<title>Solving Max-SAT as Weighted CSP.</title>
+<pages>363-376</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_25</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GivryLMS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GoldenP03" mdate="2017-05-17">
+<author pid="26/3684">Keith Golden</author>
+<author pid="96/4644">Wanlin Pang</author>
+<title>Constraint Reasoning over Strings.</title>
+<pages>377-391</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_26</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GoldenP03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GreenC03" mdate="2017-05-17">
+<author pid="07/3495">Martin James Green</author>
+<author pid="50/3733">David A. Cohen</author>
+<title>Tractability by Approximating Constraint Languages.</title>
+<pages>392-406</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_27</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GreenC03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Hoeve03" mdate="2017-05-17">
+<author pid="61/5378">Willem Jan van Hoeve</author>
+<title>A Hybrid Constraint Programming and Semidefinite Programming Approach for the Stabe Set Problem.</title>
+<pages>407-421</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_28</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Hoeve03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HollandOO03" mdate="2017-05-17">
+<author pid="62/4523">Alan Holland</author>
+<author pid="52/486">Barry O'Callaghan</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>A Constraint-Aided Conceptual Design Environment for Autodesk Inventor.</title>
+<pages>422-436</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_29</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#HollandOO03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KatrielT03" mdate="2017-05-17">
+<author pid="k/IritKatriel">Irit Katriel</author>
+<author pid="61/4330">Sven Thiel</author>
+<title>Fast Bound Consistency for the Global Cardinality Constraint.</title>
+<pages>437-451</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_30</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#KatrielT03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KrippahlB03" mdate="2017-05-17">
+<author pid="15/6913">Ludwig Krippahl</author>
+<author pid="b/PBarahona">Pedro Barahona</author>
+<title>Propagating N-Ary Rigid-Body Constraints.</title>
+<pages>452-465</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_31</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#KrippahlB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LarrosaM03" mdate="2017-05-17">
+<author pid="27/2738">Javier Larrosa</author>
+<author pid="56/2282">Enric Morancho</author>
+<title>Solving 'Still Life' with Soft Constraints and Bucket Elimination.</title>
+<pages>466-479</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_32</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#LarrosaM03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LecoutreBH03" mdate="2017-05-17">
+<author pid="95/2777">Christophe Lecoutre</author>
+<author pid="01/3426">Fr&#233;d&#233;ric Boussemart</author>
+<author pid="21/5749">Fred Hemery</author>
+<title>Exploiting Multidirectionality in Coarse-Grained Arc Consistency Algorithms.</title>
+<pages>480-494</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_33</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#LecoutreBH03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LiuT03" mdate="2017-05-17">
+<author pid="72/1859">Lengning Liu</author>
+<author pid="t/MiroslawTruszczynski">Miroslaw Truszczynski</author>
+<title>Local-Search Techniques for Propositional Logic Extended with Cardinality Constraints.</title>
+<pages>495-509</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_34</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#LiuT03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LodiMR03" mdate="2017-05-17">
+<author pid="196/3740">Andrea Lodi 0001</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<title>Discrepancy-Based Additive Bounding for the AllDifferent Constraint.</title>
+<pages>510-524</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_35</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#LodiMR03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Maher03" mdate="2017-05-17">
+<author pid="m/MichaelJMaher">Michael J. Maher</author>
+<title>A Synthesis of Constraint Satisfaction and Constraint Solving.</title>
+<pages>525-539</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_36</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Maher03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MichelH03" mdate="2017-05-17">
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Maintaining Longest Paths Incrementally.</title>
+<pages>540-554</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_37</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#MichelH03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Mitchell03" mdate="2017-05-17">
+<author pid="m/DavidGMitchell">David G. Mitchell</author>
+<title>Resolution and Constraint Satisfaction.</title>
+<pages>555-569</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_38</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Mitchell03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/OddiPCC03" mdate="2017-05-17">
+<author pid="82/2253">Angelo Oddi</author>
+<author pid="66/3190">Nicola Policella</author>
+<author pid="c/AmedeoCesta">Amedeo Cesta</author>
+<author pid="95/4633">Gabriella Cortellessa</author>
+<title>Generating High Quality Schedules for a Spacecraft Memory Downlink Problem.</title>
+<pages>570-584</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_39</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#OddiPCC03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Puget03" mdate="2017-05-17">
+<author pid="p/JFPuget">Jean-Francois Puget</author>
+<title>Symmetry Breaking Using Stabilizers.</title>
+<pages>585-599</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_40</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Puget03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/QuimperBLGS03" mdate="2021-04-09">
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="b/PetervanBeek">Peter van Beek</author>
+<author pid="l/ALopezOrtiz">Alejandro L&#243;pez-Ortiz</author>
+<author pid="54/936">Alexander Golynski</author>
+<author pid="s/SayyedBashirSadjad">Sayyed Bashir Sadjad</author>
+<title>An Efficient Bounds Consistency Algorithm for the Global Cardinality Constraint.</title>
+<pages>600-614</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_41</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#QuimperBLGS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Ratschan03" mdate="2017-05-17">
+<author pid="67/4669">Stefan Ratschan</author>
+<title>Solving Existentially Quantified Constraints with One Equality and Arbitrarily Many Inequalities.</title>
+<pages>615-633</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_42</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Ratschan03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Regin03" mdate="2018-11-14">
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<title>Using Constraint Programming to Solve the Maximum Clique Problem.</title>
+<pages>634-648</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_43</ee>
+<ee>https://www.wikidata.org/entity/Q56210436</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Regin03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SabinFW03" mdate="2017-05-17">
+<author pid="32/346">Mihaela Sabin</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<author pid="44/4904">Richard J. Wallace</author>
+<title>Greater Efficiency for Conditional Constraint Satisfaction.</title>
+<pages>649-663</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_44</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#SabinFW03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Kumar03" mdate="2017-05-17">
+<author pid="22/6935">T. K. Satish Kumar</author>
+<title>Incremental Computation of Resource-Envelopes in Producer-Consumer Models.</title>
+<pages>664-678</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_45</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Kumar03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Sellmann03" mdate="2017-05-17">
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<title>Approximated Consistency for Knapsack Constraints.</title>
+<pages>679-693</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_46</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Sellmann03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Sellmann03a" mdate="2017-05-17">
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<title>Cost-Based Filtering for Shorter Path Constraints.</title>
+<pages>694-708</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_47</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Sellmann03a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TerriouxJ03" mdate="2017-05-17">
+<author pid="34/5502">Cyril Terrioux</author>
+<author pid="10/6570">Philippe J&#233;gou</author>
+<title>Bounded Backtracking for the Valued Constraint Satisfaction Problems.</title>
+<pages>709-723</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_48</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#TerriouxJ03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Walsh03a" mdate="2017-05-17">
+<author pid="86/2576">Toby Walsh</author>
+<title>Consistency and Propagation with Multiset Constraints: A Formal Viewpoint.</title>
+<pages>724-738</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_49</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Walsh03a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Wolf03" mdate="2017-05-17">
+<author pid="w/ArminWolf">Armin Wolf</author>
+<title>Pruning while Sweeping over Task Intervals.</title>
+<pages>739-753</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_50</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Wolf03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/XuC03" mdate="2017-05-17">
+<author pid="40/1068">Lin Xu</author>
+<author pid="64/4385">Berthe Y. Choueiry</author>
+<title>Improving Backtrack Search for Solving the TCSP.</title>
+<pages>754-768</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_51</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#XuC03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Yorke-SmithG03" mdate="2017-05-17">
+<author pid="95/5096">Neil Yorke-Smith</author>
+<author pid="00/1277">Carmen Gervet</author>
+<title>Certainty Closure: A Framework for Reliable Constraint Reasoning with Uncertainty.</title>
+<pages>769-783</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_52</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Yorke-SmithG03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Angelopoulos03" mdate="2017-05-17">
+<author pid="45/4794">Nicos Angelopoulos</author>
+<title>clp(pdf(y)): Constraints for Probabilistic Reasoning in Logic Programming.</title>
+<pages>784-788</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_53</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Angelopoulos03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BessiereH03" mdate="2017-05-17">
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>To Be or Not to Be ... a Global Constraint.</title>
+<pages>789-794</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_54</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BessiereH03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BrandGR03" mdate="2017-06-02">
+<author pid="04/1098">Sebastian Brand</author>
+<author orcid="0000-0003-0063-0996" pid="07/3793">Rosella Gennari</author>
+<author pid="r/MdRijke">Maarten de Rijke</author>
+<title>Constraint Programming for Modelling and Solving Modal Satisfability.</title>
+<pages>795-800</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_55</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BrandGR03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BritoM03" mdate="2017-05-17">
+<author pid="31/1621">Ismel Brito</author>
+<author pid="96/1119">Pedro Meseguer</author>
+<title>Distributed Forward Checking.</title>
+<pages>801-806</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_56</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BritoM03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Cohen03" mdate="2017-05-17">
+<author pid="50/3733">David A. Cohen</author>
+<title>A New Classs of Binary CSPs for which Arc-Constistency Is a Decision Procedure.</title>
+<pages>807-811</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_57</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Cohen03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ColettaBOFOQ03" mdate="2017-05-17">
+<author pid="37/4003">Remi Coletta</author>
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<author pid="68/1188">Sarah O'Connell</author>
+<author pid="40/4485">Jo&#235;l Quinqueton</author>
+<title>Semi-automatic Modeling by Constraint Acquisition.</title>
+<pages>812-816</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_58</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#ColettaBOFOQ03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DannaP03" mdate="2017-05-17">
+<author pid="72/1268">Emilie Danna</author>
+<author pid="73/4963">Laurent Perron</author>
+<title>Structured vs. Unstructured Large Neighborhood Search: A Case Study on Job-Shop Scheduling Problems with Earliness and Tardiness Costs.</title>
+<pages>817-821</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_59</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#DannaP03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/EisenbergF03" mdate="2017-05-17">
+<author pid="57/6556">Carlos Eisenberg</author>
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<title>Using the Breakout Algorithm to Identify Hard and Unsolvable Subproblems.</title>
+<pages>822-826</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_60</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#EisenbergF03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FernandeyHS03" mdate="2018-10-18">
+<author orcid="0000-0002-5330-5217" pid="f/AJFernandez">Antonio J. Fern&#225;ndez 0001</author>
+<author pid="27/2641">Maria Teresa Hortal&#225;-Gonz&#225;lez</author>
+<author pid="60/1036">Fernando S&#225;enz-P&#233;rez</author>
+<title>Toy(FD): Sketch of Operational Semantics.</title>
+<pages>827-831</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_61</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#FernandeyHS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FrankD03" mdate="2017-05-17">
+<author pid="32/67">Jeremy Frank</author>
+<author pid="97/1979">Richard Dearden</author>
+<title>Scheduling in the Face of Uncertain Resource Consumption and Utility.</title>
+<pages>832-836</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_62</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#FrankD03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentPSW03" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="181/2862">Wu Wei</author>
+<title>Supertree Construction with Constraint Programming.</title>
+<pages>837-841</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_63</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GentPSW03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GiunchigliaMT03" mdate="2022-10-02">
+<author orcid="0000-0001-5758-2556" pid="g/EnricoGiunchiglia">Enrico Giunchiglia</author>
+<author pid="m/MarcoMaratea">Marco Maratea</author>
+<author orcid="0000-0001-9487-331X" pid="35/5174">Armando Tacchella</author>
+<title>(In)Effectiveness of Look-Ahead Techniques in a Modern SAT Solver.</title>
+<pages>842-846</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_64</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GiunchigliaMT03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GomesVR03" mdate="2020-06-15">
+<author pid="24/4005">Nuno Gomes</author>
+<author orcid="0000-0002-4560-9544" pid="53/2100">Zita A. Vale</author>
+<author pid="52/11058">Carlos Ramos 0001</author>
+<title>Reduce and Assign: A Constraint Logic Programming and Local Search Integration Framework to Solve Combinatorial Search Problems.</title>
+<pages>847-852</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_65</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GomesVR03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GrandcolasHP03" mdate="2017-05-17">
+<author pid="86/7018">St&#233;phane Grandcolas</author>
+<author pid="83/1624">Laurent Henocque</author>
+<author pid="11/5346">Nicolas Prcovic</author>
+<title>A Canonicity Test for Configuration.</title>
+<pages>853-857</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_66</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GrandcolasHP03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GrandoniI03" mdate="2017-12-11">
+<author pid="g/FGrandoni">Fabrizio Grandoni 0001</author>
+<author pid="i/GiuseppeFItaliano">Giuseppe F. Italiano</author>
+<title>Improved Algorithms for Max-restricted Path Consistency.</title>
+<pages>858-862</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_67</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GrandoniI03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GuerriM03" mdate="2017-05-17">
+<author pid="13/1315">Alessio Guerri</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>CP-IP Techniques for the Bid Evaluation in Combinatorial Auctions.</title>
+<pages>863-867</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_68</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#GuerriM03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HuangLJLX03" mdate="2017-05-17">
+<author pid="03/4775">Wenqi Huang</author>
+<author pid="34/2997">Yu Li</author>
+<author pid="17/1098">Bernard Jurkowiak</author>
+<author pid="35/5239">Chu Min Li</author>
+<author pid="15/5806">Ru Chu Xu</author>
+<title>A Two-Level Search Strategy for Packing Unequal Circles into a Circle Container.</title>
+<pages>868-872</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_69</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#HuangLJLX03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KatsirelosB03" mdate="2017-05-17">
+<author pid="61/6509">George Katsirelos</author>
+<author pid="b/FahiemBacchus">Fahiem Bacchus</author>
+<title>Unrestricted Nogood Recording in CSP Search.</title>
+<pages>873-877</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_70</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#KatsirelosB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Laburthe03" mdate="2017-05-17">
+<author pid="34/2548">Fran&#231;ois Laburthe</author>
+<title>Constraints over Ontologies.</title>
+<pages>878-882</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_71</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Laburthe03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LaburtheC03" mdate="2017-05-17">
+<author pid="34/2548">Fran&#231;ois Laburthe</author>
+<author pid="c/YvesCaseau">Yves Caseau</author>
+<title>Using Constraints for Exploring Catalogs.</title>
+<pages>883-888</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_72</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#LaburtheC03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LallouetLDE03" mdate="2017-05-17">
+<author pid="53/3354">Arnaud Lallouet</author>
+<author pid="96/1068">Andrei Legtchenko</author>
+<author pid="00/1932">Thi-Bich-Hanh Dao</author>
+<author pid="91/5379">AbdelAli Ed-Dbali</author>
+<title>Intermediate (Learned) Consistencies.</title>
+<pages>889-893</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_73</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#LallouetLDE03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Larkin03" mdate="2017-11-04">
+<author pid="37/6924">David Larkin 0001</author>
+<title>Semi-independent Partitioning: A Method for Bounding the Solution to COP's.</title>
+<pages>894-898</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_74</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Larkin03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Leyton-BrownNAMS03" mdate="2019-06-02">
+<author orcid="0000-0002-7644-5327" pid="81/1149">Kevin Leyton-Brown</author>
+<author pid="18/6610">Eugene Nudelman</author>
+<author pid="31/1971">Galen Andrew</author>
+<author pid="67/309">Jim McFadden</author>
+<author pid="s/YoavShoham">Yoav Shoham</author>
+<title>Boosting as a Metaphor for Algorithm Design.</title>
+<pages>899-903</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_75</ee>
+<ee>https://www.wikidata.org/entity/Q60521697</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Leyton-BrownNAMS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Lhomme03" mdate="2017-05-17">
+<author pid="43/2508">Olivier Lhomme</author>
+<title>An Efficient Filtering Algorithm for Disjunction of Constraints.</title>
+<pages>904-908</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_76</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Lhomme03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NeveuT03" mdate="2017-05-17">
+<author pid="39/6105">Bertrand Neveu</author>
+<author pid="55/2812">Gilles Trombettoni</author>
+<title>INCOP: An Open Library for INcomplete Combinatorial OPtimization.</title>
+<pages>909-913</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_77</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#NeveuT03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NishiharaMN03" mdate="2017-05-17">
+<author pid="66/551">Seiichi Nishihara</author>
+<author pid="34/1223">Kazunori Mizuno</author>
+<author pid="85/4497">Kohsuke Nishihara</author>
+<title>A Composition Algorithm for Very Hard Graph 3-Colorability Instances.</title>
+<pages>914-919</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_78</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#NishiharaMN03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/OhnishiTT03" mdate="2017-05-17">
+<author pid="23/2079">Shuji Ohnishi</author>
+<author pid="99/2071">Hiroaki Tasaka</author>
+<author pid="15/3484">Naoyuki Tamura</author>
+<title>Efficient Represenation of Discrete Sets for Constraint Programming.</title>
+<pages>920-924</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_79</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#OhnishiTT03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PetcuF03" mdate="2017-05-17">
+<author pid="13/1774">Adrian Petcu</author>
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<title>Applying Interchangeability Techniques to the Distributed Breakout Algorithm.</title>
+<pages>925-929</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_80</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#PetcuF03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PetrieS03" mdate="2017-05-17">
+<author pid="69/1977">Karen E. Petrie</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>Symmetry Breaking in Graceful Graphs.</title>
+<pages>930-934</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_81</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#PetrieS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Prcovic03" mdate="2017-05-17">
+<author pid="11/5346">Nicolas Prcovic</author>
+<title>Tree Local Search.</title>
+<pages>935-939</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_82</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Prcovic03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PrestwichHO03" mdate="2022-10-02">
+<author pid="56/661">Steven D. Prestwich</author>
+<author pid="89/6822">Desmond G. Higgins</author>
+<author orcid="0000-0002-4332-1109" pid="67/3879">Orla O'Sullivan</author>
+<title>A SAT-Based Approach to Multiple Sequence Alignment.</title>
+<pages>940-944</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_83</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#PrestwichHO03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RazgonM03" mdate="2017-05-17">
+<author pid="91/2007">Igor Razgon</author>
+<author pid="m/AmnonMeisels">Amnon Meisels</author>
+<title>Maintaining Dominance Consistency.</title>
+<pages>945-949</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_84</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#RazgonM03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Sandholm03a" mdate="2017-05-17">
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<title>Terminating Decision Algorithms Optimally.</title>
+<pages>950-955</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_85</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Sandholm03a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TrombettoniW03" mdate="2017-05-17">
+<author pid="55/2812">Gilles Trombettoni</author>
+<author pid="27/5133">Marta Wilczkowiak</author>
+<title>Scene Reconstruction Based on Constraints: Details on the Equation System Decomposition.</title>
+<pages>956-961</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_86</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#TrombettoniW03</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Doctoral Abstracts</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Ansotegui03" mdate="2017-05-17">
+<author pid="32/2567">Carlos Ans&#243;tegui</author>
+<title>A New Approach to Solving SAT-Encoded Binary CSPs.</title>
+<pages>962</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_87</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Ansotegui03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Basharu03" mdate="2017-05-17">
+<author pid="31/2911">Muhammed Basharu</author>
+<title>FeReRA: A Multi-agent Approach to Constraint Satisfaction.</title>
+<pages>963</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_88</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Basharu03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BatniniR03" mdate="2017-05-17">
+<author pid="13/5650">Heikel Batnini</author>
+<author pid="r/MichelRueher">Michel Rueher</author>
+<title>Semantic Decomposition for Solving Distance Constraints.</title>
+<pages>964-965</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_89</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BatniniR03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Bidot03" mdate="2017-05-17">
+<author pid="68/2999">Julien Bidot</author>
+<title>Using Constraint Programming and Simulation for Execution Monitoring and On-Line Rescheduling with Uncertainty.</title>
+<pages>966</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_90</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Bidot03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BoutheinaG03" mdate="2017-05-17">
+<author pid="34/3534">Jlifi Boutheina</author>
+<author pid="08/565">Khaled Gh&#233;dira</author>
+<title>On the Enhancement of the Informed Backtracking Algorithm.</title>
+<pages>967</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_91</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#BoutheinaG03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Boysen03" mdate="2019-10-19">
+<author orcid="0000-0003-2459-4715" pid="21/3377">Ole Boysen</author>
+<title>Extending CLP with Metaheuristics.</title>
+<pages>968</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_92</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Boysen03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Carchrae03" mdate="2017-05-17">
+<author pid="01/4216">Tom Carchrae</author>
+<title>Self Configuring Constraint Programming Systems.</title>
+<pages>969</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_93</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Carchrae03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DugganOF03" mdate="2017-05-17">
+<author pid="80/383">Moyra Duggan</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Interactive Tradeoff Generation.</title>
+<pages>970</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_94</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#DugganOF03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FlenerPA03" mdate="2018-11-14">
+<author orcid="0000-0001-8730-4098" pid="08/4454">Pierre Flener</author>
+<author pid="50/4914">Justin Pearson</author>
+<author pid="134/3170">Magnus &#197;gren 0002</author>
+<title>Introducing ESRA, a Relational Language for Modelling Combinatorial Problems.</title>
+<pages>971</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_95</ee>
+<ee>https://www.wikidata.org/entity/Q57574284</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#FlenerPA03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Gibbons03" mdate="2017-05-17">
+<author pid="55/3122">James Gibbons</author>
+<title>Abstracting Constraints Using Constraints.</title>
+<pages>972</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_96</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Gibbons03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Glynn03" mdate="2017-05-17">
+<author pid="51/6270">Diarmuid Glynn</author>
+<title>Sensitivity Analysis in CSPs.</title>
+<pages>973</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_97</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Glynn03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Hebrard03" mdate="2017-06-15">
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<title>Solution Stability in Constraint Satisfaction Problems.</title>
+<pages>974</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_98</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Hebrard03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Heusch03" mdate="2020-02-20">
+<author pid="183/7627">Micha&#235;l Heusch</author>
+<title>distn: An Euclidean Distance Global Constraint.</title>
+<pages>975</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_99</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Heusch03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HollandO03" mdate="2017-05-17">
+<author pid="62/4523">Alan Holland</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Algorithmic Mechanism Design and Constraints.</title>
+<pages>976</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_100</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#HollandO03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JosephCHW03" mdate="2017-05-17">
+<author pid="88/1176">R&#233;my-Robert Joseph</author>
+<author pid="79/2427">Peter Chan</author>
+<author pid="17/2015">Michael Hiroux</author>
+<author pid="45/348">Georges Weil</author>
+<title>Preference Constraints: New Global Soft Constraints Dedicated to Preference Binary Relations.</title>
+<pages>977</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_101</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#JosephCHW03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KelleherO03" mdate="2017-05-17">
+<author pid="64/2321">Jerome Kelleher</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Optimising the Representation and Evaluation of Semiring Combination Constraints.</title>
+<pages>978</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_102</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#KelleherO03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Kiziltan03" mdate="2017-05-17">
+<author pid="54/4901">Zeynep Kiziltan</author>
+<title>Symmetry Breaking Ordering Constraints.</title>
+<pages>979</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_103</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Kiziltan03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Langevine03" mdate="2017-05-17">
+<author pid="58/2630">Ludovic Langevine</author>
+<title>Observation of Constraint Programs.</title>
+<pages>980</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_104</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Langevine03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Legierski03" mdate="2017-05-17">
+<author pid="88/5844">Wojciech Legierski</author>
+<title>Search Programming.</title>
+<pages>981</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_105</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Legierski03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Likitvivatanavong03" mdate="2017-05-17">
+<author pid="04/4146">Chavalit Likitvivatanavong</author>
+<title>Exploiting Microstructure in CSPs.</title>
+<pages>982</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_106</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Likitvivatanavong03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LittleGBF03" mdate="2020-04-28">
+<author pid="91/4932-2">James Little 0002</author>
+<author pid="36/5358">Cormac Gebruers</author>
+<author pid="b/DerekGBridge">Derek G. Bridge</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Using Case-Based Reasoning to Write Constraint Programs.</title>
+<pages>983</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_107</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#LittleGBF03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Mancini03" mdate="2017-06-15">
+<author orcid="0000-0003-3355-2170" pid="14/290">Toni Mancini</author>
+<title>Reformulation Techniques for a Class of Permutation Problems.</title>
+<pages>984</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_108</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Mancini03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/McDonald03" mdate="2017-05-17">
+<author pid="73/312">Iain McDonald</author>
+<title>NuSBDS: An Easy to Use Symmetry Breaking System.</title>
+<pages>985</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_109</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#McDonald03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Muller03" mdate="2017-05-17">
+<author pid="30/10">Tom&#225;s M&#252;ller</author>
+<title>Interactivity in Constraint Programming.</title>
+<pages>986</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_110</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Muller03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NordlanderBS03" mdate="2017-05-17">
+<author pid="47/3209">Tomas Eric Nordlander</author>
+<author pid="49/1220">Kenneth N. Brown</author>
+<author pid="s/DerekHSleeman">Derek H. Sleeman</author>
+<title>Identifying Inconsistent CSPs by Relaxation.</title>
+<pages>987</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_111</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#NordlanderBS03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/OCallaghanFO03" mdate="2017-05-17">
+<author pid="52/486">Barry O'Callaghan</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Useful Explanations.</title>
+<pages>988</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_112</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#OCallaghanFO03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/OConnellOF03" mdate="2017-05-17">
+<author pid="68/1188">Sarah O'Connell</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Teacher and Learner Profiles for Constraint Acquisition.</title>
+<pages>989</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_113</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#OConnellOF03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Petrie03" mdate="2017-05-17">
+<author pid="69/1977">Karen E. Petrie</author>
+<title>Comparison of Symmetry Breaking Methods.</title>
+<pages>990</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_114</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Petrie03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Planes03" mdate="2017-06-15">
+<author orcid="0000-0003-1861-9736" pid="15/2411">Jordi Planes</author>
+<title>Improved Branch and Bound Algorithms for Max-2-SAT and Weighted Max-2-SAT.</title>
+<pages>991</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_115</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Planes03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Quirke03" mdate="2017-05-17">
+<author pid="39/4213">Colin Quirke</author>
+<title>Search for Mathematical Objects.</title>
+<pages>992</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_116</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Quirke03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Rochart03" mdate="2017-05-17">
+<author pid="94/1428">Guillaume Rochart</author>
+<title>Explanations for Global Constraints.</title>
+<pages>993</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_117</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Rochart03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Rowley03" mdate="2017-05-17">
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<title>Watching Clauses in Quantified Boolean Formulae.</title>
+<pages>994</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_118</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Rowley03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Schlenker03" mdate="2017-05-17">
+<author pid="02/6234">Hans Schlenker</author>
+<title>Distributed Constraint-Based Railway Simulation.</title>
+<pages>995</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_119</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Schlenker03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Sheridan03" mdate="2017-05-17">
+<author pid="68/5510">Daniel Sheridan</author>
+<title>Dynamic Step Size Adjustment in Iterative Deepening Search.</title>
+<pages>996</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_120</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Sheridan03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Sturdy03" mdate="2017-05-17">
+<author pid="23/5120">Paula Sturdy</author>
+<title>Learning Good Variable Orderings.</title>
+<pages>997</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_121</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Sturdy03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TigheSL03" mdate="2017-05-17">
+<author pid="40/2770">Ann Tighe</author>
+<author pid="49/6646">Finlay S. Smith</author>
+<author pid="86/1163">Gerard Lyons</author>
+<title>An Adaptive Controller for Real-Time Resolution of the Vehicle Routing Problem.</title>
+<pages>998</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_122</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#TigheSL03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Venable03" mdate="2017-05-17">
+<author pid="v/KristenBrentVenable">Kristen Brent Venable</author>
+<title>alpha-Dynamic Controllability of Simple Temporal Problems with Preferences and Uncertainty.</title>
+<pages>999</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_123</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Venable03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Vilim03" mdate="2017-05-17">
+<author pid="91/5349">Petr Vil&#237;m</author>
+<title>Computing Explanations for Global Scheduling Constraints.</title>
+<pages>1000</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_124</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Vilim03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/WuB03" mdate="2017-05-17">
+<author pid="71/5882">Huayue Wu</author>
+<author pid="b/PetervanBeek">Peter van Beek</author>
+<title>Restart Strategies: Analysis and Simulation.</title>
+<pages>1001</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_125</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#WuB03</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Zoeteweij03" mdate="2017-05-17">
+<author pid="79/2159">Peter Zoeteweij</author>
+<title>OpenSolver: A Coordination-Enabled Abstract Branch-and-Prune Tree Search Engine.</title>
+<pages>1002</pages>
+<ee>https://doi.org/10.1007/978-3-540-45193-8_126</ee>
+<year>2003</year>
+<crossref>conf/cp/2003</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2003.html#Zoeteweij03</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

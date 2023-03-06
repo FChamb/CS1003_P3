@@ -1,0 +1,643 @@
+<bht key="db/conf/ershov/ershov1999.bht" title="Ershov Memorial Conference 1999">  
+<h1>3rd <ref href="db/conf/ershov/index.html">Ershov Memorial Conference</ref> 1999:
+Novosibirsk, Russia</h1>
+<dblpcites><r><proceedings key="conf/ershov/1999" mdate="2019-05-14">
+<editor pid="b/DinesBjorner">Dines Bj&#248;rner</editor>
+<editor pid="b/ManfredBroy">Manfred Broy</editor>
+<editor pid="59/3968">Alexandre V. Zamulin</editor>
+<title>Perspectives of System Informatics, Third International Andrei Ershov Memorial Conference, PSI'99, Akademgorodok, Novosibirsk, Russia, July 6-9, 1999, Proceedings</title>
+<booktitle>Ershov Memorial Conference</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1755</volume>
+<publisher>Springer</publisher>
+<year>2000</year>
+<isbn>3-540-67102-1</isbn>
+<ee>https://doi.org/10.1007/3-540-46562-6</ee>
+<url>db/conf/ershov/ershov1999.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+<h2>Algebraic Specifications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/Sannella99" mdate="2021-07-25">
+<author orcid="0000-0003-4520-8924" pid="s/DonaldSannella">Donald Sannella</author>
+<title>The Common Framework Initiative for Algebraic Specification and Development of Software.</title>
+<pages>1-9</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_1</ee>
+<url>db/conf/ershov/ershov1999.html#Sannella99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/KorovinaK99" mdate="2017-05-21">
+<author pid="30/3563">Margarita V. Korovina</author>
+<author pid="11/4988">Oleg V. Kudinov</author>
+<title>A Logical Approach to Specification of Hybrid Systems.</title>
+<pages>10-16</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_2</ee>
+<url>db/conf/ershov/ershov1999.html#KorovinaK99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Specifications with States</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/GaudelZ99" mdate="2017-05-21">
+<author pid="74/4866">Marie-Claude Gaudel</author>
+<author pid="59/3968">Alexandre V. Zamulin</author>
+<title>Algebraic Imperative Specifications.</title>
+<pages>17-39</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_3</ee>
+<url>db/conf/ershov/ershov1999.html#GaudelZ99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/AnlauffKP99" mdate="2017-05-21">
+<author pid="25/6314">Matthias Anlauff</author>
+<author pid="43/2023">Philipp W. Kutter</author>
+<author pid="p/AlfonsoPierantonio">Alfonso Pierantonio</author>
+<title>Enhanced Control Flow Graphs in Montages.</title>
+<pages>40-53</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_4</ee>
+<url>db/conf/ershov/ershov1999.html#AnlauffKP99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/Sunbul99" mdate="2017-05-21">
+<author pid="91/6806">Asuman S&#252;nb&#252;l</author>
+<title>Abstract State Machines for the Composition of Architectural Styles.</title>
+<pages>54-61</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_5</ee>
+<url>db/conf/ershov/ershov1999.html#Sunbul99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Partial Evaluation and Supercompilation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/Jones99" mdate="2017-05-21">
+<author pid="j/NeilDJones">Neil D. Jones</author>
+<title>The Essence of Program Transformation by Partial Evaluation and Driving.</title>
+<pages>62-79</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_6</ee>
+<url>db/conf/ershov/ershov1999.html#Jones99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/ChristensenGL99" mdate="2017-05-21">
+<author pid="20/3257">Niels H. Christensen</author>
+<author pid="g/RobertGluck">Robert Gl&#252;ck</author>
+<author pid="69/75">S&#248;ren Laursen</author>
+<title>Binding-Time Analysis in Partial Evaluation: One Size Does Not Fit All.</title>
+<pages>80-92</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_7</ee>
+<url>db/conf/ershov/ershov1999.html#ChristensenGL99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/GluckL99" mdate="2017-05-21">
+<author pid="g/RobertGluck">Robert Gl&#252;ck</author>
+<author pid="l/MLeuschel">Michael Leuschel</author>
+<title>Abstraction-Based Partial Deduction for Solving Inverse Problems - A Transformational Approach to Software Verification.</title>
+<pages>93-100</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_8</ee>
+<url>db/conf/ershov/ershov1999.html#GluckL99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/MartinL99" mdate="2017-05-21">
+<author pid="65/1968">Jonathan C. Martin</author>
+<author pid="l/MLeuschel">Michael Leuschel</author>
+<title>Sonic Partial Deduction.</title>
+<pages>101-112</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_9</ee>
+<url>db/conf/ershov/ershov1999.html#MartinL99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/SecherS99" mdate="2017-05-21">
+<author pid="19/1145">Jens P. Secher</author>
+<author pid="s/MortenHeineSorensen">Morten Heine S&#248;rensen</author>
+<title>On Perfect Supercompilation.</title>
+<pages>113-127</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_10</ee>
+<url>db/conf/ershov/ershov1999.html#SecherS99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/Mogensen99" mdate="2017-05-21">
+<author pid="19/4483">Torben &#198;. Mogensen</author>
+<title>Linear Time Self-Interpretation of the Pure Lambda Calculus.</title>
+<pages>128-142</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_11</ee>
+<url>db/conf/ershov/ershov1999.html#Mogensen99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/Uvarov99" mdate="2017-05-21">
+<author pid="64/144">Denis L. Uvarov</author>
+<title>An Optimal Algorithm for Purging Regular Schemes.</title>
+<pages>143-148</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_12</ee>
+<url>db/conf/ershov/ershov1999.html#Uvarov99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Concurrency and Parallelism</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/Plumicke99" mdate="2017-05-21">
+<author pid="00/2251">Martin Pl&#252;micke</author>
+<title>Polymorphism in OBJ-P.</title>
+<pages>149-154</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_13</ee>
+<url>db/conf/ershov/ershov1999.html#Plumicke99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/GibsonM99" mdate="2017-05-21">
+<author pid="79/262">J. Paul Gibson</author>
+<author pid="51/6932">Dominique M&#233;ry</author>
+<title>Formal Modelling of Services for Getting a Better Understanding of the Feature Interaction Problem.</title>
+<pages>155-179</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_14</ee>
+<url>db/conf/ershov/ershov1999.html#GibsonM99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/ChkliaevHS99" mdate="2017-05-21">
+<author pid="25/915">Dmitri Chkliaev</author>
+<author pid="h/JozefHooman">Jozef Hooman</author>
+<author pid="34/37">Peter van der Stok</author>
+<title>Serializability Preserving Extensions of Concurrency Control Protocols.</title>
+<pages>180-193</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_15</ee>
+<url>db/conf/ershov/ershov1999.html#ChkliaevHS99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/Chelomin99" mdate="2017-05-21">
+<author pid="22/1171">Yury V. Chelomin</author>
+<title>Platform Independent Approach for Detecting Shared Memory Parallelism.</title>
+<pages>194-197</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_16</ee>
+<url>db/conf/ershov/ershov1999.html#Chelomin99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/Ustimenko99" mdate="2017-05-21">
+<author pid="99/6109">A. P. Ustimenko</author>
+<title>Hierarchical Cause-Effect Structures.</title>
+<pages>198-207</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_17</ee>
+<url>db/conf/ershov/ershov1999.html#Ustimenko99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/LomazovaS99" mdate="2017-05-21">
+<author pid="65/480">Irina A. Lomazova</author>
+<author pid="s/PhSchnoebelen">Philippe Schnoebelen</author>
+<title>Some Decidability Results for Nested Petri Nets.</title>
+<pages>208-220</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_18</ee>
+<url>db/conf/ershov/ershov1999.html#LomazovaS99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/CiobanuO99" mdate="2019-12-27">
+<author orcid="0000-0002-8166-9456" pid="c/GCiobanu">Gabriel Ciobanu</author>
+<author pid="72/7045">Emanuel Florentin Olariu</author>
+<title>Abstract Structures for Communication between Processes.</title>
+<pages>221-227</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_19</ee>
+<url>db/conf/ershov/ershov1999.html#CiobanuO99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Logic and Processes</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/DekhtyarDV99" mdate="2017-05-21">
+<author pid="71/6211">Michael I. Dekhtyar</author>
+<author pid="60/452">Alexander Ja. Dikovsky</author>
+<author pid="28/2852">Mars K. Valiev</author>
+<title>Applying Temporal Logic to Analysis of Behavior of Cooperating Logic Programs.</title>
+<pages>228-234</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_20</ee>
+<url>db/conf/ershov/ershov1999.html#DekhtyarDV99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/LinMN99" mdate="2017-05-21">
+<author pid="78/3592">Man Lin</author>
+<author pid="33/4951">Jacek Malec</author>
+<author pid="n/SiminNadjmTehrani">Simin Nadjm-Tehrani</author>
+<title>On Semantics and Correctness of Reactive Rule-Based Programs.</title>
+<pages>235-246</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_21</ee>
+<url>db/conf/ershov/ershov1999.html#LinMN99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/DamG99" mdate="2022-01-03">
+<author pid="d/MadsDam">Mads Dam</author>
+<author orcid="0000-0002-0074-8786" pid="47/1237">Dilian Gurov</author>
+<title>Compositional Verification of CCS Processes.</title>
+<pages>247-256</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_22</ee>
+<url>db/conf/ershov/ershov1999.html#DamG99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/Trichina99" mdate="2017-05-21">
+<author pid="71/4453">Elena Trichina</author>
+<title>Compositional Style of Programming FPGAs.</title>
+<pages>257-264</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_23</ee>
+<url>db/conf/ershov/ershov1999.html#Trichina99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Languages and Software</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/BasiliSL99" mdate="2017-05-21">
+<author pid="b/VRBasili">Victor R. Basili</author>
+<author pid="18/462">Forrest Shull</author>
+<author pid="29/4646">Filippo Lanubile</author>
+<title>Using Experiments to Build a Body of Knowledge.</title>
+<pages>265-282</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_24</ee>
+<url>db/conf/ershov/ershov1999.html#BasiliSL99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/KucherovR99" mdate="2017-05-21">
+<author pid="k/GregoryKucherov">Gregory Kucherov</author>
+<author pid="r/MichaelRusinowitch">Micha&#235;l Rusinowitch</author>
+<title>Patterns in Words versus Patterns in Trees: A Brief Survey and New Results.</title>
+<pages>283-296</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_25</ee>
+<url>db/conf/ershov/ershov1999.html#KucherovR99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/CaballeroL99" mdate="2019-10-23">
+<author orcid="0000-0001-8181-5532" pid="42/5386-1">Rafael Caballero 0001</author>
+<author pid="l/FJLopezFraguas">Francisco Javier L&#243;pez-Fraguas</author>
+<title>Extensions: A Technique for Structuring Functional-Logic Programs.</title>
+<pages>297-310</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_26</ee>
+<url>db/conf/ershov/ershov1999.html#CaballeroL99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/Kobilov99" mdate="2017-05-21">
+<author pid="53/3164">S. S. Kobilov</author>
+<title>Language Tools and Programming Systems in Educational Informatics.</title>
+<pages>311-315</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_27</ee>
+<url>db/conf/ershov/ershov1999.html#Kobilov99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Database Programming</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/MorrisonCCDFKMZ99" mdate="2017-06-15">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="91/3786">Alex Farkas</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="95/6594">Robert McGettrick</author>
+<author pid="36/415">Evangelos Zirintsis</author>
+<title>Current Directions in Hyper-Programming.</title>
+<pages>316-340</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_28</ee>
+<url>db/conf/ershov/ershov1999.html#MorrisonCCDFKMZ99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/Frank99" mdate="2017-05-21">
+<author pid="16/1348">Lars Frank</author>
+<title>Integration of Different Commit/Isolation Protocols in CSCW Systems with Shared Data.</title>
+<pages>341-351</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_29</ee>
+<url>db/conf/ershov/ershov1999.html#Frank99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/AsgariY99" mdate="2017-05-21">
+<author pid="79/6087">Sima Asgari</author>
+<author pid="01/5947">Naoki Yonezaki</author>
+<title>A General Object-Oriented Model for Spatial Data.</title>
+<pages>352-357</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_30</ee>
+<url>db/conf/ershov/ershov1999.html#AsgariY99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Object-Oriented Programming</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/Mossenbock99" mdate="2017-05-21">
+<author pid="m/HMossenbock">Hanspeter M&#246;ssenb&#246;ck</author>
+<title>Twin - A Design Pattern for Modeling Multiple Inheritance.</title>
+<pages>358-369</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_31</ee>
+<url>db/conf/ershov/ershov1999.html#Mossenbock99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/LellahiS99" mdate="2017-05-21">
+<author pid="13/977">S. Kazem Lellahi</author>
+<author pid="84/34">Rachid Souah</author>
+<title>A Partial Semantics for Object Data Models with Static Binding.</title>
+<pages>370-382</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_32</ee>
+<url>db/conf/ershov/ershov1999.html#LellahiS99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/SimonisW99" mdate="2017-05-21">
+<author pid="14/2763">Volker Simonis</author>
+<author pid="w/RolandJWeiss">Roland Weiss</author>
+<title>Heterogeneous, Nested STL Containers in C<sup>++</sup>.</title>
+<pages>383-388</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_33</ee>
+<url>db/conf/ershov/ershov1999.html#SimonisW99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/ShelekhovK99" mdate="2017-05-21">
+<author pid="65/3755">Vladimir I. Shelekhov</author>
+<author pid="28/3442">Sergey V. Kuksenko</author>
+<title>Data Flow Analysis of Java Programs in the Presence of Exceptions.</title>
+<pages>389-395</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_34</ee>
+<url>db/conf/ershov/ershov1999.html#ShelekhovK99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/Hof99" mdate="2017-05-21">
+<author pid="61/4091">Markus Hof</author>
+<title>Late Adaptation of Method Invocation Semantics.</title>
+<pages>396-401</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_35</ee>
+<url>db/conf/ershov/ershov1999.html#Hof99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Constraint Programming</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/CastroM99" mdate="2021-02-23">
+<author pid="02/3606-1">Carlos Castro 0001</author>
+<author pid="29/5834">&#201;ric Monfroy</author>
+<title>A Control Language for Designing Constraint Solvers.</title>
+<pages>402-415</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_36</ee>
+<url>db/conf/ershov/ershov1999.html#CastroM99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/BenhamouGLC99" mdate="2017-05-21">
+<author pid="b/FredericBenhamou">Fr&#233;d&#233;ric Benhamou</author>
+<author pid="11/4268">Fr&#233;d&#233;ric Goualard</author>
+<author pid="38/6412">&#201;ric Langu&#233;nou</author>
+<author pid="63/5800">Marc Christie</author>
+<title>An Algorithm to Compute Inner Approximations of Relations for Interval Constraints.</title>
+<pages>416-423</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_37</ee>
+<url>db/conf/ershov/ershov1999.html#BenhamouGLC99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/SidorovTU99" mdate="2017-05-21">
+<author pid="19/4421">Vladimir Sidorov</author>
+<author pid="86/2095">Vitaly Telerman</author>
+<author pid="56/2827">Dmitry Ushakov</author>
+<title>Constraint Programming Techniques for Solving Problems on Graphs.</title>
+<pages>424-433</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_38</ee>
+<url>db/conf/ershov/ershov1999.html#SidorovTU99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/YakhnoP99" mdate="2017-05-21">
+<author pid="14/6973">Tatyana M. Yakhno</author>
+<author pid="08/6028">Evgueni S. Petrov</author>
+<title>Extensional Set Library for ECL<sup>i</sup>PS<sup>e</sup>.</title>
+<pages>434-444</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_39</ee>
+<url>db/conf/ershov/ershov1999.html#YakhnoP99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Model &#38; Program Checking</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/SchneiderS99" mdate="2017-06-02">
+<author orcid="0000-0002-1305-7132" pid="180/3233-1">Klaus Schneider 0001</author>
+<author pid="55/155">Viktor K. Sabelfeld</author>
+<title>Introducing Mutual Exclusion in Esterel.</title>
+<pages>445-459</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_40</ee>
+<url>db/conf/ershov/ershov1999.html#SchneiderS99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/AndersonBCN99" mdate="2018-08-16">
+<author pid="93/6067">Richard J. Anderson</author>
+<author pid="b/PaulBeame">Paul Beame</author>
+<author pid="58/2301-1">William Chan 0001</author>
+<author pid="n/DavidNotkin">David Notkin</author>
+<title>Experiences with the Application of Symbolic Model Checking to the Analysis of Software Specifications.</title>
+<pages>460-469</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_41</ee>
+<url>db/conf/ershov/ershov1999.html#AndersonBCN99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/DoldV99" mdate="2017-05-21">
+<author pid="01/3053">Axel Dold</author>
+<author pid="21/6341">Vincent Vialard</author>
+<title>Formal Verification of a Compiler Back-End Generic Checker Program.</title>
+<pages>470-480</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_42</ee>
+<url>db/conf/ershov/ershov1999.html#DoldV99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/HeberleGGGZ99" mdate="2017-05-21">
+<author pid="72/3076">Andreas Heberle</author>
+<author pid="03/5002">Thilo Gaul</author>
+<author pid="10/5448">Wolfgang Goerigk</author>
+<author pid="g/GerhardGoos">Gerhard Goos</author>
+<author pid="z/WolfZimmermann">Wolf Zimmermann</author>
+<title>Construction of Verified Compiler Front-Ends with Program-Checking.</title>
+<pages>481-492</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_43</ee>
+<url>db/conf/ershov/ershov1999.html#HeberleGGGZ99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/RivaTD99" mdate="2017-05-21">
+<author pid="85/4311">Claudio de la Riva</author>
+<author pid="04/2789">Javier Tuya</author>
+<author pid="15/21">Jos&#233; Ram&#243;n de Diego</author>
+<title>Translating SA/RT Models to Synchronous Reactive Systems: An Approximation to Modular Verification Using the SMV Model Checker.</title>
+<pages>493-502</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_44</ee>
+<url>db/conf/ershov/ershov1999.html#RivaTD99</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Artificial Intelligence</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ershov/KolushevB99" mdate="2017-05-21">
+<author pid="82/5031">Fedor A. Kolushev</author>
+<author pid="78/4633">Alexander A. Bogdanov</author>
+<title>Multi-agent Optimal Path Planning for Mobile Robots in Environment with Obstacles.</title>
+<pages>503-510</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_45</ee>
+<url>db/conf/ershov/ershov1999.html#KolushevB99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/KononenkoPZ99" mdate="2020-10-25">
+<author orcid="0000-0001-5057-6807" pid="94/4169">Irina Kononenko</author>
+<author pid="53/4327">Ivan G. Popov</author>
+<author pid="27/5803">Yury A. Zagorulko</author>
+<title>Approach to Understanding Weather Forecast Telegrams with Agent-Based Technique.</title>
+<pages>511-516</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_46</ee>
+<url>db/conf/ershov/ershov1999.html#KononenkoPZ99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/CheblakovDLPZ99" mdate="2017-05-21">
+<author pid="97/274">George B. Cheblakov</author>
+<author pid="60/5254">Farida G. Dinenberg</author>
+<author pid="64/2781">David Ya. Levin</author>
+<author pid="53/4327">Ivan G. Popov</author>
+<author pid="27/5803">Yury A. Zagorulko</author>
+<title>Approach to Development of a System for Speech Interaction with an Intelligent Robot.</title>
+<pages>517-529</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_47</ee>
+<url>db/conf/ershov/ershov1999.html#CheblakovDLPZ99</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ershov/HerathSH99" mdate="2017-05-21">
+<author pid="12/1874">Susantha Herath</author>
+<author pid="18/2557">Chie Saito</author>
+<author pid="92/1081">Ajantha Herath</author>
+<title>Analysis of Sign Languages: A Step Towards Multi-lingual Machine Translation for Sign Languages.</title>
+<pages>530-</pages>
+<year>1999</year>
+<crossref>conf/ershov/1999</crossref>
+<booktitle>Ershov Memorial Conference</booktitle>
+<ee>https://doi.org/10.1007/3-540-46562-6_48</ee>
+<url>db/conf/ershov/ershov1999.html#HerathSH99</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

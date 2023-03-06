@@ -1,0 +1,235 @@
+<bht key="db/conf/icse/wads2007.bht" title="WADS 2007">  
+<h1><ref href="db/conf/dsn/index.html">DSN</ref> 2007:
+Workshop on Software Architectures for Dependable Systems (WADS)</h1> <dblpcites><r><proceedings key="conf/icse/2007wads" mdate="2019-05-14">
+<editor pid="09/577">Rog&#233;rio de Lemos</editor>
+<editor pid="67/947">Felicita Di Giandomenico</editor>
+<editor pid="16/1528">Cristina Gacek</editor>
+<editor pid="m/HenryMuccini">Henry Muccini</editor>
+<editor pid="80/6334">Marlon Vieira</editor>
+<title>Architecting Dependable Systems V [the book is a result from the WADS 2007 and the Third Workshop on the Role of Software Architecture for Testing and Analysis]</title>
+<volume>5135</volume>
+<year>2008</year>
+<isbn>978-3-540-85570-5</isbn>
+<booktitle>WADS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/978-3-540-85571-2</ee>
+<url>db/conf/icse/wads2007.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Critical Infrastructures</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/VerissimoNCDKBD07" mdate="2018-11-14">
+<author orcid="0000-0002-0085-8053" pid="v/PauloVerissimo">Paulo Ver&#237;ssimo</author>
+<author orcid="0000-0003-0411-4542" pid="24/4061">Nuno Ferreira Neves</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="62/1952">Yves Deswarte</author>
+<author pid="92/4448">Anas Abou El Kalam</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author pid="82/4182">Alessandro Daidone</author>
+<title>The CRUTIAL Architecture for Critical Information Infrastructures.</title>
+<pages>1-27</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_1</ee>
+<ee>https://www.wikidata.org/entity/Q57603699</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#VerissimoNCDKBD07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/BalducelliPLV07" mdate="2022-10-02">
+<author pid="39/2120">Claudio Balducelli</author>
+<author orcid="0000-0003-4041-4913" pid="60/4447">Antonio Di Pietro</author>
+<author pid="10/2198">Luisa Lavalle</author>
+<author pid="01/4181">Giordano Vicoli</author>
+<title>A Middleware Improved Technology (MIT) to Mitigate Interdependencies between Critical Infrastructures.</title>
+<pages>28-51</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_2</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#BalducelliPLV07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/ChiaradonnaGL07" mdate="2020-10-25">
+<author pid="24/5570">Silvano Chiaradonna</author>
+<author pid="67/947">Felicita Di Giandomenico</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<title>Evaluation of Critical Infrastructures: Challenges and Viable Approaches.</title>
+<pages>52-77</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_3</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#ChiaradonnaGL07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/DaidoneCBV07" mdate="2018-11-14">
+<author pid="82/4182">Alessandro Daidone</author>
+<author pid="24/5570">Silvano Chiaradonna</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author orcid="0000-0002-0085-8053" pid="v/PauloVerissimo">Paulo Ver&#237;ssimo</author>
+<title>Analysis of a Redundant Architecture for Critical Infrastructure Protection.</title>
+<pages>78-100</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_4</ee>
+<ee>https://www.wikidata.org/entity/Q57603686</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#DaidoneCBV07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/DeconinckVBQDNLDB07" mdate="2017-06-15">
+<author orcid="0000-0002-2225-3987" pid="d/GeertDeconinck">Geert Deconinck</author>
+<author pid="51/2678">Koen Vanthournout</author>
+<author pid="57/5665">Hakem Beitollahi</author>
+<author pid="82/5048">Zhifeng Qui</author>
+<author pid="20/5251">Rui Duan</author>
+<author orcid="0000-0003-3986-2786" pid="59/1465">Bart Nauwelaers</author>
+<author pid="01/5814">Emmanuel Van Lil</author>
+<author orcid="0000-0002-1025-0949" pid="57/3979">Johan Driesen</author>
+<author pid="76/3313">Ronnie Belmans</author>
+<title>A Robust Semantic Overlay Network for Microgrid Control Applications.</title>
+<pages>101-123</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_5</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#DeconinckVBQDNLDB07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/JansenRST07" mdate="2017-05-23">
+<author pid="60/65">Bernhard Jansen</author>
+<author pid="98/5762">HariGovind V. Ramasamy</author>
+<author pid="86/1764">Matthias Schunter</author>
+<author pid="83/96">Axel Tanner</author>
+<title>Architecting Dependable and Secure Systems Using Virtualization.</title>
+<pages>124-149</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_6</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#JansenRST07</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Rigorous Design/Fault Tolerance</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/PinterMKEKHP07" mdate="2022-01-03">
+<author pid="24/2710">Gergely Pint&#233;r</author>
+<author orcid="0000-0003-1846-261X" pid="69/4812">Zolt&#225;n Micskei</author>
+<author pid="01/2927">Andr&#225;s K&#246;vi</author>
+<author pid="04/5307">Zolt&#225;n &#201;gel</author>
+<author orcid="0000-0002-2792-3572" pid="60/3841">Imre Kocsis</author>
+<author orcid="0000-0002-1272-9451" pid="00/5684">G&#225;bor Huszerl</author>
+<author orcid="0000-0002-6516-129X" pid="19/6221">Andr&#225;s Pataricza</author>
+<title>Model-Based Approaches for Dependability in Ad-Hoc Mobile Networks and Services.</title>
+<pages>150-174</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_7</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#PinterMKEKHP07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/KirbyDN07" mdate="2017-06-04">
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="75/727">Stuart J. Norcross</author>
+<title>Design, Implementation and Deployment of State Machines Using a Generative Approach.</title>
+<pages>175-198</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_8</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#KirbyDN07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/SlemberN07" mdate="2017-05-23">
+<author pid="55/5612">Joseph G. Slember</author>
+<author pid="n/PriyaNarasimhan">Priya Narasimhan</author>
+<title>Handling Emergent Nondeterminism in Replicated Services.</title>
+<pages>199-224</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_9</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#SlemberN07</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Verification and Validation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icse/DialloNAZR07" mdate="2017-05-23">
+<author pid="01/1393">Mamadou H. Diallo</author>
+<author pid="14/9">Leila Naslavsky</author>
+<author pid="17/34">Thomas A. Alspaugh</author>
+<author pid="63/4261">Hadar Ziv</author>
+<author pid="r/DJRichardson">Debra J. Richardson</author>
+<title>Toward Architecture Evaluation through Ontology-Based Requirements-Level Scenarios.</title>
+<pages>225-247</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_10</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#DialloNAZR07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/GieseHH07" mdate="2017-11-17">
+<author pid="13/1348">Holger Giese</author>
+<author pid="45/3189">Stefan Henkler</author>
+<author pid="h/MartinHirsch">Martin Hirsch 0001</author>
+<title>Combining Formal Verification and Testing for Correct Legacy Component Integration in Mechatronic UML.</title>
+<pages>248-272</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_11</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#GieseHH07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/WangAC07" mdate="2017-05-23">
+<author pid="90/417">Shangzhu Wang</author>
+<author pid="a/GeorgeSAvrunin">George S. Avrunin</author>
+<author pid="c/LoriAClarke">Lori A. Clarke</author>
+<title>Plug-and-Play Architectural Design and Verification.</title>
+<pages>273-297</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_12</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#WangAC07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/BartoliniBMP07" mdate="2020-06-15">
+<author pid="85/6754">Cesare Bartolini</author>
+<author orcid="0000-0001-8749-1356" pid="03/3919">Antonia Bertolino</author>
+<author orcid="0000-0003-4223-8036" pid="54/2616">Eda Marchetti</author>
+<author pid="96/1164">Ioannis Parissis</author>
+<title>Data Flow-Based Validation of Web Services Compositions: Perspectives and Examples.</title>
+<pages>298-325</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_13</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#BartoliniBMP07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/KettuKLM07" mdate="2022-06-23">
+<author pid="98/5617">Tommy Kettu</author>
+<author pid="k/EckhardKruse">Eckhard Kruse</author>
+<author orcid="0000-0002-6200-4125" pid="54/4625">Magnus Larsson</author>
+<author pid="96/6932">Goran Mustapic</author>
+<title>Using Architecture Analysis to Evolve Complex Industrial Systems.</title>
+<pages>326-341</pages>
+<year>2007</year>
+<booktitle>WADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85571-2_14</ee>
+<crossref>conf/icse/2007wads</crossref>
+<url>db/conf/icse/wads2007.html#KettuKLM07</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,1336 @@
+<bht key="db/conf/icws/icws2013.bht" title="International Conference on Web Services 2013">  
+<h1><ref href="db/conf/icws/index.html">ICWS</ref> 2013:
+Santa Clara, CA, USA</h1> <dblpcites><r><proceedings key="conf/icws/2013" mdate="2019-10-16">
+<title>2013 IEEE 20th International Conference on Web Services, Santa Clara, CA, USA, June 28 - July 3, 2013</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2013</year>
+<isbn>978-0-7695-5025-1</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6596022/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/icws/2013/5025/00/index.html</ee>
+<booktitle>ICWS</booktitle>
+<url>db/conf/icws/icws2013.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Research Track Session 1 - Service Composition</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/ZivkovicB13" mdate="2017-05-19">
+<author pid="13/5869">Miroslav Zivkovic</author>
+<author pid="v/HansvandenBerg">Hans van den Berg</author>
+<title>Revenue Optimization of Service Compositions Using Conditional Request Retries.</title>
+<pages>1-9</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.11</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZivkovicB13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/FengNK13" mdate="2017-05-19">
+<author pid="71/4548">Yuzhang Feng</author>
+<author pid="31/6557">Le Duy Ngan</author>
+<author pid="r/KanagasabaiRajaraman">Rajaraman Kanagasabai</author>
+<title>Dynamic Service Composition with Service-Dependent QoS Attributes.</title>
+<pages>10-17</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.12</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#FengNK13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/ZengLWHT13" mdate="2018-02-27">
+<author pid="01/6528">Cheng Zeng</author>
+<author pid="68/11524">Zhou Lu</author>
+<author pid="39/449-18">Jian Wang 0018</author>
+<author pid="h/PCKHung">Patrick C. K. Hung</author>
+<author pid="68/1243">Jilei Tian</author>
+<title>Variable Granularity Index on Massive Service Processes.</title>
+<pages>18-25</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.13</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZengLWHT13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Track Session 2 - Service Recommendation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/ZhouLPSSS13" mdate="2017-12-11">
+<author pid="07/4580-1">Yang Zhou 0001</author>
+<author pid="l/LingLiu">Ling Liu 0001</author>
+<author pid="22/5341">Chang-Shing Perng</author>
+<author pid="19/4244">Anca Sailer</author>
+<author pid="67/3513">Ignacio Silva-Lepe</author>
+<author pid="120/3933">Zhiyuan Su</author>
+<title>Ranking Services by Service Network Structure and Service Attributes.</title>
+<pages>26-33</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.14</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZhouLPSSS13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/YuZW13" mdate="2022-04-09">
+<author pid="58/6957-1">Qi Yu 0001</author>
+<author orcid="0000-0002-7878-4330" pid="z/ZibinZheng">Zibin Zheng</author>
+<author pid="62/2365">Hongbing Wang</author>
+<title>Trace Norm Regularized Matrix Factorization for Service Recommendation.</title>
+<pages>34-41</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.15</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#YuZW13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/YaoSSY13" mdate="2022-05-10">
+<author pid="56/6651-1">Lina Yao 0001</author>
+<author orcid="0000-0002-3326-4147" pid="s/QuanZSheng">Quan Z. Sheng</author>
+<author pid="16/5223">Aviv Segev</author>
+<author pid="52/5812">Jian Yu</author>
+<title>Recommending Web Services via Combining Collaborative Filtering with Content-Based Features.</title>
+<pages>42-49</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.16</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#YaoSSY13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Track Session 3 - Mobile and Location-Based Service</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/BambaWGL13" mdate="2017-07-21">
+<author pid="26/6942">Bhuvan Bamba</author>
+<author pid="85/3566">Kun-Lung Wu</author>
+<author pid="87/3826">Bugra Gedik</author>
+<author pid="l/LingLiu">Ling Liu 0001</author>
+<title>SLIM: A Scalable Location-Sensitive Information Monitoring Service.</title>
+<pages>50-57</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.17</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#BambaWGL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/ChuWC13" mdate="2021-06-24">
+<author pid="133/7162">Victor W. Chu</author>
+<author pid="53/3032">Raymond K. Wong 0001</author>
+<author pid="89/3076">Chi-Hung Chi</author>
+<title>Online Role Mining without Over-Fitting for Service Recommendation.</title>
+<pages>58-65</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.18</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ChuWC13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/ShenZWCYZ13" mdate="2020-09-03">
+<author pid="13/8331">Yuanhong Shen</author>
+<author pid="10/4016">Jianke Zhu</author>
+<author pid="68/1277-1">Xinyu Wang 0001</author>
+<author pid="70/6409">Liang Cai</author>
+<author pid="95/6761">Xiaohu Yang</author>
+<author pid="65/3628-10">Bo Zhou 0010</author>
+<title>Geographic Location-Based Network-Aware QoS Prediction for Service Composition.</title>
+<pages>66-74</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.19</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ShenZWCYZ13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Track Session 4 - Quality of Service</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/ZhangDC13" mdate="2017-05-19">
+<author pid="127/2085">Shaoqian Zhang</author>
+<author pid="57/5595">Wanchun Dou</author>
+<author pid="06/2379">Jinjun Chen</author>
+<title>Selecting Top-k Composite Web Services Using Preference-Aware Dominance Relationship.</title>
+<pages>75-82</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.20</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZhangDC13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/BaresiG13" mdate="2018-11-02">
+<author orcid="0000-0001-6467-837X" pid="b/LucianoBaresi">Luciano Baresi</author>
+<author pid="07/2772">Sam Guinea</author>
+<title>Event-Based Multi-level Service Monitoring.</title>
+<pages>83-90</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.21</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#BaresiG13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/HuangL13" mdate="2017-05-19">
+<author pid="57/7478">Jiwei Huang</author>
+<author pid="53/2571">Chuang Lin</author>
+<title>Agent-Based Green Web Service Selection and Dynamic Speed Scaling.</title>
+<pages>91-98</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.22</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#HuangL13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Track Session 5 - Social-Based Recommendation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/CaoLTZW13" mdate="2022-04-09">
+<author pid="53/5899">Buqing Cao</author>
+<author pid="54/5269">Jianxun Liu</author>
+<author pid="40/152">Mingdong Tang</author>
+<author orcid="0000-0002-7878-4330" pid="z/ZibinZheng">Zibin Zheng</author>
+<author pid="29/10939">Guangrong Wang</author>
+<title>Mashup Service Recommendation Based on User Interest and Social Network.</title>
+<pages>99-106</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.23</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#CaoLTZW13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/XuCHWL13" mdate="2021-02-28">
+<author pid="97/9344">Wenxing Xu</author>
+<author pid="50/2102-1">Jian Cao 0001</author>
+<author pid="48/5388-4">Liang Hu 0004</author>
+<author pid="29/5259-6">Jie Wang 0006</author>
+<author pid="l/MingluLi">Minglu Li 0001</author>
+<title>A Social-Aware Service Recommendation Approach for Mashup Creation.</title>
+<pages>107-114</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.24</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#XuCHWL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/VollinoB13" mdate="2020-06-15">
+<author pid="118/4786">Bruno Vollino</author>
+<author orcid="0000-0003-4967-1027" pid="00/3080">Karin Becker</author>
+<title>A Framework for Web Service Usage Profiles Discovery.</title>
+<pages>115-122</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.25</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#VollinoB13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Track Session 6 - Service Privacy</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/Kapitsaki13" mdate="2017-06-04">
+<author orcid="0000-0003-3742-7123" pid="84/5025">Georgia M. Kapitsaki</author>
+<title>Reflecting User Privacy Preferences in Context-Aware Web Services.</title>
+<pages>123-130</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.26</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#Kapitsaki13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/CostantePZ13" mdate="2019-09-25">
+<author pid="13/7085">Elisa Costante</author>
+<author orcid="0000-0003-3122-0236" pid="18/3134">Federica Paci</author>
+<author orcid="0000-0002-9081-5996" pid="93/4627">Nicola Zannone</author>
+<title>Privacy-Aware Web Service Composition and Ranking.</title>
+<pages>131-138</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.27</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#CostantePZ13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/TbahritiMGBM13" mdate="2019-01-11">
+<author pid="30/10003">Salah-Eddine Tbahriti</author>
+<author pid="m/BMedjahed">Brahim Medjahed</author>
+<author pid="85/2269">Chirine Ghedira</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="62/4946">Michael Mrissa</author>
+<title>Respecting Privacy in Web Service Composition.</title>
+<pages>139-146</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.28</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#TbahritiMGBM13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Track Session 7 - Testing and Verification</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/MeiCJJC13" mdate="2018-09-24">
+<author pid="65/572">Lijun Mei</author>
+<author pid="60/3060-1">Yan Cai 0001</author>
+<author pid="127/4044">Changjiang Jia</author>
+<author pid="34/2005-1">Bo Jiang 0001</author>
+<author orcid="0000-0001-7726-6235" pid="c/WingKwonChan">W. K. Chan 0001</author>
+<title>Prioritizing Structurally Complex Test Pairs for Validating WS-BPEL Evolutions.</title>
+<pages>147-154</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.29</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#MeiCJJC13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/BarretoSFF13" mdate="2019-10-19">
+<author pid="89/7803">Luciano Barreto</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0001-6401-3992" pid="37/8061">Eduardo Feitosa</author>
+<title>An Intrusion Tolerant Identity Management Infrastructure for Cloud Computing Services.</title>
+<pages>155-162</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.30</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#BarretoSFF13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/KlaiOT13" mdate="2017-05-19">
+<author pid="06/1858">Kais Klai</author>
+<author pid="118/4854">Hanen Ochi</author>
+<author pid="t/SamirTata">Samir Tata</author>
+<title>Formal Abstraction and Compatibility Checking of Web Services.</title>
+<pages>163-170</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.31</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#KlaiOT13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Track Session 8 - Modeling and Architecture</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/LiuLD13" mdate="2019-09-23">
+<author pid="61/5010">Xumin Liu</author>
+<author pid="33/794-1">Hua Liu 0001</author>
+<author pid="139/2293">Chen (Cherie) Ding</author>
+<title>Incorporating User Behavior Patterns to Discover Workflow Models from Event Logs.</title>
+<pages>171-178</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.32</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#LiuLD13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/SunQCC13" mdate="2018-03-11">
+<author pid="136/7325">Yunlei Sun</author>
+<author pid="66/4187">Xiuquan Qiao</author>
+<author pid="05/2700-1">Bo Cheng 0001</author>
+<author pid="63/6051">Junliang Chen</author>
+<title>A Low-Delay, Lightweight Publish/Subscribe Architecture for Delay-Sensitive IOT Services.</title>
+<pages>179-186</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.33</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#SunQCC13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/ChurchM13" mdate="2017-05-19">
+<author pid="63/10287">Joshua Church</author>
+<author pid="m/AmihaiMotro">Amihai Motro</author>
+<title>Efficient Service Substitutions with Behavior-Based Similarity Metrics.</title>
+<pages>187-194</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.34</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ChurchM13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 1 - Service Composition I</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/ZhaoSPZ13" mdate="2019-01-04">
+<author pid="68/2766">Xin Zhao</author>
+<author pid="39/2105">Liwei Shen</author>
+<author pid="14/6370-1">Xin Peng 0001</author>
+<author pid="37/4220">Wenyun Zhao</author>
+<title>Finding Preferred Skyline Solutions for SLA-Constrained Service Composition.</title>
+<pages>195-202</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.35</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZhaoSPZ13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/XiaY13" mdate="2017-05-19">
+<author pid="136/7369">Yong-Min Xia</author>
+<author pid="80/6518">Yu-Bin Yang</author>
+<title>Web Service Composition Integrating QoS Optimization and Redundancy Removal.</title>
+<pages>203-210</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.36</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#XiaY13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/MehdiBB13" mdate="2017-05-19">
+<author pid="128/4633">Mohamad Mehdi</author>
+<author pid="43/2204">Nizar Bouguila</author>
+<author pid="b/JamalBentahar">Jamal Bentahar</author>
+<title>A QoS-Based Trust Approach for Service Selection and Composition via Bayesian Networks.</title>
+<pages>211-218</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.37</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#MehdiBB13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 2 - Service Composition II</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/AlferezP13" mdate="2017-06-15">
+<author orcid="0000-0002-9668-1132" pid="61/10368">Germ&#225;n H. Alf&#233;rez</author>
+<author orcid="0000-0003-1090-230X" pid="29/4995">Vicente Pelechano</author>
+<title>Facing Uncertainty in Web Service Compositions.</title>
+<pages>219-226</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.38</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#AlferezP13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/ZhangMSLX13" mdate="2020-08-27">
+<author pid="15/4777-29">Tao Zhang 0029</author>
+<author pid="12/6604-1">Jianfeng Ma 0001</author>
+<author orcid="0000-0001-9116-2694" pid="45/5103-1">Cong Sun 0001</author>
+<author pid="181/2688-11">Qi Li 0011</author>
+<author pid="84/5683-2">Ning Xi 0002</author>
+<title>Service Composition in Multi-domain Environment under Time Constraint.</title>
+<pages>227-234</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.39</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZhangMSLX13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 3 - Service Composition III</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/KattepurGI13" mdate="2017-05-19">
+<author pid="08/8326">Ajay Kattepur</author>
+<author pid="41/2362">Nikolaos Georgantas</author>
+<author pid="i/ValerieIssarny">Val&#233;rie Issarny</author>
+<title>QoS Composition and Analysis in Reconfigurable Web Services Choreographies.</title>
+<pages>235-242</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.40</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#KattepurGI13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/KazhamiakinMPR13" mdate="2022-10-02">
+<author pid="88/5834">Raman Kazhamiakin</author>
+<author orcid="0000-0001-8699-7777" pid="84/4043">Annapaola Marconi</author>
+<author orcid="0000-0003-1425-942X" pid="01/649">Marco Pistore</author>
+<author pid="42/7526">Heorhi Raik</author>
+<title>Data-Flow Requirements for Dynamic Service Composition.</title>
+<pages>243-250</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.41</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#KazhamiakinMPR13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/GraietAHBKG13" mdate="2022-01-03">
+<author pid="27/4621">Mohamed Graiet</author>
+<author orcid="0000-0002-6982-6383" pid="136/7457">Imed Abbassi</author>
+<author orcid="0000-0003-1920-1825" pid="41/10086">Lazhar Hamel</author>
+<author pid="55/6048">Mohamed Tahar Bhiri</author>
+<author pid="84/7715">Mourad Kmimech</author>
+<author orcid="0000-0003-0451-532X" pid="87/982">Walid Gaaloul</author>
+<title>Event-B Based Approach for Verifying Dynamic Composite Service Transactional Behavior.</title>
+<pages>251-259</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.42</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#GraietAHBKG13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 4 - Service Composition IV</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/TakahashiITF13" mdate="2017-05-19">
+<author pid="60/6901">Ryuichi Takahashi</author>
+<author pid="03/2671">Fuyuki Ishikawa</author>
+<author pid="68/3435">Kenji Tei</author>
+<author pid="95/4020">Yoshiaki Fukazawa</author>
+<title>Intention-Based Automated Composition Approach for Coordination Protocol.</title>
+<pages>260-267</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.43</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#TakahashiITF13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/AhmedS13" mdate="2021-11-09">
+<author pid="57/11428-1">Tanveer Ahmed 0001</author>
+<author orcid="0000-0002-6338-5476" pid="38/1922-1">Abhishek Srivastava 0001</author>
+<title>Minimizing Waiting Time for Service Composition: A Frictional Approach.</title>
+<pages>268-275</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.44</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#AhmedS13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/CaoZZLL13" mdate="2017-05-19">
+<author pid="20/2389">Jiuxin Cao</author>
+<author pid="98/4450">Tao Zhou</author>
+<author pid="118/4794">Gongrui Zhu</author>
+<author pid="58/2670-4">Bo Liu 0004</author>
+<author pid="l/JunzhouLuo">Junzhou Luo</author>
+<title>Execution Recovery in Transactional Composite Service.</title>
+<pages>276-283</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.45</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#CaoZZLL13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 5 - Service Descriptions and Modeling</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/AliRW13" mdate="2017-05-19">
+<author pid="57/10837">Syed Adeel Ali</author>
+<author pid="r/ParthaSRoop">Partha S. Roop</author>
+<author pid="36/5306">Ian Warren</author>
+<title>Stateful Web Services - Auto Modeling and Composition.</title>
+<pages>284-291</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.46</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#AliRW13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/ZhuZYH13" mdate="2017-05-19">
+<author pid="83/4805-2">Wei Zhu 0002</author>
+<author pid="91/2785">Guang Zhou</author>
+<author pid="51/5492">I-Ling Yen</author>
+<author pid="22/852">San-Yih Hwang</author>
+<title>Toward Ontology and Service Paradigm for Enhanced Carbon Footprint Management and Labeling.</title>
+<pages>292-299</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.47</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZhuZYH13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/LiXLZ13" mdate="2020-09-01">
+<author pid="116/1011">Jun Li</author>
+<author orcid="0000-0001-8991-747X" pid="82/2673">Yingfei Xiong 0001</author>
+<author pid="08/2161">Xuanzhe Liu</author>
+<author pid="z/LuZhang1">Lu Zhang 0023</author>
+<title>How Does Web Service API Evolution Affect Clients?</title>
+<pages>300-307</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.48</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#LiXLZ13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 6 - Workflow and Process Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/OlivaGMS13" mdate="2021-04-09">
+<author pid="97/10540">Gustavo Ansaldi Oliva</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0001-9830-8588" pid="53/726">Dejan S. Milojicic</author>
+<author pid="120/0921">Virginia Smith</author>
+<title>A Change Impact Analysis Approach for Workflow Repository Management.</title>
+<pages>308-315</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.49</ee>
+<ee>https://www.wikidata.org/entity/Q58051456</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#OlivaGMS13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/CaoYLD13" mdate="2022-05-18">
+<author pid="17/1169-4">Bin Cao 0004</author>
+<author pid="136/7425">Jianwin Yin</author>
+<author pid="22/1805-1">Ying Li 0001</author>
+<author orcid="0000-0001-5015-6095" pid="d/ShuiguangDeng">ShuiGuang Deng</author>
+<title>A Maximal Common Subgraph Based Method for Process Retrieval.</title>
+<pages>316-323</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.50</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.50</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#CaoYLD13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/KangLSS13" mdate="2019-09-23">
+<author pid="136/7375">Dhanwant S. Kang</author>
+<author pid="33/794-1">Hua Liu 0001</author>
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<author pid="99/5088">Tong Sun</author>
+<title>Adaptive Process Execution in a Service Cloud: Service Selection and Scheduling Based on Machine Learning.</title>
+<pages>324-331</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.51</ee>
+<ee>https://www.wikidata.org/entity/Q59764149</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#KangLSS13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 7 - Service Specification</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/SalehKBW13" mdate="2021-01-18">
+<author pid="28/3364-2">Iman Saleh 0002</author>
+<author pid="99/5724">Gregory Kulczycki</author>
+<author orcid="0000-0002-3631-5261" pid="b/MBrianBlake">M. Brian Blake</author>
+<author pid="04/470-2">Yi Wei 0002</author>
+<title>Formal Methods for Data-centric Web Services: From Model to Implementation.</title>
+<pages>332-339</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.52</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.52</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#SalehKBW13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/KumaraPC13" mdate="2018-11-02">
+<author orcid="0000-0003-3941-2275" pid="136/7316">Banage T. G. S. Kumara</author>
+<author pid="61/371">Incheon Paik</author>
+<author pid="02/8379">Wuhui Chen</author>
+<title>Web-Service Clustering with a Hybrid of Ontology Learning and Information-Retrieval-Based Term Similarity.</title>
+<pages>340-347</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.53</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#KumaraPC13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/HusseinHYC13" mdate="2022-10-02">
+<author orcid="0000-0002-3742-7548" pid="74/5290">Mahmoud Hussein</author>
+<author pid="02/3721-4">Jun Han 0004</author>
+<author pid="52/5812">Jian Yu</author>
+<author orcid="0000-0003-0264-9965" pid="34/6351">Alan Colman</author>
+<title>Scenario-Based Validation of Requirements for Context-Aware Adaptive Services.</title>
+<pages>348-355</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.54</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#HusseinHYC13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 8 - Service-Oriented Software Engineering</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/RongWOLX13" mdate="2022-02-03">
+<author pid="18/5572">Wenge Rong</author>
+<author pid="136/7414">Qinfen Wu</author>
+<author pid="12/1640">Yuanxin Ouyang</author>
+<author pid="24/3947">Kecheng Liu</author>
+<author pid="77/6921-1">Zhang Xiong 0001</author>
+<title>Prioritised Stakeholder Analysis for Software Service Lifecycle Management.</title>
+<pages>356-363</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.55</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#RongWOLX13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/Sindhgatta13" mdate="2019-10-19">
+<author orcid="0000-0001-7533-533X" pid="s/RenukaSindhgatta">Renuka Sindhgatta</author>
+<title>Interleaving Execution into Model Driven Service Design.</title>
+<pages>364-371</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.56</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#Sindhgatta13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/ZhangM13" mdate="2017-05-19">
+<author pid="31/4757">Weiqing Zhang</author>
+<author pid="03/1262">Birger M&#248;ller-Pedersen</author>
+<title>Establishing Tool Chains Above the Service Cloud with Integration Models.</title>
+<pages>372-379</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.57</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZhangM13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 9 - Service Selection, Recommendation, and Mashup</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/GongX0LC13" mdate="2018-05-11">
+<author pid="34/4521">Min Gong</author>
+<author pid="136/4569">Zhaogui Xu</author>
+<author pid="19/360-3">Lei Xu 0003</author>
+<author pid="78/6098">Yanhui Li</author>
+<author pid="13/3479-15">Lin Chen 0015</author>
+<title>Recommending Web Service Based on User Relationships and Preferences.</title>
+<pages>380-386</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.58</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#GongX0LC13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/KarumanchiSC13" mdate="2018-11-02">
+<author pid="28/10119">Sushama Karumanchi</author>
+<author orcid="0000-0002-7396-1895" pid="s/AnnaCinziaSquicciarini">Anna Cinzia Squicciarini</author>
+<author orcid="0000-0002-7502-4731" pid="83/2099">Barbara Carminati</author>
+<title>Policy-Compliant Search Query Routing for Web Service Discovery in Peer to Peer Networks.</title>
+<pages>387-394</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.59</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#KarumanchiSC13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/WangWX13" mdate="2020-03-27">
+<author orcid="0000-0001-9582-3445" pid="51/8330">Xianzhi Wang 0001</author>
+<author pid="88/845">Zhongjie Wang</author>
+<author pid="95/3275">Xiaofei Xu</author>
+<title>An Improved Artificial Bee Colony Approach to QoS-Aware Service Selection.</title>
+<pages>395-402</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.60</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#WangWX13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 10 - Service Adaptation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/CordierMRR13" mdate="2017-11-06">
+<author pid="95/522">Marie-Odile Cordier</author>
+<author orcid="0000-0001-9336-0651" pid="79/3512">Roberto Micalizio</author>
+<author pid="99/4312">Sophie Robin</author>
+<author pid="52/2196">Laurence Roz&#233;</author>
+<title>Adapting Web Services to Maintain QoS Even When Faults Occur.</title>
+<pages>403-410</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.61</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#CordierMRR13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/ChenZKL13" mdate="2019-07-03">
+<author pid="21/5521-10">Ying Chen 0010</author>
+<author pid="21/1048-11">Peng Zhang 0011</author>
+<author pid="80/531">Xiangzhen Kong</author>
+<author pid="53/2571">Chuang Lin</author>
+<title>Reliability-Aware Energy Efficiency in Web Service Provision and Placement.</title>
+<pages>411-418</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.62</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ChenZKL13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 11 - Service Semantics</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/PuttonenLL13" mdate="2017-06-15">
+<author pid="75/1738">Juha Puttonen</author>
+<author orcid="0000-0003-2729-489X" pid="14/924">Andrei Lobov</author>
+<author orcid="0000-0001-6227-3408" pid="20/6839">Jose L. Martinez Lastra</author>
+<title>Maintaining a Dynamic View of Semantic Web Services Representing Factory Automation Systems.</title>
+<pages>419-426</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.63</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#PuttonenLL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/DanielsenA13" mdate="2017-05-19">
+<author pid="38/5743">Peter J. Danielsen</author>
+<author pid="77/138">Knarig Arabshian</author>
+<title>User Interface Design in Semi-automated Ontology Construction.</title>
+<pages>427-434</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.64</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.64</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#DanielsenA13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/HangZ13" mdate="2020-06-19">
+<author pid="136/7407">Feifei Hang</author>
+<author orcid="0000-0001-8556-8655" pid="32/3188-1">Liping Zhao 0001</author>
+<title>HyperMash: A Heterogeneous Service Composition Approach for Better Support of the End Users.</title>
+<pages>435-442</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.65</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#HangZ13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 12 - Web Services and Search</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/NoorSANL13" mdate="2017-06-04">
+<author pid="56/9755">Talal H. Noor</author>
+<author orcid="0000-0002-3326-4147" pid="s/QuanZSheng">Quan Z. Sheng</author>
+<author pid="130/2971">Abdullah Alfazi</author>
+<author pid="n/AnneHHNgu">Anne H. H. Ngu</author>
+<author pid="130/3094">Jeriel Law</author>
+<title>CSCE: A Crawler Engine for Cloud Services Discovery on the World Wide Web.</title>
+<pages>443-450</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.66</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#NoorSANL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/JunghansA13" mdate="2018-08-01">
+<author pid="92/8176">Martin Junghans 0001</author>
+<author pid="32/3306">Sudhir Agarwal 0001</author>
+<title>Efficient Search for Web Browsing Recipes.</title>
+<pages>451-458</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.67</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#JunghansA13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications and Experience Track 13 - Service Security and Trust</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/ZhengWO13" mdate="2018-11-14">
+<author pid="16/3180">Xiaoming Zheng</author>
+<author orcid="0000-0002-5344-1884" pid="59/2227-2">Yan Wang 0002</author>
+<author orcid="0000-0002-7873-1562" pid="o/MehmetAOrgun">Mehmet A. Orgun</author>
+<title>Modeling the Dynamic Trust of Online Service Providers Using HMM.</title>
+<pages>459-466</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.68</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.68</ee>
+<ee>https://www.wikidata.org/entity/Q58184911</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZhengWO13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/XuLTL13" mdate="2017-05-19">
+<author pid="27/0">Yu Xu</author>
+<author pid="54/5269">Jianxun Liu</author>
+<author pid="40/152">Mingdong Tang</author>
+<author pid="48/2518">Xiaoqing (Frank) Liu</author>
+<title>An Efficient Trust Propagation Scheme for Predicting Trustworthiness of Service Providers in Service-Oriented Social Networks.</title>
+<pages>467-474</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.69</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#XuLTL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/AnisettiAD13" mdate="2022-03-21">
+<author orcid="0000-0002-5438-9467" pid="63/5370">Marco Anisetti</author>
+<author orcid="0000-0001-7426-4795" pid="62/575">Claudio A. Ardagna</author>
+<author orcid="0000-0002-9557-6496" pid="d/EDamiani">Ernesto Damiani</author>
+<title>Security Certification of Composite Services: A Test-Based Approach.</title>
+<pages>475-482</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.70</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.70</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#AnisettiAD13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Industry Track 1 - Service Management and Optimization</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/WuTY13" mdate="2020-10-25">
+<author pid="12/551">Haishan Wu</author>
+<author orcid="0000-0001-6598-8863" pid="57/2116">Asser N. Tantawi</author>
+<author pid="67/1014">Tao Yu</author>
+<title>A Self-Optimizing Workload Management Solution for Cloud Applications.</title>
+<pages>483-490</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.71</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#WuTY13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/FalkenbergMSS13" mdate="2022-10-02">
+<author pid="136/7350">Andreas Falkenberg</author>
+<author orcid="0000-0002-4273-645X" pid="57/11338">Christian Mainka</author>
+<author pid="27/8331">Juraj Somorovsky</author>
+<author pid="58/5730">J&#246;rg Schwenk</author>
+<title>A New Approach towards DoS Penetration Testing on Web Services.</title>
+<pages>491-498</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.72</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.72</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#FalkenbergMSS13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/JungK13" mdate="2017-05-19">
+<author pid="99/6820">Gueyoung Jung</author>
+<author pid="08/5086">Hyunjoo Kim</author>
+<title>Optimal Time-Cost Tradeoff of Parallel Service Workflow in Federated Heterogeneous Clouds.</title>
+<pages>499-506</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.73</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.73</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#JungK13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Industry Track 2 - Service Discovery/Selection</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/HuangFTL13" mdate="2017-11-05">
+<author pid="31/10769">Keman Huang</author>
+<author pid="90/5039">Yushun Fan</author>
+<author pid="73/6520-1">Wei Tan 0001</author>
+<author pid="40/1491">Xiang Li</author>
+<title>Service Recommendation in an Evolving Ecosystem: A Link Prediction Approach.</title>
+<pages>507-514</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.74</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#HuangFTL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/LuoLY13" mdate="2017-11-08">
+<author pid="136/7364">Zhiling Luo</author>
+<author pid="22/1805-1">Ying Li 0001</author>
+<author pid="74/3786">Jianwei Yin</author>
+<title>Location: A Feature for Service Selection in the Era of Big Data.</title>
+<pages>515-522</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.75</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#LuoLY13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/DanielsenJ13" mdate="2017-05-19">
+<author pid="38/5743">Peter J. Danielsen</author>
+<author pid="89/740">Alan Jeffrey</author>
+<title>Validation and Interactivity of Web API Documentation.</title>
+<pages>523-530</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.76</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.76</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#DanielsenJ13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Industry Track 3 - Service Security and Information Assurance</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/BeckerJ13" mdate="2017-05-19">
+<author pid="00/969">Andreas Becker</author>
+<author pid="49/5530">Meiko Jensen</author>
+<title>Secure Combination of XML Signature Application with Message Aggregation in Multicast Settings.</title>
+<pages>531-538</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.77</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.77</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#BeckerJ13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/KaluvuriKCM13" mdate="2017-09-16">
+<author pid="52/9739">Samuel Paul Kaluvuri</author>
+<author orcid="0000-0002-0660-0635" pid="47/3484">Hristo Koshutanski</author>
+<author pid="47/1851">Francesco Di Cerbo</author>
+<author orcid="0000-0001-5291-6174" pid="m/AntonioMana">Antonio Mana</author>
+<title>Security Assurance of Services through Digital Security Certificates.</title>
+<pages>539-546</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.78</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.78</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#KaluvuriKCM13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/TziviskouPCP13" mdate="2021-10-14">
+<author pid="32/2512">Christina Tziviskou</author>
+<author orcid="0000-0002-1801-5118" pid="74/4142">Matteo Palmonari</author>
+<author orcid="0000-0003-3494-9516" pid="71/6263">Marco Comerio</author>
+<author orcid="0000-0002-5047-7371" pid="13/6218">Flavio De Paoli</author>
+<title>SeDL-C: A Language for Modeling Business Terms in Service Descriptions.</title>
+<pages>547-554</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.79</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.79</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#TziviskouPCP13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Industry Track 4 - Service Oriented Software Engineering</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/ZhangCDW13" mdate="2021-06-24">
+<author pid="99/2516">Xiaolin Zhang</author>
+<author pid="89/3076">Chi-Hung Chi</author>
+<author pid="139/2293">Chen (Cherie) Ding</author>
+<author pid="53/3032">Raymond K. Wong 0001</author>
+<title>Non-functional Requirement Analysis and Recommendation for Software Services.</title>
+<pages>555-562</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.80</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZhangCDW13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/XiMSZ13" mdate="2020-08-27">
+<author pid="84/5683-2">Ning Xi 0002</author>
+<author pid="12/6604-1">Jianfeng Ma 0001</author>
+<author orcid="0000-0001-9116-2694" pid="45/5103-1">Cong Sun 0001</author>
+<author pid="15/4777-29">Tao Zhang 0029</author>
+<title>Decentralized Information Flow Verification Framework for the Service Chain Composition in Mobile Computing Environments.</title>
+<pages>563-570</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.81</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#XiMSZ13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Industry Track 5 - Service Representations and Descriptions</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/BucchiaroneMPTBK13" mdate="2022-10-02">
+<author orcid="0000-0003-1154-1382" pid="78/616">Antonio Bucchiarone</author>
+<author orcid="0000-0001-8699-7777" pid="84/4043">Annapaola Marconi</author>
+<author orcid="0000-0003-1425-942X" pid="01/649">Marco Pistore</author>
+<author orcid="0000-0001-6301-0204" pid="07/4999">Paolo Traverso</author>
+<author pid="05/1344">Piergiorgio Bertoli</author>
+<author pid="88/5834">Raman Kazhamiakin</author>
+<title>Domain Objects for Continuous Context-Aware Adaptation of Service-Based Systems.</title>
+<pages>571-578</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.82</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.82</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#BucchiaroneMPTBK13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/LiuZB13" mdate="2020-04-30">
+<author pid="88/5652">Dongmei Liu</author>
+<author pid="55/521-2">Hong Zhu 0002</author>
+<author pid="76/6181">Ian Bayley</author>
+<title>From Algebraic Specification to Ontological Description of Service Semantics.</title>
+<pages>579-586</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.93</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.93</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#LiuZB13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Industry Track 6 - Service Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/KondratyevaKCY13" mdate="2022-02-15">
+<author pid="136/4489">Olga Kondratyeva</author>
+<author orcid="0000-0002-8691-6655" pid="72/9959">Natalia Kushik</author>
+<author pid="51/5965">Ana R. Cavalli</author>
+<author pid="33/658">Nina Yevtushenko 0001</author>
+<title>Evaluating Quality of Web Services: A Short Survey.</title>
+<pages>587-594</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.83</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.83</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#KondratyevaKCY13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/LeffRKB13" mdate="2021-09-08">
+<author pid="50/486">Avraham Leff</author>
+<author pid="53/6637">James T. Rayfield</author>
+<author pid="k/RaviBKonuru">Ravi B. Konuru</author>
+<author pid="122/7848">Raj Balasubramanian</author>
+<title>Untether: Middleware Components to Support Intermittently Connected Web-Applications.</title>
+<pages>595-602</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.88</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.88</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#LeffRKB13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Work-in-Progress Track 1 - Services Discovery and Composition</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/JaradatDB13" mdate="2017-05-19">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>An Architecture for Decentralised Orchestration of Web Service Workflows.</title>
+<pages>603-604</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.84</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.84</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#JaradatDB13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/ZhangZLTWT13" mdate="2022-04-09">
+<author pid="64/5160">Zhichao Zhang</author>
+<author pid="123/2472">Shaoqiu Zheng</author>
+<author pid="77/4748">Weiping Li</author>
+<author orcid="0000-0001-8243-4731" pid="68/6102-2">Ying Tan 0002</author>
+<author pid="01/868">Zhonghai Wu</author>
+<author pid="73/6520-1">Wei Tan 0001</author>
+<title>Genetic Algorithm for Context-Aware Service Composition Based on Context Space Model.</title>
+<pages>605-606</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.94</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.94</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#ZhangZLTWT13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/LeiWMQ13" mdate="2020-10-17">
+<author pid="284/8639">Yu Lei</author>
+<author pid="15/2643">Zhili Wang</author>
+<author pid="52/382">Luoming Meng</author>
+<author pid="13/342">Xuesong Qiu 0001</author>
+<title>Towards Multi-user and Network-Aware Web Services Composition.</title>
+<pages>607-608</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.85</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.85</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#LeiWMQ13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/LiBB13" mdate="2020-10-25">
+<author pid="27/1736">Wenbin Li</author>
+<author orcid="0000-0002-8976-7894" pid="93/521">Youakim Badr</author>
+<author pid="69/1513">Fr&#233;d&#233;rique Biennier</author>
+<title>Towards a Capability Model for Web Service Composition.</title>
+<pages>609-610</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.86</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.86</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#LiBB13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/SellamiB13" mdate="2017-05-19">
+<author pid="43/5676">Sana Sellami</author>
+<author pid="b/OmarBoucelma">Omar Boucelma</author>
+<title>Towards a Flexible Schema Matching Approach for Semantic Web Service Discovery.</title>
+<pages>611-612</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.87</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.87</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#SellamiB13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/PlateniusDSGE13" mdate="2017-05-19">
+<author pid="91/11179">Marie Christin Platenius</author>
+<author pid="10/2711">Markus von Detten</author>
+<author pid="31/5809">Wilhelm Sch&#228;fer</author>
+<author pid="31/2634">Christian Gerth</author>
+<author pid="e/GregorEngels">Gregor Engels</author>
+<title>Service Matching under Consideration of Explicitly Specified Service Variants.</title>
+<pages>613-614</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.98</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.98</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#PlateniusDSGE13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Work-in-Progress Track 2 - Services Engineering</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/icws/DuanKD13" mdate="2017-05-19">
+<author pid="10/2092">Yucong Duan</author>
+<author pid="08/8326">Ajay Kattepur</author>
+<author pid="22/7436">Wencai Du</author>
+<title>Service Value Broker Patterns: Integrating Business Modeling and Economic Analysis with Knowledge Management.</title>
+<pages>615-616</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.89</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.89</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#DuanKD13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/AoyamaK13" mdate="2017-05-19">
+<author pid="30/2082">Mikio Aoyama</author>
+<author pid="136/7380">Hirotaka Kojima</author>
+<title>LISA: Linked Services Architecture Based on the Linked Data and Service Broker.</title>
+<pages>617-618</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.90</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.90</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#AoyamaK13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/OlmstedF13" mdate="2022-10-02">
+<author orcid="0000-0003-2652-0154" pid="119/0210">Aspen Olmsted</author>
+<author pid="f/CsillaFarkas">Csilla Farkas</author>
+<title>Coarse Grained Web Service Availability, Consistency, and Durability.</title>
+<pages>619-620</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.91</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.91</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#OlmstedF13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icws/RouachedS13" mdate="2017-06-04">
+<author pid="40/481">Mohsen Rouached</author>
+<author orcid="0000-0002-1581-5355" pid="47/4320">Hassen Sallay</author>
+<title>RESTful Web Services for High Speed Intrusion Detection Systems.</title>
+<pages>621-622</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.92</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2013.92</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#RouachedS13</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

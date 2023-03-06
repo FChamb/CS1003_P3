@@ -1,0 +1,1806 @@
+<bht key="db/conf/vldb/vldb87.bht" title="13. VLDB 1987: Brighton, England">
+
+<h1>13th <ref href="db/conf/vldb/index.html">VLDB</ref> 1987: Brighton, England</h1>
+<dblpcites><r><proceedings key="conf/vldb/87" mdate="2017-03-29">
+<editor pid="91/6275">Peter M. Stocker</editor>
+<editor pid="k/WilliamKent">William Kent</editor>
+<editor pid="88/435">Peter Hammersley</editor>
+<title>VLDB'87, Proceedings of 13th International Conference on Very Large Data Bases, September 1-4, 1987, Brighton, England</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1987</year>
+<isbn>0-934613-46-X</isbn>
+<url>db/conf/vldb/vldb87.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+<h2>AI Techniques for Database</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/WalterLN87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="57/2659">Ingrid M. Walter</author>
+<author pid="l/PCLockemann">Peter C. Lockemann</author>
+<author pid="41/730">Hans-Hellmut Nagel</author>
+<title>Database Support for Knowledge-Based Image Evaluation.</title>
+<pages>3-11</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#WalterLN87</url>
+<ee>http://www.vldb.org/conf/1987/P003.PDF</ee>
+<cite label="Abar86">conf/eds/AbarbanelW86</cite>
+<cite label="Alle84">journals/ai/Allen84</cite>
+<cite label="Bane86">...</cite>
+<cite label="Benn84">conf/vldb/BennR84</cite>
+<cite label="B&#246;rn87">...</cite>
+<cite label="Bour85">...</cite>
+<cite label="Brac85">...</cite>
+<cite label="Card84">...</cite>
+<cite label="Card86">journals/csur/CardelliW85</cite>
+<cite label="Chan81a">...</cite>
+<cite label="Chan81b">...</cite>
+<cite label="Chan85a">...</cite>
+<cite label="Chan85b">journals/tse/ChangJLTI85</cite>
+<cite label="Chen76">journals/tods/Chen76</cite>
+<cite label="Codd79">journals/tods/Codd79</cite>
+<cite label="Ditt86">conf/oodbs/86</cite>
+<cite label="Fill68">...</cite>
+<cite label="Gutt84">conf/sigmod/Guttman84</cite>
+<cite label="Hask81">conf/sigmod/HaskinL82</cite>
+<cite label="Hwann83">...</cite>
+<cite label="Ikke87">...</cite>
+<cite label="Klop83">conf/vldb/KlopproggeL83</cite>
+<cite label="Levi87">...</cite>
+<cite label="Mart80">...</cite>
+<cite label="Nage83">...</cite>
+<cite label="Nage85a">journals/insk/Nagel85a</cite>
+<cite label="Nage85b">...</cite>
+<cite label="Neum84">...</cite>
+<cite label="Neum86">journals/ife/NeumannN86</cite>
+<cite label="Niem85">...</cite>
+<cite label="Reim86">...</cite>
+<cite label="Scha75">...</cite>
+<cite label="Scha77">...</cite>
+<cite label="Smit77">journals/tods/SmithS77</cite>
+<cite label="Tamm82">conf/sigmod/Tamminen82</cite>
+<cite label="Walt86">...</cite>
+<cite label="Wood70">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/BeinK87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="99/4899">Jonathan Bein</author>
+<author pid="64/2075">Roger King</author>
+<title>MOBY: An Architecture for Distributed Expert Database Systems.</title>
+<pages>13-20</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#BeinK87</url>
+<ee>http://www.vldb.org/conf/1987/P013.PDF</ee>
+<cite label="BEIN84">...</cite>
+<cite label="BOBR83">...</cite>
+<cite label="BROD85">conf/eds/BrodieJ84</cite>
+<cite label="CERI83">journals/tse/CeriNW83</cite>
+<cite label="CGI86">...</cite>
+<cite label="FORGY79">...</cite>
+<cite label="BROWN85">...</cite>
+<cite label="CHRIST84">journals/tods/Christodoulakis84</cite>
+<cite label="QUIN85">...</cite>
+<cite label="GUPT83">...</cite>
+<cite label="GUPT84">...</cite>
+<cite label="HELD87">journals/cacm/HeldC87</cite>
+<cite label="INFER84">...</cite>
+<cite label="INTELL86">...</cite>
+<cite label="JARKE84">journals/csur/JarkeK84</cite>
+<cite label="KERSCH85">...</cite>
+<cite label="KOWA83">...</cite>
+<cite label="MCDM80">journals/ai/McDermott82</cite>
+<cite label="MCDM82">...</cite>
+<cite label="MOTO81">...</cite>
+<cite label="OFLA84">...</cite>
+<cite label="OZKAR86">...</cite>
+<cite label="SACC85">journals/tods/SaccaW85</cite>
+<cite label="SHAW85">...</cite>
+<cite label="STOLFO84">...</cite>
+<cite label="ULLMAN82">books/cs/Ullman82</cite>
+<cite label="ZARRI84">conf/eds/Zarri84</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Logic and Databases</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/Gardarin87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="g/GeorgesGardarin">Georges Gardarin</author>
+<title>Magic Functions: A Technique to Optimize Extended Datalog Recursive Programs.</title>
+<pages>21-30</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#Gardarin87</url>
+<ee>http://www.vldb.org/conf/1987/P021.PDF</ee>
+<cite label="Aho-Ullman79">conf/popl/AhoU79</cite>
+<cite label="Bancilhon85">...</cite>
+<cite label="Bancilhon86">conf/pods/BancilhonMSU86</cite>
+<cite label="Bancilhon-Rama86">conf/sigmod/BancilhonR86</cite>
+<cite label="Beeri87">conf/pods/BeeriR87</cite>
+<cite label="Ceri86">conf/vldb/CeriGL86</cite>
+<cite label="Chandra82">conf/pods/ChandraH82</cite>
+<cite label="Chang81">conf/adbt/Chang79</cite>
+<cite label="Delobel86">...</cite>
+<cite label="Gallaire81">...</cite>
+<cite label="Gallaire84">journals/csur/GallaireMN84</cite>
+<cite label="Gardarin-DeMaindreville85">...</cite>
+<cite label="Gardarin-DeMaindreville86">conf/sigmod/GardarinM86</cite>
+<cite label="Gardarin-Pucheral86">...</cite>
+<cite label="Gardarin87">...</cite>
+<cite label="Gardarin-Guessarian-DeMaindreville">...</cite>
+<cite label="Guessarian87">...</cite>
+<cite label="Henschen-Naqvi84">journals/jacm/HenschenN84</cite>
+<cite label="Lozinskii85">conf/ijcai/Lozinskii85</cite>
+<cite label="Kifer-Lozinskii86">conf/icde/KiferL87</cite>
+<cite label="Marque-Pucheu83">...</cite>
+<cite label="Merrett84">...</cite>
+<cite label="Rohmer85">...</cite>
+<cite label="Sacca-Zaniolo86">conf/pods/SaccaZ86</cite>
+<cite label="Tarski55">...</cite>
+<cite label="Ullman86">journals/tods/Ullman85</cite>
+<cite label="Vieille86">conf/eds/Vieille86</cite>
+<cite label="Zaniolo86">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/CeriT87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>Optimization of Systems of Algebraic Equations for Evaluating Datalog Queries.</title>
+<pages>31-41</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#CeriT87</url>
+<ee>http://www.vldb.org/conf/1987/P031.PDF</ee>
+<cite label="AhU 79">conf/popl/AhoU79</cite>
+<cite label="Ban 86a">conf/pods/BancilhonMSU86</cite>
+<cite label="Ban 86b">conf/sigmod/BancilhonR86</cite>
+<cite label="CeT 86">...</cite>
+<cite label="CoK 86">conf/pods/CosmadakisK86</cite>
+<cite label="Cou 74">conf/icalp/CourcelleKV74</cite>
+<cite label="CGL 86">conf/vldb/CeriGL86</cite>
+<cite label="DeA 86">...</cite>
+<cite label="Fin 82">conf/sigmod/Finkelstein82</cite>
+<cite label="Gar 86">conf/sigmod/GardarinM86</cite>
+<cite label="HeN 84">journals/jacm/HenschenN84</cite>
+<cite label="KiL 86">conf/icdt/KiferL86</cite>
+<cite label="Ull 85">journals/tods/Ullman85</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/Nejdl87" mdate="2022-04-09">
+<crossref>conf/vldb/87</crossref>
+<author orcid="0000-0003-3374-2193" pid="n/WolfgangNejdl">Wolfgang Nejdl</author>
+<title>Recursive Strategies for Answering Recursive Queries - The RQA/FQI Strategy.</title>
+<pages>43-50</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#Nejdl87</url>
+<ee>http://www.vldb.org/conf/1987/P043.PDF</ee>
+<cite label="Ban86">conf/sigmod/BancilhonR86</cite>
+<cite label="Ban86a">conf/pods/BancilhonMSU86</cite>
+<cite label="Boc86">...</cite>
+<cite label="Cer86">conf/vldb/CeriGL86</cite>
+<cite label="Clo81">...</cite>
+<cite label="Han86">conf/icde/HanL86</cite>
+<cite label="Hen84">journals/jacm/HenschenN84</cite>
+<cite label="Ion86">conf/vldb/Ioannidis86</cite>
+<cite label="Loz85">conf/ijcai/Lozinskii85</cite>
+<cite label="Mar86">conf/pods/Marchetti-SpaccamelaPS87</cite>
+<cite label="McK81">...</cite>
+<cite label="Nej86a">...</cite>
+<cite label="Nej86b">...</cite>
+<cite label="Nej87">...</cite>
+<cite label="Ras86">conf/vldb/RaschidS86</cite>
+<cite label="Smi86">journals/ai/SmithGG86</cite>
+<cite label="Ull85">journals/tods/Ullman85</cite>
+<cite label="Vie86">conf/eds/Vieille86</cite>
+<cite label="Vie87">conf/iclp/Vieille87</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Theoretical Issues</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/SiebesK87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="s/ArnoSiebes">Arno Siebes</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<title>Using Design Axioms and Topology to Model Database Semantics.</title>
+<pages>51-59</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#SiebesK87</url>
+<ee>http://www.vldb.org/conf/1987/P051.PDF</ee>
+<cite>conf/ifip/Armstrong74</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>...</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>journals/dke/ElmasriWH85</cite>
+<cite>...</cite>
+<cite>journals/csur/GallaireMN84</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/KowalskiSS87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="k/RobertAKowalski">Robert A. Kowalski</author>
+<author pid="s/FaribaSadri">Fariba Sadri</author>
+<author pid="58/2611">Paul Soper</author>
+<title>Integrity Checking in Deductive Databases.</title>
+<pages>61-69</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#KowalskiSS87</url>
+<ee>http://www.vldb.org/conf/1987/P061.PDF</ee>
+<cite>conf/adbt/Clark77</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/jacm/Kowalski75</cite>
+<cite>...</cite>
+<cite>books/sp/Lloyd84</cite>
+<cite>journals/jlp/LloydST87</cite>
+<cite>journals/jlp/LloydT85</cite>
+<cite>journals/jlp/LloydT86</cite>
+<cite>journals/acta/Nicolas82</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/CavalloP87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="44/4278">Roger Cavallo</author>
+<author pid="25/6612">Michael Pittarelli</author>
+<title>The Theory of Probabilistic Databases.</title>
+<pages>71-81</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#CavalloP87</url>
+<ee>http://www.vldb.org/conf/1987/P071.PDF</ee>
+<cite label="Aczel &#38; Daroczy 1975">...</cite>
+<cite label="Ashby 1956">...</cite>
+<cite label="Ashby 1965">...</cite>
+<cite label="Bishop et al, 1975">...</cite>
+<cite label="Bourbaki 1954">...</cite>
+<cite label="Brodie 1984">...</cite>
+<cite label="Brown 1959">journals/iandc/Brown59</cite>
+<cite label="Cavallo 1980">...</cite>
+<cite label="Cavallo &#38; Klir 1979a">...</cite>
+<cite label="Cavallo &#38; Klir 1979b">...</cite>
+<cite label="Cavallo &#38; Klir 1981">...</cite>
+<cite label="Codd 1970">journals/cacm/Codd70</cite>
+<cite label="Denning 1982">books/aw/Denning82</cite>
+<cite label="Fagin 1977">journals/tods/Fagin77</cite>
+<cite label="Fagin 1983">journals/jacm/Fagin83</cite>
+<cite label="Fagin et al, 1982">journals/tods/FaginMU82</cite>
+<cite label="Good 1983">...</cite>
+<cite label="Higashi 1984">...</cite>
+<cite label="Khinchin 1957">...</cite>
+<cite label="Kolmogorov 1965">...</cite>
+<cite label="Kullback 1959">...</cite>
+<cite label="Kumar et al, 1986">...</cite>
+<cite label="Lewis 1959">journals/iandc/Lewis59</cite>
+<cite label="Madden &#38; Ashby 1972">...</cite>
+<cite label="Maier 1983">books/cs/Maier83</cite>
+<cite label="Malvestuto 1983">journals/is/Malvestuto83</cite>
+<cite label="Nambiar 1980">conf/vldb/Nambiar80</cite>
+<cite label="Ullman 1982">books/cs/Ullman82</cite>
+<cite label="Wiener 1914">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Models and Languages</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/RoweS87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="r/LawrenceARowe">Lawrence A. Rowe</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>The POSTGRES Data Model.</title>
+<pages>83-96</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#RoweS87</url>
+<ee>http://www.vldb.org/conf/1987/P083.PDF</ee>
+<cite>conf/vldb/AdibaL80</cite>
+<cite>conf/oodbs/AndersonEM86</cite>
+<cite>...</cite>
+<cite>conf/oopsla/BobrowKKMSZ86</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>conf/sigmod/CopelandM84</cite>
+<cite>conf/sigmod/DadamKABEGLPW86</cite>
+<cite>...</cite>
+<cite>conf/oodbs/DeppischPS86</cite>
+<cite>...</cite>
+<cite>journals/tods/HammerM81</cite>
+<cite>conf/sigmod/HaskinL82</cite>
+<cite>...</cite>
+<cite>conf/eds/KungHISSS84</cite>
+<cite>...</cite>
+<cite>journals/tods/MylopoulosBW80</cite>
+<cite>conf/oodbs/Rowe86</cite>
+<cite>journals/tods/Shipman81</cite>
+<cite>journals/tods/SmithS77</cite>
+<cite>...</cite>
+<cite>conf/sigmod/StonebrakerAHR84</cite>
+<cite>...</cite>
+<cite>conf/sigmod/StonebrakerR86</cite>
+<cite>conf/oodbs/Stonebraker86</cite>
+<cite>conf/icde/Stonebraker86</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Zaniolo83</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/BancilhonBKV87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="28/718">Fran&#231;ois Bancilhon</author>
+<author pid="58/2420">Ted Briggs</author>
+<author pid="14/6635">Setrag Khoshafian</author>
+<author pid="v/PatrickValduriez">Patrick Valduriez</author>
+<title>FAD, a Powerful and Simple Database Language.</title>
+<pages>97-105</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#BancilhonBKV87</url>
+<ee>http://www.vldb.org/conf/1987/P097.PDF</ee>
+<cite label="Abiteboul and Bidoit 1984">conf/pods/AbiteboulH84</cite>
+<cite label="Abelson and Sussman 1985">books/mit/AbelsonS85</cite>
+<cite label="Ackerman 1982">...</cite>
+<cite label="Atkinson et al. 1983">journals/cj/AtkinsonBCCM83</cite>
+<cite label="Atkinson et al. 1985">...</cite>
+<cite label="Bancilhon and Khoshafian 1986">conf/pods/BancilhonK86</cite>
+<cite label="Boral and Redfield 1985">conf/vldb/BoralR85</cite>
+<cite label="Codd 1970">journals/cacm/Codd70</cite>
+<cite label="Furtado and Kerschberg 1977">conf/sigmod/FurtadoK77</cite>
+<cite label="Goldberg and Robson 1983">books/aw/GoldbergR83</cite>
+<cite label="Harper, MacQueen, and Milner 1986">...</cite>
+<cite label="Hull and Yap 1984">journals/jacm/HullY84</cite>
+<cite label="Jacobs 1982">journals/jacm/Jacobs82</cite>
+<cite label="Jaeschke and Schek 1982">conf/pods/JaeschkeS82</cite>
+<cite label="Kent 1978">...</cite>
+<cite label="Khoshafian and Copeland 1986">conf/oopsla/KhoshafianC86</cite>
+<cite label="Kulkarni and Atkinson 1986">journals/cj/KulkarniA86</cite>
+<cite label="Kuper and Vardi 1984">conf/pods/KuperV84</cite>
+<cite label="Kuper and Vardi 1985">conf/sigmod/KuperV85</cite>
+<cite label="Maier et al. 1986">conf/oopsla/MaierSOP86</cite>
+<cite label="Maier and Stein 1986">conf/oodbs/MaierS86</cite>
+<cite label="OODBW 1986">conf/oodbs/86</cite>
+<cite label="Ong et al. 1984">journals/sigmod/OngFS84</cite>
+<cite label="Osborn and Heaven 1986">journals/tods/OsbornH86</cite>
+<cite label="Ozsoyoglu and Yuan 1985">conf/pods/OzsoyogluY85</cite>
+<cite label="Ozsoyoglu and Ozsoyoglu 1983">...</cite>
+<cite label="Pingali and Kathail 1984">...</cite>
+<cite label="Roth et al. 1984">...</cite>
+<cite label="Schek and Scholl 1986">journals/is/SchekS86</cite>
+<cite label="Shipman 1981">journals/tods/Shipman81</cite>
+<cite label="Thomas 1982">...</cite>
+<cite label="Tsur and Zaniolo 1986">conf/vldb/TsurZ86</cite>
+<cite label="Zaniolo 1985">conf/vldb/Zaniolo85</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/SernadasSE87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="61/5698">Am&#237;lcar Sernadas</author>
+<author pid="06/3694">Cristina Sernadas</author>
+<author pid="e/HDEhrich">Hans-Dieter Ehrich</author>
+<title>Object-Oriented Specification of Databases: An Algebraic Approach.</title>
+<pages>107-116</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#SernadasSE87</url>
+<ee>http://www.vldb.org/conf/1987/P107.PDF</ee>
+<cite label="BaBu84">conf/vldb/BatoryB84</cite>
+<cite label="CCF82">conf/vldb/CastilhoCF82</cite>
+<cite label="Che86">...</cite>
+<cite label="DaSm86">...</cite>
+<cite label="DD86">conf/oodbs/86</cite>
+<cite label="EDG86">conf/ds/EhrichDG86</cite>
+<cite label="Ehr86">...</cite>
+<cite label="ELG84">conf/vldb/EhrichLG84</cite>
+<cite label="FiSe86">journals/is/FiadeiroS86</cite>
+<cite label="LEG85">...</cite>
+<cite label="Lip86">conf/sigmod/Lipeck86</cite>
+<cite label="MBW80">journals/tods/MylopoulosBW80</cite>
+<cite label="SeSe85a">...</cite>
+<cite label="SeSe85b">...</cite>
+<cite label="SeSe86">conf/ds/SernadasS85</cite>
+<cite label="StBo84">...</cite>
+<cite label="SRG83">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Implementation and Optimization</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/CooperADA87" mdate="2022-05-11">
+<crossref>conf/vldb/87</crossref>
+<author pid="c/RichardCooper">Richard Cooper 0001</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="88/5114">D. Abderrahmane</author>
+<title>Constructing Database Systems in a Persistent Environment.</title>
+<pages>117-125</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#CooperADA87</url>
+<ee>http://www.vldb.org/conf/1987/P117.PDF</ee>
+<cite label="ATKI83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="ATKI85">journals/toplas/AtkinsonM85</cite>
+<cite label="ATKI86a">...</cite>
+<cite label="ATKI86b">...</cite>
+<cite label="ATKI87">journals/cj/AtkinsonBM88</cite>
+<cite label="BUNE82">journals/tods/BunemanFN82</cite>
+<cite label="CAMP86">...</cite>
+<cite label="COCK84">journals/spe/CockshottACBM84</cite>
+<cite label="CODD79">journals/tods/Codd79</cite>
+<cite label="COOP87">...</cite>
+<cite label="DEAR87">journals/cj/DearleB88</cite>
+<cite label="HEPP83a">...</cite>
+<cite label="HEPP83b">...</cite>
+<cite label="KULK83">...</cite>
+<cite label="KULK86">journals/cj/KulkarniA86</cite>
+<cite label="KULK87">journals/spe/KulkarniA87</cite>
+<cite label="MORR86">...</cite>
+<cite label="NORR85">...</cite>
+<cite label="PSAL86">...</cite>
+<cite label="SHIP81">journals/tods/Shipman81</cite>
+<cite label="STOC73">journals/cj/StockerD73</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/MarkowitzM87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="m/VMMarkowitz">Victor M. Markowitz</author>
+<author pid="m/JAMakowsky">Johann A. Makowsky</author>
+<title>Incremental Reorganization of Relational Databases.</title>
+<pages>127-135</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#MarkowitzM87</url>
+<ee>http://www.vldb.org/conf/1987/P127.PDF</ee>
+<cite label="AC">conf/er/AtzeniC81</cite>
+<cite label="CCE">conf/er/CampbellEC85</cite>
+<cite label="CH">journals/jcss/ChandraH80</cite>
+<cite label="CV">conf/pods/CasanovaV83</cite>
+<cite label="Chen">journals/tods/Chen76</cite>
+<cite label="FV">conf/vldb/FischerG85</cite>
+<cite label="MMR">conf/icdt/MakowskyMR86</cite>
+<cite label="Mar">...</cite>
+<cite label="MR">journals/jss/MarkowitzR84</cite>
+<cite label="PS">journals/tse/ParentS85</cite>
+<cite label="Pir">conf/adbt/Pirotte77</cite>
+<cite label="Sci">conf/pods/Sciore83</cite>
+<cite label="ST">journals/tods/ShneidermanT82</cite>
+<cite label="TL">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/SchollPS87" mdate="2022-06-23">
+<crossref>conf/vldb/87</crossref>
+<author orcid="0000-0002-4304-4092" pid="s/MarcHScholl">Marc H. Scholl</author>
+<author pid="63/5493">H.-Bernhard Paul</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<title>Supporting Flat Relations by a Nested Relational Kernel.</title>
+<pages>137-146</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#SchollPS87</url>
+<ee>http://www.vldb.org/conf/1987/P137.PDF</ee>
+<cite label="Ab86">conf/nf2/SchollABBGPRV87</cite>
+<cite label="AB84">conf/pods/AbiteboulB84</cite>
+<cite label="ABU79">journals/tods/AhoBU79</cite>
+<cite label="ADABAS">...</cite>
+<cite label="As76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="ASK80">conf/ifip/AstrahanSK80</cite>
+<cite label="ASU79">journals/siamcomp/AhoSU79</cite>
+<cite label="Ba86">conf/oodbs/Batory86</cite>
+<cite label="BB84">conf/vldb/BatoryB84</cite>
+<cite label="Ch81">journals/cacm/ChamberlinABGKLLMPPSSSTWY81</cite>
+<cite label="CNW83">journals/tse/CeriNW83</cite>
+<cite label="Da86">conf/sigmod/DadamKABEGLPW86</cite>
+<cite label="DGW85">conf/btw/DeppischGW85</cite>
+<cite label="DPS86">conf/oodbs/DeppischPS86</cite>
+<cite label="FT83">...</cite>
+<cite label="H&#228;78">journals/tods/Harder78</cite>
+<cite label="IMS">...</cite>
+<cite label="LC86">conf/vldb/LehmanC86</cite>
+<cite label="LKMPM85">...</cite>
+<cite label="LMP87">conf/sigmod/LindsayMP87</cite>
+<cite label="Ma83">books/cs/Maier83</cite>
+<cite label="Mi87">conf/btw/Mitschang87</cite>
+<cite label="MS77">journals/tods/MarchS77</cite>
+<cite label="NCWD84">journals/tods/NavatheCWD84</cite>
+<cite label="OH85">journals/is/OttH85</cite>
+<cite label="Ol78">...</cite>
+<cite label="ORACLE">...</cite>
+<cite label="PA86">conf/vldb/PistorA86</cite>
+<cite label="PSSWD87">conf/sigmod/PaulSSWD87</cite>
+<cite label="RKB85">journals/is/RothKB87</cite>
+<cite label="RKS85">journals/tods/RothKS88</cite>
+<cite label="Ro86">conf/oodbs/Rowe86</cite>
+<cite label="Sche85">conf/fodo/Schek85</cite>
+<cite label="Schk75">journals/is/Schkolnick75</cite>
+<cite label="Scho86">conf/icdt/Scholl86</cite>
+<cite label="SQL">...</cite>
+<cite label="SR84">conf/vldb/StonebrakerR84</cite>
+<cite label="SS80">...</cite>
+<cite label="SS81">...</cite>
+<cite label="SS83">...</cite>
+<cite label="SS86">journals/is/SchekS86</cite>
+<cite label="SW86">...</cite>
+<cite label="Ul82">books/cs/Ullman82</cite>
+<cite label="WNP87">conf/btw/WeikumNP87</cite>
+<cite label="WY76">journals/tods/WongY76</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Dependency Theory</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/LenzeriniN87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="l/MLenzerini">Maurizio Lenzerini</author>
+<author pid="74/547">Paolo Nobili</author>
+<title>On The Satisfiability of Dependency Constraints in Entity-Relationship Schemata.</title>
+<pages>147-154</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#LenzeriniN87</url>
+<ee>http://www.vldb.org/conf/1987/P147.PDF</ee>
+<cite>...</cite>
+<cite>journals/tods/AlbanoCO85</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>...</cite>
+<cite>journals/tods/HammerM81</cite>
+<cite>conf/er/Lenzerini85</cite>
+<cite>...</cite>
+<cite>books/ph/PapadimitriouS82</cite>
+<cite>...</cite>
+<cite>books/cs/Ullman82</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/MannilaR87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="m/HMannila">Heikki Mannila</author>
+<author pid="97/1190">Kari-Jouko R&#228;ih&#228;</author>
+<title>Dependency Inference.</title>
+<pages>155-158</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#MannilaR87</url>
+<ee>http://www.vldb.org/conf/1987/P155.PDF</ee>
+<cite label="Ar74">conf/ifip/Armstrong74</cite>
+<cite label="BDFS84">journals/jacm/BeeriDFS84</cite>
+<cite label="BMW86">...</cite>
+<cite label="BW85">conf/vldb/BorgidaW85</cite>
+<cite label="BGM85">conf/vldb/BouzeghoubGM85</cite>
+<cite label="CFP84">journals/jcss/CasanovaFP84</cite>
+<cite label="Dec87">conf/pods/Dechter87</cite>
+<cite label="Del87">conf/pods/Delgrande87</cite>
+<cite label="Fa82">...</cite>
+<cite label="Ma87">...</cite>
+<cite label="MR86">journals/jcss/MannilaR86</cite>
+<cite label="MRK87">...</cite>
+<cite label="MCM83">...</cite>
+<cite label="MCM86">...</cite>
+<cite label="SM81">conf/adbt/SilvaM79</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/AtzeniC87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="c/EPFChan">Edward P. F. Chan</author>
+<title>Independent Database Schemes under Functional and Inclusion Dependencies.</title>
+<pages>159-166</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#AtzeniC87</url>
+<ee>http://www.vldb.org/conf/1987/P159.PDF</ee>
+<cite>conf/pods/AtzeniC85</cite>
+<cite>conf/pods/AtzeniB87</cite>
+<cite>conf/pods/BeeriK82</cite>
+<cite>journals/jcss/CasanovaFP84</cite>
+<cite>conf/pods/CasanovaV83</cite>
+<cite>journals/jacm/ChanM87</cite>
+<cite>journals/siamcomp/ChandraV85</cite>
+<cite>journals/acr/CosmadakisK86</cite>
+<cite>journals/jcss/GrahamY84</cite>
+<cite>journals/jacm/Honeyman82</cite>
+<cite>journals/siamcomp/ItoIK85</cite>
+<cite>journals/jcss/JohnsonK84</cite>
+<cite>conf/stoc/KanellakisCV83</cite>
+<cite>books/cs/Maier83</cite>
+<cite>journals/acr/MaierRW86</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>journals/iandc/Mitchell83</cite>
+<cite>conf/sigmod/Sagiv81</cite>
+<cite>journals/tods/Sagiv83</cite>
+<cite>journals/jacm/Sagiv91</cite>
+<cite>conf/pods/Sciore83a</cite>
+<cite>books/cs/Ullman82</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Temporal Issues</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/AbbodBN87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="59/250">T. Abbod</author>
+<author pid="14/3114">K. Brown</author>
+<author pid="22/7001">H. Noble</author>
+<title>Providing Time-Related Constraints for Conventional Database Systems.</title>
+<pages>167-175</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#AbbodBN87</url>
+<ee>http://www.vldb.org/conf/1987/P167.PDF</ee>
+<cite>conf/sigmod/AriavCJ83</cite>
+<cite>journals/is/Brodie80</cite>
+<cite>...</cite>
+<cite>conf/vldb/CastilhoCF82</cite>
+<cite>journals/tods/CliffordW83</cite>
+<cite>conf/sigmod/CliffordT85</cite>
+<cite>conf/vldb/Date81</cite>
+<cite>journals/cj/FrostW83</cite>
+<cite>conf/bncod/Frost86</cite>
+<cite>conf/icod/JonesM80</cite>
+<cite>conf/vldb/KlopproggeL83</cite>
+<cite>journals/is/Kobayashi84</cite>
+<cite>conf/sigmod/LumDEGPWWW84</cite>
+<cite>conf/bncod/Noble84</cite>
+<cite>conf/bncod/NobleA86</cite>
+<cite>conf/sigmod/SnodgrassA85</cite>
+<cite>conf/sigmod/Stonebraker75</cite>
+<cite>...</cite>
+<cite>journals/is/Tansel86</cite>
+<cite>conf/ds/Weigand85</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/MartinNA87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="33/3211">N. G. Martin</author>
+<author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author>
+<author pid="52/5728">Rafi Ahmed</author>
+<title>Dealing with Temporal Schema Anomalies in History Databases.</title>
+<pages>177-184</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#MartinNA87</url>
+<ee>http://www.vldb.org/conf/1987/P177.PDF</ee>
+<cite>...</cite>
+<cite>journals/computer/SnodgrassA86</cite>
+<cite>conf/sigmod/SnodgrassA85</cite>
+<cite>...</cite>
+<cite>conf/sigmod/CliffordT85</cite>
+<cite>conf/icde/Gadia86</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>journals/csur/GallaireMN84</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/Allen83</cite>
+<cite>...</cite>
+<cite>journals/jlp/Kowalski92</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/toplas/MannaW84</cite>
+<cite>journals/toplas/ClarkeES86</cite>
+<cite>conf/popl/GabbayPSS80</cite>
+<cite>conf/tdb/NavatheA87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/LingatNR87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="25/533">Jean-Yves Lingat</author>
+<author pid="48/5100">Philippe Nobecourt</author>
+<author pid="r/CRolland">Colette Rolland</author>
+<title>Behaviour Management in Database Applications.</title>
+<pages>185-196</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#LingatNR87</url>
+<ee>http://www.vldb.org/conf/1987/P185.PDF</ee>
+<cite label="ADIB86">...</cite>
+<cite label="BARB85">conf/sigmod/BarbicP85</cite>
+<cite label="BOLO82">journals/sigmod/BolourADW82</cite>
+<cite label="BORG85">...</cite>
+<cite label="BOUC81">...</cite>
+<cite label="BUNE79">journals/tods/BunemanC79</cite>
+<cite label="BROD82">...</cite>
+<cite label="CAUV86">...</cite>
+<cite label="CHAN82">...</cite>
+<cite label="CRIS 1">...</cite>
+<cite label="DADA84">conf/vldb/DadamLW84</cite>
+<cite label="ESWA76">...</cite>
+<cite label="GUST82">...</cite>
+<cite label="HAMM78">conf/sigmod/HammerM78</cite>
+<cite label="KAHN77">journals/ai/KahnG77</cite>
+<cite label="KERS86">conf/ds/KerstenS86</cite>
+<cite label="KING86">conf/eds/King84</cite>
+<cite label="LIN84">...</cite>
+<cite label="MELK83">conf/icod/MelkanoffC83</cite>
+<cite label="MITT82">...</cite>
+<cite label="MYLO80">conf/vldb/MylopoulosW80</cite>
+<cite label="OVER82">journals/sigmod/OvermyerS82</cite>
+<cite label="ROLL82">...</cite>
+<cite label="ROLL86">...</cite>
+<cite label="SMIT77">journals/tods/SmithS77</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Query Processing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/Dayal87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>Of Nests and Trees: A Unified Approach to Processing Queries That Contain Nested Subqueries, Aggregates, and Quantifiers.</title>
+<pages>197-208</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#Dayal87</url>
+<ee>http://www.vldb.org/conf/1987/P197.PDF</ee>
+<cite label="BERN81">journals/jacm/BernsteinC81</cite>
+<cite label="BLAS77">...</cite>
+<cite label="CERI85">journals/tse/CeriG85</cite>
+<cite label="CHAM76">...</cite>
+<cite label="CODD70">journals/cacm/Codd70</cite>
+<cite label="CODD72">persons/Codd72</cite>
+<cite label="CODD79">journals/tods/Codd79</cite>
+<cite label="DATE85">...</cite>
+<cite label="DAYA82">conf/pods/DayalGK82</cite>
+<cite label="DAYA83">conf/pods/Dayal83</cite>
+<cite label="DAYA85">books/sp/kimrb85/Dayal85</cite>
+<cite label="DEWI87">conf/sigmod/GraefeD87</cite>
+<cite label="FREY87">conf/sigmod/Freytag87</cite>
+<cite label="GANS87">conf/sigmod/GanskiW87</cite>
+<cite label="JARK82">conf/sigmod/JarkeS82</cite>
+<cite label="KIM82">journals/tods/Kim82</cite>
+<cite label="KLUG82">conf/sigmod/Klug82</cite>
+<cite label="LACR76">...</cite>
+<cite label="LOHM84">conf/vldb/LohmanDHKS84</cite>
+<cite label="MACK86a">conf/sigmod/MackertL86</cite>
+<cite label="MACK86b">conf/vldb/MackertL86</cite>
+<cite label="PALE72">...</cite>
+<cite label="ROSE84">conf/vldb/RosenthalR84</cite>
+<cite label="SELI79">conf/sigmod/SelingerACLP79</cite>
+<cite label="SHIP81">journals/tods/Shipman81</cite>
+<cite label="SMIT83">...</cite>
+<cite label="WONG76">journals/tods/WongY76</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/ChristensenZ87" mdate="2012-09-17">
+<crossref>conf/vldb/87</crossref>
+<author pid="97/4026">A. Christensen</author>
+<author pid="01/1482">Torben U. Zahle</author>
+<title>A Comparison of Self-Contained and Embedded Database Languages.</title>
+<pages>209-216</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#ChristensenZ87</url>
+<ee>http://www.vldb.org/conf/1987/P209.PDF</ee>
+<cite label="ASTR 75">journals/cacm/AstrahanC75</cite>
+<cite label="CHRI86">...</cite>
+<cite label="DATE84a">...</cite>
+<cite label="DATE84b">journals/sigmod/Date84</cite>
+<cite label="DATE84c">journals/sigmod/Date84a</cite>
+<cite label="ISO">...</cite>
+<cite label="STON 77">conf/vldb/StonebrakerR77</cite>
+<cite label="ZAHL78">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/LacroixL87" mdate="2012-09-17">
+<crossref>conf/vldb/87</crossref>
+<author pid="53/1650">M. Lacroix</author>
+<author pid="02/3906">Pierre Lavency</author>
+<title>Preferences; Putting More Knowledge into Queries.</title>
+<pages>217-225</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#LacroixL87</url>
+<ee>http://www.vldb.org/conf/1987/P217.PDF</ee>
+<cite label="LAa77">conf/vldb/LacroixP77</cite>
+<cite label="Ull82">books/cs/Ullman82</cite>
+<cite label="COD72">persons/Codd72</cite>
+<cite label="LAb77">...</cite>
+<cite label="LEB83">conf/sde/LeblangC84</cite>
+<cite label="FEL79">journals/spe/Feldman79</cite>
+<cite label="CHA76">...</cite>
+<cite label="MOT86">conf/eds/Motro86</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Query Transformations</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/HowellsFG87" mdate="2022-03-23">
+<crossref>conf/vldb/87</crossref>
+<author pid="73/5948">D. I. Howells</author>
+<author pid="f/NJFiddian">Nick J. Fiddian</author>
+<author pid="g/WAGray">W. A. Gray</author>
+<title>A Source-to-Source Meta-Translation System for Relational Query Languages.</title>
+<pages>227-234</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#HowellsFG87</url>
+<ee>http://www.vldb.org/conf/1987/P227.PDF</ee>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/mg/CeriP84</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/ph/KernighanR88</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/StonebrakerWKH76</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/Bultzingsloewen87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="32/5296">G&#252;nter von B&#252;ltzingsloewen</author>
+<title>Translating and Optimizing SQL Queries Having Aggregates.</title>
+<pages>235-243</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#Bultzingsloewen87</url>
+<ee>http://www.vldb.org/conf/1987/P235.PDF</ee>
+<cite label="ANSI85">...</cite>
+<cite label="CeGo85">journals/tse/CeriG85</cite>
+<cite label="Codd72">persons/Codd72</cite>
+<cite label="JaKo83">conf/sigmod/JarkeK83</cite>
+<cite label="JaKo84">journals/csur/JarkeK84</cite>
+<cite label="Jarke85">books/sp/kimrb85/Jarke85</cite>
+<cite label="Kies85">conf/vldb/Kiessling85</cite>
+<cite label="Kim82">journals/tods/Kim82</cite>
+<cite label="Klug82">journals/jacm/Klug82</cite>
+<cite label="LeVi85">...</cite>
+<cite label="Maie83">books/cs/Maier83</cite>
+<cite label="Seli79">conf/sigmod/SelingerACLP79</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/YangL87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="86/1030">H. Z. Yang</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<title>Query Transformation for PSJ-Queries.</title>
+<pages>245-254</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#YangL87</url>
+<ee>http://www.vldb.org/conf/1987/P245.PDF</ee>
+<cite label="AS79">journals/siamcomp/AhoSU79</cite>
+<cite label="BA82">journals/tods/Babb82</cite>
+<cite label="BC86">conf/vldb/BlakeleyCL86</cite>
+<cite label="CP84">books/mg/CeriP84</cite>
+<cite label="DA86">books/aw/Date86</cite>
+<cite label="FS82">conf/sigmod/Finkelstein82</cite>
+<cite label="LY85">conf/vldb/LarsonY85</cite>
+<cite label="LY87">...</cite>
+<cite label="MA83">books/cs/Maier83</cite>
+<cite label="RH80">conf/vldb/RosenkrantzH80</cite>
+<cite label="RO82">journals/tods/Roussopoulos82</cite>
+<cite label="RO86">conf/vldb/RoussopoulosK86</cite>
+<cite label="SY81">journals/jacm/SagivY80</cite>
+<cite label="SS81">...</cite>
+<cite label="SE86">conf/sigmod/Sellis86</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Recursive Query Processing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/AgrawalJ87" mdate="2017-11-07">
+<crossref>conf/vldb/87</crossref>
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<title>Direct Algorithms for Computing the Transitive Closure of Database Relations.</title>
+<pages>255-266</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#AgrawalJ87</url>
+<ee>http://www.vldb.org/conf/1987/P255.PDF</ee>
+<cite>conf/icde/Agrawal87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/BittonDT83</cite>
+<cite>...</cite>
+<cite>conf/vldb/DeWittG85</cite>
+<cite>phd/Guttman84</cite>
+<cite>conf/vldb/Ioannidis86</cite>
+<cite>conf/sigmod/JagadishAN87</cite>
+<cite>conf/icde/LuMR87</cite>
+<cite>conf/sigmod/RosenthalHDM86</cite>
+<cite>...</cite>
+<cite>journals/siamcomp/Schnorr78</cite>
+<cite>conf/eds/ValduriezB86</cite>
+<cite>journals/cacm/Warren75</cite>
+<cite>journals/jacm/Warshall62</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/Lu87" mdate="2012-09-17">
+<crossref>conf/vldb/87</crossref>
+<author pid="l/HongjunLu">Hongjun Lu</author>
+<title>New Strategies for Computing the Transitive Closure of a Database Relation.</title>
+<pages>267-274</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#Lu87</url>
+<ee>http://www.vldb.org/conf/1987/P267.PDF</ee>
+<cite label="Agra87">conf/icde/Agrawal87</cite>
+<cite label="Banc85">...</cite>
+<cite label="Banc86">conf/sigmod/BancilhonR86</cite>
+<cite label="DeWi84">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="Ioan86">conf/vldb/Ioannidis86</cite>
+<cite label="Lu87">conf/icde/LuMR87</cite>
+<cite label="Rose86">conf/sigmod/RosenthalHDM86</cite>
+<cite label="Vald86">conf/eds/ValduriezB86</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/WhangN87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="w/KyuYoungWhang">Kyu-Young Whang</author>
+<author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author>
+<title>An Extended Disjunctive Normal Form Approach for Optimizing Recursive Logic Queries in Loosely Coupled Environments.</title>
+<pages>275-287</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#WhangN87</url>
+<ee>http://www.vldb.org/conf/1987/P275.PDF</ee>
+<cite label="Agr87">conf/icde/Agrawal87</cite>
+<cite label="Aho79">conf/popl/AhoU79</cite>
+<cite label="Apt85">books/mk/minker88/AptBW88</cite>
+<cite label="Ban85">...</cite>
+<cite label="Ban86">conf/sigmod/BancilhonR86</cite>
+<cite label="Ban86a">conf/pods/BancilhonMSU86</cite>
+<cite label="Boc86">conf/slp/Bocca86</cite>
+<cite label="Boc86a">...</cite>
+<cite label="Cai87">conf/popl/CaiP87</cite>
+<cite label="Cer86">conf/eds/CeriGW86</cite>
+<cite label="Cha85">conf/eds/ChangW84</cite>
+<cite label="Cla78">conf/adbt/Clark77</cite>
+<cite label="Dev86">conf/icde/AgrawalD88</cite>
+<cite label="Gar79">books/fm/GareyJ79</cite>
+<cite label="Hen84">journals/jacm/HenschenN84</cite>
+<cite label="Ioa86">conf/vldb/Ioannidis86</cite>
+<cite label="Jag87">...</cite>
+<cite label="Jar84">conf/sigmod/JarkeCV84</cite>
+<cite label="Kif86">...</cite>
+<cite label="Kif86a">conf/icdt/KiferL86</cite>
+<cite label="Kil73">conf/popl/Kildall73</cite>
+<cite label="Kim82">journals/tods/Kim82</cite>
+<cite label="Kri86">...</cite>
+<cite label="Loz85">conf/ijcai/Lozinskii85</cite>
+<cite label="Mck81">...</cite>
+<cite label="Mor86">conf/iclp/MorrisUG86</cite>
+<cite label="Naq86">conf/pods/Naqvi86</cite>
+<cite label="Naq86a">...</cite>
+<cite label="Nic86">...</cite>
+<cite label="Rei78">conf/adbt/Reiter77</cite>
+<cite label="Sac86">conf/icdt/SaccaZ86</cite>
+<cite label="Sci85">conf/eds/ScioreW84</cite>
+<cite label="Tar85">...</cite>
+<cite label="Ull85">journals/tods/Ullman85</cite>
+<cite label="Ull87">...</cite>
+<cite label="Van86">conf/sigmod/Gelder86</cite>
+<cite label="Vie86">conf/eds/Vieille86</cite>
+<cite label="Wal85">...</cite>
+<cite label="Wha85">...</cite>
+<cite label="Wha87">...</cite>
+<cite label="Yu87">conf/icde/YuZ87</cite>
+<cite label="Zan86">conf/eds/Zaniolo86</cite>
+<cite label="Zlo77">journals/ibmsj/Zloof77</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Storage Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/Stonebraker87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>The Design of the POSTGRES Storage System.</title>
+<pages>289-300</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#Stonebraker87</url>
+<ee>http://www.vldb.org/conf/1987/P289.PDF</ee>
+<cite label="AGRA85">conf/sigmod/AgrawalCL85</cite>
+<cite label="ASTR76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="BART81">conf/sosp/Bartlett81</cite>
+<cite label="BERN80">journals/tods/BernsteinSR80</cite>
+<cite label="BHID87">...</cite>
+<cite label="CARE86">conf/vldb/CareyDRS86</cite>
+<cite label="COPE84">conf/sigmod/CopelandM84</cite>
+<cite label="DEC88">...</cite>
+<cite label="DEWI84">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="GRAY78">conf/ac/Gray78</cite>
+<cite label="GUTM84">conf/sigmod/Guttman84</cite>
+<cite label="HILL85">...</cite>
+<cite label="ROUS85">conf/sigmod/RoussopoulosL85</cite>
+<cite label="SEQU85">...</cite>
+<cite label="SEVR76">journals/tods/SeveranceL76</cite>
+<cite label="STON76">journals/tods/StonebrakerWKH76</cite>
+<cite label="STON86">conf/sigmod/StonebrakerR86</cite>
+<cite label="STON86a">conf/icde/Stonebraker86</cite>
+<cite label="VITT85">journals/tods/Vitter85</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/Sacco87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="38/345">Giovanni Maria Sacco</author>
+<title>Index Access with a Finite Buffer.</title>
+<pages>301-309</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#Sacco87</url>
+<ee>http://www.vldb.org/conf/1987/P301.PDF</ee>
+<cite label="BAYE72">journals/acta/BayerM72</cite>
+<cite label="BERN81">journals/tods/BernsteinGWRR81</cite>
+<cite label="CHOU85">conf/vldb/ChouD85</cite>
+<cite label="COME79">journals/csur/Comer79</cite>
+<cite label="EFFE84">journals/tods/EffelsbergH84</cite>
+<cite label="FRAN74">journals/jacm/FranaszekW74</cite>
+<cite label="KNUT73">books/aw/Knuth73</cite>
+<cite label="IJBE85">conf/icde/IJbemaB86</cite>
+<cite label="MATT70">...</cite>
+<cite label="SACC82">conf/vldb/SaccoS82</cite>
+<cite label="SACC83">...</cite>
+<cite label="SACC86">journals/tods/SaccoS86</cite>
+<cite label="WHAN83">journals/cacm/WhangWS83</cite>
+<cite label="YAO77">journals/cacm/Yao77</cite>
+<cite label="ZIPF49">books/aw/Zipf49</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/LiRW87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="18/6870">Jianzhong Li</author>
+<author pid="r/DoronRotem">Doron Rotem</author>
+<author pid="49/144">Harry K. T. Wong</author>
+<title>A New Compression Method with Fast Searching on Large Databases.</title>
+<pages>311-318</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#LiRW87</url>
+<ee>http://www.vldb.org/conf/1987/P311.PDF</ee>
+<cite>...</cite>
+<cite>conf/vldb/EggersS80</cite>
+<cite>conf/vldb/EggersOS81</cite>
+<cite>conf/vldb/ShoshaniOW84</cite>
+<cite>conf/vldb/Shoshani82</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/Hahn74</cite>
+<cite>books/aw/Knuth73</cite>
+<cite>journals/cacm/TarjanY79</cite>
+<cite>journals/tse/Bassiouni85</cite>
+<cite>...</cite>
+<cite>journals/ipl/Teuhola78</cite>
+<cite>...</cite>
+<cite>conf/vldb/WongL86</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Multimedia Information Management</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/WoelkK87" mdate="2018-03-28">
+<crossref>conf/vldb/87</crossref>
+<author pid="89/5812">Darrell Woelk</author>
+<author pid="86/2627-1">Won Kim 0001</author>
+<title>Multimedia Information Management in an Object-Oriented Database System.</title>
+<pages>319-329</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#WoelkK87</url>
+<ee>http://www.vldb.org/conf/1987/P319.PDF</ee>
+<cite label="BANE87">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="BOBR83">...</cite>
+<cite label="BOBR85">conf/oopsla/BobrowKKMSZ86</cite>
+<cite label="CARE86">conf/vldb/CareyDRS86</cite>
+<cite label="CDRO86">...</cite>
+<cite label="CHOU86">conf/vldb/ChouK86</cite>
+<cite label="CHRI86a">conf/sigmod/ChrstodoulakisHT86</cite>
+<cite label="CHRI86b">journals/computer/ChristodoulakisF86</cite>
+<cite label="GOLD81">...</cite>
+<cite label="HASK82">conf/sigmod/HaskinL82</cite>
+<cite label="KILL86">...</cite>
+<cite label="LMI85">...</cite>
+<cite label="LUTH87">...</cite>
+<cite label="MAIE86">conf/oopsla/MaierSOP86</cite>
+<cite label="OREN86">conf/sigmod/Orenstein86</cite>
+<cite label="PETR86">...</cite>
+<cite label="STEE84">...</cite>
+<cite label="STEF86">...</cite>
+<cite label="SYMB85">...</cite>
+<cite label="WOEL86">conf/sigmod/WoelkKL86</cite>
+<cite label="WOEL87">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/KingN87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="64/2075">Roger King</author>
+<author pid="43/3622">Michael Novak</author>
+<title>Freeform: A User-Adaptable Form Management System.</title>
+<pages>331-338</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#KingN87</url>
+<ee>http://www.vldb.org/conf/1987/P331.PDF</ee>
+<cite label="BrH86">conf/icde/BryceH86</cite>
+<cite label="CzE84">...</cite>
+<cite label="EIB82">...</cite>
+<cite label="GGK85">conf/sigmod/GoldmanGKZ85</cite>
+<cite label="HaS83">...</cite>
+<cite label="HuW84">...</cite>
+<cite label="HuK86">conf/oodbs/HudsonK86</cite>
+<cite label="HuK87">conf/sigmod/HudsonK87</cite>
+<cite label="HuK85">journals/csur/HullK87</cite>
+<cite label="HHN">...</cite>
+<cite label="Kin84">...</cite>
+<cite label="KiM84">conf/vldb/KingM84</cite>
+<cite label="KiM85">...</cite>
+<cite label="KGM84">...</cite>
+<cite label="LeL83">...</cite>
+<cite label="Lef79">...</cite>
+<cite label="RoM83">journals/cacm/RobertsM83</cite>
+<cite label="RoS82">conf/sigmod/RoweS82</cite>
+<cite label="Row85">conf/vldb/Rowe85</cite>
+<cite label="Rub84">...</cite>
+<cite label="Shi84">...</cite>
+<cite label="SLT82">journals/tse/ShuLTC82</cite>
+<cite label="Shu85">...</cite>
+<cite label="SIK82">...</cite>
+<cite label="StR86">conf/sigmod/StonebrakerR86</cite>
+<cite label="Tsi80">conf/vldb/Tsichritzis80</cite>
+<cite label="Tsi82">journals/cacm/Tsichritzis82</cite>
+<cite label="WJL85">...</cite>
+<cite label="YHS84">journals/tois/YaoHSL84</cite>
+<cite label="Zlo75">...</cite>
+<cite label="Zlo82">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/GonnetT87" mdate="2021-10-14">
+<crossref>conf/vldb/87</crossref>
+<author pid="g/GastonHGonnet">Gaston H. Gonnet</author>
+<author orcid="0000-0002-1907-9535" pid="t/FrankWmTompa">Frank Wm. Tompa</author>
+<title>Mind Your Grammar: a New Approach to Modelling Text.</title>
+<pages>339-346</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#GonnetT87</url>
+<ee>http://www.vldb.org/conf/1987/P339.PDF</ee>
+<cite label="Aho72">...</cite>
+<cite label="Boyce75">journals/cacm/BoyceCKH75</cite>
+<cite label="Char85">...</cite>
+<cite label="Gonnet83">journals/cacm/GonnetT83</cite>
+<cite label="Gonnet86">...</cite>
+<cite label="ISO85">...</cite>
+<cite label="Johnson86">...</cite>
+<cite label="Kazman86">...</cite>
+<cite label="Korth86">books/mg/SilberschatzK86</cite>
+<cite label="Tompa86">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Performance</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/HwangY87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="44/5898">Hai-Yann Hwang</author>
+<author pid="80/4153">Yao-Tin Yu</author>
+<title>An Analytical Method for Estimating and Interpreting Query Time.</title>
+<pages>347-358</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#HwangY87</url>
+<ee>http://www.vldb.org/conf/1987/P347.PDF</ee>
+<cite label="ASTR 76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="BITT 83">conf/vldb/BittonDT83</cite>
+<cite label="BOGD 83">conf/iwdm/BogdanowiczCHRSS83</cite>
+<cite label="BORA 84">conf/sigmod/BoralD84</cite>
+<cite label="CHAM 81">journals/tods/ChamberlinAKLMPSSSWY81</cite>
+<cite label="HAWT 79">conf/sigmod/HawthornS79</cite>
+<cite label="LOHM 85">books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite label="MACK 86">conf/sigmod/MackertL86</cite>
+<cite label="KERN 78">...</cite>
+<cite label="STON 76">journals/tods/StonebrakerWKH76</cite>
+<cite label="STON 81">journals/cacm/Stonebraker81</cite>
+<cite label="STON 83">journals/tods/StonebrakerWRMMA83</cite>
+<cite label="UPRM 86">...</cite>
+<cite label="UURM 86">...</cite>
+<cite label="YAO 79">journals/tods/Yao79</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/NoeW87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="68/6950">Jerre D. Noe</author>
+<author pid="36/3082">David B. Wagner</author>
+<title>Measured Performance of Time Interval Concurrency Control Techniques.</title>
+<pages>359-367</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#NoeW87</url>
+<ee>http://www.vldb.org/conf/1987/P359.PDF</ee>
+<cite>journals/debu/AgrawalC85</cite>
+<cite>journals/tse/AlmesBLN85</cite>
+<cite>conf/ddb/BayerEHR82</cite>
+<cite>journals/tods/BayerHR80</cite>
+<cite>journals/tods/BernsteinG83</cite>
+<cite>conf/sosp/Black85</cite>
+<cite>journals/tocs/CareyM86</cite>
+<cite>conf/berkeley/CeriO82</cite>
+<cite>conf/icdcs/CordonG85</cite>
+<cite>journals/tods/FranaszekR85</cite>
+<cite>...</cite>
+<cite>conf/ac/Gray78</cite>
+<cite>...</cite>
+<cite>journals/tods/KungR81</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icdcs/Ozsu85</cite>
+<cite>conf/icde/PuNP86</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/SubietaR87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="s/KSubieta">Kazimierz Subieta</author>
+<author pid="56/633">Wiktor Rzeczkowski</author>
+<title>Query Optimization by Stored Queries.</title>
+<pages>369-380</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#SubietaR87</url>
+<ee>http://www.vldb.org/conf/1987/P369.PDF</ee>
+<cite>journals/tods/AhoSU79</cite>
+<cite>conf/popl/AhoU79</cite>
+<cite>...</cite>
+<cite>conf/sigmod/BlakeleyLT86</cite>
+<cite>conf/sigmod/BunemanF79</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>journals/tods/Comer78</cite>
+<cite>...</cite>
+<cite>conf/pods/DayalGK82</cite>
+<cite>conf/sigmod/DayalG82</cite>
+<cite>books/sp/kimrb85/Dayal85</cite>
+<cite>conf/sigmod/Finkelstein82</cite>
+<cite>journals/cj/Frost83</cite>
+<cite>conf/sigmod/HammerC76</cite>
+<cite>conf/er/HwangD81</cite>
+<cite>...</cite>
+<cite>journals/jacm/Jacobs82</cite>
+<cite>journals/tods/Kent79</cite>
+<cite>books/sp/KimRB85</cite>
+<cite>conf/vldb/KlausnerG85</cite>
+<cite>journals/jacm/Klug82</cite>
+<cite>conf/vldb/KoenigP81</cite>
+<cite>conf/vldb/LarsonY85</cite>
+<cite>conf/sigmod/LindsayHM86</cite>
+<cite>conf/icod/ManolaP83</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/dke/RzeczkowskiS88</cite>
+<cite>journals/is/Schkolnick75</cite>
+<cite>journals/tods/Shipman81</cite>
+<cite>conf/sigmod/ShmueliI84</cite>
+<cite>journals/tois/StonebrakerSLKG83</cite>
+<cite>conf/vldb/Subieta83</cite>
+<cite>journals/tods/Subieta85</cite>
+<cite>conf/er/SubietaM86</cite>
+<cite>journals/is/Subieta87</cite>
+<cite>conf/er/SubietaM87</cite>
+<cite>journals/tods/WongY76</cite>
+<cite>...</cite>
+<cite>conf/vldb/Zlatuska85</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Distributed Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/Blakey87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="43/297">Mark Blakey</author>
+<title>Basis of a Partially Informed Distributed Database.</title>
+<pages>381-388</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#Blakey87</url>
+<ee>http://www.vldb.org/conf/1987/P381.PDF</ee>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/aw/Date86</cite>
+<cite>books/cs/Ullman82</cite>
+<cite>journals/csur/JarkeK84</cite>
+<cite>...</cite>
+<cite>journals/csur/YuC84</cite>
+<cite>journals/tse/YuCTBL85</cite>
+<cite>books/mg/CeriP84</cite>
+<cite>journals/tods/BernsteinGWRR81</cite>
+<cite>journals/tse/HevnerY79</cite>
+<cite>journals/tse/ApersHY83</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>...</cite>
+<cite>journals/sigmod/BurnsFJKMRRRT86</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/KahlerR87" mdate="2012-09-17">
+<crossref>conf/vldb/87</crossref>
+<author pid="41/2728">Bo K&#228;hler</author>
+<author pid="61/4070">Oddvar Risnes</author>
+<title>Extending Logging for Database Snapshot Refresh.</title>
+<pages>389-398</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#KahlerR87</url>
+<ee>http://www.vldb.org/conf/1987/P389.PDF</ee>
+<cite label="ADIB 80">conf/vldb/AdibaL80</cite>
+<cite label="BLAK 86">conf/sigmod/BlakeleyLT86</cite>
+<cite label="FR&#216;S 86">...</cite>
+<cite label="HASK 82">conf/sigmod/HaskinL82</cite>
+<cite label="LIND 86">conf/sigmod/LindsayHM86</cite>
+<cite label="LOHM 85">books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite label="MACK 86">conf/vldb/MackertL86</cite>
+<cite label="MCCO 86">...</cite>
+<cite label="MIME 85">...</cite>
+<cite label="SELI 79">conf/sigmod/SelingerACLP79</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/JajodiaM87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="j/SushilJajodia">Sushil Jajodia</author>
+<author pid="99/479">David Mutchler</author>
+<title>Enhancements to the Voting Algorithm.</title>
+<pages>399-406</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#JajodiaM87</url>
+<ee>http://www.vldb.org/conf/1987/P399.PDF</ee>
+<cite>journals/csur/BernsteinG81</cite>
+<cite>conf/icde/BurkhardMP87</cite>
+<cite>conf/sosp/DavcevB85</cite>
+<cite>journals/csur/DavidsonG85</cite>
+<cite>conf/sosp/Gifford79</cite>
+<cite>conf/sigmod/JajodiaM87</cite>
+<cite>conf/icde/Jajodia87</cite>
+<cite>journals/csur/Kohler81</cite>
+<cite>...</cite>
+<cite>journals/tse/ParkerPRSWWCEKK83</cite>
+<cite>journals/jacm/PeaseSL80</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tse/SkeenS83</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Integrity and Recovery</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/FreytagCK87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="f/JCFreytag">Johann Christoph Freytag</author>
+<author pid="43/190">Flaviu Cristian</author>
+<author pid="41/2728">Bo K&#228;hler</author>
+<title>Masking System Crashes in Database Application Programs.</title>
+<pages>407-416</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#FreytagCK87</url>
+<ee>http://www.vldb.org/conf/1987/P407.PDF</ee>
+<cite label="AGHI83">...</cite>
+<cite label="ASTR76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="BAKK80">...</cite>
+<cite label="BART78">...</cite>
+<cite label="BERN83">...</cite>
+<cite label="BORG83">conf/sosp/BorgBG83</cite>
+<cite label="BORR84">conf/vldb/Borr84</cite>
+<cite label="CHRIS85">journals/tse/Cristian85</cite>
+<cite label="GRAY86">...</cite>
+<cite label="KATZ77">...</cite>
+<cite label="KIM84">journals/csur/Kim84</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/QianS87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="91/2417">Xiaolei Qian</author>
+<author pid="73/1174">Douglas R. Smith</author>
+<title>Integrity Constraint Reformulation for Efficient Validation.</title>
+<pages>417-425</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#QianS87</url>
+<ee>http://www.vldb.org/conf/1987/P417.PDF</ee>
+<cite>conf/sigmod/BadalP79</cite>
+<cite>conf/vldb/BernsteinBC80</cite>
+<cite>...</cite>
+<cite>journals/is/FurtadoSC81</cite>
+<cite>conf/vldb/HammerZ80</cite>
+<cite>conf/sigmod/HsuI85</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/King81</cite>
+<cite>conf/vldb/Lafue82</cite>
+<cite>conf/eds/Morgenstern84</cite>
+<cite>journals/acta/Nicolas82</cite>
+<cite>conf/adbt/NicolasY77</cite>
+<cite>conf/adbt/Paige82</cite>
+<cite>...</cite>
+<cite>conf/vldb/QianW86</cite>
+<cite>conf/eds/ShepherdK84</cite>
+<cite>conf/cade/Smith82</cite>
+<cite>journals/ai/Smith85</cite>
+<cite>journals/tse/SmithKW85</cite>
+<cite>conf/sigmod/Stonebraker75</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/Moss87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<title>Log-Based Recovery for Nested Transactions.</title>
+<pages>427-432</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#Moss87</url>
+<ee>http://www.vldb.org/conf/1987/P427.PDF</ee>
+<cite label="Gray 78">conf/ac/Gray78</cite>
+<cite label="Gray et al. 81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="Haerder and Reuter 83">journals/csur/HarderR83</cite>
+<cite label="IMS 76">...</cite>
+<cite label="Lorie 77">journals/tods/Lorie77</cite>
+<cite label="Moss 81">...</cite>
+<cite label="Moss 82">...</cite>
+<cite label="Moss 85">...</cite>
+<cite label="Moss 86">...</cite>
+<cite label="Reuter 80">journals/tse/Reuter80</cite>
+<cite label="Severance and Lohman 76">journals/tods/SeveranceL76</cite>
+<cite label="Sturgis et al.80">journals/sigops/SturgisMI80</cite>
+<cite label="Siemens">...</cite>
+<cite label="Verhofstadt 78">journals/csur/Verhofstad78</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Engineering Design Databases</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/HarderMMS87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<author pid="m/KMeyerWegener">Klaus Meyer-Wegener</author>
+<author pid="m/BMitschang">Bernhard Mitschang</author>
+<author pid="46/4350">Andrea Sikeler</author>
+<title>PRIMA - a DBMS Prototype Supporting Engineering Applications.</title>
+<pages>433-442</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#HarderMMS87</url>
+<ee>http://www.vldb.org/conf/1987/P433.PDF</ee>
+<cite label="As76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="BB84">conf/vldb/BatoryB84</cite>
+<cite label="CD87">conf/oodbs/CareyDFGMRS86</cite>
+<cite label="Da86">conf/sigmod/DadamKABEGLPW86</cite>
+<cite label="DB83">...</cite>
+<cite label="DPS86">conf/oodbs/DeppischPS86</cite>
+<cite label="EH82">journals/tods/EffelsbergH84</cite>
+<cite label="Fr86">conf/sigmod/Freytag87</cite>
+<cite label="HHLM87">journals/ife/HarderHLM87</cite>
+<cite label="HHM86">conf/conpar/HarderHM86</cite>
+<cite label="HHMM87">...</cite>
+<cite label="HL82">conf/sigmod/HaskinL82</cite>
+<cite label="HR85">conf/btw/HarderR85</cite>
+<cite label="KLMP84">conf/vldb/KimLMP84</cite>
+<cite label="Ki82">journals/tods/Kim82</cite>
+<cite label="LK84">...</cite>
+<cite label="LMP86">conf/sigmod/LindsayMP87</cite>
+<cite label="Mc77">...</cite>
+<cite label="Mi87">conf/btw/Mitschang87</cite>
+<cite label="ML83">conf/vldb/MeierL83</cite>
+<cite label="Mo81">...</cite>
+<cite label="Ne87">journals/tse/NehmerHMWR87</cite>
+<cite label="PA86">conf/vldb/PistorA86</cite>
+<cite label="PSSWD87">conf/sigmod/PaulSSWD87</cite>
+<cite label="RKB85">journals/is/RothKB87</cite>
+<cite label="Si87">...</cite>
+<cite label="SR86">conf/sigmod/StonebrakerR86</cite>
+<cite label="SS86">journals/is/SchekS86</cite>
+<cite label="X3H286">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/EcklundEET87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="18/4754">Denise J. Ecklund</author>
+<author pid="54/533">Earl F. Ecklund Jr.</author>
+<author pid="24/2968">Robert O. Eifrig</author>
+<author pid="63/4288">Fred M. Tonge</author>
+<title>DVSS: A Distributed Version Storage Server for CAD Applications.</title>
+<pages>443-454</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#EcklundEET87</url>
+<ee>http://www.vldb.org/conf/1987/P443.PDF</ee>
+<cite>...</cite>
+<cite>conf/oodbs/AndersonEM86</cite>
+<cite>...</cite>
+<cite>conf/vldb/BancilhonKK85</cite>
+<cite>...</cite>
+<cite>conf/vldb/ChouK86</cite>
+<cite>conf/icde/DuG87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/AbbadiSC85</cite>
+<cite>conf/icod/Gray83</cite>
+<cite>...</cite>
+<cite>conf/icod/Katz83</cite>
+<cite>...</cite>
+<cite>conf/icde/KimCB87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/SeveranceL76</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/KatzC87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="k/RandyHKatz">Randy H. Katz</author>
+<author pid="20/3536">Ellis E. Chang</author>
+<title>Managing Change in a Computer-Aided Design Database.</title>
+<pages>455-462</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#KatzC87</url>
+<ee>http://www.vldb.org/conf/1987/P455.PDF</ee>
+<cite label="ATWO85">...</cite>
+<cite label="BATO85a">journals/tods/Batory85</cite>
+<cite label="BATO85b">...</cite>
+<cite label="BHAT86">...</cite>
+<cite label="CHOU86">conf/vldb/ChouK86</cite>
+<cite label="DITT84">journals/sigmod/DittrichKM86</cite>
+<cite label="GOLD83">books/aw/GoldbergR83</cite>
+<cite label="HARR86">...</cite>
+<cite label="KATZ86a">conf/sigmod/KatzCB86</cite>
+<cite label="KATZ86b">...</cite>
+<cite label="LAND86">...</cite>
+<cite label="MITT86">conf/oopsla/MittalBK86</cite>
+<cite label="NEUM82">conf/vldb/NeumannH82</cite>
+<cite label="WIED82">...</cite>
+<cite label="ZDON84">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>System Techniques</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/DiasIRY87" mdate="2012-09-17">
+<crossref>conf/vldb/87</crossref>
+<author pid="43/6432">Daniel M. Dias</author>
+<author pid="90/5439">Balakrishna R. Iyer</author>
+<author pid="r/JohnTRobinson">John T. Robinson</author>
+<author pid="y/PhilipSYu">Philip S. Yu</author>
+<title>Design and Analysis of Integrated Concurrency-Coherence Controls.</title>
+<pages>463-471</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#DiasIRY87</url>
+<ee>http://www.vldb.org/conf/1987/P463.PDF</ee>
+<cite label="CORN86">journals/tse/CornellDY86</cite>
+<cite label="GRAY81">conf/berkeley/GrayHKO81</cite>
+<cite label="LAVE84">conf/sigmetrics/Lavenberg84</cite>
+<cite label="SEKI84">...</cite>
+<cite label="SMIT85">journals/tocs/Smith85</cite>
+<cite label="STRI82">...</cite>
+<cite label="YU85A">conf/sigmetrics/YuDRIC85</cite>
+<cite label="YU85B">...</cite>
+<cite label="YU86">conf/icdcs/YuCDT86</cite>
+<cite label="YU87">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/KumarS87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="k/AkhilKumar">Akhil Kumar 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Performance Evaluation of an Operating System Transaction Manager.</title>
+<pages>473-481</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#KumarS87</url>
+<ee>http://www.vldb.org/conf/1987/P473.PDF</ee>
+<cite label="AGRA85a">conf/sigmod/AgrawalCL85</cite>
+<cite label="AGRA85b">journals/tods/AgrawalD85</cite>
+<cite label="BLAS87">...</cite>
+<cite label="BROW81">conf/sigmod/BrownCS81</cite>
+<cite label="CARE84">conf/vldb/CareyS84</cite>
+<cite label="CHAN86">...</cite>
+<cite label="DATE84">...</cite>
+<cite label="FRAN83">journals/tods/FranaszekR85</cite>
+<cite label="GALL82">...</cite>
+<cite label="GRAY78">conf/ac/Gray78</cite>
+<cite label="GRAY81">journals/csur/GrayMBLLPPT81</cite>
+<cite label="HAER83">journals/csur/HarderR83</cite>
+<cite label="KUNG81">journals/tods/KungR81</cite>
+<cite label="LIN83">conf/vldb/LinN83</cite>
+<cite label="MITC82">journals/cacm/MitchellD82</cite>
+<cite label="MUEL83">conf/sosp/MuellerMP83</cite>
+<cite label="PU86">...</cite>
+<cite label="REED78">...</cite>
+<cite label="REUT84">journals/tods/Reuter84</cite>
+<cite label="SPEC83">journals/sigops/SpectorS83</cite>
+<cite label="STON81">journals/cacm/Stonebraker81</cite>
+<cite label="STON84">journals/sigops/Stonebraker84</cite>
+<cite label="STON85">journals/sigops/StonebrakerDE85</cite>
+<cite label="TRAI82">journals/sigops/Traiger82</cite>
+<cite label="TAY84">conf/vldb/TayS84</cite>
+<cite label="THOM79">journals/tods/Thomas79</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/KuspertDG87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="k/KKuspert">Klaus K&#252;spert</author>
+<author pid="d/PDadam">Peter Dadam</author>
+<author pid="95/1922">J&#252;rgen G&#252;nauer</author>
+<title>Cooperative Object Buffer Management in the Advanced Information Management Prototype.</title>
+<pages>483-492</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#KuspertDG87</url>
+<ee>http://www.vldb.org/conf/1987/P483.PDF</ee>
+<cite label="AB84">conf/pods/AbiteboulB84</cite>
+<cite label="ALPS86">...</cite>
+<cite label="As81">journals/cacm/ChamberlinABGKLLMPPSSSTWY81</cite>
+<cite label="BB84">conf/vldb/BatoryB84</cite>
+<cite label="BC85">conf/vldb/Buchmann85</cite>
+<cite label="BK85">journals/tods/BatoryK85</cite>
+<cite label="BKK85">conf/vldb/BancilhonKK85</cite>
+<cite label="Ch76">...</cite>
+<cite label="Ch81">journals/tods/ChamberlinAKLMPSSSWY81</cite>
+<cite label="CODA78">journals/is/CODASYL78</cite>
+<cite label="Da86">conf/sigmod/DadamKABEGLPW86</cite>
+<cite label="DBDZ85">...</cite>
+<cite label="DDKL86">journals/ife/DadamDKL87</cite>
+<cite label="De86">conf/gi/DeppischGKOW86</cite>
+<cite label="DGW85">conf/btw/DeppischGW85</cite>
+<cite label="DL85">journals/tse/DittrichL88</cite>
+<cite label="DLW84">conf/vldb/DadamLW84</cite>
+<cite label="DO86">...</cite>
+<cite label="Eb84">...</cite>
+<cite label="EW86">...</cite>
+<cite label="EW87">...</cite>
+<cite label="Fi83">...</cite>
+<cite label="FT83">...</cite>
+<cite label="GC85">...</cite>
+<cite label="Go84">journals/ibmsj/GoldsteinHMW84</cite>
+<cite label="HL82">conf/sigmod/HaskinL82</cite>
+<cite label="HR83">...</cite>
+<cite label="IBM1">...</cite>
+<cite label="IBM2">...</cite>
+<cite label="Jae85a">...</cite>
+<cite label="Jae85b">...</cite>
+<cite label="JS82">conf/pods/JaeschkeS82</cite>
+<cite label="Ka85">...</cite>
+<cite label="KL84">journals/tse/KatzL84</cite>
+<cite label="Kl85">conf/sigmod/KlaholdSUW85</cite>
+<cite label="KLW86">conf/sigmod/KemperLW87</cite>
+<cite label="KSW86">conf/vldb/KlaholdSW86</cite>
+<cite label="KTT83">...</cite>
+<cite label="K&#252;87">...</cite>
+<cite label="KW81">...</cite>
+<cite label="Lu85">conf/fodo/LumDEGPWWW85</cite>
+<cite label="LW79">...</cite>
+<cite label="Ne83">...</cite>
+<cite label="OY85">conf/pods/OzsoyogluY85</cite>
+<cite label="Pa85">conf/vldb/PistorA86</cite>
+<cite label="PT86">...</cite>
+<cite label="RK86">conf/vldb/RoussopoulosK86</cite>
+<cite label="RKS84">...</cite>
+<cite label="Sch85">conf/fodo/Schek85</cite>
+<cite label="SRG83">...</cite>
+<cite label="SS86">journals/is/SchekS86</cite>
+<cite label="SW86">...</cite>
+<cite label="vanG85">...</cite>
+<cite label="VKC86">conf/vldb/ValduriezKC86</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Engineering Data Complexities</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/vldb/NguyenR87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="44/721">Gia Toan Nguyen</author>
+<author pid="54/5215">Dominique Rieu</author>
+<title>Expert Database Support for Consistent Dynamic Objects.</title>
+<pages>493-500</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#NguyenR87</url>
+<ee>http://www.vldb.org/conf/1987/P493.PDF</ee>
+<cite>conf/vldb/AdibaN84</cite>
+<cite>journals/tods/BatoryK85</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/KimLMP84</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/Nguyen86</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/QianW86</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/GuntherW87" mdate="2021-10-25">
+<crossref>conf/vldb/87</crossref>
+<author pid="g/OliverGunther">Oliver G&#252;nther 0001</author>
+<author pid="95/2864">Eugene Wong 0001</author>
+<title>A Dual Space Representation for Geometric Data.</title>
+<pages>501-506</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#GuntherW87</url>
+<ee>http://www.vldb.org/conf/1987/P501.PDF</ee>
+<cite label="Besl85">journals/csur/BeslJ85</cite>
+<cite label="Dant63">...</cite>
+<cite label="Faux79">...</cite>
+<cite label="Fuch80">...</cite>
+<cite label="Gunt86">...</cite>
+<cite label="Hill85">...</cite>
+<cite label="Kung79">...</cite>
+<cite label="Newe80">...</cite>
+<cite label="Prep85">books/sp/PreparataS85</cite>
+<cite label="Requ80">journals/csur/Requicha80</cite>
+<cite label="Ston86">conf/eds/StonebrakerSH86</cite>
+<cite label="Tilo80">...</cite>
+<cite label="Whit57">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/vldb/SellisRF87" mdate="2017-03-29">
+<crossref>conf/vldb/87</crossref>
+<author pid="s/TimosKSellis">Timos K. Sellis</author>
+<author pid="r/NickRoussopoulos">Nick Roussopoulos</author>
+<author pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>The R+-Tree: A Dynamic Index for Multi-Dimensional Objects.</title>
+<pages>507-518</pages>
+<year>1987</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb87.html#SellisRF87</url>
+<ee>http://www.vldb.org/conf/1987/P507.PDF</ee>
+<cite label="Bent75">journals/cacm/Bentley75</cite>
+<cite label="Chan81">...</cite>
+<cite label="Choc84">...</cite>
+<cite label="Falo87a">conf/sigmod/FaloutsosSR87</cite>
+<cite label="Falo87b">journals/tse/Faloutsos88</cite>
+<cite label="Falo87c">...</cite>
+<cite label="Fink74">journals/acta/FinkelB74</cite>
+<cite label="Gunt86">...</cite>
+<cite label="Gutt84a">conf/sigmod/Guttman84</cite>
+<cite label="Gutt84b">phd/Guttman84</cite>
+<cite label="Hinr83">conf/wg/HinrichsN83</cite>
+<cite label="Laut78">...</cite>
+<cite label="Niev84">journals/tods/NievergeltHS84</cite>
+<cite label="Oren86">conf/sigmod/Orenstein86</cite>
+<cite label="Oust84">...</cite>
+<cite label="Prep85">books/sp/PreparataS85</cite>
+<cite label="Robi81">conf/sigmod/Robinson81</cite>
+<cite label="Rose85">...</cite>
+<cite label="Rous85">conf/sigmod/RoussopoulosL85</cite>
+<cite label="Same86">...</cite>
+<cite label="Ston83">...</cite>
+<cite label="Ston86">conf/eds/StonebrakerSH86</cite>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

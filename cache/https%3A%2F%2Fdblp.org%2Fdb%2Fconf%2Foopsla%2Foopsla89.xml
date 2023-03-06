@@ -1,0 +1,786 @@
+<bht key="db/conf/oopsla/oopsla89.bht" title="OOPSLA 1989">
+<h1>4th <ref href="db/conf/oopsla/index.html">OOPSLA</ref> 1989: New Orleans, Louisiana, USA</h1>
+
+<dblpcites><r><proceedings key="conf/oopsla/1989" mdate="2022-03-30">
+<editor pid="26/11366">George Bosworth</editor>
+<title>Conference on Object-Oriented Programming: Systems, Languages, and Applications, OOPSLA 1989, New Orleans, Louisiana, USA, October 1-6, 1989, Proceedings.</title>
+<booktitle>OOPSLA</booktitle>
+<publisher>ACM</publisher>
+<year>1989</year>
+<isbn>0-89791-333-7</isbn>
+<ee>https://doi.org/10.1145/74877</ee>
+<ee>https://doi.org/10.1145/74878</ee>
+<url>db/conf/oopsla/oopsla89.html</url>
+<note>SIGPLAN Notices 24(10)</note>
+</proceedings>
+</r>
+</dblpcites>
+<br />
+<ref href="db/journals/sigplan/sigplan24.html">SIGPLAN Notices 24</ref>(10)
+
+<h2>Teaching</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/BeckC89" mdate="2021-07-31">
+<author pid="04/2390">Kent L. Beck</author>
+<author pid="09/5151">Ward Cunningham</author>
+<title>A Laboratory for Teaching Object-Oriented Thinking.</title>
+<pages>1-6</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#BeckC89</url>
+<ee>https://doi.org/10.1145/74877.74879</ee>
+<ee>https://doi.org/10.1145/74878.74879</ee>
+<ee>https://www.wikidata.org/entity/Q56443801</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/RossonG89" mdate="2021-07-09">
+<author pid="r/MBRosson">Mary Beth Rosson</author>
+<author pid="19/671">Eric Gold</author>
+<title>Problem-Solution Mapping in Object-Oriented Design.</title>
+<pages>7-10</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#RossonG89</url>
+<ee>https://doi.org/10.1145/74877.74880</ee>
+<ee>https://doi.org/10.1145/74878.74880</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/LieberherrR89" mdate="2021-07-09">
+<author pid="l/KJLieberherr">Karl J. Lieberherr</author>
+<author pid="64/2980">Arthur J. Riel</author>
+<title>Contributions to Teaching Object Oriented Design and Programming.</title>
+<pages>11-22</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#LieberherrR89</url>
+<ee>https://doi.org/10.1145/74877.74881</ee>
+<ee>https://doi.org/10.1145/74878.74881</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Implementation 1</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/WilsonM89" mdate="2022-01-25">
+<author pid="43/1901-1">Paul R. Wilson 0001</author>
+<author pid="20/3214">Thomas G. Moher</author>
+<title>Design of the Opportunistic Garbage Collector.</title>
+<pages>23-35</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#WilsonM89</url>
+<ee>https://doi.org/10.1145/74877.74882</ee>
+<ee>https://doi.org/10.1145/74878.74882</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/Schelvis89" mdate="2021-07-09">
+<author pid="76/4189">Marcel Schelvis</author>
+<title>Incremental Distribution of Timestamp Packets: A New Approach to Distributed Garbage Collection.</title>
+<pages>37-48</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Schelvis89</url>
+<ee>https://doi.org/10.1145/74877.74883</ee>
+<ee>https://doi.org/10.1145/74878.74883</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/ChambersUL89" mdate="2021-07-09">
+<author pid="c/CraigChambers">Craig Chambers</author>
+<author pid="84/5937">David M. Ungar</author>
+<author pid="44/3228">Elgin Lee</author>
+<title>An Efficient Implementation of SELF - a Dynamically-Typed Object-Oriented Language Based on Prototypes.</title>
+<pages>49-70</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#ChambersUL89</url>
+<ee>https://doi.org/10.1145/74877.74884</ee>
+<ee>https://doi.org/10.1145/74878.74884</ee>
+<ee>https://www.wikidata.org/entity/Q55970419</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Software Engineering</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/Wirfs-BrockW89" mdate="2021-07-09">
+<author pid="02/1384">Rebecca Wirfs-Brock</author>
+<author pid="52/516">Brian Wilkerson</author>
+<title>Object-Oriented Design: A Responsibility-Driven Approach.</title>
+<pages>71-75</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Wirfs-BrockW89</url>
+<ee>https://doi.org/10.1145/74877.74885</ee>
+<ee>https://doi.org/10.1145/74878.74885</ee>
+<ee>https://www.wikidata.org/entity/Q29397045</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/DietrichNG89" mdate="2021-07-09">
+<author pid="91/5950">Walter C. Dietrich Jr.</author>
+<author pid="89/722">Lee R. Nackman</author>
+<author pid="23/2766">Franklin Gracer</author>
+<title>Saving a Legacy With Objects.</title>
+<pages>77-83</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#DietrichNG89</url>
+<ee>https://doi.org/10.1145/74877.74886</ee>
+<ee>https://doi.org/10.1145/74878.74886</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/HarrisonSS89" mdate="2022-08-16">
+<author pid="53/5572">William H. Harrison</author>
+<author pid="65/3797">John J. Shilling</author>
+<author pid="89/1353">Peter F. Sweeney</author>
+<title>Good News, Bad News: Experience Building a Software Development Environment Using the Object-Oriented Paradigm.</title>
+<pages>85-94</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#HarrisonSS89</url>
+<ee>https://doi.org/10.1145/74877.74887</ee>
+<ee>https://doi.org/10.1145/74878.74887</ee>
+<ee>https://www.wikidata.org/entity/Q111898440</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Concurrency</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/BosL89" mdate="2021-07-09">
+<author pid="95/2736">Jan van den Bos</author>
+<author pid="87/2064">Chris Laffra</author>
+<title>PROCOL - A Parallel Object Language with Protocols.</title>
+<pages>95-102</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#BosL89</url>
+<ee>https://doi.org/10.1145/74877.74888</ee>
+<ee>https://doi.org/10.1145/74878.74888</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/TomlinsonS89" mdate="2021-07-09">
+<author pid="70/4117">Chris Tomlinson</author>
+<author pid="59/5085">Vineet Singh</author>
+<title>Inheritance and Synchronization with Enabled Sets.</title>
+<pages>103-112</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#TomlinsonS89</url>
+<ee>https://doi.org/10.1145/74877.74889</ee>
+<ee>https://doi.org/10.1145/74878.74889</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/MarquesG89" mdate="2021-07-09">
+<author pid="85/3319">Jos&#233; Alves Marques</author>
+<author pid="88/3329">Paulo Guedes</author>
+<title>Extending the Operating System to Support an Object-Oriented Environment.</title>
+<pages>113-122</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#MarquesG89</url>
+<ee>https://doi.org/10.1145/74877.74890</ee>
+<ee>https://doi.org/10.1145/74878.74890</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Agents</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/FentonB89" mdate="2021-07-09">
+<author pid="19/1039">Jay Fenton</author>
+<author pid="04/2390">Kent L. Beck</author>
+<title>Playground: An Object-Oriented Simulation System With Agent Rules for Children of All Ages.</title>
+<pages>123-137</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#FentonB89</url>
+<ee>https://doi.org/10.1145/74877.74891</ee>
+<ee>https://doi.org/10.1145/74878.74891</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/AdamsN89" mdate="2021-07-09">
+<author pid="22/1207">Sam S. Adams</author>
+<author pid="48/6949">Abdul K. Nabi</author>
+<title>Neural Agents - A Frame of Mind.</title>
+<pages>139-149</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#AdamsN89</url>
+<ee>https://doi.org/10.1145/74877.74892</ee>
+<ee>https://doi.org/10.1145/74878.74892</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/BlockC89" mdate="2021-07-09">
+<author pid="58/4009">F. P. Block</author>
+<author pid="59/3728">N. C. Chan</author>
+<title>An Extended Frame Language.</title>
+<pages>151-157</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#BlockC89</url>
+<ee>https://doi.org/10.1145/74877.74893</ee>
+<ee>https://doi.org/10.1145/74878.74893</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Scientific Computing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/WaltherP89" mdate="2021-07-09">
+<author pid="60/6877">Sandra S. Walther</author>
+<author pid="03/2298">Richard L. Peskin</author>
+<title>Strategies for Scientific Prototyping in Smalltalk.</title>
+<pages>159-167</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#WaltherP89</url>
+<ee>https://doi.org/10.1145/74877.74894</ee>
+<ee>https://doi.org/10.1145/74878.74894</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/Jerrell89" mdate="2021-07-09">
+<author pid="02/514">Max E. Jerrell</author>
+<title>Function Minimization and Automatic Differentiation Using C++.</title>
+<pages>169-173</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Jerrell89</url>
+<ee>https://doi.org/10.1145/74877.74895</ee>
+<ee>https://doi.org/10.1145/74878.74895</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/McDonald89" mdate="2021-07-09">
+<author pid="53/2381">John Alan McDonald</author>
+<title>Object-Oriented Programming for Linear Algebra.</title>
+<pages>175-184</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#McDonald89</url>
+<ee>https://doi.org/10.1145/74877.74896</ee>
+<ee>https://doi.org/10.1145/74878.74896</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Objects in Business</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/FerrelM89" mdate="2021-07-09">
+<author pid="50/6741">Patrick J. Ferrel</author>
+<author pid="82/4909">Robert F. Meyer</author>
+<title>Vamp: The Aldus Application Framework.</title>
+<pages>185-189</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#FerrelM89</url>
+<ee>https://doi.org/10.1145/74877.74897</ee>
+<ee>https://doi.org/10.1145/74878.74897</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/ShahRHB89" mdate="2021-07-09">
+<author pid="24/1831">Ashwin V. Shah</author>
+<author pid="61/6938">James E. Rumbaugh</author>
+<author pid="76/1826">Jung H. Hamel</author>
+<author pid="04/5245">Renee E. Borsari</author>
+<title>DSM: An Object-Relationship Modeling Language.</title>
+<pages>191-202</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#ShahRHB89</url>
+<ee>https://doi.org/10.1145/74877.74898</ee>
+<ee>https://doi.org/10.1145/74878.74898</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/Thuraisingham89" mdate="2021-07-09">
+<author pid="t/BMThuraisingham">Bhavani M. Thuraisingham</author>
+<title>Mandatory Security in Object-Oriented Database Systems.</title>
+<pages>203-210</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Thuraisingham89</url>
+<ee>https://doi.org/10.1145/74877.74899</ee>
+<ee>https://doi.org/10.1145/74878.74899</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CLOS</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/DixonMSV89" mdate="2021-07-09">
+<author pid="70/1829">R. Dixon</author>
+<author pid="93/5855">T. McKee</author>
+<author pid="96/391">Paul Schweizer</author>
+<author pid="04/2526">M. Vaughan</author>
+<title>A Fast Method Dispatcher for Compiled Languages with Multiple Inheritance.</title>
+<pages>211-214</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#DixonMSV89</url>
+<ee>https://doi.org/10.1145/74877.74900</ee>
+<ee>https://doi.org/10.1145/74878.74900</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/Dussud89" mdate="2021-07-09">
+<author pid="33/6424">Patrick H. Dussud</author>
+<title>TICLOS: An Implementation of CLOS for the Explorer Family.</title>
+<pages>215-219</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Dussud89</url>
+<ee>https://doi.org/10.1145/74877.74901</ee>
+<ee>https://doi.org/10.1145/74878.74901</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/Paepcke89" mdate="2021-07-09">
+<author pid="p/APaepcke">Andreas Paepcke</author>
+<title>PCLOS: A Critical Review.</title>
+<pages>221-237</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Paepcke89</url>
+<ee>https://doi.org/10.1145/74877.74902</ee>
+<ee>https://doi.org/10.1145/74878.74902</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/MullerRKS89" mdate="2021-07-09">
+<author pid="00/6365">Hans Muller</author>
+<author pid="12/3440">John R. Rose</author>
+<author pid="39/5920">James Kempf</author>
+<author pid="45/934">Tayloe Stansbury</author>
+<title>The Use of Multimethods and Method Combination in a CLOS Based Window System Interface.</title>
+<pages>239-253</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#MullerRKS89</url>
+<ee>https://doi.org/10.1145/74877.74903</ee>
+<ee>https://doi.org/10.1145/74878.74903</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Implementation 2</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/Barry89" mdate="2021-07-09">
+<author pid="33/6400">Brian M. Barry</author>
+<title>Prototyping a Real-Time Embedded System in Smalltalk.</title>
+<pages>255-265</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Barry89</url>
+<ee>https://doi.org/10.1145/74877.74904</ee>
+<ee>https://doi.org/10.1145/74878.74904</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/RussoC89" mdate="2021-07-09">
+<author pid="r/VincentFRusso">Vincent F. Russo</author>
+<author pid="c/RoyHCampbell">Roy H. Campbell</author>
+<title>Virtual Memory and Backing Storage Management in Multiprocessor Operating Systems Using Object-Oriented Design Techniques.</title>
+<pages>267-278</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#RussoC89</url>
+<ee>https://doi.org/10.1145/74877.74905</ee>
+<ee>https://doi.org/10.1145/74878.74905</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/ConnorDMB89" mdate="2021-10-14">
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<title>An Object Addressing Mechanism for Statically Types Languages with Multiple Inheritance.</title>
+<pages>279-285</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#ConnorDMB89</url>
+<ee>https://doi.org/10.1145/74877.74906</ee>
+<ee>https://doi.org/10.1145/74878.74906</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Modeling</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/PageBCM89" mdate="2021-07-09">
+<author pid="66/138">Thomas W. Page Jr.</author>
+<author pid="10/5037">Steven Berson</author>
+<author pid="18/2742">William C. Cheng</author>
+<author pid="m/RichardRMuntz">Richard R. Muntz</author>
+<title>An Object-Oriented Modeling Environment.</title>
+<pages>287-296</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#PageBCM89</url>
+<ee>https://doi.org/10.1145/74877.74907</ee>
+<ee>https://doi.org/10.1145/74878.74907</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/RosenblattWW89" mdate="2021-07-09">
+<author pid="86/2934">William R. Rosenblatt</author>
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<title>OROS: Toward a Type Model for Software Development Environments.</title>
+<pages>297-304</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#RosenblattWW89</url>
+<ee>https://doi.org/10.1145/74877.74908</ee>
+<ee>https://doi.org/10.1145/74878.74908</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Reflection</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/Graube89" mdate="2021-07-09">
+<author pid="71/7023">Nicolas Graube</author>
+<title>Metaclass Compatibility.</title>
+<pages>305-315</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Graube89</url>
+<ee>https://doi.org/10.1145/74877.74909</ee>
+<ee>https://doi.org/10.1145/74878.74909</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/Ferber89" mdate="2021-07-09">
+<author pid="93/4901">Jacques Ferber</author>
+<title>Computational Reflection in Class-Based Object-Oriented Languages.</title>
+<pages>317-326</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Ferber89</url>
+<ee>https://doi.org/10.1145/74877.74910</ee>
+<ee>https://doi.org/10.1145/74878.74910</ee>
+<ee>https://www.wikidata.org/entity/Q56455092</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/FooteJ89" mdate="2021-07-09">
+<author pid="64/4325">Brian Foote</author>
+<author pid="j/RalphEJohnson">Ralph E. Johnson</author>
+<title>Reflective Facilities in Smalltalk-80.</title>
+<pages>327-335</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#FooteJ89</url>
+<ee>https://doi.org/10.1145/74877.74911</ee>
+<ee>https://doi.org/10.1145/74878.74911</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Varia</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/ReenskaugS89" mdate="2021-07-09">
+<author pid="42/1902">Trygve Reenskaug</author>
+<author pid="25/2084">Anna Lise Skaar</author>
+<title>An Environment for Literate Smalltalk Programming.</title>
+<pages>337-345</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#ReenskaugS89</url>
+<ee>https://doi.org/10.1145/74877.74912</ee>
+<ee>https://doi.org/10.1145/74878.74912</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/Shan89" mdate="2021-07-09">
+<author pid="60/6968">Yen-Ping Shan</author>
+<title>An Event-Driven Model-View-Controller Framework for Smalltalk.</title>
+<pages>347-352</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Shan89</url>
+<ee>https://doi.org/10.1145/74877.74913</ee>
+<ee>https://doi.org/10.1145/74878.74913</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/ShillingS89" mdate="2021-07-09">
+<author pid="65/3797">John J. Shilling</author>
+<author pid="89/1353">Peter F. Sweeney</author>
+<title>Three Steps to Views: Extending the Object-Oriented Paradigm.</title>
+<pages>353-361</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#ShillingS89</url>
+<ee>https://doi.org/10.1145/74877.74914</ee>
+<ee>https://doi.org/10.1145/74878.74914</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Delegation/Constraints</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/Almarode89" mdate="2021-07-09">
+<author pid="68/1866">Jay Almarode</author>
+<title>Rule-Based Delegation for Prototypes.</title>
+<pages>363-370</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Almarode89</url>
+<ee>https://doi.org/10.1145/74877.74915</ee>
+<ee>https://doi.org/10.1145/74878.74915</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/MinskyR89" mdate="2021-07-09">
+<author pid="m/NaftalyHMinsky">Naftaly H. Minsky</author>
+<author pid="72/5303">David Rozenshtein</author>
+<title>Controllable Delegation: An Exercise in Law-Governed Systems.</title>
+<pages>371-380</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#MinskyR89</url>
+<ee>https://doi.org/10.1145/74877.74916</ee>
+<ee>https://doi.org/10.1145/74878.74916</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/MaloneyBF89" mdate="2021-07-09">
+<author pid="17/6830">John Maloney</author>
+<author pid="b/AlanBorning">Alan Borning</author>
+<author pid="65/5433">Bj&#248;rn N. Freeman-Benson</author>
+<title>Constraint Technology fur User-Interface Construction in ThingLab II.</title>
+<pages>381-388</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#MaloneyBF89</url>
+<ee>https://doi.org/10.1145/74877.74917</ee>
+<ee>https://doi.org/10.1145/74878.74917</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/Freeman-Benson89" mdate="2021-07-09">
+<author pid="65/5433">Bj&#248;rn N. Freeman-Benson</author>
+<title>A Module Mechanism for Constraints in Smalltalk.</title>
+<pages>389-396</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Freeman-Benson89</url>
+<ee>https://doi.org/10.1145/74877.74918</ee>
+<ee>https://doi.org/10.1145/74878.74918</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Inheritance</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/MadsenM89" mdate="2022-12-07">
+<author orcid="0000-0001-7221-142X" pid="m/OLMadsen">Ole Lehrmann Madsen</author>
+<author pid="03/1262">Birger M&#248;ller-Pedersen</author>
+<title>Virtual Classes: A Powerful Mechanism in Object-Oriented Programming.</title>
+<pages>397-406</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#MadsenM89</url>
+<ee>https://doi.org/10.1145/74877.74919</ee>
+<ee>https://doi.org/10.1145/74878.74919</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/Pedersen89" mdate="2021-07-09">
+<author pid="53/2153">Claus H. Pedersen</author>
+<title>Extending Ordinary Inheritance Schemes to Include Generalization.</title>
+<pages>407-417</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#Pedersen89</url>
+<ee>https://doi.org/10.1145/74877.74920</ee>
+<ee>https://doi.org/10.1145/74878.74920</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/BriotC89" mdate="2021-07-25">
+<author orcid="0000-0003-1621-6335" pid="b/JPBriot">Jean-Pierre Briot</author>
+<author pid="c/PierreCointe">Pierre Cointe</author>
+<title>Programming with Explicit Metaclasses in Smalltalk-80.</title>
+<pages>419-431</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#BriotC89</url>
+<ee>https://doi.org/10.1145/74877.74921</ee>
+<ee>https://doi.org/10.1145/74878.74921</ee>
+<ee>https://www.wikidata.org/entity/Q56455093</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Theory</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oopsla/CookP89" mdate="2021-07-09">
+<author pid="c/WilliamRCook">William R. Cook</author>
+<author pid="p/JPalsberg">Jens Palsberg</author>
+<title>A Denotational Semantics of Inheritance and its Correctness.</title>
+<pages>433-443</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#CookP89</url>
+<ee>https://doi.org/10.1145/74877.74922</ee>
+<ee>https://doi.org/10.1145/74878.74922</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/OhoriB89" mdate="2021-07-09">
+<author pid="o/AtsushiOhori">Atsushi Ohori</author>
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<title>Static Type Inference for Parametric Classes.</title>
+<pages>445-456</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#OhoriB89</url>
+<ee>https://doi.org/10.1145/74877.74923</ee>
+<ee>https://doi.org/10.1145/74878.74923</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oopsla/CanningCHO89" mdate="2021-07-09">
+<author pid="61/5114">Peter S. Canning</author>
+<author pid="c/WilliamRCook">William R. Cook</author>
+<author pid="64/6135">Walter L. Hill</author>
+<author pid="63/2062">Walter G. Olthoff</author>
+<title>Interfaces for Strongly-Typed Object-Oriented Programming.</title>
+<pages>457-467</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#CanningCHO89</url>
+<ee>https://doi.org/10.1145/74877.74924</ee>
+<ee>https://doi.org/10.1145/74878.74924</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Panel Position Papers</h2> 
+<dblpcites><r><inproceedings key="conf/oopsla/ZdonikBSW89" mdate="2012-05-18">
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<author pid="98/4768">Toby Bloom</author>
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<author pid="w/JeannetteMWing">Jeannette M. Wing</author>
+<title>Panel on Transactions in Object-Oriented Systems.</title>
+<pages>473-476</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#ZdonikBSW89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/DysonMWJ89" mdate="2017-10-30">
+<author pid="68/3403">Esther Dyson</author>
+<author pid="m/BertrandMeyer">Bertrand Meyer 0001</author>
+<author pid="99/690">Daniel Weinreb</author>
+<author pid="52/6819">William N. Joy</author>
+<title>Objects in their Eyes (Panel).</title>
+<pages>478</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#DysonMWJ89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/AuerGSLT89" mdate="2012-05-18">
+<author pid="54/4292">Ken Auer</author>
+<author pid="24/1037">Theodore C. Goldstein</author>
+<author pid="88/4097">S. Sridhar</author>
+<author pid="97/4423">Tom Love</author>
+<author pid="t/DaveAThomas">Dave A. Thomas</author>
+<title>Panel: From Prototype to Product?</title>
+<pages>482-484</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#AuerGSLT89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/MossJSSU89" mdate="2018-01-17">
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<author pid="98/4949">Ralf Johnson</author>
+<author pid="04/4444">Alan Snyder</author>
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<author pid="84/5937">David M. Ungar</author>
+<title>Panel: Inheritance: Can We Have Our Cake and Eat it, Too?</title>
+<pages>486-490</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#MossJSSU89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/NiesBSH89" mdate="2012-05-18">
+<author pid="34/1392">Steve Nies</author>
+<author pid="b/GradyBooch">Grady Booch</author>
+<author pid="46/4995">Richard P. Simonian</author>
+<author pid="99/1933">Ed Harris</author>
+<title>Panel: Using Ada within an Object-Oriented Software Development Paradigm.</title>
+<pages>492-496</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#NiesBSH89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/PurdySCAAS89" mdate="2012-05-18">
+<author pid="34/3981">Alan Purdy</author>
+<author pid="15/912">Jeff Sutherland</author>
+<author pid="14/2941">Mike Caruso</author>
+<author pid="62/747">Tom Atwood</author>
+<author pid="37/6556">Tim Andrews</author>
+<author pid="72/5426">Jacob Stein</author>
+<title>Panel: Architectural Alternatives for Object-Oriented Database Management.</title>
+<pages>498-507</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#PurdySCAAS89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/CoxMEMP89" mdate="2015-12-18">
+<author pid="57/3595">Brad Cox</author>
+<author pid="18/2183">Bruce Martin</author>
+<author pid="25/781">Nate Edwards</author>
+<author pid="28/3707">John Morrison</author>
+<author pid="59/4951">Ried Philips</author>
+<title>Panel: Object-Oriented Technologies and the Software Industrial Revolution - Necessary But Not Sufficient.</title>
+<pages>510-522</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#CoxMEMP89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/BobrowDKS89" mdate="2012-05-18">
+<author pid="b/DGBobrow">Daniel G. Bobrow</author>
+<author pid="d/LPeterDeutsch">L. Peter Deutsch</author>
+<author pid="k/GregorKiczales">Gregor Kiczales</author>
+<author pid="s/BjarneStroustrup">Bjarne Stroustrup</author>
+<title>Panel: Object-Oriented Languages: Premises and Promises.</title>
+<pages>524</pages>
+<year>1989</year>
+<crossref>conf/oopsla/1989</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla89.html#BobrowDKS89</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

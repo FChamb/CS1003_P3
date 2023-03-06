@@ -1,0 +1,702 @@
+<bht key="db/conf/sebd/sebd2019.bht" title="SEBD 2019"> 
+<h1>27th <ref href="db/conf/sebd/index.html">SEBD</ref> 2019:
+Castiglione della Pescaia (Grosseto), Italy</h1> <dblpcites><r><proceedings key="conf/sebd/2019" mdate="2022-11-18">
+<editor pid="42/2448">Massimo Mecella</editor>
+<editor pid="54/685">Giuseppe Amato 0001</editor>
+<editor pid="68/4499">Claudio Gennaro</editor>
+<title>Proceedings of the 27th Italian Symposium on Advanced Database Systems, Castiglione della Pescaia (Grosseto), Italy, June 16-19, 2019.</title>
+<booktitle>SEBD</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>2400</volume>
+<year>2019</year>
+<ee type="oa">http://ceur-ws.org/Vol-2400</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-2400-6</ee>
+<url>db/conf/sebd/sebd2019.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Session 1:
+Research Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/Zezula19" mdate="2019-08-30">
+<author pid="z/PZezula">Pavel Zezula</author>
+<title>Similarity Management of Data: The DISA Experience.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-01.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#Zezula19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Marrella19" mdate="2019-08-30">
+<author pid="17/1681">Andrea Marrella</author>
+<title>Analysing Event Data through Process Mining.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-02.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#Marrella19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Batini19" mdate="2019-08-30">
+<author pid="69/1334">Carlo Batini</author>
+<title>Writing (and also reading) books reduces (sometimes) the entropy of the universe, but risks to increase (sometimes) the peace of mind in me.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-03.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#Batini19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BleifussBJKNS19" mdate="2019-08-30">
+<author pid="188/2079">Tobias Bleifu&#223;</author>
+<author pid="187/4248">Leon Bornemann</author>
+<author pid="j/TheodoreJohnson">Theodore Johnson</author>
+<author pid="k/DVKalashnikov">Dmitri V. Kalashnikov</author>
+<author pid="n/FelixNaumann">Felix Naumann</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Exploring Change.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-04.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#BleifussBJKNS19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CiacciaM19" mdate="2019-08-30">
+<author pid="c/PaoloCiaccia">Paolo Ciaccia</author>
+<author pid="14/6896">Davide Martinenghi</author>
+<title>Flexible Score Aggregation (Extended Abstract).</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-05.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CiacciaM19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/MignonePC19" mdate="2021-01-21">
+<author orcid="0000-0002-8641-7880" pid="156/2942">Paolo Mignone</author>
+<author pid="118/2606">Gianvito Pio</author>
+<author pid="24/4914">Michelangelo Ceci</author>
+<title>Positive Unlabeled Link Prediction via Transfer Learning for Gene Network Reconstruction (Discussion Paper).</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-06.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#MignonePC19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/MancoRSG19" mdate="2019-12-05">
+<author pid="m/GiuseppeManco-1">Giuseppe Manco 0001</author>
+<author pid="67/4235">Ettore Ritacco</author>
+<author pid="216/7290">Noveen Sachdeva</author>
+<author pid="41/7251">Massimo Guarascio</author>
+<title>Deep Sequential Modeling for Recommendation.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-07.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#MancoRSG19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AmelioFFGS19" mdate="2019-08-30">
+<author pid="88/9414">Alessia Amelio</author>
+<author pid="163/8467">Alberto Falcone</author>
+<author pid="94/6215">Angelo Furfaro</author>
+<author pid="45/6665">Alfredo Garro</author>
+<author pid="s/DomenicoSacca">Domenico Sacc&#224;</author>
+<title>A Knowledge-Based Platform for the Classification of Accounting Documents.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-08.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AmelioFFGS19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CastanoFFM19" mdate="2019-08-30">
+<author pid="c/SilvanaCastano">Silvana Castano</author>
+<author pid="244/4959">Mattia Falduti</author>
+<author pid="93/1927">Alfio Ferrara</author>
+<author pid="54/621">Stefano Montanelli</author>
+<title>The CRIKE Data-Science Process for Legal Knowledge Extraction.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-09.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CastanoFFM19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AtzeniBPT19" mdate="2019-08-30">
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>GAIA: A Framework for Schema Mapping Reuse (extended abstract).</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-10.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AtzeniBPT19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/RovedaST19" mdate="2021-01-21">
+<author pid="139/3635">Loris Roveda</author>
+<author orcid="0000-0002-6958-8215" pid="157/3182">Blerina Spahiu</author>
+<author pid="14/8673">Walter Terkaj</author>
+<title>On the Proposal of a Unified Safety Framework for Industry 4.0 Multi-Robot Scenario.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-11.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#RovedaST19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AzzaliniAMT19" mdate="2019-08-30">
+<author pid="206/3236">Davide Azzalini</author>
+<author pid="206/3281">Fabio Azzalini</author>
+<author pid="70/7250">Mirjana Mazuran</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>Evolution of Financial Time Series Clusters.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-12.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AzzaliniAMT19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/MaccioniT19" mdate="2019-08-30">
+<author pid="82/8707">Antonio Maccioni</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Information Discovery in Polystores: The Augmented Way.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-13.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#MaccioniT19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AgostiN0S19" mdate="2019-08-30">
+<author pid="a/MaristellaAgosti">Maristella Agosti</author>
+<author pid="29/5588">Giorgio Maria Di Nunzio</author>
+<author pid="31/791">Stefano Marchesin 0001</author>
+<author pid="71/3148">Gianmaria Silvello</author>
+<title>Medical Retrieval using Structured Information Extracted from Knowledge Bases.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-14.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AgostiN0S19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CimaLP19" mdate="2019-08-30">
+<author pid="200/8761">Gianluca Cima</author>
+<author pid="l/MLenzerini">Maurizio Lenzerini</author>
+<author pid="03/4524">Antonella Poggi</author>
+<title>Reverse Engineering of Data Services.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-15.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CimaLP19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BicocchiCLMMS19" mdate="2019-08-30">
+<author pid="74/7014">Nicola Bicocchi</author>
+<author pid="51/5960">Giacomo Cabri</author>
+<author pid="21/10229">Francesco Leotta</author>
+<author pid="19/4797">Federica Mandreoli</author>
+<author pid="42/2448">Massimo Mecella</author>
+<author pid="219/7435">Francesco Sapio</author>
+<title>An Architectural Approach for Digital Factories.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-16.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#BicocchiCLMMS19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BeneventanoBGS19" mdate="2019-08-30">
+<author pid="b/DBeneventano">Domenico Beneventano</author>
+<author pid="b/SBergamaschi">Sonia Bergamaschi</author>
+<author pid="172/1467">Luca Gagliardelli</author>
+<author pid="151/8293">Giovanni Simonini</author>
+<title>Entity Resolution and Data Fusion: An Integrated Approach.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-17.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#BeneventanoBGS19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BianchiniAGM19" mdate="2019-08-30">
+<author pid="44/3930">Devis Bianchini</author>
+<author pid="a/ValeriaDeAntonellis">Valeria De Antonellis</author>
+<author pid="228/0684">Massimiliano Garda</author>
+<author pid="45/1072">Michele Melchiori</author>
+<title>Using a Smart City Ontology to Support Personalised Exploration of Urban Data (Discussion Paper).</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-18.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#BianchiniAGM19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Ferrante0P19" mdate="2019-08-30">
+<author pid="147/9179">Marco Ferrante</author>
+<author pid="f/NicolaFerro">Nicola Ferro 0001</author>
+<author pid="206/4507">Silvia Pontarollo</author>
+<title>A Formal Theory to Determine Scale Properties of Evaluation Measures.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-19.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#Ferrante0P19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AzzaliniPT19" mdate="2019-08-30">
+<author pid="206/3281">Fabio Azzalini</author>
+<author pid="244/5152">Davide Piantella</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>Data Fusion with Source Authority and Multiple Truth.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-20.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AzzaliniPT19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CaruccioCDP19" mdate="2019-08-30">
+<author pid="149/9262">Loredana Caruccio</author>
+<author pid="231/4634">Stefano Cirillo</author>
+<author pid="28/1520">Vincenzo Deufemia</author>
+<author pid="97/3702">Giuseppe Polese</author>
+<title>Incremental Discovery of Functional Dependencies with a Bit-vector Algorithm.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-21.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CaruccioCDP19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CoccoAZ19" mdate="2019-08-30">
+<author pid="244/5045">Roberto Cocco</author>
+<author pid="85/4692">Maurizio Atzori</author>
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<title>Machine Learning of SPARQL Templates for Question Answering over LinkedSpending.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-22.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CoccoAZ19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/LoglisciICM19" mdate="2019-08-30">
+<author pid="20/3015">Corrado Loglisci</author>
+<author pid="202/3069">Angelo Impedovo</author>
+<author pid="24/4914">Michelangelo Ceci</author>
+<author pid="m/DonatoMalerba">Donato Malerba</author>
+<title>Mining Microscopic and Macroscopic Changes in Network Data Streams (Discussion Paper).</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-23.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#LoglisciICM19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BlasLPPRR19" mdate="2019-08-30">
+<author pid="36/2384">Nicoletta Di Blas</author>
+<author pid="221/3636">Luca Lodi</author>
+<author pid="p/PaoloPaolini">Paolo Paolini</author>
+<author pid="p/BarbaraPernici">Barbara Pernici</author>
+<author pid="53/11001">Fabrizio Renzi</author>
+<author pid="240/9184">Donya Rooein</author>
+<title>Data Driven Chatbots: A New Approach to Conversational Applications.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-24.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#BlasLPPRR19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/FiorentinoGMT19" mdate="2019-08-30">
+<author pid="219/9710">Nicola Fiorentino</author>
+<author pid="g/SergioGreco">Sergio Greco</author>
+<author pid="06/6866">Cristian Molinaro</author>
+<author pid="10/5698">Irina Trubitsyna</author>
+<title>A System Prototype for Approximate Query Answering over Incomplete Data.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-25.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#FiorentinoGMT19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/GalhotraFSS19" mdate="2019-08-30">
+<author pid="136/7969">Sainyam Galhotra</author>
+<author pid="05/10127">Donatella Firmani</author>
+<author pid="66/3027">Barna Saha</author>
+<author pid="s/DiveshSrivastava">Divesh Srivastava</author>
+<title>Crowd-Sourced Entity Resolution with Control Queries.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-26.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#GalhotraFSS19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/LapadulaMSSV19" mdate="2019-08-30">
+<author pid="225/8168">Paola Lapadula</author>
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<author pid="32/5873">Donatello Santoro</author>
+<author pid="225/8176">Luisa Solimando</author>
+<author pid="157/0004">Enzo Veltri</author>
+<title>Greg, ML: Automatic Diagnostic Suggestions. Humanity is Overrated. Or Not.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-27.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#LapadulaMSSV19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CitraroR19" mdate="2019-08-30">
+<author pid="244/5009">Salvatore Citraro</author>
+<author pid="27/10814">Giulio Rossetti</author>
+<title>A Complex Network Approach to Semantic Spaces: How Meaning Organizes Itself.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-28.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CitraroR19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/SaccaF19" mdate="2019-08-30">
+<author pid="s/DomenicoSacca">Domenico Sacc&#224;</author>
+<author pid="94/6215">Angelo Furfaro</author>
+<title>Using CalcuList To MapReduce Json Documents.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-29.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#SaccaF19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AnelliNSR19" mdate="2019-08-30">
+<author pid="171/0384">Vito Walter Anelli</author>
+<author pid="58/5192">Tommaso Di Noia</author>
+<author pid="s/EugenioDiSciascio">Eugenio Di Sciascio</author>
+<author pid="36/3760">Azzurra Ragone</author>
+<title>Anna: A Virtual Assistant to Interact with Puglia Digital Library.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-30.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AnelliNSR19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AlloccaACCCCFFG19" mdate="2019-08-30">
+<author pid="31/6852">Carlo Allocca</author>
+<author pid="17/4975">Mario Alviano</author>
+<author pid="c/FrancescoCalimeri">Francesco Calimeri</author>
+<author pid="117/8447">Cristina Civili</author>
+<author pid="240/2037">Roberta Costabile</author>
+<author pid="192/0609">Bernardo Cuteri</author>
+<author pid="240/2186">Alessio Fiorentino</author>
+<author pid="138/0745">Davide Fusc&#224;</author>
+<author pid="136/8431">Stefano Germano</author>
+<author pid="211/7561">Giovanni Laboccetta</author>
+<author pid="l/NicolaLeone">Nicola Leone</author>
+<author pid="30/5454">Marco Manna</author>
+<author pid="80/5264">Simona Perri</author>
+<author pid="37/9511">Kristian Reale</author>
+<author pid="r/FrancescoRicca">Francesco Ricca</author>
+<author pid="35/8486">Pierfrancesco Veltri</author>
+<author pid="138/0714">Jessica Zangari</author>
+<title>Querying Large Expressive Horn Ontologies.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-31.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AlloccaACCCCFFG19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CauteruccioCTUV19" mdate="2019-08-30">
+<author pid="133/8758">Francesco Cauteruccio</author>
+<author pid="244/5158">Luca Cinelli</author>
+<author pid="t/GiorgioTerracina">Giorgio Terracina</author>
+<author pid="u/DomenicoUrsino">Domenico Ursino</author>
+<author pid="234/3774">Luca Virgili</author>
+<title>Investigating the Scope of a Thing in a Multiple Internet of Things Scenario.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-32.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CauteruccioCTUV19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/0001PSC19" mdate="2019-08-30">
+<author pid="97/4042">Vincenzo Moscato</author>
+<author pid="62/431">Antonio Picariello</author>
+<author pid="121/0078">Giancarlo Sperl&#236;</author>
+<author pid="c/AlfredoCuzzocrea">Alfredo Cuzzocrea</author>
+<title>Querying Influence Graphs over Online Social Networks Effectively and Efficiently.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-33.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#0001PSC19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CuzzocreaSVN19" mdate="2021-10-04">
+<author pid="c/AlfredoCuzzocrea">Alfredo Cuzzocrea</author>
+<author pid="s/AssafSchuster">Assaf Schuster</author>
+<author pid="181/3012">Gianni Viardo Vercelli</author>
+<author pid="41/191">Massimiliano Nolich</author>
+<title>Privacy-Preserving OLAP-Based Monitoring of Data Streams: The PP-OMDS Approach.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-34.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CuzzocreaSVN19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/IanniMS19" mdate="2019-08-30">
+<author pid="165/6510">Michele Ianni</author>
+<author pid="28/168">Elio Masciari</author>
+<author pid="s/DomenicoSacca">Domenico Sacc&#224;</author>
+<title>Exotic Compilers as a Malware Evasion Technique.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-35.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#IanniMS19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/TradigoVVG19" mdate="2019-08-30">
+<author pid="95/1778">Giuseppe Tradigo</author>
+<author pid="74/10787">Patrizia Vizza</author>
+<author pid="v/PierangeloVeltri">Pierangelo Veltri</author>
+<author pid="60/161">Pietro Hiram Guzzi</author>
+<title>An Information System to Track Data and Processes for Food Quality and Bacterial Pathologies Prevention.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-36.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#TradigoVVG19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/MassoliAFGV19" mdate="2022-11-18">
+<author pid="244/4976">Fabio Valerio Massoli</author>
+<author pid="54/685">Giuseppe Amato 0001</author>
+<author pid="32/4659">Fabrizio Falchi</author>
+<author pid="68/4499">Claudio Gennaro</author>
+<author pid="30/7785">Claudio Vairo</author>
+<title>CNN-based System for Low Resolution Face Recognition.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-37.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#MassoliAFGV19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BoncoraglioDDFF19" mdate="2019-08-30">
+<author pid="244/5001">Daniele Boncoraglio</author>
+<author pid="244/5011">Francesca Deri</author>
+<author pid="244/5307">Francesco Distefano</author>
+<author pid="185/4850">Daniele Fadda</author>
+<author pid="244/5262">Giorgio Filippi</author>
+<author pid="76/9000">Giuseppe Forte</author>
+<author pid="244/5214">Federica Licari</author>
+<author pid="235/2522">Michela Natilli</author>
+<author pid="p/DPedreschi">Dino Pedreschi</author>
+<author pid="28/577">Salvatore Rinzivillo</author>
+<title>A Visual Analytics Platform to Measure Performance on University Entrance Tests.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-38.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#BoncoraglioDDFF19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CuteriRR19" mdate="2019-08-30">
+<author pid="192/0609">Bernardo Cuteri</author>
+<author pid="37/9511">Kristian Reale</author>
+<author pid="r/FrancescoRicca">Francesco Ricca</author>
+<title>Querying Cultural Heritage Knowledge Bases in Natural Language: Discussion Paper.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-39.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CuteriRR19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AmatoMMPS19" mdate="2019-08-30">
+<author pid="68/4698">Flora Amato</author>
+<author pid="87/786">Francesco Moscato 0001</author>
+<author pid="97/4042">Vincenzo Moscato</author>
+<author pid="62/431">Antonio Picariello</author>
+<author pid="121/0078">Giancarlo Sperl&#236;</author>
+<title>Summarizing Social Media Content for Multimedia Stories Creation.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-40.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AmatoMMPS19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CalauttiCP19" mdate="2019-08-30">
+<author pid="134/9015">Marco Calautti</author>
+<author pid="116/1425">Marco Console</author>
+<author pid="89/5672">Andreas Pieris</author>
+<title>Counting Database Repairs under Primary Keys Revisited.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-41.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CalauttiCP19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/DiamantiniNPSU19" mdate="2019-08-30">
+<author pid="05/620">Claudia Diamantini</author>
+<author pid="08/7399">Antonino Nocera</author>
+<author pid="14/3031">Domenico Potena</author>
+<author pid="86/7256">Emanuele Storti</author>
+<author pid="u/DomenicoUrsino">Domenico Ursino</author>
+<title>Multi-Dimensional Contexts for Querying IoT Networks.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-42.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#DiamantiniNPSU19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/MasciariST19" mdate="2019-08-30">
+<author pid="28/168">Elio Masciari</author>
+<author pid="s/DomenicoSacca">Domenico Sacc&#224;</author>
+<author pid="10/5698">Irina Trubitsyna</author>
+<title>Simple User Assistance by Data Posting.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-43.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#MasciariST19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Marte19" mdate="2019-08-30">
+<author pid="208/4199">Cinzia Marte</author>
+<title>Space Bounds in Ontological Reasoning via Extended Bell Numbers.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-44.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#Marte19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/ConnorDV19" mdate="2021-07-07">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="152/1401">Lucia Vadicamo</author>
+<title>Modelling String Structure in Vector Spaces.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-45.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#ConnorDV19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AstorinoFGV19" mdate="2019-08-30">
+<author pid="55/69">Annabella Astorino</author>
+<author pid="38/2962">Antonio Fuduli</author>
+<author pid="57/4144">Manlio Gaudioso</author>
+<author pid="169/3163">Eugenio Vocaturo</author>
+<title>Multiple Instance Learning Algorithm for Medical Image Classification.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-46.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#AstorinoFGV19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CaropreseZ19" mdate="2019-08-30">
+<author pid="88/6642">Luciano Caroprese</author>
+<author pid="42/4927">Ester Zumpano</author>
+<title>Well Founded Semantics for P2P Deductive Databases.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-47.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CaropreseZ19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CarraraDGA19" mdate="2022-11-18">
+<author pid="167/9297">Fabio Carrara</author>
+<author pid="16/6993">Franca Debole</author>
+<author pid="68/4499">Claudio Gennaro</author>
+<author pid="54/685">Giuseppe Amato 0001</author>
+<title>Image Analysis in Technical Documentation.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-48.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#CarraraDGA19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/LemboRS19" mdate="2023-02-02">
+<author pid="91/2168">Domenico Lembo</author>
+<author pid="00/4014">Riccardo Rosati 0001</author>
+<author pid="09/4413">Domenico Fabio Savo</author>
+<title>A novel approach to Controlled Query Evaluation in DL-Lite (DISCUSSION PAPER).</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-49.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#LemboRS19</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 2:
+Ph.D. Session</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/Carrara19" mdate="2019-08-30">
+<author pid="167/9297">Fabio Carrara</author>
+<title>Surrgate Text Representation of Visual Features for Fast Image Retrieval.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-50.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#Carrara19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Puccetti19" mdate="2019-08-30">
+<author pid="244/4907">Roberto Puccetti</author>
+<title>Social Mining from Wi-Fi Campus Data.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-51.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#Puccetti19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Giorgi19" mdate="2019-08-30">
+<author pid="41/3327">Giacomo Giorgi</author>
+<title>Behavioral Analysis For a Continuous User Authentication.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-52.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#Giorgi19</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Agostinelli19" mdate="2019-08-30">
+<author pid="241/3524">Simone Agostinelli</author>
+<title>Synthesis of Strategies for Robotic Process Automation.</title>
+<year>2019</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2400/paper-53.pdf</ee>
+<crossref>conf/sebd/2019</crossref>
+<url>db/conf/sebd/sebd2019.html#Agostinelli19</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,894 @@
+<bht key="db/conf/cp/cp2007.bht" title="13. CP 2007: Providence, RI, USA">  
+<h1>13. <ref href="db/conf/cp/index.html">CP</ref> 2007:
+Providence, RI, USA</h1> <dblpcites><r><proceedings key="conf/cp/2007" mdate="2019-05-14">
+<editor pid="b/ChristianBessiere">Christian Bessiere</editor>
+<title>Principles and Practice of Constraint Programming - CP 2007, 13th International Conference, CP 2007, Providence, RI, USA, September 23-27, 2007, Proceedings</title>
+<booktitle>CP</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4741</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-74969-1</isbn>
+<ee>https://doi.org/10.1007/978-3-540-74970-7</ee>
+<url>db/conf/cp/cp2007.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Invited Lectures</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Bacchus07" mdate="2017-05-17">
+<author pid="b/FahiemBacchus">Fahiem Bacchus</author>
+<title>Caching in Backtracking Search.</title>
+<pages>1</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_1</ee>
+<url>db/conf/cp/cp2007.html#Bacchus07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Ginsberg07" mdate="2017-05-17">
+<author pid="g/MatthewLGinsberg">Matthew L. Ginsberg</author>
+<title>Of Mousetraps and Men: A Cautionary Tale.</title>
+<pages>2</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_2</ee>
+<url>db/conf/cp/cp2007.html#Ginsberg07</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Application Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BeaumetVC07" mdate="2017-05-17">
+<author pid="72/869">Gr&#233;gory Beaumet</author>
+<author pid="88/2213">G&#233;rard Verfaillie</author>
+<author pid="22/3984">Marie-Claire Charmeau</author>
+<title>Estimation of the Minimal Duration of an Attitude Change for an Autonomous Agile Earth-Observing Satellite.</title>
+<pages>3-17</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_3</ee>
+<url>db/conf/cp/cp2007.html#BeaumetVC07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChenouardSG07" mdate="2017-05-17">
+<author pid="31/2539">Rapha&#235;l Chenouard</author>
+<author pid="11/4208">Patrick S&#233;bastian</author>
+<author pid="29/1072">Laurent Granvilliers</author>
+<title>Solving an Air Conditioning System Problem in an Embodiment Design Context Using Constraint Satisfaction Techniques.</title>
+<pages>18-32</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_4</ee>
+<url>db/conf/cp/cp2007.html#ChenouardSG07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChoiL07" mdate="2017-05-17">
+<author pid="95/1372">Chiu Wo Choi</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<title>Solving the Salinity Control Problem in a Potable Water System.</title>
+<pages>33-48</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_5</ee>
+<url>db/conf/cp/cp2007.html#ChoiL07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CollavizzaR07" mdate="2017-05-17">
+<author pid="76/2872">H&#233;l&#232;ne Collavizza</author>
+<author pid="r/MichelRueher">Michel Rueher</author>
+<title>Exploring Different Constraint-Based Modelings for Program Verification.</title>
+<pages>49-63</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_6</ee>
+<url>db/conf/cp/cp2007.html#CollavizzaR07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DavenportKRSH07" mdate="2017-05-17">
+<author pid="68/5444">Andrew J. Davenport</author>
+<author pid="05/4351">Jayant Kalagnanam</author>
+<author pid="57/937">Chandra Reddy</author>
+<author pid="56/274">Stuart Siegel</author>
+<author pid="96/1175">John Hou</author>
+<title>An Application of Constraint Programming to Generating Detailed Operations Schedules for Steel Manufacturing.</title>
+<pages>64-76</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_7</ee>
+<url>db/conf/cp/cp2007.html#DavenportKRSH07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GarganiR07" mdate="2017-05-17">
+<author pid="53/1526">Antoine Gargani</author>
+<author pid="46/4027">Philippe Refalo</author>
+<title>An Efficient Model and Strategy for the Steel Mill Slab Design Problem.</title>
+<pages>77-89</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_8</ee>
+<url>db/conf/cp/cp2007.html#GarganiR07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GennariM07" mdate="2017-06-02">
+<author orcid="0000-0003-0063-0996" pid="07/3793">Rosella Gennari</author>
+<author pid="00/2343">Ornella Mich</author>
+<title>Constraint-Based Temporal Reasoning for E-Learning with LODE.</title>
+<pages>90-104</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_9</ee>
+<url>db/conf/cp/cp2007.html#GennariM07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KrogtLPHJ07" mdate="2020-04-28">
+<author pid="37/1281">Roman van der Krogt</author>
+<author pid="91/4932-2">James Little 0002</author>
+<author pid="22/5114">Kenneth Pulliam</author>
+<author pid="52/1219">Sue Hanhilammi</author>
+<author pid="57/2622">Yue Jin</author>
+<title>Scheduling for Cellular Manufacturing.</title>
+<pages>105-117</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_10</ee>
+<url>db/conf/cp/cp2007.html#KrogtLPHJ07</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Full Research Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AndersenHHT07" mdate="2017-05-17">
+<author pid="77/4535">Henrik Reif Andersen</author>
+<author pid="62/6349">Tarik Hadzic</author>
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<author pid="15/3498">Peter Tiedemann</author>
+<title>A Constraint Store Based on Multivalued Decision Diagrams.</title>
+<pages>118-132</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_11</ee>
+<url>db/conf/cp/cp2007.html#AndersenHHT07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Bacchus07a" mdate="2017-05-17">
+<author pid="b/FahiemBacchus">Fahiem Bacchus</author>
+<title>GAC Via Unit Propagation.</title>
+<pages>133-147</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_12</ee>
+<url>db/conf/cp/cp2007.html#Bacchus07a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BacchusS07" mdate="2019-01-08">
+<author pid="b/FahiemBacchus">Fahiem Bacchus</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>Solution Directed Backjumping for QCSP.</title>
+<pages>148-163</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_13</ee>
+<url>db/conf/cp/cp2007.html#BacchusS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BayerMCK07" mdate="2021-07-25">
+<author pid="52/1979">Kenneth M. Bayer</author>
+<author orcid="0000-0003-2060-5878" pid="80/3650">Martin Michalowski</author>
+<author pid="64/4385">Berthe Y. Choueiry</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<title>Reformulating CSPs for Scalability with Application to Geospatial Reasoning.</title>
+<pages>164-179</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_14</ee>
+<url>db/conf/cp/cp2007.html#BayerMCK07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BeldiceanuCPST07" mdate="2017-05-17">
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<author pid="c/MCarlsson">Mats Carlsson</author>
+<author pid="68/5132">Emmanuel Poder</author>
+<author pid="57/1820">R. Sadek</author>
+<author pid="76/1220">Charlotte Truchet</author>
+<title>A Generic Geometrical Constraint Kernel in Space and Time for Handling Polymorphic <i>k</i>-Dimensional Objects.</title>
+<pages>180-194</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_15</ee>
+<url>db/conf/cp/cp2007.html#BeldiceanuCPST07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BenhamouS07" mdate="2017-05-17">
+<author pid="25/6758">Belaid Benhamou</author>
+<author pid="85/641">Mohamed R&#233;da Sa&#239;di</author>
+<title>Local Symmetry Breaking During Search in CSPs.</title>
+<pages>195-209</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_16</ee>
+<url>db/conf/cp/cp2007.html#BenhamouS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BrandNQSW07" mdate="2021-04-09">
+<author pid="04/1098">Sebastian Brand</author>
+<author pid="87/3366">Nina Narodytska</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Encodings of the Sequence Constraint.</title>
+<pages>210-224</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_17</ee>
+<url>db/conf/cp/cp2007.html#BrandNQSW07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DarrasDDL07" mdate="2017-05-17">
+<author pid="38/3030">Sylvain Darras</author>
+<author pid="16/3798">Gilles Dequen</author>
+<author pid="31/6108">Laure Devendeville</author>
+<author pid="35/5239">Chu Min Li</author>
+<title>On Inconsistent Clause-Subsets for Max-SAT Solving.</title>
+<pages>225-240</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_18</ee>
+<url>db/conf/cp/cp2007.html#DarrasDDL07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DenmatGD07" mdate="2017-05-17">
+<author pid="37/629">Tristan Denmat</author>
+<author pid="45/6358">Arnaud Gotlieb</author>
+<author pid="d/MDucasse">Mireille Ducass&#233;</author>
+<title>An Abstract Interpretation Based Combinator for Modelling While Loops in Constraint Programming.</title>
+<pages>241-255</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_19</ee>
+<url>db/conf/cp/cp2007.html#DenmatGD07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DilkinaGS07" mdate="2019-10-19">
+<author orcid="0000-0002-6784-473X" pid="30/5718">Bistra Dilkina</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<author pid="13/154">Ashish Sabharwal</author>
+<title>Tradeoffs in the Complexity of Backdoor Detection.</title>
+<pages>256-270</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_20</ee>
+<url>db/conf/cp/cp2007.html#DilkinaGS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DoomsHM07" mdate="2017-05-17">
+<author pid="71/1062">Gr&#233;goire Dooms</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<title>Model-Driven Visualizations of Constraint-Based Local Search.</title>
+<pages>271-285</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_21</ee>
+<url>db/conf/cp/cp2007.html#DoomsHM07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GelainPRV07" mdate="2017-05-17">
+<author pid="92/5179">Mirco Gelain</author>
+<author pid="97/6092">Maria Silvia Pini</author>
+<author pid="r/FrancescaRossi">Francesca Rossi</author>
+<author pid="v/KristenBrentVenable">Kristen Brent Venable</author>
+<title>Dealing with Incomplete Preferences in Soft Constraint Problems.</title>
+<pages>286-300</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_22</ee>
+<url>db/conf/cp/cp2007.html#GelainPRV07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GereviniS07" mdate="2017-05-17">
+<author pid="73/3274">Alfonso Gerevini</author>
+<author pid="62/6020">Alessandro Saetti</author>
+<title>Efficient Computation of Minimal Point Algebra Constraints by Metagraph Closure.</title>
+<pages>301-316</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_23</ee>
+<url>db/conf/cp/cp2007.html#GereviniS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GregoireMP07" mdate="2017-05-17">
+<author pid="g/EricGregoire">&#201;ric Gr&#233;goire</author>
+<author pid="50/4396">Bertrand Mazure</author>
+<author pid="21/6664">C&#233;dric Piette</author>
+<title>MUST: Provide a Finer-Grained Explanation of Unsatisfiability.</title>
+<pages>317-331</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_24</ee>
+<url>db/conf/cp/cp2007.html#GregoireMP07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HalimYL07" mdate="2018-11-02">
+<author pid="17/3034">Steven Halim</author>
+<author pid="y/RolandHCYap">Roland H. C. Yap</author>
+<author orcid="0000-0002-5326-411X" pid="27/6572">Hoong Chuin Lau</author>
+<title>An Integrated White+Black Box Approach for Designing and Tuning Stochastic Local Search.</title>
+<pages>332-347</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_25</ee>
+<url>db/conf/cp/cp2007.html#HalimYL07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JarvisaloJ07" mdate="2017-06-15">
+<author orcid="0000-0003-2572-063X" pid="69/6999">Matti J&#228;rvisalo</author>
+<author pid="j/TommiAJunttila">Tommi A. Junttila</author>
+<title>Limitations of Restricted Branching in Clause Learning.</title>
+<pages>348-363</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_26</ee>
+<url>db/conf/cp/cp2007.html#JarvisaloJ07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JegouNT07" mdate="2017-05-17">
+<author pid="10/6570">Philippe J&#233;gou</author>
+<author pid="30/3232">Samba Ndiaye</author>
+<author pid="34/5502">Cyril Terrioux</author>
+<title>Dynamic Management of Heuristics for Solving Structured CSPs.</title>
+<pages>364-378</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_27</ee>
+<url>db/conf/cp/cp2007.html#JegouNT07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KatsirelosW07" mdate="2017-05-17">
+<author pid="61/6509">George Katsirelos</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>A Compression Algorithm for Large Arity Extensional Constraints.</title>
+<pages>379-393</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_28</ee>
+<url>db/conf/cp/cp2007.html#KatsirelosW07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KhemmoudjB07" mdate="2017-05-17">
+<author pid="49/5432">Mohand Ou Idir Khemmoudj</author>
+<author pid="75/3739">Hachemi Bennaceur</author>
+<title>Valid Inequality Based Lower Bounds for WCSP.</title>
+<pages>394-408</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_29</ee>
+<url>db/conf/cp/cp2007.html#KhemmoudjB07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LagerkvistS07" mdate="2017-12-26">
+<author pid="88/2566">Mikael Z. Lagerkvist</author>
+<author pid="s/ChristianSchulte">Christian Schulte 0001</author>
+<title>Advisors for Incremental Propagation.</title>
+<pages>409-422</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_30</ee>
+<url>db/conf/cp/cp2007.html#LagerkvistS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LawLWY07" mdate="2017-05-17">
+<author pid="50/5829">Yat Chiu Law</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<author pid="86/2576">Toby Walsh</author>
+<author pid="y/JustinYip">J. Y. K. Yip</author>
+<title>Breaking Symmetry of Interchangeable Variables and Values.</title>
+<pages>423-437</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_31</ee>
+<url>db/conf/cp/cp2007.html#LawLWY07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LecoutreCV07" mdate="2017-05-17">
+<author pid="95/2777">Christophe Lecoutre</author>
+<author pid="48/929">St&#233;phane Cardon</author>
+<author pid="95/4925">Julien Vion</author>
+<title>Path Consistency by Dual Consistency.</title>
+<pages>438-452</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_32</ee>
+<url>db/conf/cp/cp2007.html#LecoutreCV07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LecoutreSTV07" mdate="2017-12-30">
+<author pid="95/2777">Christophe Lecoutre</author>
+<author pid="s/LakhdarSais">Lakhdar Sais</author>
+<author pid="28/450">S&#233;bastien Tabary</author>
+<author pid="09/5817-1">Vincent Vidal 0001</author>
+<title>Exploiting Past and Future: Pruning by Inconsistent Partial State Dominance.</title>
+<pages>453-467</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_33</ee>
+<url>db/conf/cp/cp2007.html#LecoutreSTV07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LombardiM07" mdate="2017-05-31">
+<author pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>Scheduling Conditional Task Graphs.</title>
+<pages>468-482</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_34</ee>
+<url>db/conf/cp/cp2007.html#LombardiM07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SilvaL07" mdate="2017-05-17">
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o P. Marques Silva</author>
+<author pid="94/3399">In&#234;s Lynce</author>
+<title>Towards Robust CNF Encodings of Cardinality Constraints.</title>
+<pages>483-497</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_35</ee>
+<url>db/conf/cp/cp2007.html#SilvaL07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MateescuMD07" mdate="2017-05-17">
+<author pid="45/1660">Robert Mateescu</author>
+<author pid="m/RaduMarinescu2">Radu Marinescu 0002</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>AND/OR Multi-valued Decision Diagrams for Constraint Optimization.</title>
+<pages>498-513</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_36</ee>
+<url>db/conf/cp/cp2007.html#MateescuMD07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MichelSH07" mdate="2017-05-17">
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<author pid="58/6446">Andrew See</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Parallelizing Constraint Programs Transparently.</title>
+<pages>514-528</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_37</ee>
+<url>db/conf/cp/cp2007.html#MichelSH07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NethercoteSBBDT07" mdate="2022-10-02">
+<author pid="47/336">Nicholas Nethercote</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="48/1782">Ralph Becket</author>
+<author pid="04/1098">Sebastian Brand</author>
+<author orcid="0000-0002-0837-9671" pid="74/3123">Gregory J. Duck</author>
+<author pid="41/5343">Guido Tack</author>
+<title>MiniZinc: Towards a Standard CP Modelling Language.</title>
+<pages>529-543</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_38</ee>
+<url>db/conf/cp/cp2007.html#NethercoteSBBDT07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/OhrimenkoSC07" mdate="2018-11-14">
+<author pid="70/4765">Olga Ohrimenko</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author orcid="0000-0003-0394-5854" pid="c/MCodish">Michael Codish</author>
+<title>Propagation = Lazy Clause Generation.</title>
+<pages>544-558</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_39</ee>
+<ee>https://www.wikidata.org/entity/Q56039655</ee>
+<url>db/conf/cp/cp2007.html#OhrimenkoSC07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PetitG07" mdate="2017-05-17">
+<author pid="14/3367">Matthieu Petit</author>
+<author pid="45/6358">Arnaud Gotlieb</author>
+<title>Boosting Probabilistic Choice Operators.</title>
+<pages>559-573</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_40</ee>
+<url>db/conf/cp/cp2007.html#PetitG07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PulinaT07" mdate="2021-10-14">
+<author pid="35/6729">Luca Pulina</author>
+<author orcid="0000-0001-9487-331X" pid="35/5174">Armando Tacchella</author>
+<title>A Multi-engine Solver for Quantified Boolean Formulas.</title>
+<pages>574-589</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_41</ee>
+<url>db/conf/cp/cp2007.html#PulinaT07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/QuimperW07" mdate="2021-04-09">
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Decomposing Global Grammar Constraints.</title>
+<pages>590-604</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_42</ee>
+<url>db/conf/cp/cp2007.html#QuimperW07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RamirezG07" mdate="2021-10-14">
+<author orcid="0000-0002-1838-7982" pid="36/6034">Miquel Ram&#237;rez</author>
+<author pid="g/HectorGeffner">Hector Geffner</author>
+<title>Structural Relaxations by Variable Renaming and Their Compilation for Solving MinCostSAT.</title>
+<pages>605-619</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_43</ee>
+<url>db/conf/cp/cp2007.html#RamirezG07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SchausDD07" mdate="2017-05-17">
+<author pid="78/2903">Pierre Schaus</author>
+<author pid="13/1302">Yves Deville</author>
+<author pid="63/2403">Pierre Dupont</author>
+<title>Bound-Consistent Deviation Constraint.</title>
+<pages>620-634</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_44</ee>
+<url>db/conf/cp/cp2007.html#SchausDD07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TrombettoniC07" mdate="2017-05-17">
+<author pid="55/2812">Gilles Trombettoni</author>
+<author pid="89/1246">Gilles Chabert</author>
+<title>Constructive Interval Disjunction.</title>
+<pages>635-650</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_45</ee>
+<url>db/conf/cp/cp2007.html#TrombettoniC07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BrielBKV07" mdate="2019-07-22">
+<author pid="87/4370">Menkes van den Briel</author>
+<author pid="63/2238-1">J. Benton 0001</author>
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<author pid="18/4010">Thomas Vossen</author>
+<title>An LP-Based Heuristic for Optimal Planning.</title>
+<pages>651-665</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_46</ee>
+<url>db/conf/cp/cp2007.html#BrielBKV07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/WilsonGF07" mdate="2022-12-07">
+<author orcid="0000-0003-1874-8255" pid="00/3956">Nic Wilson</author>
+<author pid="70/893">Diarmuid Grimes</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>A Cost-Based Model and Algorithms for Interleaving Solving and Elicitation of CSPs.</title>
+<pages>666-680</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_47</ee>
+<url>db/conf/cp/cp2007.html#WilsonGF07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/WuB07" mdate="2017-05-17">
+<author pid="71/5882">Huayue Wu</author>
+<author pid="b/PetervanBeek">Peter van Beek</author>
+<title>On Universal Restart Strategies for Backtracking Search.</title>
+<pages>681-695</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_48</ee>
+<url>db/conf/cp/cp2007.html#WuB07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/XuHL07" mdate="2017-05-17">
+<author pid="40/1068">Lin Xu</author>
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author pid="81/1149">Kevin Leyton-Brown</author>
+<title>Hierarchical Hardness Models for SAT.</title>
+<pages>696-711</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_49</ee>
+<url>db/conf/cp/cp2007.html#XuHL07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/XuHHL07" mdate="2019-06-02">
+<author pid="40/1068">Lin Xu</author>
+<author pid="89/5383">Frank Hutter</author>
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author orcid="0000-0002-7644-5327" pid="81/1149">Kevin Leyton-Brown</author>
+<title>: The Design and Analysis of an Algorithm Portfolio for SAT.</title>
+<pages>712-727</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_50</ee>
+<ee>https://www.wikidata.org/entity/Q60521707</ee>
+<url>db/conf/cp/cp2007.html#XuHHL07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ZampelliDSSD07" mdate="2017-05-17">
+<author pid="90/264">St&#233;phane Zampelli</author>
+<author pid="13/1302">Yves Deville</author>
+<author pid="47/7026">Christine Solnon</author>
+<author pid="20/3567">S&#233;bastien Sorlin</author>
+<author pid="63/2403">Pierre Dupont</author>
+<title>Filtering for Subgraph Isomorphism.</title>
+<pages>728-742</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_51</ee>
+<url>db/conf/cp/cp2007.html#ZampelliDSSD07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ZanariniP07" mdate="2017-05-17">
+<author pid="04/3886">Alessandro Zanarini</author>
+<author pid="02/6567">Gilles Pesant</author>
+<title>Solution Counting Algorithms for Constraint-Centered Search Heuristics.</title>
+<pages>743-757</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_52</ee>
+<url>db/conf/cp/cp2007.html#ZanariniP07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ZivanZM07" mdate="2017-05-17">
+<author pid="38/2041">Roie Zivan</author>
+<author pid="72/63">Moshe Zazone</author>
+<author pid="m/AmnonMeisels">Amnon Meisels</author>
+<title>Min-Domain Ordering for Asynchronous Backtracking.</title>
+<pages>758-772</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_53</ee>
+<url>db/conf/cp/cp2007.html#ZivanZM07</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Short Research Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BistarelliPT07" mdate="2017-06-02">
+<author orcid="0000-0001-7411-9678" pid="53/6380">Stefano Bistarelli</author>
+<author pid="31/1862">Pamela Peretti</author>
+<author pid="10/5698">Irina Trubitsyna</author>
+<title>Answer Set Optimization for and/or Composition of CP-Nets: A Security Scenario.</title>
+<pages>773-781</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_54</ee>
+<url>db/conf/cp/cp2007.html#BistarelliPT07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BistarelliPRV07" mdate="2017-06-02">
+<author orcid="0000-0001-7411-9678" pid="53/6380">Stefano Bistarelli</author>
+<author pid="97/6092">Maria Silvia Pini</author>
+<author pid="r/FrancescaRossi">Francesca Rossi</author>
+<author pid="v/KristenBrentVenable">Kristen Brent Venable</author>
+<title>Uncertainty in Bipolar Preference Problems.</title>
+<pages>782-789</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_55</ee>
+<url>db/conf/cp/cp2007.html#BistarelliPRV07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BordeauxHV07" mdate="2017-05-17">
+<author pid="96/907">Lucas Bordeaux</author>
+<author pid="16/6871">Youssef Hamadi</author>
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<title>An Analysis of Slow Convergence in Interval Propagation.</title>
+<pages>790-797</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_56</ee>
+<url>db/conf/cp/cp2007.html#BordeauxHV07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CohenJZ07" mdate="2020-08-03">
+<author pid="50/3733">David A. Cohen</author>
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<author pid="z/StanislavZivny">Stanislav Zivn&#253;</author>
+<title>The Expressive Power of Valued Constraints: Hierarchies and Collapses.</title>
+<pages>798-805</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_57</ee>
+<url>db/conf/cp/cp2007.html#CohenJZ07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CondottaLS07" mdate="2017-05-17">
+<author pid="47/2681">Jean-Fran&#231;ois Condotta</author>
+<author pid="l/GerardLigozat">G&#233;rard Ligozat</author>
+<author pid="26/5324">Mahmoud Saade</author>
+<title>Eligible and Frozen Constraints for Solving Temporal Qualitative Constraint Networks.</title>
+<pages>806-814</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_58</ee>
+<url>db/conf/cp/cp2007.html#CondottaLS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Gavanelli07" mdate="2022-01-03">
+<author orcid="0000-0001-7433-5899" pid="15/5240">Marco Gavanelli</author>
+<title>The Log-Support Encoding of CSP into SAT.</title>
+<pages>815-822</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_59</ee>
+<url>db/conf/cp/cp2007.html#Gavanelli07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentKLPR07" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="43/8396">Tom Kelsey</author>
+<author pid="53/849">Stephen A. Linton</author>
+<author pid="72/5013">J. Pearson</author>
+<author pid="99/6055">Colva M. Roney-Dougal</author>
+<title>Groupoids and Conditional Symmetry.</title>
+<pages>823-830</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_60</ee>
+<url>db/conf/cp/cp2007.html#GentKLPR07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GrimesW07" mdate="2017-05-17">
+<author pid="70/893">Diarmuid Grimes</author>
+<author pid="44/4904">Richard J. Wallace</author>
+<title>Sampling Strategies and Variable Selection in Weighted Degree Heuristics.</title>
+<pages>831-838</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_61</ee>
+<url>db/conf/cp/cp2007.html#GrimesW07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Huang07" mdate="2017-05-17">
+<author pid="28/4243">Jinbo Huang</author>
+<title>A Case for Simple SAT Solvers.</title>
+<pages>839-846</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_62</ee>
+<url>db/conf/cp/cp2007.html#Huang07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KiziltanLMP07" mdate="2017-05-17">
+<author pid="54/4901">Zeynep Kiziltan</author>
+<author pid="196/3740">Andrea Lodi 0001</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<author pid="80/996">Fabio Parisini</author>
+<title>CP-Based Local Branching.</title>
+<pages>847-855</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_63</ee>
+<url>db/conf/cp/cp2007.html#KiziltanLMP07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PeintnerVY07" mdate="2017-05-17">
+<author pid="32/824">Bart Peintner</author>
+<author pid="v/KristenBrentVenable">Kristen Brent Venable</author>
+<author pid="95/5096">Neil Yorke-Smith</author>
+<title>Strong Controllability of Disjunctive Temporal Problems with Uncertainty.</title>
+<pages>856-863</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_64</ee>
+<url>db/conf/cp/cp2007.html#PeintnerVY07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AnguloT07" mdate="2017-05-17">
+<author pid="71/3331">Vicente Ruiz de Angulo</author>
+<author pid="t/CarmeTorras">Carme Torras</author>
+<title>Exploiting Single-Cycle Symmetries in Branch-and-Prune algorithms.</title>
+<pages>864-871</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_65</ee>
+<url>db/conf/cp/cp2007.html#AnguloT07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SmithBO07" mdate="2017-06-02">
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author orcid="0000-0001-7411-9678" pid="53/6380">Stefano Bistarelli</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Constraint Symmetry for the Soft CSP.</title>
+<pages>872-879</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_66</ee>
+<url>db/conf/cp/cp2007.html#SmithBO07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Walsh07" mdate="2017-05-17">
+<author pid="86/2576">Toby Walsh</author>
+<title>Breaking Value Symmetry.</title>
+<pages>880-887</pages>
+<year>2007</year>
+<crossref>conf/cp/2007</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74970-7_67</ee>
+<url>db/conf/cp/cp2007.html#Walsh07</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

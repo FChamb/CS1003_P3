@@ -1,0 +1,1042 @@
+<bht key="db/conf/cp/cp2001.bht" title="7. CP 2001: Paphos, Cyprus">  
+<h1>7. <ref href="db/conf/cp/index.html">CP</ref> 2001:
+Paphos, Cyprus</h1> <dblpcites><r><proceedings key="conf/cp/2001" mdate="2019-05-14">
+<editor pid="86/2576">Toby Walsh</editor>
+<title>Principles and Practice of Constraint Programming - CP 2001, 7th International Conference, CP 2001, Paphos, Cyprus, November 26 - December 1, 2001, Proceedings</title>
+<booktitle>CP</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2239</volume>
+<publisher>Springer</publisher>
+<year>2001</year>
+<isbn>3-540-42863-1</isbn>
+<ee>https://doi.org/10.1007/3-540-45578-7</ee>
+<url>db/conf/cp/cp2001.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/EreminW01" mdate="2017-12-19">
+<author pid="10/2651">Andrew Eremin</author>
+<author pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>Hybrid Benders Decomposition Algorithms in Constraint Logic Programming.</title>
+<pages>1-15</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_1</ee>
+<url>db/conf/cp/cp2001.html#EreminW01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Thorsteinsson01" mdate="2017-05-17">
+<author pid="89/4797">Erlendur S. Thorsteinsson</author>
+<title>Branch-and-Check: A Hybrid Framework Integrating Mixed Integer Programming and Constraint Logic Programming.</title>
+<pages>16-30</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_2</ee>
+<url>db/conf/cp/cp2001.html#Thorsteinsson01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AbdennadherR01" mdate="2017-05-17">
+<author pid="a/SlimAbdennadher">Slim Abdennadher</author>
+<author pid="r/CRigotti">Christophe Rigotti</author>
+<title>Towards Inductive Constraint Solving.</title>
+<pages>31-45</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_3</ee>
+<url>db/conf/cp/cp2001.html#AbdennadherR01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/EpsteinF01" mdate="2017-05-17">
+<author pid="79/4353">Susan L. Epstein</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Collaborative Learning for Constraint Solving.</title>
+<pages>46-60</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_4</ee>
+<url>db/conf/cp/cp2001.html#EpsteinF01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BenoistBCR01" mdate="2017-05-17">
+<author pid="19/6448">Thierry Benoist</author>
+<author pid="56/6477">Eric Bourreau</author>
+<author pid="c/YvesCaseau">Yves Caseau</author>
+<author pid="43/1199">Beno&#238;t Rottembourg</author>
+<title>Towards Stochastic Constraint Programming: A Study of Online Multi-choice Knapsack with Deadlines.</title>
+<pages>61-76</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_5</ee>
+<url>db/conf/cp/cp2001.html#BenoistBCR01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FocacciM01" mdate="2017-05-17">
+<author pid="25/7016">Filippo Focacci</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>Global Cut Framework for Removing Symmetries.</title>
+<pages>77-92</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_6</ee>
+<url>db/conf/cp/cp2001.html#FocacciM01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FahleSS01" mdate="2017-05-17">
+<author pid="15/5253">Torsten Fahle</author>
+<author pid="48/2852">Stefan Schamberger</author>
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<title>Symmetry Breaking.</title>
+<pages>93-107</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_7</ee>
+<url>db/conf/cp/cp2001.html#FahleSS01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DuboisD01" mdate="2021-10-14">
+<author pid="09/4733-2">Olivier Dubois 0002</author>
+<author orcid="0000-0001-7497-1182" pid="16/3798">Gilles Dequen</author>
+<title>The Non-existence of (3, 1, 2)-Conjugate Orthogonal Idempotent Latin Square of Order 10.</title>
+<pages>108-120</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_8</ee>
+<url>db/conf/cp/cp2001.html#DuboisD01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AguirreV01" mdate="2017-05-17">
+<author pid="40/6213">Alfonso San Miguel Aguirre</author>
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<title>Random 3-SAT and BDDs: The Plot Thickens Further.</title>
+<pages>121-136</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_9</ee>
+<url>db/conf/cp/cp2001.html#AguirreV01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BejarCFMG01" mdate="2017-05-17">
+<author pid="31/267">Ram&#243;n B&#233;jar</author>
+<author pid="68/1684">Alba Cabiscol</author>
+<author pid="f/CesarFernandez">C&#232;sar Fern&#225;ndez</author>
+<author pid="50/4075">Felip Many&#224;</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<title>Capturing Structure with Satisfiability.</title>
+<pages>137-152</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_10</ee>
+<url>db/conf/cp/cp2001.html#BejarCFMG01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Zhang01" mdate="2022-10-02">
+<author orcid="0000-0002-4998-9791" pid="51/2284">Weixiong Zhang</author>
+<title>Phase Transitions and Backbones of 3-SAT and Maximum 3-SAT.</title>
+<pages>153-167</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_11</ee>
+<url>db/conf/cp/cp2001.html#Zhang01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MamoulisS01" mdate="2019-01-08">
+<author pid="34/6253">Nikos Mamoulis</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>Solving Non-binary CSPs Using the Hidden Variable Encoding.</title>
+<pages>168-182</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_12</ee>
+<url>db/conf/cp/cp2001.html#MamoulisS01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Pesant01" mdate="2017-05-17">
+<author pid="02/6567">Gilles Pesant</author>
+<title>A Filtering Algorithm for the Stretch Constraint.</title>
+<pages>183-195</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_13</ee>
+<url>db/conf/cp/cp2001.html#Pesant01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BockmayrPA01" mdate="2018-11-02">
+<author orcid="0000-0002-5074-1347" pid="b/ABockmayr">Alexander Bockmayr</author>
+<author pid="86/2998">Nicolai Pisaruk</author>
+<author pid="93/1484">Abderrahmane Aggoun</author>
+<title>Network Flow Problems in Constraint Programming.</title>
+<pages>196-210</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_14</ee>
+<url>db/conf/cp/cp2001.html#BockmayrPA01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Beldiceanu01" mdate="2017-05-17">
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<title>Pruning for the Minimum Constraint Family and for the Number of Distinct Values Constraint Family.</title>
+<pages>211-224</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_15</ee>
+<url>db/conf/cp/cp2001.html#Beldiceanu01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentIMPS01" mdate="2020-10-13">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="78/6375">Robert W. Irving</author>
+<author pid="m/DManlove">David F. Manlove</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>A Constraint Programming Approach to the Stable Marriage Problem.</title>
+<pages>225-239</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_16</ee>
+<url>db/conf/cp/cp2001.html#GentIMPS01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChoiHN01" mdate="2017-05-17">
+<author pid="95/1372">Chiu Wo Choi</author>
+<author pid="32/6018">Martin Henz</author>
+<author pid="27/6557">Ka Boon Ng</author>
+<title>Components for State Restoration in Tree Search.</title>
+<pages>240-255</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_17</ee>
+<url>db/conf/cp/cp2001.html#ChoiHN01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Wolf01" mdate="2017-05-17">
+<author pid="w/ArminWolf">Armin Wolf</author>
+<title>Adaptive Constraint Handling with CHR in Java.</title>
+<pages>256-270</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_18</ee>
+<url>db/conf/cp/cp2001.html#Wolf01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SilaghiSF01" mdate="2017-05-17">
+<author pid="s/MariusCalinSilaghi">Marius-Calin Silaghi</author>
+<author pid="s/DjamilaSamHaroud">Djamila Sam-Haroud</author>
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<title>Consistency Maintenance for ABT.</title>
+<pages>271-285</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_19</ee>
+<url>db/conf/cp/cp2001.html#SilaghiSF01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DelzannoB01" mdate="2017-05-17">
+<author pid="d/GDelzanno">Giorgio Delzanno</author>
+<author pid="07/3368">Tevfik Bultan</author>
+<title>Constraint-Based Verification of Client-Server Protocols.</title>
+<pages>286-301</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_20</ee>
+<url>db/conf/cp/cp2001.html#DelzannoB01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PalamidessiV01" mdate="2021-04-09">
+<author orcid="0000-0003-4597-7002" pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<author pid="v/FDValencia">Frank D. Valencia</author>
+<title>A Temporal Concurrent Constraint Programming Calculus.</title>
+<pages>302-316</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_21</ee>
+<url>db/conf/cp/cp2001.html#PalamidessiV01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MeseguerLS01" mdate="2017-10-26">
+<author pid="96/1119">Pedro Meseguer</author>
+<author pid="27/2738">Javier Larrosa</author>
+<author pid="13/7991">Mart&#237; S&#225;nchez-Fibla</author>
+<title>Lower Bounds for Non-binary Constraint Optimization Problems.</title>
+<pages>317-331</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_22</ee>
+<url>db/conf/cp/cp2001.html#MeseguerLS01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ReginPBP01" mdate="2017-05-17">
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<author pid="84/3969">Thierry Petit</author>
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<author pid="p/JFPuget">Jean-Francois Puget</author>
+<title>New Lower Bounds of Constraint Violations for Over-Constrained Problems.</title>
+<pages>332-345</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_23</ee>
+<url>db/conf/cp/cp2001.html#ReginPBP01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DechterKL01" mdate="2017-05-17">
+<author pid="d/RDechter">Rina Dechter</author>
+<author pid="04/6122">Kalev Kask</author>
+<author pid="27/2738">Javier Larrosa</author>
+<title>A General Scheme for Multiple Lower Bound Computation in Constraint Optimization.</title>
+<pages>346-360</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_24</ee>
+<url>db/conf/cp/cp2001.html#DechterKL01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MarriottMSB01" mdate="2017-05-17">
+<author pid="m/KimMarriott">Kim Marriott</author>
+<author pid="50/3597">Peter Moulder</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="b/AlanBorning">Alan Borning</author>
+<title>Solving Disjunctive Constraints for Interactive Graphical Applications.</title>
+<pages>361-376</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_25</ee>
+<url>db/conf/cp/cp2001.html#MarriottMSB01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BeldiceanuC01" mdate="2017-05-17">
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<author pid="c/MCarlsson">Mats Carlsson</author>
+<title>Sweep as a Generic Pruning Technique Applied to the Non-overlapping Rectangles Constraint.</title>
+<pages>377-391</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_26</ee>
+<url>db/conf/cp/cp2001.html#BeldiceanuC01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BeldiceanuGT01" mdate="2017-05-17">
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<author pid="67/398">Qi Guo</author>
+<author pid="61/4330">Sven Thiel</author>
+<title>Non-overlapping Constraints between Convex Polytopes.</title>
+<pages>392-407</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_27</ee>
+<url>db/conf/cp/cp2001.html#BeldiceanuGT01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChenGS01" mdate="2017-05-17">
+<author pid="83/3627">Hubie Chen</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<title>Formal Models of Heavy-Tailed Behavior in Combinatorial Search.</title>
+<pages>408-421</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_28</ee>
+<url>db/conf/cp/cp2001.html#ChenGS01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ArmandoPR01" mdate="2017-05-17">
+<author pid="a/AArmando">Alessandro Armando</author>
+<author pid="47/2501">Felice Peccia</author>
+<author pid="r/SilvioRanise">Silvio Ranise</author>
+<title>The Phase Transition of the Linear Inequalities Problem.</title>
+<pages>422-432</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_29</ee>
+<url>db/conf/cp/cp2001.html#ArmandoPR01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KolaitisR01" mdate="2017-05-17">
+<author pid="k/PGKolaitis">Phokion G. Kolaitis</author>
+<author pid="64/3115">Thomas Raffill</author>
+<title>In Search of a Phase Transition in the AC-Matching Problem.</title>
+<pages>433-450</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_30</ee>
+<url>db/conf/cp/cp2001.html#KolaitisR01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PetitRB01" mdate="2017-05-17">
+<author pid="84/3969">Thierry Petit</author>
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<title>Specific Filtering Algorithms for Over-Constrained Problems.</title>
+<pages>451-463</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_31</ee>
+<url>db/conf/cp/cp2001.html#PetitRB01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MeseguerS01" mdate="2017-10-26">
+<author pid="96/1119">Pedro Meseguer</author>
+<author pid="13/7991">Mart&#237; S&#225;nchez-Fibla</author>
+<title>Specializing Russian Doll Search.</title>
+<pages>464-478</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_32</ee>
+<url>db/conf/cp/cp2001.html#MeseguerS01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SwainK01" mdate="2017-05-17">
+<author pid="30/615">Martin T. Swain</author>
+<author pid="k/GrahamJLKemp">Graham J. L. Kemp</author>
+<title>A CLP Approach to the Protein Side-Chain Placement Problem.</title>
+<pages>479-493</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_33</ee>
+<url>db/conf/cp/cp2001.html#SwainK01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BackofenW01" mdate="2017-05-17">
+<author pid="b/RolfBackofen">Rolf Backofen</author>
+<author pid="04/2389">Sebastian Will</author>
+<title>Fast, Constraint-Based Threading of HP-Sequences to Hydrophobic Cores.</title>
+<pages>494-508</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_34</ee>
+<url>db/conf/cp/cp2001.html#BackofenW01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HenzTY01" mdate="2017-05-17">
+<author pid="32/6018">Martin Henz</author>
+<author pid="72/3015">Edgar Tan</author>
+<author pid="y/RolandHCYap">Roland H. C. Yap</author>
+<title>One Flip per Clock Cycle.</title>
+<pages>509-523</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_35</ee>
+<url>db/conf/cp/cp2001.html#HenzTY01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MichelRL01" mdate="2017-05-17">
+<author pid="82/3696">Claude Michel</author>
+<author pid="r/MichelRueher">Michel Rueher</author>
+<author pid="25/423">Yahia Lebbah</author>
+<title>Solving Constraints over Floating-Point Numbers.</title>
+<pages>524-538</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_36</ee>
+<url>db/conf/cp/cp2001.html#MichelRL01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JanssenHD01" mdate="2017-05-17">
+<author pid="40/2342">Micha Janssen</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author pid="13/1302">Yves Deville</author>
+<title>Optimal Pruning in Parametric Differential Equations.</title>
+<pages>539-553</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_37</ee>
+<url>db/conf/cp/cp2001.html#JanssenHD01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AzevedoB01" mdate="2017-05-17">
+<author pid="63/1774">Francisco Azevedo</author>
+<author pid="b/PBarahona">Pedro Barahona</author>
+<title>Interaction of Constraint Programming and Local Search for Optimisation Problems.</title>
+<pages>554-559</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_38</ee>
+<url>db/conf/cp/cp2001.html#AzevedoB01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BennaceurA01" mdate="2017-05-17">
+<author pid="75/3739">Hachemi Bennaceur</author>
+<author pid="39/3515">Mohamed-Salah Affane</author>
+<title>Partition-k-AC: An Efficient Filtering Technique Combining Domain Partition and Arc Consistency.</title>
+<pages>560-564</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_39</ee>
+<url>db/conf/cp/cp2001.html#BennaceurA01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BessiereCS01" mdate="2017-05-17">
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<author pid="64/5639">Assef Chmeiss</author>
+<author pid="s/LakhdarSais">Lakhdar Sais</author>
+<title>Neighborhood-Based Variable Ordering Heuristics for the Constraint Satisfaction Problem.</title>
+<pages>565-569</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_40</ee>
+<url>db/conf/cp/cp2001.html#BessiereCS01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Cadoli01" mdate="2017-05-17">
+<author pid="c/MarcoCadoli">Marco Cadoli</author>
+<title>The Expressive Power of Binary Linear Programming.</title>
+<pages>570-574</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_41</ee>
+<url>db/conf/cp/cp2001.html#Cadoli01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ColtonM01" mdate="2017-06-02">
+<author pid="92/6384">Simon Colton</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Constraint Generation via Automated Theory Formation.</title>
+<pages>575-579</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_42</ee>
+<url>db/conf/cp/cp2001.html#ColtonM01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/EastonNT01" mdate="2021-04-09">
+<author pid="27/4099">Kelly Easton</author>
+<author pid="74/2089">George L. Nemhauser</author>
+<author orcid="0000-0002-9357-4681" pid="t/MichaelATrick">Michael A. Trick</author>
+<title>The Traveling Tournament Problem Description and Benchmarks.</title>
+<pages>580-584</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_43</ee>
+<url>db/conf/cp/cp2001.html#EastonNT01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FreuderLW01" mdate="2017-05-17">
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<author pid="04/4146">Chavalit Likitvivatanavong</author>
+<author pid="44/4904">Richard J. Wallace</author>
+<title>Deriving Explanations and Implications for Constraint Satisfaction Problems.</title>
+<pages>585-589</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_44</ee>
+<url>db/conf/cp/cp2001.html#FreuderLW01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FreuderO01" mdate="2017-05-17">
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Generating Tradeoffs for Interactive Constraint-Based Configuration.</title>
+<pages>590-594</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_45</ee>
+<url>db/conf/cp/cp2001.html#FreuderO01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GascaOT01" mdate="2019-11-22">
+<author pid="g/RafaelMGasca">Rafael M. Gasca</author>
+<author pid="11/9837">Juan Antonio Ortega 0001</author>
+<author pid="61/3556">Miguel Toro</author>
+<title>Structural Constraint-Based Modeling and Reasoning with Basic Configuration Cells.</title>
+<pages>595-599</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_46</ee>
+<url>db/conf/cp/cp2001.html#GascaOT01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GranvilliersM01" mdate="2021-02-23">
+<author pid="29/1072">Laurent Granvilliers</author>
+<author pid="29/5834">&#201;ric Monfroy</author>
+<title>Composition Operators for Constraint Propagation: An Application to Choco.</title>
+<pages>600-604</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_47</ee>
+<url>db/conf/cp/cp2001.html#GranvilliersM01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HirschK01" mdate="2017-05-17">
+<author pid="16/2310">Edward A. Hirsch</author>
+<author pid="60/6004">Arist Kojevnikov</author>
+<title>Solving Boolean Satisfiability Using Local Search Guided by Unit Clause Elimination.</title>
+<pages>605-609</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_48</ee>
+<url>db/conf/cp/cp2001.html#HirschK01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KatsirelosB01" mdate="2017-05-17">
+<author pid="61/6509">George Katsirelos</author>
+<author pid="b/FahiemBacchus">Fahiem Bacchus</author>
+<title>GAC on Conjunctions of Constraints.</title>
+<pages>610-614</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_49</ee>
+<url>db/conf/cp/cp2001.html#KatsirelosB01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Smith01" mdate="2017-05-17">
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>Dual Models of Permutation Problems.</title>
+<pages>615-619</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_50</ee>
+<url>db/conf/cp/cp2001.html#Smith01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Solnon01" mdate="2017-05-17">
+<author pid="47/7026">Christine Solnon</author>
+<title>Boosting Local Search with Artificial Ants.</title>
+<pages>620-624</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_51</ee>
+<url>db/conf/cp/cp2001.html#Solnon01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BeekW01" mdate="2017-05-17">
+<author pid="b/PetervanBeek">Peter van Beek</author>
+<author pid="69/2786">Kent D. Wilken</author>
+<title>Fast Optimal Instruction Scheduling for Single-Issue Processors with Arbitrary Latencies.</title>
+<pages>625-639</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_52</ee>
+<url>db/conf/cp/cp2001.html#BeekW01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/EkelinJ01" mdate="2017-05-17">
+<author pid="32/3451">Cecilia Ekelin</author>
+<author pid="20/5509">Jan Jonsson</author>
+<title>Evaluation of Search Heuristics for Embedded System Scheduling Problems.</title>
+<pages>640-654</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_53</ee>
+<url>db/conf/cp/cp2001.html#EkelinJ01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FromherzM01" mdate="2017-05-17">
+<author pid="f/MPJFromherz">Markus P. J. Fromherz</author>
+<author pid="83/1319">James V. Mahoney</author>
+<title>Interpreting Sloppy Stick Figures with Constraint-Based Subgraph Matching.</title>
+<pages>655-669</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_54</ee>
+<url>db/conf/cp/cp2001.html#FromherzM01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/VerfaillieL01" mdate="2017-05-17">
+<author pid="88/2213">G&#233;rard Verfaillie</author>
+<author pid="44/1406">Michel Lema&#238;tre</author>
+<title>Selecting and Scheduling Observations for Agile Satellites: Some Lessons from the Constraint Reasoning Community Point of View.</title>
+<pages>670-684</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_55</ee>
+<url>db/conf/cp/cp2001.html#VerfaillieL01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ModiJTSK01" mdate="2017-05-17">
+<author pid="30/2228">Pragnesh Jay Modi</author>
+<author pid="04/908">Hyuckchul Jung</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="12/144">Wei-Min Shen</author>
+<author pid="97/2003">Shriniwas Kulkarni</author>
+<title>A Dynamic Distributed Constraint Satisfaction Approach to Resource Allocation.</title>
+<pages>685-700</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_56</ee>
+<url>db/conf/cp/cp2001.html#ModiJTSK01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MattioliMJSG01" mdate="2020-10-25">
+<author orcid="0000-0001-9775-2716" pid="75/5937">Juliette Mattioli</author>
+<author pid="58/5253">Nicolas Museux</author>
+<author pid="31/123">Jean Jourdan</author>
+<author pid="02/5876">Pierre Sav&#233;ant</author>
+<author pid="18/1193">Simon de Givry</author>
+<title>A Constraint Optimization Framework for Mapping a Digital Signal Processing Application onto a Parallel Architecture.</title>
+<pages>701-715</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_57</ee>
+<url>db/conf/cp/cp2001.html#MattioliMJSG01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/VoudourisDLL01" mdate="2017-05-17">
+<author pid="55/2185">Christos Voudouris</author>
+<author pid="55/6635">Rapha&#235;l Dorne</author>
+<author pid="90/3690">David Lesaint</author>
+<author pid="79/746">Anne Liret</author>
+<title>iOpt: A Software Toolkit for Heuristic Search Methods.</title>
+<pages>716-719</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_58</ee>
+<url>db/conf/cp/cp2001.html#VoudourisDLL01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MerchezLB01" mdate="2017-05-17">
+<author pid="12/2035">Sylvain Merchez</author>
+<author pid="95/2777">Christophe Lecoutre</author>
+<author pid="01/3426">Fr&#233;d&#233;ric Boussemart</author>
+<title>AbsCon: A Prototype to Solve CSPs with Abstraction.</title>
+<pages>730-744</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_59</ee>
+<url>db/conf/cp/cp2001.html#MerchezLB01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/VanczaM01" mdate="2017-05-17">
+<author pid="82/4974">J&#243;zsef V&#225;ncza</author>
+<author pid="41/1545">Andr&#225;s M&#225;rkus</author>
+<title>A Constraint Engine for Manufacturing Process Planning.</title>
+<pages>745-759</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_60</ee>
+<url>db/conf/cp/cp2001.html#VanczaM01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BeckwithC01" mdate="2017-05-17">
+<author pid="50/4268">Amy M. Beckwith</author>
+<author pid="64/4385">Berthe Y. Choueiry</author>
+<title>On the Dynamic Detection of Interchangeability in Finite Constraint Satisfaction Problems.</title>
+<pages>760</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_61</ee>
+<url>db/conf/cp/cp2001.html#BeckwithC01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Drake01" mdate="2017-05-17">
+<author pid="86/2083">Lyndon Drake</author>
+<title>Automatic Generation of Implied Clauses for SAT.</title>
+<pages>761</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_62</ee>
+<url>db/conf/cp/cp2001.html#Drake01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Fioravanti01" mdate="2017-05-17">
+<author pid="32/2616">Fabio Fioravanti</author>
+<title>Verification of Infinite-State Systems by Specialization of CLP Programs.</title>
+<pages>762</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_63</ee>
+<url>db/conf/cp/cp2001.html#Fioravanti01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Gavanelli01" mdate="2022-01-03">
+<author orcid="0000-0001-7433-5899" pid="15/5240">Marco Gavanelli</author>
+<title>Partially Ordered Constraint Optimization Problems.</title>
+<pages>763</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_64</ee>
+<url>db/conf/cp/cp2001.html#Gavanelli01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Gennari01" mdate="2017-06-02">
+<author orcid="0000-0003-0063-0996" pid="07/3793">Rosella Gennari</author>
+<title>Translations for Comparing Soft Frameworks.</title>
+<pages>764</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_65</ee>
+<url>db/conf/cp/cp2001.html#Gennari01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Harris01" mdate="2017-05-17">
+<author pid="18/4030">Mitchell A. Harris</author>
+<title>Counting Satisfiable k-CNF Formulas.</title>
+<pages>765</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_66</ee>
+<url>db/conf/cp/cp2001.html#Harris01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Hnich01" mdate="2017-05-17">
+<author pid="66/5390">Brahim Hnich</author>
+<title>High-Level Modelling and Reformulation of Constraint Satisfaction Problems.</title>
+<pages>766</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_67</ee>
+<url>db/conf/cp/cp2001.html#Hnich01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Jung01" mdate="2017-05-17">
+<author pid="04/908">Hyuckchul Jung</author>
+<title>Distributed Constraint Satisfaction as a Computational Model of Negotiation via Argumentation.</title>
+<pages>767</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_68</ee>
+<url>db/conf/cp/cp2001.html#Jung01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Kilborn01" mdate="2017-05-17">
+<author pid="77/5237">Erik Kilborn</author>
+<title>Aircraft Assignment Using Constraint Programming.</title>
+<pages>768</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_69</ee>
+<url>db/conf/cp/cp2001.html#Kilborn01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Kiziltan01" mdate="2017-05-17">
+<author pid="54/4901">Zeynep Kiziltan</author>
+<title>Labelling Heuristics for CSP Application Domains.</title>
+<pages>769</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_70</ee>
+<url>db/conf/cp/cp2001.html#Kiziltan01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LynceM01" mdate="2017-05-17">
+<author pid="94/3399">In&#234;s Lynce</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o P. Marques Silva</author>
+<title>Improving SAT Algorithms by Using Search Pruning Techniques.</title>
+<pages>770</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_71</ee>
+<url>db/conf/cp/cp2001.html#LynceM01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/McDonald01" mdate="2017-05-17">
+<author pid="73/312">Iain McDonald</author>
+<title>Optimum Symmetry Breaking in CSPs Using Group Theory.</title>
+<pages>771</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_72</ee>
+<url>db/conf/cp/cp2001.html#McDonald01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BessiereMM01" mdate="2017-05-17">
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<author pid="03/1845">Arnold Maestre</author>
+<author pid="96/1119">Pedro Meseguer</author>
+<title>Distributed Dynamic Backtracking.</title>
+<pages>772</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_73</ee>
+<url>db/conf/cp/cp2001.html#BessiereMM01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Modi01" mdate="2017-05-17">
+<author pid="30/2228">Pragnesh Jay Modi</author>
+<title>Constraint Programming for Distributed Resource Allocation.</title>
+<pages>773</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_74</ee>
+<url>db/conf/cp/cp2001.html#Modi01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Neagu01" mdate="2017-05-17">
+<author pid="25/4811">Nicoleta Neagu</author>
+<title>Exploiting the CSP Structure by Interchangeability.</title>
+<pages>774</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_75</ee>
+<url>db/conf/cp/cp2001.html#Neagu01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Panati01" mdate="2017-05-17">
+<author pid="51/6549">Andrea Panati</author>
+<title>Constraint Processing Techniques for Model-Based Reasoning about Dynamic Systems.</title>
+<pages>776</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_76</ee>
+<url>db/conf/cp/cp2001.html#Panati01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Ringwelski01" mdate="2017-05-17">
+<author pid="06/3938">Georg Ringwelski</author>
+<title>Distributed Constraint Satisfaction with Cooperating Asynchronous Solvers.</title>
+<pages>777</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_77</ee>
+<url>db/conf/cp/cp2001.html#Ringwelski01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RousseauPG01" mdate="2017-05-17">
+<author pid="34/688">Louis-Martin Rousseau</author>
+<author pid="02/6567">Gilles Pesant</author>
+<author pid="08/5862">Michel Gendreau</author>
+<title>Building Negative Reduced Cost Paths Using Constraint Programming.</title>
+<pages>778</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_78</ee>
+<url>db/conf/cp/cp2001.html#RousseauPG01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SalidoB01" mdate="2017-05-17">
+<author pid="50/2495">Miguel A. Salido</author>
+<author pid="60/1527">Federico Barber</author>
+<title>An Incremental and Non-binary CSP Solver: The Hyperpolyhedron Search Algorithm.</title>
+<pages>779</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_79</ee>
+<url>db/conf/cp/cp2001.html#SalidoB01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Schwarz01" mdate="2017-05-17">
+<author pid="69/6208">Sibylle Schwarz</author>
+<title>Partial Stable Generated Models of Generalized Logic Programs with Constraints.</title>
+<pages>781</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_80</ee>
+<url>db/conf/cp/cp2001.html#Schwarz01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Seelisch01" mdate="2017-05-17">
+<author pid="15/6029">Frank Seelisch</author>
+<title>Heterogeneous Constraint Problems.</title>
+<pages>783</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_81</ee>
+<url>db/conf/cp/cp2001.html#Seelisch01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Sheridan01" mdate="2017-05-17">
+<author pid="68/5510">Daniel Sheridan</author>
+<title>Comparing SAT Encodings for Model Checking.</title>
+<pages>784</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_82</ee>
+<url>db/conf/cp/cp2001.html#Sheridan01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SilaghiSSF01" mdate="2017-05-17">
+<author pid="s/MariusCalinSilaghi">Marius-Calin Silaghi</author>
+<author pid="66/1405">Stefan Sabau</author>
+<author pid="s/DjamilaSamHaroud">Djamila Sam-Haroud</author>
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<title>Asynchronous Search for Numeric DisCSPs.</title>
+<pages>785</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_83</ee>
+<url>db/conf/cp/cp2001.html#SilaghiSSF01</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Valencia01" mdate="2017-05-17">
+<author pid="v/FDValencia">Frank D. Valencia</author>
+<title>Temporal Concurrent Constraint Programming.</title>
+<pages>786</pages>
+<year>2001</year>
+<crossref>conf/cp/2001</crossref>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45578-7_84</ee>
+<url>db/conf/cp/cp2001.html#Valencia01</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

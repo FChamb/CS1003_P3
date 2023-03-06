@@ -1,0 +1,823 @@
+<bht key="db/conf/saso/saso2010w.bht" title="Self-Adaptive and Self-Organizing Systems 2010">  
+<h1>4. <ref href="db/conf/saso/index.html">SASO</ref> Workshops 2010:
+Budapest, Hungary</h1> <dblpcites><r><proceedings key="conf/saso/2010w" mdate="2019-10-16">
+<title>Fourth IEEE International Conference on Self-Adaptive and Self-Organizing Systems, SASO 2010, Budapest, Hungary, 27-28 September 2010, Workshops Proceedings</title>
+<booktitle>SASO Workshops</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2010</year>
+<isbn>978-0-7695-4229-4</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/5729428/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/sasow/2010/4229/00/index.html</ee>
+<url>db/conf/saso/saso2010w.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Self-Adaptive Networking Workshop (SAN 2010)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/HorstN10" mdate="2017-05-23">
+<author pid="44/9686">Johannes van der Horst</author>
+<author pid="26/2052">Jason Noble</author>
+<title>Distributed and Centralized Task Allocation: When and Where to Use Them.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.8</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#HorstN10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/TauberKD10" mdate="2022-10-02">
+<author orcid="0000-0002-0003-2243" pid="56/8261">Markus Tauber</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Self-Adaptation Applied to Peer-Set Maintenance in Chord via a Generic Autonomic Management Framework.</title>
+<pages>9-16</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.40</ee>
+<ee>https://www.wikidata.org/entity/Q57728856</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#TauberKD10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/OhnishiTKO10" mdate="2018-11-02">
+<author pid="67/4176">Kei Ohnishi</author>
+<author pid="20/5737">Kazuya Tsukamoto</author>
+<author orcid="0000-0001-9603-8297" pid="75/1036">Shigeru Kashihara</author>
+<author pid="12/3808">Yuji Oie</author>
+<title>Self-configuration of Wireless Access Points Based on Mechanisms of Biological Development and Evolution.</title>
+<pages>17-25</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.9</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#OhnishiTKO10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/HurlingTH10" mdate="2021-10-14">
+<author pid="10/8924">Bj&#246;rn Hurling</author>
+<author pid="58/3801">Sven Tomforde</author>
+<author orcid="0000-0003-0107-264X" pid="49/4583">J&#246;rg H&#228;hner</author>
+<title>A Generic Architecture for Restricted On-line Learning of Network Protocol Parameters.</title>
+<pages>26-33</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.10</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#HurlingTH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/ImaiT10" mdate="2017-05-23">
+<author pid="20/6917">Pierre Imai</author>
+<author pid="45/5727">Christian F. Tschudin</author>
+<title>Practical Online Network Stack Evolution.</title>
+<pages>34-41</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.11</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#ImaiT10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/Sesum-CavicK10a" mdate="2022-11-15">
+<author pid="41/4775">Vesna Sesum-Cavic</author>
+<author pid="k/evaKuhn">Eva K&#252;hn</author>
+<title>Comparing Configurable Parameters of Swarm Intelligence Algorithms for Dynamic Load Balancing.</title>
+<pages>42-49</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.12</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Sesum-CavicK10a</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Workshop on Socio-economics Inspiring Self-Managed Systems and Concepts (SEISMYC 2010)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/Rehm10" mdate="2018-11-30">
+<author orcid="0000-0002-9785-6707" pid="65/1508">Sven-Volker Rehm</author>
+<title>Challenges of Engineering Economic Behavior in Large-Scale, Self-Organizing Infrastructures.</title>
+<pages>50-54</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.13</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Rehm10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/ArnautovicK10" mdate="2018-11-02">
+<author pid="16/6979">Edin Arnautovic</author>
+<author orcid="0000-0002-1133-0529" pid="k/HermannKaindl">Hermann Kaindl</author>
+<title>Towards Self-Managed Systems Aware of Economic Value.</title>
+<pages>55-58</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.14</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#ArnautovicK10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/PletzerR10" mdate="2017-05-23">
+<author pid="25/9815">Felix Pletzer</author>
+<author pid="18/3286">Bernhard Rinner</author>
+<title>Distributed Task Allocation for Visual Sensor Networks: A Market-Based Approach.</title>
+<pages>59-62</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.41</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#PletzerR10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/HadjiantonisE10" mdate="2017-06-05">
+<author pid="h/AntonisHadjiantonis">Antonis Hadjiantonis</author>
+<author orcid="0000-0002-3319-7677" pid="36/4013">Georgios Ellinas</author>
+<title>Towards Autonomic Wireless Networking for the Future Internet.</title>
+<pages>63-66</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.15</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#HadjiantonisE10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/Vallee10" mdate="2021-10-14">
+<author orcid="0000-0002-2965-6818" pid="13/3122">Mathieu Vall&#233;e</author>
+<title>Towards Analysing and Controlling Self-Organising Systems with Socio-economic Principles.</title>
+<pages>67-71</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.16</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Vallee10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/BaumgartenM10" mdate="2020-09-05">
+<author pid="51/4550">Matthias Baumgarten</author>
+<author orcid="0000-0002-1554-0785" pid="08/988">Maurice D. Mulvenna</author>
+<title>Towards Intelligent and Self-Evolving Network Infrastructures for Energy Management.</title>
+<pages>72-75</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.17</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#BaumgartenM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/Stathis10" mdate="2019-10-19">
+<author orcid="0000-0002-9946-4037" pid="92/6043">Kostas Stathis</author>
+<title>Autonomic computing with self-governed super-agents.</title>
+<pages>76-79</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.18</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Stathis10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Spatial Computing Workshop (SCW 2010)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/BanatreAC10" mdate="2017-05-23">
+<author pid="53/6181">Michel Ban&#226;tre</author>
+<author pid="72/7276">Fabien Allard</author>
+<author pid="37/5716">Paul Couderc</author>
+<title>A Spatial Computing Approach for Integrity Checking of Objects Groups.</title>
+<pages>80-84</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.19</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#BanatreAC10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/BaranPS10" mdate="2020-10-25">
+<author pid="15/9815">Jana Baran</author>
+<author pid="12/5054">Pavel Petrovic</author>
+<author orcid="0000-0003-1450-6830" pid="67/5235">Marc Schoenauer</author>
+<title>Cellular Automata with Irregular Structure: A Compact Representation.</title>
+<pages>85-90</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.20</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#BaranPS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/Beal10" mdate="2017-06-05">
+<author orcid="0000-0002-1663-5102" pid="42/1953">Jacob Beal</author>
+<title>A Basis Set of Operators for Space-Time Computations.</title>
+<pages>91-97</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.21</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Beal10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/BigoSM10" mdate="2017-05-23">
+<author pid="54/9815">Louis Bigo</author>
+<author pid="14/3070">Antoine Spicher</author>
+<author pid="54/2290">Olivier Michel</author>
+<title>Spatial Programming for Music Representation and Analysis.</title>
+<pages>98-103</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.22</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#BigoSM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/DuchierDS10" mdate="2017-05-23">
+<author pid="35/3417">Denys Duchier</author>
+<author pid="d/JODurandLose">J&#233;r&#244;me Durand-Lose</author>
+<author pid="89/8820">Maxime Senot</author>
+<title>Massively Parallel Automata in Euclidean Space-Time.</title>
+<pages>104-109</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.23</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#DuchierDS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/SampsonS10" mdate="2022-04-07">
+<author pid="52/9815">Aaron Sampson</author>
+<author orcid="0000-0003-1019-4761" pid="67/2595">Graeme Smith 0001</author>
+<title>Gravity Points in Potential-Field Approaches to Self Organisation.</title>
+<pages>110-115</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.24</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#SampsonS10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Second International Workshop on Quality in Techno-social Systems (QTESO 2010)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/GillXG10" mdate="2018-11-14">
+<author pid="52/5762">Alastair J. Gill</author>
+<author pid="11/9815">Maria Xenitidou</author>
+<author orcid="0000-0002-5937-2410" pid="g/GNigelGilbert">Nigel Gilbert</author>
+<title>Understanding Quality in Science: A Proposal and Exploration.</title>
+<pages>116-121</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.25</ee>
+<ee>https://www.wikidata.org/entity/Q57400751</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#GillXG10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/TaraborelliC10" mdate="2022-10-02">
+<author orcid="0000-0002-0082-8508" pid="25/8277">Dario Taraborelli</author>
+<author orcid="0000-0001-5354-9257" pid="07/8400">Giovanni Luca Ciampaglia</author>
+<title>Beyond Notability. Collective Deliberation on Content Inclusion in Wikipedia.</title>
+<pages>122-125</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.26</ee>
+<ee>https://www.wikidata.org/entity/Q56398018</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#TaraborelliC10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/ChenR10" mdate="2017-08-30">
+<author pid="92/6095">Chih-Chun Chen</author>
+<author pid="63/2186">Camille Roth</author>
+<title>Motivations and Constraints to Member Engagement in Flickr Groups.</title>
+<pages>126-130</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.27</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#ChenR10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/BestenGRD10" mdate="2022-04-29">
+<author orcid="0000-0002-4361-4278" pid="74/1900">Matthijs den Besten</author>
+<author pid="58/1465">Loris Gaio</author>
+<author orcid="0000-0002-2226-2146" pid="13/2932-1">Alessandro Rossi 0001</author>
+<author pid="95/3385">Jean-Michel Dalle</author>
+<title>Using Metadata Signals to Support Stigmergy.</title>
+<pages>131-135</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.28</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#BestenGRD10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Self-Organisation in Pervasive Adaptive Systems (PerAda 2010)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/BertolottiCLRTS10" mdate="2017-06-15">
+<author pid="98/3732">Gian Mario Bertolotti</author>
+<author pid="90/998">Andrea Cristiani</author>
+<author pid="22/9722">Remo Lombardi</author>
+<author pid="14/3590">Marko Ribaric</author>
+<author orcid="0000-0002-6620-479X" pid="67/8634">Nikola Tomasevic</author>
+<author pid="25/6983">Mladen Stanojevic</author>
+<title>Self-Adaptive Prototype for Seat Adaption.</title>
+<pages>136-141</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.29</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#BertolottiCLRTS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/CristianiPGBS10" mdate="2017-05-23">
+<author pid="90/998">Andrea Cristiani</author>
+<author pid="95/1972">Marco Porta</author>
+<author pid="40/9815">Davide Gandini</author>
+<author pid="98/3732">Gian Mario Bertolotti</author>
+<author pid="04/6467">Nikola B. Serbedzija</author>
+<title>Driver Drowsiness Identification by Means of Passive Techniques for Eye Detection and Tracking.</title>
+<pages>142-146</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.30</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#CristianiPGBS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/EibenKH10" mdate="2017-06-05">
+<author pid="e/AEEiben">A. E. Eiben</author>
+<author pid="94/8570">Giorgos Karafotias</author>
+<author orcid="0000-0001-6352-8265" pid="03/6565">Evert Haasdijk</author>
+<title>Self-Adaptive Mutation in On-line, On-board Evolutionary Robotics.</title>
+<pages>147-152</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.31</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#EibenKH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/StuiverMBWD10" mdate="2017-06-05">
+<author pid="45/9815">Arjan Stuiver</author>
+<author pid="64/4771">L. J. M. Mulder</author>
+<author pid="120/9781">Karel A. Brookhuis</author>
+<author orcid="0000-0003-0262-4573" pid="120/9815">Dick de Waard</author>
+<author pid="120/9935">Chris Dijksterhuis</author>
+<title>Adaptive Task Support Based on Dynamic Human State Estimation.</title>
+<pages>153-158</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.32</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#StuiverMBWD10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Trustworthy Self-Organizing Systems (TSOS 2010)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/Josang10" mdate="2017-05-23">
+<author pid="j/AudunJosang">Audun J&#248;sang</author>
+<title>Robustness of Trust and Reputation Systems.</title>
+<pages>159</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.33</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Josang10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/CrapanzanoMPR10" mdate="2017-06-05">
+<author pid="17/9815">Calogero Crapanzano</author>
+<author orcid="0000-0002-9061-385X" pid="41/9815">Fabrizio Milazzo</author>
+<author orcid="0000-0002-7340-1847" pid="32/6543">Alessandra De Paola</author>
+<author orcid="0000-0002-8217-2230" pid="24/6170">Giuseppe Lo Re</author>
+<title>Reputation Management for Distributed Service-Oriented Architectures.</title>
+<pages>160-165</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.34</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#CrapanzanoMPR10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/EderS10" mdate="2022-04-07">
+<author pid="60/9815">Sebastian Eder</author>
+<author orcid="0000-0003-1019-4761" pid="67/2595">Graeme Smith 0001</author>
+<title>An Approach to Formal Verification of Free-Flight Separation.</title>
+<pages>166-171</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.35</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#EderS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/SandersS10" mdate="2022-04-07">
+<author pid="s/JeffWSanders">Jeff W. Sanders</author>
+<author orcid="0000-0003-1019-4761" pid="67/2595">Graeme Smith 0001</author>
+<title>Assuring Adaptive Behaviour in Self-Organising Systems.</title>
+<pages>172-177</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.36</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#SandersS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/KlejnowskiBHM10" mdate="2021-10-14">
+<author pid="17/7923">Lukas Klejnowski</author>
+<author pid="50/7923">Yvonne Bernard</author>
+<author orcid="0000-0003-0107-264X" pid="49/4583">J&#246;rg H&#228;hner</author>
+<author pid="35/873">Christian M&#252;ller-Schloer</author>
+<title>An Architecture for Trust-Adaptive Agents.</title>
+<pages>178-183</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.37</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#KlejnowskiBHM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/KiefhaberSSRU10" mdate="2017-07-14">
+<author pid="80/8725">Rolf Kiefhaber</author>
+<author pid="27/1529">Benjamin Satzger</author>
+<author pid="89/9649">Julia Schmitt</author>
+<author pid="63/765-2">Michael Roth 0002</author>
+<author pid="u/TheoUngerer">Theo Ungerer</author>
+<title>The Delayed Ack Method to Measure Trust in Organic Computing Systems.</title>
+<pages>184-189</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.38</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#KiefhaberSSRU10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/SteghoferNRBKHM10" mdate="2022-10-02">
+<author orcid="0000-0003-1694-0972" pid="16/7127">Jan-Philipp Stegh&#246;fer</author>
+<author orcid="0000-0001-5725-4827" pid="49/3906">Florian Nafz</author>
+<author orcid="0000-0002-4086-0043" pid="r/WolfgangReif">Wolfgang Reif</author>
+<author pid="50/7923">Yvonne Bernard</author>
+<author pid="17/7923">Lukas Klejnowski</author>
+<author orcid="0000-0003-0107-264X" pid="49/4583">J&#246;rg H&#228;hner</author>
+<author pid="35/873">Christian M&#252;ller-Schloer</author>
+<title>Formal Specification and Analysis of Trusted Communities.</title>
+<pages>190-195</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.39</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#SteghoferNRBKHM10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Spatial Computing Workshop (SCW 2009)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/SpicherMG10" mdate="2017-06-05">
+<author pid="14/3070">Antoine Spicher</author>
+<author pid="54/2290">Olivier Michel</author>
+<author orcid="0000-0002-3964-9080" pid="33/5864">Jean-Louis Giavitto</author>
+<title>Spatial Computing as Intensional Data Parallelism.</title>
+<pages>196-205</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.73</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.73</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#SpicherMG10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/Beal10a" mdate="2017-06-05">
+<author orcid="0000-0002-1663-5102" pid="42/1953">Jacob Beal</author>
+<title>Dynamically Defined Processes for Spatial Computers.</title>
+<pages>206-211</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.74</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Beal10a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/ViroliCMZ10" mdate="2018-11-14">
+<author orcid="0000-0003-2702-5702" pid="v/MirkoViroli">Mirko Viroli</author>
+<author pid="55/6442">Matteo Casadei</author>
+<author orcid="0000-0001-5390-4319" pid="20/1025">Sara Montagna</author>
+<author orcid="0000-0002-6837-8806" pid="54/3140">Franco Zambonelli</author>
+<title>Spatial Coordination of Pervasive Systems through Chemical-Inspired Tuple Spaces.</title>
+<pages>212-217</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.75</ee>
+<ee>https://www.wikidata.org/entity/Q58194478</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#ViroliCMZ10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/RobertsonL10" mdate="2020-12-11">
+<author pid="46/4547-1">Paul Robertson 0001</author>
+<author pid="11/3786">Robert Laddaga</author>
+<title>A Biologically Inspired Spatial Computer That Learns to See and Act.</title>
+<pages>218-223</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.79</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.79</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#RobertsonL10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Architectures and Languages for Self-Managing Distributed Systems (Self-Man 2009)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/SchuttRSH10" mdate="2017-05-23">
+<author pid="25/4224">Thorsten Sch&#252;tt</author>
+<author pid="33/2904">Alexander Reinefeld</author>
+<author pid="s/FlorianSchintke">Florian Schintke</author>
+<author pid="67/1113">Christian Hennig</author>
+<title>Self-Adaptation in Large-Scale Systems: A Study on Structured Overlays across Multiple Datacenters.</title>
+<pages>224-228</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.65</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#SchuttRSH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/HogqvistP10" mdate="2017-05-23">
+<author pid="28/4211">Mikael H&#246;gqvist</author>
+<author pid="93/3568">Stefan Plantikow</author>
+<title>Towards Explicit Data Placement in Scalable Key/Value Stores.</title>
+<pages>229-233</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.66</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#HogqvistP10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/MejiasR10" mdate="2017-05-23">
+<author pid="44/1509">Boris Mej&#237;as</author>
+<author pid="r/PVRoy">Peter Van Roy</author>
+<title>From Mini-clouds to Cloud Computing.</title>
+<pages>234-238</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.67</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#MejiasR10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/Andrzejak10" mdate="2020-02-24">
+<author pid="00/336">Artur Andrzejak 0001</author>
+<title>Generic Self-Healing via Rejuvenation: Challenges, Status Quo, and Solutions.</title>
+<pages>239-242</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.68</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.68</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Andrzejak10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/AradSH10" mdate="2017-05-23">
+<author pid="97/7635">Cosmin Arad</author>
+<author pid="35/4382">Tallat M. Shafaat</author>
+<author pid="h/SeifHaridi">Seif Haridi</author>
+<title>Self-Distributing Software Updates through Epidemic Dissemination.</title>
+<pages>243-246</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.69</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#AradSH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/HalimWY10" mdate="2017-05-23">
+<author pid="38/648">Felix Halim</author>
+<author pid="61/908">Yongzheng Wu</author>
+<author pid="y/RolandHCYap">Roland H. C. Yap</author>
+<title>Routing in the Watts and Strogatz Small World Networks Revisited.</title>
+<pages>247-250</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.70</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.70</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#HalimWY10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/CidMHMJ10" mdate="2020-10-25">
+<author pid="15/9579">Pedro Javier del Cid</author>
+<author pid="63/2205">Nelson Matthys</author>
+<author pid="h/DannyHughes">Danny Hughes 0001</author>
+<author orcid="0000-0002-3866-5425" pid="62/5938">Sam Michiels</author>
+<author pid="13/86">Wouter Joosen</author>
+<title>Resource Management Middleware to Support Self Managing Wireless Sensor Networks.</title>
+<pages>251-255</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.71</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#CidMHMJ10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/BaoAV10" mdate="2018-11-02">
+<author pid="35/9815">Lin Bao</author>
+<author orcid="0000-0002-9546-4937" pid="91/7560">Ahmad Al-Shishtawy</author>
+<author orcid="0000-0002-6779-7435" pid="47/1386">Vladimir Vlassov</author>
+<title>Policy Based Self-Management in Distributed Environments.</title>
+<pages>256-260</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.72</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.72</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#BaoAV10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Metareasoning in Self-Adaptive Systems (Metareasoning 2009)</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/JosyulaHVDMSMKM10" mdate="2017-05-23">
+<author pid="80/511">Darsana P. Josyula</author>
+<author pid="71/9321">Franklin C. Hughes</author>
+<author pid="47/1185">Harish Vadali</author>
+<author pid="17/9324">Bette J. Donahue</author>
+<author pid="07/9815">Fassil Molla</author>
+<author pid="61/9815">Michelle Snowden</author>
+<author pid="04/9815">Jalissa Miles</author>
+<author pid="37/9815">Ahmed Kamara</author>
+<author pid="06/9815">Chinomnso Maduka</author>
+<title>Metacognition for Self-Regulated Learning in a Dynamic Environment.</title>
+<pages>261-268</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.55</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#JosyulaHVDMSMKM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/Morgan10" mdate="2017-05-23">
+<author pid="94/1660">Bo Morgan</author>
+<title>Funk2: A Distributed Processing Language for Reflective Tracing of a Large Critic-Selector Cognitive Architecture.</title>
+<pages>269-274</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.56</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Morgan10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/RobertsonL10a" mdate="2020-12-11">
+<author pid="46/4547-1">Paul Robertson 0001</author>
+<author pid="11/3786">Robert Laddaga</author>
+<title>Metareasoning Based Self Adaptive Tracking.</title>
+<pages>275-281</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.57</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#RobertsonL10a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/MuslinerG10" mdate="2017-05-23">
+<author pid="m/DavidJMusliner">David J. Musliner</author>
+<author pid="93/2423">Robert P. Goldman</author>
+<title>Priority-Based Meta-control within Hierarchical Task Network Planning.</title>
+<pages>282-286</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.58</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#MuslinerG10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/McLaughlanH10" mdate="2017-05-23">
+<author pid="78/3628">Brian McLaughlan</author>
+<author pid="04/580">Henry Hexmoor</author>
+<title>Influencing Massive Multi-agent Systems via Viral Trait Spreading.</title>
+<pages>287-292</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.59</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#McLaughlanH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/JonesG10" mdate="2017-05-23">
+<author pid="10/2330">Joshua Jones</author>
+<author pid="g/AshokKGoel">Ashok K. Goel 0001</author>
+<title>Metareasoning-Based Learning for Classification Hierarchies.</title>
+<pages>293-299</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.60</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#JonesG10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/BursteinBFLR10" mdate="2020-12-11">
+<author pid="12/737">Mark H. Burstein</author>
+<author pid="89/2766">Robert J. Bobrow</author>
+<author pid="64/2975">William Ferguson</author>
+<author pid="11/3786">Robert Laddaga</author>
+<author pid="46/4547-1">Paul Robertson 0001</author>
+<title>Learning from Observing: Vision and POIROT - Using Metareasoning for Self Adaptation.</title>
+<pages>300-307</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.61</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#BursteinBFLR10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Metareasoning 2009 Position Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/saso/Eilbert09" mdate="2017-05-23">
+<author pid="86/2437">James Eilbert</author>
+<title>Prediction and Metacognition.</title>
+<pages>308-311</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.62</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Eilbert09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/Mason09" mdate="2017-05-23">
+<author pid="14/9815">Cindy Mason</author>
+<title>The Logical Road to Human Level AI Leads to a Dead End.</title>
+<pages>312-316</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.63</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#Mason09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/saso/BruecknerP09" mdate="2017-05-23">
+<author pid="b/SvenBrueckner">Sven A. Brueckner</author>
+<author pid="p/HVDParunak">H. Van Dyke Parunak</author>
+<title>Applying Metareasoning to Swarming Systems: Approaches and Architectures.</title>
+<pages>317-322</pages>
+<year>2010</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2010.64</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SASOW.2010.64</ee>
+<crossref>conf/saso/2010w</crossref>
+<url>db/conf/saso/saso2010w.html#BruecknerP09</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

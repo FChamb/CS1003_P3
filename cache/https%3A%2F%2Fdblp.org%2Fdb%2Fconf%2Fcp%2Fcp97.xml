@@ -1,0 +1,579 @@
+<bht key="db/conf/cp/cp97.bht" title="3. CP 1997: Linz, Austria"> 
+
+<h1>3. <ref href="db/conf/cp/index.html">CP</ref> 1997:
+Linz, Austria</h1>
+<dblpcites><r><proceedings key="conf/cp/1997" mdate="2019-05-14">
+<editor pid="s/GertSmolka">Gert Smolka</editor>
+<title>Principles and Practice of Constraint Programming - CP97, Third International Conference, Linz, Austria, October 29 - November 1, 1997, Proceedings</title>
+<booktitle>CP</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1330</volume>
+<publisher>Springer</publisher>
+<year>1997</year>
+<ee>https://doi.org/10.1007/BFb0017424</ee>
+<url>db/conf/cp/cp97.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Invited Talk</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Hentenryck97" mdate="2017-05-17">
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>A Modeling Language for Constraint Programming.</title>
+<pages>1</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#Hentenryck97</url>
+<ee>https://doi.org/10.1007/BFb0017425</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 1</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Bleuzen-GuernalecC97" mdate="2017-05-17">
+<author pid="76/4289">No&#235;lle Bleuzen-Guernalec</author>
+<author pid="c/AColmerauer">Alain Colmerauer</author>
+<title>Narrowing a Block of Sortings in Quadratic Time.</title>
+<pages>2-16</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#Bleuzen-GuernalecC97</url>
+<ee>https://doi.org/10.1007/BFb0017426</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CaseauL97" mdate="2017-05-17">
+<author pid="c/YvesCaseau">Yves Caseau</author>
+<author pid="34/2548">Fran&#231;ois Laburthe</author>
+<title>Solving Various Weighted Matching Problems with Constraints.</title>
+<pages>17-31</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#CaseauL97</url>
+<ee>https://doi.org/10.1007/BFb0017427</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ReginP97" mdate="2017-05-17">
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<author pid="p/JFPuget">Jean-Francois Puget</author>
+<title>A Filtering Algorithm for Global Sequencing Constraints.</title>
+<pages>32-46</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#ReginP97</url>
+<ee>https://doi.org/10.1007/BFb0017428</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 2a</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BoerGM97" mdate="2022-10-02">
+<author pid="b/DSsBoer">Frank S. de Boer</author>
+<author orcid="0000-0003-0609-8662" pid="g/MGabbrielli">Maurizio Gabbrielli</author>
+<author orcid="0000-0002-3700-3788" pid="m/MariaChiaraMeo">Maria Chiara Meo</author>
+<title>Semantics and Expressive Power of a Timed Concurrent Constraint Language.</title>
+<pages>47-61</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#BoerGM97</url>
+<ee>https://doi.org/10.1007/BFb0017429</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DevienneTT97" mdate="2017-06-15">
+<author pid="d/PDevienne">Philippe Devienne</author>
+<author pid="t/JMTalbot">Jean-Marc Talbot</author>
+<author orcid="0000-0002-8426-6230" pid="t/SophieTison">Sophie Tison</author>
+<title>Solving Classes of Set Constraints with Tree Automata.</title>
+<pages>62-76</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#DevienneTT97</url>
+<ee>https://doi.org/10.1007/BFb0017430</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentU97" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="25/2855">Judith L. Underwood</author>
+<title>The Logic of Search Algorithms: Theory and Applications.</title>
+<pages>77-91</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#GentU97</url>
+<ee>https://doi.org/10.1007/BFb0017431</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Melzer97" mdate="2017-05-17">
+<author pid="m/StephanMelzer">Stephan Melzer</author>
+<title>Verification of Parallel Systems using Constraint Programming.</title>
+<pages>92-106</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#Melzer97</url>
+<ee>https://doi.org/10.1007/BFb0017432</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 2b</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AchlioptasKKKMS97" mdate="2021-10-14">
+<author pid="34/4066">Dimitris Achlioptas</author>
+<author pid="17/3093">Lefteris M. Kirousis</author>
+<author pid="k/EvangelosKranakis">Evangelos Kranakis</author>
+<author pid="k/DannyKrizanc">Danny Krizanc</author>
+<author pid="m/MichaelMolloy">Michael S. O. Molloy</author>
+<author orcid="0000-0002-8925-9427" pid="32/1478">Yannis C. Stamatiou</author>
+<title>Random Constraint Satisfaction: A More Accurate Picture.</title>
+<pages>107-120</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#AchlioptasKKKMS97</url>
+<ee>https://doi.org/10.1007/BFb0017433</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GomesSC97" mdate="2017-05-17">
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<author pid="64/5650">Nuno Crato</author>
+<title>Heavy-Tailed Distributions in Combinatorial Search.</title>
+<pages>121-135</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#GomesSC97</url>
+<ee>https://doi.org/10.1007/BFb0017434</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Istrate97" mdate="2017-05-17">
+<author pid="35/5367">Gabriel Istrate</author>
+<title>Counting, Structure Identification and Maximum Consistency for Binary Constraint Satisfaction Problems.</title>
+<pages>136-149</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#Istrate97</url>
+<ee>https://doi.org/10.1007/BFb0017435</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RishF97" mdate="2017-05-17">
+<author pid="r/IrinaRish">Irina Rish</author>
+<author pid="27/2812">Daniel Frost</author>
+<title>Statistical Analysis of Backtracking on Inconsistent CSPs.</title>
+<pages>150-162</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#RishF97</url>
+<ee>https://doi.org/10.1007/BFb0017436</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Tutorial</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Caseau97" mdate="2017-05-17">
+<author pid="c/YvesCaseau">Yves Caseau</author>
+<title>Using Constraint Propagation for Complex Scheduling Problems: Managing Size, Complex Resources and Travel.</title>
+<pages>163-166</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#Caseau97</url>
+<ee>https://doi.org/10.1007/BFb0017437</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 3</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/SabinF97" mdate="2017-05-17">
+<author pid="66/6137">Daniel Sabin</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Understanding and Improving the MAC Algorithm.</title>
+<pages>167-181</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#SabinF97</url>
+<ee>https://doi.org/10.1007/BFb0017438</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SmithG97" mdate="2017-05-17">
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="91/3831">Stuart A. Grant</author>
+<title>Modelling Exceptionally Hard Constraint Satisfaction Problems.</title>
+<pages>182-195</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#SmithG97</url>
+<ee>https://doi.org/10.1007/BFb0017439</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 4</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/GalinierH97" mdate="2017-05-17">
+<author pid="22/1674">Philippe Galinier</author>
+<author pid="h/JinKaoHao">Jin-Kao Hao</author>
+<title>Tabu Search for Maximal Constraint Satisfaction Problems.</title>
+<pages>196-208</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#GalinierH97</url>
+<ee>https://doi.org/10.1007/BFb0017440</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HamadiM97" mdate="2017-05-17">
+<author pid="16/6871">Youssef Hamadi</author>
+<author pid="93/682">David Merceron</author>
+<title>Reconfigurable Architectures: A New Vision for Optimization Problems.</title>
+<pages>209-221</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#HamadiM97</url>
+<ee>https://doi.org/10.1007/BFb0017441</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HirayamaY97" mdate="2017-05-17">
+<author pid="h/KatsutoshiHirayama">Katsutoshi Hirayama</author>
+<author pid="32/2416">Makoto Yokoo</author>
+<title>Distributed Partial Constraint Satisfaction Problem.</title>
+<pages>222-236</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#HirayamaY97</url>
+<ee>https://doi.org/10.1007/BFb0017442</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MichelH97" mdate="2017-05-17">
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Localizer: A Modeling Language for Local Search.</title>
+<pages>237-251</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#MichelH97</url>
+<ee>https://doi.org/10.1007/BFb0017443</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 5a</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Abdennadher97" mdate="2017-05-17">
+<author pid="a/SlimAbdennadher">Slim Abdennadher</author>
+<title>Operational Semantics and Confluence of Constraint Propagation Rules.</title>
+<pages>252-266</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#Abdennadher97</url>
+<ee>https://doi.org/10.1007/BFb0017444</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BoudetC97" mdate="2017-05-17">
+<author pid="63/3758">Alexandre Boudet</author>
+<author pid="99/5593">Evelyne Contejean</author>
+<title>AC-Unification of Higher-Order Patterns.</title>
+<pages>267-281</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#BoudetC97</url>
+<ee>https://doi.org/10.1007/BFb0017445</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HermannK97" mdate="2017-05-17">
+<author pid="h/MikiHermann">Miki Hermann</author>
+<author pid="k/PGKolaitis">Phokion G. Kolaitis</author>
+<title>On the Complexity of Unification and Disunification in Commutative Idempotent Semigroups.</title>
+<pages>282-296</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#HermannK97</url>
+<ee>https://doi.org/10.1007/BFb0017446</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MullerNP97" mdate="2017-05-17">
+<author pid="m/MartinMuller1">Martin M&#252;ller 0001</author>
+<author pid="n/JNiehren">Joachim Niehren</author>
+<author pid="p/APodelski">Andreas Podelski</author>
+<title>Ordering Constraints over Feature Trees.</title>
+<pages>297-311</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#MullerNP97</url>
+<ee>https://doi.org/10.1007/BFb0017447</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 5b</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/DebruyneB97" mdate="2017-05-17">
+<author pid="30/847">Romuald Debruyne</author>
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<title>From Restricted Path Consistency to Max-Restricted Path Consistency.</title>
+<pages>312-326</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#DebruyneB97</url>
+<ee>https://doi.org/10.1007/BFb0017448</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentMPW97" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Constrainedness of Arc Consistency.</title>
+<pages>327-340</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#GentMPW97</url>
+<ee>https://doi.org/10.1007/BFb0017449</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LiA97" mdate="2017-05-17">
+<author pid="35/5239">Chu Min Li</author>
+<author pid="a/Anbulagan">Anbulagan</author>
+<title>Look-Ahead Versus Look-Back for Satisfiability Problems.</title>
+<pages>341-355</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#LiA97</url>
+<ee>https://doi.org/10.1007/BFb0017450</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Yokoo97" mdate="2017-05-17">
+<author pid="32/2416">Makoto Yokoo</author>
+<title>Why Adding More Constraints Makes a Problem Easier for Hill-climbing Algorithms: Analyzing Landscapes of CSPs.</title>
+<pages>356-370</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#Yokoo97</url>
+<ee>https://doi.org/10.1007/BFb0017451</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Tutorial</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/MichelP97" mdate="2017-05-17">
+<author pid="m/LaurentDMichel">Laurent Michel</author>
+<author pid="p/JFPuget">Jean-Francois Puget</author>
+<title>Interval Methods for Non-linear Constraints.</title>
+<pages>371</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#MichelP97</url>
+<ee>https://doi.org/10.1007/BFb0017452</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Invited Talk</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Minton97" mdate="2017-05-17">
+<author pid="m/SMinton">Steven Minton</author>
+<title>Configurable Solvers: Tailoring General Methods to Specific Applications.</title>
+<pages>372-374</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#Minton97</url>
+<ee>https://doi.org/10.1007/BFb0017453</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 6</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BaptisteP97" mdate="2017-05-17">
+<author pid="68/3558">Philippe Baptiste</author>
+<author pid="84/1556">Claude Le Pape</author>
+<title>Constraint Propagation and Decomposition Techniques for Highly Disjunctive and Highly Cumulative Project Scheduling Problems.</title>
+<pages>375-389</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#BaptisteP97</url>
+<ee>https://doi.org/10.1007/BFb0017454</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BeckDF97" mdate="2017-05-17">
+<author pid="43/2165">J. Christopher Beck</author>
+<author pid="68/5444">Andrew J. Davenport</author>
+<author pid="57/2926">Mark S. Fox</author>
+<title>Five Pitfalls of Empirical Scheduling Research.</title>
+<pages>390-404</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#BeckDF97</url>
+<ee>https://doi.org/10.1007/BFb0017455</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GivryVS97" mdate="2017-05-17">
+<author pid="18/1193">Simon de Givry</author>
+<author pid="88/2213">G&#233;rard Verfaillie</author>
+<author pid="87/6848">Thomas Schiex</author>
+<title>Bounding the Optimum of Constraint Optimization Problems.</title>
+<pages>405-419</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#GivryVS97</url>
+<ee>https://doi.org/10.1007/BFb0017456</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PesantGR97" mdate="2017-05-17">
+<author pid="02/6567">Gilles Pesant</author>
+<author pid="08/5862">Michel Gendreau</author>
+<author pid="13/1441">Jean-Marc Rousseau</author>
+<title>GENIUS-CP: a Generic Single-Vehicle Routing Algorithm.</title>
+<pages>420-434</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#PesantGR97</url>
+<ee>https://doi.org/10.1007/BFb0017457</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 7a</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BettiniWJ97" mdate="2017-05-17">
+<author pid="b/CBettini">Claudio Bettini</author>
+<author pid="w/XiaoyangSeanWang">Xiaoyang Sean Wang</author>
+<author pid="j/SushilJajodia">Sushil Jajodia</author>
+<title>Satisfiability of Quantitative Temporal Constraints with Multiple Granularities.</title>
+<pages>435-449</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#BettiniWJ97</url>
+<ee>https://doi.org/10.1007/BFb0017458</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GrumbachK97" mdate="2017-05-17">
+<author pid="g/SGrumbach">St&#233;phane Grumbach</author>
+<author pid="71/4080">Gabriel M. Kuper</author>
+<title>Tractable Recursion over Geometric Data.</title>
+<pages>450-462</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#GrumbachK97</url>
+<ee>https://doi.org/10.1007/BFb0017459</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HoffmannLS97" mdate="2017-05-17">
+<author pid="h/ChristophMHoffmann">Christoph M. Hoffmann</author>
+<author pid="87/4179">Andrew Lomonosov</author>
+<author pid="87/1542">Meera Sitharam</author>
+<title>Finding Solvable Subsets of Constraint Graphs.</title>
+<pages>463-477</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#HoffmannLS97</url>
+<ee>https://doi.org/10.1007/BFb0017460</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CohenJK97" mdate="2019-06-17">
+<author pid="50/3733">David A. Cohen</author>
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Tractable Disjunctive Constraints.</title>
+<pages>478-490</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#CohenJK97</url>
+<ee>https://doi.org/10.1007/BFb0017461</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 7b</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/HarveySB97" mdate="2017-05-17">
+<author pid="17/2640">Warwick Harvey</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="b/AlanBorning">Alan Borning</author>
+<title>Compiling Constraint Solving using Projection.</title>
+<pages>491-505</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#HarveySB97</url>
+<ee>https://doi.org/10.1007/BFb0017462</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LabatM97" mdate="2017-05-17">
+<author pid="75/5279">Jean-Marc Labat</author>
+<author pid="13/83">Laurent Mynard</author>
+<title>Oscillation, Heuristic Ordering and Pruning in Neighborhood Search.</title>
+<pages>506-518</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#LabatM97</url>
+<ee>https://doi.org/10.1007/BFb0017463</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Schulte97" mdate="2017-12-26">
+<author pid="s/ChristianSchulte">Christian Schulte 0001</author>
+<title>Programming Constraint Inference Engines.</title>
+<pages>519-533</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#Schulte97</url>
+<ee>https://doi.org/10.1007/BFb0017464</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ShvetsovU97" mdate="2017-05-17">
+<author pid="94/2295">Igor Shvetsov</author>
+<author pid="86/2095">Vitaly Telerman</author>
+<author pid="56/2827">Dmitry Ushakov</author>
+<title>NeMo+: Object-Oriented Constraint Programming Environment Based on Subdefinite Models.</title>
+<pages>534-548</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#ShvetsovU97</url>
+<ee>https://doi.org/10.1007/BFb0017465</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Tutorial</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/PacholskiP97" mdate="2017-05-17">
+<author pid="p/LPacholski">Leszek Pacholski</author>
+<author pid="p/APodelski">Andreas Podelski</author>
+<title>Set Constraints: A Pearl in Research on Constraints.</title>
+<pages>549-562</pages>
+<year>1997</year>
+<crossref>conf/cp/1997</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp97.html#PacholskiP97</url>
+<ee>https://doi.org/10.1007/BFb0017466</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

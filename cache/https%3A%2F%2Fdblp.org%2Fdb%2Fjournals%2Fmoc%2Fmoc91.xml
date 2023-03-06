@@ -1,0 +1,1365 @@
+<bht key="db/journals/moc/moc91.bht" title="Mathematics of Computation, Volume 91"> 
+<h1><ref href="db/journals/moc/index.html">Mathematics of Computation</ref>, Volume 91</h1> 
+<h2>Volume 91, Number 333, 2022</h2> <dblpcites><r style="ee"><article key="journals/moc/CangianiDG22" mdate="2022-01-14">
+<author pid="82/9300">Andrea Cangiani</author>
+<author pid="205/4284">Zhaonan Dong</author>
+<author pid="04/872">Emmanuil H. Georgoulis</author>
+<title>hp-version discontinuous Galerkin methods on essentially arbitrarily-shaped elements.</title>
+<pages>1-35</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3667</ee>
+<url>db/journals/moc/moc91.html#CangianiDG22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Chaumont-Frelet22" mdate="2022-01-14">
+<author pid="150/1112">Th&#233;ophile Chaumont-Frelet</author>
+<author pid="29/337">Alexandre Ern</author>
+<author pid="81/3931">Martin Vohral&#237;k</author>
+<title>Stable broken H(curl) polynomial extensions and p-robust a posteriori error estimates by broken patchwise equilibration for the curl-curl problem.</title>
+<pages>37-74</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3673</ee>
+<url>db/journals/moc/moc91.html#Chaumont-Frelet22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/HuM22" mdate="2022-01-14">
+<author pid="28/441">Jun Hu</author>
+<author pid="68/1060">Limin Ma</author>
+<title>Asymptotic expansions of eigenvalues by both the Crouzeix-Raviart and enriched Crouzeix-Raviart elements.</title>
+<pages>75-109</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3635</ee>
+<url>db/journals/moc/moc91.html#HuM22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/LiN22" mdate="2022-01-14">
+<author pid="51/3185">Wenbo Li</author>
+<author pid="40/5053">Ricardo H. Nochetto</author>
+<title>Two-scale methods for convex envelopes.</title>
+<pages>111-139</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3521</ee>
+<url>db/journals/moc/moc91.html#LiN22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/LiSL22" mdate="2022-12-07">
+<author pid="181/1845">Xiaoli Li 0008</author>
+<author orcid="0000-0002-4885-5732" pid="32/1203-1">Jie Shen 0001</author>
+<author pid="28/2241">Zhengguang Liu</author>
+<title>New SAV-pressure correction methods for the Navier-Stokes equations: stability and error analysis.</title>
+<pages>141-167</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3651</ee>
+<url>db/journals/moc/moc91.html#LiSL22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/OstermannRS22" mdate="2022-04-09">
+<author orcid="0000-0003-0194-2481" pid="60/404">Alexander Ostermann</author>
+<author pid="159/8643">Fr&#233;d&#233;ric Rousset</author>
+<author pid="128/5453">Katharina Schratz</author>
+<title>Error estimates at low regularity of splitting schemes for NLS.</title>
+<pages>169-182</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3676</ee>
+<url>db/journals/moc/moc91.html#OstermannRS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Fuhrer22" mdate="2022-01-14">
+<author pid="03/813">Thomas F&#252;hrer</author>
+<title>Multilevel decompositions and norms for negative order Sobolev spaces.</title>
+<pages>183-218</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3674</ee>
+<url>db/journals/moc/moc91.html#Fuhrer22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/LiC22" mdate="2022-01-14">
+<author pid="66/190">Chao Li</author>
+<author pid="20/3215">Xiaojun Chen</author>
+<title>Isotropic non-Lipschitz regularization for sparse representations of random fields on the sphere.</title>
+<pages>219-243</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3655</ee>
+<url>db/journals/moc/moc91.html#LiC22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/KaltenbacherR22" mdate="2022-06-23">
+<author orcid="0000-0002-3295-6977" pid="89/1899">Barbara Kaltenbacher</author>
+<author pid="58/3501">William Rundell</author>
+<title>On an inverse problem of nonlinear imaging with fractional damping.</title>
+<pages>245-276</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3683</ee>
+<url>db/journals/moc/moc91.html#KaltenbacherR22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/HasanalizadeSW22" mdate="2022-01-14">
+<author pid="310/8642">Elchin Hasanalizade</author>
+<author pid="310/8186">Quanli Shen</author>
+<author pid="310/8682">Peng-Jie Wong</author>
+<title>Counting zeros of Dedekind zeta functions.</title>
+<pages>277-293</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3665</ee>
+<url>db/journals/moc/moc91.html#HasanalizadeSW22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BringmannK22" mdate="2022-01-14">
+<author pid="08/10647">Kathrin Bringmann</author>
+<author pid="90/8047">Ben Kane</author>
+<title>Class numbers and representations by ternary quadratic forms with congruence conditions.</title>
+<pages>295-329</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3648</ee>
+<url>db/journals/moc/moc91.html#BringmannK22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/JorgensonST22" mdate="2022-04-09">
+<author pid="17/5632">Jay Jorgenson</author>
+<author orcid="0000-0002-2709-5535" pid="150/1982">Lejla Smajlovic</author>
+<author pid="69/9212">Holger Then</author>
+<title>An approach for computing generators of class fields of imaginary quadratic number fields using the Schwarzian derivative.</title>
+<pages>331-379</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3619</ee>
+<url>db/journals/moc/moc91.html#JorgensonST22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/FreiR22" mdate="2022-01-14">
+<author pid="310/7879">Christopher Frei</author>
+<author pid="310/8292">Rodolphe Richard</author>
+<title>Constructing abelian extensions with prescribed norms.</title>
+<pages>381-399</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3663</ee>
+<url>db/journals/moc/moc91.html#FreiR22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/KirschmerNRR22" mdate="2022-11-16">
+<author pid="03/7811">Markus Kirschmer</author>
+<author pid="310/8413">Fabien Narbonne</author>
+<author pid="13/4688">Christophe Ritzenthaler</author>
+<author pid="48/7483-1">Damien Robert 0001</author>
+<title>Spanning the isogeny class of a power of an elliptic curve.</title>
+<pages>401-449</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3672</ee>
+<url>db/journals/moc/moc91.html#KirschmerNRR22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BarakatL22" mdate="2022-10-02">
+<author pid="34/7053">Mohamed Barakat</author>
+<author orcid="0000-0002-5327-4529" pid="38/8782">Markus Lange-Hegermann</author>
+<title>An algorithmic approach to Chevalley's Theorem on images of rational morphisms between affine varieties.</title>
+<pages>451-490</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3632</ee>
+<url>db/journals/moc/moc91.html#BarakatL22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/CohnT22" mdate="2022-01-14">
+<author pid="c/HenryCohn">Henry Cohn</author>
+<author pid="261/4710">Nicholas Triantafillou</author>
+<title>Dual linear programming bounds for sphere packing via modular forms.</title>
+<pages>491-508</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>333</number>
+<ee>https://doi.org/10.1090/mcom/3662</ee>
+<url>db/journals/moc/moc91.html#CohnT22</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 91, Number 334, 2022</h2> <dblpcites><r style="ee"><article key="journals/moc/HenningW22" mdate="2022-03-18">
+<author pid="41/9140">Patrick Henning</author>
+<author pid="244/2278">Johan W&#228;rneg&#229;rd</author>
+<title>Superconvergence of time invariants for the Gross-Pitaevskii equation.</title>
+<pages>509-555</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3693</ee>
+<url>db/journals/moc/moc91.html#HenningW22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/DahmenSW22" mdate="2022-04-01">
+<author pid="d/WolfgangDahmen">Wolfgang Dahmen</author>
+<author orcid="0000-0001-7623-3060" pid="46/3061">Rob P. Stevenson</author>
+<author orcid="0000-0002-7028-5676" pid="256/0021">Jan Westerdiep</author>
+<title>Accuracy controlled data assimilation for parabolic problems.</title>
+<pages>557-595</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3680</ee>
+<url>db/journals/moc/moc91.html#DahmenSW22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/GjerdeS22" mdate="2022-03-18">
+<author pid="256/0931">Ingeborg G. Gjerde</author>
+<author pid="54/1503">L. Ridgway Scott</author>
+<title>Nitsche's method for Navier-Stokes equations with slip boundary conditions.</title>
+<pages>597-622</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3682</ee>
+<url>db/journals/moc/moc91.html#GjerdeS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/LiangX22" mdate="2022-03-18">
+<author pid="283/4597">Qigang Liang</author>
+<author pid="61/4764">Xuejun Xu</author>
+<title>A two-level preconditioned Helmholtz-Jacobi-Davidson method for the Maxwell eigenvalue problem.</title>
+<pages>623-657</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3702</ee>
+<url>db/journals/moc/moc91.html#LiangX22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/FarrellGS22" mdate="2022-06-23">
+<author pid="84/11269">Patrick E. Farrell</author>
+<author orcid="0000-0001-9859-4238" pid="260/4824">Pablo Alexei Gazca-Orozco</author>
+<author pid="77/3554">Endre S&#252;li</author>
+<title>Finite element approximation and preconditioning for anisothermal flow of implicitly-constituted non-Newtonian fluids.</title>
+<pages>659-697</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3703</ee>
+<url>db/journals/moc/moc91.html#FarrellGS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/DrakeGSW22" mdate="2022-03-18">
+<author pid="211/3257">Dow Drake</author>
+<author pid="80/476">Jay Gopalakrishnan</author>
+<author pid="04/9301">Joachim Sch&#246;berl</author>
+<author pid="217/2754">Christoph Wintersteiger</author>
+<title>Convergence analysis of some tent-based schemes for linear hyperbolic systems.</title>
+<pages>699-733</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3686</ee>
+<url>db/journals/moc/moc91.html#DrakeGSW22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Zhao22" mdate="2022-03-18">
+<author pid="132/6278">Weifeng Zhao</author>
+<title>Strictly convex entropy and entropy stable schemes for reactive Euler equations.</title>
+<pages>735-760</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3721</ee>
+<url>db/journals/moc/moc91.html#Zhao22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/WangZZ22" mdate="2022-08-10">
+<author pid="23/3076">Jihong Wang</author>
+<author pid="61/7812-2">Jiwei Zhang 0002</author>
+<author pid="94/5918">Chunxiong Zheng</author>
+<title>Stability and error analysis for a second-order approximation of 1D nonlocal Schr&#246;dinger equation under DtN-type boundary conditions.</title>
+<pages>761-783</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3685</ee>
+<url>db/journals/moc/moc91.html#WangZZ22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/LiQT22" mdate="2022-06-23">
+<author pid="47/4826">Dong Li</author>
+<author orcid="0000-0003-3246-8989" pid="184/8853">Chaoyu Quan</author>
+<author pid="35/1524">Tao Tang</author>
+<title>Stability and convergence analysis for the implicit-explicit method to the Cahn-Hilliard equation.</title>
+<pages>785-809</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3704</ee>
+<url>db/journals/moc/moc91.html#LiQT22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BaoFS22" mdate="2022-03-18">
+<author pid="91/4239">Weizhu Bao</author>
+<author pid="13/6965">Yue Feng</author>
+<author pid="165/2589">Chunmei Su</author>
+<title>Uniform error bounds of time-splitting spectral methods for the long-time dynamics of the nonlinear Klein-Gordon equation with weak nonlinearity.</title>
+<pages>811-842</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3694</ee>
+<url>db/journals/moc/moc91.html#BaoFS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/ChartierLT22" mdate="2022-03-18">
+<author pid="67/8650">Philippe Chartier</author>
+<author pid="48/2577">Mohammed Lemou</author>
+<author pid="266/1709">L&#233;opold Tr&#233;mant</author>
+<title>A uniformly accurate numerical method for a class of dissipative systems.</title>
+<pages>843-869</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3688</ee>
+<url>db/journals/moc/moc91.html#ChartierLT22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/ChenT22" mdate="2022-03-18">
+<author pid="246/1543">Swaine L. Chen</author>
+<author pid="94/261">Nico M. Temme</author>
+<title>A distribution function from population genetics statistics using Stirling numbers of the first kind: Asymptotics, inversion and numerical evaluation.</title>
+<pages>871-885</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3711</ee>
+<url>db/journals/moc/moc91.html#ChenT22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/SablicaH22" mdate="2022-03-18">
+<author pid="281/9403">Lukas Sablica</author>
+<author pid="94/1634">Kurt Hornik</author>
+<title>On bounds for Kummer's function ratio.</title>
+<pages>887-907</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3690</ee>
+<url>db/journals/moc/moc91.html#SablicaH22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Saouter22" mdate="2022-03-18">
+<author pid="67/5867">Yannick Saouter</author>
+<title>New results for witnesses of Robin's criterion.</title>
+<pages>909-920</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3687</ee>
+<url>db/journals/moc/moc91.html#Saouter22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/LauderV22" mdate="2022-04-01">
+<author pid="316/1064">Alan Lauder</author>
+<author orcid="0000-0002-7775-8843" pid="310/3152">Jan Vonk</author>
+<title>Computing p-adic L-functions of totally real fields.</title>
+<pages>921-942</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3678</ee>
+<url>db/journals/moc/moc91.html#LauderV22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/AsifFPS22" mdate="2022-03-18">
+<author pid="267/1657">Sualeh Asif</author>
+<author pid="316/2249">Francesc Fit&#233;</author>
+<author pid="269/5199">Dylan Pentland</author>
+<author pid="316/2123">A. V. Sutherland</author>
+<title>Computing L-polynomials of Picard curves from Cartier-Manin matrices.</title>
+<pages>943-971</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3675</ee>
+<url>db/journals/moc/moc91.html#AsifFPS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/AngeliniC22" mdate="2022-04-01">
+<author orcid="0000-0002-8686-199X" pid="229/7463">Elena Angelini</author>
+<author orcid="0000-0001-5776-1335" pid="122/6247">Luca Chiantini</author>
+<title>Minimality and uniqueness for decompositions of specific ternary forms.</title>
+<pages>973-1006</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3681</ee>
+<url>db/journals/moc/moc91.html#AngeliniC22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Hulpke22" mdate="2022-06-23">
+<author orcid="0000-0002-5210-6283" pid="02/1625">Alexander Hulpke</author>
+<title>The perfect groups of order up to two million.</title>
+<pages>1007-1017</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>334</number>
+<ee>https://doi.org/10.1090/mcom/3684</ee>
+<url>db/journals/moc/moc91.html#Hulpke22</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 91, Number 335, 2022</h2> <dblpcites><r style="ee"><article key="journals/moc/CuiDZ22" mdate="2022-06-23">
+<author orcid="0000-0003-4615-4390" pid="141/1962">Jianbo Cui</author>
+<author pid="69/3229">Luca Dieci</author>
+<author pid="74/7614-1">Haomin Zhou 0001</author>
+<title>Time discretizations of Wasserstein-Hamiltonian flows.</title>
+<pages>1019-1075</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3726</ee>
+<url>db/journals/moc/moc91.html#CuiDZ22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/HongLX22" mdate="2022-05-16">
+<author pid="184/1216">Qingguo Hong</author>
+<author pid="65/796">Yuwen Li</author>
+<author pid="13/1124">Jinchao Xu</author>
+<title>An extended Galerkin analysis in finite element exterior calculus.</title>
+<pages>1077-1106</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3707</ee>
+<url>db/journals/moc/moc91.html#HongLX22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/ChenH22" mdate="2022-05-16">
+<author pid="64/5725-2">Long Chen 0002</author>
+<author pid="65/8879">Xuehai Huang</author>
+<title>Finite elements for div div conforming symmetric tensors in three dimensions.</title>
+<pages>1107-1142</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3700</ee>
+<url>db/journals/moc/moc91.html#ChenH22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/KhanZ22" mdate="2022-05-18">
+<author orcid="0000-0001-6625-700X" pid="146/9554">Arbaz Khan</author>
+<author orcid="0000-0003-4505-3520" pid="223/5004">Pietro Zanotti</author>
+<title>A nonsymmetric approach and a quasi-optimal and robust discretization for the Biot's model.</title>
+<pages>1143-1170</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3699</ee>
+<url>db/journals/moc/moc91.html#KhanZ22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Benoit22" mdate="2022-05-16">
+<author pid="208/8895">Antoine Benoit</author>
+<title>Stability of finite difference schemes approximation for hyperbolic boundary value problems in an interval.</title>
+<pages>1171-1212</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3698</ee>
+<url>db/journals/moc/moc91.html#Benoit22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/WuY22" mdate="2022-05-16">
+<author pid="95/9480">Yifei Wu</author>
+<author pid="276/0086">Fangyan Yao</author>
+<title>A first-order Fourier integrator for the nonlinear Schr&#246;dinger equation on T without loss of regularity.</title>
+<pages>1213-1235</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3705</ee>
+<url>db/journals/moc/moc91.html#WuY22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BeltranBGS22" mdate="2022-09-22">
+<author pid="02/70-1">Carlos Beltr&#225;n 0001</author>
+<author pid="190/1605">Laurent B&#233;termin</author>
+<author pid="292/7965">Peter Grabner</author>
+<author pid="08/8050">Stefan Steinerberger</author>
+<title>How well-conditioned can the eigenvector problem be?</title>
+<pages>1237-1245</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3706</ee>
+<url>db/journals/moc/moc91.html#BeltranBGS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/ChadaT22" mdate="2022-05-16">
+<author pid="246/5088">Neil K. Chada</author>
+<author pid="161/7177">Xin T. Tong</author>
+<title>Convergence acceleration of ensemble Kalman inversion in nonlinear settings.</title>
+<pages>1247-1280</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3709</ee>
+<url>db/journals/moc/moc91.html#ChadaT22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/HaberstichNP22" mdate="2022-05-16">
+<author pid="255/6110">C&#233;cile Haberstich</author>
+<author pid="53/9757">Anthony Nouy</author>
+<author pid="121/5899">Guillaume Perrin</author>
+<title>Boosted optimal weighted least-squares.</title>
+<pages>1281-1315</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3710</ee>
+<url>db/journals/moc/moc91.html#HaberstichNP22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Ernvall-Hytonen22" mdate="2022-05-16">
+<author pid="11/9507">Anne-Maria Ernvall-Hyt&#246;nen</author>
+<author pid="320/3158">Neea Paloj&#228;rvi</author>
+<title>Explicit bound for the number of primes in arithmetic progressions assuming the Generalized Riemann Hypothesis.</title>
+<pages>1317-1365</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3691</ee>
+<url>db/journals/moc/moc91.html#Ernvall-Hytonen22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/HarveyH22" mdate="2022-06-23">
+<author pid="40/5991">David Harvey</author>
+<author orcid="0000-0002-3363-6270" pid="203/4428">Markus Hittmeir</author>
+<title>A log-log speedup for exponent one-fifth deterministic integer factorisation.</title>
+<pages>1367-1379</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3708</ee>
+<url>db/journals/moc/moc91.html#HarveyH22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Dembele22" mdate="2023-02-12">
+<author orcid="0000-0001-9001-5035" pid="73/24">Lassina Demb&#233;l&#233;</author>
+<title>On the existence of abelian surfaces with everywhere good reduction.</title>
+<pages>1381-1403</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3692</ee>
+<url>db/journals/moc/moc91.html#Dembele22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BarbulescuS22" mdate="2022-05-16">
+<author pid="93/10962">Razvan Barbulescu</author>
+<author pid="25/7412">Sudarshan Shinde</author>
+<title>A classification of ECM-friendly families of elliptic curves using modular curves.</title>
+<pages>1405-1436</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3697</ee>
+<url>db/journals/moc/moc91.html#BarbulescuS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Pagani22" mdate="2022-05-16">
+<author pid="320/2959">Lorenzo Pagani</author>
+<title>Greenberg's conjecture for real quadratic fields and the cyclotomic Z<sub>2</sub>-extensions.</title>
+<pages>1437-1467</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3712</ee>
+<url>db/journals/moc/moc91.html#Pagani22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/AkgunMV22" mdate="2022-10-04">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="320/2988">M. Mereb</author>
+<author orcid="0000-0003-0954-7785" pid="200/2023">Leandro Vendramin</author>
+<title>Enumeration of set-theoretic solutions to the Yang-Baxter equation.</title>
+<pages>1469-1481</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3696</ee>
+<url>db/journals/moc/moc91.html#AkgunMV22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BrinkmannGM22" mdate="2022-05-16">
+<author pid="83/1228">Gunnar Brinkmann</author>
+<author pid="97/9859">Jan Goedgebeur</author>
+<author pid="74/5295">Brendan D. McKay</author>
+<title>The minimality of the Georges-Kelmans graph.</title>
+<pages>1483-1500</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3701</ee>
+<url>db/journals/moc/moc91.html#BrinkmannGM22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/AmzallagMP22" mdate="2022-05-16">
+<author pid="227/3316">Eli Amzallag</author>
+<author pid="227/2581">Andrei Minchenko</author>
+<author pid="178/6426">Gleb Pogudin</author>
+<title>Degree bound for toric envelope of a linear algebraic group.</title>
+<pages>1501-1519</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3695</ee>
+<url>db/journals/moc/moc91.html#AmzallagMP22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/JarsoT22" mdate="2022-05-16">
+<author pid="236/1676">Tamiru Jarso</author>
+<author pid="180/8898">Tim Trudgian</author>
+<title>Four consecutive primitive elementsin a finite field.</title>
+<pages>1521-1532</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>335</number>
+<ee>https://doi.org/10.1090/mcom/3716</ee>
+<url>db/journals/moc/moc91.html#JarsoT22</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 91, Number 336, 2022</h2> <dblpcites><r style="ee"><article key="journals/moc/Li22" mdate="2022-06-28">
+<author pid="94/9308">Buyang Li</author>
+<title>Maximum-norm stability of the finite element method for the Neumann problem in nonconvex polygons with locally refined mesh.</title>
+<pages>1533-1585</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3724</ee>
+<url>db/journals/moc/moc91.html#Li22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Reusken22" mdate="2022-06-28">
+<author pid="03/320">Arnold Reusken</author>
+<title>Analysis of finite element methods for surface vector-Laplace eigenproblems.</title>
+<pages>1587-1623</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3728</ee>
+<url>db/journals/moc/moc91.html#Reusken22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/MasriLR22" mdate="2022-06-28">
+<author pid="302/3639">Rami Masri</author>
+<author pid="10/2639-15">Chen Liu 0015</author>
+<author pid="38/7575">Beatrice Riviere</author>
+<title>A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: Stability and convergence.</title>
+<pages>1625-1654</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3731</ee>
+<url>db/journals/moc/moc91.html#MasriLR22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/MaierV22" mdate="2022-12-07">
+<author orcid="0000-0001-7509-1590" pid="116/1840">Roland Maier</author>
+<author pid="193/9505">Barbara Verf&#252;rth</author>
+<title>Multiscale scattering in nonlinear Kerr-type media.</title>
+<pages>1655-1685</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3722</ee>
+<url>db/journals/moc/moc91.html#MaierV22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/DorichL22" mdate="2022-10-02">
+<author orcid="0000-0001-5840-2270" pid="323/0175">Benjamin D&#246;rich</author>
+<author pid="269/8873">Jan Leibold</author>
+<title>Full discretization error analysis of exponential integrators for semilinear wave equations.</title>
+<pages>1687-1709</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3736</ee>
+<url>db/journals/moc/moc91.html#DorichL22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BanjaiM22" mdate="2022-06-28">
+<author pid="99/8807">Lehel Banjai</author>
+<author pid="96/2116">Charalambos G. Makridakis</author>
+<title>A posteriori error analysis for approximations of time-fractional subdiffusion problems.</title>
+<pages>1711-1737</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3723</ee>
+<url>db/journals/moc/moc91.html#BanjaiM22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BlanesCCE22" mdate="2022-12-07">
+<author pid="71/760">Sergio Blanes</author>
+<author orcid="0000-0002-6445-279X" pid="88/4569">Fernando Casas</author>
+<author pid="67/8650">Philippe Chartier</author>
+<author orcid="0000-0003-4409-3272" pid="266/1261">Alejandro Escorihuela-Tom&#224;s</author>
+<title>On symmetric-conjugate composition methods in the numerical integration of differential equations.</title>
+<pages>1739-1761</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3715</ee>
+<url>db/journals/moc/moc91.html#BlanesCCE22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/LuM22" mdate="2022-06-28">
+<author pid="62/2062">Shuai Lu</author>
+<author pid="01/3875">Peter Math&#233;</author>
+<title>Stochastic gradient descent for linear inverse problems in Hilbert spaces.</title>
+<pages>1763-1788</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3714</ee>
+<url>db/journals/moc/moc91.html#LuM22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/ZahmCLSM22" mdate="2022-06-28">
+<author pid="179/5971">Olivier Zahm</author>
+<author pid="173/4634">Tiangang Cui</author>
+<author pid="86/9308">Kody J. H. Law</author>
+<author pid="173/4675">Alessio Spantini</author>
+<author pid="78/9757">Youssef M. Marzouk</author>
+<title>Certified dimension reduction in nonlinear Bayesian inverse problems.</title>
+<pages>1789-1835</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3737</ee>
+<url>db/journals/moc/moc91.html#ZahmCLSM22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/GilbertKS22" mdate="2022-06-28">
+<author pid="198/0776">Alexander D. Gilbert</author>
+<author pid="68/4933">Frances Y. Kuo</author>
+<author pid="16/5100">Ian H. Sloan</author>
+<title>Equivalence between Sobolev spaces of first-order dominating mixed smoothness and unanchored ANOVA spaces on &#8477;<sup>d</sup>.</title>
+<pages>1837-1869</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3718</ee>
+<url>db/journals/moc/moc91.html#GilbertKS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Doerr22" mdate="2022-06-28">
+<author pid="d/BenjaminDoerr">Benjamin Doerr</author>
+<title>A sharp discrepancy bound for jittered sampling.</title>
+<pages>1871-1892</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3727</ee>
+<url>db/journals/moc/moc91.html#Doerr22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/WangX22" mdate="2022-06-28">
+<author pid="222/0468">Yinkun Wang</author>
+<author pid="18/4454">Shuhuang Xiang</author>
+<title>Fast and stable augmented Levin methods for highly oscillatory and singular integrals.</title>
+<pages>1893-1923</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3725</ee>
+<url>db/journals/moc/moc91.html#WangX22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/GardeH22" mdate="2022-10-02">
+<author orcid="0000-0001-5570-6631" pid="197/1180">Henrik Garde</author>
+<author pid="30/3029">Nuutti Hyv&#246;nen</author>
+<title>Series reversion in Calder&#243;n's problem.</title>
+<pages>1925-1953</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3729</ee>
+<url>db/journals/moc/moc91.html#GardeH22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Cully-HugillL22" mdate="2022-06-28">
+<author pid="323/0089">Michaela Cully-Hugill</author>
+<author pid="241/8336">Ethan S. Lee</author>
+<title>Explicit interval estimates for prime numbers.</title>
+<pages>1955-1970</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3719</ee>
+<url>db/journals/moc/moc91.html#Cully-HugillL22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/AbreuAP22" mdate="2022-06-28">
+<author pid="131/3645">Alex Abreu</author>
+<author pid="323/0138">Sally Andria</author>
+<author pid="213/0755">Marco Pacini</author>
+<title>Abel maps for nodal curves via tropical geometry.</title>
+<pages>1971-2025</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3717</ee>
+<url>db/journals/moc/moc91.html#AbreuAP22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BinganeA22" mdate="2022-10-02">
+<author orcid="0000-0002-1980-5146" pid="323/0106">Christian Bingane</author>
+<author pid="11/4448">Charles Audet</author>
+<title>The equilateral small octagon of maximal width.</title>
+<pages>2027-2040</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>336</number>
+<ee>https://doi.org/10.1090/mcom/3733</ee>
+<url>db/journals/moc/moc91.html#BinganeA22</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 91, Number 337, 2022</h2> <dblpcites><r style="ee"><article key="journals/moc/CarstensenS22" mdate="2022-07-27">
+<author pid="36/6330">Carsten Carstensen</author>
+<author pid="10/4762">Stefan A. Sauter</author>
+<title>Crouzeix-Raviart triangular elements are inf-sup stable.</title>
+<pages>2041-2057</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3742</ee>
+<url>db/journals/moc/moc91.html#CarstensenS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Feischl22" mdate="2022-07-27">
+<author pid="130/5556">Michael Feischl</author>
+<title>Inf-sup stability implies quasi-orthogonality.</title>
+<pages>2059-2094</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3748</ee>
+<url>db/journals/moc/moc91.html#Feischl22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/ChenH22a" mdate="2022-07-27">
+<author pid="64/5725-2">Long Chen 0002</author>
+<author pid="65/8879">Xuehai Huang</author>
+<title>A finite element elasticity complex in three dimensions.</title>
+<pages>2095-2127</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3739</ee>
+<url>db/journals/moc/moc91.html#ChenH22a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/FeireislLSS22" mdate="2022-07-27">
+<author pid="48/8897">Eduard Feireisl</author>
+<author pid="119/7410">M&#225;ria Luk&#225;cov&#225;-Medvid'ov&#225;</author>
+<author pid="38/3449">Simon Schneider</author>
+<author pid="189/2350">Bangwei She</author>
+<title>Approximating viscosity solutions of the Euler system.</title>
+<pages>2129-2164</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3738</ee>
+<url>db/journals/moc/moc91.html#FeireislLSS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/RiederSM22" mdate="2022-07-27">
+<author pid="218/9976">Alexander Rieder</author>
+<author pid="15/5441">Francisco-Javier Sayas</author>
+<author pid="99/150">Jens Markus Melenk</author>
+<title>Time domain boundary integral equations and convolution quadrature for scattering by composite media.</title>
+<pages>2165-2195</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3730</ee>
+<url>db/journals/moc/moc91.html#RiederSM22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/CalvoRS22" mdate="2022-07-27">
+<author pid="290/9010">Mar&#237;a Cabrera Calvo</author>
+<author pid="159/8643">Fr&#233;d&#233;ric Rousset</author>
+<author pid="128/5453">Katharina Schratz</author>
+<title>Time integrators for dispersive equations in the long wave regime.</title>
+<pages>2197-2214</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3745</ee>
+<url>db/journals/moc/moc91.html#CalvoRS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/WangZ22" mdate="2022-07-27">
+<author pid="59/2227">Yan Wang</author>
+<author pid="35/3432">Xiaofei Zhao</author>
+<title>A symmetric low-regularity integrator for nonlinear Klein-Gordon equation.</title>
+<pages>2215-2245</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3751</ee>
+<url>db/journals/moc/moc91.html#WangZ22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/GutlebCO22" mdate="2022-10-02">
+<author orcid="0000-0002-8239-2372" pid="242/9346">Timon S. Gutleb</author>
+<author pid="74/4367">Jos&#233; A. Carrillo 0001</author>
+<author pid="93/9299">Sheehan Olver</author>
+<title>Computing equilibrium measures with power law kernels.</title>
+<pages>2247-2281</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3740</ee>
+<url>db/journals/moc/moc91.html#GutlebCO22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/CuiHS22" mdate="2022-10-02">
+<author orcid="0000-0003-4615-4390" pid="141/1962">Jianbo Cui</author>
+<author pid="14/6623">Jialin Hong</author>
+<author pid="271/0620">Derui Sheng</author>
+<title>Density function of numerical solution of splitting AVF scheme for stochastic Langevin equation.</title>
+<pages>2283-2333</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3752</ee>
+<url>db/journals/moc/moc91.html#CuiHS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/MarquesT22" mdate="2022-07-27">
+<author pid="27/10590">Diego Marques</author>
+<author pid="22/1317">Pavel Trojovsk&#253;</author>
+<title>Error estimates for a class of continuous Bonse-type inequalities.</title>
+<pages>2335-2345</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3741</ee>
+<url>db/journals/moc/moc91.html#MarquesT22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Quesada-Herrera22" mdate="2022-07-27">
+<author pid="325/1310">Oscar E. Quesada-Herrera</author>
+<title>On the q-analogue of the Pair Correlation Conjecture via Fourier optimization.</title>
+<pages>2347-2365</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3747</ee>
+<url>db/journals/moc/moc91.html#Quesada-Herrera22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Kaya22" mdate="2022-10-02">
+<author orcid="0000-0002-4529-1126" pid="325/0982">Enis Kaya</author>
+<title>Explicit Vologodsky integration for hyperelliptic curves.</title>
+<pages>2367-2396</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3720</ee>
+<url>db/journals/moc/moc91.html#Kaya22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/BenderT22" mdate="2022-07-27">
+<author pid="183/1989">Mat&#237;as R. Bender</author>
+<author pid="205/2816">Simon Telen</author>
+<title>Toric eigenvalue methods for solving sparse polynomial systems.</title>
+<pages>2397-2429</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3744</ee>
+<url>db/journals/moc/moc91.html#BenderT22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/HoshiKY22" mdate="2022-10-02">
+<author orcid="0000-0002-2207-8875" pid="85/9215">Akinari Hoshi</author>
+<author pid="325/1675">Kazuki Kanai</author>
+<author pid="255/8868">Aiichi Yamasaki</author>
+<title>Norm one Tori and Hasse norm principle.</title>
+<pages>2431-2458</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3735</ee>
+<url>db/journals/moc/moc91.html#HoshiKY22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/HubertB22" mdate="2022-07-27">
+<author pid="64/2406">Evelyne Hubert</author>
+<author pid="245/5605">Erick Rodr&#237;guez Bazan</author>
+<title>Algorithms for fundamental invariants and equivariants of finite groups.</title>
+<pages>2459-2488</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3749</ee>
+<url>db/journals/moc/moc91.html#HubertB22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Rosenfeld22" mdate="2022-07-27">
+<author pid="166/1614">Matthieu Rosenfeld</author>
+<title>Avoiding squares over words with lists of size three amongst four symbols.</title>
+<pages>2489-2500</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>337</number>
+<ee>https://doi.org/10.1090/mcom/3732</ee>
+<url>db/journals/moc/moc91.html#Rosenfeld22</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 91, Number 338, 2022</h2> 
+<dblpcites><r style="ee"><article key="journals/moc/Li22a" mdate="2022-09-29">
+<author pid="47/4826">Dong Li</author>
+<title>Why large time-stepping methods for the Cahn-Hilliard equation is stable.</title>
+<pages>2501-2515</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3768</ee>
+<url>db/journals/moc/moc91.html#Li22a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/GongSTZ22" mdate="2022-09-29">
+<author pid="05/3140">Bo Gong</author>
+<author pid="06/9869">Jiguang Sun</author>
+<author pid="120/1616">Tiara Turner</author>
+<author pid="94/5918">Chunxiong Zheng</author>
+<title>Finite element/holomorphic operator function method for the transmission eigenvalue problem.</title>
+<pages>2517-2537</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3767</ee>
+<url>db/journals/moc/moc91.html#GongSTZ22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/MaS22" mdate="2022-09-29">
+<author pid="216/2840">Chupeng Ma</author>
+<author pid="33/5956">Robert Scheichl</author>
+<title>Error estimates for discrete generalized FEMs with locally optimal spectral approximations.</title>
+<pages>2539-2569</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3755</ee>
+<url>db/journals/moc/moc91.html#MaS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/GuzmanLN22" mdate="2022-12-07">
+<author pid="62/7607">Johnny Guzm&#225;n</author>
+<author pid="202/4092">Anna Lischke</author>
+<author orcid="0000-0002-1564-1041" pid="20/7121">Michael Neilan</author>
+<title>Exact sequences on Worsey-Farin splits.</title>
+<pages>2571-2608</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3746</ee>
+<url>db/journals/moc/moc91.html#GuzmanLN22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/WangY22" mdate="2022-09-29">
+<author pid="88/1105">Wansheng Wang</author>
+<author pid="92/5771">Lijun Yi</author>
+<title>Delay-dependent elliptic reconstruction and optimal L<sup>&#8734;</sup> (L<sup>2)</sup> a posteriori error estimates for fully discrete delay parabolic problems.</title>
+<pages>2609-2643</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3761</ee>
+<url>db/journals/moc/moc91.html#WangY22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/DespresGS22" mdate="2022-09-29">
+<author pid="54/2747">Bruno Despr&#233;s</author>
+<author pid="329/9438">Maria El Ghaoui</author>
+<author pid="91/8878">Toni Sayah</author>
+<title>A Trefftz method with reconstruction of the normal derivative applied to elliptic equations.</title>
+<pages>2645-2679</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3756</ee>
+<url>db/journals/moc/moc91.html#DespresGS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/AbdulleGS22" mdate="2022-09-29">
+<author pid="34/541">Assyr Abdulle</author>
+<author pid="48/1494">Marcus J. Grote</author>
+<author pid="260/0912">Giacomo Rosilho de Souza</author>
+<title>Explicit stabilized multirate method for stiff differential equations.</title>
+<pages>2681-2714</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3753</ee>
+<url>db/journals/moc/moc91.html#AbdulleGS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/KriegNS22" mdate="2022-09-29">
+<author pid="24/4784">David Krieg</author>
+<author pid="64/1882">Erich Novak</author>
+<author pid="261/5830">Mathias Sonnleitner</author>
+<title>Recovery of Sobolev functions restricted to iid sampling.</title>
+<pages>2715-2738</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3763</ee>
+<url>db/journals/moc/moc91.html#KriegNS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/FeliuS22" mdate="2022-10-02">
+<author pid="120/4379">Elisenda Feliu</author>
+<author orcid="0000-0002-6945-3118" pid="218/5313">AmirHosein Sadeghimanesh</author>
+<title>Kac-Rice formulas and the number of solutions of parametrized systems of polynomial equations.</title>
+<pages>2739-2769</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3760</ee>
+<url>db/journals/moc/moc91.html#FeliuS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/DickGS22" mdate="2022-09-29">
+<author pid="96/639">Josef Dick</author>
+<author pid="159/4677">Takashi Goda</author>
+<author pid="127/8120">Kosuke Suzuki</author>
+<title>Component-by-component construction of randomized rank-1 lattice rules achieving almost the optimal randomized error rate.</title>
+<pages>2771-2801</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3769</ee>
+<url>db/journals/moc/moc91.html#DickGS22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Notaris22" mdate="2022-09-29">
+<author pid="37/4761">Sotirios E. Notaris</author>
+<title>Anti-Gaussian quadrature formulae of Chebyshev type.</title>
+<pages>2803-2816</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3762</ee>
+<url>db/journals/moc/moc91.html#Notaris22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/PacettiT22" mdate="2022-10-02">
+<author orcid="0000-0002-4539-1725" pid="38/706">Ariel Pacetti</author>
+<author pid="329/8852">Lucas Villagra Torcomian</author>
+<title>$\mathbb {Q}$-Curves, Hecke characters and some Diophantine equations.</title>
+<pages>2817-2865</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3759</ee>
+<url>db/journals/moc/moc91.html#PacettiT22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Rud22" mdate="2022-09-29">
+<author pid="329/9794">Thomas R&#252;d</author>
+<title>Explicit Tamagawa numbers for certain algebraic tori over number fields.</title>
+<pages>2867-2904</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3771</ee>
+<url>db/journals/moc/moc91.html#Rud22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/FaverjonP22" mdate="2022-09-29">
+<author pid="286/1462">Colin Faverjon</author>
+<author pid="286/0867">Marina Poulet</author>
+<title>An algorithm to recognize regular singular Mahler systems.</title>
+<pages>2905-2928</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3758</ee>
+<url>db/journals/moc/moc91.html#FaverjonP22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Rickards22" mdate="2022-10-02">
+<author orcid="0000-0003-3387-9368" pid="126/7014">James Rickards</author>
+<title>Improved computation of fundamental domains for arithmetic Fuchsian groups.</title>
+<pages>2929-2954</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3777</ee>
+<url>db/journals/moc/moc91.html#Rickards22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/Blanco22" mdate="2022-09-29">
+<author pid="231/6234">Guillem Blanco</author>
+<title>An algorithm for Hodge ideals.</title>
+<pages>2955-2967</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3764</ee>
+<url>db/journals/moc/moc91.html#Blanco22</url>
+</article>
+</r>
+<r style="ee"><article key="journals/moc/RoccoEG22" mdate="2022-09-29">
+<author pid="04/8622">Sandra Di Rocco</author>
+<author pid="43/8623">David Eklund</author>
+<author pid="250/2597">Oliver G&#228;fvert</author>
+<title>Sampling and homology via bottlenecks.</title>
+<pages>2969-2995</pages>
+<year>2022</year>
+<volume>91</volume>
+<journal>Math. Comput.</journal>
+<number>338</number>
+<ee>https://doi.org/10.1090/mcom/3757</ee>
+<url>db/journals/moc/moc91.html#RoccoEG22</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

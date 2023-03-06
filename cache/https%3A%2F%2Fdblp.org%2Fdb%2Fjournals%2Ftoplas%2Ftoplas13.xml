@@ -1,0 +1,349 @@
+<bht key="db/journals/toplas/toplas13.bht" title="TOPLAS, Volume 13">
+
+<h1><ref href="db/journals/toplas/index.html">ACM Transactions on Programming Languages and Systems (TOPLAS)</ref>, Volume 13</h1>
+<h2>Volume 13, Number 1, January 1991</h2> 
+<dblpcites><r style="ee"><article key="journals/toplas/QuongL91" mdate="2018-11-06">
+<author pid="49/3435">Russell W. Quong</author>
+<author pid="36/2393">Mark A. Linton</author>
+<title>Linking Programs Incrementally.</title>
+<pages>1-20</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/114005.102804</ee>
+<url>db/journals/toplas/toplas13.html#QuongL91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/FradetM91" mdate="2018-11-06">
+<author pid="47/5595">Pascal Fradet</author>
+<author pid="73/4987">Daniel Le M&#233;tayer</author>
+<title>Compilation of Functional Languages by Program Transformation.</title>
+<pages>21-51</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/114005.102805</ee>
+<url>db/journals/toplas/toplas13.html#FradetM91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/Waters91" mdate="2018-11-06">
+<author pid="57/4810">Richard C. Waters</author>
+<title>Automatic Transformation of Series Expressions into Loops.</title>
+<pages>52-98</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/114005.102806</ee>
+<url>db/journals/toplas/toplas13.html#Waters91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/BrogiC91" mdate="2018-11-06">
+<author pid="b/AntonioBrogi">Antonio Brogi</author>
+<author orcid="0000-0002-7958-9924" pid="c/PCiancarini">Paolo Ciancarini</author>
+<title>The Concurrent Language, Shared Prolog.</title>
+<pages>99-123</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/114005.102807</ee>
+<url>db/journals/toplas/toplas13.html#BrogiC91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/Herlihy91" mdate="2018-11-14">
+<author pid="h/MauriceHerlihy">Maurice Herlihy</author>
+<title>Wait-Free Synchronization.</title>
+<pages>124-149</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/114005.102808</ee>
+<ee>https://www.wikidata.org/entity/Q55934241</ee>
+<url>db/journals/toplas/toplas13.html#Herlihy91</url>
+</article>
+</r>
+<r><article key="journals/toplas/AnconaDGM91" mdate="2003-11-26">
+<author pid="a/MAncona">Massimo Ancona</author>
+<author pid="d/GDodero">Gabriella Dodero</author>
+<author pid="g/VittoriaGianuzzi">Vittoria Gianuzzi</author>
+<author pid="41/6437">M. Morgavi</author>
+<title>Efficient Construction of LR(k) States and Tables.</title>
+<pages>150-178</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>1</number>
+<url>db/journals/toplas/toplas13.html#AnconaDGM91</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 13, Number 2, April 1991</h2> 
+<dblpcites><r style="ee"><article key="journals/toplas/WegmanZ91" mdate="2018-11-14">
+<author pid="99/95">Mark N. Wegman</author>
+<author pid="73/4688">F. Kenneth Zadeck</author>
+<title>Constant Propagation with Conditional Branches.</title>
+<pages>181-210</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/103135.103136</ee>
+<ee>https://www.wikidata.org/entity/Q56115764</ee>
+<note>preliminary version: POPL 1985</note>
+<url>db/journals/toplas/toplas13.html#WegmanZ91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/YellinS91" mdate="2018-11-06">
+<author pid="53/3223">Daniel M. Yellin</author>
+<author pid="42/4610">Robert E. Strom</author>
+<title>INC: A Language for Incremental Computations.</title>
+<pages>211-236</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/103135.103137</ee>
+<url>db/journals/toplas/toplas13.html#YellinS91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/AbadiCPP91" mdate="2018-11-14">
+<author pid="a/MartinAbadi">Mart&#237;n Abadi</author>
+<author orcid="0000-0002-8705-8488" pid="c/LucaCardelli">Luca Cardelli</author>
+<author pid="p/BenjaminCPierce">Benjamin C. Pierce</author>
+<author pid="p/GordonDPlotkin">Gordon D. Plotkin</author>
+<title>Dynamic Typing in a Statically Typed Language.</title>
+<pages>237-268</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/103135.103138</ee>
+<ee>https://www.wikidata.org/entity/Q56982265</ee>
+<url>db/journals/toplas/toplas13.html#AbadiCPP91</url>
+<note>preliminary version: POPL 1989</note>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/HudakY91" mdate="2018-11-06">
+<author pid="h/PaulHudak">Paul Hudak</author>
+<author pid="70/6865">Jonathan Young</author>
+<title>Collecting Interpretations of Expressions.</title>
+<pages>269-290</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/103135.103139</ee>
+<note>preliminary version: POPL 1988: 107-118</note>
+<url>db/journals/toplas/toplas13.html#HudakY91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/Dhamdhere91" mdate="2018-11-06">
+<author pid="d/DMDhamdhere">Dhananjay M. Dhamdhere</author>
+<title>Practical Adaptation of the Global Optimization Algorithm of Morel and Renvoise.</title>
+<pages>291-294</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/103135.214520</ee>
+<url>db/journals/toplas/toplas13.html#Dhamdhere91</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 13, Number 3, July 1991</h2> 
+<dblpcites><r style="ee"><article key="journals/toplas/BorstlerMW91" mdate="2018-11-06">
+<author orcid="0000-0003-0639-4234" pid="b/JBorstler">J&#252;rgen B&#246;rstler</author>
+<author pid="17/2120">Ulrich M&#246;ncke</author>
+<author pid="w/ReinhardWilhelm">Reinhard Wilhelm</author>
+<title>Table Compression for Tree Automata.</title>
+<pages>295-314</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/117009.117013</ee>
+<url>db/journals/toplas/toplas13.html#BorstlerMW91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/Hudson91" mdate="2018-11-06">
+<author pid="h/ScottEHudson">Scott E. Hudson</author>
+<title>Incremental Attribute Evaluation: A Flexible Algorithm for Lazy Update.</title>
+<pages>315-341</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/117009.117012</ee>
+<url>db/journals/toplas/toplas13.html#Hudson91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/MorrisonDCB91" mdate="2018-11-06">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<title>An Ad Hoc Approach to the Implementation of Polymorphism.</title>
+<pages>342-371</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/117009.117017</ee>
+<url>db/journals/toplas/toplas13.html#MorrisonDCB91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/Murtagh91" mdate="2018-11-06">
+<author pid="29/1499">Thomas P. Murtagh</author>
+<title>An Improved Storage Management Scheme for Block Structured Languages.</title>
+<pages>372-398</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/117009.117016</ee>
+<url>db/journals/toplas/toplas13.html#Murtagh91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/PengP91" mdate="2018-11-06">
+<author pid="46/2146">Wuxu Peng</author>
+<author pid="i/SPurushothamanIyer">S. Purushothaman</author>
+<title>Data Flow Analysis of Communicating Finite State Machines.</title>
+<pages>399-442</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/117009.117015</ee>
+<url>db/journals/toplas/toplas13.html#PengP91</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 13, Number 4, October 1991</h2> 
+<dblpcites><r style="ee"><article key="journals/toplas/CytronFRWZ91" mdate="2018-11-14">
+<author pid="c/RCytron">Ron Cytron</author>
+<author pid="f/JeanneFerrante">Jeanne Ferrante</author>
+<author pid="55/4610">Barry K. Rosen</author>
+<author pid="99/95">Mark N. Wegman</author>
+<author pid="73/4688">F. Kenneth Zadeck</author>
+<title>Efficiently Computing Static Single Assignment Form and the Control Dependence Graph.</title>
+<pages>451-490</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/115372.115320</ee>
+<ee>https://www.wikidata.org/entity/Q56268189</ee>
+<url>db/journals/toplas/toplas13.html#CytronFRWZ91</url>
+<note>preliminary version: POPL 1989: 25-35</note>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/ChoiMN91" mdate="2018-11-06">
+<author pid="87/1459">Jong-Deok Choi</author>
+<author pid="m/BartonPMiller">Barton P. Miller</author>
+<author pid="01/1090">Robert H. B. Netzer</author>
+<title>Techniques for Debugging Parallel Programs with Flowback Analysis.</title>
+<pages>491-530</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/115372.115324</ee>
+<url>db/journals/toplas/toplas13.html#ChoiMN91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/Sheard91" mdate="2018-11-06">
+<author pid="s/TimSheard">Tim Sheard</author>
+<title>Automatic Generation and Use of Abstract Structure Operators.</title>
+<pages>531-557</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/115372.115369</ee>
+<url>db/journals/toplas/toplas13.html#Sheard91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/LycklamaH91" mdate="2018-11-06">
+<author pid="76/778">Edward A. Lycklama</author>
+<author pid="h/VassosHadzilacos">Vassos Hadzilacos</author>
+<title>A First-Come-First-Served Mutual-Exclusion Algorithm with Small Communication Variables.</title>
+<pages>558-576</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/115372.115370</ee>
+<url>db/journals/toplas/toplas13.html#LycklamaH91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/JagadeesanPP91" mdate="2018-11-06">
+<author pid="j/RJagadeesan">Radha Jagadeesan</author>
+<author pid="71/5735">Keshav Pingali</author>
+<author pid="p/PPanangaden">Prakash Panangaden</author>
+<title>A Fully Abstract Semantics for a First-Order Functional Language with Logic Variables.</title>
+<pages>577-625</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/115372.115371</ee>
+<url>db/journals/toplas/toplas13.html#JagadeesanPP91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/Cohen91" mdate="2018-11-06">
+<author pid="13/1670">Norman H. Cohen</author>
+<title>Type-Extension Type Tests Can Be Performed In Constant Time.</title>
+<pages>626-629</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/115372.115297</ee>
+<url>db/journals/toplas/toplas13.html#Cohen91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/Wirth91" mdate="2018-11-06">
+<author pid="w/NiklausWirth">Niklaus Wirth</author>
+<title>Reply to &#34;Type-Extension Tests Can Be Performed In Constant Time&#34;.</title>
+<pages>630</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/115372.214521</ee>
+<url>db/journals/toplas/toplas13.html#Wirth91</url>
+</article>
+</r>
+<r style="ee"><article key="journals/toplas/Volpano91" mdate="2018-11-06">
+<author pid="07/1483">Dennis M. Volpano</author>
+<title>Subtypes and Quantification.</title>
+<pages>631-632</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/115372.214523</ee>
+<url>db/journals/toplas/toplas13.html#Volpano91</url>
+</article>
+</r>
+<r><article key="journals/toplas/Burton91" mdate="2017-03-31">
+<author pid="b/FWBurton">F. Warren Burton</author>
+<title>Reply to &#34;Subtypes and Quantification&#34;.</title>
+<pages>633</pages>
+<year>1991</year>
+<volume>13</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>4</number>
+<url>db/journals/toplas/toplas13.html#Burton91</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

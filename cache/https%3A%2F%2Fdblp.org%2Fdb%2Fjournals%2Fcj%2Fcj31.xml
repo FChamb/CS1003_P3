@@ -1,0 +1,1075 @@
+<bht key="db/journals/cj/cj31.bht" title="The Computer Journal, Volume 31, 1988"> 
+
+<h1><ref href="db/journals/cj/index.html">The Computer Journal</ref>, Volume 31, 1988</h1>
+<h2>Volume 31, Number 1, 1988</h2> 
+<dblpcites><r style="ee"><article key="journals/cj/Jankowitz88" mdate="2017-05-20">
+<author pid="01/2483">Hugo T. Jankowitz</author>
+<title>Detecting Plagiarism in Student Pascal Programs.</title>
+<pages>1-8</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#Jankowitz88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Allison88" mdate="2017-05-20">
+<author pid="a/LAllison">Lloyd Allison</author>
+<title>Some Applications of Continuations.</title>
+<pages>9-11</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#Allison88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/RazazS88" mdate="2017-05-20">
+<author pid="01/68">M. Razaz</author>
+<author pid="38/6095">J. L. Schonfelder</author>
+<title>Test Procedures for Measurement of Floating-Point Characteristics of Computing Environments.</title>
+<pages>13-16</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#RazazS88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.12</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/DavisW88" mdate="2017-05-20">
+<author pid="d/MartinDDavis">Martin D. Davis</author>
+<author pid="55/1672">Elaine J. Weyuker</author>
+<title>Metric Space- Based Test-Data Adequacy Criteria.</title>
+<pages>17-24</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#DavisW88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.17</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Clarke88" mdate="2017-05-20">
+<author pid="97/6438">Roger A. Clarke</author>
+<title>Judicial Understanding of Information Technology: The Case of the Wombat ROMs.</title>
+<pages>25-33</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#Clarke88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.25</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/EgyhazyT88" mdate="2017-05-20">
+<author pid="54/1210">Csaba J. Egyhazy</author>
+<author pid="t/KPTriantis">Konstantinos P. Triantis</author>
+<title>A Query Processing Algorithm for Distributed Relational Database Systems.</title>
+<pages>34-40</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#EgyhazyT88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.34</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Kiessling88" mdate="2017-05-20">
+<author pid="k/WKiessling">Werner Kie&#223;ling</author>
+<title>Access Path Selection in Databases with Intelligent Disc Subsystems.</title>
+<pages>41-50</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#Kiessling88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.41</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/HenschenW88" mdate="2017-05-20">
+<author pid="h/LawrenceJHenschen">Lawrence J. Henschen</author>
+<author pid="62/6882">Bob P. Weems</author>
+<title>A Top-Down Inference Procedure for Template Dependencies.</title>
+<pages>51-55</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#HenschenW88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.51</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/FranklinA88" mdate="2017-06-14">
+<author pid="f/WRFranklin">Wm. Randolph Franklin</author>
+<author orcid="0000-0002-3136-5315" pid="a/VarolAkman">Varol Akman</author>
+<title>Adaptive Grid for Polyhedral Visibility in Object Space: An Implementation.</title>
+<pages>56-60</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#FranklinA88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.56</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Er88" mdate="2017-05-20">
+<author pid="60/4405">M. C. Er</author>
+<title>A Simple Algorithm for Generating Non-Regular Trees in Lexicographic Order.</title>
+<pages>61-64</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#Er88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.61</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/StojmenovicM88" mdate="2017-05-20">
+<author pid="s/IvanStojmenovic">Ivan Stojmenovic</author>
+<author pid="25/108">Masahiro Miyakawa</author>
+<title>Applications of a Subset-Generating Algorithm to Base Enumeration, Knapsack and Minimal Covering Problems.</title>
+<pages>65-70</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#StojmenovicM88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.65</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/MillerF88" mdate="2017-05-20">
+<author pid="m/MirkaMiller">Mirka Miller</author>
+<author pid="42/3641">Ivan Fris</author>
+<title>Minimum Diameter of Diregular Digraphs of Degree 2.</title>
+<pages>71-75</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#MillerF88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.71</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Selim88" mdate="2017-05-20">
+<author pid="10/1616">Selim M. Selim</author>
+<title>Split Vertices in Vertex Colouring and Their Application in Developing a Solution to the Faculty Timetable Problem.</title>
+<pages>76-82</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#Selim88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.76</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/MegsonE88" mdate="2018-03-13">
+<author pid="m/GrahamMMegson">Graham M. Megson</author>
+<author pid="02/802-1">David J. Evans 0001</author>
+<title>The Unification of Systolic Differencing Algorithms.</title>
+<pages>83-91</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj31.html#MegsonE88</url>
+<ee>https://doi.org/10.1093/comjnl/31.1.83</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 31, Number 2, 1988</h2> 
+<dblpcites><r style="ee"><article key="journals/cj/AtkinsonBM88" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Binding and Type Checking in Database Programming Languages.</title>
+<pages>99-109</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#AtkinsonBM88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.99</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/MoffatG88" mdate="2017-05-20">
+<author pid="34/7020">David S. Moffat</author>
+<author pid="g/PeterMDGray">Peter M. D. Gray</author>
+<title>Perlog: A Prolog With Persistence and Modules.</title>
+<pages>110-115</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#MoffatG88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.110</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/ZhaoR88" mdate="2017-05-20">
+<author pid="32/3188">Liping Zhao</author>
+<author pid="95/1882">S. A. Roberts</author>
+<title>An Object-Oriented Data Model for Database Modelling, Implementation and Access.</title>
+<pages>116-124</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#ZhaoR88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.116</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Small88" mdate="2017-05-20">
+<author pid="11/5195">Carol Small</author>
+<title>The Implementation of the Exegesis System.</title>
+<pages>125-132</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#Small88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.125</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/WilliamsN88" mdate="2017-05-20">
+<author pid="04/968">M. Howard Williams</author>
+<author pid="30/6378">K. A. Nicholson</author>
+<title>An Approach to Handling Incomplete Information in Databases.</title>
+<pages>133-140</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#WilliamsN88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.133</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Bradley88" mdate="2017-05-20">
+<author pid="93/6230">J. Bradley</author>
+<title>Polygon Join Dependencies, Closed Co-Relationship Chains and the Connection Trap in Relational Databases.</title>
+<pages>141-146</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#Bradley88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.141</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Ullmann88" mdate="2017-05-20">
+<author pid="04/6778">Julian R. Ullmann</author>
+<title>Fast Implementation of Relational Operations Via Inverse Projections.</title>
+<pages>147-154</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#Ullmann88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.147</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/OwrangM88" mdate="2017-05-20">
+<author pid="63/3063">Mehdi Owrang</author>
+<author pid="m/LeslieLMiller">Les L. Miller</author>
+<title>Query Translation Based on Hypergraph Models.</title>
+<pages>155-164</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#OwrangM88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.155</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/BastaniIY88" mdate="2017-05-20">
+<author pid="52/960">Farokh B. Bastani</author>
+<author pid="i/SSitharamaIyengar">S. Sitharama Iyengar</author>
+<author pid="51/5492">I-Ling Yen</author>
+<title>Concurrent Maintenance of Data Structures in a Distributed Environment.</title>
+<pages>165-174</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#BastaniIY88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.165</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/DeenTIR88" mdate="2017-05-20">
+<author pid="42/3495">S. Misbah Deen</author>
+<author pid="90/2958">Malcolm C. Taylor</author>
+<author pid="83/40">P. A. Ingram</author>
+<author pid="76/1898">K. W. Rayner</author>
+<title>A Distributed Directory Database System for Telecommunications.</title>
+<pages>175-181</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#DeenTIR88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.175</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Spurr88" mdate="2017-05-20">
+<author pid="24/2166">Kathleen Spurr</author>
+<title>A Data Dictionary Approach to Teaching Information Systems Analysis.</title>
+<pages>182-189</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj31.html#Spurr88</url>
+<ee>https://doi.org/10.1093/comjnl/31.2.182</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 31, Number 3, 1988</h2> 
+<dblpcites><r style="ee"><article key="journals/cj/MorrisTW88" mdate="2017-05-20">
+<author pid="58/6654">Derrick Morris</author>
+<author pid="09/1599">Colin J. Theaker</author>
+<author pid="33/3543">P. B. Whitehead</author>
+<title>Structured Abstract Schematics.</title>
+<pages>193-200</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#MorrisTW88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.193</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Lombardi88" mdate="2017-05-20">
+<author pid="l/FabrizioLombardi">Fabrizio Lombardi</author>
+<title>Analysis of Comparison-Based Diagnosable Systems Using Temporal Criteria.</title>
+<pages>201-208</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#Lombardi88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.201</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/GopalakrishnanP88" mdate="2017-05-20">
+<author pid="76/3808">M. Gopalakrishnan</author>
+<author pid="54/3051">Lalit M. Patnaik</author>
+<title>Medium Access Control Schemes for Local Area Networks with Multiple Priority Function.</title>
+<pages>209-219</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#GopalakrishnanP88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.209</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Griswold88" mdate="2017-05-20">
+<author pid="30/2602">Ralph E. Griswold</author>
+<title>Programming with Generators.</title>
+<pages>220-228</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#Griswold88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.220</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/HarrisonK88" mdate="2020-10-26">
+<author orcid="0000-0002-7378-1405" pid="h/PeterGHarrison">Peter G. Harrison</author>
+<author pid="33/4535">Hessam Khoshnevisan</author>
+<title>Algebraic Transformation Techniques for Functional Languages.</title>
+<pages>229-242</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#HarrisonK88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.229</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Burton88" mdate="2017-05-20">
+<author pid="b/FWBurton">F. Warren Burton</author>
+<title>Nondeterminism with Referential Transparency in Functional Programming Languages.</title>
+<pages>243-247</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#Burton88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.243</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Prather88" mdate="2017-05-20">
+<author pid="14/67">Ronald E. Prather</author>
+<title>Comparison and Extension of Theories of Zipf and Halstead.</title>
+<pages>248-252</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#Prather88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.248</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/BellMSA88" mdate="2017-05-20">
+<author pid="b/DavidABell">David A. Bell</author>
+<author pid="31/5946">F. J. McErlean</author>
+<author pid="86/396">P. M. Stewart</author>
+<author pid="06/6168">W. Arbuckle</author>
+<title>Clustering Related Tuples in Databases.</title>
+<pages>253-257</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#BellMSA88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.253</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/DawsonP88" mdate="2017-05-20">
+<author pid="49/77">Kathryn S. Dawson</author>
+<author pid="00/2609">Lorraine M. Purgailis Parker</author>
+<title>From Entity-Relationship Diagrams to Fourth Normal Form: A Pictorial Aid to Analysis.</title>
+<pages>258-268</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#DawsonP88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.258</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Weide88" mdate="2017-05-20">
+<author pid="w/TPvanderWeide">Theo P. van der Weide</author>
+<title>Iterative Tree Traversal Using Refinements and Pointer Rotation.</title>
+<pages>269-275</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#Weide88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.269</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Richards88" mdate="2017-05-20">
+<author pid="76/4090">D. Richards</author>
+<title>On the Worst-Possible Analysis of Weighted Comparison-Based Algorithms.</title>
+<pages>276-278</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#Richards88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.276</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/DvorakD88" mdate="2017-05-20">
+<author pid="86/4964">S. Dvor&#225;k</author>
+<author pid="29/2943">Branislav Durian</author>
+<title>Unstable Linear Time O(1) Space Merging.</title>
+<pages>279-282</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#DvorakD88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.279</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Er88a" mdate="2017-05-20">
+<author pid="60/4405">M. C. Er</author>
+<title>A Fast Algorithm for Generating Set Partitions.</title>
+<pages>283-284</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#Er88a</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.283</ee>
+</article>
+</r>
+</dblpcites>
+Short Note 
+<dblpcites><r style="ee"><article key="journals/cj/SubietaAM88" mdate="2017-05-20">
+<author pid="s/KSubieta">Kazimierz Subieta</author>
+<author pid="37/2103">K. Anacki</author>
+<author pid="15/2141">Marek Missala</author>
+<title>Overlay Clusters for C Programs.</title>
+<pages>285-286</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj31.html#SubietaAM88</url>
+<ee>https://doi.org/10.1093/comjnl/31.3.285</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 31, Number 4, 1988</h2> 
+<dblpcites><r style="ee"><article key="journals/cj/HelaryPR88" mdate="2017-05-20">
+<author pid="48/2441">Jean-Michel H&#233;lary</author>
+<author pid="74/5308">No&#235;l Plouzeau</author>
+<author pid="r/MichelRaynal">Michel Raynal</author>
+<title>A Distributed Algorithm for Mutual Exclusion in an Arbitrary Network.</title>
+<pages>289-295</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#HelaryPR88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.289</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Parr88" mdate="2017-06-05">
+<author orcid="0000-0002-9365-9132" pid="61/4077">Gerard P. Parr</author>
+<title>Enhanced Address Resolution in a Multi-LAN Ethernet Communications System.</title>
+<pages>296-303</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#Parr88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.296</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/ZakiE88" mdate="2017-08-28">
+<author pid="z/MohammedZaki">Mohammed Zaki 0001</author>
+<author pid="35/6891">M. M. Elboraey</author>
+<title>Analysis of Reliability Models for Interconnecting MIMD Systems.</title>
+<pages>304-312</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#ZakiE88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.304</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Roberts88" mdate="2017-05-20">
+<author pid="79/3252">W. T. Roberts</author>
+<title>A Formal Specification of the QMC Message System: The Underlying Abstract Model.</title>
+<pages>313-324</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#Roberts88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.313</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/FangD88" mdate="2017-05-20">
+<author pid="88/599">Zhixi Fang</author>
+<author pid="d/JitenderSDeogun">Jitender S. Deogun</author>
+<title>Closure Properties of Certain Classes of Languages Under Generalized Morphic Replication.</title>
+<pages>325-329</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#FangD88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.325</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Sipala88" mdate="2017-05-20">
+<author pid="48/2263">Paolo Sipala</author>
+<title>Efficient Implementation of Binary Trees in LISP Systems.</title>
+<pages>330-335</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#Sipala88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.330</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Orman88" mdate="2017-05-20">
+<author pid="62/7021">Levent V. Orman</author>
+<title>Functional Database Constraints.</title>
+<pages>336-343</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#Orman88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.336</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Akinyokun88" mdate="2017-05-20">
+<author pid="92/2170">Oluwole Charles Akinyokun</author>
+<title>The Experimental Study of CODASYL Database Administration at the Secondary Storage Level.</title>
+<pages>344-352</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#Akinyokun88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.344</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/AneddaF88" mdate="2017-05-20">
+<author pid="24/3738">C. Anedda</author>
+<author pid="76/2224">Leonardo Felician</author>
+<title>P-Compressed Quadtrees for Image Storing.</title>
+<pages>353-357</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#AneddaF88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.353</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Williams88" mdate="2017-05-20">
+<author pid="46/2895">R. Williams</author>
+<title>The Goblin Quadtree.</title>
+<pages>358-363</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#Williams88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.358</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/LucasM88" mdate="2017-09-29">
+<author pid="118/4106">Cormac Lucas</author>
+<author pid="33/3944">Gautam Mitra</author>
+<title>Computer-Assisted Mathematical Programming (Modelling) System: CAMPS.</title>
+<pages>364-375</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#LucasM88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.364</ee>
+</article>
+</r>
+</dblpcites>
+Short Notes 
+<dblpcites><r style="ee"><article key="journals/cj/Mingers88" mdate="2017-05-20">
+<author pid="93/3535">John Mingers</author>
+<title>Comparing Conceptual Models and Data Flow Diagrams.</title>
+<pages>376-379</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#Mingers88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.376</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/AvisonFW88" mdate="2017-05-20">
+<author pid="94/3787">David E. Avison</author>
+<author pid="38/2092">Guy Fitzgerald</author>
+<author pid="21/2428">A. T. Wood-Harper</author>
+<title>Information Systems Development: A Tool Kit is not Enough.</title>
+<pages>379-380</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<url>db/journals/cj/cj31.html#AvisonFW88</url>
+<ee>https://doi.org/10.1093/comjnl/31.4.379</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 31, Number 5, 1988</h2> 
+<dblpcites><r style="ee"><article key="journals/cj/Bjorn-Andersen88" mdate="2017-05-20">
+<author pid="98/3472">Niels Bj&#248;rn-Andersen</author>
+<title>Are 'Human Factors' Human?</title>
+<pages>386-390</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#Bjorn-Andersen88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.386</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Quesne88" mdate="2017-05-20">
+<author pid="60/3976">P. N. Le Quesne</author>
+<title>Individual and Organisational Factors and the Design of IPSEs.</title>
+<pages>391-397</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#Quesne88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.391</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/HirschheimN88" mdate="2017-05-20">
+<author pid="44/1482">Rudy Hirschheim</author>
+<author pid="45/1803">Michael Newman</author>
+<title>Information Systems and User Resistance: Theory and Practice.</title>
+<pages>398-408</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#HirschheimN88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.398</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/JagodzinskiC88" mdate="2017-05-20">
+<author pid="65/4734">A. P. Jagodzinski</author>
+<author pid="78/4735">D. D. Clarke</author>
+<title>A Multidimensional Approach to the Measurement of Human-Computer Performance.</title>
+<pages>409-419</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#JagodzinskiC88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.409</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Harker88" mdate="2017-05-20">
+<author pid="41/3039">Susan Harker</author>
+<title>The Use of Prototyping and Simulation in the Development of Large-Scale Applications.</title>
+<pages>420-425</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#Harker88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.420</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/EasonH88" mdate="2017-05-20">
+<author pid="81/1978">Ken D. Eason</author>
+<author pid="41/3039">Susan Harker</author>
+<title>The Supplier's Role in the Design of Products for Organisations.</title>
+<pages>426-430</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#EasonH88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.426</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Tyldesley88" mdate="2017-05-20">
+<author pid="93/2839">D. A. Tyldesley</author>
+<title>Employing Usability Engineering in the Development of Office Products.</title>
+<pages>431-436</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#Tyldesley88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.431</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/MorrisTPL88" mdate="2017-05-20">
+<author pid="58/6654">Derrick Morris</author>
+<author pid="09/1599">Colin J. Theaker</author>
+<author pid="37/6472">R. Phillips</author>
+<author pid="50/360">W. Love</author>
+<title>Human-Computer Interface Recording.</title>
+<pages>437-444</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#MorrisTPL88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.437</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/BarnardWM88" mdate="2019-10-19">
+<author orcid="0000-0001-9224-7438" pid="81/2058">Philip J. Barnard</author>
+<author orcid="0000-0003-0997-0786" pid="22/1235">Michael D. Wilson</author>
+<author pid="15/4681">Allan MacLean</author>
+<title>Approximate Modelling of Cognitive Activity with and Expert System: A Theory-Based Strategy for Developing an Interactive Design Tool.</title>
+<pages>445-456</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#BarnardWM88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.445</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/DillonMR88" mdate="2017-05-20">
+<author pid="d/AndrewDillon">Andrew Dillon</author>
+<author pid="25/5823">Cliff McKnight</author>
+<author pid="13/3696">John Richardson</author>
+<title>Reading From Paper Versus Reading From Screen.</title>
+<pages>457-464</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#DillonMR88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.457</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/BenyonM88" mdate="2017-05-20">
+<author pid="b/DavidBenyon">David Benyon</author>
+<author pid="47/4793">Dianne Murray</author>
+<title>Experience with Adaptive Interfaces.</title>
+<pages>465-473</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#BenyonM88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.465</ee>
+</article>
+</r>
+</dblpcites>
+Short Note 
+<dblpcites><r style="ee"><article key="journals/cj/Pachl88" mdate="2018-11-24">
+<author orcid="0000-0003-3222-2372" pid="80/3562">Jan K. Pachl</author>
+<title>Two Livelock-Free Protocols for Slotted Rings.</title>
+<pages>474-476</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<url>db/journals/cj/cj31.html#Pachl88</url>
+<ee>https://doi.org/10.1093/comjnl/31.5.474</ee>
+<ee>https://www.wikidata.org/entity/Q58329994</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 31, Number 6, 1988</h2> 
+<dblpcites><r style="ee"><article key="journals/cj/MaesD88" mdate="2017-05-20">
+<author pid="36/5544">Rik Maes</author>
+<author pid="12/973">J. E. M. van Dijk</author>
+<title>On the Role of Ambiguity and Incompleteness in the Design of Decision Tables and Rule-Based Systems.</title>
+<pages>481-489</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#MaesD88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.481</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/GoyalN88" mdate="2017-05-20">
+<author pid="40/906">Pankaj Goyal</author>
+<author pid="82/5224">T. S. Narayanan</author>
+<title>Dictionary Machine with Improved Performance.</title>
+<pages>490-495</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#GoyalN88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.490</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/ColeF88" mdate="2017-05-20">
+<author pid="97/2285">R. Cole</author>
+<author pid="21/4766">Clare Foxcroft</author>
+<title>An Experiment in Clock Synchronisation.</title>
+<pages>496-502</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#ColeF88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.496</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/OShea88" mdate="2017-05-20">
+<author pid="82/5545">Greg O'Shea</author>
+<title>Controlling the Dependency of User Access Control Mechanisms on Correctness of User Identification.</title>
+<pages>503-509</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#OShea88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.503</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Gibbins88" mdate="2017-05-20">
+<author pid="80/4516">P. F. Gibbins</author>
+<title>VDM: Axiomatising its Propositional Logic.</title>
+<pages>510-516</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#Gibbins88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.510</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Henson88" mdate="2017-05-20">
+<author pid="h/MartinCHenson">Martin C. Henson</author>
+<title>Higher-Order Transformations and Type Simulations.</title>
+<pages>517-524</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#Henson88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.517</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/KontosC88" mdate="2017-05-20">
+<author pid="10/5735">John Kontos</author>
+<author pid="59/3723">John C. Cavouras</author>
+<title>Knowledge Acquisition from Technical Texts Using Attribute Grammars.</title>
+<pages>525-530</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#KontosC88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.525</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Bailes88" mdate="2017-05-20">
+<author pid="65/709">Paul A. Bailes</author>
+<title>An Advanced Problem-Oriented Introduction to Imperative Programming with Modula-2.</title>
+<pages>531-539</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#Bailes88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.531</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/DearleB88" mdate="2017-05-20">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<title>Safe Browsing in a Strongly Typed Persistent Environment.</title>
+<pages>540-544</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#DearleB88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.540</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Czech88" mdate="2017-05-20">
+<author pid="40/5706">Zbigniew J. Czech</author>
+<title>Efficient Implementation of Detection of Undefined Variables.</title>
+<pages>545-549</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#Czech88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.545</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/GuarisoW88" mdate="2017-05-20">
+<author pid="04/4768">Giorgio Guariso</author>
+<author pid="91/3551">Hannes Werthner</author>
+<title>A Software Base For Environmental Studies.</title>
+<pages>550-552</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#GuarisoW88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.550</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/DvoraD88" mdate="2017-05-20">
+<author pid="86/4964">S. Dvor&#225;k</author>
+<author pid="29/2943">Branislav Durian</author>
+<title>Merging by Decomposition Revisited.</title>
+<pages>553-556</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#DvoraD88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.553</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/Er88b" mdate="2017-05-20">
+<author pid="60/4405">M. C. Er</author>
+<title>A Smooth Reshuffling Algorithm for Solving the Bulterman's Problem.</title>
+<pages>557-560</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#Er88b</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.557</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/SuraweeraA88" mdate="2017-05-20">
+<author pid="s/FrancisSuraweera">Francis Suraweera</author>
+<author pid="76/6639">J. M. Al-Anzy</author>
+<title>Analysis of a Modified Address Calculation Sorting Algorithm.</title>
+<pages>561-563</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#SuraweeraA88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.561</ee>
+</article>
+</r>
+</dblpcites>
+Short Notes 
+<dblpcites><r style="ee"><article key="journals/cj/Pallo88" mdate="2017-05-20">
+<author pid="50/2388">Jean Marcel Pallo</author>
+<title>Some Properties of the Rotation Lattice of Binary Trees.</title>
+<pages>564-565</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#Pallo88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.564</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/ChangC88" mdate="2018-01-23">
+<author pid="c/ChinChenChang">Chin-Chen Chang 0001</author>
+<author pid="32/430">C. Y. Chen</author>
+<title>A Recursive Performance Formula of the Disc Modulo Allocation Method for Binary Cartesian Product Files.</title>
+<pages>565-566</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#ChangC88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.565</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/MegsonE88a" mdate="2018-03-13">
+<author pid="m/GrahamMMegson">Graham M. Megson</author>
+<author pid="02/802-1">David J. Evans 0001</author>
+<title>Improved Matrix Product Computation Using Double-Pipeline Systolic Arrays.</title>
+<pages>567-569</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#MegsonE88a</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.567</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/cj/RennhackkampS88" mdate="2017-05-20">
+<author pid="91/6548">M. H. Rennhackkamp</author>
+<author pid="s/SHvSolms">Sebastiaan H. von Solms</author>
+<title>On Using an Abstract Model of Distributed Database Concurrency Control Methods.</title>
+<pages>570-572</pages>
+<year>1988</year>
+<volume>31</volume>
+<journal>Comput. J.</journal>
+<number>6</number>
+<url>db/journals/cj/cj31.html#RennhackkampS88</url>
+<ee>https://doi.org/10.1093/comjnl/31.6.570</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

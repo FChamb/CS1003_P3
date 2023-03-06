@@ -1,0 +1,135 @@
+<bht key="db/journals/tcs/tcs232.bht" title="Theoretical Computer Science, Volume 232"> 
+<h1><ref href="db/journals/tcs/index.html">Theoretical Computer Science</ref>, Volume 232</h1> 
+<h2>Volume 232, Numbers 1-2, 6 February 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/tcs/GalmicheP00" mdate="2021-02-17">
+<author pid="82/76">Didier Galmiche</author>
+<author pid="16/3107">David J. Pym</author>
+<title>Proof-search in type-theoretic languages: an introduction.</title>
+<pages>5-53</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#GalmicheP00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00169-3</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/CaldwellGU00" mdate="2021-02-17">
+<author orcid="0000-0003-4475-8967" pid="38/2172">James L. Caldwell</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="25/2855">Judith L. Underwood</author>
+<title>Search algorithms in type theory.</title>
+<pages>55-90</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#CaldwellGU00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00170-X</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/McDowellM00" mdate="2022-04-09">
+<author pid="41/716">Raymond McDowell</author>
+<author orcid="0000-0003-0274-4954" pid="m/DaleMiller">Dale Miller 0001</author>
+<title>Cut-elimination for a logic with definitions and induction.</title>
+<pages>91-119</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#McDowellM00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00171-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/AraiM00" mdate="2021-02-17">
+<author pid="47/4736">Toshiyasu Arai</author>
+<author pid="45/4945">Grigori Mints</author>
+<title>Extended normal form theorems for logical proofs from axioms.</title>
+<pages>121-132</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#AraiM00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00172-3</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/CervesatoHP00" mdate="2021-02-17">
+<author pid="c/ICervesato">Iliano Cervesato</author>
+<author pid="h/JoshuaSHodas">Joshua S. Hodas</author>
+<author pid="p/FPfenning">Frank Pfenning</author>
+<title>Efficient resource management for linear logic proof search.</title>
+<pages>133-163</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#CervesatoHP00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00173-5</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Bunder00" mdate="2021-02-17">
+<author pid="43/829">Martin W. Bunder</author>
+<title>Proof finding algorithms for implicational logics.</title>
+<pages>165-186</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#Bunder00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00174-7</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Felty00" mdate="2021-02-17">
+<author pid="f/AmyPFelty">Amy P. Felty</author>
+<title>The calculus of constructions as a framework for proof search with set variable instantiation.</title>
+<pages>187-229</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#Felty00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00175-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Galmiche00" mdate="2021-02-17">
+<author pid="82/76">Didier Galmiche</author>
+<title>Connection methods in linear logic and proof nets construction.</title>
+<pages>231-272</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#Galmiche00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00176-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Nadathur00" mdate="2021-02-17">
+<author pid="95/6990">Gopalan Nadathur</author>
+<title>Correspondences between classical, intuitionistic and uniform provability.</title>
+<pages>273-298</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#Nadathur00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00177-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/RitterPW00" mdate="2021-02-17">
+<author pid="64/1670">Eike Ritter</author>
+<author pid="16/3107">David J. Pym</author>
+<author pid="17/583">Lincoln A. Wallen</author>
+<title>On the intuitionistic force of classical search.</title>
+<pages>299-333</pages>
+<year>2000</year>
+<volume>232</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs232.html#RitterPW00</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00178-4</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

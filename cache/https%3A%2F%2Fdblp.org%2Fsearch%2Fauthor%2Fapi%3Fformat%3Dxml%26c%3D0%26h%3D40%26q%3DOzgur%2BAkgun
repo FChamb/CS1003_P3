@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="142132">Ozgur* Akgun*</query>
+<status code="200">OK</status>
+<time unit="msecs">0.64</time>
+<completions total="2" computed="2" sent="0">
+</completions>
+<hits total="1" computed="1" sent="1" first="0">
+<hit score="3" id="44264">
+<info><author>Özgür Akgün</author><aliases><alias>Ozgur Akgun</alias></aliases><url>https://dblp.org/pid/35/9923</url></info>
+<url>URL#44264</url>
+</hit>
+</hits>
+</result>

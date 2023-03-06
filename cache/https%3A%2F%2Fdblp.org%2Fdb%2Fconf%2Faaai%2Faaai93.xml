@@ -1,0 +1,1735 @@
+<bht key="db/conf/aaai/aaai93.bht" title="11. AAAI 1993: Washington, DC"> 
+
+<h1>11th <ref href="db/conf/aaai/index.html">AAAI</ref> 1993:
+Washington, DC</h1>
+
+<dblpcites><r><proceedings key="conf/aaai/1993" mdate="2011-12-01">
+<editor pid="f/RichardFikes">Richard Fikes</editor>
+<editor pid="l/WendyGLehnert">Wendy G. Lehnert</editor>
+<title>Proceedings of the 11th National Conference on Artificial Intelligence. Washington, DC, USA, July 11-15, 1993.</title>
+<isbn>0-262-51071-5</isbn>
+<publisher>AAAI Press / The MIT Press</publisher>
+<year>1993</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/Conferences/AAAI/aaai93.php</ee>
+<url>db/conf/aaai/aaai93.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+ 
+<h2>Automated Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Ben-EliyahuD93" mdate="2012-12-11">
+<author pid="b/RachelBenEliyahuZohary">Rachel Ben-Eliyahu</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>On Computing Minimal Models.</title>
+<pages>2-8</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Ben-EliyahuD93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-001.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BeringerH93" mdate="2012-12-11">
+<author pid="11/2142">Antje Beringer</author>
+<author pid="48/415">Steffen H&#246;lldobler</author>
+<title>On the Adequateness of the Connection Method.</title>
+<pages>9-14</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BeringerH93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-002.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChuP93" mdate="2012-12-11">
+<author pid="94/2632">Heng Chu</author>
+<author pid="p/DAPlaisted">David A. Plaisted</author>
+<title>Rough Resolution: A Refinement of Resolution to Remove Large Literals.</title>
+<pages>15-20</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#ChuP93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-003.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CrawfordA93" mdate="2012-12-11">
+<author pid="97/6981">James M. Crawford</author>
+<author pid="11/4348">Larry D. Auton</author>
+<title>Experimental Results on the Crossover Point in Satisfiability Problems.</title>
+<pages>21-27</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#CrawfordA93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-004.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GentW93" mdate="2012-12-11">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Towards an Understanding of Hill-Climbing Procedures for SAT.</title>
+<pages>28-33</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#GentW93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-005.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KautzKS93" mdate="2012-12-11">
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<author pid="78/6858">Michael J. Kearns</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<title>Reasoning With Characteristic Models.</title>
+<pages>34-39</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#KautzKS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-006.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Morris93" mdate="2012-12-11">
+<author pid="29/2838">Paul Morris</author>
+<title>The Breakout Method for Escaping from Local Minima.</title>
+<pages>40-45</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Morris93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-007.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SelmanK93" mdate="2012-12-11">
+<author pid="s/BartSelman">Bart Selman</author>
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<title>An Empirical Study of Greedy Local Search for Satisfiability Testing.</title>
+<pages>46-51</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SelmanK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-008.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Case-Based Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Goodman93" mdate="2012-12-11">
+<author pid="86/2295">Marc Goodman</author>
+<title>Projective Visualization: Acting from Experience.</title>
+<pages>54-59</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Goodman93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-009.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/McDougalH93" mdate="2012-12-11">
+<author pid="07/538">Thomas F. McDougal</author>
+<author pid="30/1642">Kristian J. Hammond</author>
+<title>Representing and Using Procedural Knowledge to Build Geometry Proofs.</title>
+<pages>60-65</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#McDougalH93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-010.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RisslandDRS93" mdate="2012-12-11">
+<author pid="r/EdwinaLRissland">Edwina L. Rissland</author>
+<author pid="42/6151">Jody J. Daniels</author>
+<author pid="96/3529">Zachary B. Rubinstein</author>
+<author pid="62/1493">David B. Skalak</author>
+<title>Case-Based Diagnostic Analysis in a Blackboard Architecture.</title>
+<pages>66-72</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#RisslandDRS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-011.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Zito-WolfA93" mdate="2012-12-11">
+<author pid="38/515">Roland Zito-Wolf</author>
+<author pid="58/1234">Richard Alterman</author>
+<title>A FrameWork and an Analysis of Current Proposals for the Case-Based Organization and Representation of Procedural Knowledge.</title>
+<pages>73-78</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Zito-WolfA93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-012.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Complexity in Machine Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Cohen93" mdate="2012-12-11">
+<author pid="c/WWCohen">William W. Cohen</author>
+<title>Cryptographic Limitations on Learning One-Clause Logic Programs.</title>
+<pages>80-85</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Cohen93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-013.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Cohen93a" mdate="2012-12-11">
+<author pid="c/WWCohen">William W. Cohen</author>
+<title>Pac-Learning a Restricted Class of Recursive Logic Programs.</title>
+<pages>86-92</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Cohen93a</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-014.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FrazierP93" mdate="2012-12-11">
+<author pid="03/4962">Michael Frazier</author>
+<author pid="p/DavidPage">C. David Page Jr.</author>
+<title>Learnability in Inductive Logic Programrning: Some Basic Results and Techniques.</title>
+<pages>93-98</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#FrazierP93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-015.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KoenigS93" mdate="2012-12-11">
+<author pid="k/SvenKoenig">Sven Koenig</author>
+<author pid="s/ReidGSimmons">Reid G. Simmons</author>
+<title>Complexity Analysis of Real-Time Reinforcement Learning.</title>
+<pages>99-107</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#KoenigS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-016.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BessiereC93" mdate="2012-12-11">
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<author pid="95/522">Marie-Odile Cordier</author>
+<title>Arc-Consistency and Arc-Consistency Again.</title>
+<pages>108-113</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BessiereC93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-017.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Jegou93" mdate="2012-12-11">
+<author pid="10/6570">Philippe J&#233;gou</author>
+<title>On the Consistency of General Constraint-Satisfaction Problems.</title>
+<pages>114-119</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Jegou93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-018.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Minton93" mdate="2012-12-11">
+<author pid="m/SMinton">Steven Minton</author>
+<title>Integrating Heuristics for Constraint Satisfaction Problems: A Case Study.</title>
+<pages>120-126</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Minton93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-019.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SchwalbD93" mdate="2012-12-11">
+<author pid="72/5791">Eddie Schwalb</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>Coping With Disjunctions in Temporal Constraint Satisfaction Problems.</title>
+<pages>127-132</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SchwalbD93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-020.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SiskindM93" mdate="2012-12-11">
+<author pid="49/5331">Jeffrey Mark Siskind</author>
+<author pid="m/DavidAMcAllester">David A. McAllester</author>
+<title>Nondeterministic Lisp as a Substrate for Constraint Logic Programming.</title>
+<pages>133-138</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SiskindM93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-021.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SmithC93" mdate="2012-12-11">
+<author pid="s/StephenFSmith">Stephen F. Smith</author>
+<author pid="75/6040">Cheng-Chung Cheng</author>
+<title>Slack-Based Heuristics for Constraint Satisfaction Scheduling.</title>
+<pages>139-144</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SmithC93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-022.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Tanimoto93" mdate="2012-12-11">
+<author pid="52/2562">Toshikazu Tanimoto</author>
+<title>A Constraint Decomposition Method for Spatio-Temporal Configuration Problems.</title>
+<pages>145-151</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Tanimoto93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-023.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WilliamsH93" mdate="2012-12-11">
+<author pid="76/5178">Colin P. Williams</author>
+<author pid="11/4299">Tad Hogg</author>
+<title>Extending Deep Structure.</title>
+<pages>152-157</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#WilliamsH93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-024.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Diagnostic Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/DavisR93" mdate="2012-12-11">
+<author pid="98/5170">Randall Davis</author>
+<author pid="r/PaulResnick">Paul Resnick</author>
+<title>Multiple Dimensions of Generalization In Model-Based Troubleshooting.</title>
+<pages>160-167</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#DavisR93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-025.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FeretG93" mdate="2012-12-11">
+<author pid="11/1626">Michel P. F&#233;ret</author>
+<author pid="g/JaniceIGlasgow">Janice I. Glasgow</author>
+<title>Hybrid Case-Based Reasoning for the Diagnosis of Complex Devices.</title>
+<pages>168-175</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#FeretG93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-026.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HaimowitzK93" mdate="2012-12-11">
+<author pid="96/4125">Ira J. Haimowitz</author>
+<author pid="k/IsaacSKohane">Isaac S. Kohane</author>
+<title>An Epistemology for Clinically Significant Trends.</title>
+<pages>176-181</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#HaimowitzK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-027.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SunW93" mdate="2012-12-11">
+<author pid="10/5415">Ying Sun</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>A Framework for Model-Based Repair.</title>
+<pages>182-187</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SunW93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-028.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Discourse Analysis</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Jonsson93" mdate="2012-12-11">
+<author pid="89/3357">Arne J&#246;nsson</author>
+<title>A Method for Development of Dialogue Managers for Natural Language Interfaces.</title>
+<pages>190-195</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Jonsson93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-029.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NorvickW93" mdate="2012-12-11">
+<author pid="78/3481">David G. Novick</author>
+<author pid="73/3729">Karen Ward</author>
+<title>Mutual Beliefs of Multiple Conversants: A Computational Model of Collaboration in Air Traffic Control.</title>
+<pages>196-201</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#NorvickW93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-030.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZukermanM93" mdate="2012-12-11">
+<author pid="z/IngridZukerman">Ingrid Zukerman</author>
+<author pid="40/2806">Richard McConachy</author>
+<title>An Optimizing Method for Structuring Inferentially Linked Discourse.</title>
+<pages>202-207</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#ZukermanM93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-031.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Distributed Problem Solving</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/DeckerL93" mdate="2012-12-11">
+<author pid="d/KSDecker">Keith Decker</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>A One-shot Dynamic Coordination Algorithm for Distributed Sensor Networks.</title>
+<pages>210-216</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#DeckerL93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-032.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DeckerL93a" mdate="2012-12-11">
+<author pid="d/KSDecker">Keith Decker</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Quantitative Modeling of Complex Computational Task Environments.</title>
+<pages>217-224</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#DeckerL93a</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-033.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DurfeeLG93" mdate="2012-12-11">
+<author pid="d/EHDurfee">Edmund H. Durfee</author>
+<author pid="78/6080">Jaeho Lee</author>
+<author pid="50/887">Piotr J. Gmytrasiewicz</author>
+<title>Overeager Reciprocal Rationality and Mixed Strategy Equilibria.</title>
+<pages>225-230</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#DurfeeLG93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-034.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Hogg93" mdate="2012-12-11">
+<author pid="11/4299">Tad Hogg</author>
+<author pid="76/5178">Colin P. Williams</author>
+<title>Solving the Really Hard Problems with Cooperative Search.</title>
+<pages>231-236</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Hogg93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-035.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Kosoresow93" mdate="2012-12-11">
+<author pid="56/6198">Andrew P. Kosoresow</author>
+<title>A Fast First-Cut Protocol for Agent Coordination.</title>
+<pages>237-242</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Kosoresow93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-036.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Kraus93" mdate="2012-12-11">
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<title>Agents Contracting Tasks in Non-Collaborative Environments.</title>
+<pages>243-248</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Kraus93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-037.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LesserGNK93" mdate="2012-12-11">
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<author pid="13/6740">Izaskun Gallastegi</author>
+<author pid="05/349">Hamid Nawab</author>
+<author pid="43/4522">Frank Klassner</author>
+<title>IPUS: An Architecture for Integrated Signal Processing and Signal Interpretation in Complex Environments.</title>
+<pages>249-255</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#LesserGNK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-038.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Sandholm93" mdate="2012-12-11">
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<title>An Implementation of the Contract Net Protocol Based on Marginal Cost Calculations.</title>
+<pages>256-262</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Sandholm93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-039.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Intelligent User Interfaces</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/GautierG93" mdate="2012-12-11">
+<author pid="47/6922">Patrice O. Gautier</author>
+<author pid="g/ThomasRGruber">Thomas R. Gruber</author>
+<title>Generating Explanations of Device Behavior Using Compositional Modeling and Causal Ordering.</title>
+<pages>264-270</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#GautierG93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-040.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MittalP93" mdate="2012-12-11">
+<author pid="21/5117">Vibhu O. Mittal</author>
+<author pid="p/CParis">C&#233;cile Paris</author>
+<title>Generating Natural Language Descriptions with Examples: Differences between Introductory and Advanced Texts.</title>
+<pages>271-276</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#MittalP93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-041.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RaoL93" mdate="2012-12-11">
+<author pid="37/5337">R. Bharat Rao</author>
+<author pid="68/2453">Stephen C. Y. Lu</author>
+<title>Building Models to Support Synthesis in Early Stage Product Design.</title>
+<pages>277-282</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#RaoL93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-042.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SteinT93" mdate="2012-12-11">
+<author pid="03/4535">Adelheit Stein</author>
+<author pid="t/UlrichThiel">Ulrich Thiel</author>
+<title>A Conversational Model of Multimodal Interaction in Information Systems.</title>
+<pages>283-288</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SteinT93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-043.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Large Scale Knowledge Bases</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Doorenbos93" mdate="2012-12-11">
+<author pid="44/4879">Robert B. Doorenbos</author>
+<title>Matching 100, 000 Learned Rules.</title>
+<pages>290-296</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Doorenbos93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-044.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EvettHA93" mdate="2012-12-11">
+<author pid="61/6436">Matthew P. Evett</author>
+<author pid="h/JamesAHendler">James A. Hendler</author>
+<author pid="09/3326">William A. Andersen</author>
+<title>Massively Parallel Support for Computationally Effective Recognition Queries.</title>
+<pages>297-302</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#EvettHA93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-045.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KitanoSS93" mdate="2012-12-11">
+<author pid="71/1622">Hiroaki Kitano</author>
+<author pid="61/6387">Hideo Shimazu</author>
+<author pid="34/6374">Akihiro Shibata</author>
+<title>Case-Method: A Methodology for Building Large-Scale Case-Based Systems.</title>
+<pages>303-308</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#KitanoSS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-046.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/OsgoodB93" mdate="2012-12-11">
+<author pid="30/6560">Richard Osgood</author>
+<author pid="56/8">Ray Bareiss</author>
+<title>Automated Index Generation for Constructing Large-Scale Conversational Hypermedia Systems.</title>
+<pages>309-314</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#OsgoodB93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-047.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Machine Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/DelcherKGH93" mdate="2012-12-11">
+<author pid="39/46">Arthur L. Delcher</author>
+<author pid="k/SimonKasif">Simon Kasif</author>
+<author pid="87/1939">Harry R. Goldberg</author>
+<author pid="21/1034">William H. Hsu</author>
+<title>Probabilistic Prediction of Protein Secondary Structure Using Causal Networks (Extended Abstract).</title>
+<pages>316-321</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#DelcherKGH93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-048.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MurthyKSB93" mdate="2012-12-11">
+<author pid="13/2261">Sreerama K. Murthy</author>
+<author pid="k/SimonKasif">Simon Kasif</author>
+<author pid="s/StevenSalzberg">Steven Salzberg</author>
+<author pid="b/RichardBeigel">Richard Beigel</author>
+<title>OC1: A Randomized Induction of Oblique Decision Trees.</title>
+<pages>322-327</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#MurthyKSB93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-049.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PazzaniB93" mdate="2012-12-11">
+<author pid="p/MJPazzani">Michael J. Pazzani</author>
+<author pid="25/4500">Clifford Brunk</author>
+<title>Finding Accurate Frontiers: A Knowledge-Intensive Approach to Relational Learning.</title>
+<pages>328-334</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#PazzaniB93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-050.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Sahami93" mdate="2012-12-11">
+<author pid="96/481">Mehran Sahami</author>
+<title>Learning Non-Linearly Separable Boolean Functions With Linear Threshold Unit Trees and Madaline-Style Networks.</title>
+<pages>335-341</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Sahami93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-051.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Natural Language Generation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Elhadad93" mdate="2022-01-03">
+<author orcid="0000-0002-5629-2351" pid="69/1744">Michael Elhadad</author>
+<title>Generating Argumentative Judgment Determiners.</title>
+<pages>344-349</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Elhadad93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-052.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HarunoDMN93" mdate="2018-01-16">
+<author pid="85/6710">Masahiko Haruno</author>
+<author pid="16/1858">Yasuharu Den</author>
+<author pid="11/4619">Yuji Matsumoto 0001</author>
+<author pid="45/2172">Makoto Nagao</author>
+<title>Bidirectional Chart Generation of Natural Language Texts.</title>
+<pages>350-356</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#HarunoDMN93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-053.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Maybury93" mdate="2012-12-11">
+<author pid="19/242">Mark T. Maybury</author>
+<title>Communicative Acts for Generating Natural Language Arguments.</title>
+<pages>357-364</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Maybury93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-054.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RobinM93" mdate="2018-05-18">
+<author pid="r/JacquesRobin">Jacques Robin</author>
+<author pid="m/KathleenMcKeown">Kathleen R. McKeown</author>
+<title>Corpus Analysis for Revision-Based Generation of Complex Sentences.</title>
+<pages>365-372</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#RobinM93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-055.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Natural Language Analysis</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/DorrV93" mdate="2012-12-11">
+<author pid="d/BonnieJDorr">Bonnie J. Dorr</author>
+<author pid="41/3792">Clare R. Voss</author>
+<title>Machine Translation of Spatial Expressions: Defining the Relation between an Interlingua and a Knowledge Representation System.</title>
+<pages>374-379</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#DorrV93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-056.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EiseltMH93" mdate="2012-12-11">
+<author pid="84/1295">Kurt P. Eiselt</author>
+<author pid="97/6063">Kavi Mahesh</author>
+<author pid="10/1699">Jennifer K. Holbrook</author>
+<title>Having Your Cake and Eating It Too: Autonomy and Interaction in a Model of Sentence Processing.</title>
+<pages>380-385</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#EiseltMH93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-057.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HuyckL93" mdate="2012-12-11">
+<author pid="05/6687">Christian R. Huyck</author>
+<author pid="37/3599">Steven L. Lytinen</author>
+<title>Efficient Heuristic Natural Language Parsing.</title>
+<pages>386-391</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#HuyckL93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-058.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MostowHCR93" mdate="2012-12-11">
+<author pid="m/JackMostow">Jack Mostow</author>
+<author pid="h/AlexanderGHauptmann">Alexander G. Hauptmann</author>
+<author pid="59/5903">Lin Lawrence Chase</author>
+<author pid="15/1505">Steven F. Roth</author>
+<title>Towards a Reading Coach that Listens: Automated Detection of Oral Reading Errors.</title>
+<pages>392-397</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#MostowHCR93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-059.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Nonmonotonic Logic</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BeringerS93" mdate="2012-12-11">
+<author pid="11/2142">Antje Beringer</author>
+<author pid="s/TorstenSchaub">Torsten Schaub</author>
+<title>Minimal Belief and Negation as Failure: A Feasible Approach.</title>
+<pages>400-405</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BeringerS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-060.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BesnardS93" mdate="2012-12-11">
+<author pid="b/PhilippeBesnard">Philippe Besnard</author>
+<author pid="s/TorstenSchaub">Torsten Schaub</author>
+<title>A Context-Based Framework for Default Logics.</title>
+<pages>406-411</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BesnardS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-061.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BuvacM93" mdate="2012-12-11">
+<author pid="b/SasaBuvac">Sasa Buvac</author>
+<author pid="22/1572">Ian A. Mason</author>
+<title>Propositional Logic of Context.</title>
+<pages>412-419</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BuvacM93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-062.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CussensHS93" mdate="2019-12-28">
+<author pid="97/1440">James Cussens</author>
+<author pid="23/4530">Anthony Hunter</author>
+<author pid="75/6930-1">Ashwin Srinivasan 0001</author>
+<title>Generating Explicit Orderings for Non-monotonic Logics.</title>
+<pages>420-425</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#CussensHS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-063.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GoyalS93" mdate="2012-12-11">
+<author pid="00/422">Nita Goyal</author>
+<author pid="s/YoavShoham">Yoav Shoham</author>
+<title>Reasoning Precisely with Vague Concepts.</title>
+<pages>426-431</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#GoyalS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-064.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Lifschitz93" mdate="2012-12-11">
+<author pid="l/VLifschitz">Vladimir Lifschitz</author>
+<title>Restricted Monotonicity.</title>
+<pages>432-437</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Lifschitz93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-065.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SchwarzT93" mdate="2012-12-11">
+<author pid="26/1231">Grigori Schwarz</author>
+<author pid="t/MiroslawTruszczynski">Miroslaw Truszczynski</author>
+<title>Subnormal Modal Logics for Knowledge Representation.</title>
+<pages>438-443</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SchwarzT93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-066.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Stachniak93" mdate="2012-12-11">
+<author pid="32/4183">Zbigniew Stachniak</author>
+<title>Algebraic Sematics for Cumulative Inference Operations.</title>
+<pages>444-449</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Stachniak93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-067.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Novel Methods in Knowledge Acquisition</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BaudinKUB93" mdate="2012-12-11">
+<author pid="14/6291">Catherine Baudin</author>
+<author pid="67/6696">Smadar Kedar</author>
+<author pid="90/50">Jody Gevins Underwood</author>
+<author pid="61/487">Vinod Baya</author>
+<title>Question-based Acquisition of Conceptual Indices for Multimedia Design Documentation.</title>
+<pages>452-458</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BaudinKUB93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-068.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MaesK93" mdate="2012-12-11">
+<author pid="m/PattieMaes">Pattie Maes</author>
+<author pid="17/2974">Robyn Kozierok</author>
+<title>Learning Interface Agents.</title>
+<pages>459-465</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#MaesK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-069.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TangkitvanichS93" mdate="2012-12-11">
+<author pid="66/3292">Somkiat Tangkitvanich</author>
+<author pid="87/4103">Masamichi Shimura</author>
+<title>Learning from an Approximate Theory and Noisy Examples.</title>
+<pages>466-471</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#TangkitvanichS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-070.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Valdes-PerezZS93" mdate="2012-12-11">
+<author pid="20/2384">Ra&#250;l E. Vald&#233;s-P&#233;rez</author>
+<author pid="63/6215">Jan M. Zytkow</author>
+<author pid="16/6065">Herbert A. Simon</author>
+<title>Scientific Model-Building as Search in Matrix Spaces.</title>
+<pages>472-478</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Valdes-PerezZS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-071.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Plan Generation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Bylander93" mdate="2012-12-11">
+<author pid="09/1241">Tom Bylander</author>
+<title>An Average Case Analysis of Planning.</title>
+<pages>480-485</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Bylander93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-072.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LeeR93" mdate="2012-12-11">
+<author pid="64/2964">Soowon Lee</author>
+<author pid="75/195">Paul S. Rosenbloom</author>
+<title>Granularity in Multi-Method Planning.</title>
+<pages>486-491</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#LeeR93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-073.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PeotS93" mdate="2019-11-19">
+<author pid="13/2414">Mark A. Peot</author>
+<author pid="95/2477-1">David E. Smith 0001</author>
+<title>Threat-Removal Strategies for Partial-Order Planning.</title>
+<pages>492-499</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#PeotS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-074.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SmithP93" mdate="2019-11-19">
+<author pid="95/2477-1">David E. Smith 0001</author>
+<author pid="13/2414">Mark A. Peot</author>
+<title>Postponing Threats in Partial-Order Planning.</title>
+<pages>500-506</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SmithP93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-075.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Plan Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/DeJongB93" mdate="2012-12-11">
+<author pid="07/1299">Gerald DeJong</author>
+<author pid="67/1111">Scott Bennett</author>
+<title>Permissive Planning: A Machine Learning Approach to Linking Internal and External Worlds.</title>
+<pages>508-513</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#DeJongB93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-076.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KambhampatiC93" mdate="2012-12-11">
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<author pid="69/4208">Jengchin Chen</author>
+<title>Relative Utility of EBG based Plan Reuse in Partial Ordering vs. Total Ordering Planning.</title>
+<pages>514-519</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#KambhampatiC93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-077.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/OehlmannSE93" mdate="2012-12-11">
+<author pid="23/6858">R&#252;diger Oehlmann</author>
+<author pid="s/DerekHSleeman">Derek H. Sleeman</author>
+<author pid="e/PEdwards">Peter Edwards</author>
+<title>Learning Plan Transformations from Self-Questions: A Memory-Based Approach.</title>
+<pages>520-525</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#OehlmannSE93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-078.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TambeR93" mdate="2012-12-11">
+<author pid="67/2667">Milind Tambe</author>
+<author pid="75/195">Paul S. Rosenbloom</author>
+<title>On the Masking Effect.</title>
+<pages>526-533</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#TambeR93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-079.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Qualitative Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AbellaK93" mdate="2012-12-11">
+<author pid="06/1384">Alicia Abella</author>
+<author pid="l/JohnRKender">John R. Kender</author>
+<title>Qualitatively Describing Objects Using Spatial Prepositions.</title>
+<pages>536-540</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#AbellaK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-080.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Dague93" mdate="2012-12-11">
+<author pid="35/3908">Philippe Dague</author>
+<title>Numeric Reasoning with Relative Orders of Magnitude.</title>
+<pages>541-547</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Dague93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-081.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DruzdzelH93" mdate="2012-12-11">
+<author pid="d/MarekJDruzdzel">Marek J. Druzdzel</author>
+<author pid="43/3215">Max Henrion</author>
+<title>Efficient Reasoning in Qualitative Probabilistic Networks.</title>
+<pages>548-553</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#DruzdzelH93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-082.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Nishida93" mdate="2012-12-11">
+<author pid="89/1538">Toyoaki Nishida</author>
+<title>Generating Quasi-symbolic Representation of Three-Dimensional Flow.</title>
+<pages>554-559</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Nishida93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-083.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Real-Time Planning and Simulation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AmadorFW93" mdate="2012-12-11">
+<author pid="03/3444">Franz G. Amador</author>
+<author pid="f/AdamFinkelstein">Adam Finkelstein</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>Real-Time Self-Explanatory Simulation.</title>
+<pages>562-567</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#AmadorFW93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-084.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/AshH93" mdate="2012-12-11">
+<author pid="14/823">David Ash</author>
+<author pid="h/BarbaraHayesRoth">Barbara Hayes-Roth</author>
+<title>A Comparison of Action-Based Hierarchies and Decision Trees for Real-Time Performance.</title>
+<pages>568-573</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#AshH93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-085.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DeanKKN93" mdate="2013-03-01">
+<author pid="71/9415">Thomas L. Dean</author>
+<author pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</author>
+<author pid="39/2764">Jak Kirman</author>
+<author pid="n/AnnENicholson">Ann E. Nicholson</author>
+<title>Planning With Deadlines in Stochastic Domains.</title>
+<pages>574-579</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#DeanKKN93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-086.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GarveyHL93" mdate="2012-12-11">
+<author pid="46/4424">Alan Garvey</author>
+<author pid="h/MartyHumphrey">Marty Humphrey</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Task Interdependencies in Design-to-time Real-time Scheduling.</title>
+<pages>580-585</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#GarveyHL93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-087.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Reasoning about Physical Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BrandBC93" mdate="2012-12-11">
+<author pid="49/3829">Matthew Brand</author>
+<author pid="b/LawrenceBirnbaum">Lawrence Birnbaum</author>
+<author pid="56/3109">Paul R. Cooper</author>
+<title>Sensible Scenes: Visual Understanding of Complex Structures through Causal Analysis.</title>
+<pages>588-593</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BrandBC93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-088.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EllmanKS93" mdate="2012-12-11">
+<author pid="35/2308">Thomas Ellman</author>
+<author pid="08/269-2">John Eric Keane</author>
+<author pid="25/2452">Mark Schwabacher</author>
+<title>Intelligent Model Selection for Hillclimbing Search in Computer-Aided Design.</title>
+<pages>594-599</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#EllmanKS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-089.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Falkenhainer93" mdate="2012-12-11">
+<author pid="90/5132">Brian Falkenhainer</author>
+<title>Ideal Physical Systems.</title>
+<pages>600-605</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Falkenhainer93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-090.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KayK93" mdate="2012-12-11">
+<author pid="42/1915">Herbert Kay</author>
+<author pid="k/BenjaminKuipers">Benjamin Kuipers</author>
+<title>Numerical Behavior Envelopes for Qualitative Models.</title>
+<pages>606-613</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#KayK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-091.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LeeK93" mdate="2012-12-11">
+<author pid="58/1141">Wood W. Lee</author>
+<author pid="k/BenjaminKuipers">Benjamin Kuipers</author>
+<title>A Qualitative Method to Construct Phase Portraits.</title>
+<pages>614-619</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#LeeK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-092.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Shrobe93" mdate="2012-12-11">
+<author pid="s/HowardEShrobe">Howard E. Shrobe</author>
+<title>Understanding Linkages.</title>
+<pages>620-625</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Shrobe93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-093.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/VescoviIFC93" mdate="2016-02-19">
+<author pid="36/5452">Marcos Vescovi</author>
+<author pid="83/238">Yumi Iwasaki</author>
+<author pid="f/RichardFikes">Richard Fikes</author>
+<author pid="c/BChandrasekaran">B. Chandrasekaran 0001</author>
+<title>CFRL: A Language for Specifying the Causal Functionality of Engineered Devices.</title>
+<pages>626-633</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#VescoviIFC93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-094.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Yip93" mdate="2012-12-11">
+<author pid="74/1994">Kenneth Man-kam Yip</author>
+<title>Model Simplification by Asymptotic Order of Magnitude Reasoning.</title>
+<pages>634-640</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Yip93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-095.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Representation and Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BoutilierB93" mdate="2012-12-11">
+<author pid="10/3411">Craig Boutilier</author>
+<author pid="26/3717">Ver&#243;nica Becher</author>
+<title>Abduction As Belief Revision: A Model of Preferred Explanations.</title>
+<pages>642-648</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BoutilierB93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-096.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BoutilierG93" mdate="2012-12-11">
+<author pid="10/3411">Craig Boutilier</author>
+<author pid="37/1288">Mois&#233;s Goldszmidt</author>
+<title>Revision by Conditional Beliefs.</title>
+<pages>649-654</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BoutilierG93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-097.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Halpern93" mdate="2012-12-11">
+<author pid="h/JosephYHalpern">Joseph Y. Halpern</author>
+<title>Reasoning about only Knowing with Many Agents.</title>
+<pages>655-661</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Halpern93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-098.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Lakemeyer93" mdate="2012-12-11">
+<author pid="l/GerhardLakemeyer">Gerhard Lakemeyer</author>
+<title>All They Know About.</title>
+<pages>662-667</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Lakemeyer93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-099.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Representation for Actions and Motion</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BrafmanLS93" mdate="2012-12-11">
+<author pid="b/RonenIBrafman">Ronen I. Brafman</author>
+<author pid="l/JCLatombe">Jean-Claude Latombe</author>
+<author pid="s/YoavShoham">Yoav Shoham</author>
+<title>Towards Knowledge-Level Analysis of Motion Planning.</title>
+<pages>670-675</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#BrafmanLS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-100.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HwangS93" mdate="2012-12-11">
+<author pid="19/5404">Chung Hee Hwang</author>
+<author pid="s/LenhartKSchubert">Lenhart K. Schubert</author>
+<title>EL: A Formal, Yet Natural, Comprehensive Knowledge Representation.</title>
+<pages>676-682</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#HwangS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-101.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Ortiz93" mdate="2012-12-11">
+<author pid="45/3143">Charles L. Ortiz Jr.</author>
+<title>The Semantics of Event Prevention.</title>
+<pages>683-688</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Ortiz93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-102.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ScherlL93" mdate="2012-12-11">
+<author pid="96/5750">Richard B. Scherl</author>
+<author pid="l/HJLevesque">Hector J. Levesque</author>
+<title>The Frame Problem and Knowledge-Producing Actions.</title>
+<pages>689-695</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#ScherlL93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-103.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Rule-Based Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Elkan93" mdate="2012-12-11">
+<author pid="e/CharlesElkan">Charles Elkan</author>
+<title>The Paradoxical Success of Fuzzy Logic.</title>
+<pages>698-703</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Elkan93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-104.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GrossnerPCRS93" mdate="2012-12-11">
+<author pid="41/1407">Clifford Grossner</author>
+<author pid="p/AlunDPreece">Alun D. Preece</author>
+<author pid="56/516">P. Gokul Chander</author>
+<author pid="t/ThiruvengadamRadhakrishnan">Thiruvengadam Radhakrishnan</author>
+<author pid="s/ChingYSuen">Ching Y. Suen</author>
+<title>Exploring the Structure of Rule Based Systems.</title>
+<pages>704-709</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#GrossnerPCRS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-105.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Shrobe93a" mdate="2012-12-11">
+<author pid="s/HowardEShrobe">Howard E. Shrobe</author>
+<title>Supporting and Optimizing Full Unification in a Forward Chaining Rule System.</title>
+<pages>710-715</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Shrobe93a</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-106.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SugiuraRK93" mdate="2012-12-11">
+<author pid="11/5112">Atsushi Sugiura</author>
+<author pid="66/5384">Maximilian Riesenhuber</author>
+<author pid="17/3618">Yoshiyuki Koseki</author>
+<title>Comprehensibility Improvement of Tabular Knowledge Bases.</title>
+<pages>716-721</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SugiuraRK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-107.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Search</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/GeneserethN93" mdate="2012-12-11">
+<author pid="g/MRGenesereth">Michael R. Genesereth</author>
+<author pid="34/2510">Illah R. Nourbakhsh</author>
+<title>Time-Saving Tips for Problem Solving with Incomplete Information.</title>
+<pages>724-730</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#GeneserethN93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-108.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Jegou93a" mdate="2012-12-11">
+<author pid="10/6570">Philippe J&#233;gou</author>
+<title>Decomposition of Domains Based on the Micro-Structure of Finite Constraint-Satisfaction Problems.</title>
+<pages>731-736</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Jegou93a</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-109.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/NevilleW93" mdate="2012-12-11">
+<author pid="16/1959">Dorothy Neville</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>Innovative Design as Systematic Search.</title>
+<pages>737-742</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#NevilleW93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-110.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PrieditisJ93" mdate="2012-12-11">
+<author pid="08/5392">Armand Prieditis</author>
+<author pid="89/899">Bhaskar Janakiraman</author>
+<title>Generating Effective Admissible Heuristics by Abstraction and Reconstitution.</title>
+<pages>743-748</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#PrieditisJ93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-111.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Provost93" mdate="2012-12-11">
+<author pid="p/FosterJProvost">Foster J. Provost</author>
+<title>Iterative Weakening: Optimal and Near-Optimal Policies for the Selection of Search Bias.</title>
+<pages>749-755</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Provost93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-112.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TaylorK93" mdate="2012-12-11">
+<author pid="38/1980">Larry A. Taylor</author>
+<author pid="18/2128">Richard E. Korf</author>
+<title>Pruning Duplicate Nodes in Depth-First Search.</title>
+<pages>756-761</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#TaylorK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-113.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WallaceF93" mdate="2012-12-11">
+<author pid="44/4904">Richard J. Wallace</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Conjunctive Width Heuristics for Maximal Constraint Satisfaction.</title>
+<pages>762-768</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#WallaceF93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-114.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhangK93" mdate="2012-12-11">
+<author pid="51/2284">Weixiong Zhang</author>
+<author pid="18/2128">Richard E. Korf</author>
+<title>Depth-First vs. Best-First Search: New Results.</title>
+<pages>769-775</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#ZhangK93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-115.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Statistically-Based Natural Language Processing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Bod93" mdate="2012-12-11">
+<author pid="17/1989">Rens Bod</author>
+<title>Using an Annotated Language Corpus as a Virtual Stochastic Grammar.</title>
+<pages>778-783</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Bod93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-116.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CharniakHJP93" mdate="2012-12-11">
+<author pid="c/ECharniak">Eugene Charniak</author>
+<author pid="56/3565">Curtis Hendrickson</author>
+<author pid="69/334">Neil Jacobson</author>
+<author pid="48/1670">Mike Perkowitz</author>
+<title>Equations for Part-of-Speech Tagging.</title>
+<pages>784-789</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#CharniakHJP93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-117.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Wu93" mdate="2012-12-11">
+<author pid="68/3485">Dekai Wu</author>
+<title>Estimating Probability Distributions over Hypotheses with Variable Unification.</title>
+<pages>790-795</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Wu93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-118.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Trainable Natural Language Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Cardie93" mdate="2012-12-11">
+<author pid="c/ClaireCardie">Claire Cardie</author>
+<title>A Case-Based Approach to Knowledge Acquisition for Domain-Specific Sentence Analysis.</title>
+<pages>798-803</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Cardie93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-119.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KellyJ93" mdate="2012-12-11">
+<author pid="44/1418">Van E. Kelly</author>
+<author pid="08/5562">Mark A. Jones</author>
+<title>KITSS: A Knowledge-Based Translation System for Test Scenarios.</title>
+<pages>804-810</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#KellyJ93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-120.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Riloff93" mdate="2012-12-11">
+<author pid="r/ERiloff">Ellen Riloff</author>
+<title>Automatically Constructing a Dictionary for Information Extraction Tasks.</title>
+<pages>811-816</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Riloff93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-121.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZelleM93" mdate="2012-12-11">
+<author pid="05/6021">John M. Zelle</author>
+<author pid="m/RaymondJMooney">Raymond J. Mooney</author>
+<title>Learning Semantic Grammars with Constructive Inductive Logic Programming.</title>
+<pages>817-822</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#ZelleM93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-122.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Vision Processing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Horswill93" mdate="2012-12-11">
+<author pid="h/IanHorswill">Ian Horswill</author>
+<title>Polly: A Vision-Based Artificial Agent.</title>
+<pages>824-829</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Horswill93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-123.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KrishnanA93" mdate="2012-12-11">
+<author pid="25/5896">Arun Krishnan</author>
+<author pid="30/3572">Narendra Ahuja</author>
+<title>Range Estimation From Focus Using a Non-frontal Imaging Camera.</title>
+<pages>830-835</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#KrishnanA93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-124.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MuraseN93" mdate="2012-12-11">
+<author pid="92/4484">Hiroshi Murase</author>
+<author pid="n/ShreeKNayar">Shree K. Nayar</author>
+<title>Learning Object Models from Appearance.</title>
+<pages>836-843</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#MuraseN93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-125.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Wildes93" mdate="2012-12-11">
+<author pid="12/5222">Richard P. Wildes</author>
+<title>On the Qualitative Structure of Temporally Evolving Visual Motion Fields.</title>
+<pages>844-849</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Wildes93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-126.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Invited Talks</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Feigenbaum93" mdate="2012-12-11">
+<author pid="f/EdwardAFeigenbaum">Edward A. Feigenbaum</author>
+<title>Tiger in a Cage: The Applications of Knowledge-based Systems (1993) - Abstract.</title>
+<pages>852</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Feigenbaum93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-127.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Simon93" mdate="2012-12-11">
+<author pid="16/6065">Herbert A. Simon</author>
+<title>Artificial Intelligence as an Experimental Science (Abstract).</title>
+<pages>853</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#Simon93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-128.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Video Abstracts</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/HippS93" mdate="2012-12-11">
+<author pid="15/5105">D. Richard Hipp</author>
+<author pid="46/2253">Ronnie W. Smith</author>
+<title>A Demonstration of the &#34;Circuit Fix-it Shoppe&#34;.</title>
+<pages>856</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#HippS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-129.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HuffmanL93" mdate="2012-12-11">
+<author pid="08/2678">Scott B. Huffman</author>
+<author pid="l/JohnELaird">John E. Laird</author>
+<title>Instructo-Soar: Learning from Interactive Natural Language Instructions (Video Abstract).</title>
+<pages>857</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#HuffmanL93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-130.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KortenkampHCRBCKW93" mdate="2012-12-11">
+<author pid="56/5493">David Kortenkamp</author>
+<author pid="65/6783">Marcus J. Huber</author>
+<author pid="24/88">Charles J. Cohen</author>
+<author pid="82/5412">Ulrich Raschke</author>
+<author pid="17/1887">Clint Bidlack</author>
+<author pid="82/4560">Clare Bates Congdon</author>
+<author pid="45/4060">Frank Koss</author>
+<author pid="93/1002">Terry E. Weymouth</author>
+<title>Winning the AAAI Robot Competition.</title>
+<pages>858-859</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#KortenkampHCRBCKW93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-131.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PearsonJL93" mdate="2012-12-11">
+<author pid="52/2738">Douglas J. Pearson</author>
+<author pid="49/4203">Randolph M. Jones</author>
+<author pid="l/JohnELaird">John E. Laird</author>
+<title>AIR-SOAR: Intelligent Multi-Level Control.</title>
+<pages>860-861</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#PearsonJL93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-132.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ReeceS93" mdate="2012-12-11">
+<author pid="75/881">Douglas A. Reece</author>
+<author pid="92/2348">Steven A. Shafer</author>
+<title>Selective Perception for Robot Driving.</title>
+<pages>862</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#ReeceS93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-133.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RisemanHT93" mdate="2012-12-11">
+<author pid="r/EMRiseman">Edward M. Riseman</author>
+<author pid="h/AllenRHanson">Allen R. Hanson</author>
+<author pid="23/299">J. Inigo Thomas</author>
+<title>Computer Vision Research at the University of Massachusetts.</title>
+<pages>863</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#RisemanHT93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-134.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SaffiottiHKLMMRW93" mdate="2012-12-11">
+<author pid="29/1929">Alessandro Saffiotti</author>
+<author pid="19/1356">Nicolas Helft</author>
+<author pid="k/KurtKonolige">Kurt Konolige</author>
+<author pid="l/JDLowrance">John D. Lowrance</author>
+<author pid="97/4391">Karen L. Myers</author>
+<author pid="m/DanielaMusto">Daniela Musto</author>
+<author pid="22/4177">Enrique H. Ruspini</author>
+<author pid="64/1093">Leonard P. Wesley</author>
+<title>A Fuzzy Controller for Flakey, the Robot.</title>
+<pages>864</pages>
+<year>1993</year>
+<crossref>conf/aaai/1993</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai93.html#SaffiottiHKLMMRW93</url>
+<ee>http://www.aaai.org/Library/AAAI/1993/aaai93-135.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

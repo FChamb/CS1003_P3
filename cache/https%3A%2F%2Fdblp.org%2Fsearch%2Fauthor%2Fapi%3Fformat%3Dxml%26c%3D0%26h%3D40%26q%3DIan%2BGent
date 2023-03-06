@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="142178">Ian* Gent*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.17</time>
+<completions total="1" computed="1" sent="0">
+</completions>
+<hits total="2" computed="2" sent="2" first="0">
+<hit score="3" id="866717">
+<info><author>Ian P. Gent</author><aliases><alias>Ian Philip Gent</alias></aliases><url>https://dblp.org/pid/30/3076</url></info>
+<url>URL#866717</url>
+</hit>
+<hit score="2" id="866716">
+<info><author>Ian Gent</author><url>https://dblp.org/pid/206/4749</url></info>
+<url>URL#866716</url>
+</hit>
+</hits>
+</result>

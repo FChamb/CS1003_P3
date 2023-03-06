@@ -1,0 +1,164 @@
+<bht key="db/journals/jair/jair1.bht" title="Journal of Artificial Intelligence Research (JAIR), Volume 1"> 
+
+<h1><ref href="db/journals/jair/index.html">Journal of Artificial Intelligence Research (JAIR)</ref>, Volume 1 </h1>
+<h2>Volume 1, 1993</h2> 
+<dblpcites><r style="ee"><article key="journals/jair/Wellman93" mdate="2019-01-21">
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<title>A Market-Oriented Programming Environment and its Application to Distributed Multicommodity Flow Problems.</title>
+<pages>1-23</pages>
+<year>1993</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#Wellman93</url>
+<ee type="oa">https://doi.org/10.1613/jair.2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Ginsberg93" mdate="2019-01-21">
+<author pid="g/MatthewLGinsberg">Matthew L. Ginsberg</author>
+<title>Dynamic Backtracking.</title>
+<pages>25-46</pages>
+<year>1993</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#Ginsberg93</url>
+<ee type="oa">https://doi.org/10.1613/jair.1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/GentW93" mdate="2019-01-21">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>An Empirical Analysis of Search in GSAT.</title>
+<pages>47-59</pages>
+<year>1993</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#GentW93</url>
+<ee type="oa">https://doi.org/10.1613/jair.7</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/SchlimmerH93" mdate="2019-01-21">
+<author pid="s/JeffreyCSchlimmer">Jeffrey C. Schlimmer</author>
+<author pid="87/4053">Leonard A. Hermens</author>
+<title>Software Agents: Completing Patterns and Constructing User Interfaces.</title>
+<pages>61-89</pages>
+<year>1993</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#SchlimmerH93</url>
+<ee type="oa">https://doi.org/10.1613/jair.25</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/BergadanoGT93" mdate="2019-01-21">
+<author pid="37/1800">Francesco Bergadano</author>
+<author pid="11/3969">Daniele Gunetti</author>
+<author pid="52/4425">Umberto Trinchero</author>
+<title>The Difficulties of Learning Logic Programs with Cut.</title>
+<pages>91-107</pages>
+<year>1993</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#BergadanoGT93</url>
+<ee type="oa">https://doi.org/10.1613/jair.26</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/BuchheitDS93" mdate="2019-01-21">
+<author pid="97/5315">Martin Buchheit</author>
+<author pid="d/FrancescoMDonini">Francesco M. Donini</author>
+<author pid="73/2861">Andrea Schaerf</author>
+<title>Decidable Reasoning in Terminological Knowledge Representation Systems.</title>
+<pages>109-138</pages>
+<year>1993</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#BuchheitDS93</url>
+<ee type="oa">https://doi.org/10.1613/jair.21</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 1, 1994</h2> 
+<dblpcites><r style="ee"><article key="journals/jair/Nilsson94" mdate="2019-01-21">
+<author pid="96/6430">Nils J. Nilsson</author>
+<title>Teleo-Reactive Programs for Agent Control.</title>
+<pages>139-158</pages>
+<year>1994</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#Nilsson94</url>
+<ee type="oa">https://doi.org/10.1613/jair.30</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/KoppelFS94" mdate="2019-01-21">
+<author pid="k/MosheKoppel">Moshe Koppel</author>
+<author pid="f/RonenFeldman">Ronen Feldman</author>
+<author pid="200/7923">Alberto Maria Segre</author>
+<title>Bias-Driven Revision of Logical Domain Theories.</title>
+<pages>159-208</pages>
+<year>1994</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#KoppelFS94</url>
+<ee type="oa">https://doi.org/10.1613/jair.27</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Ling94" mdate="2019-01-21">
+<author pid="99/4062">Charles X. Ling</author>
+<title>Learning the Past Tense of English Verbs: The Symbolic Pattern Associator vs. Connectionist Models.</title>
+<pages>209-229</pages>
+<year>1994</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#Ling94</url>
+<ee type="oa">https://doi.org/10.1613/jair.39</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/CookH94" mdate="2019-01-21">
+<author pid="c/DianeJCook">Diane J. Cook</author>
+<author pid="h/LawrenceBHolder">Lawrence B. Holder</author>
+<title>Substructure Discovery Using Minimum Description Length and Background Knowledge.</title>
+<pages>231-255</pages>
+<year>1994</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#CookH94</url>
+<ee type="oa">https://doi.org/10.1613/jair.43</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/MurphyP94" mdate="2019-01-21">
+<author pid="89/117">Patrick M. Murphy</author>
+<author pid="p/MJPazzani">Michael J. Pazzani</author>
+<title>Exploring the Decision Forest: An Empirical Investigation of Occam's Razor in Decision Tree Induction.</title>
+<pages>257-275</pages>
+<year>1994</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#MurphyP94</url>
+<ee type="oa">https://doi.org/10.1613/jair.41</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/BorgidaP94" mdate="2019-01-21">
+<author pid="b/ABorgida">Alexander Borgida</author>
+<author pid="78/850">Peter F. Patel-Schneider</author>
+<title>A Semantics and Complete Algorithm for Subsumption in the CLASSIC Description Logic.</title>
+<pages>277-308</pages>
+<year>1994</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#BorgidaP94</url>
+<ee type="oa">https://doi.org/10.1613/jair.56</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/Sebastiani94" mdate="2019-01-21">
+<author pid="73/5341">Roberto Sebastiani</author>
+<title>Applying GSAT to Non-Clausal Formulas (Research Note).</title>
+<pages>309-314</pages>
+<year>1994</year>
+<volume>1</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<url>db/journals/jair/jair1.html#Sebastiani94</url>
+<ee type="oa">https://doi.org/10.1613/jair.49</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

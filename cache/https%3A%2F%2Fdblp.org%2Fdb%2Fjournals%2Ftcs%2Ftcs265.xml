@@ -1,0 +1,176 @@
+<bht key="db/journals/tcs/tcs265.bht" title="Theoretical Computer Science, Volume 265"> 
+<h1><ref href="db/journals/tcs/index.html">Theoretical Computer Science</ref>, Volume 265</h1> 
+<h2>Volume 265, Number 1-2, August 2001</h2> Phase Transitions in Combinatorial Problems (Trieste, September 1999) 
+<dblpcites><r style="ee"><article key="journals/tcs/DuboisMSZ01" mdate="2021-02-17">
+<author pid="09/4733-2">Olivier Dubois 0002</author>
+<author pid="75/5766">R&#233;mi Monasson</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<author orcid="0000-0002-1221-5207" pid="01/2463">Riccardo Zecchina</author>
+<title>Editorial.</title>
+<pages>1</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#DuboisMSZ01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00133-5</ee>
+<ee>https://www.wikidata.org/entity/Q61444468</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/MartinMZ01" mdate="2021-02-17">
+<author orcid="0000-0002-5295-5963" pid="14/4050">Olivier C. Martin</author>
+<author pid="75/5766">R&#233;mi Monasson</author>
+<author orcid="0000-0002-1221-5207" pid="01/2463">Riccardo Zecchina</author>
+<title>Statistical mechanics methods and phase transitions in optimization problems.</title>
+<pages>3-67</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#MartinMZ01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00149-9</ee>
+<ee>https://www.wikidata.org/entity/Q61444464</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Talagrand01" mdate="2021-02-17">
+<author pid="78/2936">Michel Talagrand</author>
+<title>Rigorous results for mean field models for spin glasses.</title>
+<pages>69-77</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#Talagrand01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00150-5</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Mertens01" mdate="2021-02-17">
+<author pid="87/6964">Stephan Mertens</author>
+<title>A physicist's approach to number partitioning.</title>
+<pages>79-108</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#Mertens01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00153-0</ee>
+<ee>https://www.wikidata.org/entity/Q59649943</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/AchlioptasKKK01" mdate="2021-02-17">
+<author pid="34/4066">Dimitris Achlioptas</author>
+<author pid="17/3093">Lefteris M. Kirousis</author>
+<author orcid="0000-0002-8959-4428" pid="k/EvangelosKranakis">Evangelos Kranakis</author>
+<author pid="k/DannyKrizanc">Danny Krizanc</author>
+<title>Rigorous results for random (2+p)-SAT.</title>
+<pages>109-129</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#AchlioptasKKK01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00154-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Vega01" mdate="2021-02-17">
+<author pid="90/2541">Wenceslas Fernandez de la Vega</author>
+<title>Random 2-SAT: results and problems.</title>
+<pages>131-146</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#Vega01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00156-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Franco01" mdate="2021-02-17">
+<author pid="f/JohnVFranco">John V. Franco</author>
+<title>Results related to threshold phenomena research in satisfiability: lower bounds.</title>
+<pages>147-157</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#Franco01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00158-X</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Achlioptas01" mdate="2021-02-17">
+<author pid="34/4066">Dimitris Achlioptas</author>
+<title>Lower bounds for random 3-SAT via differential equations.</title>
+<pages>159-185</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#Achlioptas01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00159-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Dubois01" mdate="2021-02-17">
+<author pid="09/4733-2">Olivier Dubois 0002</author>
+<title>Upper bounds on the satisfiability threshold.</title>
+<pages>187-197</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#Dubois01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00161-X</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/HartmannW01" mdate="2021-02-17">
+<author pid="04/3277">Alexander K. Hartmann</author>
+<author orcid="0000-0002-0492-3684" pid="14/2738">Martin Weigt</author>
+<title>Statistical mechanics perspective on the phase transition in vertex covering of finite-connectivity random graphs.</title>
+<pages>199-225</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#HartmannW01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00163-3</ee>
+<ee>https://www.wikidata.org/entity/Q58001608</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/CulbersonG01" mdate="2021-02-17">
+<author pid="56/4455">Joseph C. Culberson</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<title>Frozen development in graph coloring.</title>
+<pages>227-264</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#CulbersonG01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00164-5</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Smith01" mdate="2021-02-17">
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>Constructing an asymptotic phase transition in random binary constraint satisfaction problems.</title>
+<pages>265-283</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#Smith01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00166-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/tcs/Engel01" mdate="2021-02-17">
+<author pid="64/4923-2">Andreas Engel 0002</author>
+<title>Complexity of learning in artificial neural networks.</title>
+<pages>285-306</pages>
+<year>2001</year>
+<volume>265</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs265.html#Engel01</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(01)00167-0</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

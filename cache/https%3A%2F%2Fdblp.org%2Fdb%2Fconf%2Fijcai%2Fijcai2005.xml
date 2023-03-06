@@ -1,0 +1,4498 @@
+<bht key="db/conf/ijcai/ijcai2005.bht" title="19. IJCAI 2005: Edinburgh, Scotland, UK">  
+<h1>19th <ref href="db/conf/ijcai/index.html">IJCAI</ref> 2005:
+Edinburgh, Scotland, UK</h1> <dblpcites><r><proceedings key="conf/ijcai/2005" mdate="2019-08-20">
+<editor pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</editor>
+<editor pid="29/1929">Alessandro Saffiotti</editor>
+<title>IJCAI-05, Proceedings of the Nineteenth International Joint Conference on Artificial Intelligence, Edinburgh, Scotland, UK, July 30 - August 5, 2005</title>
+<booktitle>IJCAI</booktitle>
+<publisher>Professional Book Center</publisher>
+<isbn>0938075934</isbn>
+<year>2005</year>
+<ee type="oa">http://ijcai.org/proceedings/2005</ee>
+<url>db/conf/ijcai/ijcai2005.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Case-Based Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Hullermeier05" mdate="2019-08-20">
+<author pid="h/EykeHullermeier">Eyke H&#252;llermeier</author>
+<title>Cho-k-NN: A Method for Combining Interacting Pieces of Evidence in Case-Based Learning.</title>
+<pages>3-8</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0540.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Hullermeier05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/McSherryS05" mdate="2019-08-20">
+<author pid="63/1255">David McSherry</author>
+<author pid="20/1015">Christopher Stretch</author>
+<title>Automating the Discovery of Recommendation Knowledge.</title>
+<pages>9-14</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0807.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#McSherryS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PattersonRDG05" mdate="2019-08-20">
+<author pid="15/2345-2">David W. Patterson</author>
+<author pid="31/3471">Niall Rooney</author>
+<author pid="73/5209">Vladimir Dobrynin</author>
+<author pid="69/4331">Mykola Galushka</author>
+<title>Sophia: A novel approach for Textual Case-based Reasoning.</title>
+<pages>15-20</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1146.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PattersonRDG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Steffens05" mdate="2019-08-20">
+<author pid="06/801">Timo Steffens</author>
+<title>Partial, Vague Knowledge for Similarity Measures.</title>
+<pages>21-26</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0532.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Steffens05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WangD05" mdate="2019-08-20">
+<author pid="39/721-1">Hui Wang 0001</author>
+<author pid="82/680">Werner Dubitzky</author>
+<title>A flexible and robust similarity measure based on contextual probability.</title>
+<pages>27-34</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0757.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#WangD05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Constraint Satisfaction and Search</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BacchusW05" mdate="2019-08-20">
+<author pid="b/FahiemBacchus">Fahiem Bacchus</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Propagating Logical Combinations of Constraints.</title>
+<pages>35-40</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0543.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BacchusW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BekmannH05" mdate="2019-08-20">
+<author pid="54/1809">J. P. Bekmann</author>
+<author pid="h/AchimGHoffmann">Achim G. Hoffmann</author>
+<title>Improved Knowledge Acquisition for High-Performance Heuristic Search.</title>
+<pages>41-46</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1668.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BekmannH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Benedetti05" mdate="2019-08-20">
+<author pid="59/4578">Marco Benedetti</author>
+<title>Extracting Certificates from Quantified Boolean Formulas.</title>
+<pages>47-53</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0985.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Benedetti05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BessiereD05" mdate="2019-10-04">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="30/847">Romuald Debruyne</author>
+<title>Optimal and Suboptimal Singleton Arc Consistency Algorithms.</title>
+<pages>54-59</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0495.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BessiereD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BessiereHHKW05" mdate="2019-10-04">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="04/5577">Emmanuel Hebrard</author>
+<author pid="66/5390">Brahim Hnich</author>
+<author pid="54/4901">Zeynep Kiziltan</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Range and Roots Constraints: Specifying Counting and Occurrence Problems.</title>
+<pages>60-65</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0735.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BessiereHHKW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ChenI05" mdate="2019-08-20">
+<author pid="83/3627">Hubie Chen</author>
+<author pid="30/577">Yannet Interian</author>
+<title>A Model for Generating Random Quantified Boolean Formulas.</title>
+<pages>66-71</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0633.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ChenI05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CohenJG05" mdate="2019-08-20">
+<author pid="50/3733">David A. Cohen</author>
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<author pid="g/MarcGyssens">Marc Gyssens</author>
+<title>A Unified Theory of Structural Tractability for Constraint Satisfaction and Spread Cut Decomposition.</title>
+<pages>72-77</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0521.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CohenJG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CulbersonGA05" mdate="2019-08-20">
+<author pid="56/4455">Joseph C. Culberson</author>
+<author pid="g/YongGao">Yong Gao 0001</author>
+<author pid="94/5632">Calin Anton</author>
+<title>Phase Transitions of Dominating Clique Problem and Their Implications to Heuristics in Satisfiability Search.</title>
+<pages>78-83</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1308.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CulbersonGA05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GivryHZL05" mdate="2019-08-20">
+<author pid="18/1193">Simon de Givry</author>
+<author pid="11/303">Federico Heras</author>
+<author pid="70/3438">Matthias Zytnicki</author>
+<author pid="27/2738">Javier Larrosa</author>
+<title>Existential arc consistency: Getting closer to full arc consistency in weighted CSPs.</title>
+<pages>84-89</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0827.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GivryHZL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/EiterIST05" mdate="2019-08-20">
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="i/GiovambattistaIanni">Giovambattista Ianni</author>
+<author pid="43/6617">Roman Schindlauer</author>
+<author pid="t/HansTompits">Hans Tompits</author>
+<title>A Uniform Integration of Higher-Order Reasoning and External Evaluations in Answer-Set Programming.</title>
+<pages>90-96</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1353.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#EiterIST05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/EiterTW05" mdate="2019-08-20">
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="t/HansTompits">Hans Tompits</author>
+<author pid="39/6130">Stefan Woltran</author>
+<title>On Solution Correspondences in Answer-Set Programming.</title>
+<pages>97-102</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1177.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#EiterTW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FelnerZSH05" mdate="2019-08-20">
+<author pid="43/5063">Ariel Felner</author>
+<author pid="74/6929">Uzi Zahavi</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<title>Dual Lookups in Pattern Databases.</title>
+<pages>103-108</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0359.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FelnerZSH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FrischJMM05" mdate="2019-08-20">
+<author pid="51/6077">Alan M. Frisch</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="61/1715">Bernadette Mart&#237;nez Hern&#225;ndez</author>
+<author pid="17/2612">Ian Miguel</author>
+<title>The Rules of Constraint Modelling.</title>
+<pages>109-116</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1667.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FrischJMM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FukunagaK05" mdate="2019-08-20">
+<author pid="f/ASFukunaga">Alex S. Fukunaga</author>
+<author pid="18/2128">Richard E. Korf</author>
+<title>Bin-Completion Algorithms for Multicontainer Packing and Covering Problems.</title>
+<pages>117-124</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0891.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FukunagaK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FurcyK05" mdate="2019-08-20">
+<author pid="63/6493">David Furcy</author>
+<author pid="k/SvenKoenig">Sven Koenig</author>
+<title>Limited Discrepancy Beam Search.</title>
+<pages>125-131</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0596.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FurcyK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FurtakKUB05" mdate="2021-01-21">
+<author pid="34/6163">Timothy Furtak</author>
+<author orcid="0000-0003-1618-9373" pid="66/1763">Masashi Kiyomi</author>
+<author pid="72/3856">Takeaki Uno</author>
+<author pid="26/2020">Michael Buro</author>
+<title>Generalized Amazons is PSPACE-Complete.</title>
+<pages>132-137</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1300.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FurtakKUB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GentNS05" mdate="2019-08-20">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>QCSP-Solve: A Solver for Quantified Constraint Satisfaction Problems.</title>
+<pages>138-143</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0754.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GentNS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GoldsmithLTW05" mdate="2019-08-20">
+<author pid="g/JudyGoldsmith">Judy Goldsmith</author>
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<author pid="t/MiroslawTruszczynski">Miroslaw Truszczynski</author>
+<author pid="00/3956">Nic Wilson</author>
+<title>The computational complexity of dominance and consistency in CP-nets.</title>
+<pages>144-149</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0737.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GoldsmithLTW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GottlobGS05" mdate="2019-08-20">
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="17/1770">Gianluigi Greco</author>
+<author pid="71/3711">Francesco Scarcello</author>
+<title>The Complexity of Quantified Constraint Satisfaction Problems under Structural Restrictions.</title>
+<pages>150-155</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1231.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GottlobGS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HuangD05" mdate="2019-08-20">
+<author pid="28/4243">Jinbo Huang</author>
+<author pid="p/ADarwiche">Adnan Darwiche</author>
+<title>DPLL with a Trace: From SAT to Knowledge Compilation.</title>
+<pages>156-162</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0876.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HuangD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HulubeiO05" mdate="2019-08-20">
+<author pid="63/5177">Tudor Hulubei</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Optimal Refutations for Constraint Satisfaction Problems.</title>
+<pages>163-168</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0586.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HulubeiO05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HutterHS05" mdate="2019-08-20">
+<author pid="89/5383">Frank Hutter</author>
+<author pid="h/HolgerHHoos">Holger H. Hoos</author>
+<author pid="61/6836">Thomas St&#252;tzle</author>
+<title>Efficient Stochastic Local Search for MPE Solving.</title>
+<pages>169-174</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1568.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HutterHS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KilbySW05" mdate="2019-08-20">
+<author pid="66/5607">Philip Kilby</author>
+<author pid="s/JohnKSlaney">John K. Slaney</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Backbone of the Travelling Salesperson.</title>
+<pages>175-180</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0551.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KilbySW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Laborie05" mdate="2019-08-20">
+<author pid="64/37">Philippe Laborie</author>
+<title>Complete MCS-Based Search: Application to Resource Constrained Project Scheduling.</title>
+<pages>181-186</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0571.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Laborie05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LardeuxSH05" mdate="2019-08-20">
+<author pid="05/6549">Fr&#233;d&#233;ric Lardeux</author>
+<author pid="91/3201">Fr&#233;d&#233;ric Saubion</author>
+<author pid="h/JinKaoHao">Jin-Kao Hao</author>
+<title>Three Truth Values for the SAT and MAX-SAT Problems.</title>
+<pages>187-192</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0798.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LardeuxSH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LarrosaH05" mdate="2019-08-20">
+<author pid="27/2738">Javier Larrosa</author>
+<author pid="11/303">Federico Heras</author>
+<title>Resolution in Max-SAT and its relation to local consistency in weighted CSPs.</title>
+<pages>193-198</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0360.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LarrosaH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LecoutreC05" mdate="2019-08-20">
+<author pid="95/2777">Christophe Lecoutre</author>
+<author pid="48/929">St&#233;phane Cardon</author>
+<title>A Greedy Approach to Establish Singleton Arc Consistency.</title>
+<pages>199-204</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0987.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LecoutreC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LiffitonMPS05" mdate="2019-08-20">
+<author pid="50/1766">Mark H. Liffiton</author>
+<author pid="07/3198">Michael D. Moffitt</author>
+<author pid="p/MEPollack">Martha E. Pollack</author>
+<author pid="34/5374">Karem A. Sakallah</author>
+<title>Identifying Conflicts in Overconstrained Temporal Problems.</title>
+<pages>205-211</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1263.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LiffitonMPS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LustrekGB05" mdate="2019-08-20">
+<author pid="l/MitjaLustrek">Mitja Lustrek</author>
+<author pid="43/1312">Matjaz Gams</author>
+<author pid="b/IvanBratko">Ivan Bratko</author>
+<title>Why Minimax Works: An Alternative Explanation.</title>
+<pages>212-217</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1223.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LustrekGB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MandowP05" mdate="2019-08-20">
+<author pid="m/LawrenceMandow">Lawrence Mandow</author>
+<author pid="32/1095">Jos&#233;-Luis P&#233;rez-de-la-Cruz</author>
+<title>A New Approach to Multiobjective A* Search.</title>
+<pages>218-223</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0867.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MandowP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MarinescuD05" mdate="2019-08-20">
+<author pid="m/RaduMarinescu2">Radu Marinescu 0002</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>AND/OR Branch-and-Bound for Graphical Models.</title>
+<pages>224-229</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1556.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MarinescuD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MateescuD05" mdate="2019-08-20">
+<author pid="45/1660">Robert Mateescu</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>AND/OR Cutset Conditioning.</title>
+<pages>230-235</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1612.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MateescuD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MehtaD05" mdate="2022-04-19">
+<author pid="59/139">Deepak Mehta 0001</author>
+<author pid="54/6168">Marc R. C. van Dongen</author>
+<title>Reducing Checks and Revisions in Coarse-grained MAC Algorithms.</title>
+<pages>236-241</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0820.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MehtaD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MoffittP05" mdate="2019-08-20">
+<author pid="07/3198">Michael D. Moffitt</author>
+<author pid="p/MEPollack">Martha E. Pollack</author>
+<title>Applying Local Search to Disjunctive Temporal Problems.</title>
+<pages>242-247</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0557.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MoffittP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/NicolasGS05" mdate="2019-08-20">
+<author pid="n/PascalNicolas">Pascal Nicolas</author>
+<author pid="89/2357">Laurent Garcia</author>
+<author pid="14/5762">Igor St&#233;phan</author>
+<title>Possibilistic Stable Models.</title>
+<pages>248-253</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0333.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#NicolasGS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ParkerNS05" mdate="2019-08-20">
+<author pid="72/5830">Austin Parker</author>
+<author pid="n/DanaSNau">Dana S. Nau</author>
+<author pid="s/VSSubrahmanian">V. S. Subrahmanian</author>
+<title>Game-Tree Search with Combinatorially Large Belief States.</title>
+<pages>254-259</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0878.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ParkerNS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Pesant05" mdate="2019-08-20">
+<author pid="02/6567">Gilles Pesant</author>
+<title>Counting Solutions of CSPs: A Structural Approach.</title>
+<pages>260-265</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0624.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Pesant05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PetcuF05" mdate="2019-08-20">
+<author pid="13/1774">Adrian Petcu</author>
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<title>A Scalable Method for Multiagent Constraint Optimization.</title>
+<pages>266-271</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0445.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PetcuF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Puget05" mdate="2019-08-20">
+<author pid="p/JFPuget">Jean-Francois Puget</author>
+<title>Breaking symmetries in all different problems.</title>
+<pages>272-277</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1244.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Puget05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RussellW05" mdate="2022-04-20">
+<author pid="r/SJRussell">Stuart Russell 0001</author>
+<author pid="198/5696">Jason Andrew Wolfe</author>
+<title>Efficient belief-state AND-OR search, with application to Kriegspiel.</title>
+<pages>278-285</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0929.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RussellW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SachenbacherW05" mdate="2019-08-20">
+<author pid="14/3994">Martin Sachenbacher</author>
+<author pid="33/2153-1">Brian C. Williams</author>
+<title>Bounded Search and Symbolic Inference for Constraint Optimization.</title>
+<pages>286-291</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1571.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SachenbacherW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SchaefferBBK0LLS05" mdate="2019-08-20">
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<author pid="b/YngviBjornsson">Yngvi Bj&#246;rnsson</author>
+<author pid="66/2770">Neil Burch</author>
+<author pid="47/3148">Akihiro Kishimoto</author>
+<author pid="m/MartinMuller3">Martin M&#252;ller 0003</author>
+<author pid="81/3556">Robert Lake</author>
+<author pid="87/289">Paul Lu</author>
+<author pid="46/3483">Steve Sutphen</author>
+<title>Solving Checkers.</title>
+<pages>292-297</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0515.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SchaefferBBK0LLS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SellmannH05" mdate="2019-08-20">
+<author pid="s/MeinolfSellmann">Meinolf Sellmann</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Structural Symmetry Breaking.</title>
+<pages>298-303</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1121.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SellmannH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SimsekJ05" mdate="2019-08-20">
+<author pid="64/5184">&#214;zg&#252;r Simsek</author>
+<author pid="38/828">David D. Jensen</author>
+<title>Decentralized Search in Networks Using Homophily and Degree Disparity.</title>
+<pages>304-310</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1509.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SimsekJ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SmithS05" mdate="2019-08-20">
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="23/5120">Paula Sturdy</author>
+<title>Value Ordering for Finding All Solutions.</title>
+<pages>311-316</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1122.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SmithS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Sturtevant05" mdate="2019-08-20">
+<author pid="18/991">Nathan R. Sturtevant</author>
+<title>Leaf-Value Tables for Pruning Non-Zero-Sum Games.</title>
+<pages>317-323</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0916.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Sturtevant05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TalmanTK05" mdate="2019-08-20">
+<author pid="02/4908">Shavit Talman</author>
+<author pid="31/255">Rotem Toister</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<title>Choosing between heuristics and strategies: an enhanced model for decision-making.</title>
+<pages>324-330</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0932.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#TalmanTK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Wilson05" mdate="2019-08-20">
+<author pid="00/3956">Nic Wilson</author>
+<title>Decision Diagrams for the Computation of Semiring Valuations.</title>
+<pages>331-336</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0857.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Wilson05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/XuBHL05" mdate="2019-08-20">
+<author pid="181/2626">Ke Xu</author>
+<author pid="01/3426">Fr&#233;d&#233;ric Boussemart</author>
+<author pid="21/5749">Fred Hemery</author>
+<author pid="95/2777">Christophe Lecoutre</author>
+<title>A Simple Model to Generate Hard Satisfiable Instances.</title>
+<pages>337-342</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0989.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#XuBHL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhangL05" mdate="2019-08-20">
+<author pid="51/2284">Weixiong Zhang</author>
+<author pid="68/2024">Moshe Looks</author>
+<title>A Novel Local Search Algorithm for the Traveling Salesman Problem that Exploits Backbones.</title>
+<pages>343-350</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1443.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ZhangL05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge Representation and Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/AdjimanCGRS05" mdate="2019-08-20">
+<author pid="33/577">Philippe Adjiman</author>
+<author pid="60/2208">Philippe Chatalic</author>
+<author pid="92/6981">Fran&#231;ois Goasdou&#233;</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<author pid="90/5314">Laurent Simon</author>
+<title>Scalability Study of Peer-to-Peer Consequence Finding.</title>
+<pages>351-356</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1144.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AdjimanCGRS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/AvinSP05" mdate="2019-08-20">
+<author pid="04/5911">Chen Avin</author>
+<author pid="82/1901">Ilya Shpitser</author>
+<author pid="p/JudeaPearl">Judea Pearl</author>
+<title>Identifiability of Path-Specific Effects.</title>
+<pages>357-363</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0886.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AvinSP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BaaderBL05" mdate="2019-08-20">
+<author pid="b/FBaader">Franz Baader</author>
+<author pid="46/950-1">Sebastian Brandt 0001</author>
+<author pid="l/CarstenLutz">Carsten Lutz</author>
+<title>Pushing the EL Envelope.</title>
+<pages>364-369</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0372.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BaaderBL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BattRJGMPS05" mdate="2019-08-20">
+<author pid="05/1010">Gr&#233;gory Batt</author>
+<author pid="84/4605">Delphine Ropers</author>
+<author pid="21/3073">Hidde de Jong</author>
+<author pid="42/6434">Johannes Geiselmann</author>
+<author pid="11/4980">Radu Mateescu 0001</author>
+<author pid="00/4531">Michel Page</author>
+<author pid="28/4908">Dominique Schneider</author>
+<title>Analysis and Verification of Qualitative Models of Genetic Regulatory Networks: A Model-Checking Approach.</title>
+<pages>370-375</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1133.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BattRJGMPS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BenferhatLP05" mdate="2019-08-20">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="26/6968">Sylvain Lagrue</author>
+<author pid="09/6707">Odile Papini</author>
+<title>Revision of Partially Ordered Information: Axiomatization, Semantics and Iteration.</title>
+<pages>376-381</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1478.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BenferhatLP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BittnerD05" mdate="2019-08-20">
+<author pid="36/1853">Thomas Bittner</author>
+<author pid="41/1085">Maureen Donnelly</author>
+<title>Computational ontologies of parthood, componenthood, and containment.</title>
+<pages>382-387</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0829.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BittnerD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Bochman05" mdate="2019-08-20">
+<author pid="84/4259">Alexander Bochman</author>
+<title>Propositional Argumentation and Causal Reasoning.</title>
+<pages>388-393</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0306.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Bochman05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BoothN05" mdate="2019-08-20">
+<author pid="58/6050">Richard Booth 0001</author>
+<author pid="17/3882">Alexander Nittka</author>
+<title>Reconstructing an Agent's Epistemic State from Observations.</title>
+<pages>394-399</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0747.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BoothN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BrooksYL05" mdate="2019-08-20">
+<author pid="08/1585">Martin Brooks</author>
+<author pid="y/YuhongYan">Yuhong Yan</author>
+<author pid="l/DanielLemire">Daniel Lemire</author>
+<title>Scale-Based Monotonicity Analysis in Qualitative Modelling with Flat Segments.</title>
+<pages>400-405</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0890.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BrooksYL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CalimeriFLP05" mdate="2021-01-21">
+<author orcid="0000-0002-0866-0834" pid="c/FrancescoCalimeri">Francesco Calimeri</author>
+<author pid="f/WolfgangFaber">Wolfgang Faber 0001</author>
+<author pid="l/NicolaLeone">Nicola Leone</author>
+<author pid="80/5264">Simona Perri</author>
+<title>Declarative and Computational Properties of Logic Programs with Aggregates.</title>
+<pages>406-411</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1346.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CalimeriFLP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Chen05" mdate="2019-08-20">
+<author pid="83/3627">Hubie Chen</author>
+<title>Parameterized Compilability.</title>
+<pages>412-417</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0644.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Chen05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/EiterEFS05" mdate="2019-08-20">
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="e/EsraErdem">Esra Erdem 0001</author>
+<author pid="f/MFink">Michael Fink 0001</author>
+<author pid="15/3423">J&#225;n Senko</author>
+<title>Updating Action Domain Descriptions.</title>
+<pages>418-423</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1167.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#EiterEFS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/EveraereKM05" mdate="2019-08-20">
+<author pid="07/5567">Patricia Everaere</author>
+<author pid="36/1515">S&#233;bastien Konieczny</author>
+<author pid="37/6177">Pierre Marquis</author>
+<title>Quota and Gmin Merging Operators.</title>
+<pages>424-429</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0780.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#EveraereKM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FaberK05" mdate="2019-08-20">
+<author pid="f/WolfgangFaber">Wolfgang Faber 0001</author>
+<author pid="72/6610">Kathrin Konczak</author>
+<title>Strong Equivalence for Logic Programs with Preferences.</title>
+<pages>430-435</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1048.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FaberK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FinziP05" mdate="2019-08-20">
+<author pid="85/1161">Alberto Finzi</author>
+<author pid="p/FioraPirri">Fiora Pirri</author>
+<title>Representing Flexible Temporal Behaviors in the Situation Calculus.</title>
+<pages>436-441</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1562.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FinziP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HerzigV05" mdate="2019-08-20">
+<author pid="h/AndreasHerzig">Andreas Herzig</author>
+<author pid="56/1139">Ivan Jos&#233; Varzinczak</author>
+<title>Cohesion, coupling and the meta-theory of actions.</title>
+<pages>442-447</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1254.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HerzigV05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HorrocksS05" mdate="2022-04-12">
+<author pid="h/IanHorrocks">Ian Horrocks 0001</author>
+<author pid="s/UlrikeSattler">Ulrike Sattler</author>
+<title>A Tableaux Decision Procedure for SHOIQ.</title>
+<pages>448-453</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0759.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HorrocksS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HuangHT05" mdate="2019-08-20">
+<author pid="h/ZhishengHuang">Zhisheng Huang</author>
+<author pid="h/FrankvanHarmelen">Frank van Harmelen</author>
+<author pid="96/3134">Annette ten Teije</author>
+<title>Reasoning with Inconsistent Ontologies.</title>
+<pages>454-459</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0337.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HuangHT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HunterD05" mdate="2019-08-20">
+<author pid="28/4803">Aaron Hunter</author>
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<title>Iterated Belief Change: A Transition System Approach.</title>
+<pages>460-465</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0590.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HunterD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HustadtMS05" mdate="2019-08-20">
+<author pid="h/UllrichHustadt">Ullrich Hustadt</author>
+<author pid="56/1508">Boris Motik</author>
+<author pid="s/UlrikeSattler">Ulrike Sattler</author>
+<title>Data Complexity of Reasoning in Very Expressive Description Logics.</title>
+<pages>466-471</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0326.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HustadtMS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/InoueS05" mdate="2019-08-20">
+<author pid="i/KatsumiInoue">Katsumi Inoue</author>
+<author pid="s/ChiakiSakama">Chiaki Sakama</author>
+<title>Equivalence in Abductive Logic.</title>
+<pages>472-477</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0612.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#InoueS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/JinT05" mdate="2020-12-18">
+<author pid="38/4674-6">Yi Jin 0006</author>
+<author pid="t/MichaelThielscher">Michael Thielscher</author>
+<title>Iterated Belief Revision, Revised.</title>
+<pages>478-483</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0779.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#JinT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KoniecznyLM05" mdate="2019-08-20">
+<author pid="36/1515">S&#233;bastien Konieczny</author>
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<author pid="37/6177">Pierre Marquis</author>
+<title>Reasoning under inconsistency: the forgotten connective.</title>
+<pages>484-489</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0776.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KoniecznyLM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LakemeyerL05" mdate="2019-08-20">
+<author pid="l/GerhardLakemeyer">Gerhard Lakemeyer</author>
+<author pid="l/HJLevesque">Hector J. Levesque</author>
+<title>Semantics for a useful fragment of the situation calculus.</title>
+<pages>490-496</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0973.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LakemeyerL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LavernyL05" mdate="2019-08-20">
+<author pid="48/5660">No&#235;l Laverny</author>
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<title>From knowledge-based programs to graded belief-based programs, part II: off-line reasoning.</title>
+<pages>497-502</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0997.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LavernyL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Lee05" mdate="2021-01-15">
+<author pid="15/4797-2">Joohyung Lee 0002</author>
+<title>A Model-Theoretic Counterpart of Loop Formulas.</title>
+<pages>503-508</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1280.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Lee05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Levesque05" mdate="2019-08-20">
+<author pid="l/HJLevesque">Hector J. Levesque</author>
+<title>Planning with Loops.</title>
+<pages>509-515</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0305.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Levesque05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LinC05" mdate="2022-05-19">
+<author pid="73/6980">Fangzhen Lin</author>
+<author pid="32/6098-5">Yin Chen 0005</author>
+<title>Discovering Classes of Strongly Equivalent Logic Programs.</title>
+<pages>516-521</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0601.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LinC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LiuL05" mdate="2019-08-20">
+<author pid="73/4188-1">Yongmei Liu 0001</author>
+<author pid="l/HJLevesque">Hector J. Levesque</author>
+<title>Tractable Reasoning with Incomplete First-Order Knowledge in Dynamic Systems with Context-Dependent Actions.</title>
+<pages>522-527</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0706.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LiuL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MastellaALR05" mdate="2019-08-20">
+<author pid="13/777">Laura S. Mastella</author>
+<author pid="a/MaraAbel">Mara Abel</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<author pid="63/722">Luis Fernando De Ros</author>
+<title>Cognitive Modelling of Event Ordering Reasoning in Imagistic Domains.</title>
+<pages>528-533</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0472.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MastellaALR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/NordhZ05" mdate="2019-08-20">
+<author pid="n/GustavNordh">Gustav Nordh</author>
+<author pid="67/2283">Bruno Zanuttini</author>
+<title>Propositional Abduction is Almost Always Hard.</title>
+<pages>534-539</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0524.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#NordhZ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PagnuccoR05" mdate="2019-08-20">
+<author pid="p/MauricePagnucco">Maurice Pagnucco</author>
+<author pid="59/4677">David Rajaratnam</author>
+<title>Inverse Resolution as Belief Change.</title>
+<pages>540-545</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0765.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PagnuccoR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Patel-Schneider05" mdate="2019-08-20">
+<author pid="78/850">Peter F. Patel-Schneider</author>
+<title>Building the Semantic Web Tower from RDF Straw.</title>
+<pages>546-551</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0319.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Patel-Schneider05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/QiLB05" mdate="2019-08-20">
+<author pid="71/5935">Guilin Qi</author>
+<author pid="l/WeiruLiu">Weiru Liu</author>
+<author pid="b/DavidABell">David A. Bell</author>
+<title>Measuring conflict and agreement between two prioritized belief bases.</title>
+<pages>552-557</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0342.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#QiLB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RoelofsenS05" mdate="2019-08-20">
+<author pid="22/2908">Floris Roelofsen</author>
+<author pid="s/LucianoSerafini">Luciano Serafini</author>
+<title>Minimal and Absent Information in Contexts.</title>
+<pages>558-563</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1045.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RoelofsenS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SantosBS05" mdate="2019-08-20">
+<author pid="33/5229">Paulo E. Santos</author>
+<author pid="87/2029">Brandon Bennett</author>
+<author pid="52/4981">Georgios Sakellariou</author>
+<title>Supervaluation Semantics for an Inland Water Feature Ontology.</title>
+<pages>564-569</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1187.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SantosBS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SerafiniBT05" mdate="2019-08-20">
+<author pid="s/LucianoSerafini">Luciano Serafini</author>
+<author pid="b/ABorgida">Alexander Borgida</author>
+<author pid="45/4376">Andrei Tamilin</author>
+<title>Aspects of Distributed and Modular Ontology Reasoning.</title>
+<pages>570-575</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0801.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SerafiniBT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SerafiniSW05" mdate="2019-08-20">
+<author pid="s/LucianoSerafini">Luciano Serafini</author>
+<author pid="50/5895">Heiner Stuckenschmidt</author>
+<author pid="63/1753">Holger Wache</author>
+<title>A Formal Investigation of Mapping Language for Terminological Knowledge.</title>
+<pages>576-581</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0589.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SerafiniSW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ShapiroLL05" mdate="2019-08-20">
+<author pid="84/5951">Steven Shapiro</author>
+<author pid="74/5003">Yves Lesp&#233;rance</author>
+<author pid="l/HJLevesque">Hector J. Levesque</author>
+<title>Goal Change.</title>
+<pages>582-588</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1114.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ShapiroLL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ShiraziA05" mdate="2019-08-20">
+<author pid="54/3965">Afsaneh Shirazi</author>
+<author pid="17/1143">Eyal Amir</author>
+<title>First-Order Logical Filtering.</title>
+<pages>589-595</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1665.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ShiraziA05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SucB05" mdate="2019-08-20">
+<author pid="s/DorianSuc">Dorian Suc</author>
+<author pid="b/IvanBratko">Ivan Bratko</author>
+<title>Combining Learning Constraints and Numerical Regression.</title>
+<pages>596-602</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1558.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SucB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TomanW05" mdate="2022-11-05">
+<author pid="t/DavidToman">David Toman 0001</author>
+<author pid="81/5447">Grant E. Weddell</author>
+<title>On the Interaction between Inverse Features and Path-functional Dependencies in Description Logics.</title>
+<pages>603-608</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1421.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#TomanW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TsarkovH05" mdate="2022-04-12">
+<author pid="46/5520">Dmitry Tsarkov</author>
+<author pid="h/IanHorrocks">Ian Horrocks 0001</author>
+<title>Ordering Heuristics for Description Logic Reasoning.</title>
+<pages>609-614</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1352.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#TsarkovH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/YamanNS05" mdate="2019-08-20">
+<author pid="38/3765">Fusun Yaman</author>
+<author pid="n/DanaSNau">Dana S. Nau</author>
+<author pid="s/VSSubrahmanian">V. S. Subrahmanian</author>
+<title>Going Far, Logically.</title>
+<pages>615-620</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1249.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#YamanNS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/YamanNS05a" mdate="2019-08-20">
+<author pid="38/3765">Fusun Yaman</author>
+<author pid="n/DanaSNau">Dana S. Nau</author>
+<author pid="s/VSSubrahmanian">V. S. Subrahmanian</author>
+<title>A Motion Closed World Asumption.</title>
+<pages>621-626</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1227.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#YamanNS05a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhangFW05" mdate="2022-07-27">
+<author pid="04/3348-3">Yan Zhang 0003</author>
+<author pid="f/NormanYFoo">Norman Y. Foo</author>
+<author pid="52/2483-1">Kewen Wang 0001</author>
+<title>Solving Logic Program Conflict through Strong and Weak Forgettings.</title>
+<pages>627-634</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0488.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ZhangFW05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/AlvarezB05" mdate="2019-08-20">
+<author pid="13/346">Isabelle Alvarez</author>
+<author pid="87/5770">Stephan Bernard</author>
+<title>Ranking Cases with Decision Trees: a Geometric Method that Preserves Intelligibility.</title>
+<pages>635-640</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1502.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AlvarezB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/AngelopoulosC05" mdate="2019-08-20">
+<author pid="45/4794">Nicos Angelopoulos</author>
+<author pid="97/1440">James Cussens</author>
+<title>Exploiting Informative Priors for Bayesian Classification and Regression Trees.</title>
+<pages>641-646</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1013.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AngelopoulosC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/AtzmullerPB05" mdate="2019-08-20">
+<author pid="22/4732">Martin Atzm&#252;ller</author>
+<author pid="14/4857">Frank Puppe</author>
+<author pid="73/6003">Hans-Peter Buscher</author>
+<title>Exploiting Background Knowledge for Knowledge-Intensive Subgroup Discovery.</title>
+<pages>647-652</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1217.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AtzmullerPB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Avrahami-ZilberbrandK05" mdate="2019-08-20">
+<author pid="25/4486">Dorit Avrahami-Zilberbrand</author>
+<author pid="28/5426">Gal A. Kaminka</author>
+<title>Fast and Complete Symbolic Plan Recognition.</title>
+<pages>653-658</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1268.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Avrahami-ZilberbrandK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CiaramitaGRSR05" mdate="2019-08-20">
+<author pid="31/916">Massimiliano Ciaramita</author>
+<author pid="28/6504">Aldo Gangemi</author>
+<author pid="77/4533">Esther Ratsch</author>
+<author pid="65/2867">Jasmin Saric</author>
+<author pid="98/3631">Isabel Rojas</author>
+<title>Unsupervised Learning of Semantic Relations between Concepts of a Molecular Biology Ontology.</title>
+<pages>659-664</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1423.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CiaramitaGRSR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CohenRD05" mdate="2019-08-20">
+<author pid="04/5629">Shay B. Cohen</author>
+<author pid="57/3862">Eytan Ruppin</author>
+<author pid="06/6216">Gideon Dror</author>
+<title>Feature Selection Based on the Shapley Value.</title>
+<pages>665-670</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0763.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CohenRD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CohenC05" mdate="2019-08-20">
+<author pid="c/WWCohen">William W. Cohen</author>
+<author pid="c/VitorRCarvalho">Vitor Rocha de Carvalho</author>
+<title>Stacked Sequential Learning.</title>
+<pages>671-676</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0378.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CohenC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DavisBDPRCS05" mdate="2019-08-20">
+<author pid="d/JesseDavis">Jesse Davis</author>
+<author pid="b/ESBurnside">Elizabeth S. Burnside</author>
+<author pid="62/1328">In&#234;s de Castro Dutra</author>
+<author pid="p/DavidPage">David Page</author>
+<author pid="r/RaghuRamakrishnan">Raghu Ramakrishnan</author>
+<author pid="71/1213">V&#237;tor Santos Costa</author>
+<author pid="s/JudeWShavlik">Jude W. Shavlik</author>
+<title>View Learning for Statistical Relational Learning: With an Application to Mammography.</title>
+<pages>677-683</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0664.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DavisBDPRCS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DiligentiGM05" mdate="2019-08-20">
+<author pid="11/5691">Michelangelo Diligenti</author>
+<author pid="g/MarcoGori">Marco Gori</author>
+<author pid="59/1233">Marco Maggini</author>
+<title>Learning Web Page Scores by Error Back-Propagation.</title>
+<pages>684-689</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1205.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DiligentiGM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Even-DarKM05" mdate="2019-08-20">
+<author pid="e/EyalEvanDar">Eyal Even-Dar</author>
+<author pid="s/SMKakade">Sham M. Kakade</author>
+<author pid="m/YishayMansour">Yishay Mansour</author>
+<title>Reinforcement Learning in POMDPs Without Resets.</title>
+<pages>690-695</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0685.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Even-DarKM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Fern05" mdate="2019-08-20">
+<author pid="49/6764">Alan Fern</author>
+<title>A Simple-Transition Model for Relational Sequences.</title>
+<pages>696-701</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0509.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Fern05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FlachW05" mdate="2019-08-20">
+<author pid="f/PeterAFlach">Peter A. Flach</author>
+<author pid="54/4348">Shaomin Wu</author>
+<title>Repairing Concavities in ROC Curves.</title>
+<pages>702-707</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0652.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FlachW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GalstyanC05" mdate="2019-08-20">
+<author pid="16/3411">Aram Galstyan</author>
+<author pid="59/840">Paul R. Cohen</author>
+<title>Inferring Useful Heuristics from the Dynamics of Iterative Relational Classifiers.</title>
+<pages>708-713</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1637.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GalstyanC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GuoGS05" mdate="2019-08-20">
+<author pid="34/5185">Yuhong Guo</author>
+<author pid="g/RussellGreiner">Russell Greiner</author>
+<author pid="96/6660">Dale Schuurmans</author>
+<title>Learning Coordination Classifiers.</title>
+<pages>714-721</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1585.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GuoGS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HaS05" mdate="2019-08-20">
+<author pid="49/3499">Vu Ha</author>
+<author pid="25/2016">Tariq Samad</author>
+<title>Generalization Bounds for Weighted Binary Classification with Applications to Statistical Verification.</title>
+<pages>722-727</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1486.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HaS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HamoM05" mdate="2019-08-20">
+<author pid="88/779">Yaniv Hamo</author>
+<author pid="m/ShaulMarkovitch">Shaul Markovitch</author>
+<title>The COMPSET Algorithm for Subset Selection.</title>
+<pages>728-733</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1574.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HamoM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/JamesWS05" mdate="2022-04-19">
+<author pid="34/3666-1">Michael R. James 0001</author>
+<author pid="31/3470">Britton Wolfe</author>
+<author pid="09/3058">Satinder Singh 0001</author>
+<title>Combining Memory and Landmarks with Predictive State Representations.</title>
+<pages>734-739</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1621.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#JamesWS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/JinL05" mdate="2022-01-11">
+<author pid="j/RongJin">Rong Jin 0001</author>
+<author pid="92/309-1">Huan Liu 0001</author>
+<title>Learning with Labeled Sessions.</title>
+<pages>740-745</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0897.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#JinL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/JinL05a" mdate="2022-01-03">
+<author pid="j/RongJin">Rong Jin 0001</author>
+<author pid="92/309-1">Huan Liu 0001</author>
+<title>A Novel Approach to Model Generation for Heterogeneous Data Classification.</title>
+<pages>746-751</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0896.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#JinL05a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/JongS05" mdate="2019-08-20">
+<author pid="25/2154">Nicholas K. Jong</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>State Abstraction Discovery from Irrelevant State Variables.</title>
+<pages>752-757</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1655.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#JongS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KapanciP05" mdate="2019-08-20">
+<author pid="61/736">Emir Kapanci</author>
+<author pid="p/AviPfeffer">Avi Pfeffer</author>
+<title>Signal-to-Score Music Transcription using Graphical Models.</title>
+<pages>758-765</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0657.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KapanciP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LesterCKBH05" mdate="2019-08-20">
+<author pid="98/2892">Jonathan Lester</author>
+<author pid="86/45">Tanzeem Choudhury</author>
+<author pid="28/1419">Nicky Kern</author>
+<author pid="b/GBorriello">Gaetano Borriello</author>
+<author pid="57/5967">Blake Hannaford</author>
+<title>A Hybrid Discriminative/Generative Approach for Modeling Human Activities.</title>
+<pages>766-772</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0888.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LesterCKBH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LiaoFK05" mdate="2019-08-20">
+<author pid="10/1837">Lin Liao</author>
+<author pid="f/DieterFox">Dieter Fox</author>
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<title>Location-Based Activity Recognition using Relational Markov Networks.</title>
+<pages>773-778</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1572.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LiaoFK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MarthiRLG05" mdate="2022-04-20">
+<author pid="80/3795">Bhaskara Marthi</author>
+<author pid="r/SJRussell">Stuart Russell 0001</author>
+<author pid="39/490">David Latham</author>
+<author pid="38/769">Carlos Guestrin</author>
+<title>Concurrent Hierarchical Reinforcement Learning.</title>
+<pages>779-785</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1552.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MarthiRLG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/McCallumCW05" mdate="2019-08-20">
+<author pid="m/AndrewMcCallum">Andrew McCallum</author>
+<author pid="30/6453">Andr&#233;s Corrada-Emmanuel</author>
+<author pid="37/2862">Xuerui Wang</author>
+<title>Topic and Role Discovery in Social Networks.</title>
+<pages>786-791</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1623.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#McCallumCW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/McGarryW05" mdate="2019-08-20">
+<author pid="55/6364">Kenneth McGarry</author>
+<author pid="03/3914">Stefan Wermter</author>
+<title>Training without data: Knowledge Insertion into RBF Neural Networks.</title>
+<pages>792-797</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0458.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#McGarryW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MordohaiM05" mdate="2019-08-20">
+<author pid="10/618">Philippos Mordohai</author>
+<author pid="02/3016">G&#233;rard G. Medioni</author>
+<title>Unsupervised Dimensionality Estimation and Manifold Learning in high-dimensional Spaces by Tensor Voting.</title>
+<pages>798-803</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0347.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MordohaiM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/NakajimaW05" mdate="2019-08-20">
+<author pid="97/6115">Shinichi Nakajima</author>
+<author pid="28/390">Sumio Watanabe</author>
+<title>Generalization Error of Linear Neural Networks in an Empirical Bayes Approach.</title>
+<pages>804-810</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0770.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#NakajimaW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PernotCS05" mdate="2019-08-20">
+<author pid="87/2166">Nicolas Pernot</author>
+<author pid="c/AntoineCornuejols">Antoine Cornu&#233;jols</author>
+<author pid="s/MicheleSebag">Mich&#232;le Sebag</author>
+<title>Phase Transitions within Grammatical Inference.</title>
+<pages>811-816</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1464.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PernotCS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PowersS05" mdate="2019-08-20">
+<author pid="23/1046">Rob Powers</author>
+<author pid="s/YoavShoham">Yoav Shoham</author>
+<title>Learning against opponents with bounded memory.</title>
+<pages>817-822</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1349.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PowersS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PratiF05" mdate="2019-08-20">
+<author pid="34/586">Ronaldo C. Prati</author>
+<author pid="f/PeterAFlach">Peter A. Flach</author>
+<title>ROCCER: An Algorithm for Rule Learning Based on ROC Analysis.</title>
+<pages>823-828</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0621.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PratiF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/QiuW05" mdate="2019-08-20">
+<author pid="69/1395">Xipeng Qiu</author>
+<author pid="72/2097">Lide Wu</author>
+<title>Stepwise Nearest Neighbor Discriminant Analysis.</title>
+<pages>829-834</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0902.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#QiuW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RafolsRST05" mdate="2019-08-20">
+<author pid="90/4182">Eddie J. Rafols</author>
+<author pid="75/6510">Mark B. Ring</author>
+<author pid="48/6070">Richard S. Sutton</author>
+<author pid="03/5196">Brian Tanner</author>
+<title>Using Predictive Representations to Improve Generalization in Reinforcement Learning.</title>
+<pages>835-840</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1650.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RafolsRST05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RaghavanMJ05" mdate="2019-08-20">
+<author pid="49/4836">Hema Raghavan</author>
+<author pid="82/1151">Omid Madani</author>
+<author pid="40/5446">Rosie Jones</author>
+<title>InterActive Feature Selection.</title>
+<pages>841-846</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1401.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RaghavanMJ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SatoKZ05" mdate="2019-08-20">
+<author pid="11/864">Taisuke Sato</author>
+<author pid="41/6140">Yoshitaka Kameya</author>
+<author pid="z/NengFaZhou">Neng-Fa Zhou</author>
+<title>Generative Modeling with Failure in PRISM.</title>
+<pages>847-852</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0529.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SatoKZ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SchmidhuberWG05" mdate="2019-08-20">
+<author pid="s/JurgenSchmidhuber">J&#252;rgen Schmidhuber</author>
+<author pid="65/6056">Daan Wierstra</author>
+<author pid="73/5325">Faustino J. Gomez</author>
+<title>Evolino: Hybrid Neuroevolution/Optimal Linear Search for Sequence Learning.</title>
+<pages>853-858</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1452.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SchmidhuberWG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SebagTTLB05" mdate="2019-08-20">
+<author pid="s/MicheleSebag">Mich&#232;le Sebag</author>
+<author pid="25/2825">Nicolas Tarrisson</author>
+<author pid="53/2584">Olivier Teytaud</author>
+<author pid="09/2390">Julien Lef&#232;vre</author>
+<author pid="07/6824">Sylvain Baillet</author>
+<title>A Multi-Objective Multi-Modal Optimization Approach for Mining Stable Spatio-Temporal Patterns.</title>
+<pages>859-864</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1077.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SebagTTLB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TannerS05" mdate="2019-08-20">
+<author pid="03/5196">Brian Tanner</author>
+<author pid="48/6070">Richard S. Sutton</author>
+<title>Temporal-Difference Networks with History.</title>
+<pages>865-870</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1640.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#TannerS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TobudicW05" mdate="2019-08-20">
+<author pid="34/4935">Asmir Tobudic</author>
+<author pid="w/GerhardWidmer">Gerhard Widmer</author>
+<title>Learning to Play Like the Great Pianists.</title>
+<pages>871-876</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0448.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#TobudicW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TsymbalPC05" mdate="2019-08-20">
+<author pid="89/4236">Alexey Tsymbal</author>
+<author pid="37/4649">Mykola Pechenizkiy</author>
+<author pid="c/PadraigCunningham">Padraig Cunningham</author>
+<title>Sequential Genetic Search for Ensemble Feature Selection.</title>
+<pages>877-882</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1312.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#TsymbalPC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/VelcinG05" mdate="2019-08-20">
+<author pid="87/1950">Julien Velcin</author>
+<author pid="g/JGGanascia">Jean-Gabriel Ganascia</author>
+<title>Stereotype Extraction with Default Clustering.</title>
+<pages>883-888</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0964.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#VelcinG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WilkinsonBG05" mdate="2019-08-20">
+<author pid="10/3293">Dana F. Wilkinson</author>
+<author pid="71/5161">Michael H. Bowling</author>
+<author pid="71/4226-1">Ali Ghodsi 0001</author>
+<title>Learning Subjective Representations for Planning.</title>
+<pages>889-894</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1603.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#WilkinsonBG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WilsonP05" mdate="2019-08-20">
+<author pid="59/3207">Daniel H. Wilson</author>
+<author pid="p/MPhilipose">Matthai Philipose</author>
+<title>Maximum A Posteriori Path Estimation with Input Trace Perturbation: Algorithms and Application to Credible Rating of Human Routines.</title>
+<pages>895-901</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1235.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#WilsonP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/YangPM05" mdate="2019-08-20">
+<author pid="04/999-2">Hui Yang 0002</author>
+<author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="91/877">Sameep Mehta</author>
+<title>Mining Spatial Object Associations for Scientific Data.</title>
+<pages>902-907</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1422.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#YangPM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhouL05" mdate="2019-08-20">
+<author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author>
+<author pid="l/MingLi5">Ming Li 0005</author>
+<title>Semi-Supervised Regression with Co-Training.</title>
+<pages>908-916</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0689.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ZhouL05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Multi-Agent Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/AltmanT05" mdate="2019-08-20">
+<author pid="89/2427">Alon Altman</author>
+<author pid="t/MosheTennenholtz">Moshe Tennenholtz</author>
+<title>On the Axiomatic Foundations of Ranking Systems.</title>
+<pages>917-922</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0374.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AltmanT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BaharT05" mdate="2019-08-20">
+<author pid="35/4200">Gal Bahar</author>
+<author pid="t/MosheTennenholtz">Moshe Tennenholtz</author>
+<title>Sequential-Simultaneous Information Elicitation in Multi-Agent Systems.</title>
+<pages>923-928</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0404.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BaharT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BoutilierPPS05" mdate="2019-08-20">
+<author pid="10/3411">Craig Boutilier</author>
+<author pid="05/6326">Relu Patrascu</author>
+<author pid="26/2122">Pascal Poupart</author>
+<author pid="96/6660">Dale Schuurmans</author>
+<title>Regret-based Utility Elicitation in Constraint-based Decision Problems.</title>
+<pages>929-934</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0398.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BoutilierPPS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BouveretL05" mdate="2019-08-20">
+<author pid="90/5102">Sylvain Bouveret</author>
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<title>Efficiency and envy-freeness in fair division of indivisible goods: logical representation and complexity.</title>
+<pages>935-940</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0656.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BouveretL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ChevaleyreEM05" mdate="2019-08-20">
+<author pid="55/5658">Yann Chevaleyre</author>
+<author pid="e/UlrichEndriss">Ulle Endriss</author>
+<author pid="93/1858">Nicolas Maudet</author>
+<title>On Maximal Classes of Utility Functions for Efficient one-to-one Negotiation.</title>
+<pages>941-946</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1338.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ChevaleyreEM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DasK05" mdate="2019-08-20">
+<author pid="30/2277">Sanmay Das</author>
+<author pid="17/2873">Emir Kamenica</author>
+<title>Two-Sided Bandits and the Dating Market.</title>
+<pages>947-952</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0334.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DasK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FaltingsN05" mdate="2019-08-20">
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<author pid="37/656-3">Quang Huy Nguyen 0003</author>
+<title>Multi-agent Coordination using Local Search.</title>
+<pages>953-958</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1100.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FaltingsN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LahaieCP05" mdate="2019-08-20">
+<author pid="41/1766">S&#233;bastien Lahaie</author>
+<author pid="15/2528">Florin Constantin</author>
+<author pid="p/DavidCParkes">David C. Parkes</author>
+<title>More on the Power of Demand Queries in Combinatorial Auctions: Learning Atomic Languages and Handling Incentives.</title>
+<pages>959-964</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1481.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LahaieCP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PujolDSF05" mdate="2019-08-20">
+<author pid="p/JosepMPujol">Josep M. Pujol</author>
+<author pid="94/3495">Jordi Delgado</author>
+<author pid="s/RamonSanguesa">Ramon Sang&#252;esa</author>
+<author pid="17/3074">Andreas Flache</author>
+<title>The Role of Clustering on the Emergence of Efficient Social Conventions.</title>
+<pages>965-970</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1303.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PujolDSF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RossiKC05" mdate="2022-12-22">
+<author pid="19/1326-2">Silvia Rossi 0002</author>
+<author pid="27/343-4">Sanjeev Kumar 0004</author>
+<author pid="69/1786">Philip R. Cohen</author>
+<title>Distributive and Collective Readings in Group Protocols.</title>
+<pages>971-976</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1539.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RossiKC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/VorobeychikWS05" mdate="2022-04-19">
+<author pid="70/2217">Yevgeniy Vorobeychik</author>
+<author pid="w/MichaelPWellman">Michael P. Wellman</author>
+<author pid="09/3058">Satinder Singh 0001</author>
+<title>Learning Payoff Functions in Infinite Games.</title>
+<pages>977-982</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0527.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#VorobeychikWS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Zhang05" mdate="2019-08-20">
+<author pid="12/4822">Dongmo Zhang</author>
+<title>A Logical Model of Nash Bargaining Solution.</title>
+<pages>983-990</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0518.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Zhang05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Natural Language</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BeckerO05" mdate="2019-08-20">
+<author pid="63/4934-2">Markus Becker 0002</author>
+<author pid="90/2594">Miles Osborne</author>
+<title>A Two-Stage Method for Active Learning of Statistical Grammars.</title>
+<pages>991-996</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1643.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BeckerO05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BoguraevA05" mdate="2019-08-20">
+<author pid="06/2813">Branimir Boguraev</author>
+<author pid="90/3461">Rie Kubota Ando</author>
+<title>TimeML-Compliant Text Analysis for Temporal Reasoning.</title>
+<pages>997-1003</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1202.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BoguraevA05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BohnetD05" mdate="2019-08-20">
+<author pid="59/4391">Bernd Bohnet</author>
+<author pid="92/5943">Robert Dale</author>
+<title>Viewing Referring Expression Generation as Search.</title>
+<pages>1004-1009</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0969.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BohnetD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ChanN05" mdate="2019-08-20">
+<author pid="90/1053">Yee Seng Chan</author>
+<author pid="97/3037">Hwee Tou Ng</author>
+<title>Word Sense Disambiguation with Distribution Estimation.</title>
+<pages>1010-1015</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1543.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ChanN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ChidlovskiiF05" mdate="2019-08-20">
+<author pid="c/BChidlovskii">Boris Chidlovskii</author>
+<author pid="82/6145">J&#233;r&#244;me Fuselier</author>
+<title>A Probabilistic Learning Method for XML Annotation of Documents.</title>
+<pages>1016-1021</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0501.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ChidlovskiiF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CohenMC05" mdate="2019-08-20">
+<author pid="59/840">Paul R. Cohen</author>
+<author pid="84/3699">Clayton T. Morrison</author>
+<author pid="81/3516">Erin Cannon</author>
+<title>Maps for Verbs: The Relation Between Interaction Dynamics and Verb Use.</title>
+<pages>1022-1027</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0721.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CohenMC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CohenMT05" mdate="2019-08-20">
+<author pid="c/WWCohen">William W. Cohen</author>
+<author pid="25/559">Einat Minkov</author>
+<author pid="t/AnthonyTomasic">Anthony Tomasic</author>
+<title>Learning to Understand Web Site Update Requests.</title>
+<pages>1028-1033</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1331.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CohenMT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DowneyES05" mdate="2019-08-20">
+<author pid="57/5363">Doug Downey</author>
+<author pid="e/OEtzioni">Oren Etzioni</author>
+<author pid="95/3490">Stephen Soderland</author>
+<title>A Probabilistic Model of Redundancy in Information Extraction.</title>
+<pages>1034-1041</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1390.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DowneyES05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ElzerCZCGD05" mdate="2021-11-22">
+<author pid="97/2344">Stephanie Elzer</author>
+<author pid="84/1160">Sandra Carberry</author>
+<author pid="z/IngridZukerman">Ingrid Zukerman</author>
+<author pid="86/2363">Daniel Chester</author>
+<author pid="51/5342">Nancy L. Green</author>
+<author pid="44/1458">Seniz Demir</author>
+<title>A Probabilistic Framework for Recognizing Intention in Information Graphics.</title>
+<pages>1042-1047</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0572.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ElzerCZCGD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GabrilovichM05" mdate="2019-08-20">
+<author pid="84/1449">Evgeniy Gabrilovich</author>
+<author pid="m/ShaulMarkovitch">Shaul Markovitch</author>
+<title>Feature Generation for Text Categorization Using World Knowledge.</title>
+<pages>1048-1053</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0971.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GabrilovichM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GroisW05" mdate="2019-08-20">
+<author pid="16/3785">Eugene Grois</author>
+<author pid="83/754">David C. Wilkins</author>
+<title>Learning Strategies for Open-Domain Natural Language Question Answering.</title>
+<pages>1054-1060</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1660.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GroisW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HarabagiuBM05" mdate="2019-08-20">
+<author pid="51/3845">Sanda M. Harabagiu</author>
+<author pid="31/5154">Cosmin Adrian Bejan</author>
+<author pid="01/5328">Paul Morarescu</author>
+<title>Shallow Semantics for Relation Extraction.</title>
+<pages>1061-1066</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1589.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HarabagiuBM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/JiangLN05" mdate="2019-08-20">
+<author pid="47/4302">Zheng Ping Jiang</author>
+<author pid="23/6950">Jia Li</author>
+<author pid="97/3037">Hwee Tou Ng</author>
+<title>Semantic Argument Classification Exploiting Argument Interdependence.</title>
+<pages>1067-1072</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0911.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#JiangLN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/JohanssonBDN05" mdate="2019-08-20">
+<author pid="56/3767">Richard Johansson</author>
+<author pid="58/3602">Anders Berglund</author>
+<author pid="82/1898">Magnus Danielsson</author>
+<author pid="63/2645">Pierre Nugues</author>
+<title>Automatic Text-to-Scene Conversion in the Traffic Accident Domain.</title>
+<pages>1073-1078</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0450.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#JohanssonBDN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Kiefer05" mdate="2019-08-20">
+<author pid="67/4878">Bernd Kiefer</author>
+<title>Redundancy-free Island Parsing of Word Graphs.</title>
+<pages>1079-1084</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1037.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Kiefer05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LapataB05" mdate="2019-08-20">
+<author pid="59/6701">Mirella Lapata</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<title>Automatic Evaluation of Text Coherence: Models and Representations.</title>
+<pages>1085-1090</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0505.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LapataB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MichelsonK05" mdate="2019-08-20">
+<author pid="92/6478">Matthew Michelson</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<title>Semantic annotation of unstructured and ungrammatical text.</title>
+<pages>1091-1098</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1287.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MichelsonK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MoldovanCH05" mdate="2019-08-20">
+<author pid="m/DanIMoldovan">Dan I. Moldovan</author>
+<author pid="80/3912">Christine Clark</author>
+<author pid="51/3845">Sanda M. Harabagiu</author>
+<title>Temporal Context Representation and Reasoning.</title>
+<pages>1099-1104</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1538.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MoldovanCH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/NgZDG05" mdate="2019-08-20">
+<author pid="97/3037">Hwee Tou Ng</author>
+<author pid="36/2728">Yu Zhou</author>
+<author pid="92/5943">Robert Dale</author>
+<author pid="09/5973">Mary Gardiner</author>
+<title>A Machine Learning Approach to Identification and Resolution of One-Anaphora.</title>
+<pages>1105-1110</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1582.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#NgZDG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/NicholsBF05" mdate="2019-08-20">
+<author pid="98/4365">Eric Nichols</author>
+<author pid="61/1808">Francis Bond</author>
+<author pid="12/2702">Dan Flickinger</author>
+<title>Robust Ontology Acquisition from Machine-Readable Dictionaries.</title>
+<pages>1111-1116</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1470.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#NicholsBF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PunyakanokRY05" mdate="2019-08-20">
+<author pid="62/6120">Vasin Punyakanok</author>
+<author pid="r/DanRoth">Dan Roth</author>
+<author pid="07/7129">Wen-tau Yih</author>
+<title>The Necessity of Syntactic Parsing for Semantic Role Labeling.</title>
+<pages>1117-1123</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1672.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PunyakanokRY05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PunyakanokRYZ05" mdate="2019-08-20">
+<author pid="62/6120">Vasin Punyakanok</author>
+<author pid="r/DanRoth">Dan Roth</author>
+<author pid="07/7129">Wen-tau Yih</author>
+<author pid="20/6929">Dav Zimak</author>
+<title>Learning and Inference over Constrained Output.</title>
+<pages>1124-1129</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1434.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PunyakanokRYZ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SoucyM05" mdate="2019-08-20">
+<author pid="43/5574">Pascal Soucy</author>
+<author pid="32/2562">Guy W. Mineau</author>
+<title>Beyond TFIDF Weighting for Text Categorization in the Vector Space Model.</title>
+<pages>1130-1135</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0304.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SoucyM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Turney05" mdate="2019-08-20">
+<author pid="t/PeterDTurney">Peter D. Turney</author>
+<title>Measuring Semantic Similarity by Latent Relational Analysis.</title>
+<pages>1136-1141</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0310.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Turney05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/UdupaM05" mdate="2019-08-20">
+<author pid="22/5855">Raghavendra Udupa</author>
+<author pid="52/6027">Hemanta Kumar Maji</author>
+<title>Theory of Alignment Generators and Applications to Statistical Machine Translation.</title>
+<pages>1142-1147</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1286.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#UdupaM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Veale05" mdate="2019-08-20">
+<author pid="32/2480">Tony Veale</author>
+<title>Analogy Generation with HowNet.</title>
+<pages>1148-1153</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0620.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Veale05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Vogt05" mdate="2019-08-20">
+<author pid="41/810">Paul Vogt</author>
+<title>Meaning development versus predefined meanings in language evolution models.</title>
+<pages>1154-1159</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0370.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Vogt05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/XueP05" mdate="2019-08-20">
+<author pid="01/2933">Nianwen Xue</author>
+<author pid="p/MarthaStonePalmer">Martha Stone Palmer</author>
+<title>Automatic Semantic Role Labeling for Chinese Verbs.</title>
+<pages>1160-1165</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0861.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#XueP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/YamamotoKI05" mdate="2019-08-20">
+<author pid="29/4451">Eiko Yamamoto</author>
+<author pid="40/2891">Kyoko Kanzaki</author>
+<author pid="08/3623">Hitoshi Isahara</author>
+<title>Extraction of Hierarchies Based on Inclusion of Co-occurring Words with Frequency Information.</title>
+<pages>1166-1174</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1123.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#YamamotoKI05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Philosophical Foundations</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/ChopraW05" mdate="2019-08-20">
+<author pid="11/2320">Samir Chopra</author>
+<author pid="83/4826">Laurence White</author>
+<title>Attribution of Knowledge to Artificial Agents and their Principals.</title>
+<pages>1175-1180</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0893.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ChopraW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PynadathM05" mdate="2019-08-20">
+<author pid="86/3510">David V. Pynadath</author>
+<author pid="m/StacyMarsella">Stacy Marsella</author>
+<title>PsychSim: Modeling Theory of Mind with Decision-Theoretic Agents.</title>
+<pages>1181-1186</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1559.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PynadathM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SlomanC05" mdate="2019-08-20">
+<author pid="23/5327">Aaron Sloman</author>
+<author pid="93/6461">Jackie Chappell</author>
+<title>The Altricial-Precocial Spectrum for Robots.</title>
+<pages>1187-1194</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1688.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SlomanC05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Planning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Barrett05" mdate="2019-08-20">
+<author pid="62/2823">Anthony Barrett</author>
+<title>Model Compilation for Real-Time Planning and Diagnosis with Feedback.</title>
+<pages>1195-1200</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1625.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Barrett05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BeckW05" mdate="2019-08-20">
+<author pid="43/2165">J. Christopher Beck</author>
+<author pid="00/3956">Nic Wilson</author>
+<title>Proactive Algorithms for Scheduling with Probabilistic Durations.</title>
+<pages>1201-1206</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0748.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BeckW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BentonDK05" mdate="2019-08-20">
+<author pid="63/2238-1">J. Benton 0001</author>
+<author pid="45/3725">Minh Binh Do</author>
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<title>Over-Subscription Planning with Numeric Goals.</title>
+<pages>1207-1213</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1368.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BentonDK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BuffetA05" mdate="2019-08-20">
+<author pid="35/5418">Olivier Buffet</author>
+<author pid="30/3819">Douglas Aberdeen</author>
+<title>Robust Planning with (L)RTDP.</title>
+<pages>1214-1219</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1605.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BuffetA05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FoxLP05" mdate="2021-11-02">
+<author pid="35/2895">Maria Fox 0001</author>
+<author pid="54/3768">Derek Long</author>
+<author pid="98/1401">Julie Porteous</author>
+<title>Abstraction-based Action Ordering in Planning.</title>
+<pages>1220-1225</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0608.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FoxLP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GereviniSS05" mdate="2019-08-20">
+<author pid="73/3274">Alfonso Gerevini</author>
+<author pid="62/6020">Alessandro Saetti</author>
+<author pid="76/6410">Ivan Serina</author>
+<title>Integrating Planning and Temporal Reasoning for Domains with Durations and Time Windows.</title>
+<pages>1226-1231</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1527.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GereviniSS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GutmannFF05" mdate="2019-08-20">
+<author pid="82/6772">Jens-Steffen Gutmann</author>
+<author pid="74/3654">Masaki Fukuchi</author>
+<author pid="56/1768">Masahiro Fujita</author>
+<title>Real-Time Path Planning for Humanoid Robot Navigation.</title>
+<pages>1232-1237</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0974.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GutmannFF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HernandezM05" mdate="2021-05-18">
+<author pid="14/1804-3">Carlos Hern&#225;ndez 0003</author>
+<author pid="96/1119">Pedro Meseguer</author>
+<title>LRTA*(k).</title>
+<pages>1238-1243</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0764.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HernandezM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MausamBBMH05" mdate="2019-08-20">
+<author pid="30/6391">Mausam</author>
+<author pid="75/6622">Emmanuel Benazera</author>
+<author pid="b/RonenIBrafman">Ronen I. Brafman</author>
+<author pid="61/2180">Nicolas Meuleau</author>
+<author pid="02/6770">Eric A. Hansen</author>
+<title>Planning with Continuous Resources in Stochastic Domains.</title>
+<pages>1244-1251</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1501.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MausamBBMH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PistoreMBT05" mdate="2019-08-20">
+<author pid="01/649">Marco Pistore</author>
+<author pid="84/4043">Annapaola Marconi</author>
+<author pid="05/1344">Piergiorgio Bertoli</author>
+<author pid="07/4999">Paolo Traverso</author>
+<title>Automated Composition of Web Services by Planning at the Knowledge Level.</title>
+<pages>1252-1259</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1428.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PistoreMBT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Rintanen05" mdate="2019-08-20">
+<author pid="65/3601">Jussi Rintanen</author>
+<title>Conditional Planning in the Discrete Belief Space.</title>
+<pages>1260-1265</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1084.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Rintanen05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SchafferCC05" mdate="2019-08-20">
+<author pid="93/1914">Steve R. Schaffer</author>
+<author pid="83/4936">Bradley J. Clement</author>
+<author pid="c/SteveAChien">Steve A. Chien</author>
+<title>Probabilistic Reasoning for Plan Robustness.</title>
+<pages>1266-1271</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0875.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SchafferCC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/StulpB05" mdate="2019-08-20">
+<author pid="73/478">Freek Stulp</author>
+<author pid="b/MichaelBeetz">Michael Beetz</author>
+<title>Optimized Execution of Action Chains Using Learned Performance Models of Abstract Actions.</title>
+<pages>1272-1280</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0793.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#StulpB05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Uncertainty</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BenferhatP05" mdate="2019-08-20">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Encoding formulas with partially constrained weights in a possibilistic-like many-sorted propositional logic.</title>
+<pages>1281-1286</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1475.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BenferhatP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BernsteinHZ05" mdate="2019-08-20">
+<author pid="24/6140">Daniel S. Bernstein</author>
+<author pid="02/6770">Eric A. Hansen</author>
+<author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author>
+<title>Bounded Policy Iteration for Decentralized POMDPs.</title>
+<pages>1287-1292</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0379.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BernsteinHZ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BogerPHBFM05" mdate="2020-03-22">
+<author pid="56/4650">Jennifer Boger</author>
+<author pid="26/2122">Pascal Poupart</author>
+<author pid="35/1222">Jesse Hoey</author>
+<author pid="10/3411">Craig Boutilier</author>
+<author pid="50/8807">Geoff R. Fernie</author>
+<author pid="93/1668">Alex Mihailidis</author>
+<title>A Decision-Theoretic Approach to Task Assistance for Persons with Dementia.</title>
+<pages>1293-1299</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1186.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BogerPHBFM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ChanD05" mdate="2019-08-20">
+<author pid="94/6066">Hei Chan</author>
+<author pid="p/ADarwiche">Adnan Darwiche</author>
+<title>Sensitivity Analysis in Markov Networks.</title>
+<pages>1300-1305</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0862.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ChanD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ChaviraD05" mdate="2019-08-20">
+<author pid="86/6262">Mark Chavira</author>
+<author pid="p/ADarwiche">Adnan Darwiche</author>
+<title>Compiling Bayesian Networks with Local Structure.</title>
+<pages>1306-1312</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0931.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ChaviraD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CamposC05" mdate="2019-08-20">
+<author pid="05/2010">Cassio Polpo de Campos</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<title>The Inferential Complexity of Bayesian and Credal Networks.</title>
+<pages>1313-1318</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0841.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CamposC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BrazAR05" mdate="2019-08-20">
+<author pid="87/3963">Rodrigo de Salvo Braz</author>
+<author pid="17/1143">Eyal Amir</author>
+<author pid="r/DanRoth">Dan Roth</author>
+<title>Lifted First-Order Probabilistic Inference.</title>
+<pages>1319-1325</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1548.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BrazAR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DolgovD05" mdate="2019-08-20">
+<author pid="80/2613">Dmitri A. Dolgov</author>
+<author pid="d/EHDurfee">Edmund H. Durfee</author>
+<title>Stationary Deterministic Policies for Constrained MDPs with Multiple Rewards, Costs, and Discount Factors.</title>
+<pages>1326-1331</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1679.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DolgovD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HoeyP05" mdate="2019-08-20">
+<author pid="35/1222">Jesse Hoey</author>
+<author pid="26/2122">Pascal Poupart</author>
+<title>Solving POMDPs with Continuous or Large Discrete Observation Spaces.</title>
+<pages>1332-1338</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1376.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HoeyP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KrauseG05" mdate="2019-08-20">
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="38/769">Carlos Guestrin</author>
+<title>Optimal Nonmyopic Value of Information in Graphical Models - Efficient Algorithms and Theoretical Limits.</title>
+<pages>1339-1345</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1154.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KrauseG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KvetonH05" mdate="2019-08-20">
+<author pid="92/5526">Branislav Kveton</author>
+<author pid="54/4898">Milos Hauskrecht</author>
+<title>An MCMC Approach to Solving Hybrid Factored MDPs.</title>
+<pages>1346-1351</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0569.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KvetonH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MilchMRSOK05" mdate="2022-04-20">
+<author pid="08/2512">Brian Milch</author>
+<author pid="80/3795">Bhaskara Marthi</author>
+<author pid="r/SJRussell">Stuart Russell 0001</author>
+<author pid="12/673">David A. Sontag</author>
+<author pid="24/3730">Daniel L. Ong</author>
+<author pid="95/3462">Andrey Kolobov</author>
+<title>BLOG: Probabilistic Models with Unknown Objects.</title>
+<pages>1352-1359</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1546.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MilchMRSOK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/NgPD05" mdate="2019-08-20">
+<author pid="29/4553">Brenda Ng</author>
+<author pid="p/AviPfeffer">Avi Pfeffer</author>
+<author pid="97/1979">Richard Dearden</author>
+<title>Continuous Time Particle Filtering.</title>
+<pages>1360-1365</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1490.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#NgPD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PanKYC05" mdate="2019-08-20">
+<author pid="02/4704">Jeffrey Junfeng Pan</author>
+<author pid="k/JamesTinYauKwok">James T. Kwok</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<author pid="48/1091">Yiqiang Chen</author>
+<title>Accurate and Low-cost Location Estimation Using Kernels.</title>
+<pages>1366-1371</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1059.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PanKYC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PernySW05" mdate="2019-08-20">
+<author pid="01/3393">Patrice Perny</author>
+<author pid="17/5608">Olivier Spanjaard</author>
+<author pid="06/5519">Paul Weng</author>
+<title>Algebraic Markov Decision Processes.</title>
+<pages>1372-1377</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1677.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PernySW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RosatiG05" mdate="2023-02-03">
+<author pid="00/4014">Riccardo Rosati 0001</author>
+<author pid="g/GeorgGottlob">Georg Gottlob</author>
+<title>Asymptotic Conditional Probability in Modal Logic: A Probabilistic Reconstruction of Nonmonotonic Logic.</title>
+<pages>1378-1383</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1462.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RosatiG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SannerM05" mdate="2019-08-20">
+<author pid="88/3374">Scott Sanner</author>
+<author pid="m/DavidAMcAllester">David A. McAllester</author>
+<title>Affine Algebraic Decision Diagrams (AADDs) and their Application to Structured Probabilistic Inference.</title>
+<pages>1384-1390</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1439.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SannerM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SharmaP05" mdate="2019-08-20">
+<author pid="33/5790">Rita Sharma</author>
+<author pid="p/DavidPoole">David Poole 0001</author>
+<title>Probabilistic Reasoning with Hierarchically Structured Variables.</title>
+<pages>1391-1397</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0681.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SharmaP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Soto05" mdate="2019-08-20">
+<author pid="25/3682">Alvaro Soto</author>
+<title>Self Adaptive Particle Filter.</title>
+<pages>1398-1406</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1360.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Soto05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>User Interface and Modeling</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/AlvaradoD05" mdate="2019-08-20">
+<author pid="63/627">Christine Alvarado</author>
+<author pid="98/5170">Randall Davis</author>
+<title>Dynamically Constructed Bayes Nets for Multi-Domain Sketch Understanding.</title>
+<pages>1407-1412</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1517.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AlvaradoD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FerrezM05" mdate="2019-08-20">
+<author pid="07/6764">Pierre W. Ferrez</author>
+<author pid="m/JosedelRMillan">Jos&#233; del R. Mill&#225;n</author>
+<title>You Are Wrong! - Automatic Detection of Interaction Errors from Brain Waves.</title>
+<pages>1413-1418</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0778.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FerrezM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SmythBBBBCF05" mdate="2019-08-20">
+<author pid="s/BarrySmyth">Barry Smyth</author>
+<author pid="01/1748">Evelyn Balfe</author>
+<author pid="51/3168">Ois&#237;n Boydell</author>
+<author pid="63/5367">Keith Bradley</author>
+<author pid="98/5688">Peter Briggs</author>
+<author pid="78/5164">Maurice Coyle</author>
+<author pid="96/4484">Jill Freyne</author>
+<title>A Live-User Evaluation of Collaborative Web Search.</title>
+<pages>1419-1424</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0680.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SmythBBBBCF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SuebnukarnH05" mdate="2019-08-20">
+<author pid="41/6815">Siriwan Suebnukarn</author>
+<author pid="h/PeterHaddawy">Peter Haddawy</author>
+<title>Clinical-Reasoning Skill Acquisition through Intelligent Group Tutoring.</title>
+<pages>1425-1432</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0531.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SuebnukarnH05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Vision and Robotics</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Amir05" mdate="2019-08-20">
+<author pid="17/1143">Eyal Amir</author>
+<title>Learning Partially Observable Deterministic Action Models.</title>
+<pages>1433-1439</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1505.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Amir05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DeardenD05" mdate="2019-08-20">
+<author pid="91/5649">Anthony M. Dearden</author>
+<author pid="47/1473">Yiannis Demiris</author>
+<title>Learning Forward Models for Robots.</title>
+<pages>1440-1445</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1329.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DeardenD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DhuaC05" mdate="2019-08-20">
+<author pid="96/2760">Arnab Dhua</author>
+<author pid="c/FlorinCutzu">Florin Cutzu</author>
+<title>Inferring Image Templates from Classification Decisions.</title>
+<pages>1446-1451</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1451.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DhuaC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HuuPC05" mdate="2019-09-14">
+<author pid="43/2246">Nicolas Do Huu</author>
+<author pid="61/2296">Williams Paquier</author>
+<author pid="69/6085">Raja Chatila 0001</author>
+<title>Combining Structural Descriptions and Image-based Representations for Image, Object, and Scene Recognition.</title>
+<pages>1452-1457</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1477.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HuuPC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KhadhouriD05" mdate="2019-08-20">
+<author pid="25/5789">Bassam Khadhouri</author>
+<author pid="47/1473">Yiannis Demiris</author>
+<title>Compound Effects of Top-down and Bottom-up Influences on Visual Attention During Action Recognition.</title>
+<pages>1458-1463</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1325.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KhadhouriD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KornienkoKL05" mdate="2019-08-20">
+<author pid="86/4774">Sergey Kornienko</author>
+<author pid="46/1199">Olga Kornienko</author>
+<author pid="15/2915">Paul Levi</author>
+<title>Collective AI: context awareness via communication.</title>
+<pages>1464-1470</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0797.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KornienkoKL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LimketkaiLF05" mdate="2019-08-20">
+<author pid="41/4740">Benson Limketkai</author>
+<author pid="10/1837">Lin Liao</author>
+<author pid="f/DieterFox">Dieter Fox</author>
+<title>Relational Object Maps for Mobile Robots.</title>
+<pages>1471-1476</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1656.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LimketkaiLF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LoutfiCS05" mdate="2019-08-20">
+<author pid="46/4635">Amy Loutfi</author>
+<author pid="c/SilviaCoradeschi">Silvia Coradeschi</author>
+<author pid="29/1929">Alessandro Saffiotti</author>
+<title>Maintaining Coherent Perceptual Information Using Anchoring.</title>
+<pages>1477-1482</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1212.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LoutfiCS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/McNeillV05" mdate="2019-08-20">
+<author pid="91/1552">Graham McNeill</author>
+<author pid="68/1347">Sethu Vijayakumar</author>
+<title>2D Shape Classification and Retrieval.</title>
+<pages>1483-1488</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1579.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#McNeillV05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Ostergaard05" mdate="2019-08-20">
+<author pid="88/2782">Esben Hallundb&#230;k &#216;stergaard</author>
+<title>Efficient Distributed &#34;Hormone&#34; Graph Gradients.</title>
+<pages>1489-1494</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/0449.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Ostergaard05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WerfelBN05" mdate="2019-08-20">
+<author pid="41/256">Justin Werfel</author>
+<author pid="35/6868">Yaneer Bar-Yam</author>
+<author pid="84/5637">Radhika Nagpal</author>
+<title>Building Patterned Structures with Robot Swarms.</title>
+<pages>1495-1504</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/1406.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#WerfelBN05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers:
+AI and Cognitive Architectures</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/KasmarikUM05" mdate="2019-08-20">
+<author pid="84/793">Kathryn Kasmarik</author>
+<author pid="53/4924">William T. B. Uther</author>
+<author pid="m/MaryLouMaher">Mary Lou Maher</author>
+<title>Motivated Agents.</title>
+<pages>1505-1506</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0080.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KasmarikUM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KortenkampB05" mdate="2019-08-20">
+<author pid="56/5493">David Kortenkamp</author>
+<author pid="92/7046">Scott Bell</author>
+<title>Using AI and simulations to design and control space habitats.</title>
+<pages>1507-1508</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0407.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KortenkampB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LeggH05" mdate="2019-08-20">
+<author pid="36/5739">Shane Legg</author>
+<author pid="h/MarcusHutter">Marcus Hutter</author>
+<title>A Universal Measure of Intelligence for Artificial Agents.</title>
+<pages>1509-1510</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0042.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LeggH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MaddenL05" mdate="2021-12-08">
+<author pid="64/6591">Neil Madden</author>
+<author pid="81/6813">Brian Logan 0001</author>
+<title>It's About Time.</title>
+<pages>1511-1512</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0370.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MaddenL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/YoungbloodHHC05" mdate="2019-08-20">
+<author pid="y/GMYoungblood">G. Michael Youngblood</author>
+<author pid="36/3605">Edwin O. Heierman III</author>
+<author pid="h/LawrenceBHolder">Lawrence B. Holder</author>
+<author pid="c/DianeJCook">Diane J. Cook</author>
+<title>Automation Intelligence for the Smart Environment.</title>
+<pages>1513-1514</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0192.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#YoungbloodHHC05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers:
+Constraint Satisfaction and Search</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BeniniBGM05" mdate="2019-08-20">
+<author pid="b/LucaBenini">Luca Benini</author>
+<author pid="48/5390">Davide Bertozzi</author>
+<author pid="13/1315">Alessio Guerri</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>Allocation and Scheduling for MPSoCs via decomposition and no-good generation.</title>
+<pages>1517-1518</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0368.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BeniniBGM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FortinZDF05" mdate="2019-08-20">
+<author pid="52/6663">J&#233;r&#244;me Fortin</author>
+<author pid="72/5778">Pawel Zielinski 0001</author>
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="19/461">H&#233;l&#232;ne Fargier</author>
+<title>Minimizing a Makespan Under Uncertainty.</title>
+<pages>1519-1520</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0283.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FortinZDF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FurcyK05a" mdate="2019-08-20">
+<author pid="63/6493">David Furcy</author>
+<author pid="k/SvenKoenig">Sven Koenig</author>
+<title>Scaling up WA* with Commitment and Diversity.</title>
+<pages>1521-1522</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0239.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FurcyK05a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HoffmannK05" mdate="2019-08-20">
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<author pid="14/237">Sebastian Kupferschmid</author>
+<title>A Covering Problem for Hypercubes.</title>
+<pages>1523-1524</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0074.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HoffmannK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/JiaZ05" mdate="2019-08-20">
+<author pid="99/572">Xiangxue Jia</author>
+<author pid="07/314-1">Jian Zhang 0001</author>
+<title>Predicate-Oriented Isomorphism Elimination in Model Finding.</title>
+<pages>1525-1516</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0303.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#JiaZ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LikitvivatanavongZBF05" mdate="2019-11-26">
+<author pid="04/4146">Chavalit Likitvivatanavong</author>
+<author pid="z/YuanlinZhang">Yuanlin Zhang 0002</author>
+<author pid="63/3554">James Bowen</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Maintaining Arc Consistency using Adaptive Domain Ordering.</title>
+<pages>1527-1528</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0046.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LikitvivatanavongZBF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Musliu05" mdate="2022-01-03">
+<author orcid="0000-0002-3992-8637" pid="64/493">Nysret Musliu</author>
+<title>Combination of Local Search Strategies for Rotating Workforce Scheduling Problem.</title>
+<pages>1529-1530</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0448.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Musliu05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/OSullivanOF05" mdate="2019-08-20">
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<author pid="52/486">Barry O'Callaghan</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Corrective Explanation for Interactive Constraint Satisfaction.</title>
+<pages>1531-1532</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0291.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#OSullivanOF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RazgonM05" mdate="2019-08-20">
+<author pid="91/2007">Igor Razgon</author>
+<author pid="m/AmnonMeisels">Amnon Meisels</author>
+<title>CSP Search with Responsibility Sets and Kernels.</title>
+<pages>1533-1534</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0120.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RazgonM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Samer05" mdate="2019-08-20">
+<author pid="05/2999">Marko Samer</author>
+<title>Hypertree-decomposition via Branch-decomposition.</title>
+<pages>1535-1536</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0349.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Samer05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SanchezLM05" mdate="2019-08-20">
+<author pid="13/7991">Mart&#237; S&#225;nchez-Fibla</author>
+<author pid="27/2738">Javier Larrosa</author>
+<author pid="96/1119">Pedro Meseguer</author>
+<title>Improving Tree Decomposition Methods With Function Filtering.</title>
+<pages>1537-1538</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0395.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SanchezLM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SmithGF05" mdate="2019-08-20">
+<author pid="03/6836">Casey Smith</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<author pid="f/CesarFernandez">C&#232;sar Fern&#225;ndez</author>
+<title>Streamlining Local Search for Spatially Balanced Latin Squares.</title>
+<pages>1539-1540</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0460.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SmithGF05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers:
+Knowledge Representation and Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/AlbertiGLMT05" mdate="2019-08-20">
+<author pid="37/6514">Marco Alberti 0001</author>
+<author pid="15/5240">Marco Gavanelli</author>
+<author pid="l/EvelinaLamma">Evelina Lamma</author>
+<author pid="m/PMello">Paola Mello</author>
+<author pid="t/PaoloTorroni">Paolo Torroni</author>
+<title>Abduction with Hypotheses Confirmation.</title>
+<pages>1545-1546</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0385.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AlbertiGLMT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BellSP05" mdate="2019-08-20">
+<author pid="84/1826-2">Jonathan Bell 0002</author>
+<author pid="85/6730">Neal Snooke</author>
+<author pid="56/5822">Chris J. Price</author>
+<title>A language for functional interpretation of model based simulation.</title>
+<pages>1547-1548</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0279.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BellSP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BoellaT05" mdate="2019-08-20">
+<author pid="53/6604">Guido Boella</author>
+<author pid="t/LeendertWNvanderTorre">Leendert W. N. van der Torre</author>
+<title>A Non-monotonic Logic for Specifying and Querying Preferences.</title>
+<pages>1549-1550</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0122.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BoellaT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CarmagnolaCGT05" mdate="2019-09-13">
+<author pid="17/1498">Francesca Carmagnola</author>
+<author pid="59/6697">Federica Cena</author>
+<author pid="86/4803">Cristina Gena</author>
+<author pid="78/4137-1">Ilaria Torre 0001</author>
+<title>A Multidimensional Semantic Framework for Adaptive Hypermedia Systems.</title>
+<pages>1551-1552</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0341.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CarmagnolaCGT05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CoyleS05" mdate="2019-08-20">
+<author pid="78/5164">Maurice Coyle</author>
+<author pid="s/BarrySmyth">Barry Smyth</author>
+<title>Explaining Search Results.</title>
+<pages>1553-1555</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0210.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CoyleS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DaviesGN05" mdate="2019-08-20">
+<author pid="66/4336">Jim Davies</author>
+<author pid="g/AshokKGoel">Ashok K. Goel 0001</author>
+<author pid="60/4087">Nancy J. Nersessian</author>
+<title>A Cognitive Model of Visual Analogical Problem-Solving Transfer.</title>
+<pages>1556-1557</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0347.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DaviesGN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Dennis05" mdate="2019-08-20">
+<author pid="58/1750">Louise A. Dennis</author>
+<title>An Architecture for Proof Planning Systems.</title>
+<pages>1558-1559</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0024.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Dennis05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DoutreBD05" mdate="2019-08-20">
+<author pid="d/SylvieDoutre">Sylvie Doutre</author>
+<author pid="b/TJMBenchCapon">Trevor J. M. Bench-Capon</author>
+<author pid="d/PaulEDunne">Paul E. Dunne</author>
+<title>Explaining preferences with argument positions.</title>
+<pages>1560-1561</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0067.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DoutreBD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FaberLR05" mdate="2019-08-20">
+<author pid="f/WolfgangFaber">Wolfgang Faber 0001</author>
+<author pid="l/NicolaLeone">Nicola Leone</author>
+<author pid="r/FrancescoRicca">Francesco Ricca</author>
+<title>Heuristics for Hard ASP Programs.</title>
+<pages>1562-1563</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0500.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FaberLR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GrastienCL05" mdate="2019-08-20">
+<author pid="04/3354">Alban Grastien</author>
+<author pid="95/522">Marie-Odile Cordier</author>
+<author pid="42/2089">Christine Largou&#235;t</author>
+<title>Incremental Diagnosis of Discrete-Event Systems.</title>
+<pages>1564-1665</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0338.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GrastienCL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Kim05" mdate="2019-08-20">
+<author pid="08/427">Jihie Kim</author>
+<title>Reflection Patterns for Interactive Knowledge Capture.</title>
+<pages>1566-1567</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0231.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Kim05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KudoM05" mdate="2019-08-20">
+<author pid="39/1150">Yasuo Kudo</author>
+<author pid="63/594">Tetsuya Murai</author>
+<title>A Unified Framework of Propositional Knowledge Base Revision and Update Based on State Transition Models.</title>
+<pages>1568-1569</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0126.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KudoM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Lopez-ArevaloRABJ05" mdate="2019-08-20">
+<author pid="36/2829">Ivan L&#243;pez-Ar&#233;valo</author>
+<author pid="36/2043">A. Rodr&#237;guez-Mart&#237;nez</author>
+<author pid="87/5588">Arantza Aldea</author>
+<author pid="90/2013">Ren&#233; Ba&#241;ares-Alc&#225;ntara</author>
+<author pid="40/1457">Laureano Jim&#233;nez</author>
+<title>Redesign Support Framework based on Hierarchical Multiple Models.</title>
+<pages>1570-1571</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0276.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Lopez-ArevaloRABJ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/MaCM05" mdate="2019-08-20">
+<author pid="24/2281">Xiaoqi Ma</author>
+<author pid="69/2675">Xiaochun Cheng</author>
+<author pid="48/1978">Rachel McCrindle</author>
+<title>Knowledge Based Approach for Mechanically Verifying Security Protocols.</title>
+<pages>1572-1573</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0344.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#MaCM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/OSullivanMBW05" mdate="2019-08-20">
+<author pid="56/5971">Dympna O'Sullivan</author>
+<author pid="61/670">Eoin McLoughlin</author>
+<author pid="b/MBertolotto">Michela Bertolotto</author>
+<author pid="w/DavidCWilson">David C. Wilson</author>
+<title>Capturing and Reusing Case-Based Context for Image Retrieval.</title>
+<pages>1574-1576</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0068.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#OSullivanMBW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RagniS05" mdate="2019-08-20">
+<author pid="98/813">Marco Ragni</author>
+<author pid="10/1208">Alexander Scivos</author>
+<title>Dependency Calculus Reasoning in a General Point Relation Algebra.</title>
+<pages>1577-1578</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0403.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RagniS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RamachandranA05" mdate="2019-08-20">
+<author pid="80/703">Deepak Ramachandran</author>
+<author pid="17/1143">Eyal Amir</author>
+<title>Compact Propositional Encodings of First-Order Theories.</title>
+<pages>1579-1580</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0452.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RamachandranA05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SuSWG05" mdate="2022-07-27">
+<author pid="80/5001">Kaile Su</author>
+<author pid="s/AbdulSattar">Abdul Sattar 0001</author>
+<author pid="52/2483-1">Kewen Wang 0001</author>
+<author pid="g/GuidoGovernatori">Guido Governatori</author>
+<title>Computationally Grounded Model of BDI-Agents.</title>
+<pages>1581-1582</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0148.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SuSWG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SunS05" mdate="2019-08-20">
+<author pid="62/3689-5">Yu Sun 0005</author>
+<author pid="58/375">Yuefei Sui</author>
+<title>The Ontology Revision.</title>
+<pages>1583-1584</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0201.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SunS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TagalakisFK05" mdate="2019-08-20">
+<author pid="31/4922">Georgios Tagalakis</author>
+<author pid="98/2646">Daniela Ferrari</author>
+<author pid="k/MarkTKeane">Mark T. Keane</author>
+<title>A CLP-Based, Diagnosticity-Driven System for Concept Combinations.</title>
+<pages>1585-1586</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0466.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#TagalakisFK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WintersteinAL05" mdate="2019-08-20">
+<author pid="89/5993">Daniel Winterstein</author>
+<author pid="19/6243">David Aspinall 0001</author>
+<author pid="l/CLuth">Christoph L&#252;th</author>
+<title>Proof General / Eclipse: A Generic Interface for Interactive Proof.</title>
+<pages>1587-1588</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0503.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#WintersteinAL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhuGHJP05" mdate="2019-08-20">
+<author pid="76/4907">Tingshao Zhu</author>
+<author pid="g/RussellGreiner">Russell Greiner</author>
+<author pid="67/458">Gerald H&#228;ubl</author>
+<author pid="74/6749">Kevin Jewell</author>
+<author pid="92/2605">Robert Price</author>
+<title>Using Learned Browsing Behavior Models to Recommend Relevant Web Pages.</title>
+<pages>1589-1590</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0462.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ZhuGHJP05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers:
+Learning and Information Extraction</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BoydellSGS05" mdate="2019-08-20">
+<author pid="51/3168">Ois&#237;n Boydell</author>
+<author pid="s/BarrySmyth">Barry Smyth</author>
+<author pid="40/5060">Cathal Gurrin</author>
+<author pid="s/AlanFSmeaton">Alan F. Smeaton</author>
+<title>A Study of Selection Noise in Collaborative Web Search.</title>
+<pages>1595-1597</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0214.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BoydellSGS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FujiiI05" mdate="2019-08-20">
+<author pid="14/2149">Atsushi Fujii</author>
+<author pid="44/720">Tetsuya Ishikawa</author>
+<title>Image Retrieval and Disambiguation for Encyclopedic Web Search.</title>
+<pages>1598-1599</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0295.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FujiiI05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GalassiGSB05" mdate="2019-08-20">
+<author pid="41/5662">Ugo Galassi</author>
+<author pid="g/AttilioGiordana">Attilio Giordana</author>
+<author pid="s/LorenzaSaitta">Lorenza Saitta</author>
+<author pid="90/5426">Marco Botta</author>
+<title>Learning Complex Event Descriptions by Abstraction.</title>
+<pages>1600-1601</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0182.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GalassiGSB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Hadj-BouzianeFMB05" mdate="2019-08-20">
+<author pid="07/5999">Fadila Hadj-Bouziane</author>
+<author pid="35/3033">H&#233;l&#232;ne Frankowska</author>
+<author pid="10/6090">Martine Meunier</author>
+<author pid="40/2192">Driss Boussaoud</author>
+<title>Conditional Visuomotor Learning and Viability Theory.</title>
+<pages>1602-1603</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0463.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Hadj-BouzianeFMB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HardoonM05" mdate="2019-08-20">
+<author pid="03/886">David R. Hardoon</author>
+<author pid="95/3098">Larry M. Manevitz</author>
+<title>fMRI Analysis via One-class Machine Learning Techniques.</title>
+<pages>1604-1605</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0172.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HardoonM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HoW05" mdate="2019-08-20">
+<author pid="60/6527">Shen-Shyang Ho</author>
+<author pid="w/HarryWechsler">Harry Wechsler</author>
+<title>Adaptive Support Vector Machine for Time-Varying Data Streams Using Martingale.</title>
+<pages>1606-1607</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0195.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HoW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KelleherL05" mdate="2019-08-20">
+<author pid="91/3538">Daniel Kelleher</author>
+<author pid="92/1880">Saturnino Luz</author>
+<title>Automatic Hypertext Keyphrase Detection.</title>
+<pages>1608-1609</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0467.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KelleherL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KhoussainovK05" mdate="2019-08-20">
+<author pid="49/3226">Rinat Khoussainov</author>
+<author pid="03/510">Nicholas Kushmerick</author>
+<title>Relational Learning for Email Task Management.</title>
+<pages>1610-1612</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0383.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KhoussainovK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KontkanenM05" mdate="2019-08-20">
+<author pid="k/PetriKontkanen">Petri Kontkanen</author>
+<author pid="m/PMyllymaki">Petri Myllym&#228;ki</author>
+<title>A Fast Normalized Maximum Likelihood Algorithm for Multinomial Data.</title>
+<pages>1613-1615</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0330.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KontkanenM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KoppelS05" mdate="2019-08-20">
+<author pid="k/MosheKoppel">Moshe Koppel</author>
+<author pid="s/JonathanSchler">Jonathan Schler</author>
+<title>Using Neutral Examples for Learning Polarity.</title>
+<pages>1616-1617</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0312.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KoppelS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KruegerOACB05" mdate="2022-10-16">
+<author pid="06/614">William Krueger</author>
+<author pid="34/3824">Tim Oates 0001</author>
+<author pid="50/504">Tom Armstrong</author>
+<author pid="59/840">Paul R. Cohen</author>
+<author pid="68/2687">Carole R. Beal</author>
+<title>Transfer in Learning by Doing.</title>
+<pages>1618-1619</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0508.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KruegerOACB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LiCS05" mdate="2020-11-30">
+<author pid="72/2639">Hongyu Li</author>
+<author pid="c/WenbinChen-6">Wenbin Chen 0006</author>
+<author pid="44/4180">I-Fan Shen</author>
+<title>Supervised Local Tangent Space Alignment for Classification.</title>
+<pages>1620-1621</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0505.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LiCS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Margineantu05" mdate="2019-08-20">
+<author pid="34/5356">Dragos D. Margineantu</author>
+<title>Active Cost-Sensitive Learning.</title>
+<pages>1622-1613</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0525.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Margineantu05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/FotzoAGBL05" mdate="2021-06-14">
+<author pid="86/5437">Hermine Njike Fotzo</author>
+<author pid="73/4767">Thierry Arti&#232;res</author>
+<author pid="g/PatrickGallinari">Patrick Gallinari</author>
+<author pid="b/JBlanchard-3">Julien Blanchard 0003</author>
+<author pid="65/4720">Guillaume Letellier</author>
+<title>Automatic learning of domain model for personalized hypermedia applications.</title>
+<pages>1624-1625</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0282.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#FotzoAGBL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PasseriniF05" mdate="2019-08-20">
+<author pid="00/6186">Andrea Passerini</author>
+<author pid="73/32">Paolo Frasconi</author>
+<title>Kernels on Prolog Ground Terms.</title>
+<pages>1626-1627</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0228.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PasseriniF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RamirezH05" mdate="2019-08-20">
+<author pid="171/2223">Rafael Ram&#237;rez 0001</author>
+<author pid="25/294">Amaury Hazan</author>
+<title>A Learning Scheme for Generating Expressive Music Performances of Jazz Standards.</title>
+<pages>1628-1629</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0429.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RamirezH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Rosenblueth05" mdate="2019-08-20">
+<author pid="94/5921">David A. Rosenblueth</author>
+<title>Incorporating a folding rule into inductive logic programming.</title>
+<pages>1630-1631</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0226.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Rosenblueth05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SanchezM05" mdate="2019-08-20">
+<author pid="45/445-1">David S&#225;nchez 0001</author>
+<author pid="82/6899">Antonio Moreno</author>
+<title>Development of new techniques to improve Web search.</title>
+<pages>1632-1633</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0262.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SanchezM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ShiS05" mdate="2019-08-20">
+<author pid="61/6309">Zhongmin Shi</author>
+<author pid="s/AnoopSarkar">Anoop Sarkar</author>
+<title>Intimate Learning: A Novel Approach for Combining Labelled and Unlabelled Data.</title>
+<pages>1634-1635</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0441.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ShiS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SinglaD05" mdate="2019-08-20">
+<author pid="14/167">Parag Singla</author>
+<author pid="d/PedroDomingos">Pedro M. Domingos</author>
+<title>Collective Object Identification.</title>
+<pages>1636-1637</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0380.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SinglaD05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZaanenPM05" mdate="2019-08-20">
+<author pid="43/6894">Menno van Zaanen</author>
+<author pid="13/6023">Luiz Augusto Sangoi Pizzato</author>
+<author pid="m/DiegoMolla">Diego Moll&#225;</author>
+<title>Question Classification by Structure Induction.</title>
+<pages>1638-1639</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0141.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ZaanenPM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/VautierCQ05" mdate="2019-08-20">
+<author pid="78/5820">Alexandre Vautier</author>
+<author pid="95/522">Marie-Odile Cordier</author>
+<author pid="11/4522">Rene Quiniou</author>
+<title>An Inductive Database for Mining Temporal Patterns in Event Sequences.</title>
+<pages>1640-1641</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0342.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#VautierCQ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WashioAM05" mdate="2019-08-20">
+<author pid="w/TakashiWashio">Takashi Washio</author>
+<author pid="00/5479">Fuminori Adachi</author>
+<author pid="08/6525">Hiroshi Motoda</author>
+<title>Discovering Time Differential Law Equations Containing Hidden State Variables and Chaotic Dynamics.</title>
+<pages>1642-1644</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0049.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#WashioAM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhangC05" mdate="2019-08-20">
+<author pid="61/3976">Xiaofeng Zhang</author>
+<author pid="w/WKWCheung">William K. Cheung</author>
+<title>Learning Global Models Based on Distributed Data Abstractions.</title>
+<pages>1645-1646</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0203.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ZhangC05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers:
+Multi-Agent Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/AllenGZ05" mdate="2019-08-20">
+<author pid="66/933">Martin Allen</author>
+<author pid="65/537">Claudia V. Goldman</author>
+<author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author>
+<title>Language Learning in Multi-Agent Systems.</title>
+<pages>1649-1650</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0464.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AllenGZ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/AraujoL05" mdate="2019-08-20">
+<author pid="a/RMdAraujo">Ricardo Matsumura de Ara&#250;jo</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>On the Evolution of Memory Size in the Minority Game (extended abstract).</title>
+<pages>1651-1652</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0319.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#AraujoL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BachrachR05" mdate="2019-08-20">
+<author pid="70/2671">Yoram Bachrach</author>
+<author pid="r/JeffreySRosenschein">Jeffrey S. Rosenschein</author>
+<title>Achieving Allocatively-Efficient and Strongly Budget-Balanced Mechanisms in the Network Flow Domain for Bounded-Rational Agents.</title>
+<pages>1653-1654</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0154.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BachrachR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BoellaT05a" mdate="2019-08-20">
+<author pid="53/6604">Guido Boella</author>
+<author pid="t/LeendertWNvanderTorre">Leendert W. N. van der Torre</author>
+<title>The Evolution of Artificial Social Systems.</title>
+<pages>1655-1556</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0129.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BoellaT05a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CandaleS05" mdate="2019-08-20">
+<author pid="22/7011">Teddy Candale</author>
+<author pid="19/1004">Sandip Sen</author>
+<title>Fast convergence to satisfying distributions.</title>
+<pages>1657-1658</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0480.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CandaleS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Cranefield05" mdate="2019-08-20">
+<author pid="69/246">Stephen Cranefield</author>
+<title>A rule language for modelling and monitoring social expectations in multi-agent systems.</title>
+<pages>1659-1660</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0047.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Cranefield05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KopenaR05" mdate="2019-08-20">
+<author pid="k/JosephBKopena">Joseph Kopena</author>
+<author pid="r/WCRegli">William C. Regli</author>
+<title>A Framework for Communication Planning on Mobile Devices.</title>
+<pages>1661-1662</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0523.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KopenaR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ODonovanS05" mdate="2019-08-20">
+<author pid="59/6213">John O'Donovan</author>
+<author pid="s/BarrySmyth">Barry Smyth</author>
+<title>Trust No One: Evaluating Trust-based Filtering for Recommenders.</title>
+<pages>1663-1665</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0411.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ODonovanS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/StranjakCZ05" mdate="2019-08-20">
+<author pid="10/2729">Armin Stranjak</author>
+<author pid="91/4731">Igor Cavrak</author>
+<author pid="84/1158">Mario Zagar</author>
+<title>Inter-Agent Communication: A Cost-Reduction Approach Using an Autonomous Mobile Mailbox.</title>
+<pages>1666-1667</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0301.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#StranjakCZ05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/YokooCSOI05" mdate="2019-08-20">
+<author pid="32/2416">Makoto Yokoo</author>
+<author pid="c/VincentConitzer">Vincent Conitzer</author>
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<author pid="12/589">Naoki Ohta</author>
+<author pid="04/4799">Atsushi Iwasaki</author>
+<title>Coalitional Games in Open Anonymous Environments.</title>
+<pages>1668-1669</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0513.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#YokooCSOI05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ZhangG05" mdate="2020-12-14">
+<author pid="84/6889-2">Jie Zhang 0002</author>
+<author pid="g/AliAGhorbani">Ali A. Ghorbani 0001</author>
+<title>Value-Centric Trust Model with Improved Familiarity Measurement.</title>
+<pages>1670-1671</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0233.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ZhangG05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers:
+Natural Language and User Interfaces</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/ChurchKS05" mdate="2019-08-20">
+<author pid="83/638">Karen Church</author>
+<author pid="k/MarkTKeane">Mark T. Keane</author>
+<author pid="s/BarrySmyth">Barry Smyth</author>
+<title>Towards More Intelligent Mobile Search.</title>
+<pages>1675-1676</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0135.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ChurchKS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/BrazGPRS05" mdate="2019-08-20">
+<author pid="87/3963">Rodrigo de Salvo Braz</author>
+<author pid="76/1063">Roxana Girju</author>
+<author pid="62/6120">Vasin Punyakanok</author>
+<author pid="r/DanRoth">Dan Roth</author>
+<author pid="05/482">Mark Sammons</author>
+<title>An Inference Model for Semantic Entailment in Natural Language.</title>
+<pages>1678-1679</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0529.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BrazGPRS05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/DunneDB05" mdate="2019-08-20">
+<author pid="d/PaulEDunne">Paul E. Dunne</author>
+<author pid="d/SylvieDoutre">Sylvie Doutre</author>
+<author pid="b/TJMBenchCapon">Trevor J. M. Bench-Capon</author>
+<title>Discovering Inconsistency through Examination Dialogues.</title>
+<pages>1680-1681</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0345.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#DunneDB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GlickmanDK05" mdate="2019-08-20">
+<author pid="97/3859">Oren Glickman</author>
+<author pid="95/284">Ido Dagan</author>
+<author pid="k/MosheKoppel">Moshe Koppel</author>
+<title>A Probabilistic Lexical Approach to Textual Entailment.</title>
+<pages>1682-1683</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0197.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GlickmanDK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GutkinG05" mdate="2019-08-20">
+<author pid="33/5120">Alexander Gutkin</author>
+<author pid="45/3803">David E. Gay</author>
+<title>Structural Representation and Matching of Articulatory Speech Structures based on the Evolving Transformation System (ETS) Formalism.</title>
+<pages>1684-1685</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0071.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GutkinG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HacheyG05" mdate="2019-08-20">
+<author pid="73/2373">Ben Hachey</author>
+<author pid="78/6737">Claire Grover</author>
+<title>Sentence Extraction for Legal Text Summarisation.</title>
+<pages>1686-1687</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0450.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HacheyG05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/HoracekW05" mdate="2019-08-20">
+<author pid="00/5108">Helmut Horacek</author>
+<author pid="56/998">Magdalena Wolska</author>
+<title>Fault-Tolerant Context-Based Interpretation of Mathematical Formulas.</title>
+<pages>1688-1691</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0418.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#HoracekW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Hutchinson05" mdate="2019-08-20">
+<author pid="56/1256">Ben Hutchinson</author>
+<title>MDL-based Acquisition of Substitutability Relationships between Discourse Connectives.</title>
+<pages>1690-1691</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0025.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Hutchinson05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Komatsu05" mdate="2019-08-20">
+<author pid="37/1473">Takanori Komatsu</author>
+<title>Can we assign attitudes to a computer based on its beeps? Toward an effective method for making humans empathize with artificial agents.</title>
+<pages>1692-1693</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0175.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Komatsu05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Kuhn05" mdate="2019-08-20">
+<author pid="32/4271">Jonas Kuhn</author>
+<title>Correspondence-guided Synchronous Parsing of Parallel Corpora.</title>
+<pages>1694-1695</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0070.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Kuhn05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RzepkaGA05" mdate="2019-08-20">
+<author pid="17/3493">Rafal Rzepka</author>
+<author pid="59/5469">Yali Ge</author>
+<author pid="02/2443">Kenji Araki</author>
+<title>Naturalness of an Utterance Based on the Automatically Retrieved Commonsense.</title>
+<pages>1696-1697</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0490.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RzepkaGA05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Seretan05" mdate="2019-08-20">
+<author pid="93/223">Violeta Seretan</author>
+<title>Induction of Syntactic Collocation Patterns from Generic Syntactic Relations.</title>
+<pages>1698-1699</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0413.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Seretan05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SripadaRH05" mdate="2019-08-20">
+<author pid="64/1429">Somayajulu Sripada</author>
+<author pid="21/3710">Ehud Reiter</author>
+<author pid="08/3352">Lezan Hawizy</author>
+<title>Evaluating an NLG System using Post-Editing.</title>
+<pages>1700-1701</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0304.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SripadaRH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/TanakaYKN05" mdate="2019-08-20">
+<author pid="66/5228">Takahiro Tanaka</author>
+<author pid="70/3934">Yoshiaki Yasumura</author>
+<author pid="16/5288">Daisuke Katagami</author>
+<author pid="80/2807">Katsumi Nitta</author>
+<title>Online Support System for Mediator Education.</title>
+<pages>1702-1703</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0308.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#TanakaYKN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/WilliamsR05" mdate="2019-08-20">
+<author pid="92/5388">Sandra Williams</author>
+<author pid="21/3710">Ehud Reiter</author>
+<title>Appropriate Microplanning Choices for Low-Skilled Readers.</title>
+<pages>1704-1705</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0264.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#WilliamsR05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers:
+Planning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BresinaJMR05" mdate="2019-08-20">
+<author pid="84/4326">John L. Bresina</author>
+<author pid="30/4049">Ari K. J&#243;nsson</author>
+<author pid="45/2814">Paul H. Morris</author>
+<author pid="22/999">Kanna Rajan</author>
+<title>Mixed-Initiative Activity Planning for Mars Rovers.</title>
+<pages>1709-1710</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0444.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BresinaJMR05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/CialdeaLOP05" mdate="2019-08-20">
+<author pid="05/1339">Marta Cialdea Mayer</author>
+<author pid="52/3376">Carla Limongelli</author>
+<author pid="89/6226">Andrea Orlandini</author>
+<author pid="37/4605">Valentina Poggioni</author>
+<title>Planning with graded fluents and actions.</title>
+<pages>1711-1712</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0366.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#CialdeaLOP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GreefM05" mdate="2019-08-20">
+<author pid="09/3569">Tjerk de Greef</author>
+<author pid="59/117">Peter-Paul van Maanen</author>
+<title>Automated Adaptive Support for Task and Information Prioritizing.</title>
+<pages>1713-1714</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0354.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GreefM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/GuoL05" mdate="2019-08-20">
+<author pid="26/4953">AnYuan Guo</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Planning for Weakly-Coupled Partially Observable Stochastic Games.</title>
+<pages>1715-1716</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0200.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#GuoL05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/PellierF05" mdate="2019-08-20">
+<author pid="82/6517">Damien Pellier</author>
+<author pid="98/2430">Humbert Fiorino</author>
+<title>Multi-Agent Assumption-Based Planning.</title>
+<pages>1717-1718</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0273.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#PellierF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RiedlY05" mdate="2019-08-20">
+<author pid="r/MarkORiedl">Mark O. Riedl</author>
+<author pid="140/7235">Robert Michael Young</author>
+<title>Open-World Planning for Story Generation.</title>
+<pages>1719-1720</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0020.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RiedlY05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/VenableY05" mdate="2019-08-20">
+<author pid="v/KristenBrentVenable">Kristen Brent Venable</author>
+<author pid="95/5096">Neil Yorke-Smith</author>
+<title>Disjunctive Temporal Planning with Uncertainty.</title>
+<pages>1721-1722</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0512.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#VenableY05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers:
+Robotics and Perception</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/BaillieN05" mdate="2019-08-20">
+<author pid="86/2857">Jean-Christophe Baillie</author>
+<author pid="16/2728">Matthieu Nottale</author>
+<title>Talking Robots: a Fully Autonomous Implementation of the Talking Heads.</title>
+<pages>1725-1726</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0269.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#BaillieN05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Dixon05" mdate="2019-08-20">
+<author pid="11/7013">Simon Dixon</author>
+<title>An On-Line Time Warping Algorithm for Tracking Musical Performances.</title>
+<pages>1727-1728</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0005.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Dixon05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/KabanzaNB05" mdate="2019-08-20">
+<author pid="41/4980">Froduald Kabanza</author>
+<author pid="00/3729">Roger Nkambou</author>
+<author pid="71/3458">Khaled Belghith</author>
+<title>Path-Planning for Autonomous Training on Robot Manipulators in Space.</title>
+<pages>1729-1731</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0130.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#KabanzaNB05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LeeM05" mdate="2019-08-20">
+<author pid="26/3061">Mark H. Lee</author>
+<author pid="65/4875">Qinggang Meng</author>
+<title>Growth of Motor Coordination in Early Robot Learning.</title>
+<pages>1732-1733</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0041.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LeeM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/RosenfeldKK05" mdate="2019-08-20">
+<author pid="13/4267">Avi Rosenfeld</author>
+<author pid="28/5426">Gal A. Kaminka</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<title>Measuring the Cost of Robotic Communication.</title>
+<pages>1734-1735</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0209.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#RosenfeldKK05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/Sanchez-NielsenH05" mdate="2019-08-20">
+<author pid="83/1111">Elena S&#225;nchez-Nielsen</author>
+<author pid="h/MarioHermandezT">Mario Hern&#225;ndez-Tejera</author>
+<title>An Heuristic Search based Approach for Moving Objects Tracking.</title>
+<pages>1736-1737</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0184.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Sanchez-NielsenH05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ShojiTM05" mdate="2019-08-20">
+<author pid="51/732">Kenji Shoji</author>
+<author pid="79/3533">Fubito Toyama</author>
+<author pid="86/845">Juichi Miyamichi</author>
+<title>3-D Interpretation of Single Line Drawings.</title>
+<pages>1738-1739</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0469.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ShojiTM05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SoteloNFPBOF05" mdate="2019-08-20">
+<author pid="s/MiguelAngelSotelo">Miguel &#193;ngel Sotelo</author>
+<author pid="45/5453">Jes&#250;s Nuevo</author>
+<author pid="56/6459">David Fern&#225;ndez</author>
+<author pid="07/1001">Ignacio Parra</author>
+<author pid="59/3675">Luis Miguel Bergasa</author>
+<author pid="39/1206">Manuel Oca&#241;a</author>
+<author pid="37/2190">Ram&#243;n Flores</author>
+<title>SVM-based Obstacles Recognition for Road Vehicle Applications.</title>
+<pages>1740-1741</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0001.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SoteloNFPBOF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SteinbauerW05" mdate="2019-08-20">
+<author pid="51/4185">Gerald Steinbauer</author>
+<author pid="w/FranzWotawa">Franz Wotawa</author>
+<title>Detecting and locating faults in the control software of autonomous mobile robots.</title>
+<pages>1742-1743</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0220.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SteinbauerW05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/ToussaintV05" mdate="2019-08-20">
+<author pid="t/MarcToussaint">Marc Toussaint</author>
+<author pid="68/1347">Sethu Vijayakumar</author>
+<title>Learning discontinuities for switching between local models.</title>
+<pages>1744-1745</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0488.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#ToussaintV05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Poster Papers:
+Uncertainty</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/IzadiP05" mdate="2019-08-20">
+<author pid="48/7035">Masoumeh T. Izadi</author>
+<author pid="p/DoinaPrecup">Doina Precup</author>
+<title>Model minimization by linear PSR.</title>
+<pages>1749-1750</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0465.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#IzadiP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/IzadiRP05" mdate="2020-07-02">
+<author pid="48/7035">Masoumeh T. Izadi</author>
+<author pid="32/1263-2">Ajit V. Rajwade 0002</author>
+<author pid="p/DoinaPrecup">Doina Precup</author>
+<title>Using core beliefs for point-based value iteration.</title>
+<pages>1751-1753</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0356.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#IzadiRP05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LaxDCC05" mdate="2020-03-31">
+<author pid="l/RobertFLax">Robert F. Lax</author>
+<author pid="32/1777">Guoli Ding</author>
+<author pid="c/PPChen">Peter P. Chen</author>
+<author pid="21/5301-3">Jianhua Chen 0003</author>
+<title>Approximating Pseudo-Boolean Functions on Non-Uniform Domains.</title>
+<pages>1754-1755</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0107.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LaxDCC05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/LiauF05" mdate="2019-08-20">
+<author pid="03/3350">Churn-Jung Liau</author>
+<author pid="24/892">Tuan-Fang Fan</author>
+<title>A Modal Logic for Reasoning about Possibilistic Belief Fusion.</title>
+<pages>1756-1757</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0023.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#LiauF05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/NairVTY05" mdate="2019-08-20">
+<author pid="22/1638">Ranjit Nair</author>
+<author pid="72/759">Pradeep Varakantham</author>
+<author pid="67/2667">Milind Tambe</author>
+<author pid="32/2416">Makoto Yokoo</author>
+<title>Networked Distributed POMDPs: A Synergy of Distributed Constraint Optimization and POMDPs.</title>
+<pages>1758-1760</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0517.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#NairVTY05</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ijcai/SerrurierP05" mdate="2019-08-20">
+<author pid="30/2092">Mathieu Serrurier</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Coping with exceptions in multiclass ILP problems using possibilistic logic.</title>
+<pages>1761-</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/post-0373.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#SerrurierP05</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Research Excellence Award</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ijcai/Hinton05" mdate="2019-08-20">
+<author pid="10/3248">Geoffrey E. Hinton</author>
+<title>What kind of graphical model is the brain?</title>
+<pages>1765-</pages>
+<year>2005</year>
+<crossref>conf/ijcai/2005</crossref>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Proceedings/05/Papers/invited.pdf</ee>
+<url>db/conf/ijcai/ijcai2005.html#Hinton05</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,79 @@
+<bht key="db/conf/middleware/midsens2012.bht" title="MidSens 2012">  
+<h1>7th <ref href="db/conf/midsens-ws/index.html">MidSens</ref>@<ref href="db/conf/middleware/index.html">Middleware</ref> 2012:
+Montreal, QC, Canada</h1> <dblpcites><r><proceedings key="conf/middleware/2012midsens" mdate="2016-06-10">
+<editor pid="h/DannyHughes">Danny Hughes 0001</editor>
+<editor pid="59/4160">Barry Porter</editor>
+<editor pid="63/11058">Luis Sanchez</editor>
+<title>Proceedings of the Seventh International Workshop on Middleware for Sensor Networks, MidSens 2012, December 4, 2012, Montreal, QC, Canada, Co-located with Middleware 2011</title>
+<booktitle>MidSens</booktitle>
+<publisher>ACM</publisher>
+<year>2012</year>
+<isbn>978-1-4503-1610-1</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2405167</ee>
+<url>db/conf/middleware/midsens2012.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/middleware/BusemannGGKKLMWZ12" mdate="2018-11-06">
+<author pid="34/7924">Claas Busemann</author>
+<author pid="26/2175">Vangelis Gazis</author>
+<author pid="32/4000">Richard Gold</author>
+<author pid="46/6434">Panayotis Kikiras</author>
+<author pid="122/6672">A. Kovacevic</author>
+<author pid="15/5808">Alessandro Leonardi</author>
+<author pid="89/6100">Jelena Mirkovic</author>
+<author pid="23/378">Maximilian Walther</author>
+<author pid="29/3300">Holger Ziekow</author>
+<title>Enabling the usage of sensor networks with service-oriented architectures.</title>
+<pages>1</pages>
+<year>2012</year>
+<booktitle>MidSens</booktitle>
+<ee>https://doi.org/10.1145/2405167.2405168</ee>
+<crossref>conf/middleware/2012midsens</crossref>
+<url>db/conf/middleware/midsens2012.html#BusemannGGKKLMWZ12</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/middleware/PorterDD12" mdate="2021-10-14">
+<author orcid="0000-0001-8376-736X" pid="59/4160">Barry Porter</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0001-9633-2103" pid="d/SimonADobson">Simon Dobson</author>
+<title>From missions to systems: generating transparently distributable programs for sensor-oriented systems.</title>
+<pages>2</pages>
+<year>2012</year>
+<booktitle>MidSens</booktitle>
+<ee>https://doi.org/10.1145/2405167.2405169</ee>
+<crossref>conf/middleware/2012midsens</crossref>
+<url>db/conf/middleware/midsens2012.html#PorterDD12</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/middleware/WinstanleyRTPM12" mdate="2021-07-25">
+<author pid="122/6669">Christopher Winstanley</author>
+<author pid="87/6157">Rajiv Ramdhany</author>
+<author orcid="0000-0002-9692-5678" pid="97/1881">Fran&#231;ois Ta&#239;ani</author>
+<author orcid="0000-0001-8376-736X" pid="59/4160">Barry Porter</author>
+<author orcid="0000-0002-5899-9676" pid="33/3345">Hugo Miranda</author>
+<title>PAMPA in the wild: a real-life evaluation of a lightweight ad-hoc broadcasting family.</title>
+<pages>3</pages>
+<year>2012</year>
+<booktitle>MidSens</booktitle>
+<ee>https://doi.org/10.1145/2405167.2405170</ee>
+<crossref>conf/middleware/2012midsens</crossref>
+<url>db/conf/middleware/midsens2012.html#WinstanleyRTPM12</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/middleware/BachillerHMJ12" mdate="2020-10-25">
+<author pid="122/6671">Rafael Bachiller</author>
+<author pid="h/DannyHughes">Danny Hughes 0001</author>
+<author orcid="0000-0002-3866-5425" pid="62/5938">Sam Michiels</author>
+<author pid="13/86">Wouter Joosen</author>
+<title>Users as reconfigurable elements in distributed sensing applications.</title>
+<pages>4</pages>
+<year>2012</year>
+<booktitle>MidSens</booktitle>
+<ee>https://doi.org/10.1145/2405167.2405171</ee>
+<crossref>conf/middleware/2012midsens</crossref>
+<url>db/conf/middleware/midsens2012.html#BachillerHMJ12</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

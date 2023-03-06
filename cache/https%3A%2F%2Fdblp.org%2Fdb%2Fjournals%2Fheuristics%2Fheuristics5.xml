@@ -1,0 +1,314 @@
+<bht key="db/journals/heuristics/heuristics5.bht" title="Journal of Heuristics, Volume 5">  
+<h1><ref href="db/journals/heuristics/index.html">Journal of Heuristics</ref>, Volume 5</h1> 
+<h2>Volume 5, Number 1, April 1999</h2> 
+<dblpcites><r style="ee"><article key="journals/heuristics/StrusevichWD99" mdate="2017-09-21">
+<author pid="63/418">Vitaly A. Strusevich</author>
+<author pid="79/1548">A. J. A. van de Waart</author>
+<author orcid="0000-0003-3823-1990" pid="98/6203">Rommert Dekker</author>
+<title>A 3/2 Algorithm for Two-Machine Open Shop with Route-Dependent Processing Times.</title>
+<pages>5-28</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics5.html#StrusevichWD99</url>
+<ee>https://doi.org/10.1023/A:1009643112214</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/AldershofC99" mdate="2017-05-18">
+<author pid="91/1672">Brian Aldershof</author>
+<author pid="91/2285">Olivia M. Carducci</author>
+<title>Stable Marriage and Genetic Algorithms: A Fertile Union.</title>
+<pages>29-46</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics5.html#AldershofC99</url>
+<ee>https://doi.org/10.1023/A:1009686927235</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/CollettiBD99" mdate="2017-05-18">
+<author pid="17/102">Bruce W. Colletti</author>
+<author pid="91/6473">J. Wesley Barnes</author>
+<author pid="09/840">Steftcho P. Dokov</author>
+<title>A Note on Characterizing the k-OPT Neighborhood Via Group Theory.</title>
+<pages>47-51</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics5.html#CollettiBD99</url>
+<ee>https://doi.org/10.1023/A:1009639011305</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/Rios-MercadoB99" mdate="2017-06-06">
+<author orcid="0000-0003-1053-5183" pid="95/4406">Roger Z. R&#237;os-Mercado</author>
+<author pid="37/1328">Jonathan F. Bard</author>
+<title>An Enhanced TSP-Based Heuristic for Makespan Minimization in a Flow Shop with Setup Times.</title>
+<pages>53-70</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics5.html#Rios-MercadoB99</url>
+<ee>https://doi.org/10.1023/A:1009691028143</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/OkanoMI99" mdate="2017-05-18">
+<author pid="44/3125">Hiroyuki Okano</author>
+<author pid="54/6714">Shinji Misono</author>
+<author pid="65/5716">Kazuo Iwano</author>
+<title>New TSP Construction Heuristics and Their Relationships to the 2-Opt.</title>
+<pages>71-88</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics5.html#OkanoMI99</url>
+<ee>https://doi.org/10.1023/A:1009695129052</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/BertsekasC99" mdate="2017-05-18">
+<author pid="b/DimitriPBertsekas">Dimitri P. Bertsekas</author>
+<author pid="40/4377">David A. Casta&#241;&#243;n</author>
+<title>Rollout Algorithms for Stochastic Scheduling Problems.</title>
+<pages>89-108</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics5.html#BertsekasC99</url>
+<ee>https://doi.org/10.1023/A:1009634810396</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/Gent99" mdate="2017-06-06">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<title>A Response to &#34;On method overfitting&#34;.</title>
+<pages>109-111</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics5.html#Gent99</url>
+<ee>https://doi.org/10.1023/A:1009625526326</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 5, Number 2, July 1999</h2> 
+<dblpcites><r style="ee"><article key="journals/heuristics/DellAmicoLM99" mdate="2019-06-02">
+<author orcid="0000-0002-3283-6131" pid="45/1321">Mauro Dell'Amico</author>
+<author pid="196/3740">Andrea Lodi 0001</author>
+<author pid="79/3455">Francesco Maffioli</author>
+<title>Solution of the Cumulative Assignment Problem With a Well-Structured Tabu Search Method.</title>
+<pages>123-143</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics5.html#DellAmicoLM99</url>
+<ee>https://doi.org/10.1023/A:1009647225748</ee>
+<ee>https://www.wikidata.org/entity/Q59222302</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/CalegariCHKK99" mdate="2017-05-18">
+<author pid="60/6390">Patrice Cal&#233;gari</author>
+<author pid="27/1714">Giovanni Coray</author>
+<author pid="h/AlainHertz">Alain Hertz</author>
+<author pid="36/2667">Daniel Kobler</author>
+<author pid="09/2514">Pierre Kuonen</author>
+<title>A Taxonomy of Evolutionary Algorithms in Combinatorial Optimization.</title>
+<pages>145-158</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics5.html#CalegariCHKK99</url>
+<ee>https://doi.org/10.1023/A:1009625526657</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/PattersonPR99" mdate="2017-06-14">
+<author orcid="0000-0001-5408-6485" pid="37/4266">Raymond A. Patterson</author>
+<author pid="71/5529">Hasan Pirkul</author>
+<author orcid="0000-0002-6375-0592" pid="41/948">Erik Rolland</author>
+<title>A Memory Adaptive Reasoning Technique for Solving the Capacitated Minimum Spanning Tree Problem.</title>
+<pages>159-180</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics5.html#PattersonPR99</url>
+<ee>https://doi.org/10.1023/A:1009629727566</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/FernandezM99" mdate="2017-06-06">
+<author pid="51/5825">Elena Fern&#225;ndez</author>
+<author orcid="0000-0001-7265-823X" pid="46/915">Rafael Mart&#237;</author>
+<title>GRASP for Seam Drawing in Mosaicking of Aerial Photographic Maps.</title>
+<pages>181-197</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics5.html#FernandezM99</url>
+<ee>https://doi.org/10.1023/A:1009633811636</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/FalkowskiN99" mdate="2017-05-18">
+<author pid="25/670">Jareck Falkowski</author>
+<author pid="91/6092">Miles G. Nicholls</author>
+<title>Increasing the Efficiency of Selected Grid Search Procedures Through the Introduction of a Best Step Mechanism.</title>
+<pages>199-214</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics5.html#FalkowskiN99</url>
+<ee>https://doi.org/10.1023/A:1009685812545</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/MuhlenbeinMO99" mdate="2017-05-18">
+<author pid="78/3851">Heinz M&#252;hlenbein</author>
+<author pid="39/6096">Thilo Mahnig</author>
+<author pid="88/2345">Alberto Ochoa-Rodr&#237;guez</author>
+<title>Schemata, Distributions and Graphical Models in Evolutionary Optimization.</title>
+<pages>215-247</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics5.html#MuhlenbeinMO99</url>
+<ee>https://doi.org/10.1023/A:1009689913453</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 5, Number 3, October 1999</h2> 
+<dblpcites><r style="ee"><article key="journals/heuristics/PesantG99" mdate="2017-05-18">
+<author pid="02/6567">Gilles Pesant</author>
+<author pid="08/5862">Michel Gendreau</author>
+<title>A Constraint Programming Framework for Local Search Methods.</title>
+<pages>255-279</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics5.html#PesantG99</url>
+<ee>https://doi.org/10.1023/A:1009694016861</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/CaseauL99" mdate="2017-05-18">
+<author pid="c/YvesCaseau">Yves Caseau</author>
+<author pid="34/2548">Fran&#231;ois Laburthe</author>
+<title>Heuristics for Large Constrained Vehicle Routing Problems.</title>
+<pages>281-303</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics5.html#CaseauL99</url>
+<ee>https://doi.org/10.1023/A:1009661600931</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/PapeB99" mdate="2017-05-18">
+<author pid="84/1556">Claude Le Pape</author>
+<author pid="68/3558">Philippe Baptiste</author>
+<title>Heuristic Control of a Constraint-Based Algorithm for the Preemptive Job-Shop Scheduling Problem.</title>
+<pages>305-325</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics5.html#PapeB99</url>
+<ee>https://doi.org/10.1023/A:1009613717770</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/KuntzSL99" mdate="2021-09-23">
+<author pid="k/PascaleKuntz">Pascale Kuntz</author>
+<author pid="99/6517">Dominique Snyers</author>
+<author pid="49/240-2">Paul J. Layzell 0002</author>
+<title>A Stochastic Heuristic for Visualising Graph Clusters in a Bi-Dimensional Space Prior to Partitioning.</title>
+<pages>327-351</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics5.html#KuntzSL99</url>
+<ee>https://doi.org/10.1023/A:1009665701840</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/Farreny99" mdate="2017-05-18">
+<author pid="03/6823">Henri Farreny</author>
+<title>Completeness and Admissibility for General Heuristic Search Algorithms-A Theoretical Study: Basic Concepts and Proofs.</title>
+<pages>353-376</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics5.html#Farreny99</url>
+<ee>https://doi.org/10.1023/A:1009617818678</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 5, Number 4, December 1999</h2> 
+<dblpcites><r style="ee"><article key="journals/heuristics/CaoSM99" mdate="2018-11-14">
+<author pid="86/6849">Buyang Cao</author>
+<author orcid="0000-0001-8503-9761" pid="96/833">Minghe Sun</author>
+<author pid="05/1625">Charles Macleod</author>
+<title>Applying GIS and Combinatorial Optimization to Fiber Deployment Plans.</title>
+<pages>385-402</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>4</number>
+<url>db/journals/heuristics/heuristics5.html#CaoSM99</url>
+<ee>https://doi.org/10.1023/A:1009628321600</ee>
+<ee>https://www.wikidata.org/entity/Q57570782</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/WilsonR99" mdate="2022-12-07">
+<author orcid="0000-0002-3550-049X" pid="63/1864">Ian D. Wilson</author>
+<author orcid="0000-0002-8695-9778" pid="50/1280">Paul A. Roach</author>
+<title>Principles of Combinatorial Optimization Applied to Container-Ship Stowage Planning.</title>
+<pages>403-418</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>4</number>
+<url>db/journals/heuristics/heuristics5.html#WilsonR99</url>
+<ee>https://doi.org/10.1023/A:1009680305670</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/Emden-WeinertP99" mdate="2017-05-18">
+<author pid="81/986">Thomas Emden-Weinert</author>
+<author pid="20/3243">Mark Proksch</author>
+<title>Best Practice Simulated Annealing for the Airline Crew Scheduling Problem.</title>
+<pages>419-436</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>4</number>
+<url>db/journals/heuristics/heuristics5.html#Emden-WeinertP99</url>
+<ee>https://doi.org/10.1023/A:1009632422509</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/MillerCML99" mdate="2017-05-18">
+<author pid="96/6439">David M. Miller</author>
+<author pid="95/4502">Hui-Chuan Chen</author>
+<author pid="58/2714">Jessica Matson</author>
+<author pid="61/3234">Qiang Liu</author>
+<title>A Hybrid Genetic Algorithm for the Single Machine Scheduling Problem.</title>
+<pages>437-454</pages>
+<year>1999</year>
+<volume>5</volume>
+<journal>J. Heuristics</journal>
+<number>4</number>
+<url>db/journals/heuristics/heuristics5.html#MillerCML99</url>
+<ee>https://doi.org/10.1023/A:1009684406579</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

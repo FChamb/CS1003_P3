@@ -1,0 +1,1036 @@
+<bht key="db/journals/spe/spe16.bht" title="Software - Practice and Experience, Volume 16, 1986 ">
+
+<h1><ref href="db/journals/spe/index.html">Software - Practice and Experience (SPE)</ref>, Volume 16, 1986 </h1>
+<h2>Volume 16, Number 1, January 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/Lichtman86" mdate="2020-04-09">
+<author pid="44/6123">Zavdi L. Lichtman</author>
+<title>The Function of T and NIL in LISP.</title>
+<pages>1-3</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe16.html#Lichtman86</url>
+<ee>https://doi.org/10.1002/spe.4380160102</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Fisher86" mdate="2020-04-09">
+<author pid="67/4170">A. J. Fisher</author>
+<title>A New Algorithm for Generating Hilbert Curves.</title>
+<pages>5-12</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe16.html#Fisher86</url>
+<ee>https://doi.org/10.1002/spe.4380160103</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Watt86" mdate="2020-04-09">
+<author pid="w/DavidAWatt">David A. Watt</author>
+<title>Executable Semantic Descriptions.</title>
+<pages>13-43</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe16.html#Watt86</url>
+<ee>https://doi.org/10.1002/spe.4380160104</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/HortonT86" mdate="2020-04-09">
+<author pid="48/476">I. A. Horton</author>
+<author pid="33/1719">S. J. Turner</author>
+<title>Using Coroutines in Pascal.</title>
+<pages>45-61</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe16.html#HortonT86</url>
+<ee>https://doi.org/10.1002/spe.4380160105</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/KerridgeS86" mdate="2020-10-26">
+<author orcid="0000-0002-1261-9519" pid="77/6026">Jon M. Kerridge</author>
+<author pid="20/3773">Dan Simpson</author>
+<title>Communicating Parallel Processes.</title>
+<pages>63-86</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe16.html#KerridgeS86</url>
+<ee>https://doi.org/10.1002/spe.4380160106</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/PatelH86" mdate="2020-04-09">
+<author pid="98/6893">R. R. Patel</author>
+<author pid="99/4515">R. B. Hunter</author>
+<title>Implementing ALGOL 68 Predicates.</title>
+<pages>87-97</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe16.html#PatelH86</url>
+<ee>https://doi.org/10.1002/spe.4380160107</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 2, February 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/Foster86" mdate="2020-04-09">
+<author pid="82/734">David G. Foster</author>
+<title>Seperate Compilation in a Modula-2 Compiler.</title>
+<pages>101-106</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe16.html#Foster86</url>
+<ee>https://doi.org/10.1002/spe.4380160202</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/AnyanwuM86" mdate="2020-04-09">
+<author pid="62/6794">Josephine Ada Anyanwu</author>
+<author pid="97/5849">Lindsay F. Marshall</author>
+<title>A Crash Resistant UNIX File System.</title>
+<pages>107-118</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe16.html#AnyanwuM86</url>
+<ee>https://doi.org/10.1002/spe.4380160203</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Middleton86" mdate="2022-02-21">
+<author pid="99/1668">Anthony G. Middleton</author>
+<title>Routines: An Argument against the Conventional Approach to Functions and Procedures.</title>
+<pages>119-130</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe16.html#Middleton86</url>
+<ee>https://doi.org/10.1002/spe.4380160204</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/SommervilleWBT86" mdate="2020-04-09">
+<author pid="s/IanSommerville">Ian Sommerville</author>
+<author pid="w/RayWelland">Ray Welland</author>
+<author pid="73/3064">I. Bennett</author>
+<author pid="97/4744">Ronny Thomson</author>
+<title>SOFTLIB-A Documentation Management System.</title>
+<pages>131-143</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe16.html#SommervilleWBT86</url>
+<ee>https://doi.org/10.1002/spe.4380160205</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/LiH86" mdate="2020-04-09">
+<author pid="l/KaiLi1">Kai Li 0001</author>
+<author pid="h/PaulHudak">Paul Hudak</author>
+<title>A New List Compaction Method.</title>
+<pages>145-163</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe16.html#LiH86</url>
+<ee>https://doi.org/10.1002/spe.4380160206</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Khayat86" mdate="2020-04-09">
+<author pid="46/96">M. G. Khayat</author>
+<title>Printing Arabic Text Using Dot Matrix Printers.</title>
+<pages>165-172</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe16.html#Khayat86</url>
+<ee>https://doi.org/10.1002/spe.4380160207</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/RamanathanS86" mdate="2022-02-21">
+<author pid="89/1528">Jay Ramanathan</author>
+<author pid="71/426">Charley J. Shubra</author>
+<title>Template Design for File Processing Applications.</title>
+<pages>173-182</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe16.html#RamanathanS86</url>
+<ee>https://doi.org/10.1002/spe.4380160208</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/MillerMS86" mdate="2020-04-09">
+<author pid="m/BartonPMiller">Barton P. Miller</author>
+<author pid="03/6415">Cathryn Macrander</author>
+<author pid="74/5257">Stuart Sechrest</author>
+<title>A Distributed Programs Monitor for Berkeley UNIX.</title>
+<pages>183-200</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe16.html#MillerMS86</url>
+<ee>https://doi.org/10.1002/spe.4380160209</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 3, March 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/CookeA86" mdate="2021-07-30">
+<author pid="47/2738">D. John Cooke</author>
+<author pid="08/3383">Fatemeh Abdollahzadeh</author>
+<title>Insecurities in FORTRAN DO-loops.</title>
+<pages>201-216</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe16.html#CookeA86</url>
+<ee>https://doi.org/10.1002/spe.4380160302</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Ragan86" mdate="2020-04-09">
+<author pid="12/636">Richard R. Ragan</author>
+<title>CONTEXT: An On-line Documentation System.</title>
+<pages>217-224</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe16.html#Ragan86</url>
+<ee>https://doi.org/10.1002/spe.4380160303</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Gait86" mdate="2020-04-09">
+<author pid="72/1144">Jason Gait</author>
+<title>A Probe Effect in Concurrent Programs.</title>
+<pages>225-233</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe16.html#Gait86</url>
+<ee>https://doi.org/10.1002/spe.4380160304</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Lunbeck86" mdate="2020-04-09">
+<author pid="99/5501">R. J. Lunbeck</author>
+<title>File Updating Revisited.</title>
+<pages>235-241</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe16.html#Lunbeck86</url>
+<ee>https://doi.org/10.1002/spe.4380160305</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/SchachW86" mdate="2020-04-09">
+<author pid="s/StephenRSchach">Stephen R. Schach</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>An Almost Path-free Very High-level Interactive Data Manipulation Language for a Microcomputer-based Database System.</title>
+<pages>243-268</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe16.html#SchachW86</url>
+<ee>https://doi.org/10.1002/spe.4380160306</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/KatajainenPT86" mdate="2020-04-09">
+<author pid="90/1764">Jyrki Katajainen</author>
+<author pid="19/454">Martti Penttonen</author>
+<author pid="t/JukkaTeuhola">Jukka Teuhola</author>
+<title>Syntax-directed Compression of Program Files.</title>
+<pages>269-276</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe16.html#KatajainenPT86</url>
+<ee>https://doi.org/10.1002/spe.4380160307</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/LintonP86" mdate="2020-04-09">
+<author pid="30/1247">A. Linton</author>
+<author pid="67/6422">Fabio Panzieri</author>
+<title>A Communication System Supporting Large Datagrams on a Local Area Network.</title>
+<pages>277-289</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe16.html#LintonP86</url>
+<ee>https://doi.org/10.1002/spe.4380160308</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Brown86" mdate="2020-04-09">
+<author pid="b/PeterJBrown">Peter J. Brown</author>
+<title>Interactive Documentation.</title>
+<pages>291-299</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe16.html#Brown86</url>
+<ee>https://doi.org/10.1002/spe.4380160309</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Ridder86" mdate="2020-04-09">
+<author pid="25/2957">Theo de Ridder</author>
+<title>Coroutines for C Reconsidered.</title>
+<pages>301-302</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe16.html#Ridder86</url>
+<ee>https://doi.org/10.1002/spe.4380160310</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 4, April 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/Pedersen86" mdate="2020-04-09">
+<author pid="07/3452">T. Pedersen</author>
+<title>Process Administration in a High Level Language.</title>
+<pages>303-333</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe16.html#Pedersen86</url>
+<ee>https://doi.org/10.1002/spe.4380160402</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/ForsytheM86" mdate="2020-04-09">
+<author pid="53/2352">Kenneth Forsythe</author>
+<author orcid="0000-0001-6629-8434" pid="m/StanMatwin">Stan Matwin</author>
+<title>Copying of Dynamic Structures in a Pascal Environment.</title>
+<pages>335-340</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe16.html#ForsytheM86</url>
+<ee>https://doi.org/10.1002/spe.4380160403</ee>
+<ee>https://www.wikidata.org/entity/Q57707261</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/BurnsK86" mdate="2022-03-18">
+<author pid="b/AlanBurns">Alan Burns 0001</author>
+<author pid="28/5546">J. A. Kirkham</author>
+<title>The Construction of Information Management System Prototypes in Ada.</title>
+<pages>341-350</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe16.html#BurnsK86</url>
+<ee>https://doi.org/10.1002/spe.4380160404</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/MorrisonBBDD86" mdate="2020-04-09">
+<author pid="82/2183">Ronald Morrison</author>
+<author orcid="0000-0001-6171-8786" pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="27/4894">Peter J. Bailey</author>
+<author pid="25/3932">Antony J. T. Davie</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>A Persistent Graphics Facility for the ICL PERQ.</title>
+<pages>351-367</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe16.html#MorrisonBBDD86</url>
+<ee>https://doi.org/10.1002/spe.4380160405</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Wyk86" mdate="2020-04-09">
+<author pid="23/6585">Christopher J. Van Wyk</author>
+<title>AWK as Glue for Programs.</title>
+<pages>369-388</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe16.html#Wyk86</url>
+<ee>https://doi.org/10.1002/spe.4380160406</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Al-HussainiS86" mdate="2020-04-09">
+<author pid="46/19">A. M. M. Al-Hussaini</author>
+<author pid="43/3807">Roger G. Stone</author>
+<title>Yet Another Storage Technique for LR Parsing Tables.</title>
+<pages>389-401</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe16.html#Al-HussainiS86</url>
+<ee>https://doi.org/10.1002/spe.4380160407</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 5, May 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/Griffiths86" mdate="2020-04-09">
+<author pid="30/6374">J. G. Griffiths</author>
+<title>An Algorithm for Displaying a Class of Space-filling Curves.</title>
+<pages>403-411</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe16.html#Griffiths86</url>
+<ee>https://doi.org/10.1002/spe.4380160503</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Newman86" mdate="2020-04-09">
+<author pid="61/901">I. A. Newman</author>
+<title>Processing Variable Length Abbreviations: Some Observations.</title>
+<pages>413-423</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe16.html#Newman86</url>
+<ee>https://doi.org/10.1002/spe.4380160504</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/TuynmanH86" mdate="2020-04-09">
+<author pid="91/5899">F. Tuynman</author>
+<author pid="h/LOHertzberger">Louis O. Hertzberger</author>
+<title>A Distributed Real-time Operating System.</title>
+<pages>425-441</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe16.html#TuynmanH86</url>
+<ee>https://doi.org/10.1002/spe.4380160505</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/TaylorB86" mdate="2020-04-09">
+<author pid="t/DavidJTaylor">David J. Taylor</author>
+<author pid="79/2669">James P. Black</author>
+<title>Experimenting with Data Structures.</title>
+<pages>443-456</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe16.html#TaylorB86</url>
+<ee>https://doi.org/10.1002/spe.4380160506</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Terry86" mdate="2020-04-09">
+<author pid="65/2732">P. D. Terry</author>
+<title>A Modula-2 Kernel for Supporting Monitors.</title>
+<pages>457-472</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe16.html#Terry86</url>
+<ee>https://doi.org/10.1002/spe.4380160507</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Waite86" mdate="2020-04-09">
+<author pid="w/WilliamMWaite">William M. Waite</author>
+<title>The Cost of Lexical Analysis.</title>
+<pages>473-488</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe16.html#Waite86</url>
+<ee>https://doi.org/10.1002/spe.4380160508</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Marinescu86" mdate="2020-04-09">
+<author pid="m/DanCristianMarinescu">Dan C. Marinescu</author>
+<title>Inter-process Communication in MVS/XA and Applications for Scientific and Engineering Information Processing.</title>
+<pages>489-501</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe16.html#Marinescu86</url>
+<ee>https://doi.org/10.1002/spe.4380160509</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 6, June 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/Blum86" mdate="2020-04-09">
+<author pid="54/107">Bruce I. Blum</author>
+<title>Iterative Development of Information Systems: A Case Study.</title>
+<pages>503-515</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe16.html#Blum86</url>
+<ee>https://doi.org/10.1002/spe.4380160602</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Brown86a" mdate="2020-04-09">
+<author pid="63/4808">Michael W. Brown</author>
+<title>Integrating Distributed Array Processing into EMAS 2900.</title>
+<pages>517-529</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe16.html#Brown86a</url>
+<ee>https://doi.org/10.1002/spe.4380160603</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/StephensY86" mdate="2020-04-09">
+<author pid="60/369">P. D. Stephens</author>
+<author pid="74/4395">J. K. Yarwood</author>
+<title>Providing Multi-Users Access to Distributed Array Processors.</title>
+<pages>531-539</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe16.html#StephensY86</url>
+<ee>https://doi.org/10.1002/spe.4380160604</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Liu86" mdate="2020-04-09">
+<author pid="72/6808">Ken-Chih Liu</author>
+<title>A String Pattern Matching Extension to Pascal and Some Comparisons with SNOBOL4.</title>
+<pages>541-548</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe16.html#Liu86</url>
+<ee>https://doi.org/10.1002/spe.4380160605</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Coombs86" mdate="2020-04-09">
+<author pid="09/3182">R. F. Coombs</author>
+<title>A Management System for Dirty Data.</title>
+<pages>549-558</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe16.html#Coombs86</url>
+<ee>https://doi.org/10.1002/spe.4380160606</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Palmer86" mdate="2020-04-09">
+<author pid="13/2494">J. A. B. Palmer</author>
+<title>A Fortran Procedure for Drawing Some Space-filling Curves.</title>
+<pages>559-574</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe16.html#Palmer86</url>
+<ee>https://doi.org/10.1002/spe.4380160607</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/DaviesB86" mdate="2020-04-09">
+<author pid="63/4973">G. Davies</author>
+<author pid="27/1988">S. Bowsher</author>
+<title>Algorithms for Pattern Matching.</title>
+<pages>575-601</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe16.html#DaviesB86</url>
+<ee>https://doi.org/10.1002/spe.4380160608</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 7, July 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/Woodman86" mdate="2020-04-09">
+<author pid="90/5693">Mark Woodman</author>
+<title>Formatted Syntaxes and Modula.</title>
+<pages>605-625</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe16.html#Woodman86</url>
+<ee>https://doi.org/10.1002/spe.4380160702</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/KantorowitzL86" mdate="2020-04-09">
+<author pid="k/EliezerKantorowitz">Eliezer Kantorowitz</author>
+<author pid="50/6143">H. Laor</author>
+<title>Automatic Generation of Useful Syntax Error Messages.</title>
+<pages>627-640</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe16.html#KantorowitzL86</url>
+<ee>https://doi.org/10.1002/spe.4380160703</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Bernstein86" mdate="2020-04-09">
+<author pid="r/RobertLBernstein">Robert L. Bernstein</author>
+<title>Multiplication by Integer Constants.</title>
+<pages>641-652</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe16.html#Bernstein86</url>
+<ee>https://doi.org/10.1002/spe.4380160704</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/AdamsM86" mdate="2020-04-09">
+<author pid="54/2974">Evan Adams</author>
+<author pid="02/6379">Steven S. Muchnick</author>
+<title>Dbxtool: A Window-Based Symbolic Debugger for Sun Workstations.</title>
+<pages>653-669</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe16.html#AdamsM86</url>
+<ee>https://doi.org/10.1002/spe.4380160705</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/VassiliadesSB86" mdate="2020-04-09">
+<author pid="03/5013">Synnove Vassiliades</author>
+<author pid="38/6934">Michael D. Sayers</author>
+<author pid="b/JeanBacon">Jean Bacon</author>
+<title>A Monitor Tool for a Network Based on the Cambridge Ring.</title>
+<pages>671-687</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe16.html#VassiliadesSB86</url>
+<ee>https://doi.org/10.1002/spe.4380160706</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 8, August 1986</h2>
+<dblpcites><r><article key="journals/spe/KrogdahlO86" mdate="2020-04-09">
+<author pid="01/54">Stein Krogdahl</author>
+<author pid="98/581">K. A. Olsen</author>
+<title>Ada, as Seen from Simula.</title>
+<pages>689-700</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe16.html#KrogdahlO86</url>
+</article>
+</r>
+<r><article key="journals/spe/FantechiIL86" mdate="2020-04-09">
+<author pid="f/AlessandroFantechi">Alessandro Fantechi</author>
+<author pid="i/PaolaInverardi">Paola Inverardi</author>
+<author pid="40/3331">Norma Lijtmaer</author>
+<title>Using High Level Languages for Local Computer Network Communication: A Case Study in Ada.</title>
+<pages>701-717</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe16.html#FantechiIL86</url>
+</article>
+</r>
+<r><article key="journals/spe/WilliamsPN86" mdate="2020-04-09">
+<author pid="04/968">M. Howard Williams</author>
+<author pid="36/4973">I. M. Pattison</author>
+<author pid="88/2265">J. C. Neves</author>
+<title>Reorganization in a Simple Database System.</title>
+<pages>719-729</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe16.html#WilliamsPN86</url>
+</article>
+</r>
+<r><article key="journals/spe/Dewey86" mdate="2020-04-09">
+<author pid="49/3947">Michael E. Dewey</author>
+<title>TBFLP-A Simple Preprocessor for Tables.</title>
+<pages>731-738</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe16.html#Dewey86</url>
+</article>
+</r>
+<r><article key="journals/spe/Linnainmaa86" mdate="2020-04-09">
+<author pid="23/1135">Seppo Linnainmaa</author>
+<title>Icecream, Transportable Software for Creating Fiendly Human Interfaces.</title>
+<pages>739-750</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe16.html#Linnainmaa86</url>
+</article>
+</r>
+<r><article key="journals/spe/Clayton86" mdate="2020-04-09">
+<author pid="c/PeterClayton">Peter G. Clayton</author>
+<title>A Code Generator Synthesizer for the Non-specialist.</title>
+<pages>751-760</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe16.html#Clayton86</url>
+</article>
+</r>
+<r><article key="journals/spe/Halang86" mdate="2020-04-09">
+<author pid="89/5002">Wolfgang A. Halang</author>
+<title>Suitable Multiprocessor Structures and Virtual Storage Management when Applying a Feasible Scheduling Algorithm in Hard Real-Time Environment.</title>
+<pages>761-769</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe16.html#Halang86</url>
+</article>
+</r>
+<r><article key="journals/spe/Brereton86" mdate="2020-04-09">
+<author pid="21/4595">Pearl Brereton</author>
+<title>Management of Replicated Files in a UNIX Environments.</title>
+<pages>771-780</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe16.html#Brereton86</url>
+</article>
+</r>
+<r><article key="journals/spe/Schneck86" mdate="2020-04-09">
+<author pid="04/4314">Paul B. Schneck</author>
+<title>Superlinear Speed-Up and the Halting Problem.</title>
+<pages>781-782</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe16.html#Schneck86</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 9, September 1986</h2>
+<dblpcites><r><article key="journals/spe/Bornat86" mdate="2020-04-09">
+<author pid="49/5280">Richard Bornat</author>
+<title>A Protocol for Generalized occam.</title>
+<pages>783-799</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe16.html#Bornat86</url>
+</article>
+</r>
+<r><article key="journals/spe/Heuring86" mdate="2020-04-09">
+<author pid="37/5398">Vincent P. Heuring</author>
+<title>The Automatic Generation of Fast Lexical Analysers.</title>
+<pages>801-808</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe16.html#Heuring86</url>
+</article>
+</r>
+<r><article key="journals/spe/MillerM86" mdate="2020-04-09">
+<author pid="m/WebbMiller">Webb Miller</author>
+<author pid="m/EugeneWMyers">Eugene W. Myers</author>
+<title>Side-effects in Automatic File Updating.</title>
+<pages>809-820</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe16.html#MillerM86</url>
+</article>
+</r>
+<r><article key="journals/spe/GehaniR86" mdate="2020-04-09">
+<author pid="88/911">Narain H. Gehani</author>
+<author pid="73/6714">William D. Roome</author>
+<title>Concurrent C.</title>
+<pages>821-844</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe16.html#GehaniR86</url>
+</article>
+</r>
+<r><article key="journals/spe/HullD86" mdate="2020-04-09">
+<author pid="h/MElizabethCHull">M. Elizabeth C. Hull</author>
+<author pid="26/2697">G. Donnan</author>
+<title>Contextually Communicating Sequential Processes: A Software Engineering Environment.</title>
+<pages>845-864</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe16.html#HullD86</url>
+</article>
+</r>
+<r><article key="journals/spe/Carrington86" mdate="2020-04-09">
+<author pid="c/DavidACarrington">David A. Carrington</author>
+<title>Profiling under ELXSI UNIX.</title>
+<pages>865-873</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe16.html#Carrington86</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 10, October 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/Fisher86a" mdate="2020-04-09">
+<author pid="67/4170">A. J. Fisher</author>
+<title>A Multi-processor Implementation of occam.</title>
+<pages>875-892</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>10</number>
+<url>db/journals/spe/spe16.html#Fisher86a</url>
+<ee>https://doi.org/10.1002/spe.4380161002</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Norris-SherbornM86" mdate="2020-04-09">
+<author pid="02/4846">A. Norris-Sherborn</author>
+<author pid="84/6601">Wendy J. Milne</author>
+<title>A Practical Approach to Data Modelling in Spatial Applications.</title>
+<pages>893-913</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>10</number>
+<url>db/journals/spe/spe16.html#Norris-SherbornM86</url>
+<ee>https://doi.org/10.1002/spe.4380161003</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Ben-Ari86" mdate="2020-04-09">
+<author pid="b/MBenAri">Mordechai Ben-Ari</author>
+<title>Foreet: A Tool for Design and Documentation of Fortran Programs.</title>
+<pages>915-924</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>10</number>
+<url>db/journals/spe/spe16.html#Ben-Ari86</url>
+<ee>https://doi.org/10.1002/spe.4380161004</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/LapalmeC86" mdate="2020-04-09">
+<author pid="36/3591">Guy Lapalme</author>
+<author pid="35/5039">Suzanne Chapleau</author>
+<title>Logicon: An Integration of Prolog into Icon.</title>
+<pages>925-944</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>10</number>
+<url>db/journals/spe/spe16.html#LapalmeC86</url>
+<ee>https://doi.org/10.1002/spe.4380161005</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/GaglianelloK86" mdate="2020-04-09">
+<author pid="35/6865">Robert D. Gaglianello</author>
+<author pid="15/4015">Howard P. Katseff</author>
+<title>Communications in Meglos.</title>
+<pages>945-963</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>10</number>
+<url>db/journals/spe/spe16.html#GaglianelloK86</url>
+<ee>https://doi.org/10.1002/spe.4380161006</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 11, November 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/Slater86" mdate="2020-04-09">
+<author orcid="0000-0002-6223-0050" pid="74/3131">Mel Slater</author>
+<title>Segments on Bit-mapped Graphics Displays.</title>
+<pages>965-980</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe16.html#Slater86</url>
+<ee>https://doi.org/10.1002/spe.4380161102</ee>
+<ee>https://www.wikidata.org/entity/Q57808712</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Dromey86" mdate="2020-04-09">
+<author pid="01/670">R. Geoff Dromey</author>
+<title>An Algorithm for The Selection Problem.</title>
+<pages>981-986</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe16.html#Dromey86</url>
+<ee>https://doi.org/10.1002/spe.4380161103</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/MerrettR86" mdate="2020-04-09">
+<author pid="m/THMerrett">T. H. Merrett</author>
+<author pid="57/380">Ted van Rossum</author>
+<title>A Functional Processor for the Relational Algebra on a Microcomputer.</title>
+<pages>987-1002</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe16.html#MerrettR86</url>
+<ee>https://doi.org/10.1002/spe.4380161104</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/MiliXQ86" mdate="2020-04-09">
+<author pid="m/AliMili">Ali Mili</author>
+<author pid="w/XiaoyangSeanWang">Xiaoyang Sean Wang</author>
+<author pid="18/4217">Yu Qing</author>
+<title>Specification Methodology: An Integrated Relational Approach.</title>
+<pages>1003-1030</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe16.html#MiliXQ86</url>
+<ee>https://doi.org/10.1002/spe.4380161105</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/SnowW86" mdate="2020-04-09">
+<author pid="46/5090">C. Richard Snow</author>
+<author pid="90/1582">Harry Whitfield</author>
+<title>An Experiment with the Newcastle Connection Protocol.</title>
+<pages>1031-1043</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe16.html#SnowW86</url>
+<ee>https://doi.org/10.1002/spe.4380161106</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Anstey86" mdate="2020-04-09">
+<author pid="67/22">Paddy Anstey</author>
+<title>Computing Advice at a Distance: the 'Remote Advisory' Concept.</title>
+<pages>1045-1052</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe16.html#Anstey86</url>
+<ee>https://doi.org/10.1002/spe.4380161107</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/CantoniK86" mdate="2020-04-09">
+<author pid="36/3076">Antonio Cantoni</author>
+<author orcid="0000-0002-3629-0666" pid="66/4244">Lindsay Kleeman</author>
+<title>Three Way Branching Self Consistency Checking of Hardware and Software.</title>
+<pages>1053-1054</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe16.html#CantoniK86</url>
+<ee>https://doi.org/10.1002/spe.4380161108</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 16, Number 12, December 1986</h2>
+<dblpcites><r style="ee"><article key="journals/spe/Huskamp86" mdate="2020-04-09">
+<author pid="44/16">Jeffrey C. Huskamp</author>
+<title>A Modular Operating System for the CRAY-1.</title>
+<pages>1059-1076</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>12</number>
+<url>db/journals/spe/spe16.html#Huskamp86</url>
+<ee>https://doi.org/10.1002/spe.4380161202</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/DandamudiS86" mdate="2020-04-09">
+<author pid="d/SPDandamudi">Sivarama P. Dandamudi</author>
+<author pid="76/3827">Paul G. Sorenson</author>
+<title>Algorithms for BD Trees.</title>
+<pages>1077-1096</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>12</number>
+<url>db/journals/spe/spe16.html#DandamudiS86</url>
+<ee>https://doi.org/10.1002/spe.4380161203</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Walker86" mdate="2020-04-09">
+<author pid="22/1737">A. N. Walker</author>
+<title>The Ilem Project: Pascal to Algol in Easy Stages I: Outward Bound.</title>
+<pages>1097-1107</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>12</number>
+<url>db/journals/spe/spe16.html#Walker86</url>
+<ee>https://doi.org/10.1002/spe.4380161204</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Hoppe86" mdate="2020-04-09">
+<author pid="44/5317">Jiri Hoppe</author>
+<title>Another Approach to the Implementation of Synchronization Primitives.</title>
+<pages>1109-1116</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>12</number>
+<url>db/journals/spe/spe16.html#Hoppe86</url>
+<ee>https://doi.org/10.1002/spe.4380161205</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/DowsingS86" mdate="2020-04-09">
+<author pid="97/2141">Roy D. Dowsing</author>
+<author pid="54/5165">M. T. Sanderson</author>
+<title>Writing Concurrent Assemblers-A Case Study in Path Pascal.</title>
+<pages>1117-1135</pages>
+<year>1986</year>
+<volume>16</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>12</number>
+<url>db/journals/spe/spe16.html#DowsingS86</url>
+<ee>https://doi.org/10.1002/spe.4380161206</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

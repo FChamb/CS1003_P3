@@ -1,0 +1,502 @@
+<bht key="db/journals/jisa/jisa3.bht" title="Journal of Internet Services and Applications, Volume 3"> 
+<h1><ref href="db/journals/jisa/index.html">Journal of Internet Services and Applications</ref>, Volume 3</h1> 
+<h2>Volume 3, Number 1, May 2012</h2> Special Issue on the Future of Middleware (FOME'11) <dblpcites><r style="ee"><article key="journals/jisa/IssarnyB12" mdate="2020-04-25">
+<author pid="i/ValerieIssarny">Val&#233;rie Issarny</author>
+<author pid="b/GordonSBlair">Gordon S. Blair</author>
+<title>Guest editorial: Special issue on the future of middleware.</title>
+<pages>1-4</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0058-3</ee>
+<url>db/journals/jisa/jisa3.html#IssarnyB12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/WhiteDSSPC12" mdate="2020-04-25">
+<author pid="89/2873">Jules White</author>
+<author pid="55/2006">Brian Dougherty</author>
+<author pid="49/617">Richard E. Schantz</author>
+<author pid="s/DouglasCSchmidt">Douglas C. Schmidt</author>
+<author pid="p/AdamAPorter">Adam A. Porter</author>
+<author pid="19/6638">Angelo Corsaro</author>
+<title>R&#38;D challenges and solutions for highly complex distributed systems: a middleware perspective.</title>
+<pages>5-13</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0051-x</ee>
+<url>db/journals/jisa/jisa3.html#WhiteDSSPC12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/AutiliIPT12" mdate="2022-04-09">
+<author orcid="0000-0001-5951-1567" pid="21/1998">Marco Autili</author>
+<author pid="i/PaolaInverardi">Paola Inverardi</author>
+<author orcid="0000-0002-5438-2281" pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<author orcid="0000-0001-9290-1997" pid="t/MassimoTivoli">Massimo Tivoli</author>
+<title>Developing highly complex distributed systems: a software engineering perspective.</title>
+<pages>15-22</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0048-5</ee>
+<url>db/journals/jisa/jisa3.html#AutiliIPT12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/GhoshSTV12" mdate="2020-04-25">
+<author pid="64/6274">Debasish Ghosh</author>
+<author pid="70/5597">Justin Sheehy</author>
+<author pid="34/6588">Kresten Krab Thorup</author>
+<author pid="93/4321">Steve Vinoski</author>
+<title>Programming language impact on the development of distributed systems.</title>
+<pages>23-30</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0042-y</ee>
+<url>db/journals/jisa/jisa3.html#GhoshSTV12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/MottolaP12" mdate="2020-04-25">
+<author pid="60/5205">Luca Mottola</author>
+<author pid="65/4458">Gian Pietro Picco</author>
+<title>Middleware for wireless sensor networks: an outlook.</title>
+<pages>31-39</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0046-7</ee>
+<url>db/journals/jisa/jisa3.html#MottolaP12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/DenkerDMSTV12" mdate="2020-09-05">
+<author pid="d/GritDenker">Grit Denker</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<author pid="m/SharadMehrotra">Sharad Mehrotra</author>
+<author pid="61/4871">Mark-Oliver Stehr</author>
+<author pid="t/CarolynLTalcott">Carolyn L. Talcott</author>
+<author pid="66/1875">Nalini Venkatasubramanian</author>
+<title>Resilient dependable cyber-physical systems: a middleware perspective.</title>
+<pages>41-49</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0057-4</ee>
+<url>db/journals/jisa/jisa3.html#DenkerDMSTV12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/McKinleyCRJ12" mdate="2020-04-25">
+<author pid="m/PhilipKMcKinley">Philip K. McKinley</author>
+<author pid="93/2440">Betty H. C. Cheng</author>
+<author pid="50/3952">Andres J. Ramirez</author>
+<author pid="53/8285">Adam C. Jensen</author>
+<title>Applying evolutionary computation to mitigate uncertainty in dynamically-adaptive, high-assurance middleware.</title>
+<pages>51-58</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0049-4</ee>
+<url>db/journals/jisa/jisa3.html#McKinleyCRJ12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/SteenPV12" mdate="2020-04-25">
+<author pid="s/MaartenvanSteen">Maarten van Steen</author>
+<author pid="63/6649">Guillaume Pierre</author>
+<author pid="15/5921">Spyros Voulgaris</author>
+<title>Challenges in very large distributed systems.</title>
+<pages>59-66</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0043-x</ee>
+<url>db/journals/jisa/jisa3.html#SteenPV12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/CookMT12" mdate="2020-04-25">
+<author pid="19/6337">Nigel Cook</author>
+<author pid="53/726">Dejan S. Milojicic</author>
+<author pid="59/3510">Vanish Talwar</author>
+<title>Cloud management.</title>
+<pages>67-75</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0053-8</ee>
+<url>db/journals/jisa/jisa3.html#CookMT12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/BoutabaCZ12" mdate="2020-04-25">
+<author pid="b/RaoufBoutaba">Raouf Boutaba</author>
+<author pid="17/4969">Lu Cheng</author>
+<author pid="52/323-8">Qi Zhang 0008</author>
+<title>On Cloud computational models and the heterogeneity challenge.</title>
+<pages>77-86</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0054-7</ee>
+<url>db/journals/jisa/jisa3.html#BoutabaCZ12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/CampbellMF12" mdate="2020-11-12">
+<author pid="c/RoyHCampbell">Roy H. Campbell</author>
+<author pid="24/4853">Mirko Montanari</author>
+<author pid="00/5238-2">Reza Farivar 0002</author>
+<title>A middleware for assured clouds.</title>
+<pages>87-94</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0044-9</ee>
+<url>db/journals/jisa/jisa3.html#CampbellMF12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/LittleSW12" mdate="2020-04-25">
+<author pid="77/210">Mark C. Little</author>
+<author pid="37/5945">Santosh K. Shrivastava</author>
+<author pid="27/333">Stuart M. Wheater</author>
+<title>Another look at the middleware for dependable distributed computing.</title>
+<pages>95-105</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0055-6</ee>
+<url>db/journals/jisa/jisa3.html#LittleSW12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/JoosenLTH12" mdate="2020-10-26">
+<author pid="13/86">Wouter Joosen</author>
+<author orcid="0000-0002-2543-6658" pid="49/6710">Bert Lagaisse</author>
+<author pid="43/5593">Eddy Truyen</author>
+<author pid="39/4731">Koen Handekyn</author>
+<title>Towards application driven security dashboards in future middleware.</title>
+<pages>107-115</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0047-6</ee>
+<url>db/journals/jisa/jisa3.html#JoosenLTH12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/CapraQ12" mdate="2020-04-25">
+<author pid="80/3200">Licia Capra</author>
+<author pid="04/1995">Daniele Quercia</author>
+<title>Middleware for social computing: a roadmap.</title>
+<pages>117-125</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0045-8</ee>
+<url>db/journals/jisa/jisa3.html#CapraQ12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/PaolucciS12" mdate="2022-07-06">
+<author pid="54/2802-1">Massimo Paolucci 0001</author>
+<author pid="49/30">Bertrand Souville</author>
+<title>Data interoperability in the future of middleware.</title>
+<pages>127-131</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0059-x</ee>
+<url>db/journals/jisa/jisa3.html#PaolucciS12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/DearleD12" mdate="2021-10-14">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0001-9633-2103" pid="d/SimonADobson">Simon Dobson</author>
+<title>Mission-oriented middleware for sensor-driven scientific systems.</title>
+<pages>133-139</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0052-9</ee>
+<url>db/journals/jisa/jisa3.html#DearleD12</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 3, Number 2, September 2012</h2> <dblpcites><r style="ee"><article key="journals/jisa/VeigaKB12" mdate="2020-04-25">
+<author orcid="0000-0002-9285-0736" pid="v/LuisVeiga">Lu&#237;s Veiga</author>
+<author pid="k/FabioKon">Fabio Kon</author>
+<author pid="b/GordonSBlair">Gordon S. Blair</author>
+<title>A virtual stone soup: letter from the editors.</title>
+<pages>141-142</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0066-y</ee>
+<url>db/journals/jisa/jisa3.html#VeigaKB12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/Zhang0LM12" mdate="2020-04-25">
+<author pid="13/6769-12">Ying Zhang 0012</author>
+<author pid="11/539-1">Gang Huang 0001</author>
+<author pid="08/2161">Xuanzhe Liu</author>
+<author pid="14/2036">Hong Mei</author>
+<title>Tuning adaptive computations for the performance improvement of applications in JEE server.</title>
+<pages>143-158</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0060-4</ee>
+<url>db/journals/jisa/jisa3.html#Zhang0LM12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/FavarimFL12" mdate="2020-04-25">
+<author pid="94/702">F&#225;bio Favarim</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Towards an opportunistic grid scheduling infrastructure based on tuple spaces.</title>
+<pages>159-172</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0056-5</ee>
+<url>db/journals/jisa/jisa3.html#FavarimFL12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/SuleimanSJL12" mdate="2020-04-25">
+<author orcid="0000-0003-2674-0253" pid="32/2656">Basem Suleiman</author>
+<author orcid="0000-0002-2503-523X" pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="99/2957">D. Ross Jeffery</author>
+<author pid="89/5066">Anna Liu</author>
+<title>On understanding the economics and elasticity challenges of deploying business applications on public cloud infrastructure.</title>
+<pages>173-193</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0050-y</ee>
+<ee>https://www.wikidata.org/entity/Q62752638</ee>
+<url>db/journals/jisa/jisa3.html#SuleimanSJL12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/YeungYN12" mdate="2022-10-02">
+<author pid="30/7647">Kam Fung Yeung</author>
+<author orcid="0000-0003-1047-2274" pid="80/6818-2">Yanyan Yang 0002</author>
+<author orcid="0000-0002-1125-1978" pid="28/7647">David Ndzi</author>
+<title>A proactive personalised mobile recommendation system using analytic hierarchy process and Bayesian network.</title>
+<pages>195-214</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0061-3</ee>
+<url>db/journals/jisa/jisa3.html#YeungYN12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/LaranjeiroVM12" mdate="2020-04-25">
+<author orcid="0000-0003-0011-9901" pid="56/6126">Nuno Laranjeiro</author>
+<author orcid="0000-0001-5103-8541" pid="14/6260">Marco Vieira</author>
+<author orcid="0000-0001-8146-4664" pid="33/2879">Henrique Madeira</author>
+<title>A robustness testing approach for SOAP Web services.</title>
+<pages>215-232</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0062-2</ee>
+<url>db/journals/jisa/jisa3.html#LaranjeiroVM12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/YauPHG12" mdate="2020-04-25">
+<author pid="40/1999">Wei-Chuen Yau</author>
+<author orcid="0000-0001-7448-4595" pid="p/RCWPhan">Raphael C.-W. Phan</author>
+<author orcid="0000-0003-3627-2131" pid="45/873">Swee-Huay Heng</author>
+<author orcid="0000-0002-9854-7121" pid="74/2851">Bok-Min Goi</author>
+<title>Security models for delegated keyword searching within encrypted contents.</title>
+<pages>233-241</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0063-1</ee>
+<url>db/journals/jisa/jisa3.html#YauPHG12</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 3, Number 3, December 2012</h2> 
+<dblpcites><r style="ee"><article key="journals/jisa/KonBGBWTSKV12" mdate="2021-01-18">
+<author pid="k/FabioKon">Fabio Kon</author>
+<author pid="b/GordonSBlair">Gordon S. Blair</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="b/RaoufBoutaba">Raouf Boutaba</author>
+<author pid="w/LizheWang">Lizhe Wang 0001</author>
+<author pid="06/2926-1">Jie Tao 0001</author>
+<author pid="s/AchimStreit">Achim Streit</author>
+<author pid="k/DieterKranzlmuller">Dieter Kranzlm&#252;ller</author>
+<author orcid="0000-0002-9285-0736" pid="v/LuisVeiga">Lu&#237;s Veiga</author>
+<title>The path to openness: letter from the editors.</title>
+<pages>243-244</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0074-y</ee>
+<url>db/journals/jisa/jisa3.html#KonBGBWTSKV12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/AlmeidaY12" mdate="2022-10-02">
+<author orcid="0000-0001-6943-8033" pid="04/2243">Tiago A. Almeida 0001</author>
+<author orcid="0000-0003-3537-4638" pid="81/1738">Akebo Yamakami</author>
+<title>Occam's razor-based spam filter.</title>
+<pages>245-253</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0067-x</ee>
+<url>db/journals/jisa/jisa3.html#AlmeidaY12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/PapadakisSSA12" mdate="2020-04-25">
+<author pid="41/2970">Ioannis Papadakis</author>
+<author pid="22/2126">Michalis Stefanidakis</author>
+<author pid="94/4431">Sofia Stamou</author>
+<author pid="05/3744">Ioannis Andreou</author>
+<title>Semantifying queries over large-scale Web search engines.</title>
+<pages>255-268</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0068-9</ee>
+<ee>https://www.wikidata.org/entity/Q66711248</ee>
+<url>db/journals/jisa/jisa3.html#PapadakisSSA12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/BhadraF12" mdate="2020-04-25">
+<author pid="20/3437">Sandeep Bhadra</author>
+<author pid="f/AfonsoFerreira">Afonso Ferreira</author>
+<title>Computing multicast trees in dynamic networks and the complexity of connected components in evolving graphs.</title>
+<pages>269-275</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0073-z</ee>
+<url>db/journals/jisa/jisa3.html#BhadraF12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/ThoelenHMFDQBMGPMHJ12" mdate="2021-10-14">
+<author pid="99/6369">Klaas Thoelen</author>
+<author pid="h/DannyHughes">Danny Hughes 0001</author>
+<author pid="63/2205">Nelson Matthys</author>
+<author pid="66/5168-1">Lei Fang 0001</author>
+<author orcid="0000-0001-9633-2103" pid="d/SimonADobson">Simon Dobson</author>
+<author pid="121/9806">Yizhou Qiang</author>
+<author pid="45/661-5">Wei Bai 0005</author>
+<author pid="m/KaLokMan">Ka Lok Man</author>
+<author pid="g/StevenGuan">Sheng-Uei Guan</author>
+<author pid="12/603">Davy Preuveneers</author>
+<author orcid="0000-0002-3866-5425" pid="62/5938">Sam Michiels</author>
+<author pid="94/5628">Christophe Huygens</author>
+<author pid="13/86">Wouter Joosen</author>
+<title>A reconfigurable component model with semantic type system for dynamic WSN applications.</title>
+<pages>277-290</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0064-0</ee>
+<url>db/journals/jisa/jisa3.html#ThoelenHMFDQBMGPMHJ12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/SimaoRFV12" mdate="2020-04-25">
+<author orcid="0000-0002-6564-593X" pid="91/10350">Jos&#233; Sim&#227;o</author>
+<author orcid="0000-0002-6080-0996" pid="43/5391">Carlos Ribeiro</author>
+<author orcid="0000-0003-0942-6289" pid="f/PauloJPFerreira">Paulo Ferreira 0001</author>
+<author orcid="0000-0002-9285-0736" pid="v/LuisVeiga">Lu&#237;s Veiga</author>
+<title>Jano: location-privacy enforcement in mobile and pervasive environments through declarative policies.</title>
+<pages>291-310</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0065-z</ee>
+<url>db/journals/jisa/jisa3.html#SimaoRFV12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/MellahCL12" mdate="2022-12-27">
+<author orcid="0000-0002-1540-3449" pid="42/10042">Hakim Mellah</author>
+<author pid="23/6586">Omar Cherkaoui</author>
+<author pid="82/6513">Yves Lemieux</author>
+<title>A distributed controller for a virtualized router.</title>
+<pages>311-318</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0070-2</ee>
+<url>db/journals/jisa/jisa3.html#MellahCL12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/XiaoSW12" mdate="2021-04-09">
+<author pid="119/2666">Qiangju Xiao</author>
+<author pid="77/7993">Pengju Shang</author>
+<author orcid="0000-0002-0926-4761" pid="w/JunWang1">Jun Wang 0001</author>
+<title>Record-Based Block Distribution (RBBD) and weighted set cover scheduling (WSCS) in MapReduce.</title>
+<pages>319-327</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0069-8</ee>
+<url>db/journals/jisa/jisa3.html#XiaoSW12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/CostaSVF12" mdate="2020-04-25">
+<author pid="36/6507">Fernando Costa</author>
+<author pid="181/1995">Jo&#227;o Nuno de Oliveira e Silva</author>
+<author orcid="0000-0002-9285-0736" pid="v/LuisVeiga">Lu&#237;s Veiga</author>
+<author orcid="0000-0003-0942-6289" pid="f/PauloJPFerreira">Paulo Ferreira 0001</author>
+<title>Large-scale volunteer computing over the Internet.</title>
+<pages>329-346</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0072-0</ee>
+<url>db/journals/jisa/jisa3.html#CostaSVF12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jisa/DengCHWPL12" mdate="2020-04-25">
+<author pid="45/6355">Ze Deng</author>
+<author pid="80/1035-1">Dan Chen 0001</author>
+<author pid="121/9847">Yangyang Hu</author>
+<author pid="98/2898">Xiaoming Wu</author>
+<author pid="07/11208">Weizhou Peng</author>
+<author orcid="0000-0003-1359-5130" pid="172/6872">Xiaoli Li 0002</author>
+<title>Massively parallel non-stationary EEG data processing on GPGPU platforms with Morlet continuous wavelet transform.</title>
+<pages>347-357</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-012-0071-1</ee>
+<url>db/journals/jisa/jisa3.html#DengCHWPL12</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

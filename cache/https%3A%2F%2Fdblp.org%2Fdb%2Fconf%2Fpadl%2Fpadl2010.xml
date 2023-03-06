@@ -1,0 +1,343 @@
+<bht key="db/conf/padl/padl2010.bht" title="PADL 2010">  
+<h1>12th <ref href="db/conf/padl/index.html">PADL</ref> 2010:
+Madrid, Spain</h1> <dblpcites><r><proceedings key="conf/padl/2010" mdate="2019-10-19">
+<editor orcid="0000-0001-5199-3135" pid="72/789">Manuel Carro</editor>
+<editor pid="p/RicardoPenaMari">Ricardo Pe&#241;a</editor>
+<title>Practical Aspects of Declarative Languages, 12th International Symposium, PADL 2010, Madrid, Spain, January 18-19, 2010. Proceedings</title>
+<volume>5937</volume>
+<year>2010</year>
+<ee>https://doi.org/10.1007/978-3-642-11503-5</ee>
+<isbn>978-3-642-11502-8</isbn>
+<booktitle>PADL</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/padl/padl2010.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Invited Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/padl/Pontelli10" mdate="2020-10-25">
+<author orcid="0000-0002-7753-1737" pid="p/EnricoPontelli">Enrico Pontelli</author>
+<title>Answer Set Programming in 2010: A Personal Perspective.</title>
+<pages>1-3</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_1</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#Pontelli10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/Marti-Oliet10" mdate="2019-10-19">
+<author orcid="0000-0002-6576-762X" pid="34/4176">Narciso Mart&#237;-Oliet</author>
+<title>An Introduction to Maude and Some of Its Applications.</title>
+<pages>4-9</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_2</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#Marti-Oliet10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Non-Monotonic Reasoning - Answer Set Programming</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/padl/LeoneRRT10" mdate="2019-06-02">
+<author orcid="0000-0002-9742-1252" pid="l/NicolaLeone">Nicola Leone</author>
+<author pid="r/FrancescoRicca">Francesco Ricca</author>
+<author pid="09/7730">Luca Agostino Rubino</author>
+<author orcid="0000-0002-3090-7223" pid="t/GiorgioTerracina">Giorgio Terracina</author>
+<title>Efficient Application of Answer Set Programming for Advanced Data Integration.</title>
+<pages>10-24</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_3</ee>
+<ee>https://www.wikidata.org/entity/Q59216080</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#LeoneRRT10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/GomesAS10" mdate="2020-10-25">
+<author orcid="0000-0002-9526-0977" pid="53/7728">Ana Sofia Gomes</author>
+<author orcid="0000-0001-5520-4623" pid="33/4396">Jos&#233; J&#250;lio Alferes</author>
+<author pid="22/6962">Terrance Swift</author>
+<title>Implementing Query Answering for Hybrid MKNF Knowledge Bases.</title>
+<pages>25-39</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_4</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#GomesAS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/GrassoILLRS10" mdate="2017-06-05">
+<author orcid="0000-0002-4350-0115" pid="84/4787-1">Giovanni Grasso 0001</author>
+<author pid="00/126">Salvatore Iiritano</author>
+<author orcid="0000-0002-9742-1252" pid="l/NicolaLeone">Nicola Leone</author>
+<author pid="05/1612">Vincenzino Lio</author>
+<author pid="r/FrancescoRicca">Francesco Ricca</author>
+<author pid="99/7728">Francesco Scalise</author>
+<title>An ASP-Based System for Team-Building in the Gioia-Tauro Seaport.</title>
+<pages>40-42</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_5</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#GrassoILLRS10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Types</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/padl/Iborra10" mdate="2017-05-17">
+<author pid="55/483">Jos&#233; Iborra</author>
+<title>Explicitly Typed Exceptions for Haskell.</title>
+<pages>43-57</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_6</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#Iborra10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/Boespflug10" mdate="2017-05-17">
+<author pid="04/7588">Mathieu Boespflug</author>
+<title>Conversion by Evaluation.</title>
+<pages>58-72</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_7</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#Boespflug10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Parallelism and Distribution</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/padl/DieterleHL10" mdate="2017-05-17">
+<author pid="63/1763">Mischa Dieterle</author>
+<author pid="05/7729">Thomas Horstmeyer</author>
+<author pid="l/RitaLoogen">Rita Loogen</author>
+<title>Skeleton Composition Using Remote Data.</title>
+<pages>73-87</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_8</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#DieterleHL10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/GrumbachW10" mdate="2017-05-17">
+<author pid="g/SGrumbach">St&#233;phane Grumbach</author>
+<author pid="35/5625">Fang Wang</author>
+<title>Netlog, a Rule-Based Language for Distributed Programming.</title>
+<pages>88-103</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_9</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#GrumbachW10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Code Quality Assurance</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/padl/LiT10" mdate="2017-06-05">
+<author pid="06/1167">Huiqing Li</author>
+<author orcid="0000-0002-2350-301X" pid="t/SimonJThompson">Simon J. Thompson</author>
+<title>Similar Code Detection and Elimination for Erlang Programs.</title>
+<pages>104-118</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_10</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#LiT10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/ChristakisS10" mdate="2019-06-02">
+<author pid="05/7730">Maria Christakis</author>
+<author orcid="0000-0001-9657-0179" pid="s/KonstantinosFSagonas">Konstantinos Sagonas</author>
+<title>Static Detection of Race Conditions in Erlang.</title>
+<pages>119-133</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_11</ee>
+<ee>https://www.wikidata.org/entity/Q58967855</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#ChristakisS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/AgarwalBGG10" mdate="2017-05-17">
+<author pid="98/5397">Ashish Agarwal</author>
+<author pid="76/2474">Sooraj Bhat</author>
+<author pid="85/110">Alexander G. Gray</author>
+<author pid="31/5106">Ignacio E. Grossmann</author>
+<title>Automating Mathematical Program Transformations.</title>
+<pages>134-148</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_12</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#AgarwalBGG10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/SridharH10" mdate="2017-05-17">
+<author pid="74/7731">Meera Sridhar</author>
+<author pid="60/1400">Kevin W. Hamlen</author>
+<title>ActionScript In-Lined Reference Monitoring in Prolog.</title>
+<pages>149-151</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_13</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#SridharH10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Domain Specific Languages</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/padl/LiuH10" mdate="2022-05-16">
+<author pid="46/2375-12">Hai Liu 0012</author>
+<author pid="h/PaulHudak">Paul Hudak</author>
+<title>An Ode to Arrows.</title>
+<pages>152-166</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_14</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#LiuH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/HafizF10" mdate="2017-05-17">
+<author pid="05/218">Rahmatullah Hafiz</author>
+<author pid="54/5719">Richard A. Frost</author>
+<title>Lazy Combinators for Executable Specifications of General Attribute Grammars.</title>
+<pages>167-182</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_15</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#HafizF10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/WangG10" mdate="2022-12-02">
+<author pid="59/2227-77">Yan Wang 0077</author>
+<author pid="58/7728">Ver&#243;nica Gaspes</author>
+<title>A Domain-Specific Language Approach to Protocol Stack Implementation.</title>
+<pages>183-185</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_16</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#WangG10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Programming Aids</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/padl/Perera10" mdate="2017-05-17">
+<author pid="27/2651">Roly Perera</author>
+<title>First-Order Interactive Programming.</title>
+<pages>186-200</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_17</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#Perera10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/HanusK10" mdate="2021-10-14">
+<author orcid="0000-0002-4953-8202" pid="h/MichaelHanus">Michael Hanus</author>
+<author pid="36/7729">Sven Koschnicke</author>
+<title>An ER-Based Framework for Declarative Web Programming.</title>
+<pages>201-216</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_18</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#HanusK10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Constraints</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/padl/GentMM10" mdate="2017-06-05">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="25/7125">Neil C. A. Moore</author>
+<title>Lazy Explanations for Constraint Propagators.</title>
+<pages>217-233</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_19</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#GentMM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/Costa10" mdate="2017-06-05">
+<author orcid="0000-0002-3344-8237" pid="71/1213">V&#237;tor Santos Costa</author>
+<title>On the Implementation of the CLP(<i>B</i><i>N</i>\mathcal BN) Language.</title>
+<pages>234-248</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_20</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#Costa10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Tabling - Agents</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/padl/RaimundoR10" mdate="2017-06-05">
+<author pid="15/7187">Jo&#227;o Raimundo</author>
+<author orcid="0000-0003-4502-8835" pid="20/2773-1">Ricardo Rocha 0001</author>
+<title>Compact Lists for Tabled Evaluation.</title>
+<pages>249-263</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_21</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#RaimundoR10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/MarquesSC10" mdate="2017-05-17">
+<author pid="73/2520">Rui Marques</author>
+<author pid="22/6962">Terrance Swift</author>
+<author pid="26/1743">Jos&#233; C. Cunha</author>
+<title>A Simple and Efficient Implementation of Concurrent Local Tabling.</title>
+<pages>264-278</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_22</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#MarquesSC10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/AreiasR10" mdate="2021-03-11">
+<author orcid="0000-0003-1589-3174" pid="62/7440">Miguel Areias 0001</author>
+<author orcid="0000-0003-4502-8835" pid="20/2773-1">Ricardo Rocha 0001</author>
+<title>An Efficient Implementation of Linear Tabling Based on Dynamic Reordering of Alternatives.</title>
+<pages>279-293</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_23</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#AreiasR10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/padl/LopesP10" mdate="2019-06-02">
+<author orcid="0000-0003-0731-4945" pid="64/6853">Gon&#231;alo Lopes</author>
+<author pid="p/LuizMonizPereira">Lu&#237;s Moniz Pereira</author>
+<title>Prospective Storytelling Agents.</title>
+<pages>294-296</pages>
+<year>2010</year>
+<booktitle>PADL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11503-5_24</ee>
+<ee>https://www.wikidata.org/entity/Q62038922</ee>
+<crossref>conf/padl/2010</crossref>
+<url>db/conf/padl/padl2010.html#LopesP10</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

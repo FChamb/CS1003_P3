@@ -1,0 +1,1714 @@
+<bht key="db/conf/aaai/aaai96-1.bht" title="13. AAAI / 8. IAAI 1996: Portland, Oregon">
+<h1>13th <ref href="db/conf/aaai/index.html">AAAI</ref> / 8. IAAI 1996:
+Portland, Oregon</h1>
+
+<dblpcites><r><proceedings key="conf/aaai/1996-1" mdate="2018-06-19">
+<editor pid="98/1978">William J. Clancey</editor>
+<editor pid="w/DanielSWeld">Daniel S. Weld</editor>
+<title>Proceedings of the Thirteenth National Conference on Artificial Intelligence and Eighth Innovative Applications of Artificial Intelligence Conference, AAAI 96, IAAI 96, Portland, Oregon, USA, August 4-8, 1996, Volume 1.</title>
+<isbn>0-262-51091-X</isbn>
+<publisher>AAAI Press / The MIT Press</publisher>
+<year>1996</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/Conferences/AAAI/aaai96.php</ee>
+<url>db/conf/aaai/aaai96-1.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Agents</h2>
+<h3>Interaction</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/KautzSM96" mdate="2012-12-11">
+<author pid="k/HenryAKautz">Henry A. Kautz</author>
+<author pid="s/BartSelman">Bart Selman</author>
+<author pid="31/3781">Al Milewski</author>
+<title>Agent Amplified Communication.</title>
+<pages>3-9</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#KautzSM96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-001.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KrulwichB96" mdate="2012-12-11">
+<author pid="76/7003">Bruce Krulwich</author>
+<author pid="07/3085">Chad Burkey</author>
+<title>The ContactFinder Agent: Answering Bulletin Board Questions with Referrals.</title>
+<pages>10-15</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#KrulwichB96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-002.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/JordanW96" mdate="2012-12-11">
+<author pid="39/1784">Pamela W. Jordan</author>
+<author pid="w/MarilynAWalker">Marilyn A. Walker</author>
+<title>Deciding to Remind During Collaborative Problem Solving: Empirical Evidence for Agent Strategies.</title>
+<pages>16-23</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#JordanW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-003.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SmithC96" mdate="2012-12-11">
+<author pid="63/1256">Ira A. Smith</author>
+<author pid="69/1786">Philip R. Cohen</author>
+<title>Toward a Semantics for an Agent Communications Language Based on Speech-Acts.</title>
+<pages>24-31</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#SmithC96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-004.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Internet Agents</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/KwokW96" mdate="2012-12-11">
+<author pid="50/2455">Chung T. Kwok</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<title>Planning to Gather Information.</title>
+<pages>32-39</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#KwokW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-005.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LevyRO96" mdate="2012-12-11">
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<author pid="r/ARajaraman">Anand Rajaraman</author>
+<author pid="o/JoannJOrdille">Joann J. Ordille</author>
+<title>Query-Answering Algorithms for Information Agents.</title>
+<pages>40-47</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#LevyRO96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-006.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Mock96" mdate="2012-12-11">
+<author pid="m/KJMock">Kenrick J. Mock</author>
+<title>Hybrid Hill-Climbing and Knowledge-Based Methods for Intelligent News Filtering.</title>
+<pages>48-53</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Mock96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-007.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PazzaniMB96" mdate="2012-12-11">
+<author pid="p/MJPazzani">Michael J. Pazzani</author>
+<author pid="32/2484">Jack Muramatsu</author>
+<author pid="97/911">Daniel Billsus</author>
+<title>Syskill &#38; Webert: Identifying Interesting Web Sites.</title>
+<pages>54-61</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#PazzaniMB96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-008.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Multiagent Learning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/CarmelM96" mdate="2012-12-11">
+<author pid="59/5636">David Carmel</author>
+<author pid="m/ShaulMarkovitch">Shaul Markovitch</author>
+<title>Learning Models of Intelligent Agents.</title>
+<pages>62-67</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#CarmelM96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-009.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PrasadLL96" mdate="2012-12-11">
+<author pid="85/5888">M. V. Nagendra Prasad</author>
+<author pid="32/4978">Susan E. Lander</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Cooperative Learning over Composite Search Spaces: Experiences with a Multi-Agent Design System.</title>
+<pages>68-73</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#PrasadLL96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-010.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ProvostH96" mdate="2012-12-11">
+<author pid="p/FosterJProvost">Foster J. Provost</author>
+<author pid="09/1505">Daniel N. Hennessy</author>
+<title>Scaling Up: Distributed Machine Learning with Cooperation.</title>
+<pages>74-79</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ProvostH96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-011.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Tambe96" mdate="2012-12-11">
+<author pid="67/2667">Milind Tambe</author>
+<title>Tracking Dynamic Team Activity.</title>
+<pages>80-87</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Tambe96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-012.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Multiagent Problem Solving</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/CarverLW96" mdate="2012-12-11">
+<author pid="26/795">Norman Carver</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<author pid="44/3474">Robert Whitehair</author>
+<title>Nearly Monotonic Problems: A Key to Effective FA/C Distributed Sensor Interpretation?</title>
+<pages>88-95</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#CarverLW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-013.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MiklerHW96" mdate="2017-11-13">
+<author pid="15/763">Armin R. Mikler</author>
+<author pid="h/VasantHonavar">Vasant G. Honavar</author>
+<author pid="w/JohnnySWong">Johnny S. Wong</author>
+<title>Analysis of Utility-Theoretic Heuristics for Intelligent Adaptive Network Routing.</title>
+<pages>96-101</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#MiklerHW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-014.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RajanS96" mdate="2012-12-11">
+<author pid="03/2752">Vijay Rajan</author>
+<author pid="61/5005">James R. Slagle</author>
+<title>The Use of Artificially Intelligent Agents with Bounded Rationality in the Study of Economic Markets.</title>
+<pages>102-107</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#RajanS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-015.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SmithNT96" mdate="2012-12-11">
+<author pid="23/1645">Stephen J. J. Smith</author>
+<author pid="n/DanaSNau">Dana S. Nau</author>
+<author pid="38/3259">Thomas A. Throop</author>
+<title>Total-Order Multi-Agent Task-Network Planning for Contract Bridge.</title>
+<pages>108-113</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#SmithNT96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-016.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Negotiation &#38; Coalition</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BuiKV96" mdate="2012-12-11">
+<author pid="16/2565">Hung Hai Bui</author>
+<author pid="67/1723">Dorota H. Kieronska</author>
+<author pid="81/1984">Svetha Venkatesh</author>
+<title>Learning other Agents' Preferences in Multiagent Negotiation.</title>
+<pages>114-119</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BuiKV96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-017.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/CarmelM96a" mdate="2012-12-11">
+<author pid="59/5636">David Carmel</author>
+<author pid="m/ShaulMarkovitch">Shaul Markovitch</author>
+<title>Incorporating Opponent Models into Adversary Search.</title>
+<pages>120-125</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#CarmelM96a</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-018.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SandholmL96" mdate="2012-12-11">
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>Advantages of a Leveled Commitment Contracting Protocol.</title>
+<pages>126-133</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#SandholmL96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-019.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ShehoryK96" mdate="2012-12-11">
+<author pid="20/1380">Onn Shehory</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<title>A Kernel-Oriented Model for Coalition-Formation in General Environments: Implementation and Results.</title>
+<pages>134-140</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ShehoryK96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-020.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Artificial Intelligence in Art &#38; Entertainment</h2>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AndreR96" mdate="2012-12-11">
+<author pid="a/EAndre">Elisabeth Andr&#233;</author>
+<author pid="81/229">Thomas Rist</author>
+<title>Coping with Temporal Constraints in Multimedia Presentation Planning.</title>
+<pages>142-147</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#AndreR96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-021.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChristiansonAHSWC96" mdate="2012-12-11">
+<author pid="29/2065">David B. Christianson</author>
+<author pid="61/6493">Sean E. Anderson</author>
+<author pid="h/LiweiHe">Li-wei He</author>
+<author pid="s/DavidSalesin">David Salesin</author>
+<author pid="w/DanielSWeld">Daniel S. Weld</author>
+<author pid="07/1994">Michael F. Cohen</author>
+<title>Declarative Camera Control for Automatic Cinematography.</title>
+<pages>148-155</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ChristiansonAHSWC96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-022.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Haase96" mdate="2012-12-11">
+<author pid="h/KennethBHaase">Kenneth B. Haase</author>
+<title>A Model of Poetic Comprehension.</title>
+<pages>156-161</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Haase96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-023.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SgourosPT96" mdate="2012-12-11">
+<author pid="79/1249">Nikitas M. Sgouros</author>
+<author pid="88/2069">George K. Papakonstantinou</author>
+<author pid="63/5875">Panayotis Tsanakas</author>
+<title>A Framework for Plot Control in Interactive Story Systems.</title>
+<pages>162-167</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#SgourosPT96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-024.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Constraint Satisfaction</h2>
+<h3>Constraint Satisfaction</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BailleuxC96" mdate="2012-12-11">
+<author pid="61/1873">Olivier Bailleux</author>
+<author pid="93/6166">Jean-Jacques Chabrier</author>
+<title>Approximate Resolution of Hard Numbering Problems.</title>
+<pages>169-174</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BailleuxC96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-025.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FargierLS96" mdate="2012-12-11">
+<author pid="19/461">H&#233;l&#232;ne Fargier</author>
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<author pid="87/6848">Thomas Schiex</author>
+<title>Mixed Constraint Satisfaction: A Framework for Decision Problems under Incomplete Knowledge.</title>
+<pages>175-180</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#FargierLS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-026.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/VerfaillieLS96" mdate="2012-12-11">
+<author pid="88/2213">G&#233;rard Verfaillie</author>
+<author pid="44/1406">Michel Lema&#238;tre</author>
+<author pid="87/6848">Thomas Schiex</author>
+<title>Russian Doll Search for Solving Constraint Optimization Problems.</title>
+<pages>181-187</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#VerfaillieLS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-027.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Wallace96" mdate="2012-12-11">
+<author pid="44/4904">Richard J. Wallace</author>
+<title>Enhancements of Branch and Bound Methods for the Maximal Constraint Satisfaction Problem.</title>
+<pages>188-195</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Wallace96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-028.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Data Consistency</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/ChmeissJ96" mdate="2012-12-11">
+<author pid="64/5639">Assef Chmeiss</author>
+<author pid="10/6570">Philippe J&#233;gou</author>
+<title>Path-Consistency: When Space Misses Time.</title>
+<pages>196-201</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ChmeissJ96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-029.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FreuderE96" mdate="2012-12-11">
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<author pid="41/3666">Charles D. Elfe</author>
+<title>Neighborhood Inverse Consistency Preprocessing.</title>
+<pages>202-208</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#FreuderE96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-030.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Regin96" mdate="2012-12-11">
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<title>Generalized Arc Consistency for Global Cardinality Constraint.</title>
+<pages>209-215</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Regin96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-031.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SchiexRGV96" mdate="2012-12-11">
+<author pid="87/6848">Thomas Schiex</author>
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<author pid="75/3515">Christine Gaspin</author>
+<author pid="88/2213">G&#233;rard Verfaillie</author>
+<title>Lazy Arc Consistency.</title>
+<pages>216-221</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#SchiexRGV96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-032.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Game-Tree Search</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BhattacharyaB96" mdate="2012-12-11">
+<author pid="79/980">Subir Bhattacharya</author>
+<author pid="01/2087">Amitava Bagchi</author>
+<title>Searching Game Trees Under Memory Constraints.</title>
+<pages>222-227</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BhattacharyaB96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-033.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Ginsberg96" mdate="2012-12-11">
+<author pid="g/MatthewLGinsberg">Matthew L. Ginsberg</author>
+<title>Partition Search.</title>
+<pages>228-233</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Ginsberg96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-034.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PlaatSPB96" mdate="2012-12-11">
+<author pid="53/5607">Aske Plaat</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<author pid="45/2438">Wim Pijls</author>
+<author pid="24/5347">Arie de Bruin</author>
+<title>Exploiting Graph Properties of Game Trees.</title>
+<pages>234-239</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#PlaatSPB96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-035.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Zhang96" mdate="2012-12-11">
+<author pid="51/2284">Weixiong Zhang</author>
+<title>Forward Estimation for Game-Tree Search.</title>
+<pages>240-245</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Zhang96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-036.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Phase Transition</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/GentMPW96" mdate="2012-12-11">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Constrainedness of Search.</title>
+<pages>246-252</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#GentMPW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-037.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PennockS96" mdate="2012-12-11">
+<author pid="p/DavidMPennock">David M. Pennock</author>
+<author pid="s/QuentinFStout">Quentin F. Stout</author>
+<title>Exploiting a Theory of Phase Transitions in Three-Satisfiability Problems.</title>
+<pages>253-258</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#PennockS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-038.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Sandholm96" mdate="2012-12-11">
+<author pid="s/TuomasSandholm">Tuomas Sandholm</author>
+<title>A Second Order Parameter for 3SAT.</title>
+<pages>259-265</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Sandholm96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-039.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Vlasie96" mdate="2012-12-11">
+<author pid="58/3997">Dan R. Vlasie</author>
+<title>The Very Particular Structure of the Very Hard Instances.</title>
+<pages>266-270</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Vlasie96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-040.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Search Control</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Bresina96" mdate="2012-12-11">
+<author pid="84/4326">John L. Bresina</author>
+<title>Heuristic-Biased Stochastic Sampling.</title>
+<pages>271-278</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Bresina96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-041.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KoenigS96" mdate="2012-12-11">
+<author pid="k/SvenKoenig">Sven Koenig</author>
+<author pid="s/ReidGSimmons">Reid G. Simmons</author>
+<title>Easy and Hard Testbeds for Real-Time Search Algorithms.</title>
+<pages>279-285</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#KoenigS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-042.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Korf96" mdate="2012-12-11">
+<author pid="18/2128">Richard E. Korf</author>
+<title>Improved Limited Discrepancy Search.</title>
+<pages>286-291</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Korf96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-043.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SmirnovKVS96" mdate="2012-12-11">
+<author pid="48/5723">Yury V. Smirnov</author>
+<author pid="k/SvenKoenig">Sven Koenig</author>
+<author pid="v/ManuelaMVeloso">Manuela M. Veloso</author>
+<author pid="s/ReidGSimmons">Reid G. Simmons</author>
+<title>Efficient Goal-Directed Exploration.</title>
+<pages>292-297</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#SmirnovKVS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-044.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Search &#38; Learning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BayardoM96" mdate="2012-12-11">
+<author pid="b/RobertoJBayardo">Roberto J. Bayardo Jr.</author>
+<author pid="m/DPMiranker">Daniel P. Miranker</author>
+<title>A Complexity Analysis of Space-Bounded Learning Algorithms for the Constraint Satisfaction Problem.</title>
+<pages>298-304</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BayardoM96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-045.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/IshidaS96" mdate="2018-09-20">
+<author pid="71/5163">Toru Ishida 0001</author>
+<author pid="92/5032">Masashi Shimbo</author>
+<title>Improving the Learning Efficiencies of Realtime Search.</title>
+<pages>305-310</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#IshidaS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-046.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KainzK96" mdate="2012-12-11">
+<author pid="93/2161">Gerhard Kainz</author>
+<author pid="k/HermannKaindl">Hermann Kaindl</author>
+<title>Dynamic Improvements of Heuristic Evaluations during Search.</title>
+<pages>311-317</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#KainzK96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-047.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/SqalliF96" mdate="2012-12-11">
+<author pid="82/755">Mohammed H. Sqalli</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Inference-Based Constraint Satisfaction Supports Explanation.</title>
+<pages>318-325</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#SqalliF96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-048.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Stochastic Search</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BowenD96" mdate="2012-12-11">
+<author pid="63/3554">James Bowen</author>
+<author pid="88/3850">Gerry V. Dozier</author>
+<title>Constraint Satisfaction Using A Hybrid Evolutionary Hill-Climbing Algorithm That Performs Opportunistic Arc and Path Revision.</title>
+<pages>326-331</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BowenD96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-049.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ChaI96" mdate="2012-12-11">
+<author pid="57/1166">Byungki Cha</author>
+<author pid="65/4683">Kazuo Iwama</author>
+<title>Adding New Clauses for Faster Local Search.</title>
+<pages>332-337</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ChaI96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-050.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Frank96" mdate="2012-12-11">
+<author pid="32/67">Jeremy Frank</author>
+<title>Weighting for Godot: Learning Heuristics for GSAT.</title>
+<pages>338-343</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Frank96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-051.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Haynes96" mdate="2012-12-11">
+<author pid="08/6573">Thomas Haynes</author>
+<title>Duplication of Coding Segments in Genetic Programming.</title>
+<pages>344-349</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Haynes96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-052.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KaskD96" mdate="2012-12-11">
+<author pid="04/6122">Kalev Kask</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>A Graph-Based Method for Improving GSAT.</title>
+<pages>350-355</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#KaskD96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-053.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ParkesW96" mdate="2012-12-11">
+<author pid="54/5382">Andrew J. Parkes</author>
+<author pid="19/865">Joachim P. Walser</author>
+<title>Tuning Local Search for Satisfiability Testing.</title>
+<pages>356-362</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ParkesW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-054.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Schaerf96" mdate="2012-12-11">
+<author pid="73/2861">Andrea Schaerf</author>
+<title>Tabu Search Techniques for Large High-School Timetabling Problems.</title>
+<pages>363-368</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Schaerf96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-055.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhangZ96" mdate="2023-01-17">
+<author pid="07/314-1">Jian Zhang 0001</author>
+<author pid="27/2116-1">Hantao Zhang 0001</author>
+<title>Combining Local Search and Backtracking Techniques for Constraint Satisfaction.</title>
+<pages>369-374</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ZhangZ96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-056.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Temporal Reasoning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Bessiere96" mdate="2012-12-11">
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<title>A Simple Way to Improve Path Consistency Processing in Interval Algebra Networks.</title>
+<pages>375-380</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Bessiere96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-057.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DelgrandeG96" mdate="2012-12-11">
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<author pid="g/ArvindGupta">Arvind Gupta</author>
+<title>A Representation for Efficient Temporal Reasoning.</title>
+<pages>381-388</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#DelgrandeG96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-058.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DrakengrenJ96" mdate="2012-12-11">
+<author pid="63/2717">Thomas Drakengren</author>
+<author pid="j/PeterJonsson">Peter Jonsson</author>
+<title>Maximal Tractable Subclasses of Allen's Interval Algebra: Preliminary Report.</title>
+<pages>389-394</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#DrakengrenJ96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-059.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Ligozat96" mdate="2012-12-11">
+<author pid="l/GerardLigozat">Gerard Ligozat</author>
+<title>A New Proof of Tractability for ORD-Horn Relations.</title>
+<pages>395-401</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Ligozat96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-060.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Education</h2>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BaffesM96" mdate="2012-12-11">
+<author pid="98/3954">Paul T. Baffes</author>
+<author pid="m/RaymondJMooney">Raymond J. Mooney</author>
+<title>A Novel Application of Theory Refinement to Student Modeling.</title>
+<pages>403-408</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BaffesM96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-061.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EliotW96" mdate="2012-12-11">
+<author pid="53/2676">Christopher Rhodes Eliot III</author>
+<author pid="w/BeverlyParkWoolf">Beverly Park Woolf</author>
+<title>A Simulation-Based Tutor that Reasons about Multiple Agents.</title>
+<pages>409-415</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#EliotW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-062.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LesterP96" mdate="2012-12-11">
+<author pid="88/4922">James C. Lester</author>
+<author pid="74/1077">Bruce W. Porter</author>
+<title>Scaling Up Explanation Generation: Large-Scale Knowledge Bases and Empirical Studies.</title>
+<pages>416-423</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#LesterP96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-063.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/StoneL96" mdate="2012-12-11">
+<author pid="10/6776">Brian A. Stone</author>
+<author pid="88/4922">James C. Lester</author>
+<title>Dynamically Sequencing an Animated Pedagogical Agent.</title>
+<pages>424-431</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#StoneL96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-064.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Information Retrieval &#38; Natural Language Processing</h2>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BloedornMM96" mdate="2012-12-11">
+<author pid="06/5614">Eric Bloedorn</author>
+<author pid="78/1330">Inderjeet Mani</author>
+<author pid="45/439">T. Richard MacMillan</author>
+<title>Machine Learning of User Profiles: Representational Issues.</title>
+<pages>433-438</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BloedornMM96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-065.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/DomeshekKG96" mdate="2012-12-11">
+<author pid="50/5958">Eric A. Domeshek</author>
+<author pid="67/6696">Smadar Kedar</author>
+<author pid="15/4354">Andrew S. Gordon</author>
+<title>Interactive Information Retrieval Systems with Minimalist Representation.</title>
+<pages>439-446</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#DomeshekKG96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-066.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Knight96" mdate="2012-12-11">
+<author pid="77/1610">Kevin Knight</author>
+<title>Learning Word Meanings by Instruction.</title>
+<pages>447-454</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Knight96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-067.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/PedersenKB96" mdate="2012-12-11">
+<author pid="71/790">Ted Pedersen</author>
+<author pid="11/3291">Mehmet Kayaalp</author>
+<author pid="22/3872">Rebecca F. Bruce</author>
+<title>Significant Lexical Relationships.</title>
+<pages>455-460</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#PedersenKB96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-068.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge-Based Systems</h2>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BurkeHY96" mdate="2012-12-11">
+<author pid="58/2337">Robin D. Burke</author>
+<author pid="30/1642">Kristian J. Hammond</author>
+<author pid="55/4353">Benjamin C. Young</author>
+<title>Knowledge-Based Navigation of Complex Information Spaces.</title>
+<pages>462-468</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BurkeHY96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-069.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GilM96" mdate="2012-12-11">
+<author pid="88/2686">Yolanda Gil</author>
+<author pid="57/2661">Eric Melz</author>
+<title>Explicit Representations of Problem-Solving Strategies to Support Knowledge Acquisition.</title>
+<pages>469-476</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#GilM96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-070.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KingstonST96" mdate="2012-12-11">
+<author pid="k/JohnKingston">John Kingston</author>
+<author pid="s/NigelShadbolt">Nigel Shadbolt</author>
+<author pid="80/6004">Austin Tate</author>
+<title>CommonKADS Models for Knowledge-Based Planning.</title>
+<pages>477-482</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#KingstonST96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-071.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MittalM96" mdate="2012-12-11">
+<author pid="21/5117">Vibhu O. Mittal</author>
+<author pid="m/JohannaDMoore">Johanna D. Moore</author>
+<title>Detecting Knowledge Base Inconsistencies Using Automated Generation of Text and Examples.</title>
+<pages>483-488</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#MittalM96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-072.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge Compilation</h2>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/CrawfordDLMP96" mdate="2012-12-11">
+<author pid="97/6981">James M. Crawford</author>
+<author pid="00/2030">Daniel Dvorak</author>
+<author pid="l/DianeJLitman">Diane J. Litman</author>
+<author pid="38/2667">Anil Mishra</author>
+<author pid="78/850">Peter F. Patel-Schneider</author>
+<title>Path-Based Rules in Object-Oriented Programming.</title>
+<pages>490-497</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#CrawfordDLMP96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-073.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Val96" mdate="2012-12-11">
+<author pid="v/AlvarodelVal">Alvaro del Val</author>
+<title>Approximate Knowledge Compilation: The First Order Case.</title>
+<pages>498-503</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Val96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-074.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MarquisS96" mdate="2012-12-11">
+<author pid="37/6177">Pierre Marquis</author>
+<author pid="01/3768">Samira Sadaoui</author>
+<title>A New Algorithm for Computing Theory Prime Implicates Compilations.</title>
+<pages>504-509</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#MarquisS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-075.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Schrag96" mdate="2012-12-11">
+<author pid="89/295">Robert Schrag</author>
+<title>Compilation for Critically Constrained Knowledge Bases.</title>
+<pages>510-515</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Schrag96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-076.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge Representation</h2>
+<h3>Abstraction</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Bailey-KelloggZY96" mdate="2019-04-24">
+<author pid="b/ChrisBaileyKellogg">Christopher Bailey-Kellogg</author>
+<author pid="z/FengZhao">Feng Zhao 0001</author>
+<author pid="08/3744">Kenneth Yip</author>
+<title>Spatial Aggregation: Language and Applications.</title>
+<pages>517-522</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Bailey-KelloggZY96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-077.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/BundyGSW96" mdate="2012-12-11">
+<author pid="b/AlanBundy">Alan Bundy</author>
+<author pid="g/FaustoGiunchiglia">Fausto Giunchiglia</author>
+<author pid="73/5341">Roberto Sebastiani</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Computing Abstraction Hierarchies by Numerical Simulation.</title>
+<pages>523-529</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BundyGSW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-078.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HoltePZM96" mdate="2012-12-11">
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<author pid="30/4241">M. B. Perez</author>
+<author pid="78/6156">Robert M. Zimmer</author>
+<author pid="20/2862">Alan J. MacDonald</author>
+<title>Hierarchical A*: Searching Abstraction Hierarchies Efficiently.</title>
+<pages>530-535</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#HoltePZM96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-079.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/TsunetoEHN96" mdate="2012-12-11">
+<author pid="43/1353">Reiko Tsuneto</author>
+<author pid="36/4924">Kutluhan Erol</author>
+<author pid="h/JamesAHendler">James A. Hendler</author>
+<author pid="n/DanaSNau">Dana S. Nau</author>
+<title>Commitment Strategies in Hierarchical Task Network Planning.</title>
+<pages>536-542</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#TsunetoEHN96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-080.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Description Logics &#38; Probabilistic Reasoning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/IsozakiK96" mdate="2012-12-11">
+<author pid="30/1101">Hideki Isozaki</author>
+<author pid="63/2552">Hirofumi Katsuno</author>
+<title>A Semantic Characterization of an Algorithm for Estimating Others' Beliefs from Observation.</title>
+<pages>543-549</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#IsozakiK96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-081.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiP96" mdate="2012-12-11">
+<author pid="99/5001">Renwei Li</author>
+<author pid="p/LuizMonizPereira">Lu&#237;s Moniz Pereira</author>
+<title>What Is Believed Is What Is Explained (Sometimes).</title>
+<pages>550-555</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#LiP96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-082.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiberatoreS96" mdate="2012-12-11">
+<author pid="l/PLiberatore">Paolo Liberatore</author>
+<author pid="00/2963">Marco Schaerf</author>
+<title>The Complexity of Model Checking for Belief Revision and Update.</title>
+<pages>556-561</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#LiberatoreS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-083.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZhangF96" mdate="2016-05-11">
+<author pid="04/3348-3">Yan Zhang 0003</author>
+<author pid="f/NormanYFoo">Norman Y. Foo</author>
+<title>Updating Knowledge Bases with Disjunctive Information.</title>
+<pages>562-568</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ZhangF96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-084.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Description Logics &#38; Probabilistic Reasoning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/KollerH96" mdate="2012-12-11">
+<author pid="k/DaphneKoller">Daphne Koller</author>
+<author pid="h/JosephYHalpern">Joseph Y. Halpern</author>
+<title>Irrelevance and Conditioning in First-Order Probabilistic Logic.</title>
+<pages>569-576</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#KollerH96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-085.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LevyR96" mdate="2012-12-11">
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>The Limits on Combining Recursive Horn Rules with Description Logics.</title>
+<pages>577-584</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#LevyR96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-086.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LevyR96a" mdate="2012-12-11">
+<author pid="h/AlonYHalevy">Alon Y. Levy</author>
+<author pid="r/MCRousset">Marie-Christine Rousset</author>
+<title>Verification of Knowledge Bases Based on Containment Checking.</title>
+<pages>585-591</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#LevyR96a</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-087.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Weida96" mdate="2012-12-11">
+<author pid="37/440">Robert A. Weida</author>
+<title>Closed Terminologies in Description Logics.</title>
+<pages>592-599</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Weida96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-088.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Knowledge Bases &#38; Context</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Buvac96" mdate="2012-12-11">
+<author pid="b/SasaBuvac">Sasa Buvac</author>
+<title>Quantificational Logic of Context.</title>
+<pages>600-606</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Buvac96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-089.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Darwiche96" mdate="2012-12-11">
+<author pid="p/ADarwiche">Adnan Darwiche</author>
+<title>Utilizing Knowledge-Base Semantics in Graph-Based Algorithms.</title>
+<pages>607-613</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Darwiche96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-090.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/EverettF96" mdate="2012-12-11">
+<author pid="00/4765">John O. Everett</author>
+<author pid="f/KDForbus">Kenneth D. Forbus</author>
+<title>Scaling up Logic-Based Truth Maintenance Systems via Fact Garbage Collection.</title>
+<pages>614-620</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#EverettF96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-091.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Massacci96" mdate="2012-12-11">
+<author pid="59/6145">Fabio Massacci</author>
+<title>Contextual Reasoning Is NP-Complete.</title>
+<pages>621-626</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Massacci96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-092.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Nonmonotonic Reasoning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/EtheringtonC96" mdate="2012-12-11">
+<author pid="14/3914">David W. Etherington</author>
+<author pid="97/6981">James M. Crawford</author>
+<title>Toward Efficient Default Reasoning.</title>
+<pages>627-632</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#EtheringtonC96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-093.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Fusaoka96" mdate="2012-12-11">
+<author pid="11/3504">Akira Fusaoka</author>
+<title>Situation Calculus on a Dense Flow of Time.</title>
+<pages>633-638</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Fusaoka96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-094.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HerrmannT96" mdate="2012-12-11">
+<author pid="97/1123">Christoph S. Herrmann</author>
+<author pid="t/MichaelThielscher">Michael Thielscher</author>
+<title>Reasoning about Continuous Processes.</title>
+<pages>639-644</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#HerrmannT96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-095.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Turner96" mdate="2012-12-11">
+<author pid="39/2519">Hudson Turner</author>
+<title>Splitting a Default Theory.</title>
+<pages>645-651</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Turner96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-096.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Reasoning about Action</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BaralGP96" mdate="2012-12-11">
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<author pid="80/1466">Alfredo Gabaldon</author>
+<author pid="74/5741">Alessandro Provetti</author>
+<title>Formalizing Narratives Using Nested Circumscription.</title>
+<pages>652-657</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BaralGP96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-097.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/GiacomoC96" mdate="2012-12-11">
+<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+<author pid="35/6130">Xiao Jun Chen</author>
+<title>Reasoning about Nondeterministic and Concurrent Actions: A Process Algebra Approach.</title>
+<pages>658-663</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#GiacomoC96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-098.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Kartha96" mdate="2012-12-11">
+<author pid="33/1658">G. Neelakantan Kartha</author>
+<title>On the Range of Applicability of Baker's Approach to the Frame Problem.</title>
+<pages>664-669</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Kartha96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-099.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Lin96" mdate="2012-12-11">
+<author pid="73/6980">Fangzhen Lin</author>
+<title>Embracing Causality in Specifying the Indeterminate Effects of Actions.</title>
+<pages>670-676</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Lin96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-100.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Learning</h2>
+<h3>Case-Based Reasoning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AltermanG96" mdate="2012-12-11">
+<author pid="58/1234">Richard Alterman</author>
+<author pid="49/749">Daniel Griffin</author>
+<title>Improving Case Retrieval by Remembering Questions.</title>
+<pages>678-683</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#AltermanG96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-101.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LeakeKW96" mdate="2012-12-11">
+<author pid="61/6475">David B. Leake</author>
+<author pid="38/45">Andrew Kinley</author>
+<author pid="w/DavidCWilson">David C. Wilson</author>
+<title>Acquiring Case Adaptation Knowledge: A Hybrid Approach.</title>
+<pages>684-689</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#LeakeKW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-102.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ShimazuT96" mdate="2012-12-11">
+<author pid="61/6387">Hideo Shimazu</author>
+<author pid="42/6218">Yosuke Takashima</author>
+<title>Detecting Discontinuities in Case-Bases.</title>
+<pages>690-695</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ShimazuT96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-103.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/StubblefieldL96" mdate="2012-12-11">
+<author pid="46/2373">William A. Stubblefield</author>
+<author pid="27/6313">George F. Luger</author>
+<title>Source Selection for Analogical Reasoning: An Empirical Approach.</title>
+<pages>696-702</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#StubblefieldL96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-104.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Decision Trees</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/AlmuallimAK96" mdate="2012-12-11">
+<author pid="69/3042">Hussein Almuallim</author>
+<author pid="16/415">Yasuhiro Akiba</author>
+<author pid="72/2250">Shigeo Kaneda</author>
+<title>An Efficient Algorithm for Finding Optimal Gain-Ratio Multiple-Split Tests on Hierarchical Attributes in Decision Tree Learning.</title>
+<pages>703-708</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#AlmuallimAK96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-105.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Cohen96" mdate="2012-12-11">
+<author pid="c/WWCohen">William W. Cohen</author>
+<title>Learning Trees and Rules with Set-Valued Features.</title>
+<pages>709-716</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Cohen96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-106.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/FriedmanKY96" mdate="2012-12-11">
+<author pid="92/5390">Jerome H. Friedman</author>
+<author pid="k/RonKohavi">Ron Kohavi</author>
+<author pid="91/159">Yeogirl Yun</author>
+<title>Lazy Decision Trees.</title>
+<pages>717-724</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#FriedmanKY96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-107.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Quinlan96" mdate="2012-12-11">
+<author pid="q/JRQuinlan">J. Ross Quinlan</author>
+<title>Bagging, Boosting, and C4.5.</title>
+<pages>725-730</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Quinlan96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-108.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Discovery</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/CorrubleG96" mdate="2012-12-11">
+<author pid="15/6998">Vincent Corruble</author>
+<author pid="g/JGGanascia">Jean-Gabriel Ganascia</author>
+<title>The Discovery of the Causes of Leprosy: A Computational Analysis.</title>
+<pages>731-736</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#CorrubleG96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-109.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/MurataS96" mdate="2012-12-11">
+<author pid="77/1703">Tsuyoshi Murata</author>
+<author pid="87/4103">Masamichi Shimura</author>
+<title>Machine Discovery Based on Numerical Data Generated in Computer Experiments.</title>
+<pages>737-742</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#MurataS96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-110.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/YenLL96" mdate="2012-12-11">
+<author pid="66/3108">John Yen</author>
+<author pid="51/2381">Bogju Lee</author>
+<author pid="43/6377">James C. Liao</author>
+<title>Using a Hybrid Genetic Algorithm and Fuzzy Logic for Metabolic Modeling.</title>
+<pages>743-749</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#YenLL96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-111.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/ZytkowF96" mdate="2012-12-11">
+<author pid="63/6215">Jan M. Zytkow</author>
+<author pid="88/3904">Paul J. Fischer</author>
+<title>Incremental Discovery of Hidden Structure: Applications in Theory of Elementary Particles.</title>
+<pages>750-756</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#ZytkowF96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-112.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Enhancing Efficiency</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Kambhampati96" mdate="2012-12-11">
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<title>Formalizing Dependency Directed Backtracking and Explanation Based Learning in Refinement Search.</title>
+<pages>757-762</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Kambhampati96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-113.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/KimR96" mdate="2012-12-11">
+<author pid="08/427">Jihie Kim</author>
+<author pid="75/195">Paul S. Rosenbloom</author>
+<title>Learning Efficient Rules by Maintaining the Explanation Structure.</title>
+<pages>763-770</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#KimR96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-114.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/WrayLJ96" mdate="2012-12-11">
+<author pid="57/1766">Robert E. Wray III</author>
+<author pid="l/JohnELaird">John E. Laird</author>
+<author pid="49/4203">Randolph M. Jones</author>
+<title>Compilation of Non-Contemporaneous Constraints.</title>
+<pages>771-778</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#WrayLJ96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-115.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Fundamental Issues</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Gratch96" mdate="2012-12-11">
+<author pid="71/3911">Jonathan Gratch</author>
+<title>Sequential Inductive Learning.</title>
+<pages>779-786</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Gratch96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-116.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Khardon96" mdate="2012-12-11">
+<author pid="62/1789">Roni Khardon</author>
+<title>Learning to Take Actions.</title>
+<pages>787-792</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Khardon96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-117.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LindsayW96" mdate="2012-12-11">
+<author pid="18/2358">Robert K. Lindsay</author>
+<author pid="46/3688">Annie S. Wu</author>
+<title>Testing the Robustness of the Genetic Algorithm on the Floating Building Block Representation.</title>
+<pages>793-798</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#LindsayW96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-118.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Inductive Learning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/BrodleyF96" mdate="2012-12-11">
+<author pid="24/1941">Carla E. Brodley</author>
+<author pid="78/3336">Mark A. Friedl</author>
+<title>Identifying and Eliminating Mislabeled Training Instances.</title>
+<pages>799-805</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#BrodleyF96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-119.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/HuK96" mdate="2012-12-11">
+<author pid="37/3353">Yuh-Jyh Hu</author>
+<author pid="k/DennisFKibler">Dennis F. Kibler</author>
+<title>Generation of Attributes for Learning Algorithms.</title>
+<pages>806-811</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#HuK96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-120.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Kramer96" mdate="2015-01-02">
+<author pid="k/StefanKramer1">Stefan Kramer 0001</author>
+<title>Structural Regression Trees.</title>
+<pages>812-819</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Kramer96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-121.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Knowledge Bases</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/HsuK96" mdate="2012-12-11">
+<author pid="h/ChunNanHsu">Chun-Nan Hsu</author>
+<author pid="k/CAKnoblock">Craig A. Knoblock</author>
+<title>Discovering Robust Knowledge from Dynamic Closed World Data.</title>
+<pages>820-827</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#HsuK96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-122.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/LiuH96" mdate="2012-12-11">
+<author pid="l/BingLiu1">Bing Liu 0001</author>
+<author pid="h/WynneHsu">Wynne Hsu</author>
+<title>Post-Analysis of Learned Rules.</title>
+<pages>828-834</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#LiuH96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-123.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Murray96" mdate="2012-12-11">
+<author pid="52/4396">Kenneth S. Murray</author>
+<title>KI: A Tool for Knowledge Integration.</title>
+<pages>835-842</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Murray96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-124.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Planning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/EstlinM96" mdate="2012-12-11">
+<author pid="07/479">Tara A. Estlin</author>
+<author pid="m/RaymondJMooney">Raymond J. Mooney</author>
+<title>Multi-Strategy Learning of Search Control for Partial-Order Planning.</title>
+<pages>843-848</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#EstlinM96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-125.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/IhrigK96" mdate="2012-12-11">
+<author pid="34/3624">Laurie H. Ihrig</author>
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<title>Design and Implementation of a Replay Framework Based on a Partial Order Planner.</title>
+<pages>849-854</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#IhrigK96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-126.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Minton96" mdate="2012-12-11">
+<author pid="m/SMinton">Steven Minton</author>
+<title>Is There Any Need for Domain-Dependent Control Information?: A Reply.</title>
+<pages>855-862</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Minton96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-127.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/OatesC96" mdate="2022-10-16">
+<author pid="34/3824">Tim Oates 0001</author>
+<author pid="59/840">Paul R. Cohen</author>
+<title>Searching for Planning Operators with Context-Dependent and Probabilistic Effects.</title>
+<pages>863-868</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#OatesC96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-128.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Reinforcement Learning</h3>
+<dblpcites><r style="ee"><inproceedings key="conf/aaai/Engelson96" mdate="2012-12-11">
+<author pid="a/ShlomoArgamon">Sean P. Engelson</author>
+<title>Learning Robust Plans for Mobile Robots from a Single Trial.</title>
+<pages>869-874</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Engelson96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-129.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/Mahadevan96" mdate="2012-12-11">
+<author pid="97/3847">Sridhar Mahadevan</author>
+<title>An Average-Reward Reinforcement Learning Algorithm for Computing Bias-Optimal Policies.</title>
+<pages>875-880</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#Mahadevan96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-130.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/OkT96" mdate="2021-10-14">
+<author pid="11/1732">DoKyeong Ok</author>
+<author orcid="0000-0003-2736-3912" pid="42/4375">Prasad Tadepalli</author>
+<title>Auto-Exploratory Average Reward Reinforcement Learning.</title>
+<pages>881-887</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#OkT96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-131.php</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/aaai/RoscaB96" mdate="2012-12-11">
+<author pid="83/5356">Justinian P. Rosca</author>
+<author pid="68/6429">Dana H. Ballard</author>
+<title>Evolution-Based Discovery of Hierarchical Behaviors.</title>
+<pages>888-894</pages>
+<year>1996</year>
+<crossref>conf/aaai/1996-1</crossref>
+<booktitle>AAAI/IAAI, Vol. 1</booktitle>
+<url>db/conf/aaai/aaai96-1.html#RoscaB96</url>
+<ee>http://www.aaai.org/Library/AAAI/1996/aaai96-132.php</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

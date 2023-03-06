@@ -1,0 +1,680 @@
+<bht key="db/journals/tplp/tplp18.bht" title="Theory and Practice of Logic Programming, Volume 18"> 
+<h1><ref href="db/journals/tplp/index.html">Theory and Practice of Logic Programming</ref>, Volume 18</h1> 
+<h2>Volume 18, Number 1, January 2018</h2> Regular Papers <dblpcites><r style="ee"><article key="journals/tplp/Drabent18" mdate="2021-04-09">
+<author orcid="0000-0002-4700-7272" pid="d/WDrabent">Wlodzimierz Drabent</author>
+<title>Logic + control: On program construction and verification.</title>
+<pages>1-29</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1017/S1471068417000047</ee>
+<url>db/journals/tplp/tplp18.html#Drabent18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/OetschPT18" mdate="2022-12-07">
+<author orcid="0000-0002-9902-7662" pid="21/4494">Johannes Oetsch</author>
+<author orcid="0000-0003-1644-483X" pid="28/4299">J&#246;rg P&#252;hrer</author>
+<author pid="t/HansTompits">Hans Tompits</author>
+<title>Stepwise debugging of answer-set programs.</title>
+<pages>30-80</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1017/S1471068417000217</ee>
+<url>db/journals/tplp/tplp18.html#OetschPT18</url>
+</article>
+</r>
+</dblpcites>
+
+Technical Note <dblpcites><r style="ee"><article key="journals/tplp/AmadiniGM18" mdate="2022-04-09">
+<author pid="123/4603">Roberto Amadini</author>
+<author orcid="0000-0003-0609-8662" pid="g/MGabbrielli">Maurizio Gabbrielli</author>
+<author orcid="0000-0002-5285-2868" pid="53/1605">Jacopo Mauro</author>
+<title>SUNNY-CP and the MiniZinc challenge.</title>
+<pages>81-96</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1017/S1471068417000205</ee>
+<url>db/journals/tplp/tplp18.html#AmadiniGM18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/BendkowskiGT18" mdate="2020-02-13">
+<author pid="161/2225">Maciej Bendkowski</author>
+<author pid="37/6912">Katarzyna Grygiel</author>
+<author pid="t/PaulTarau">Paul Tarau</author>
+<title>Random generation of closed simply typed &#955;-terms: A synergy between logic programming and Boltzmann samplers.</title>
+<pages>97-119</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1017/S147106841700045X</ee>
+<url>db/journals/tplp/tplp18.html#BendkowskiGT18</url>
+</article>
+</r>
+</dblpcites>
+
+Erratum <dblpcites><r style="ee"><article key="journals/tplp/WielemakerH18" mdate="2020-02-13">
+<author pid="11/4190">Jan Wielemaker</author>
+<author pid="185/1126">Keri Harris</author>
+<title>Lock-free atom garbage collection for multithreaded Prolog - ERRATUM.</title>
+<pages>120</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1017/S1471068417000059</ee>
+<url>db/journals/tplp/tplp18.html#WielemakerH18</url>
+</article>
+</r>
+</dblpcites>
+
+Addendum <dblpcites><r style="ee"><article key="journals/tplp/LammaS18" mdate="2020-02-13">
+<author pid="l/EvelinaLamma">Evelina Lamma</author>
+<author pid="22/6962">Terrance Swift</author>
+<title>Editorial: 29th International conference on logic programming special issue - ADDENDUM.</title>
+<pages>121</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1017/S1471068417000229</ee>
+<url>db/journals/tplp/tplp18.html#LammaS18</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 18, Number 2, March 2018</h2> Introduction <dblpcites><r style="ee"><article key="journals/tplp/Vidal18" mdate="2020-02-13">
+<author orcid="0000-0002-1857-6951" pid="v/GermanVidal">Germ&#225;n Vidal</author>
+<title>Introduction to the special issue on computational logic for verification.</title>
+<pages>122-125</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1017/S1471068418000029</ee>
+<url>db/journals/tplp/tplp18.html#Vidal18</url>
+</article>
+</r>
+</dblpcites>
+
+Original Article <dblpcites><r style="ee"><article key="journals/tplp/AngelisFPP18" mdate="2020-02-13">
+<author orcid="0000-0002-7319-8439" pid="115/6852">Emanuele De Angelis</author>
+<author pid="32/2616">Fabio Fioravanti</author>
+<author orcid="0000-0001-7858-4032" pid="19/2451">Alberto Pettorossi</author>
+<author orcid="0000-0003-3835-4931" pid="78/4537">Maurizio Proietti</author>
+<title>Predicate Pairing for program verification.</title>
+<pages>126-166</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1017/S1471068417000497</ee>
+<url>db/journals/tplp/tplp18.html#AngelisFPP18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/Lopez-GarciaDKL18" mdate="2020-02-13">
+<author orcid="0000-0002-1092-2071" pid="12/1085-1">Pedro L&#243;pez-Garc&#237;a 0001</author>
+<author pid="64/8292">Luthfi Darmawan</author>
+<author pid="157/8419">Maximiliano Klemen</author>
+<author orcid="0000-0001-9104-8410" pid="157/8366">Umer Liqat</author>
+<author pid="15/963">Francisco Bueno</author>
+<author pid="h/ManuelVHermenegildo">Manuel V. Hermenegildo</author>
+<title>Interval-based resource usage verification by translation into Horn clauses and an application to energy consumption.</title>
+<pages>167-223</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1017/S1471068418000042</ee>
+<url>db/journals/tplp/tplp18.html#Lopez-GarciaDKL18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/KafleGG18" mdate="2020-02-13">
+<author pid="146/0527">Bishoksan Kafle</author>
+<author orcid="0000-0001-6984-7419" pid="g/JPGallagher">John P. Gallagher</author>
+<author pid="16/5983">Pierre Ganty</author>
+<title>Tree dimension in verification of constrained Horn clauses.</title>
+<pages>224-251</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1017/S1471068418000030</ee>
+<url>db/journals/tplp/tplp18.html#KafleGG18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/OlartePR18" mdate="2021-04-09">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author orcid="0000-0001-8387-9644" pid="42/6972">Camilo Rueda</author>
+<title>A concurrent constraint programming interpretation of access permissions.</title>
+<pages>252-295</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1017/S1471068418000017</ee>
+<url>db/journals/tplp/tplp18.html#OlartePR18</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 18, Numbers 3-4, July 2018</h2> Introduction <dblpcites><r style="ee"><article key="journals/tplp/PaluT18" mdate="2020-02-13">
+<author pid="p/AlessandroDalPalu">Alessandro Dal Pal&#249;</author>
+<author pid="t/PaulTarau">Paul Tarau</author>
+<title>Introduction to the 34-th international conference on logic programming special issue.</title>
+<pages>296-300</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000352</ee>
+<url>db/journals/tplp/tplp18.html#PaluT18</url>
+</article>
+</r>
+</dblpcites>
+
+Original Article <dblpcites><r style="ee"><article key="journals/tplp/AlvianoDM18" mdate="2020-02-13">
+<author pid="17/4975">Mario Alviano</author>
+<author orcid="0000-0002-5617-5286" pid="115/6847">Carmine Dodaro</author>
+<author pid="m/MarcoMaratea">Marco Maratea</author>
+<title>Shared aggregate sets in answer set programming.</title>
+<pages>301-318</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000133</ee>
+<url>db/journals/tplp/tplp18.html#AlvianoDM18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/AlvianoDJM18" mdate="2020-02-13">
+<author pid="17/4975">Mario Alviano</author>
+<author orcid="0000-0002-5617-5286" pid="115/6847">Carmine Dodaro</author>
+<author pid="69/6999">Matti J&#228;rvisalo</author>
+<author pid="m/MarcoMaratea">Marco Maratea</author>
+<author pid="29/9729">Alessandro Previti</author>
+<title>Cautious reasoning in ASP via minimal models and unsatisfiable cores.</title>
+<pages>319-336</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000145</ee>
+<ee>https://www.wikidata.org/entity/Q62043797</ee>
+<url>db/journals/tplp/tplp18.html#AlvianoDJM18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/AriasCSM18" mdate="2022-10-26">
+<author orcid="0000-0003-4148-311X" pid="167/4968">Joaqu&#237;n Arias</author>
+<author pid="72/789">Manuel Carro</author>
+<author pid="188/5746">Elmer Salazar</author>
+<author pid="30/10019">Kyle Marple</author>
+<author pid="g/GopalGupta">Gopal Gupta 0001</author>
+<title>Constraint Answer Set Programming without Grounding.</title>
+<pages>337-354</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000285</ee>
+<url>db/journals/tplp/tplp18.html#AriasCSM18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/BaryannisTBA18" mdate="2020-02-13">
+<author orcid="0000-0002-2118-5812" pid="71/7567">George Baryannis</author>
+<author pid="116/9321">Ilias Tachmazidis</author>
+<author pid="70/7127">Sotiris Batsakis</author>
+<author pid="a/GrigorisAntoniou">Grigoris Antoniou</author>
+<author pid="17/4975">Mario Alviano</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos Sellis</author>
+<author pid="117/9694">Pei-Wei Tsai</author>
+<title>A Trajectory Calculus for Qualitative Spatial Reasoning Using Answer Set Programming.</title>
+<pages>355-371</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S147106841800011X</ee>
+<url>db/journals/tplp/tplp18.html#BaryannisTBA18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/BonifatiDA18" mdate="2022-12-07">
+<author orcid="0000-0002-9582-869X" pid="b/ABonifati">Angela Bonifati</author>
+<author orcid="0000-0002-6664-0620" pid="143/2670">Stefania Dumbrava</author>
+<author pid="74/4492">Emilio Jes&#250;s Gallego Arias</author>
+<title>Certified Graph View Maintenance with Regular Datalog.</title>
+<pages>372-389</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000224</ee>
+<url>db/journals/tplp/tplp18.html#BonifatiDA18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/CabalarFCP18" mdate="2020-02-13">
+<author pid="48/6264">Pedro Cabalar</author>
+<author orcid="0000-0002-3917-8717" pid="136/1503">Jorge Fandinno</author>
+<author pid="03/3567">Luis Fari&#241;as del Cerro</author>
+<author pid="48/768-1">David Pearce 0001</author>
+<title>Functional ASP with Intensional Sets: Application to Gelfond-Zhang Aggregates.</title>
+<pages>390-405</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000169</ee>
+<url>db/journals/tplp/tplp18.html#CabalarFCP18</url>
+</article>
+</r>
+</dblpcites>
+
+Rapid Communication <dblpcites><r style="ee"><article key="journals/tplp/CabalarKSS18" mdate="2020-02-13">
+<author pid="48/6264">Pedro Cabalar</author>
+<author pid="09/1205">Roland Kaminski</author>
+<author orcid="0000-0002-7456-041X" pid="s/TorstenSchaub">Torsten Schaub</author>
+<author pid="218/6378">Anna Schuhmann</author>
+<title>Temporal Answer Set Programming on Finite Traces.</title>
+<pages>406-420</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000297</ee>
+<url>db/journals/tplp/tplp18.html#CabalarKSS18</url>
+</article>
+</r>
+</dblpcites>
+
+Original Article <dblpcites><r style="ee"><article key="journals/tplp/CharalambidisRS18" mdate="2020-02-13">
+<author orcid="0000-0001-7437-410X" pid="96/7603">Angelos Charalambidis</author>
+<author pid="r/PanosRondogiannis">Panos Rondogiannis</author>
+<author pid="168/8396">Ioanna Symeonidou</author>
+<title>Approximation Fixpoint Theory and the Well-Founded Semantics of Higher-Order Logic Programs.</title>
+<pages>421-437</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000108</ee>
+<url>db/journals/tplp/tplp18.html#CharalambidisRS18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/DahlemBS18" mdate="2020-02-13">
+<author orcid="0000-0003-3877-8179" pid="148/1322">Marc Dahlem</author>
+<author pid="174/4923">Anoop Bhagyanath</author>
+<author pid="180/3233-1">Klaus Schneider 0001</author>
+<title>Optimal Scheduling for Exposed Datapath Architectures with Buffered Processing Units by ASP.</title>
+<pages>438-451</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000170</ee>
+<url>db/journals/tplp/tplp18.html#DahlemBS18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/AngelisFPP18a" mdate="2020-02-13">
+<author orcid="0000-0002-7319-8439" pid="115/6852">Emanuele De Angelis</author>
+<author orcid="0000-0002-1268-7829" pid="32/2616">Fabio Fioravanti</author>
+<author orcid="0000-0001-7858-4032" pid="19/2451">Alberto Pettorossi</author>
+<author orcid="0000-0003-3835-4931" pid="78/4537">Maurizio Proietti</author>
+<title>Solving Horn Clauses on Inductive Data Types Without Induction.</title>
+<pages>452-469</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000157</ee>
+<url>db/journals/tplp/tplp18.html#AngelisFPP18a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/DuckJY18" mdate="2022-10-02">
+<author orcid="0000-0002-0837-9671" pid="74/3123">Gregory J. Duck</author>
+<author pid="j/JoxanJaffar">Joxan Jaffar</author>
+<author pid="y/RolandHCYap">Roland H. C. Yap</author>
+<title>Shape Neutral Analysis of Graph-based Data-structures.</title>
+<pages>470-483</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S147106841800025X</ee>
+<url>db/journals/tplp/tplp18.html#DuckJY18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/FarkaKH18" mdate="2020-02-13">
+<author orcid="0000-0001-8177-1322" pid="185/0984">Frantisek Farka</author>
+<author pid="62/4310">Ekaterina Komendantskaya</author>
+<author orcid="0000-0002-4326-4562" pid="35/4224">Kevin Hammond</author>
+<title>Proof-relevant Horn Clauses for Dependent Type Inference and Term Synthesis.</title>
+<pages>484-501</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000212</ee>
+<url>db/journals/tplp/tplp18.html#FarkaKH18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/GebserOOS18" mdate="2022-05-24">
+<author pid="64/2589">Martin Gebser</author>
+<author pid="89/2293">Philipp Obermeier</author>
+<author pid="98/3814">Thomas Otto</author>
+<author orcid="0000-0002-7456-041X" pid="s/TorstenSchaub">Torsten Schaub</author>
+<author pid="77/4263">Orkunt Sabuncu</author>
+<author pid="94/5094-1">Van Nguyen 0001</author>
+<author pid="s/TranCaoSon">Tran Cao Son</author>
+<title>Experimenting with robotic intra-logistics domains.</title>
+<pages>502-519</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000200</ee>
+<url>db/journals/tplp/tplp18.html#GebserOOS18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/GebserOSR18" mdate="2020-02-13">
+<author pid="64/2589">Martin Gebser</author>
+<author pid="89/2293">Philipp Obermeier</author>
+<author orcid="0000-0002-7456-041X" pid="s/TorstenSchaub">Torsten Schaub</author>
+<author pid="218/6561">Michel Ratsch-Heitmann</author>
+<author pid="218/6130">Mario Runge</author>
+<title>Routing Driverless Transport Vehicles in Car Assembly with Answer Set Programming.</title>
+<pages>520-534</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000182</ee>
+<url>db/journals/tplp/tplp18.html#GebserOSR18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/InclezanZBI18" mdate="2020-02-13">
+<author pid="19/7187">Daniela Inclezan</author>
+<author pid="67/4963">Qinglin Zhang</author>
+<author pid="74/3410">Marcello Balduccini</author>
+<author pid="203/1961">Ankush Israney</author>
+<title>An ASP Methodology for Understanding Narratives about Stereotypical Activities.</title>
+<pages>535-552</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000121</ee>
+<url>db/journals/tplp/tplp18.html#InclezanZBI18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/KafleGGS18" mdate="2020-02-13">
+<author orcid="0000-0001-5191-1216" pid="146/0527">Bishoksan Kafle</author>
+<author orcid="0000-0001-6984-7419" pid="g/JPGallagher">John P. Gallagher</author>
+<author pid="76/3059">Graeme Gange</author>
+<author orcid="0000-0001-5959-3769" pid="71/214">Peter Schachte</author>
+<author orcid="0000-0002-2352-1883" pid="s/HaraldSondergaard">Harald S&#248;ndergaard</author>
+<author orcid="0000-0003-2186-0459" pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>An iterative approach to precondition inference using constrained Horn clauses.</title>
+<pages>553-570</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000091</ee>
+<ee>https://www.wikidata.org/entity/Q57664976</ee>
+<url>db/journals/tplp/tplp18.html#KafleGGS18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/KaminskiEI18" mdate="2020-10-26">
+<author pid="163/5202">Tobias Kaminski</author>
+<author pid="e/TEiter">Thomas Eiter</author>
+<author orcid="0000-0002-2717-9122" pid="i/KatsumiInoue">Katsumi Inoue</author>
+<title>Exploiting Answer Set Programming with External Sources for Meta-Interpretive Learning.</title>
+<pages>571-588</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000261</ee>
+<url>db/journals/tplp/tplp18.html#KaminskiEI18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/LeeY18" mdate="2021-01-15">
+<author pid="15/4797-2">Joohyung Lee 0002</author>
+<author pid="172/2733">Zhun Yang</author>
+<title>Translating LPOD and CR-Prolog2 into standard answer set programs.</title>
+<pages>589-606</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000315</ee>
+<url>db/journals/tplp/tplp18.html#LeeY18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/LeeW18" mdate="2021-01-15">
+<author pid="15/4797-2">Joohyung Lee 0002</author>
+<author pid="17/221-48">Yi Wang 0048</author>
+<title>A Probabilistic Extension of Action Language ${\cal BC}$+}$.</title>
+<pages>607-622</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000303</ee>
+<url>db/journals/tplp/tplp18.html#LeeW18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/MitraB18" mdate="2020-02-13">
+<author orcid="0000-0003-0089-510X" pid="04/2864">Arindam Mitra</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<title>Incremental and Iterative Learning of Answer Set Programs from Mutually Distinct Examples.</title>
+<pages>623-637</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000248</ee>
+<url>db/journals/tplp/tplp18.html#MitraB18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/NampallyZR18" mdate="2020-02-13">
+<author pid="143/7421">Arun Nampally</author>
+<author pid="218/6266">Timothy Zhang</author>
+<author pid="r/CRRamakrishnan">C. R. Ramakrishnan</author>
+<title>Constraint-Based Inference in Probabilistic Logic Programs.</title>
+<pages>638-655</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000273</ee>
+<url>db/journals/tplp/tplp18.html#NampallyZR18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/NguyenPS18" mdate="2021-08-05">
+<author orcid="0000-0001-9996-4720" pid="174/2053-2">Thanh Hai Nguyen 0002</author>
+<author orcid="0000-0002-7753-1737" pid="p/EnricoPontelli">Enrico Pontelli</author>
+<author pid="s/TranCaoSon">Tran Cao Son</author>
+<title>Phylotastic: An Experiment in Creating, Manipulating, and Evolving Phylogenetic Biology Workflows Using Logic Programming.</title>
+<pages>656-672</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000236</ee>
+<url>db/journals/tplp/tplp18.html#NguyenPS18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/SchubertU18" mdate="2021-10-14">
+<author orcid="0000-0002-9316-6098" pid="90/5775">Aleksy Schubert</author>
+<author pid="u/PawelUrzyczyn">Pawel Urzyczyn</author>
+<title>First-order Answer Set Programming as Constructive Proof Search.</title>
+<pages>673-690</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S147106841800008X</ee>
+<url>db/journals/tplp/tplp18.html#SchubertU18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/Schwitter18" mdate="2020-02-13">
+<author orcid="0000-0001-8998-7005" pid="05/792">Rolf Schwitter</author>
+<title>Specifying and Verbalising Answer Set Programs in Controlled Natural Language.</title>
+<pages>691-705</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000327</ee>
+<url>db/journals/tplp/tplp18.html#Schwitter18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/Warren18" mdate="2020-02-13">
+<author pid="w/DavidScottWarren">David Scott Warren</author>
+<title>Top-down and Bottom-up Evaluation Procedurally Integrated.</title>
+<pages>706-721</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1017/S1471068418000194</ee>
+<url>db/journals/tplp/tplp18.html#Warren18</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 18, Numbers 5-6, September 2018</h2> Editorial 
+<dblpcites><r style="ee"><article key="journals/tplp/FiorettoP18" mdate="2020-02-13">
+<author orcid="0000-0002-1381-6776" pid="119/6404">Ferdinando Fioretto</author>
+<author orcid="0000-0002-7753-1737" pid="p/EnricoPontelli">Enrico Pontelli</author>
+<title>Past and present (and future) of parallel and distributed computation in (constraint) logic programming.</title>
+<pages>722-724</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S1471068418000406</ee>
+<url>db/journals/tplp/tplp18.html#FiorettoP18</url>
+</article>
+</r>
+</dblpcites>
+
+Survey Article 
+<dblpcites><r style="ee"><article key="journals/tplp/GentMNMPMU18" mdate="2020-03-27">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-6106-4871" pid="119/4841">Ciaran McCreesh</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="25/7125">Neil C. A. Moore</author>
+<author pid="14/3074">Chris Unsworth</author>
+<title>A review of literature on parallel constraint solving.</title>
+<pages>725-758</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S1471068418000340</ee>
+<url>db/journals/tplp/tplp18.html#GentMNMPMU18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/Fruhwirth18" mdate="2020-02-13">
+<author pid="f/TWFruhwirth">Thom W. Fr&#252;hwirth</author>
+<title>Parallelism, concurrency and distribution in constraint handling rules: A survey.</title>
+<pages>759-805</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S1471068418000078</ee>
+<url>db/journals/tplp/tplp18.html#Fruhwirth18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/CondieDISYZ18" mdate="2020-02-13">
+<author pid="88/2774">Tyson Condie</author>
+<author pid="66/10236">Ariyam Das</author>
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="135/4675">Alexander Shkapsky</author>
+<author pid="34/8165">Mohan Yang</author>
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<title>Scaling-up reasoning and advanced analytics on BigData.</title>
+<pages>806-845</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S1471068418000418</ee>
+<url>db/journals/tplp/tplp18.html#CondieDISYZ18</url>
+</article>
+</r>
+</dblpcites>
+
+Original Article 
+<dblpcites><r style="ee"><article key="journals/tplp/CalegariDMO18" mdate="2020-02-13">
+<author orcid="0000-0003-3794-2942" pid="37/5013">Roberta Calegari</author>
+<author pid="02/1103">Enrico Denti</author>
+<author pid="65/964-1">Stefano Mariani 0001</author>
+<author pid="o/AndreaOmicini">Andrea Omicini</author>
+<title>Logic programming as a service.</title>
+<pages>846-873</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S1471068418000364</ee>
+<url>db/journals/tplp/tplp18.html#CalegariDMO18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/InterlandiT18" mdate="2020-02-13">
+<author pid="49/10034">Matteo Interlandi</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>A datalog-based computational model for coordination-free, data-parallel systems.</title>
+<pages>874-927</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S147106841800042X</ee>
+<url>db/journals/tplp/tplp18.html#InterlandiT18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/Pakin18" mdate="2020-02-13">
+<author orcid="0000-0002-5220-1985" pid="01/397">Scott Pakin</author>
+<title>Performing fully parallel constraint logic programming on a quantum annealer.</title>
+<pages>928-949</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S1471068418000066</ee>
+<ee>https://www.wikidata.org/entity/Q59222970</ee>
+<url>db/journals/tplp/tplp18.html#Pakin18</url>
+</article>
+</r>
+<r style="ee"><article key="journals/tplp/AreiasR18" mdate="2021-03-11">
+<author orcid="0000-0003-1589-3174" pid="62/7440">Miguel Areias 0001</author>
+<author orcid="0000-0003-4502-8835" pid="20/2773-1">Ricardo Rocha 0001</author>
+<title>Table space designs for implicit and explicit concurrent tabled evaluation.</title>
+<pages>950-992</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1017/S147106841800039X</ee>
+<url>db/journals/tplp/tplp18.html#AreiasR18</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

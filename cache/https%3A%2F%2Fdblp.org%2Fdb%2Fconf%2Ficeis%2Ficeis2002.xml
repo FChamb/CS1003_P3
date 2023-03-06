@@ -1,0 +1,2077 @@
+<bht key="db/conf/iceis/iceis2002.bht" title="ICEIS 2002">  
+<h1>4th <ref href="db/conf/iceis/index.html">ICEIS</ref> 2002:
+Ciudad Real, Spain</h1> ICEIS 2002, Proceedings of the 4st International Conference on Enterprise Information Systems, Ciudad Real, Spain, April 2-6, 2002
+<h2>VOLUME I</h2> 
+<h3>Invited Speakers</h3> 
+<h4>Keynote Lectures</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/Cantone02" mdate="2017-02-02">
+<author pid="95/2139">Giovanni Cantone</author>
+<title>Experimental Software Engineering: Role and Impact of Measurement Models on Empirical Processes.</title>
+<pages>3</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Cantone02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Greene02" mdate="2017-02-02">
+<author pid="60/360">Thomas Greene</author>
+<title>Enterprise Information Systems and the Global Information Network: Change is Certain, Progress is Optional.</title>
+<pages>5</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Greene02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Gusikhin02" mdate="2017-02-02">
+<author pid="55/2925">Oleg Yu. Gusikhin</author>
+<title>Analytical Framework for Data Integration in Manufacturing Execution Systems.</title>
+<pages>7</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Gusikhin02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Olive02" mdate="2017-02-02">
+<author pid="89/4942">Antoni Oliv&#233;</author>
+<title>Specific Relationship Types in Conceptual Modeling: The Cases of Generic and with Common Participants.</title>
+<pages>9</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Olive02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Tutorials</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/Bider02" mdate="2017-02-02">
+<author pid="27/111">Ilia Bider</author>
+<title>Business Process Modeling as a Method of Requirements Engineering.</title>
+<pages>13-15</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Bider02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Chapin02" mdate="2017-02-02">
+<author pid="58/4511">Ned Chapin</author>
+<title>Maintenance of Information Systems.</title>
+<pages>17-19</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Chapin02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Mahmoud02" mdate="2017-02-02">
+<author pid="m/QusayHMahmoud">Qusay H. Mahmoud</author>
+<title>Developing Enterprise Applications Using Java.</title>
+<pages>21</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Mahmoud02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Srinivas02" mdate="2017-02-02">
+<author pid="34/4476">Raghavan Srinivas</author>
+<title>Network Security Concepts and Java.</title>
+<pages>23</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Srinivas02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Case Studies</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/Basterra02" mdate="2017-02-02">
+<author pid="49/6940">Carlos Basterra</author>
+<title>Oracle9i: The Platform for the eBusiness.</title>
+<pages>27-31</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Basterra02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Bravo02" mdate="2017-02-02">
+<author pid="27/5099">Carlos L&#243;pez Bravo</author>
+<title>Cache Post-Relational Technology.</title>
+<pages>33</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Bravo02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Carballo02" mdate="2017-02-02">
+<author pid="86/3770">Ramiro Carballo</author>
+<title>Risk Managment in the New Economy: Estimation and Control of Projects for E-Business and Start-Ups.</title>
+<pages>35</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Carballo02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Pena02" mdate="2017-02-02">
+<author pid="30/4805">Rodrigo de Salas Pe&#241;a</author>
+<title>ICT Infrastructures and Customer Interaction.</title>
+<pages>37-40</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Pena02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Databases and Information Systems Integration</h3> 
+<h4>Papers</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/AlarconGYG02" mdate="2018-08-20">
+<author pid="36/1187">Pedro Pablo Alarc&#243;n</author>
+<author pid="76/2275">Juan Garbajosa</author>
+<author pid="94/4875">Agust&#237;n Yag&#252;e</author>
+<author pid="21/5403">Carlos Garc&#237;a</author>
+<title>Data Sources Server: An Approach to Heterogeneous Data Integration.</title>
+<pages>3-10</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AlarconGYG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/AmousS02" mdate="2017-02-02">
+<author pid="76/6106">Ikram Amous</author>
+<author pid="87/5209">Florence S&#232;des</author>
+<title>Descriptors and Meta-Documents for Mono-Media and Multimedia Documents.</title>
+<pages>11-17</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AmousS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/AmousJS02" mdate="2017-02-02">
+<author pid="76/6106">Ikram Amous</author>
+<author pid="21/2978">Anis Jedidi</author>
+<author pid="87/5209">Florence S&#232;des</author>
+<title>Organising and Modelling Metadata for Media-Based Documents.</title>
+<pages>18-25</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AmousJS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/JuniorVF02" mdate="2017-02-02">
+<author pid="47/1834">Wilmondes Manzi de Arantes J&#250;nior</author>
+<author pid="v/ChristineVerdier">Christine Verdier</author>
+<author pid="55/1838">Andr&#233; Flory</author>
+<title>XML-Based Document to Query a Relational Database.</title>
+<pages>26-33</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#JuniorVF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ArrudaBL02" mdate="2017-02-02">
+<author pid="93/3634">Ladjane S. Arruda</author>
+<author pid="b/ClaudiodeSouzaBaptista">Cl&#225;udio de Souza Baptista</author>
+<author pid="53/1875">Carlos A. A. Lima</author>
+<title>MEDIweb: A Mediator-Based Environment for Data Integration on the Web.</title>
+<pages>34-41</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ArrudaBL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BirkholzerV02" mdate="2017-02-02">
+<author pid="74/5933">Thomas Birkh&#246;lzer</author>
+<author pid="70/3204">J&#252;rgen Vaupel</author>
+<title>The Role of Enterprise Architecture for Planning and Managing Future Information Systems Integration.</title>
+<pages>42-49</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BirkholzerV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CarrascoMG02" mdate="2017-02-02">
+<author pid="22/3366">Ram&#243;n Alberto Carrasco</author>
+<author pid="10/2317">Mar&#237;a Amparo Vila Miranda</author>
+<author pid="45/615">Jos&#233; Galindo</author>
+<title>FSQL: A Flexible Query Language for Data Mining.</title>
+<pages>50-56</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CarrascoMG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ChouT02" mdate="2017-02-02">
+<author pid="07/2457">Pauline Lienhua Chou</author>
+<author pid="t/ZahirTari">Zahir Tari</author>
+<title>Predicate-Based Caching Scheme for Wireless Environments.</title>
+<pages>57-64</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ChouT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ChristoffelSS02" mdate="2017-02-02">
+<author pid="84/5039">Michael Christoffel</author>
+<author pid="37/1659">Bethina Schmitt</author>
+<author pid="29/20">J&#252;rgen Schneider</author>
+<title>Semi-Automatic Wrapper Generation and Adaption: Living with Heterogeneity in a Market Environment.</title>
+<pages>65-72</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ChristoffelSS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ConstantinescuHRM02" mdate="2017-02-02">
+<author pid="04/5484">Carmen Constantinescu</author>
+<author pid="12/3171">Uwe Heinkel</author>
+<author pid="r/RalfRantzau">Ralf Rantzau</author>
+<author pid="m/BMitschang">Bernhard Mitschang</author>
+<title>A System for Data Change Propagation in Heterogeneous Information Systems.</title>
+<pages>73-80</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ConstantinescuHRM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/EderKK02" mdate="2017-02-02">
+<author pid="e/JEder">Johann Eder</author>
+<author pid="80/3897">Christian Koncilia</author>
+<author pid="61/4550">Herbert Kogler</author>
+<title>Temporal Data Warehousing: Business Cases and Solutions.</title>
+<pages>81-88</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#EderKK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/EstevesP02" mdate="2021-05-07">
+<author pid="45/2875">Jos&#233; Esteves 0001</author>
+<author pid="p/JAPastorCollado">Joan Antoni Pastor</author>
+<title>A Framework to Analyse Most Critical Work Packages in ERP Implementation Projects.</title>
+<pages>89-98</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#EstevesP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GyllenswardKL02" mdate="2017-02-02">
+<author pid="23/912">Erik Gyllensw&#228;rd</author>
+<author pid="25/1238">Mladen Kap</author>
+<author pid="l/RikardLand">Rikard Land</author>
+<title>Information Organizer: A Comprehensive View on Reuse.</title>
+<pages>99-106</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GyllenswardKL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/HarrenT02" mdate="2017-02-02">
+<author pid="37/6168">Arne Harren</author>
+<author pid="79/2540">Heiko Tapken</author>
+<title>A Process Model for Enterprise-Wide Design of Data Acquisition for Data Warehousing.</title>
+<pages>107-114</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#HarrenT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LarreTMT02" mdate="2021-04-19">
+<author pid="98/3685">M&#243;nica Larre</author>
+<author pid="34/6436">Jos&#233; Torres-Jim&#233;nez</author>
+<author pid="10/3715">Eduardo F. Morales 0001</author>
+<author pid="10/5609">S&#243;crates Torres</author>
+<title>Data Integration Using the MONIL Language.</title>
+<pages>115-120</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LarreTMT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LowLT02" mdate="2017-02-02">
+<author pid="97/5873">Wai Lup Low</author>
+<author pid="61/2183">Joseph Lee</author>
+<author pid="53/1238">Peter Teoh</author>
+<title>DIDAFIT: Detecting Intrusions in Databases Through Fingerprinting Transactions.</title>
+<pages>121-128</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LowLT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MarirZO02" mdate="2017-02-02">
+<author pid="95/1864">Farhi Marir</author>
+<author pid="32/4385">Kamel Zerzour</author>
+<author pid="63/5184">Karim Ouazzane</author>
+<title>An Integrated Object Database and Description Logic System for Online Content and Event-Based Indexing and Retrieval of a Car Park Surveillance Video.</title>
+<pages>129-139</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#MarirZO02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/PanMMARV02" mdate="2017-02-02">
+<author pid="36/5165">Alberto Pan</author>
+<author pid="54/6379">Paula Montoto</author>
+<author pid="65/2195">Anastasio Molano</author>
+<author pid="47/6672">Manuel &#193;lvarez</author>
+<author pid="88/4490">Juan Raposo</author>
+<author pid="39/1879">&#193;ngel Vi&#241;a</author>
+<title>A Model for Advanced Query Capability Description in Mediator Systems.</title>
+<pages>140-147</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#PanMMARV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/PequenoV02" mdate="2017-02-02">
+<author pid="p/ValeriaMagalhaesPequeno">Val&#233;ria Magalh&#227;es Pequeno</author>
+<author pid="98/4928">V&#226;nia Maria Ponte Vidal</author>
+<title>Using Full Match Classes for Self-Maintenance of Mediated Views.</title>
+<pages>148-154</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#PequenoV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Prosser02" mdate="2017-02-02">
+<author pid="80/5136">Alexander Prosser</author>
+<title>Proposing a Method for Planning the Materialisation of Views in a Data Warehouse.</title>
+<pages>155-162</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Prosser02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/RaibuletD02" mdate="2017-02-02">
+<author pid="69/3643">Claudia Raibulet</author>
+<author pid="224/9687">Claudio Demartini</author>
+<title>Data Representation in Industrial Systems.</title>
+<pages>163-178</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#RaibuletD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SadegSA02" mdate="2017-02-02">
+<author pid="s/BrunoSadeg">Bruno Sadeg</author>
+<author pid="b/SamiaBouzefrane">Samia Saad-Bouzefrane</author>
+<author pid="73/758">Laurent Amanton</author>
+<title>D-ANTICIP: A Protocol Suitable for Distributed Real-Time Transactions.</title>
+<pages>171-178</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SadegSA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SanchezSVACD02" mdate="2022-07-13">
+<author pid="s/DanielSanchez">Daniel S&#225;nchez 0001</author>
+<author pid="s/JoseMariaSerrano">Jos&#233;-Mar&#237;a Serrano</author>
+<author pid="10/2317">Mar&#237;a Amparo Vila Miranda</author>
+<author pid="54/6312">V&#237;ctor Aranda</author>
+<author pid="69/80">Julio Calero</author>
+<author pid="24/2187">G. Delgado</author>
+<title>Using Data Mining Techniques to Analyze Correspondences between Partitions.</title>
+<pages>179-186</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SanchezSVACD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/TanL02" mdate="2017-02-02">
+<author pid="16/2276">Rebecca Boon-Noi Tan</author>
+<author pid="43/1351">Guojun Lu</author>
+<title>A Hierarchical Approach to Complex Data Cube Queries.</title>
+<pages>187-194</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#TanL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Veryha02" mdate="2017-02-02">
+<author pid="40/1026">Yauheni Veryha</author>
+<title>Implementation of Fuzzy Classification Query Language in Relational Databases Using Stored Procedures.</title>
+<pages>195-202</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Veryha02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/XiaoouP02" mdate="2017-02-02">
+<author pid="16/2050">Zhang Xiaoou</author>
+<author pid="91/6061">Hung Keng Pung</author>
+<title>An XML-Based Virtual Patient Records System for Healthcare Enterprises.</title>
+<pages>203-209</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#XiaoouP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Gicqueau02" mdate="2017-02-02">
+<author pid="72/4505">Ale Gicqueau</author>
+<title>Importing XML Documents to Relational Databases.</title>
+<pages>210-217</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Gicqueau02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/TrajcevskiWCLZR02" mdate="2017-02-02">
+<author pid="66/974">Goce Trajcevski</author>
+<author pid="w/OuriWolfson">Ouri Wolfson</author>
+<author pid="64/1651">Hu Cao</author>
+<author pid="84/1781">Hai Lin</author>
+<author pid="33/2071">Fengli Zhang</author>
+<author pid="r/NaphtaliRishe">Naphtali Rishe</author>
+<title>Managing Uncertain Trajectories of Moving Objects with Domino.</title>
+<pages>218-225</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#TrajcevskiWCLZR02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Short Papers</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/AnwarH02" mdate="2017-10-20">
+<author pid="26/3749">Muhammad Abaidullah Anwar</author>
+<author pid="166/2974">Sameed Hameed</author>
+<title>An Integrated Approach for Finding enRoute Best Alternate Route.</title>
+<pages>226-234</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AnwarH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BarjisC02" mdate="2017-02-02">
+<author pid="b/JosephBarjis">Joseph Barjis</author>
+<author pid="18/3374">Samuel Chong</author>
+<title>Data Modeling for the Purpose of Database Design Using Entity-Relationship Model and Semantic Analysis.</title>
+<pages>235-243</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BarjisC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BodorikBJ02" mdate="2017-02-02">
+<author pid="b/PBodorik">Peter Bodorik</author>
+<author pid="75/985">Shawn Best</author>
+<author pid="25/5927">Dawn N. Jutla</author>
+<title>Toolkit for QoS Monitoring in Middleware.</title>
+<pages>244-249</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BodorikBJ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CalejoAAS02" mdate="2017-02-02">
+<author pid="78/978">Miguel Calejo</author>
+<author pid="99/1627">M&#225;rio Ara&#250;jo</author>
+<author pid="37/578">S&#243;nia Mota Ara&#250;jo</author>
+<author pid="44/2684">Nuno Soares</author>
+<title>Web Application Maker.</title>
+<pages>250-256</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CalejoAAS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GarveyJR02" mdate="2017-02-02">
+<author pid="17/3138">Mary Garvey</author>
+<author pid="181/2680">Mike Jackson</author>
+<author pid="85/6909">Martin Roberts</author>
+<title>Using Persistent Java to Construct a GIS.</title>
+<pages>257-262</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GarveyJR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GusikhinKRACM02" mdate="2017-02-02">
+<author pid="55/2925">Oleg Yu. Gusikhin</author>
+<author pid="60/5431">Erica Klampfl</author>
+<author pid="44/2140">Giuseppe Rossi</author>
+<author pid="91/891">Celestine Aguwa</author>
+<author pid="05/6725">Gene Coffman</author>
+<author pid="81/2869">Terry Marinak</author>
+<title>Virtual Reality Web-Based Environment for Workcell Planning in an Automotive Assembly.</title>
+<pages>263-268</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GusikhinKRACM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LeeK02" mdate="2017-02-02">
+<author pid="54/2983">Sai Peck Lee</author>
+<author pid="79/6377">Chin Heong Khor</author>
+<title>Persistence Framework for Multiple Legacy Databases.</title>
+<pages>269-274</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LeeK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Peters02" mdate="2017-02-02">
+<author pid="52/4296">Steve C. A. Peters</author>
+<title>Introducing an Enterprise Resource Planning (ERP) System in a Hospital.</title>
+<pages>275-281</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Peters02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ShinkawaM02" mdate="2017-02-02">
+<author pid="33/6029">Yoshiyuki Shinkawa</author>
+<author pid="63/3929">Masao J. Matsumoto</author>
+<title>State-Sensitive Design of Database Transactions.</title>
+<pages>282-289</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ShinkawaM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/TariTD02" mdate="2017-02-02">
+<author pid="t/ZahirTari">Zahir Tari</author>
+<author pid="25/6153">Abdelkamel Tari</author>
+<author pid="27/335">Vincent Dupin</author>
+<title>Designing an Object and Query Cache Management System for CODAR Database Adapter.</title>
+<pages>290-295</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#TariTD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ToyliLW02" mdate="2017-02-02">
+<author pid="42/900">Jari T&#246;yli</author>
+<author pid="31/3483">Matti Linna</author>
+<author pid="50/6328">Merja Wanne</author>
+<title>Modeling Relational Data by the Adjacency Model.</title>
+<pages>296-301</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ToyliLW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/WangSHMY02" mdate="2017-02-02">
+<author pid="23/1556">Frank Wang</author>
+<author pid="87/5902">Ruby Sharma</author>
+<author pid="35/6131">Na Helian</author>
+<author pid="95/1864">Farhi Marir</author>
+<author pid="26/657">Yau Jim Yip</author>
+<title>The Millennium Information System (MIS) for European Public Health and Environment Network (EPHEN).</title>
+<pages>302-306</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#WangSHMY02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Posters</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/BartoloMSLFW02" mdate="2017-02-02">
+<author pid="06/175">Laura M. Bartolo</author>
+<author pid="16/521">Austin Melton</author>
+<author pid="79/4491">Monica Strah</author>
+<author pid="11/5132">Cathy S. Lowe</author>
+<author pid="94/9043">Louis Z. Feng</author>
+<author pid="26/4568">Christopher Woolverton</author>
+<title>An Electronic Scientific Notebook: Metadata And Database Design for Multidisciplinary Scientific Laboratory Data.</title>
+<pages>307-310</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BartoloMSLFW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LauT02" mdate="2017-02-02">
+<author pid="60/1082">Matthew C. F. Lau</author>
+<author pid="16/2276">Rebecca Boon-Noi Tan</author>
+<title>The Impact of Change on IT Professionals.</title>
+<pages>311-316</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LauT02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Artificial Intelligence and Decision Support Systems</h3> 
+<h4>Papers</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/AbadSRO02" mdate="2019-11-22">
+<author pid="85/6945">Pedro J. Abad</author>
+<author pid="71/2089">Antonio J. Su&#225;rez</author>
+<author pid="68/4647">Sixto Romero</author>
+<author pid="11/9837">Juan Antonio Ortega 0001</author>
+<title>Semiqualitative Reasoning for Software Development Project by Constraint Programming.</title>
+<pages>319-324</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AbadSRO02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/AlcalaCHZ02" mdate="2017-02-02">
+<author pid="91/180">Rafael Alcal&#225;</author>
+<author pid="34/6784">Oscar Cord&#243;n</author>
+<author pid="04/0">Francisco Herrera</author>
+<author pid="87/277">Igor Zwir</author>
+<title>Insurance Market Risk Modeling with Hierarchical Fuzzy Rule Based Systems.</title>
+<pages>325-333</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AlcalaCHZ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BaiL02" mdate="2017-02-02">
+<author pid="b/LiBai">Li Bai</author>
+<author pid="75/5287">Yihui Liu</author>
+<title>Neural Networks and Wavelets for Face Recognition.</title>
+<pages>334-340</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BaiL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CheungCD02" mdate="2017-02-02">
+<author pid="93/3929">Larry Y. C. Cheung</author>
+<author pid="53/4090">Paul W. H. Chung</author>
+<author pid="53/4595">Ray Dawson</author>
+<title>Supporting Engineering Design Process with an Intelligent Compliance Agent: A Way to Ensure a Standard Complied Process.</title>
+<pages>341-349</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CheungCD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/FloresG02" mdate="2017-09-05">
+<author pid="60/2498">M. Julia Flores</author>
+<author pid="54/4230">Jos&#233; A. G&#225;mez 0001</author>
+<title>Applicability of Estimation of Distribution Algorithms to the Fuzzy Rule Learning Problem: A Preliminary Study.</title>
+<pages>350-357</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#FloresG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/HerreraM02" mdate="2022-09-16">
+<author pid="04/0">Francisco Herrera</author>
+<author pid="17/8681">Luis Mart&#237;nez-L&#243;pez 0001</author>
+<title>Group Decision Making Based on the Linguistic 2-Tuple Model in Heterogeneous Contexts.</title>
+<pages>358-366</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#HerreraM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/HillbrandK02" mdate="2017-02-02">
+<author pid="45/5442">Christian Hillbrand</author>
+<author pid="45/1628">Dimitris Karagiannis</author>
+<title>Using Artificial Neural Networks to Prove Hypothetic Cause-And-Effect Relations: A Metamodel-Based Approach to Support Strategic Decisions.</title>
+<pages>367-373</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#HillbrandK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/KrishnaswamyLZ02" mdate="2017-02-02">
+<author pid="k/ShonaliKrishnaswamy">Shonali Krishnaswamy</author>
+<author pid="l/SengWaiLoke">Seng Wai Loke</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<title>Supporting the Optimisation of Distributed Data Mining by Predicting Application Run Times.</title>
+<pages>374-381</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#KrishnaswamyLZ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Lopez02" mdate="2017-02-02">
+<author pid="22/4125">Raquel Fl&#243;rez L&#243;pez</author>
+<title>Strategic Position of Firms in Terms of Client's Needs Using Linguistic and Numerical Information through a New Model of SOFM.</title>
+<pages>382-390</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Lopez02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MarirWO02" mdate="2017-02-02">
+<author pid="95/1864">Farhi Marir</author>
+<author pid="23/1556">Frank Wang</author>
+<author pid="63/5184">Karim Ouazzane</author>
+<title>A Case-Based Expert System for Estimating the Cost of Refurbishing Construction Buildings.</title>
+<pages>391-398</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#MarirWO02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MengYCC02" mdate="2017-02-02">
+<author pid="95/2286">I-Heng Meng</author>
+<author pid="20/5454">Wei-Pang Yang</author>
+<author pid="73/3727">Wen-Chih Chen</author>
+<author pid="23/2985">Lu-Ping Chang</author>
+<title>Data Mining Mechanisms in Knowledge Management System.</title>
+<pages>399-404</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#MengYCC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/R-MorenoPMMM02" mdate="2020-07-16">
+<author pid="74/170">Mar&#237;a Dolores Rodr&#237;guez-Moreno</author>
+<author pid="181/2663-3">Manuel Prieto 0003</author>
+<author pid="28/209">D. Daniel Meziat Luna</author>
+<author pid="95/351">Julio L. Medina</author>
+<author pid="87/3890">C. Martin</author>
+<title>Controlling and Testing a Space Instrument by an AI Planner.</title>
+<pages>405-409</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#R-MorenoPMMM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Oliver02" mdate="2017-02-02">
+<author pid="68/370">Jim R. Oliver</author>
+<title>A Training Environment for Automated Sales Agents to Learn Negotiation Strategies.</title>
+<pages>410-417</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Oliver02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SalemEKH02" mdate="2017-02-02">
+<author pid="s/ABMSalem">Abdel-Badeeh M. Salem</author>
+<author pid="87/2271">Taha ElAreef</author>
+<author pid="07/1695">Marwa F. Khater</author>
+<author pid="h/AboulEllaHassanien">Aboul Ella Hassanien</author>
+<title>A Density-Based Approach for Clustering Spatial Database.</title>
+<pages>418-423</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SalemEKH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Castro-SchezJMR02" mdate="2020-08-03">
+<author pid="c/JoseJesusCastroSchez">Jos&#233; Jes&#250;s Castro-Schez</author>
+<author pid="45/5802">Luis Jim&#233;nez 0001</author>
+<author pid="67/2537">Juan Moreno Garc&#237;a</author>
+<author pid="24/1296">Luis Rodriguez-Benitez</author>
+<title>Simple Decision Support System Based on Fuzzy Repertory Table.</title>
+<pages>424-430</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Castro-SchezJMR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/VallsMS02" mdate="2017-02-02">
+<author pid="51/6583">A&#239;da Valls</author>
+<author pid="82/6899">Antonio Moreno</author>
+<author pid="45/445-1">David S&#225;nchez 0001</author>
+<title>A Multi-Criteria Decision Aid Agent Applied to the Selection of the Best Receiver in a Transplant.</title>
+<pages>431-438</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#VallsMS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Vellido02" mdate="2017-02-02">
+<author pid="56/2108">Alfredo Vellido</author>
+<title>Neural Networks for B2C E-Commerce Analysis: Some Elements of Best Practice.</title>
+<pages>439-445</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Vellido02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ViaeneBDVP02" mdate="2017-02-02">
+<author pid="47/4707">Stijn Viaene</author>
+<author pid="43/4264">Bart Baesens</author>
+<author pid="42/2987">Guido Dedene</author>
+<author pid="90/2838">Jan Vanthienen</author>
+<author pid="82/419">Dirk Van den Poel</author>
+<title>Proof Running Two State-Of-The-Art Pattern Recognition Techniques in the Field of Direct Marketing.</title>
+<pages>446-454</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ViaeneBDVP02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Short Papers</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/CarvalhoDCDNA02" mdate="2017-02-02">
+<author pid="44/2843">Lucimar F. de Carvalho</author>
+<author pid="73/2018">Candice Abella S. Dani</author>
+<author pid="09/3872">Hugo J. T. de Carvalho</author>
+<author pid="70/2017">Diego Dozza</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="46/4892">Fernando Mendes de Azevedo</author>
+<title>Medical Data Base Exploration through Artificial Neural Networks.</title>
+<pages>455-459</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CarvalhoDCDNA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CostaA02" mdate="2022-10-28">
+<author pid="65/813">Carlos J. Costa</author>
+<author pid="97/768">Pedro Antunes 0001</author>
+<title>Evaluating EMS Value - The Case of a Small Accountancy Firm.</title>
+<pages>460-466</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CostaA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/DascaluGF02" mdate="2017-02-02">
+<author pid="31/3047">Monica Dascalu</author>
+<author pid="64/5591">Sergiu Goschin</author>
+<author pid="89/3353">Eduard Franti</author>
+<title>Using Cellular Automata in Traffic Modeling.</title>
+<pages>467-472</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#DascaluGF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/DelaitreGM02" mdate="2017-02-02">
+<author pid="26/5428">Sabine Dela&#238;tre</author>
+<author pid="92/3639">Alain Giboin</author>
+<author pid="05/1750">Sabine Moisan</author>
+<title>The AEX Method and Its Instrumentation.</title>
+<pages>473-481</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#DelaitreGM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/EstebanGJ02" mdate="2017-02-02">
+<author pid="d/AlbertoDiazEsteban">Alberto D&#237;az Esteban</author>
+<author pid="g/PabloGervas">Pablo Gerv&#225;s</author>
+<author pid="85/4158">Antonio Garc&#237;a Jim&#233;nez</author>
+<title>Improving Access to Multilingual Enterprise Information Systems with User Modelling Context Enriched Cross-Language IR.</title>
+<pages>482-487</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#EstebanGJ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GharibMT02" mdate="2019-11-06">
+<author pid="12/6615">Tarek F. Gharib</author>
+<author pid="11/5210">Mostafa G. Mostafa</author>
+<author pid="25/6592">Mohamed F. Tolba 0001</author>
+<title>High Dimensional Data Clustering Using SOFM And K-Means Algorithms.</title>
+<pages>488-493</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GharibMT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GnasaW02" mdate="2017-02-02">
+<author pid="42/188">Melanie Gnasa</author>
+<author pid="64/1221">Jens Woch</author>
+<title>Natural Language Interface to Knowledge Management Systems.</title>
+<pages>494-499</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GnasaW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/IglesiasMCCF02" mdate="2021-01-12">
+<author pid="02/0">Ana Iglesias</author>
+<author pid="m/PalomaMartinez">Paloma Mart&#237;nez</author>
+<author pid="c/DCuadra">Dolores Cuadra</author>
+<author pid="c/ECastro">Elena Castro</author>
+<author pid="147/3696">Fernando Fern&#225;ndez 0001</author>
+<title>Learning to Teach Database Design by Trial and Error.</title>
+<pages>500-505</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#IglesiasMCCF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MK02" mdate="2017-02-02">
+<author pid="40/2378">S. M. Michael</author>
+<author pid="54/5388">Deepak Khemani</author>
+<title>Knowledge Management in Manufacturing Technology: An A.I. Application in the Industry.</title>
+<pages>506-511</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#MK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SantosNASR02" mdate="2018-10-11">
+<author pid="87/1936">Manuel Filipe Santos</author>
+<author pid="84/5278">Jos&#233; Neves 0001</author>
+<author pid="02/3618">Ant&#243;nio Abelha</author>
+<author pid="75/1298">&#193;lvaro M. Silva</author>
+<author pid="78/65">Fernando Rua</author>
+<title>Augmented Data Mining over Clinical Databases Using Learning Classifier Systems.</title>
+<pages>512-516</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SantosNASR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/YooM02" mdate="2017-02-02">
+<author pid="95/3551">Min-Jung Yoo</author>
+<author pid="14/5284">Jean-Pierre M&#252;ller</author>
+<title>Using Multi-Agent System for Dynamic Job Shop Scheduling.</title>
+<pages>517-525</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#YooM02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Posters</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/KieltykaK02" mdate="2017-02-02">
+<author pid="04/2580">Leszek Kieltyka</author>
+<author pid="30/3082">Robert Kuceba</author>
+<title>The Application of Artificial Neural Networks for Heat Energy Use Prediction.</title>
+<pages>526-529</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#KieltykaK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LinyingSC02" mdate="2017-02-02">
+<author pid="12/3672">Su Linying</author>
+<author pid="55/1931">Bernadette Sharp</author>
+<author pid="03/4552">Claude C. Chibelushi</author>
+<title>Knowledge-Based Image Understanding: A Rule-Based Production System for X-Ray Segmentation.</title>
+<pages>530-533</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LinyingSC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/TanTS02" mdate="2017-02-02">
+<author pid="94/5700">Ling Tan</author>
+<author pid="t/DavidTaniar">David Taniar</author>
+<author pid="s/KateASmith">Kate A. Smith</author>
+<title>A Taxonomy for Inter-Model Parallelism in High Performance Data Mining.</title>
+<pages>534-539</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#TanTS02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+
+<h2>VOLUME II</h2> 
+<h3>Information Systems Analysis and Specification</h3> 
+<h4>Papers</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/AlmeidaR02" mdate="2019-08-06">
+<author pid="246/2245">Ana Sofia Almeida</author>
+<author pid="72/301">Licinio Roque</author>
+<title>Some Reflections on IS Development as Operator of Organisational Change.</title>
+<pages>543-552</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AlmeidaR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Audy02" mdate="2017-02-02">
+<author pid="65/674">Jorge Luis Nicolas Audy</author>
+<title>Analysis of the Relation between the Prescriptive and Descriptive Approaches of the Information System Planning.</title>
+<pages>553-561</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Audy02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BaranauskasSL02" mdate="2017-02-02">
+<author pid="b/MCCBaranauskas">Maria Cec&#237;lia Calani Baranauskas</author>
+<author pid="56/5454">Juliana P. Salles</author>
+<author pid="24/3947">Kecheng Liu</author>
+<title>Analysing Communication in the Context of a Software Production Organisation.</title>
+<pages>562-569</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BaranauskasSL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CesareLP02" mdate="2017-02-02">
+<author pid="59/5525">Sergio de Cesare</author>
+<author pid="62/1001">Mark Lycett</author>
+<author pid="p/DilipPatel">Dilip Patel</author>
+<title>Business Modelling with UML: Distilling Directions for Future Research.</title>
+<pages>570-579</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CesareLP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/DahchourP02" mdate="2017-12-30">
+<author pid="83/1372">Mohamed Dahchour</author>
+<author pid="48/4071">Alain Pirotte 0001</author>
+<title>The Semantics of Reifying n-ary Relationships as Classes.</title>
+<pages>580-586</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#DahchourP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Kadri-DahmaniO02" mdate="2017-02-02">
+<author pid="96/3600">Hakima Kadri-Dahmani</author>
+<author pid="15/5021">Aomar Osmani</author>
+<title>Updating Data in GIS: How to Maintain Database Consistency?</title>
+<pages>587-593</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Kadri-DahmaniO02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/FilhoL02" mdate="2017-02-02">
+<author pid="58/6822">Ivan Mathias Filho</author>
+<author pid="o/ToacyCavalcantedeOliveira">Toacy Cavalcante de Oliveira</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>A Proposal for the Incorporation of the Features Model into the UML Language.</title>
+<pages>594-601</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#FilhoL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GalatescuG02" mdate="2017-02-02">
+<author pid="00/3186">Alexandra Galatescu</author>
+<author pid="00/1775">Taisia Greceanu</author>
+<title>Ontologies Supporting Business Process Re-Engineering.</title>
+<pages>602-609</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GalatescuG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GarciaRPP02" mdate="2017-11-05">
+<author pid="18/8313-1">F&#233;lix Garc&#237;a 0001</author>
+<author pid="r/FranciscoRuiz1">Francisco Ruiz 0001</author>
+<author pid="p/MPiattini">Mario Piattini</author>
+<author pid="p/MPolo">Macario Polo</author>
+<title>Conceptual Architecture for the Assessme NT and Improvement of Software Maintenance.</title>
+<pages>610-617</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GarciaRPP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Hovanyi02" mdate="2017-02-02">
+<author pid="59/6404">D&#225;niel Hov&#225;nyi</author>
+<title>Reusable Component Extraction from Intellingent Network Management Applications.</title>
+<pages>618-626</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Hovanyi02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Hu02" mdate="2017-02-02">
+<author pid="37/2405">Zaijun Hu</author>
+<title>Semantic Augmentation through Ontology for XML Integration Server.</title>
+<pages>627-634</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Hu02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/KimT02" mdate="2017-02-02">
+<author pid="28/5851">Henry M. Kim</author>
+<author pid="52/3777">K. Donald Tham</author>
+<title>Designing Business Processes and Communication Structures for E-Business Using Ontology-Based Enterprise Models with Mathematical Models.</title>
+<pages>635-641</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#KimT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LaraV02" mdate="2017-02-02">
+<author pid="l/JuandeLara">Juan de Lara</author>
+<author pid="v/HansVangheluwe">Hans Vangheluwe</author>
+<title>Using AToM<sup>3</sup> as a Meta-Case Tool.</title>
+<pages>642-649</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LaraV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/OliveiraFL02" mdate="2017-02-02">
+<author pid="o/ToacyCavalcantedeOliveira">Toacy Cavalcante de Oliveira</author>
+<author pid="58/6822">Ivan Mathias Filho</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Frameworks - A High Level Instantiation Approach.</title>
+<pages>650-657</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#OliveiraFL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/PelechanoACP02" mdate="2021-01-18">
+<author pid="29/4995">Vicente Pelechano</author>
+<author pid="36/811">Manoli Albert</author>
+<author pid="70/659">Eva Campos</author>
+<author pid="p/OscarPastor">Oscar Pastor 0001</author>
+<title>Automating the Code Generation of Role Classes in OO Conceptual Schemas.</title>
+<pages>658-666</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#PelechanoACP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Poels02" mdate="2017-02-02">
+<author pid="72/6796">Geert Poels</author>
+<title>A Functional Size Measurement Method for Event-Based Objectoriented Enterprise Models.</title>
+<pages>667-675</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Poels02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/RoqueA02" mdate="2019-08-06">
+<author pid="72/301">Licinio Roque</author>
+<author pid="246/2245">Ana Sofia Almeida</author>
+<title>The Context Engineering Approach.</title>
+<pages>676-682</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#RoqueA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Snoeck02" mdate="2017-02-02">
+<author pid="70/2587">Monique Snoeck</author>
+<title>Sequence Constraints in Business Modelling and Business Process Modelling.</title>
+<pages>683-690</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Snoeck02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SteinauDRI02" mdate="2017-02-02">
+<author pid="07/6217">Sibylle Steinau</author>
+<author pid="16/55">Oscar D&#237;az</author>
+<author pid="50/1385">Juan J. Rodr&#237;guez</author>
+<author pid="89/2699">Felipe Ib&#225;&#241;ez</author>
+<title>A Tool for Assessing the Consistency of Websites.</title>
+<pages>691-698</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SteinauDRI02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/TrujilloLM02" mdate="2021-06-09">
+<author pid="50/2311">Juan Trujillo 0001</author>
+<author pid="l/SLujanMora">Sergio Luj&#225;n-Mora</author>
+<author pid="61/6787">Enrique Medina</author>
+<title>The Gold Model Case Tool: An Environment for Designing OLAP Applications.</title>
+<pages>699-707</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#TrujilloLM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ZairiA02" mdate="2017-02-02">
+<author pid="32/4753">Mohamed Zairi</author>
+<author pid="04/1051">Majed Al-Mashari</author>
+<title>An International Study of Benchmarking Spread and Maturity.</title>
+<pages>708-715</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ZairiA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/AllouiCO02" mdate="2017-02-02">
+<author pid="89/6602">Ilham Alloui</author>
+<author pid="89/6699">Sorana C&#238;mpan</author>
+<author pid="32/153">Fl&#225;vio Oquendo</author>
+<title>Taming Process Deviations by Logic Based Monitoring.</title>
+<pages>716-724</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AllouiCO02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Short Papers</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/Abe02" mdate="2017-02-02">
+<author pid="59/2505">Akihiro Abe</author>
+<title>Applying Domain Modeling and SECI Theory in Knowledge Management for Information Systems Analysis.</title>
+<pages>725-731</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Abe02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BiderK02" mdate="2017-02-02">
+<author pid="27/111">Ilia Bider</author>
+<author pid="31/4151">Maxim Khomyakov</author>
+<title>If You Wish to Change the World, Start with Yourself.</title>
+<pages>732-742</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BiderK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Dedene02" mdate="2017-02-02">
+<author pid="42/2987">Guido Dedene</author>
+<title>On the Use of Jackson Structured Programming (JSP) for the Structured Design of XSL Transformations.</title>
+<pages>743-751</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Dedene02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/HanlonS02" mdate="2017-02-02">
+<author pid="78/593">S. Hanlon</author>
+<author pid="27/6791">L. Sun</author>
+<title>A Framework for the Dynamic Alignment of Strategies.</title>
+<pages>752-757</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#HanlonS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/IochpeT02" mdate="2017-02-02">
+<author pid="74/6730">Cirano Iochpe</author>
+<author pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<title>Inferring Aspects of the Organizational Structure through Workflow Process Analysis.</title>
+<pages>758-763</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#IochpeT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LiuL02" mdate="2017-02-02">
+<author pid="43/6529">Huiqing Liu</author>
+<author pid="76/6825">Tecksin Lim</author>
+<title>A Knowledge Object Oriented System for High Throughput Collection and Analysis of Data.</title>
+<pages>764-769</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LiuL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LuzuriagaMC02" mdate="2017-02-02">
+<author pid="93/5200">Juan M. Luzuriaga</author>
+<author pid="51/5879">Rodolfo Mart&#237;nez</author>
+<author pid="87/554">Alejandra Cechich</author>
+<title>Managing Enterprise Communication Networks to Improve the Requirements Elicitation Process.</title>
+<pages>770-775</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LuzuriagaMC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/NikolaidouA02" mdate="2017-02-02">
+<author pid="65/2690">Mara Nikolaidou</author>
+<author pid="29/806">Dimosthenis Anagnostopoulos</author>
+<title>Introducing Business Process Automation in Dynamic Banking Activities.</title>
+<pages>776-781</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#NikolaidouA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Sierra-AlonsoCMP02" mdate="2017-02-02">
+<author pid="03/4965">Almudena Sierra-Alonso</author>
+<author pid="95/2798">Paloma C&#225;ceres</author>
+<author pid="m/EsperanzaMarcos">Esperanza Marcos</author>
+<author pid="34/5830">Jorge Enrique P&#233;rez-Mart&#237;nez</author>
+<title>Incorporating Knowledge Engineering Techniques to Requirements Capture in the MIDAS Web Applications Development Process.</title>
+<pages>782-787</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Sierra-AlonsoCMP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/TurkiL02" mdate="2017-02-02">
+<author pid="34/4097">Slim Turki</author>
+<author pid="15/1594">Michel L&#233;onard</author>
+<title>Hyperclasses.</title>
+<pages>788-794</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#TurkiL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/WeghornGW02" mdate="2017-02-02">
+<author pid="w/HansWeghorn">Hans Weghorn</author>
+<author pid="93/425">Carolin Gaum</author>
+<author pid="86/4135">Daniel Wloczka</author>
+<title>Linking Mobile Network Services to Internet Mail.</title>
+<pages>795-798</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#WeghornGW02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Posters</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/AminP02" mdate="2017-02-02">
+<author pid="91/432">Tauqir Amin</author>
+<author pid="91/6061">Hung Keng Pung</author>
+<title>Inter-Organizational Workflow Management in Virtual Healthcare Enterprises.</title>
+<pages>799-802</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AminP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CastelaTGL02" mdate="2017-02-02">
+<author pid="27/6301">Nuno Castela</author>
+<author pid="13/1896">Jos&#233; M. Tribolet</author>
+<author pid="98/3156">Arminda Guerra</author>
+<author pid="64/3890">Eurico R. Lopes</author>
+<title>Survey, Analysis and Validation of Information for Business Process Modeling.</title>
+<pages>803-806</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CastelaTGL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/EncisoM02" mdate="2022-09-23">
+<author pid="e/ManuelEnciso">Manuel Enciso</author>
+<author pid="69/5225">&#193;ngel Mora 0001</author>
+<title>FD3: A Functional Dependencies Data Dictionary.</title>
+<pages>807-810</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#EncisoM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GarzasP02" mdate="2017-02-02">
+<author pid="06/4589">Javier Garz&#225;s</author>
+<author pid="p/MPiattini">Mario Piattini</author>
+<title>Beyond Object Oriented Design Patterns.</title>
+<pages>811-814</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GarzasP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GuerreroOHF02" mdate="2019-03-29">
+<author pid="14/2067">Luis A. Guerrero</author>
+<author pid="58/3679">Sergio F. Ochoa</author>
+<author pid="31/3965">Oriel A. Herrera</author>
+<author pid="89/5972-1">David A. Fuller 0001</author>
+<title>Mediated Communication in Groupware Systems.</title>
+<pages>815-818</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GuerreroOHF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Al-JumailyCM02" mdate="2017-02-02">
+<author pid="27/3187">Harith T. Al-Jumaily</author>
+<author pid="c/DCuadra">Dolores Cuadra</author>
+<author pid="m/PalomaMartinez">Paloma Mart&#237;nez</author>
+<title>An Execution Model for Preserving Cardinality Constraints in the Relational Model.</title>
+<pages>819-822</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Al-JumailyCM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/KamogawaM02" mdate="2017-02-02">
+<author pid="05/2614">Takaaki Kamogawa</author>
+<author pid="63/3929">Masao J. Matsumoto</author>
+<title>Towards a New Business Process Architecture.</title>
+<pages>823-829</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#KamogawaM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/PrikladnickiPAMP02" mdate="2017-02-02">
+<author pid="39/5605">Rafael Prikladnicki</author>
+<author pid="49/4708">Fernando Peres</author>
+<author pid="65/674">Jorge Luis Nicolas Audy</author>
+<author pid="90/1511">Michael da Costa M&#243;ra</author>
+<author pid="15/490">Ant&#244;nio Perdigoto</author>
+<title>Requirements Specification Model in a Software Development Process inside a Physically Distributed Environment.</title>
+<pages>830-834</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#PrikladnickiPAMP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ReisA02" mdate="2017-02-02">
+<author pid="51/270">Leonilde Reis</author>
+<author pid="53/1772">Luis Alfredo Martins do Amaral</author>
+<title>Integrated Planning of Information Systems and Contingency and Recovery.</title>
+<pages>835-837</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ReisA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Rodriguez-Luna02" mdate="2017-02-02">
+<author pid="22/6772">Manuela Rodr&#237;guez-Luna</author>
+<title>Stemming Process in Spanish Words with the Successor Variety Method. Methodology and Result.</title>
+<pages>838-842</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Rodriguez-Luna02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SalimifardW02" mdate="2017-02-02">
+<author pid="06/2335">Khodakaram Salimifard</author>
+<author pid="52/475">Mike Wright</author>
+<title>Modelling and Performance Analysis of Workflow Management Systems Using Timed Hierarchical Coloured Petri Nets.</title>
+<pages>843-846</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SalimifardW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SalterL02" mdate="2017-02-02">
+<author pid="67/461">Andy Salter</author>
+<author pid="24/3947">Kecheng Liu</author>
+<title>Using Semantic Analysis and Norm Analysis to Model Organisations.</title>
+<pages>847-850</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SalterL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SatoH02" mdate="2017-02-02">
+<author pid="97/5">Ryo Sato</author>
+<author pid="99/5309">Kentaro Hori</author>
+<title>Developing Quick Iterative Process Prototyping for Project Management: Linking ERP and BPE.</title>
+<pages>851-854</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SatoH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Al-TahatISY02" mdate="2017-02-02">
+<author pid="10/3491">Khalid Suliman Al-Tahat</author>
+<author pid="55/7040">Sufian Bin Idris</author>
+<author pid="23/1115">Tengku M. T. Sembok</author>
+<author pid="29/171">Mohamed Yousof</author>
+<title>Using Hot-Spot-Driven Approach in the Development of a Framework for Multimedia Presentation on the Web.</title>
+<pages>855-860</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Al-TahatISY02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Internet Computing and Electronic Commerce</h3> 
+<h4>Papers</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/AlvarezAC02" mdate="2017-02-02">
+<author pid="41/2394">Abraham Alvarez</author>
+<author pid="69/1988">Youssef Amghar</author>
+<author pid="c/RichardChbeir">Richard Chbeir</author>
+<title>Managing XML-Link Integrity for Structured Technical Documents.</title>
+<pages>863-870</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AlvarezAC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ArribaB02" mdate="2017-02-02">
+<author pid="08/6027">Marta Fern&#225;ndez de Arriba</author>
+<author pid="34/798">Jos&#233; Antonio L&#243;pez Brugos</author>
+<title>Usability and Accessibility in the Specification of Web Sites.</title>
+<pages>871-876</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ArribaB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/AshB02" mdate="2017-02-02">
+<author pid="67/2105">Colin G. Ash</author>
+<author pid="03/3679">Janice M. Burn</author>
+<title>Staged Implementation of E-Business Networks through ERP.</title>
+<pages>877-884</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#AshB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BelsisGS02" mdate="2017-02-02">
+<author pid="08/1034">Meletis A. Belsis</author>
+<author pid="30/6670">Anthony N. Godwin</author>
+<author pid="62/5939">Leonid Smalov</author>
+<title>An Enterprise IT Security Data Model.</title>
+<pages>885-891</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BelsisGS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Bruque02" mdate="2017-02-02">
+<author pid="58/3923">Sebasti&#225;n Bruque C&#225;mara</author>
+<title>Internet Technology as a Business Tool.</title>
+<pages>892-899</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Bruque02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Payeras-CapellaFR02" mdate="2017-02-02">
+<author pid="10/3499">Magdalena Payeras-Capell&#224;</author>
+<author pid="03/5029">Josep Llu&#237;s Ferrer-Gomila</author>
+<author pid="44/17">Lloren&#231; Huguet i Rotger</author>
+<title>ITHAKI: Fair N-Transferable Anonymous Cash.</title>
+<pages>900-907</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Payeras-CapellaFR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ChenS02" mdate="2017-02-02">
+<author pid="12/4655">M. F. Chen</author>
+<author pid="45/5929">M. K. Shan</author>
+<title>Virtual Mall of E-Commerce Web Sites.</title>
+<pages>908-914</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ChenS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Heng02" mdate="2017-02-02">
+<author pid="92/6094">Michael S. H. Heng</author>
+<title>Rethinking the Strategy of Amazon.com.</title>
+<pages>915-921</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Heng02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/HoyleSR02" mdate="2017-02-02">
+<author pid="48/16">I. Hoyle</author>
+<author pid="27/6791">L. Sun</author>
+<author pid="77/1281">Stephen J. Rees</author>
+<title>The Design of an XML E-Business Applications Framework.</title>
+<pages>922-928</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#HoyleSR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/JahankhaniA02" mdate="2017-02-02">
+<author pid="69/4725">Hamid Jahankhani</author>
+<author pid="64/3120">Solomon A. Alexis</author>
+<title>E-Commerce Business Practices in the EU.</title>
+<pages>929-936</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#JahankhaniA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/KelkarLS02" mdate="2017-02-02">
+<author pid="11/2045">Oliver Kelkar</author>
+<author pid="l/JorgLeukel">J&#246;rg Leukel</author>
+<author pid="82/6952">Volker Schmitz</author>
+<title>Towards Extended Price Models in XML Standards for Electronic Product Catalogs.</title>
+<pages>937-945</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#KelkarLS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LaraA02" mdate="2021-01-19">
+<author pid="l/JuandeLara">Juan de Lara</author>
+<author pid="a/MAlfonsecaM">Manuel Alfonseca 0001</author>
+<title>Hierarchical Visualization in a Simulation-Based Educational Multimedia Web System.</title>
+<pages>946-953</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LaraA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LawsAT02" mdate="2017-02-02">
+<author pid="l/AndyLaws">Andy Laws</author>
+<author pid="63/6207">M. Allen</author>
+<author pid="28/2313">A. Taleb-Bendiab</author>
+<title>Normative Services for Self-Adaptive Software to Support Dependable Enterprise Information Systems.</title>
+<pages>954-961</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LawsAT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MatsuuraI02" mdate="2017-02-02">
+<author pid="43/2398">Kanta Matsuura</author>
+<author pid="14/1398">Hideki Imai</author>
+<title>Digital Timestamps for Dispute Settlement in Electronic Commerce: Generation, Verification, and Renewal.</title>
+<pages>962-967</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#MatsuuraI02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/PantiSTV02" mdate="2017-02-02">
+<author pid="31/4106">Maurizio Panti</author>
+<author pid="83/522">Luca Spalazzi</author>
+<author pid="53/3243">Simone Tacconi</author>
+<author pid="65/5215">Salvatore Valenti</author>
+<title>Automatic Verification of Security in Payment Protocols for Electronic Commerce.</title>
+<pages>968-974</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#PantiSTV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Petit02" mdate="2017-02-02">
+<author pid="50/5777">Nathalie Petit</author>
+<title>A Method for WIS Centered on Users Goals.</title>
+<pages>975-980</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Petit02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/PivkG02" mdate="2017-02-02">
+<author pid="46/1496">Aleksander Pivk</author>
+<author pid="43/1312">Matjaz Gams</author>
+<title>A Semi-Universal E-Commerce Agent.</title>
+<pages>981-988</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#PivkG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Reyes-MoroRLCG02" mdate="2017-02-02">
+<author pid="28/497">Antonio Reyes-Moro</author>
+<author pid="04/6342">Juan A. Rodr&#237;guez-Aguilar</author>
+<author pid="29/2991">Maite L&#243;pez-S&#225;nchez</author>
+<author pid="64/1921">Jes&#250;s Cerquides</author>
+<author pid="95/6710">D. Gutierrez-Magallanes</author>
+<title><i>Quotes</i>: A Negotiation Tool for Industrial E-Procurement.</title>
+<pages>989-994</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Reyes-MoroRLCG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CortesCD02" mdate="2017-02-02">
+<author pid="c/AntonioRuizCortes">Antonio Ruiz Cort&#233;s</author>
+<author pid="73/3776">Rafael Corchuelo</author>
+<author pid="d/ADuranToro">Amador Dur&#225;n</author>
+<title>An Automated Approach to Quality-Aware Web Applications.</title>
+<pages>995-1000</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CortesCD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SerraoM02" mdate="2017-02-02">
+<author pid="46/1950">Carlos Serr&#227;o</author>
+<author pid="90/3537">Joaquim Marques</author>
+<title>IM@GIX: An Electronic Commerce Digital Image Bank.</title>
+<pages>1001-1008</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SerraoM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Sihvonen02" mdate="2017-02-02">
+<author pid="09/1189">Markus Sihvonen</author>
+<title>Profile Negotiation Requirements in a Mobile Middleware Service Environment.</title>
+<pages>1009-1015</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Sihvonen02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LiK02" mdate="2017-02-02">
+<author pid="99/2570">Qiubang Li</author>
+<author pid="60/88">Rajiv Khosla</author>
+<title>Intelligent Agent-Based Framework for Mining Customer Buying Habits in E-Commerce.</title>
+<pages>1016-1022</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#LiK02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Short Papers</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/BurbridgeMS02" mdate="2017-02-02">
+<author pid="66/4265">Trevor Burbridge</author>
+<author pid="64/4764">Jonathan Mitchener</author>
+<author pid="47/5825">Ben Strulo</author>
+<title>The &#34;Shared Data Approach&#34; to the Integration of Dynamic Business Enterprises.</title>
+<pages>1023-1028</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BurbridgeMS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ConstantinouTKTK02" mdate="2017-02-02">
+<author pid="08/23">Anastasia Constantinou</author>
+<author pid="15/3116">Vassilios Tsakalos</author>
+<author pid="14/616">Philippos Koutsakas</author>
+<author pid="16/898">Dimitrios Tektonidis</author>
+<author pid="45/5355">Adamantios Koumpis</author>
+<title>An E-Service Infrastructure for Innovation Exploitation and Technology Transfer: The DILEMMA Project.</title>
+<pages>1029-1034</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ConstantinouTKTK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GarciaBHGL02" mdate="2017-02-02">
+<author pid="71/6979">Francisco Jos&#233; Garc&#237;a-Pe&#241;alvo</author>
+<author pid="01/1291">I. Borrego</author>
+<author pid="37/6775">M. J. Hern&#225;ndez</author>
+<author pid="187/8815">Ana Bel&#233;n Gil</author>
+<author pid="08/4072">Miguel A. Laguna</author>
+<title>An E-Commerce Model for Small and Medium Enterprises.</title>
+<pages>1035-1041</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GarciaBHGL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/JahankhaniJ02" mdate="2017-02-02">
+<author pid="69/4725">Hamid Jahankhani</author>
+<author pid="55/1853">Pari Jahankhani</author>
+<title>Distributed Online Doctor Surgery.</title>
+<pages>1042-1047</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#JahankhaniJ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MahmoudV02" mdate="2017-02-02">
+<author pid="m/QusayHMahmoud">Qusay H. Mahmoud</author>
+<author pid="79/597">Luminita Vasiu</author>
+<title>Accessing and Using Internet Services from Java-Enabled Handheld Wireless Devices.</title>
+<pages>1048-1053</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#MahmoudV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/RogersCR02" mdate="2017-02-02">
+<author pid="83/4047">Mike Rogers</author>
+<author pid="57/2597">Thomas Chesney</author>
+<author pid="17/6576">Scott Raeburn</author>
+<title>E-Procurement in a Rural Area.</title>
+<pages>1054-1057</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#RogersCR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/RuizEGG02" mdate="2017-02-02">
+<author pid="59/3905">Irene Luque Ruiz</author>
+<author pid="40/4787">Enrique L&#243;pez Espinosa</author>
+<author pid="68/5053">Gonzalo Cerruela Garc&#237;a</author>
+<author pid="13/2544">Miguel &#193;ngel G&#243;mez-Nieto</author>
+<title>A System Based on Preferences for Aid to the Purchase Decision.</title>
+<pages>1058-1063</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#RuizEGG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SongLK02" mdate="2017-02-02">
+<author pid="88/3812">Eun-Jung Song</author>
+<author pid="70/2792">Ho-Song Lee</author>
+<author pid="15/609">Taeck-Geun Kwon</author>
+<title>Design and Implementation of a Message Service Handler for EBXML.</title>
+<pages>1064-1069</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#SongLK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/VasiuM02" mdate="2017-02-02">
+<author pid="79/597">Luminita Vasiu</author>
+<author pid="39/5207">Alan Murphy</author>
+<title>Design Requirements for Mobile Agent Systems.</title>
+<pages>1070-1079</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#VasiuM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CarballoDC02" mdate="2021-07-07">
+<author pid="49/6878">Juan Carlos Diaz y Carballo</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<title>Thin Servers - An Architecture to Support Arbitrary Placement of Computation in the Internet.</title>
+<pages>1080-1085</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#CarballoDC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/HuangH02" mdate="2017-02-02">
+<author pid="36/994">Kaiyin Huang</author>
+<author pid="59/6724">Kaidong Huang</author>
+<title>Managing Security in Electronic Business.</title>
+<pages>1086-1091</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#HuangH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ToffolonD02" mdate="2017-02-02">
+<author pid="96/4594">Claudine Toffolon</author>
+<author pid="50/3167">Salem Dakhli</author>
+<title>A Global Model of Electronic Commerce.</title>
+<pages>1092-1098</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#ToffolonD02</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h4>Posters</h4> 
+<dblpcites><r><inproceedings key="conf/iceis/Chandramouli02" mdate="2017-02-02">
+<author pid="10/2481">C. Chandramouli</author>
+<title>SRIUI Model: A Design Centric Approach to User Interfaces for Shopping Carts with Emphasis on Intelligence.</title>
+<pages>1099-1102</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Chandramouli02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/NovaisBN02" mdate="2018-09-24">
+<author pid="77/2321">Paulo Novais</author>
+<author pid="37/1641">Lu&#237;s Brito</author>
+<author pid="84/5278">Jos&#233; Neves 0001</author>
+<title>The Concepts of Gratitude, Delegation and Agreement in Ecenvironments.</title>
+<pages>1103-1106</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#NovaisBN02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/VontasKAKHMV02" mdate="2017-02-02">
+<author pid="55/2031">Apostolos Vontas</author>
+<author pid="14/616">Philippos Koutsakas</author>
+<author pid="24/1479">Christina Athanasopoulou</author>
+<author pid="45/5355">Adamantios Koumpis</author>
+<author pid="54/3003">Panos Hatzaras</author>
+<author pid="m/YManolopoulos">Yannis Manolopoulos</author>
+<author pid="05/1759">Michael Vassilakopoulos</author>
+<title>Integrating Mobile Agent Infrastructures in Operational ERP Systems.</title>
+<pages>1107-1110</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#VontasKAKHMV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BlythCS02" mdate="2017-02-02">
+<author pid="74/1840">Andrew Blyth</author>
+<author pid="26/98">Daniel Cunliffe</author>
+<author pid="20/3428">Iain Sutherland</author>
+<title>XEON - An Architecture for an XML Enabled Firewall.</title>
+<pages>1111-1116</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#BlythCS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/Burden02" mdate="2017-02-02">
+<author pid="58/4302">Peter Burden</author>
+<title>The Webocracy Project.</title>
+<pages>1117-1121</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#Burden02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GhasemiyehL02" mdate="2017-02-02">
+<author pid="62/3516">Rahim Ghasemiyeh</author>
+<author pid="92/2954">Feng Li</author>
+<title>Introduction to Information Technology and its Effects on Organisational Control.</title>
+<pages>1122-1125</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#GhasemiyehL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/OuziriV02" mdate="2017-02-02">
+<author pid="37/5056">Mourad Ouziri</author>
+<author pid="v/ChristineVerdier">Christine Verdier</author>
+<title>Logic and Probabilistic Based Approach for Document Data Modeling.</title>
+<pages>1126-1129</pages>
+<year>2002</year>
+<crossref>conf/iceis/2002</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis2002.html#OuziriV02</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

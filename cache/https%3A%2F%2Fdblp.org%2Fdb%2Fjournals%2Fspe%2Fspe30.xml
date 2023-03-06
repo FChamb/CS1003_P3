@@ -1,0 +1,975 @@
+<bht key="db/journals/spe/spe30.bht" title="Software - Practice and Experience, Volume 30, 2000">  
+<h1><ref href="db/journals/spe/index.html">Software - Practice and Experience (SPE)</ref>, Volume 30, 2000</h1> 
+<h2>Volume 30, Number 1, January 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/GaertnerT00" mdate="2020-04-09">
+<author pid="35/3545">Nathalie Gaertner</author>
+<author pid="37/1163">Bernard Thirion</author>
+<title>A framework for fuzzy knowledge based control.</title>
+<pages>1-15</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe30.html#GaertnerT00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200001)30:1&#60;1::AID-SPE288&#62;3.0.CO;2-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/GoswamiMC00" mdate="2020-04-09">
+<author pid="06/6115">Diganta Goswami</author>
+<author pid="83/954">Rajib Mall</author>
+<author pid="88/890">Prosenjit Chatterjee</author>
+<title>Static slicing in Unix process environment.</title>
+<pages>17-36</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe30.html#GoswamiMC00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200001)30:1&#60;17::AID-SPE290&#62;3.0.CO;2-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Darmont00" mdate="2020-04-09">
+<author pid="d/JeromeDarmont">J&#233;r&#244;me Darmont</author>
+<title>DESP-C++: a discrete-event simulation package for C++.</title>
+<pages>37-60</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe30.html#Darmont00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200001)30:1&#60;37::AID-SPE291&#62;3.0.CO;2-Y</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/TraceyCMM00" mdate="2023-01-30">
+<author pid="82/3867">Nigel J. Tracey</author>
+<author pid="c/JohnAClark">John A. Clark</author>
+<author pid="90/6596">Keith Mander</author>
+<author pid="04/1777">John A. McDermid</author>
+<title>Automated test-data generation for exception conditions.</title>
+<pages>61-79</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<url>db/journals/spe/spe30.html#TraceyCMM00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200001)30:1&#60;61::AID-SPE292&#62;3.0.CO;2-9</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 2, February 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/Richter00" mdate="2020-04-09">
+<author pid="50/1521">Mathias W. Richter</author>
+<title>Iava: yet another interpreter for scripting within the Java platform.</title>
+<pages>81-106</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe30.html#Richter00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200002)30:2&#60;81::AID-SPE287&#62;3.0.CO;2-Q</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Vo00" mdate="2020-04-09">
+<author pid="27/5515">Kiem-Phong Vo</author>
+<title>The discipline and method architecture for reusable libraries.</title>
+<pages>107-128</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe30.html#Vo00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200002)30:2&#60;107::AID-SPE289&#62;3.0.CO;2-D</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/TonellaAFC00" mdate="2020-04-09">
+<author pid="54/2734">Paolo Tonella</author>
+<author pid="73/3515">Giuliano Antoniol</author>
+<author pid="19/667">Roberto Fiutem</author>
+<author pid="54/6512">F. Calzolari</author>
+<title>Reverse engineering 4.7 million lines of code.</title>
+<pages>129-150</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe30.html#TonellaAFC00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200002)30:2&#60;129::AID-SPE293&#62;3.0.CO;2-M</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/AritsugiM00" mdate="2020-04-09">
+<author orcid="0000-0003-0861-849X" pid="86/3844">Masayoshi Aritsugi</author>
+<author pid="29/5712">Akifumi Makinouchi</author>
+<title>Multiple-type objects in an enhanced C++ persistent programming language.</title>
+<pages>151-174</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>2</number>
+<url>db/journals/spe/spe30.html#AritsugiM00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200002)30:2&#60;151::AID-SPE295&#62;3.0.CO;2-0</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 3, March 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/ChouC00" mdate="2020-04-09">
+<author pid="29/5022">Shih-Chien Chou</author>
+<author pid="11/1184">Jason Jen-Yen Chen</author>
+<title>Process program change control in a process environment.</title>
+<pages>175-197</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe30.html#ChouC00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200003)30:3&#60;175::AID-SPE294&#62;3.0.CO;2-M</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/FitzgeraldKRST00" mdate="2020-04-09">
+<author pid="43/1260">Robert P. Fitzgerald</author>
+<author pid="06/4003">Todd B. Knoblock</author>
+<author pid="r/ErikRuf">Erik Ruf</author>
+<author pid="s/BjarneSteensgaard">Bjarne Steensgaard</author>
+<author pid="91/6365">David Tarditi</author>
+<title>Marmot: an optimizing compiler for Java.</title>
+<pages>199-232</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe30.html#FitzgeraldKRST00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200003)30:3&#60;199::AID-SPE296&#62;3.0.CO;2-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/SchaerfCL00" mdate="2020-04-09">
+<author orcid="0000-0001-6965-0536" pid="73/2861">Andrea Schaerf</author>
+<author pid="c/MarcoCadoli">Marco Cadoli</author>
+<author orcid="0000-0003-2875-6187" pid="l/MLenzerini">Maurizio Lenzerini</author>
+<title>LOCAL++: A C++ framework for local search algorithms.</title>
+<pages>233-257</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe30.html#SchaerfCL00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200003)30:3&#60;233::AID-SPE297&#62;3.0.CO;2-K</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/BrandJKO00" mdate="2020-04-09">
+<author pid="v/MarkvandenBrand">Mark van den Brand</author>
+<author pid="j/HaycodeJong">H. A. de Jong</author>
+<author pid="k/PaulKlint">Paul Klint</author>
+<author pid="93/6263">Pieter A. Olivier</author>
+<title>Efficient annotated terms.</title>
+<pages>259-291</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe30.html#BrandJKO00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200003)30:3&#60;259::AID-SPE298&#62;3.0.CO;2-Y</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 4, April 2000</h2> Persistent Object Systems 
+<dblpcites><r style="ee"><article key="journals/spe/HoskingC00" mdate="2020-04-09">
+<author pid="h/AntonyLHosking">Antony L. Hosking</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<title>Persistent object systems.</title>
+<pages>293-294</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe30.html#HoskingC00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000410)30:4&#60;293::AID-SPE300&#62;3.0.CO;2-Y</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/DearleH00" mdate="2020-04-09">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="89/4105">David Hulse</author>
+<title>Operating system support for persistent systems: past, present and future.</title>
+<pages>295-324</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe30.html#DearleH00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000410)30:4&#60;295::AID-SPE301&#62;3.0.CO;2-P</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Daynes00" mdate="2020-04-09">
+<author pid="d/LaurentDaynes">Laurent Dayn&#232;s</author>
+<title>Implementation of automated fine-granularity locking in a persistent programming language.</title>
+<pages>325-361</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe30.html#Daynes00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000410)30:4&#60;325::AID-SPE302&#62;3.0.CO;2-Q</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/MorrisonBGKMMW00" mdate="2021-11-16">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="03/427">Dharini Balasubramaniam</author>
+<author pid="186/9155">Robert Mark Greenwood</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="m/KennethRMayes">Ken Mayes</author>
+<author pid="m/DavidSMunro">David S. Munro</author>
+<author pid="20/6708">Brian Warboys</author>
+<title>A compliant persistent architecture.</title>
+<pages>363-386</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe30.html#MorrisonBGKMMW00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000410)30:4&#60;363::AID-SPE303&#62;3.0.CO;2-P</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/HumphriesKWZ00" mdate="2020-04-09">
+<author pid="40/6708">Thorna O. Humphries</author>
+<author pid="51/6212">Artur Klauser</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<author pid="z/BGZorn">Benjamin G. Zorn</author>
+<title>An infrastructure for generating and sharing experimental workloads for persistent object systems.</title>
+<pages>387-417</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe30.html#HumphriesKWZ00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000410)30:4&#60;387::AID-SPE304&#62;3.0.CO;2-8</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/YangWNMB00" mdate="2021-10-30">
+<author pid="64/5141-1">Jiong Yang 0001</author>
+<author pid="w/WeiWang">Wei Wang 0010</author>
+<author pid="n/SilviaNittel">Silvia Nittel</author>
+<author pid="m/RichardRMuntz">Richard R. Muntz</author>
+<author pid="97/3681">Vince Busam</author>
+<title>Dynamo: design, implementation, and evaluation of cooperative persistent object management in a local area network.</title>
+<pages>419-448</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe30.html#YangWNMB00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000410)30:4&#60;419::AID-SPE305&#62;3.0.CO;2-3</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/MarquezZB00" mdate="2023-01-13">
+<author pid="75/4088">Alonso Marquez</author>
+<author pid="187/7247">John N. Zigman</author>
+<author orcid="0000-0001-6632-6001" pid="b/StephenMBlackburn">Stephen M. Blackburn</author>
+<title>Fast portable orthogonally persistent Java.</title>
+<pages>449-479</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>4</number>
+<url>db/journals/spe/spe30.html#MarquezZB00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000410)30:4&#60;449::AID-SPE306&#62;3.0.CO;2-Y</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 5, April 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/FrickGNZ00" mdate="2020-04-09">
+<author pid="90/1466">Arne Frick</author>
+<author pid="g/GerhardGoos">Gerhard Goos</author>
+<author pid="42/6469">Rainer Neumann</author>
+<author pid="z/WolfZimmermann">Wolf Zimmermann</author>
+<title>Construction of robust class hierarchies.</title>
+<pages>481-543</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe30.html#FrickGNZ00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000425)30:5&#60;481::AID-SPE299&#62;3.0.CO;2-S</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/BoussinotS00" mdate="2020-04-09">
+<author pid="71/5457">Fr&#233;d&#233;ric Boussinot</author>
+<author pid="49/6240">Jean-Ferdy Susini</author>
+<title>Java threads and SugarCubes.</title>
+<pages>545-566</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe30.html#BoussinotS00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000425)30:5&#60;545::AID-SPE308&#62;3.0.CO;2-Q</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/CortesBC00" mdate="2022-06-14">
+<author pid="c/ToniCortes">Toni Cortes</author>
+<author pid="99/581">Yolanda Becerra 0001</author>
+<author pid="05/1221">Ra&#250;l Cervera</author>
+<title>Swap compression: resurrecting old ideas.</title>
+<pages>567-587</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>5</number>
+<url>db/journals/spe/spe30.html#CortesBC00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000425)30:5&#60;567::AID-SPE312&#62;3.0.CO;2-Z</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 6, May 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/BallesterosJPKAC00" mdate="2020-04-09">
+<author pid="20/32">Francisco J. Ballesteros</author>
+<author pid="40/4806">Ricardo Jim&#233;nez-Peris</author>
+<author pid="97/3041">Marta Pati&#241;o-Mart&#237;nez</author>
+<author pid="k/FabioKon">Fabio Kon</author>
+<author pid="22/4937">Sergio Ar&#233;valo</author>
+<author pid="c/RoyHCampbell">Roy H. Campbell</author>
+<title>Using interpreted CompositeCalls to improve operating system services.</title>
+<pages>589-615</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe30.html#BallesterosJPKAC00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200005)30:6&#60;589::AID-SPE307&#62;3.0.CO;2-K</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Valois00" mdate="2020-04-09">
+<author pid="62/4774">John D. Valois</author>
+<title>Introspective sorting and selection revisited.</title>
+<pages>617-638</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe30.html#Valois00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200005)30:6&#60;617::AID-SPE311&#62;3.0.CO;2-A</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/ChawlaB00" mdate="2020-04-09">
+<author pid="20/6670">Rohit Chawla</author>
+<author pid="33/3086">Steve Baumel</author>
+<title>Managing more physical with less virtual.</title>
+<pages>639-661</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe30.html#ChawlaB00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200005)30:6&#60;639::AID-SPE310&#62;3.0.CO;2-5</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/CoulsonB00" mdate="2020-04-09">
+<author pid="c/GeoffCoulson">Geoff Coulson</author>
+<author pid="00/6724">Shakuntala Baichoo</author>
+<title>Experiences in implementing a distributed object platform for multimedia applications.</title>
+<pages>663-683</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe30.html#CoulsonB00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200005)30:6&#60;663::AID-SPE313&#62;3.0.CO;2-B</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/RineN00" mdate="2020-04-09">
+<author pid="46/827">David C. Rine</author>
+<author pid="03/2391">Nader Nada</author>
+<title>Three empirical studies of a software reuse reference model.</title>
+<pages>685-722</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe30.html#RineN00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200005)30:6&#60;685::AID-SPE316&#62;3.0.CO;2-V</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 7, June 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/Buyya00" mdate="2020-04-09">
+<author pid="b/RajkumarBuyya">Rajkumar Buyya</author>
+<title>PARMON: a portable and scalable monitoring system for clusters.</title>
+<pages>723-739</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe30.html#Buyya00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200006)30:7&#60;723::AID-SPE314&#62;3.0.CO;2-5</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/StankovicZ00" mdate="2020-09-29">
+<author pid="12/7026">Nenad Stankovic</author>
+<author pid="29/177-1">Kang Zhang 0001</author>
+<title>An evaluation of Java implementations of message-passing.</title>
+<pages>741-763</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe30.html#StankovicZ00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200006)30:7&#60;741::AID-SPE315&#62;3.0.CO;2-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Wu00" mdate="2020-04-09">
+<author pid="85/2314">Pei-Chi Wu</author>
+<title>Transition from national standards to Unicode: multilingual support in operating systems and programming languages.</title>
+<pages>765-774</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe30.html#Wu00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200006)30:7&#60;765::AID-SPE317&#62;3.0.CO;2-N</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/BushPS00" mdate="2020-04-09">
+<author pid="25/4642">William R. Bush</author>
+<author pid="p/JDPincus">Jonathan D. Pincus</author>
+<author pid="61/2758">David J. Sielaff</author>
+<title>A static analyzer for finding dynamic programming errors.</title>
+<pages>775-802</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe30.html#BushPS00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200006)30:7&#60;775::AID-SPE309&#62;3.0.CO;2-H</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/MinskyP00" mdate="2020-04-09">
+<author pid="m/NaftalyHMinsky">Naftaly H. Minsky</author>
+<author pid="p/ParthaPratimPal">Partha Pratim Pal</author>
+<title>Providing multiple views for objects.</title>
+<pages>803-823</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe30.html#MinskyP00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200006)30:7&#60;803::AID-SPE320&#62;3.0.CO;2-F</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/ArdisDHSW00" mdate="2020-04-09">
+<author pid="08/2084">Mark A. Ardis</author>
+<author pid="70/3114">Nigel Daley</author>
+<author pid="h/DanielHoffman">Daniel Hoffman</author>
+<author pid="77/1325">Harvey P. Siy</author>
+<author pid="88/2189">David M. Weiss</author>
+<title>Software product lines: a case study.</title>
+<pages>825-847</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<url>db/journals/spe/spe30.html#ArdisDHSW00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(200006)30:7&#60;825::AID-SPE322&#62;3.0.CO;2-1</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 8, July 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/Bruin00" mdate="2020-04-09">
+<author pid="21/3404">Hans de Bruin</author>
+<title>BCOOPL: Basic concurrent object-oriented programming language.</title>
+<pages>849-894</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe30.html#Bruin00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000710)30:8&#60;849::AID-SPE318&#62;3.0.CO;2-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/CohenGR00" mdate="2020-04-09">
+<author pid="18/6571">William E. Cohen</author>
+<author pid="41/5398">Rhonda Kay Gaede</author>
+<author pid="42/3677">Jeremy B. Rodgers</author>
+<title>A demonstration of repeatable, non-intrusive measurement of program performance and compiler optimization in Linux using IN-Tune.</title>
+<pages>895-906</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe30.html#CohenGR00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000710)30:8&#60;895::AID-SPE319&#62;3.0.CO;2-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/BadrosN00" mdate="2020-04-09">
+<author pid="58/6153">Greg J. Badros</author>
+<author pid="n/DavidNotkin">David Notkin</author>
+<title>A framework for preprocessor-aware C source code analyses.</title>
+<pages>907-924</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe30.html#BadrosN00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000710)30:8&#60;907::AID-SPE324&#62;3.0.CO;2-I</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/ProebstingT00" mdate="2020-04-09">
+<author pid="p/TAProebsting">Todd A. Proebsting</author>
+<author pid="t/GreggMTownsend">Gregg M. Townsend</author>
+<title>A new implementation of the Icon language.</title>
+<pages>925-972</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>8</number>
+<url>db/journals/spe/spe30.html#ProebstingT00</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(20000710)30:8&#60;925::AID-SPE321&#62;3.0.CO;2-V</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 9, July 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/BertinoCF00" mdate="2020-04-09">
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="c/BarbaraCatania">Barbara Catania</author>
+<author pid="61/1959">A. Filippone</author>
+<title>An index allocation tool for object-oriented database systems.</title>
+<pages>973-1002</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe30.html#BertinoCF00</url>
+<ee>https://doi.org/10.1002/1097-024X(20000725)30:9&#60;973::AID-SPE325&#62;3.0.CO;2-9</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/LieuwenAG00" mdate="2020-04-09">
+<author pid="l/DFLieuwen">Daniel F. Lieuwen</author>
+<author pid="95/6276">Robert M. Arlein</author>
+<author pid="88/911">Narain H. Gehani</author>
+<title>The LTAP trigger gateway for LDAP directories.</title>
+<pages>1003-1024</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe30.html#LieuwenAG00</url>
+<ee>https://doi.org/10.1002/1097-024X(20000725)30:9&#60;1003::AID-SPE326&#62;3.0.CO;2-V</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/LeeKCC00" mdate="2020-04-09">
+<author pid="23/3492">Kwanwoo Lee</author>
+<author pid="15/3530">Kyo Chul Kang</author>
+<author pid="08/4636">Wonsuk Chae</author>
+<author pid="92/6242">Byoung Wook Choi</author>
+<title>Feature-based approach to object-oriented engineering of applications for reuse.</title>
+<pages>1025-1046</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe30.html#LeeKCC00</url>
+<ee>https://doi.org/10.1002/1097-024X(20000725)30:9&#60;1025::AID-SPE323&#62;3.0.CO;2-W</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/MakofskeA00" mdate="2020-04-09">
+<author pid="58/4509">David B. Makofske</author>
+<author pid="05/5182">Kevin C. Almeroth</author>
+<title>Real-time multicast tree visualization and monitoring.</title>
+<pages>1047-1065</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>9</number>
+<url>db/journals/spe/spe30.html#MakofskeA00</url>
+<ee>https://doi.org/10.1002/1097-024X(20000725)30:9&#60;1047::AID-SPE327&#62;3.0.CO;2-C</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 10, August 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/Hung00" mdate="2020-04-09">
+<author pid="76/5968">Yung-Chen Hung</author>
+<title>A layered hyperanimation system.</title>
+<pages>1067-1094</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>10</number>
+<url>db/journals/spe/spe30.html#Hung00</url>
+<ee>https://doi.org/10.1002/1097-024X(200008)30:10&#60;1067::AID-SPE329&#62;3.0.CO;2-B</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/WaltonP00" mdate="2020-04-09">
+<author pid="37/847">Gwendolyn H. Walton</author>
+<author pid="p/JesseHPoore">Jesse H. Poore</author>
+<title>Generating transition probabilities to support model-based software testing.</title>
+<pages>1095-1106</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>10</number>
+<url>db/journals/spe/spe30.html#WaltonP00</url>
+<ee>https://doi.org/10.1002/1097-024X(200008)30:10&#60;1095::AID-SPE328&#62;3.0.CO;2-H</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/HartmanPBBBMPPS00" mdate="2020-04-09">
+<author pid="h/JohnHHartman">John H. Hartman</author>
+<author pid="p/LLPeterson">Larry L. Peterson</author>
+<author pid="98/2846">Andy C. Bavier</author>
+<author pid="63/1860">Peter A. Bigot</author>
+<author pid="97/3677">Patrick G. Bridges</author>
+<author pid="70/6754">Allen Brady Montz</author>
+<author pid="46/2084">Rob Piltz</author>
+<author pid="p/TAProebsting">Todd A. Proebsting</author>
+<author pid="44/2433">Oliver Spatscheck</author>
+<title>Experiences building a communication-oriented JavaOS.</title>
+<pages>1107-1126</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>10</number>
+<url>db/journals/spe/spe30.html#HartmanPBBBMPPS00</url>
+<ee>https://doi.org/10.1002/1097-024X(200008)30:10&#60;1107::AID-SPE331&#62;3.0.CO;2-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Basden00" mdate="2020-04-09">
+<author pid="93/4102">Andrew Basden</author>
+<title>Some technical and non-technical issues in implementing a knowledge server.</title>
+<pages>1127-1164</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>10</number>
+<url>db/journals/spe/spe30.html#Basden00</url>
+<ee>https://doi.org/10.1002/1097-024X(200008)30:10&#60;1127::AID-SPE332&#62;3.0.CO;2-W</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 11, September 2000</h2> Discrete Algorithm Engineering 
+<dblpcites><r style="ee"><article key="journals/spe/WagnerW00" mdate="2020-04-09">
+<author pid="w/DorotheaWagner">Dorothea Wagner</author>
+<author pid="w/KarstenWeihe">Karsten Weihe</author>
+<title>Editorial: Discrete algorithm engineering.</title>
+<pages>1165</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe30.html#WagnerW00</url>
+<ee>https://doi.org/10.1002/1097-024X(200009)30:11&#60;1165::AID-SPE336&#62;3.0.CO;2-K</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/FabriGKSS00" mdate="2020-04-09">
+<author pid="24/3351">Andreas Fabri</author>
+<author pid="41/2937">Geert-Jan Giezeman</author>
+<author pid="56/4202">Lutz Kettner</author>
+<author pid="s/SSchirra">Stefan Schirra</author>
+<author pid="77/1496">Sven Sch&#246;nherr</author>
+<title>On the design of CGAL a computational geometry algorithms library.</title>
+<pages>1167-1202</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe30.html#FabriGKSS00</url>
+<ee>https://doi.org/10.1002/1097-024X(200009)30:11&#60;1167::AID-SPE337&#62;3.0.CO;2-B</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/GansnerN00" mdate="2020-04-09">
+<author pid="35/6095">Emden R. Gansner</author>
+<author pid="n/StephenCNorth">Stephen C. North</author>
+<title>An open graph visualization system and its applications to software engineering.</title>
+<pages>1203-1233</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe30.html#GansnerN00</url>
+<ee>https://doi.org/10.1002/1097-024X(200009)30:11&#60;1203::AID-SPE338&#62;3.0.CO;2-N</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/VismaraBGLTV00" mdate="2020-04-09">
+<author pid="87/5554">Luca Vismara</author>
+<author pid="b/GiuseppeDiBattista">Giuseppe Di Battista</author>
+<author pid="82/5685">Ashim Garg</author>
+<author pid="30/3372">Giuseppe Liotta</author>
+<author pid="t/RobertoTamassia">Roberto Tamassia</author>
+<author pid="35/441">Francesco Vargiu</author>
+<title>Experimental studies on graph drawing algorithms.</title>
+<pages>1235-1284</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe30.html#VismaraBGLTV00</url>
+<ee>https://doi.org/10.1002/1097-024X(200009)30:11&#60;1235::AID-SPE339&#62;3.0.CO;2-B</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/BerryDGSS00" mdate="2020-04-09">
+<author pid="48/646">Jonathan W. Berry</author>
+<author pid="00/2207">Nathaniel Dean</author>
+<author pid="g/MarkKGoldberg">Mark K. Goldberg</author>
+<author pid="61/2475">Gregory E. Shannon</author>
+<author pid="s/StevenSkiena">Steven Skiena</author>
+<title>LINK: a system for graph computation.</title>
+<pages>1285-1302</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe30.html#BerryDGSS00</url>
+<ee>https://doi.org/10.1002/1097-024X(200009)30:11&#60;1285::AID-SPE340&#62;3.0.CO;2-W</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Himsolt00" mdate="2020-04-09">
+<author pid="h/MichaelHimsolt">Michael Himsolt</author>
+<title>Graphlet: design and implementation of a graph editor.</title>
+<pages>1303-1324</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe30.html#Himsolt00</url>
+<ee>https://doi.org/10.1002/1097-024X(200009)30:11&#60;1303::AID-SPE341&#62;3.0.CO;2-3</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/JungerT00" mdate="2020-04-09">
+<author pid="j/MichaelJunger">Michael J&#252;nger</author>
+<author pid="94/5712">Stefan Thienel</author>
+<title>The ABACUS system for branch-and-cut-and-price algorithms in integer programming and combinatorial optimization.</title>
+<pages>1325-1352</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>11</number>
+<url>db/journals/spe/spe30.html#JungerT00</url>
+<ee>https://doi.org/10.1002/1097-024X(200009)30:11&#60;1325::AID-SPE342&#62;3.0.CO;2-T</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 12, October 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/BakicMR00" mdate="2020-04-09">
+<author pid="84/6903">Aleksandar M. Bakic</author>
+<author pid="m/MattWMutka">Matt W. Mutka</author>
+<author pid="90/3988">Diane T. Rover</author>
+<title>BRISK: a portable and flexible distributed instrumentation system.</title>
+<pages>1353-1373</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>12</number>
+<url>db/journals/spe/spe30.html#BakicMR00</url>
+<ee>https://doi.org/10.1002/1097-024X(200010)30:12&#60;1353::AID-SPE335&#62;3.0.CO;2-T</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/GuerraouiEFGM00" mdate="2020-04-09">
+<author pid="g/RachidGuerraoui">Rachid Guerraoui</author>
+<author pid="e/PTEugster">Patrick Th. Eugster</author>
+<author pid="f/PascalFelber">Pascal Felber</author>
+<author pid="54/2229">Beno&#238;t Garbinato</author>
+<author pid="94/6385">Karim Mazouni</author>
+<title>Experiences with object group systems.</title>
+<pages>1375-1404</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>12</number>
+<url>db/journals/spe/spe30.html#GuerraouiEFGM00</url>
+<ee>https://doi.org/10.1002/1097-024X(200010)30:12&#60;1375::AID-SPE333&#62;3.0.CO;2-R</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/ChaeKB00" mdate="2020-04-09">
+<author pid="20/4928">Heung Seok Chae</author>
+<author pid="54/148">Yong Rae Kwon</author>
+<author pid="32/5432">Doo-Hwan Bae</author>
+<title>A cohesion measure for object-oriented classes.</title>
+<pages>1405-1431</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>12</number>
+<url>db/journals/spe/spe30.html#ChaeKB00</url>
+<ee>https://doi.org/10.1002/1097-024X(200010)30:12&#60;1405::AID-SPE330&#62;3.0.CO;2-3</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/PohleD00" mdate="2020-04-09">
+<author pid="52/6520">Hans-Peter Pohle</author>
+<author pid="90/1924">Bernd Drescher</author>
+<title>A flexible and easy to use molecular biology workbench efficiently developed in Tcl/Tk.</title>
+<pages>1433-1445</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>12</number>
+<url>db/journals/spe/spe30.html#PohleD00</url>
+<ee>https://doi.org/10.1002/1097-024X(200010)30:12&#60;1433::AID-SPE348&#62;3.0.CO;2-I</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 13, November 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/PetrakisT00" mdate="2020-04-09">
+<author pid="91/2869">Euripides G. M. Petrakis</author>
+<author pid="97/6011">Kostas Tzeras</author>
+<title>Similarity searching in the CORDIS text database.</title>
+<pages>1447-1464</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>13</number>
+<url>db/journals/spe/spe30.html#PetrakisT00</url>
+<ee>https://doi.org/10.1002/1097-024X(20001110)30:13&#60;1447::AID-SPE344&#62;3.0.CO;2-C</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/Deorowicz00" mdate="2020-04-09">
+<author orcid="0000-0002-9496-733X" pid="54/4531">Sebastian Deorowicz</author>
+<title>Improvements to Burrows-Wheeler compression algorithm.</title>
+<pages>1465-1483</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>13</number>
+<url>db/journals/spe/spe30.html#Deorowicz00</url>
+<ee>https://doi.org/10.1002/1097-024X(20001110)30:13&#60;1465::AID-SPE345&#62;3.0.CO;2-D</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/HuangJC00" mdate="2020-04-09">
+<author pid="30/4506">Chung-Ming Huang</author>
+<author pid="68/6710">Ming-Yuhe Jang</author>
+<author pid="43/3669">Y. C. Chao</author>
+<title>CTW: an integrated computer and telephone-accessed WWW system.</title>
+<pages>1485-1507</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>13</number>
+<url>db/journals/spe/spe30.html#HuangJC00</url>
+<ee>https://doi.org/10.1002/1097-024X(20001110)30:13&#60;1485::AID-SPE346&#62;3.0.CO;2-8</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/MencnarowskiZ00" mdate="2020-04-09">
+<author pid="09/2648">Daniel Mencnarowski</author>
+<author pid="63/764">Krzysztof Zielinski</author>
+<title>Improving scalability of event-driven distributed objects architectures.</title>
+<pages>1509-1529</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>13</number>
+<url>db/journals/spe/spe30.html#MencnarowskiZ00</url>
+<ee>https://doi.org/10.1002/1097-024X(20001110)30:13&#60;1509::AID-SPE349&#62;3.0.CO;2-T</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 14, November 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/BerkovichLM00" mdate="2020-04-09">
+<author pid="70/3699">Simon Y. Berkovich</author>
+<author pid="43/3749">Gennadi M. Lapir</author>
+<author pid="15/4562">Marilyn Mack</author>
+<title>A bit-counting algorithm using the frequency division principle.</title>
+<pages>1531-1540</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>14</number>
+<url>db/journals/spe/spe30.html#BerkovichLM00</url>
+<ee>https://doi.org/10.1002/1097-024X(20001125)30:14&#60;1531::AID-SPE347&#62;3.0.CO;2-A</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/CookeA00" mdate="2020-04-09">
+<author pid="c/DanielECooke">Daniel E. Cooke</author>
+<author pid="06/2944">Per Andersen</author>
+<title>Automatic parallel control structures in SequenceL.</title>
+<pages>1541-1570</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>14</number>
+<url>db/journals/spe/spe30.html#CookeA00</url>
+<ee>https://doi.org/10.1002/1097-024X(20001125)30:14&#60;1541::AID-SPE350&#62;3.0.CO;2-T</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/HennenRM00" mdate="2020-04-09">
+<author pid="81/6972">Dennis S. Hennen</author>
+<author pid="94/5777">Suresh Ramachandran</author>
+<author pid="m/SAMamrak">Sandra A. Mamrak</author>
+<title>The Object-JavaScript language.</title>
+<pages>1571-1585</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>14</number>
+<url>db/journals/spe/spe30.html#HennenRM00</url>
+<ee>https://doi.org/10.1002/1097-024X(20001125)30:14&#60;1571::AID-SPE351&#62;3.0.CO;2-N</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/WongHSZZ00" mdate="2020-04-09">
+<author pid="w/WEricWong">W. Eric Wong</author>
+<author pid="h/JosephRobertHorgan">Joseph Robert Horgan</author>
+<author pid="26/660">Michael Syring</author>
+<author pid="15/6609">Wayne M. Zage</author>
+<author pid="20/6008">Dolores M. Zage</author>
+<title>Applying design metrics to predict fault-proneness: a case study on a large-scale software system.</title>
+<pages>1587-1608</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>14</number>
+<url>db/journals/spe/spe30.html#WongHSZZ00</url>
+<ee>https://doi.org/10.1002/1097-024X(20001125)30:14&#60;1587::AID-SPE352&#62;3.0.CO;2-1</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 30, Number 15, December 2000</h2> 
+<dblpcites><r style="ee"><article key="journals/spe/GunterJ00" mdate="2020-04-09">
+<author pid="g/CarlAGunter">Carl A. Gunter</author>
+<author pid="21/2627">Trevor Jim</author>
+<title>Policy-directed certificate retrieval.</title>
+<pages>1609-1640</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>15</number>
+<url>db/journals/spe/spe30.html#GunterJ00</url>
+<ee>https://doi.org/10.1002/1097-024X(200012)30:15&#60;1609::AID-SPE334&#62;3.0.CO;2-5</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/ParsonZ00" mdate="2020-04-09">
+<author pid="75/5944">Dale Parson</author>
+<author pid="95/2107">Zhenyu Zhu</author>
+<title>Java Native Interface idioms for C++ class hierarchies.</title>
+<pages>1641-1660</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>15</number>
+<url>db/journals/spe/spe30.html#ParsonZ00</url>
+<ee>https://doi.org/10.1002/1097-024X(200012)30:15&#60;1641::AID-SPE343&#62;3.0.CO;2-R</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/spe/NentwichEFZ00" mdate="2020-04-09">
+<author pid="00/2050">Christian Nentwich</author>
+<author pid="57/4166">Wolfgang Emmerich</author>
+<author pid="f/AFinkelstein">Anthony Finkelstein</author>
+<author pid="91/3835">Andrea Zisman</author>
+<title>BOX: Browsing objects in XML.</title>
+<pages>1661-1676</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>15</number>
+<url>db/journals/spe/spe30.html#NentwichEFZ00</url>
+<ee>https://doi.org/10.1002/1097-024X(200012)30:15&#60;1661::AID-SPE353&#62;3.0.CO;2-O</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

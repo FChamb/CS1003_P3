@@ -1,0 +1,762 @@
+<bht key="db/conf/cp/cp2020.bht" title="CP 2020">  
+<h1>26th <ref href="db/conf/cp/index.html">CP</ref> 2020:
+Louvain-la-Neuve, Belgium</h1> <dblpcites><r><proceedings key="conf/cp/2020" mdate="2020-09-08">
+<editor pid="30/449">Helmut Simonis</editor>
+<title>Principles and Practice of Constraint Programming - 26th International Conference, CP 2020, Louvain-la-Neuve, Belgium, September 7-11, 2020, Proceedings</title>
+<booktitle>CP</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12333</volume>
+<isbn>978-3-030-58474-0</isbn>
+<isbn>978-3-030-58475-7</isbn>
+<ee>https://doi.org/10.1007/978-3-030-58475-7</ee>
+<url>db/conf/cp/cp2020.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Technical Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AmadiniGS20" mdate="2020-09-19">
+<author orcid="0000-0003-1668-7305" pid="123/4603">Roberto Amadini</author>
+<author orcid="0000-0002-1354-431X" pid="76/3059">Graeme Gange</author>
+<author orcid="0000-0003-2186-0459" pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Dashed Strings and the Replace(-all) Constraint.</title>
+<pages>3-20</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_1</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#AmadiniGS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BabakiOP20" mdate="2020-09-08">
+<author pid="145/1683">Behrouz Babaki</author>
+<author pid="273/7222">Bilel Omrani</author>
+<author pid="02/6567">Gilles Pesant</author>
+<title>Combinatorial Search in CP-Based Iterated Belief Propagation.</title>
+<pages>21-36</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_2</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#BabakiOP20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BendikC20" mdate="2020-09-08">
+<author pid="181/7743">Jaroslav Bend&#237;k</author>
+<author pid="c/IvanaCerna">Ivana Cern&#225;</author>
+<title>Replication-Guided Enumeration of Minimal Unsatisfiable Subsets.</title>
+<pages>37-54</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_3</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#BendikC20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BjordalFPST20" mdate="2020-09-19">
+<author orcid="0000-0002-8032-5774" pid="162/3119">Gustav Bj&#246;rdal</author>
+<author orcid="0000-0001-8730-4098" pid="08/4454">Pierre Flener</author>
+<author orcid="0000-0002-0084-8891" pid="50/4914">Justin Pearson</author>
+<author orcid="0000-0003-2186-0459" pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author orcid="0000-0003-3357-6498" pid="41/5343">Guido Tack</author>
+<title>Solving Satisfaction Problems Using Large-Neighbourhood Search.</title>
+<pages>55-71</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_4</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#BjordalFPST20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BoothOMHR20" mdate="2022-01-03">
+<author pid="179/7407">Kyle E. C. Booth</author>
+<author pid="149/2765">Bryan O'Gorman</author>
+<author pid="273/7245">Jeffrey Marshall</author>
+<author orcid="0000-0002-4607-3921" pid="172/0850">Stuart Hadfield</author>
+<author pid="65/1345">Eleanor Gilbert Rieffel</author>
+<title>Quantum-Accelerated Global Constraint Filtering.</title>
+<pages>72-89</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_5</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#BoothOMHR20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CaiZ20" mdate="2021-10-14">
+<author orcid="0000-0003-1730-6922" pid="45/8399">Shaowei Cai</author>
+<author orcid="0000-0001-5541-7194" pid="253/7611">Xindi Zhang</author>
+<title>Pure MaxSAT and Its Applications to Combinatorial Optimization via Linear Local Search.</title>
+<pages>90-106</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_6</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#CaiZ20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Cohen-Solal20" mdate="2020-09-08">
+<author pid="140/1066">Quentin Cohen-Solal</author>
+<title>Tractable Fragments of Temporal Sequences of Topological Information.</title>
+<pages>107-125</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_7</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#Cohen-Solal20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Cooper20" mdate="2021-04-09">
+<author orcid="0000-0003-4853-053X" pid="04/5623">Martin C. Cooper</author>
+<title>Strengthening Neighbourhood Substitution.</title>
+<pages>126-142</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_8</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#Cooper20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DavidsonAEN20" mdate="2020-10-25">
+<author pid="273/7186">Ewan Davidson</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author pid="150/4943">Joan Espasa</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Effective Encodings of Constraint Programming Models to SMT.</title>
+<pages>143-159</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_9</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#DavidsonAEN20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Devriendt20" mdate="2020-09-19">
+<author orcid="0000-0002-6346-3665" pid="128/3505">Jo Devriendt</author>
+<title>Watched Propagation of 0-1 Integer Linear Constraints.</title>
+<pages>160-176</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_10</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#Devriendt20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DlaskW20" mdate="2020-09-19">
+<author orcid="0000-0002-1944-6569" pid="257/3228">Tom&#225;s Dlask</author>
+<author orcid="0000-0002-6161-7157" pid="02/227">Tom&#225;s Werner</author>
+<title>Bounding Linear Programs by Constraint Propagation: Application to Max-SAT.</title>
+<pages>177-193</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_11</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#DlaskW20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DlaskW20a" mdate="2020-09-19">
+<author orcid="0000-0002-1944-6569" pid="257/3228">Tom&#225;s Dlask</author>
+<author orcid="0000-0002-6161-7157" pid="02/227">Tom&#225;s Werner</author>
+<title>On Relation Between Constraint Propagation and Block-Coordinate Descent in Linear Programs.</title>
+<pages>194-210</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_12</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#DlaskW20a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DudekPV20" mdate="2020-09-08">
+<author pid="183/0916">Jeffrey M. Dudek</author>
+<author pid="245/0095">Vu H. N. Phan</author>
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<title>DPMC: Weighted Model Counting by Dynamic Programming on Project-Join Trees.</title>
+<pages>211-230</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_13</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#DudekPV20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/EkBSST20" mdate="2020-09-19">
+<author orcid="0000-0002-8744-4805" pid="266/5462">Alexander Ek</author>
+<author orcid="0000-0002-6666-514X" pid="b/MariaJGarciadelaBanda">Maria Garcia de la Banda</author>
+<author orcid="0000-0001-5452-4086" pid="82/2883">Andreas Schutt</author>
+<author orcid="0000-0003-2186-0459" pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author orcid="0000-0003-3357-6498" pid="41/5343">Guido Tack</author>
+<title>Aggregation and Garbage Collection for Online Optimization.</title>
+<pages>231-247</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_14</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#EkBSST20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FichteHK20" mdate="2020-09-08">
+<author pid="46/7137">Johannes Klaus Fichte</author>
+<author pid="150/8127">Markus Hecher</author>
+<author pid="273/7234">Maximilian F. I. Kieler</author>
+<title>Treewidth-Aware Quantifier Elimination and Expansion for QCSP.</title>
+<pages>248-266</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_15</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#FichteHK20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FichteHS20" mdate="2020-09-19">
+<author orcid="0000-0002-8681-7470" pid="46/7137">Johannes Klaus Fichte</author>
+<author orcid="0000-0003-0131-6771" pid="150/8127">Markus Hecher</author>
+<author orcid="0000-0001-8994-1656" pid="s/StefanSzeider">Stefan Szeider</author>
+<title>A Time Leap Challenge for SAT-Solving.</title>
+<pages>267-285</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_16</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#FichteHS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FichteHS20a" mdate="2020-09-19">
+<author orcid="0000-0002-8681-7470" pid="46/7137">Johannes Klaus Fichte</author>
+<author orcid="0000-0003-0131-6771" pid="150/8127">Markus Hecher</author>
+<author orcid="0000-0001-8994-1656" pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Breaking Symmetries with RootClique and LexTopSort.</title>
+<pages>286-303</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_17</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#FichteHS20a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FichteMSS20" mdate="2021-10-14">
+<author orcid="0000-0002-8681-7470" pid="46/7137">Johannes Klaus Fichte</author>
+<author pid="35/8612">Norbert Manthey</author>
+<author pid="143/7972">Julian Stecklina</author>
+<author orcid="0000-0001-6790-7158" pid="257/4358">Andr&#233; Schidler</author>
+<title>Towards Faster Reasoners by Using Transparent Huge Pages.</title>
+<pages>304-322</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_18</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#FichteMSS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GangeS20" mdate="2020-09-19">
+<author orcid="0000-0002-1354-431X" pid="76/3059">Graeme Gange</author>
+<author orcid="0000-0003-2186-0459" pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>The Argmax Constraint.</title>
+<pages>323-337</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_19</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#GangeS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GochtMMNPT20" mdate="2020-09-19">
+<author orcid="0000-0002-5459-3134" pid="205/6044">Stephan Gocht</author>
+<author orcid="0000-0002-0032-9506" pid="273/7264">Ross McBride</author>
+<author orcid="0000-0002-6106-4871" pid="119/4841">Ciaran McCreesh</author>
+<author orcid="0000-0002-2700-4285" pid="88/3143">Jakob Nordstr&#246;m</author>
+<author orcid="0000-0003-4460-6912" pid="14/3015">Patrick Prosser</author>
+<author orcid="0000-0001-7282-8745" pid="146/1886">James Trimble 0001</author>
+<title>Certifying Solvers for Clique and Maximum Common (Connected) Subgraph Problems.</title>
+<pages>338-357</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_20</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#GochtMMNPT20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GuptaRM20" mdate="2023-01-03">
+<author pid="24/3213">Rahul Gupta</author>
+<author pid="95/621">Subhajit Roy 0001</author>
+<author pid="129/1623">Kuldeep S. Meel</author>
+<title>Phase Transition Behavior in Knowledge Compilation.</title>
+<pages>358-374</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_21</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#GuptaRM20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HoiJS20" mdate="2020-09-08">
+<author pid="164/5633">Gordon Hoi</author>
+<author pid="j/SanjayJain1">Sanjay Jain 0001</author>
+<author pid="s/FrankStephan">Frank Stephan 0001</author>
+<title>A Faster Exact Algorithm to Count X3SAT Solutions.</title>
+<pages>375-391</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_22</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#HoiJS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HowellCY20" mdate="2020-09-08">
+<author pid="222/7888">Ian Howell</author>
+<author pid="64/4385">Berthe Y. Choueiry</author>
+<author pid="67/5007">Hongfeng Yu</author>
+<title>Visualizations to Summarize Search Behavior.</title>
+<pages>392-409</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_23</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#HowellCY20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/IsoartR20" mdate="2020-09-08">
+<author pid="249/1855">Nicolas Isoart</author>
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<title>Parallelization of TSP Solving in CP.</title>
+<pages>410-426</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_24</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#IsoartR20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KokkalaN20" mdate="2022-06-23">
+<author orcid="0000-0001-6986-7794" pid="154/6554">Janne I. Kokkala</author>
+<author orcid="0000-0002-2700-4285" pid="88/3143">Jakob Nordstr&#246;m</author>
+<title>Using Resolution Proofs to Analyse CDCL Solvers.</title>
+<pages>427-444</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_25</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#KokkalaN20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LeoGBW20" mdate="2020-09-19">
+<author orcid="0000-0003-4720-4265" pid="132/9415">Kevin Leo</author>
+<author orcid="0000-0002-1354-431X" pid="76/3059">Graeme Gange</author>
+<author orcid="0000-0002-6666-514X" pid="b/MariaJGarciadelaBanda">Maria Garcia de la Banda</author>
+<author orcid="0000-0001-7326-8110" pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>Core-Guided Model Reformulation.</title>
+<pages>445-461</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_26</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#LeoGBW20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NattafM20" mdate="2020-09-08">
+<author pid="162/3112">Margaux Nattaf</author>
+<author pid="12/7407">Arnaud Malapert</author>
+<title>Filtering Rules for Flow Time Minimization in a Parallel Machine Scheduling Problem.</title>
+<pages>462-477</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_27</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#NattafM20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RamaswamyS20" mdate="2020-09-19">
+<author orcid="0000-0002-3101-2085" pid="207/0889">Vaidyanathan Peruvemba Ramaswamy</author>
+<author orcid="0000-0001-8994-1656" pid="s/StefanSzeider">Stefan Szeider</author>
+<title>MaxSAT-Based Postprocessing for Treedepth.</title>
+<pages>478-495</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_28</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#RamaswamyS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PaparrizouW20" mdate="2022-10-02">
+<author pid="63/8396">Anastasia Paparrizou</author>
+<author orcid="0000-0002-8264-8702" pid="221/0931">Hugues Wattez</author>
+<title>Perturbing Branching Heuristics in Constraint Solving.</title>
+<pages>496-513</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_29</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#PaparrizouW20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PeitlS20" mdate="2020-09-19">
+<author orcid="0000-0001-7799-1568" pid="181/3386">Tom&#225;s Peitl</author>
+<author orcid="0000-0001-8994-1656" pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Finding the Hardest Formulas for Resolution.</title>
+<pages>514-530</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_30</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#PeitlS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GentzelMH20" mdate="2022-04-09">
+<author pid="273/7242">Rebecca Gentzel</author>
+<author orcid="0000-0001-7230-7130" pid="m/LaurentDMichel">Laurent Michel</author>
+<author orcid="0000-0002-0023-753X" pid="61/5378">Willem Jan van Hoeve</author>
+<title>HADDOCK: A Language and Architecture for Decision Diagram Compilation.</title>
+<pages>531-547</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_31</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#GentzelMH20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RohouBCGJNRT20" mdate="2020-09-08">
+<author pid="201/9401">Simon Rohou</author>
+<author pid="273/7270">Abderahmane Bedouhene</author>
+<author pid="89/1246">Gilles Chabert</author>
+<author pid="g/AlexandreGoldsztejn">Alexandre Goldsztejn</author>
+<author pid="24/6296">Luc Jaulin</author>
+<author pid="39/6105">Bertrand Neveu</author>
+<author pid="161/0835">Victor Reyes</author>
+<author pid="55/2812">Gilles Trombettoni</author>
+<title>Towards a Generic Interval Solver for Differential-Algebraic CSP.</title>
+<pages>548-565</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_32</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#RohouBCGJNRT20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RouquetteS20" mdate="2020-09-08">
+<author pid="273/7211">Lo&#239;c Rouquette</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>abstractXOR: A global constraint dedicated to differential cryptanalysis.</title>
+<pages>566-584</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_33</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#RouquetteS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Zhou20" mdate="2020-09-08">
+<author pid="z/NengFaZhou">Neng-Fa Zhou</author>
+<title>In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem.</title>
+<pages>585-602</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_34</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#Zhou20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LamNSAL20" mdate="2020-09-19">
+<author orcid="0000-0002-4485-5014" pid="166/7448">Edward Lam 0001</author>
+<author orcid="0000-0003-4466-2447" pid="116/2730">Frits de Nijs</author>
+<author orcid="0000-0003-2186-0459" pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author orcid="0000-0002-2149-8122" pid="227/2294">Donald Azuatalam</author>
+<author orcid="0000-0002-5679-4140" pid="183/7856">Ariel Liebman</author>
+<title>Large Neighborhood Search for Temperature Control with Demand Response.</title>
+<pages>603-619</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_35</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#LamNSAL20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GroleazNS20" mdate="2020-09-08">
+<author pid="270/0647">Lucas Groleaz</author>
+<author pid="30/3232">Samba Ndojh Ndiaye</author>
+<author pid="47/7026">Christine Solnon</author>
+<title>Solving the Group Cumulative Scheduling Problem with CPO and ACO.</title>
+<pages>620-636</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_36</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#GroleazNS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GarciaMR20" mdate="2020-09-08">
+<author pid="273/7232">R&#233;my Garcia</author>
+<author pid="82/3696">Claude Michel</author>
+<author pid="r/MichelRueher">Michel Rueher</author>
+<title>A Branch-and-bound Algorithm to Rigorously Enclose the Round-Off Errors.</title>
+<pages>637-653</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_37</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#GarciaMR20</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Application Track</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AntuoriHHEN20" mdate="2022-04-09">
+<author pid="234/6075">Valentin Antuori</author>
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<author pid="75/6282">Marie-Jos&#233; Huguet</author>
+<author pid="273/7254">Siham Essodaigui</author>
+<author pid="30/6309">Alain Nguyen</author>
+<title>Leveraging Reinforcement Learning, Constraint Programming and Local Search: A Case Study in Car Manufacturing.</title>
+<pages>657-672</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_38</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#AntuoriHHEN20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CarissanDHPTV20" mdate="2022-10-02">
+<author orcid="0000-0002-9876-0272" pid="122/5300">Yannick Carissan</author>
+<author pid="273/7206">Chisom-Adaobi Dim</author>
+<author orcid="0000-0001-8761-1047" pid="177/1695">Denis Hagebaum-Reignier</author>
+<author orcid="0000-0002-3580-4071" pid="11/5346">Nicolas Prcovic</author>
+<author orcid="0000-0002-9779-9108" pid="34/5502">Cyril Terrioux</author>
+<author pid="273/7274">Adrien Varet</author>
+<title>Computing the Local Aromaticity of Benzenoids Thanks to Constraint Programming.</title>
+<pages>673-689</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_39</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#CarissanDHPTV20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CarissanHPTV20" mdate="2020-09-19">
+<author orcid="0000-0002-9876-0272" pid="122/5300">Yannick Carissan</author>
+<author orcid="0000-0001-8761-1047" pid="177/1695">Denis Hagebaum-Reignier</author>
+<author pid="11/5346">Nicolas Prcovic</author>
+<author orcid="0000-0002-9779-9108" pid="34/5502">Cyril Terrioux</author>
+<author pid="273/7274">Adrien Varet</author>
+<title>Using Constraint Programming to Generate Benzenoid Structures in Theoretical Chemistry.</title>
+<pages>690-706</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_40</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#CarissanHPTV20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ColletGLCMM20" mdate="2020-09-19">
+<author pid="241/2579">Mathieu Collet</author>
+<author orcid="0000-0002-8980-7585" pid="45/6358">Arnaud Gotlieb</author>
+<author orcid="0000-0003-2524-9462" pid="17/8149">Nadjib Lazaar</author>
+<author orcid="0000-0003-3079-8095" pid="c/MCarlsson">Mats Carlsson</author>
+<author orcid="0000-0001-9345-5431" pid="51/11067">Dusica Marijan</author>
+<author pid="133/4623">Morten Mossige</author>
+<title>RobTest: A CP Approach to Generate Maximal Test Trajectories for Industrial Robots.</title>
+<pages>707-723</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_41</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#ColletGLCMM20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GencO20" mdate="2020-09-08">
+<author pid="166/1277">Begum Genc</author>
+<author pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>A Two-Phase Constraint Programming Model for Examination Timetabling at University College Cork.</title>
+<pages>724-742</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_42</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#GencO20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LamSKK20" mdate="2020-09-19">
+<author orcid="0000-0002-4485-5014" pid="166/7448">Edward Lam 0001</author>
+<author orcid="0000-0003-2186-0459" pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author orcid="0000-0002-5458-094X" pid="k/SvenKoenig">Sven Koenig</author>
+<author pid="22/6935">T. K. Satish Kumar</author>
+<title>Exact Approaches to the Multi-agent Collective Construction Problem.</title>
+<pages>743-758</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_43</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#LamSKK20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Mercier-AubinDG20" mdate="2021-04-09">
+<author pid="273/7198">Alexandre Mercier-Aubin</author>
+<author pid="273/7251">Ludwig Dumetz</author>
+<author orcid="0000-0001-5493-8836" pid="84/1025">Jonathan Gaudreault</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<title>The Confidence Constraint: A Step Towards Stochastic CP Solvers.</title>
+<pages>759-773</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_44</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#Mercier-AubinDG20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TrimoskaID20" mdate="2021-10-14">
+<author pid="201/6438">Monika Trimoska</author>
+<author pid="17/6416">Sorina Ionica</author>
+<author orcid="0000-0001-7497-1182" pid="16/3798">Gilles Dequen</author>
+<title>Parity (XOR) Reasoning for the Index Calculus Attack.</title>
+<pages>774-790</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_45</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#TrimoskaID20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TsoupidiLB20" mdate="2020-09-08">
+<author pid="164/7382">Rodothea-Myrsini Tsoupidi</author>
+<author pid="38/8779">Roberto Casta&#241;eda Lozano</author>
+<author pid="57/3320">Benoit Baudry</author>
+<title>Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks.</title>
+<pages>791-808</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_46</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#TsoupidiLB20</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>CP and Data Science and Machine Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BrouardGS20" mdate="2022-01-03">
+<author orcid="0000-0002-5574-7027" pid="40/10623">C&#233;line Brouard</author>
+<author pid="18/1193">Simon de Givry</author>
+<author pid="87/6848">Thomas Schiex</author>
+<title>Pushing Data into CP Models Using Graphical Model Learning and Solving.</title>
+<pages>811-827</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_47</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#BrouardGS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DilkasB20" mdate="2022-10-02">
+<author orcid="0000-0001-9185-7840" pid="266/8288">Paulius Dilkas</author>
+<author pid="52/570">Vaishak Belle</author>
+<title>Generating Random Logic Programs Using Constraint Programming.</title>
+<pages>828-845</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_48</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#DilkasB20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/IgnatievCSHM20" mdate="2022-04-09">
+<author pid="26/9729">Alexey Ignatiev</author>
+<author orcid="0000-0003-4853-053X" pid="04/5623">Martin C. Cooper</author>
+<author pid="39/2558-2">Mohamed Siala 0002</author>
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o Marques-Silva 0001</author>
+<title>Towards Formal Fairness in Machine Learning.</title>
+<pages>846-867</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_49</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#IgnatievCSHM20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BuningKS20" mdate="2022-10-02">
+<author pid="215/3725">Marko Kleine B&#252;ning</author>
+<author orcid="0000-0002-7618-7401" pid="273/7179">Philipp Kern</author>
+<author pid="s/CarstenSinz">Carsten Sinz</author>
+<title>Verifying Equivalence Properties of Neural Networks with ReLU Activation Functions.</title>
+<pages>868-884</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_50</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#BuningKS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LiuZHNMZ20" mdate="2022-10-02">
+<author orcid="0000-0002-9673-6463" pid="119/3234-1">Minghao Liu 0001</author>
+<author pid="21/3626">Fan Zhang</author>
+<author pid="59/1856-2">Pei Huang 0002</author>
+<author pid="07/7831">Shuzi Niu</author>
+<author pid="59/556">Feifei Ma</author>
+<author pid="07/314-1">Jian Zhang 0001</author>
+<title>Learning the Satisfiability of Pseudo-Boolean Problem with Graph Neural Networks.</title>
+<pages>885-898</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_51</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#LiuZHNMZ20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NejatiFG20" mdate="2022-01-03">
+<author pid="185/0665">Saeed Nejati</author>
+<author pid="204/2603">Ludovic Le Frioux</author>
+<author orcid="0000-0002-6029-2047" pid="g/VijayGanesh">Vijay Ganesh</author>
+<title>A Machine Learning Based Splitting Heuristic for Divide-and-Conquer Solvers.</title>
+<pages>899-916</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_52</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#NejatiFG20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SayDNS20" mdate="2020-09-19">
+<author orcid="0000-0003-2822-5909" pid="184/8300">Buser Say</author>
+<author orcid="0000-0002-6346-3665" pid="128/3505">Jo Devriendt</author>
+<author orcid="0000-0002-2700-4285" pid="88/3143">Jakob Nordstr&#246;m</author>
+<author orcid="0000-0003-2186-0459" pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Theoretical and Experimental Results for Planning with Learned Binarized Neural Network Transition Models.</title>
+<pages>917-934</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_53</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#SayDNS20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TsourosSB20" mdate="2021-10-14">
+<author orcid="0000-0002-3040-0959" pid="208/6771">Dimosthenis C. Tsouros</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<title>Omissions in Constraint Acquisition.</title>
+<pages>935-951</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_54</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#TsourosSB20</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/YuISB20" mdate="2020-09-08">
+<author pid="137/6194">Jinqiang Yu</author>
+<author pid="26/9729">Alexey Ignatiev</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="25/7443">Pierre Le Bodic</author>
+<title>Computing Optimal Decision Sets with SAT.</title>
+<pages>952-970</pages>
+<year>2020</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58475-7_55</ee>
+<crossref>conf/cp/2020</crossref>
+<url>db/conf/cp/cp2020.html#YuISB20</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+</bht>
+

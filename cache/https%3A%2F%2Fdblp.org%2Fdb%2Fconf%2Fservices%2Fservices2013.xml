@@ -1,0 +1,1155 @@
+<bht key="db/conf/services/services2013.bht" title="IEEE Congress on Services 2013">  
+<h1><ref href="db/conf/services/index.html">SERVICES</ref> 2013:
+Santa Clara, CA, USA</h1> <dblpcites><r><proceedings key="conf/services/2013" mdate="2019-10-16">
+<title>IEEE Ninth World Congress on Services, SERVICES 2013, Santa Clara, CA, USA, June 28 - July 3, 2013</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2013</year>
+<isbn>978-0-7695-5024-4</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6596100/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/services/2013/5024/00/index.html</ee>
+<booktitle>SERVICES</booktitle>
+<url>db/conf/services/services2013.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>SWF&#8212;IEEE 2013 International Workshop on Scientific Workflows</h2> 
+<h3>SWF Session 1</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/ChebotkoABPKL13" mdate="2017-05-23">
+<author pid="38/4405">Artem Chebotko</author>
+<author pid="54/1746">John Abraham</author>
+<author pid="33/7462">Pearl Brazier</author>
+<author pid="09/7460">Anthony Piazza</author>
+<author pid="39/8331">Andrey Kashlev</author>
+<author pid="l/ShiyongLu">Shiyong Lu</author>
+<title>Storing, Indexing and Querying Large Provenance Data Sets as RDF Graphs in Apache HBase.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.32</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#ChebotkoABPKL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/LuLM13" mdate="2017-05-23">
+<author pid="62/2062">Shuai Lu</author>
+<author pid="150/4295">Yan Liu</author>
+<author pid="07/3910">Da Meng</author>
+<title>Towards a Collaborative Simulation Platform for Renewable Energy Systems.</title>
+<pages>9-12</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.31</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LuLM13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/JaradatDB13" mdate="2017-05-23">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>A Dataflow Language for Decentralised Orchestration of Web Service Workflows.</title>
+<pages>13-20</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.30</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#JaradatDB13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>SWF Session 2</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/ChenYBCL13" mdate="2017-06-15">
+<author pid="124/6976">Changbing Chen</author>
+<author pid="62/5690">Xia Yang</author>
+<author pid="99/10610">Zoebir Bong</author>
+<author orcid="0000-0002-0827-6808" pid="49/7684">Sivadon Chaisiri</author>
+<author pid="l/BuSungLee">Bu-Sung Lee</author>
+<title>A Workflow Framework for Big Data Analytics: Event Recognition in a Building.</title>
+<pages>21-28</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.29</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#ChenYBCL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/ZhangVLCLLLXN13" mdate="2019-10-23">
+<author pid="80/2266-1">Jia Zhang 0001</author>
+<author pid="47/936">Petr Votava</author>
+<author pid="139/2378">Tsengdar J. Lee</author>
+<author pid="139/7916">Owen Chu</author>
+<author pid="139/7875">Clyde Li</author>
+<author pid="09/1814">David Liu</author>
+<author pid="139/7968">Kate Liu</author>
+<author pid="139/7972">Norman Xin</author>
+<author pid="70/10416">Ramakrishna R. Nemani</author>
+<title>Bridging VisTrails Scientific Workflow Management System to High Performance Computing.</title>
+<pages>29-36</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.64</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.64</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#ZhangVLCLLLXN13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>FOSEC&#8212;IEEE 2013 International Workshop on the Future of SoftwareEngineering for/in the Cloud</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/LinHYG13" mdate="2020-02-18">
+<author pid="12/7586">Guang Lin</author>
+<author pid="84/10788">Binh Han</author>
+<author pid="95/578-2">Jian Yin 0002</author>
+<author pid="74/3329">Ian Gorton</author>
+<title>Exploring Cloud Computing for Large-Scale Scientific Applications.</title>
+<pages>37-43</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.13</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LinHYG13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/LiOZ13" mdate="2018-06-06">
+<author orcid="0000-0002-9704-7651" pid="10/1143-1">Zheng Li 0001</author>
+<author pid="51/2992">Liam O'Brien</author>
+<author pid="161/9602">He Zhang 0001</author>
+<title>CEEM: A Practical Methodology for Cloud Services Evaluation.</title>
+<pages>44-51</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.73</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.73</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LiOZ13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/MershadKASH13" mdate="2022-04-09">
+<author orcid="0000-0003-3786-5529" pid="161/7909">Khaleel W. Mershad</author>
+<author pid="139/7905">Abdul Rahman Kaitoua</author>
+<author pid="09/3843">Hassan Artail</author>
+<author pid="07/6882">Mazen A. R. Saghir</author>
+<author pid="84/8237">Hazem M. Hajj</author>
+<title>A Framework for Multi-cloud Cooperation with Hardware Reconfiguration Support.</title>
+<pages>52-59</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.12</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#MershadKASH13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/XuKK13" mdate="2017-05-23">
+<author pid="20/443">Brian Xu</author>
+<author pid="81/10412">Sathish Alampalayam Kumar</author>
+<author pid="139/7980">Manonmani Kumar</author>
+<title>Cloud Based Architecture for Enabling Intuitive Decision Making.</title>
+<pages>60-66</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.11</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#XuKK13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>SPEAC&#8212;IEEE 2013 International Workshop on Security and Privacy Engineering Assurance</h2> 
+<h3>SPEAC Session 1</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/WangWLZ13" mdate="2020-07-05">
+<author pid="95/3819-3">Aili Wang 0003</author>
+<author pid="w/ChaoWang3">Chao Wang 0003</author>
+<author pid="46/2311-3">Xi Li 0003</author>
+<author pid="53/2969">Xuehai Zhou</author>
+<title>SOBA: A Services-Oriented Browser Architecture with Distributed URL-Filtering Mechanisms for Teenagers.</title>
+<pages>67-74</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.26</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#WangWLZ13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/ThorpeGCWBR13" mdate="2020-10-25">
+<author pid="54/8330">Sean S. E. Thorpe</author>
+<author orcid="0000-0003-1989-3913" pid="g/TyroneGrandison">Tyrone Grandison</author>
+<author pid="139/7920">Arnett Campbell</author>
+<author orcid="0000-0003-2913-3862" pid="08/8703">Janet Williams</author>
+<author pid="139/7966">Khalilah Burrell</author>
+<author pid="r/IndrajitRay">Indrajit Ray</author>
+<title>Towards a Forensic-Based Service Oriented Architecture Framework for Auditing of Cloud Logs.</title>
+<pages>75-83</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.76</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.76</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#ThorpeGCWBR13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>SPEAC Session 2</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/EspinarMK13" mdate="2017-09-16">
+<author pid="70/9736">Javier Espinar</author>
+<author orcid="0000-0001-5291-6174" pid="m/AntonioMana">Antonio Ma&#241;a</author>
+<author orcid="0000-0002-0660-0635" pid="47/3484">Hristo Koshutanski</author>
+<title>Workflow Operational Assurance Platform for Security-by-Design Certified Service-Based Coalitions.</title>
+<pages>84-91</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.14</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#EspinarMK13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/CimatoDZM13" mdate="2017-06-15">
+<author orcid="0000-0003-1737-6218" pid="60/3624">Stelvio Cimato</author>
+<author orcid="0000-0002-9557-6496" pid="d/EDamiani">Ernesto Damiani</author>
+<author pid="54/4150">Francesco Zavatarelli</author>
+<author pid="93/4323">Renato Menicocci</author>
+<title>Towards the Certification of Cloud Services.</title>
+<pages>92-97</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.16</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#CimatoDZM13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/KaluvuriBR13" mdate="2017-05-23">
+<author pid="52/9739">Samuel Paul Kaluvuri</author>
+<author pid="60/543">Michele Bezzi</author>
+<author pid="61/2819">Yves Roudier</author>
+<title>Bringing Common Criteria Certification to Web Services.</title>
+<pages>98-102</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.17</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#KaluvuriBR13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>SPEAC Session 3</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/MunozM13" mdate="2021-01-28">
+<author pid="15/4271-1">Antonio Mu&#241;oz 0001</author>
+<author orcid="0000-0001-5291-6174" pid="m/AntonioMana">Antonio Mana</author>
+<title>Bridging the GAP between Software Certification and Trusted Computing for Securing Cloud Computing.</title>
+<pages>103-110</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.15</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#MunozM13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/BadrB13" mdate="2020-10-25">
+<author orcid="0000-0002-8976-7894" pid="93/521">Youakim Badr</author>
+<author pid="05/5654">Soumya Banerjee</author>
+<title>Managing End-to-End Security Risks with Fuzzy Logic in Service-Oriented Architectures.</title>
+<pages>111-117</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.28</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#BadrB13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/HaleG13" mdate="2017-05-23">
+<author pid="98/9655">Matthew L. Hale</author>
+<author pid="25/2193">Rose F. Gamble</author>
+<title>Building a Compliance Vocabulary to Embed Security Controls in Cloud SLAs.</title>
+<pages>118-125</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.27</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#HaleG13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>PWT&#8212;IEEE 2013 International Workshop on Personalized Web Tasking</h2> 
+<h3>PWT Session 1</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/NgL13" mdate="2017-05-23">
+<author pid="63/8816">Joanna W. Ng</author>
+<author pid="139/7973">Diana H. Lau</author>
+<title>Going Beyond Web Browsing to Web Tasking: Transforming Web Users from Web Operators to Web Supervisors.</title>
+<pages>126-130</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.22</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#NgL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/NgL13a" mdate="2017-05-23">
+<author pid="63/8816">Joanna W. Ng</author>
+<author pid="139/7973">Diana H. Lau</author>
+<title>Social Ontology and Semantic Actions: Enabling Social Networking Services for Distributed Web Tasking.</title>
+<pages>131-135</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.23</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#NgL13a</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>PWT Session 2</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/WangW13" mdate="2017-05-23">
+<author pid="97/604">Haiming Wang</author>
+<author pid="25/5739">Kenny Wong</author>
+<title>Recommendation-Assisted Personal Web.</title>
+<pages>136-140</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.20</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#WangW13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/LachM13" mdate="2019-10-19">
+<author pid="128/2526">Przemek Lach</author>
+<author orcid="0000-0002-1004-5830" pid="m/HausiAMuller">Hausi A. M&#252;ller</author>
+<title>Towards Smarter Task Applications.</title>
+<pages>141-146</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.60</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LachM13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/CastanedaMV13" mdate="2019-10-19">
+<author pid="139/7857">Lorena Castaneda</author>
+<author orcid="0000-0002-1004-5830" pid="m/HausiAMuller">Hausi A. M&#252;ller</author>
+<author orcid="0000-0003-2872-3916" pid="48/8816">Norha M. Villegas</author>
+<title>Towards Personalized Web-Tasking: Task Simplification Challenges.</title>
+<pages>147-153</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.61</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#CastanedaMV13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>PWT Session 3</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/JainBCM13" mdate="2019-10-19">
+<author pid="139/7868">Pratik Jain</author>
+<author pid="122/3392">Andreas Bergen</author>
+<author pid="139/7857">Lorena Castaneda</author>
+<author orcid="0000-0002-1004-5830" pid="m/HausiAMuller">Hausi A. M&#252;ller</author>
+<title>PALTask Chat: A Personalized Automated Context Aware Web Resources Listing Tool.</title>
+<pages>154-157</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.62</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#JainBCM13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/IoiniSS13" mdate="2020-10-25">
+<author orcid="0000-0002-1288-1082" pid="36/1061">Nabil El Ioini</author>
+<author pid="s/AlbertoSillitti">Alberto Sillitti</author>
+<author orcid="0000-0001-8847-0186" pid="17/5631">Giancarlo Succi</author>
+<title>Using Rules for Web Service Client Side Testing.</title>
+<pages>158-165</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.63</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#IoiniSS13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/StrouliaGB13" mdate="2017-05-23">
+<author pid="66/3519">Eleni Stroulia</author>
+<author pid="135/8240">Dylan Gibbs</author>
+<author pid="135/8733">Blerina Bazelli</author>
+<title>Towards Families of Personalized Mobile Applications.</title>
+<pages>166-169</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.21</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#StrouliaGB13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>PWT Session 4</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/ElgazzarMH13" mdate="2017-11-16">
+<author pid="92/7480">Khalid Elgazzar</author>
+<author pid="m/PatrickMartin">Patrick Martin 0001</author>
+<author pid="07/3173">Hossam S. Hassanein</author>
+<title>Personalized Mobile Web Service Discovery.</title>
+<pages>170-174</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.18</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#ElgazzarMH13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/WangZUN13" mdate="2020-10-25">
+<author orcid="0000-0001-5777-7759" pid="09/486-2">Shaohua Wang 0002</author>
+<author pid="55/3451-1">Ying Zou 0001</author>
+<author pid="19/8390">Bipin Upadhyaya</author>
+<author pid="63/8816">Joanna Ng</author>
+<title>An Intelligent Framework for Auto-filling Web Forms from Different Web Applications.</title>
+<pages>175-179</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.19</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#WangZUN13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/ChatzikonstantinouAK13" mdate="2017-05-23">
+<author pid="124/7763">George Chatzikonstantinou</author>
+<author pid="14/7286">Michael Athanasopoulos</author>
+<author pid="33/5071">Kostas Kontogiannis</author>
+<title>Towards a Goal Driven Task Personalization Specification Framework.</title>
+<pages>180-184</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.75</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#ChatzikonstantinouAK13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>SDC&#8212;IEEE 2013 International Workshop on Services Discovery and Composition</h2> 
+<h3>SDC Session 1</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/MontenegroM13" mdate="2017-06-05">
+<author pid="83/7567">Marioli Montenegro</author>
+<author orcid="0000-0001-5291-6174" pid="m/AntonioMana">Antonio Mana</author>
+<title>Improving Interoperability of Digital Certificates for Software &#38; Services.</title>
+<pages>185-192</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.51</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#MontenegroM13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/ZhengZZNL13" mdate="2017-05-23">
+<author pid="62/1452">Jianhua Zheng</author>
+<author pid="z/LiangJieZhang">Liang-Jie Zhang</author>
+<author pid="01/784">Rong Zhu</author>
+<author pid="26/2500">Ke Ning</author>
+<author pid="98/1737">Dong Liu</author>
+<title>Parallel Matrix Multiplication Algorithm Based on Vector Linear Combination Using MapReduce.</title>
+<pages>193-200</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.67</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#ZhengZZNL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/Bellamy13" mdate="2017-05-23">
+<author pid="139/7987">Martin Bellamy</author>
+<title>Adoption of Cloud Computing Services by Public Sector Organisations.</title>
+<pages>201-208</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.50</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.50</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#Bellamy13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>SDC Session 2</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/XuZXR13" mdate="2017-09-16">
+<author pid="78/5451">Jiuyun Xu</author>
+<author pid="139/7990">Ruru Zhang</author>
+<author pid="139/7859">Kunming Xing</author>
+<author orcid="0000-0001-6456-7063" pid="r/StephanReiffMarganiec">Stephan Reiff-Marganiec</author>
+<title>Service Discovery Using Ontology Encoding Enhanced by Similarity of Information Content.</title>
+<pages>209-214</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.49</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#XuZXR13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/LiJZ13" mdate="2017-05-23">
+<author pid="32/3778">Desheng Li</author>
+<author pid="54/3221">Lianwen Jin</author>
+<author pid="91/3045">Yin Zhang</author>
+<title>HRPaaS: A Handwriting Recognition Platform as a Service Based on Middleware and the HTTP API.</title>
+<pages>215-220</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.80</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.80</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LiJZ13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/RizouA13" mdate="2022-01-03">
+<author orcid="0000-0002-3683-060X" pid="91/7353">Stamatia Rizou</author>
+<author pid="139/7998">George Angouras</author>
+<title>ORBI: An Internet Service for Self-Employed Professionals.</title>
+<pages>221-226</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.58</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#RizouA13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>SDC Session3</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/WangSB13" mdate="2018-04-25">
+<author pid="14/4119">Lijuan Wang</author>
+<author orcid="0000-0002-9403-7140" pid="48/5700-1">Jun Shen 0001</author>
+<author orcid="0000-0001-8087-5445" pid="58/6848">Ghassan Beydoun</author>
+<title>Enhanced Ant Colony Algorithm for Cost-Aware Data-Intensive Service Provision.</title>
+<pages>227-234</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.48</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#WangSB13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/Greer13" mdate="2017-05-23">
+<author pid="21/10279">Melvin B. Greer</author>
+<title>The New Cloud on the Horizon - Cloud Brokers.</title>
+<pages>235-238</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.84</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.84</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#Greer13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CSAW&#8212;IEEE 2013 International Workshop on Cloud Security Auditing</h2> 
+<h3>CSAW Session 1</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/SchiffmanSVJ13" mdate="2017-05-23">
+<author pid="35/376">Joshua Schiffman</author>
+<author pid="139/7955">Yuqiong Sun</author>
+<author pid="24/687">Hayawardh Vijayakumar</author>
+<author pid="45/576">Trent Jaeger</author>
+<title>Cloud Verifier: Verifiable Auditing Service for IaaS Clouds.</title>
+<pages>239-246</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.37</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#SchiffmanSVJ13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/Ravindran13" mdate="2017-05-23">
+<author pid="31/5408">Kaliappa Ravindran</author>
+<title>QoS Auditing for Evaluation of SLA in Cloud-based Distributed Services.</title>
+<pages>247-254</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.74</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#Ravindran13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/NixKS13" mdate="2018-11-14">
+<author pid="23/6698">Robert Nix</author>
+<author pid="36/195">Murat Kantarcioglu</author>
+<author orcid="0000-0002-8789-0610" pid="82/2803">Sachin Shetty</author>
+<title>Toward a Real-Time Cloud Auditing Paradigm.</title>
+<pages>255-259</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.43</ee>
+<ee>https://www.wikidata.org/entity/Q58028632</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#NixKS13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>CSAW Session 2</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/Shetty13" mdate="2018-11-14">
+<author orcid="0000-0002-8789-0610" pid="82/2803">Sachin Shetty</author>
+<title>Auditing and Analysis of Network Traffic in Cloud Environment.</title>
+<pages>260-267</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.42</ee>
+<ee>https://www.wikidata.org/entity/Q58028636</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#Shetty13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/BirnbaumLDCS13" mdate="2017-08-10">
+<author pid="119/6710">Zachary Birnbaum</author>
+<author pid="31/5060">Bingwei Liu</author>
+<author pid="48/7498">Andrey M. Dolgikh</author>
+<author pid="87/1254-2">Yu Chen 0002</author>
+<author pid="03/6020">Victor A. Skormin</author>
+<title>Cloud Security Auditing Based on Behavioral Modeling.</title>
+<pages>268-273</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.81</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.81</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#BirnbaumLDCS13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/ReynoldsG13" mdate="2017-05-23">
+<author pid="96/4867">David Reynolds</author>
+<author pid="86/4491">Mina Guirguis</author>
+<title>Control Theoretic Adaptive Monitoring Tools.</title>
+<pages>274-279</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.41</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#ReynoldsG13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>CSAW Session 3</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/GhazizadehMO13" mdate="2019-10-19">
+<author orcid="0000-0002-7745-5770" pid="119/5668">Puya Ghazizadeh</author>
+<author pid="m/RaviMukkamala">Ravi Mukkamala</author>
+<author pid="o/StephanOlariu">Stephan Olariu</author>
+<title>Data Integrity Evaluation in Cloud Database-as-a-Service.</title>
+<pages>280-285</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.40</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#GhazizadehMO13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/HuangYLD13" mdate="2017-05-23">
+<author pid="80/2732">Qiang Huang</author>
+<author pid="67/804">Lin Ye</author>
+<author pid="26/707">Xinran Liu</author>
+<author pid="22/5535">Xiaojiang Du</author>
+<title>Auditing CPU Performance in Public Cloud.</title>
+<pages>286-289</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.39</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#HuangYLD13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/GrandisonTS13" mdate="2021-10-14">
+<author orcid="0000-0003-1989-3913" pid="g/TyroneGrandison">Tyrone Grandison</author>
+<author pid="54/8330">Sean S. E. Thorpe</author>
+<author orcid="0000-0001-7823-6214" pid="40/10472">Leon Stenneth</author>
+<title>Simultaneously Supporting Privacy and Auditing in Cloud Computing Systems.</title>
+<pages>290-297</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.38</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#GrandisonTS13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/AlqahtaniGR13" mdate="2017-06-05">
+<author orcid="0000-0003-4572-7150" pid="139/7878">Sarra M. Alqahtani</author>
+<author pid="25/2193">Rose F. Gamble</author>
+<author pid="r/IndrakshiRay">Indrakshi Ray</author>
+<title>Auditing Requirements for Implementing the Chinese Wall Model in the Service Cloud.</title>
+<pages>298-305</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.44</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#AlqahtaniGR13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>FM-S&#38;C&#8212;IEEE 2013 International Workshop on Formal Methods in Services and Cloud Computing</h2> 
+<h3>FM-S&#38;C Session 1</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/ReddyFLD0K13" mdate="2017-05-23">
+<author pid="20/334">G. Satya Reddy</author>
+<author pid="71/4548">Yuzhang Feng</author>
+<author pid="51/3710-3">Yang Liu 0003</author>
+<author pid="33/6517">Jin Song Dong</author>
+<author pid="s/JunSun1">Jun Sun 0001</author>
+<author pid="r/KanagasabaiRajaraman">Rajaraman Kanagasabai</author>
+<title>Towards Formal Modeling and Verification of Cloud Architectures: A Case Study on Hadoop.</title>
+<pages>306-311</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.47</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#ReddyFLD0K13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/YuanZCG13" mdate="2017-05-23">
+<author pid="07/10311">Fangfang Yuan</author>
+<author pid="38/10035">Lidong Zhai</author>
+<author pid="97/5152">Yanan Cao</author>
+<author pid="02/929-1">Li Guo 0001</author>
+<title>Research of Intrusion Detection System on Android.</title>
+<pages>312-316</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.77</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.77</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#YuanZCG13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/HaleGG13" mdate="2021-10-10">
+<author pid="98/9655">Matthew L. Hale</author>
+<author pid="42/1696">Michael Todd Gamble</author>
+<author pid="25/2193">Rose F. Gamble</author>
+<title>A Design and Verification Framework for Service Composition in the Cloud.</title>
+<pages>317-324</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.46</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#HaleGG13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>FM-S&#38;C Session 2</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/SantoneIR13" mdate="2017-05-23">
+<author pid="98/670">Antonella Santone</author>
+<author pid="133/3938">Valentina Intilangelo</author>
+<author pid="133/4318">Domenico Raucci</author>
+<title>Efficient Formal Verification in Banking Processes.</title>
+<pages>325-332</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.79</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.79</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#SantoneIR13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/BaccarRA13" mdate="2017-05-23">
+<author pid="121/0539">Sana Baccar</author>
+<author pid="40/481">Mohsen Rouached</author>
+<author pid="71/1639">Mohamed Abid</author>
+<title>A User Requirements Oriented Semantic Web Services Composition Framework.</title>
+<pages>333-340</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.45</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#BaccarRA13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/KarimDM13" mdate="2017-05-23">
+<author pid="58/10286">Raed Karim</author>
+<author pid="139/2293">Chen (Cherie) Ding</author>
+<author pid="52/4812">Ali Miri</author>
+<title>An End-to-End QoS Mapping Approach for Cloud Service Selection.</title>
+<pages>341-348</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.71</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#KarimDM13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>FM-S&#38;C Session 3</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/MartiGQC13" mdate="2019-06-02">
+<author orcid="0000-0003-3526-9192" pid="13/3366">Jonathan Mart&#237;</author>
+<author pid="139/7867">Daniel Gasull</author>
+<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+<author orcid="0000-0002-2537-8937" pid="c/ToniCortes">Toni Cortes</author>
+<title>Towards DaaS 2.0: Enriching Data Models.</title>
+<pages>349-355</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.59</ee>
+<ee>https://www.wikidata.org/entity/Q61736946</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#MartiGQC13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CloudPerf&#8212;IEEE 2013 International Workshop on Performance Aspects of Cloud and Service Virtualization</h2> 
+<h3>CloudPerf Session 1</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/BerndtW13" mdate="2017-05-23">
+<author pid="51/10957">Philipp Berndt</author>
+<author pid="23/9083">Johannes Watzl</author>
+<title>Unitizing Performance of IaaS Cloud Deployments.</title>
+<pages>356-362</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.25</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#BerndtW13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/JiangZPH13" mdate="2021-02-11">
+<author pid="34/2005">Bo Jiang</author>
+<author pid="139/7939">Xiao-xiao Zhang</author>
+<author orcid="0000-0001-6355-1385" pid="75/6501">Weifeng Pan 0001</author>
+<author pid="04/2380-13">Bo Hu 0013</author>
+<title>BIGSIR: A Bipartite Graph Based Service Recommendation Method.</title>
+<pages>363-369</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.24</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#JiangZPH13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>CloudPerf Session 2</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/HanCL13" mdate="2019-10-19">
+<author orcid="0000-0001-6530-4564" pid="27/4390-3">Yi Han 0003</author>
+<author orcid="0000-0002-7865-072X" pid="19/3414">Jeffrey Chan</author>
+<author orcid="0000-0002-4388-0517" pid="73/1139">Christopher Leckie</author>
+<title>Analysing Virtual Machine Usage in Cloud Computing.</title>
+<pages>370-377</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.9</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#HanCL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/LiFXHLL13" mdate="2017-05-23">
+<author pid="40/1491">Xiang Li</author>
+<author pid="90/5039">Yushun Fan</author>
+<author pid="18/5084">Le Xin</author>
+<author pid="31/10769">Keman Huang</author>
+<author pid="133/7581">Yihang Luo</author>
+<author pid="97/4626">Yi Liu</author>
+<title>Impacts of Scheduling Algorithms in Services on Collective End-to-End Execution Time Characteristics of Web Service Workflows.</title>
+<pages>378-385</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.72</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.72</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LiFXHLL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/KhethavathTCL13" mdate="2020-01-23">
+<author pid="137/8852">Praveen Khethavath</author>
+<author pid="99/5655">Johnson P. Thomas</author>
+<author pid="58/5452">Eric Chan-Tin</author>
+<author pid="29/5010-22">Hong Liu 0022</author>
+<title>Introducing a Distributed Cloud Architecture with Efficient Resource Discovery and Optimal Resource Allocation.</title>
+<pages>386-392</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.68</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.68</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#KhethavathTCL13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CHIS&#8212;IEEE 2013 International Workshop on Computational and Hybrid Intelligence for Service Computing</h2> 
+<h3>CHIS Session 1</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/LeiWMWMQ13" mdate="2020-10-17">
+<author pid="284/8639">Yu Lei</author>
+<author pid="15/2643">Zhili Wang</author>
+<author pid="56/7275">Lingli Meng</author>
+<author pid="01/2998">Jiang Wang</author>
+<author pid="52/382">Luoming Meng</author>
+<author pid="13/342">Xuesong Qiu 0001</author>
+<title>Adaptive Web Services Composition Using Q-Learning in Cloud.</title>
+<pages>393-396</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.33</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LeiWMWMQ13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/TianXCXH13" mdate="2017-05-23">
+<author pid="70/916">Wenhong Tian</author>
+<author pid="09/2138">Ruini Xue</author>
+<author pid="06/3313">Jun Cao</author>
+<author pid="41/7806">Qin Xiong</author>
+<author pid="139/7991">Yunjun Hu</author>
+<title>An Energy-Efficient Online Parallel Scheduling Algorithm for Cloud Data Centers.</title>
+<pages>397-402</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.57</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#TianXCXH13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/LiL13" mdate="2017-05-23">
+<author pid="78/1940">Zhijie Li</author>
+<author pid="l/MingLi10">Ming Li 0010</author>
+<title>A Hierarchical Cloud Pricing System.</title>
+<pages>403-411</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.78</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.78</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LiL13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>CP&#8212;IEEE 2013 International Workshop on Cloud Provisioning</h2> 
+<h3>CP Session 1</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/LiZXWZG13" mdate="2017-05-23">
+<author pid="14/5410">Ning Li</author>
+<author pid="z/LiangJieZhang">Liang-Jie Zhang</author>
+<author pid="75/6813">Ping Xu</author>
+<author pid="58/6810">Li Wang</author>
+<author pid="62/1452">Jianhua Zheng</author>
+<author pid="139/7856">Yifu Guo</author>
+<title>Research on Pricing Model of Cloud Storage.</title>
+<pages>412-419</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.70</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.70</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LiZXWZG13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/WangZLLGZHK13" mdate="2021-01-18">
+<author pid="58/6810">Li Wang</author>
+<author pid="z/LiangJieZhang">Liang-Jie Zhang</author>
+<author pid="14/5410">Ning Li</author>
+<author pid="98/1737">Dong Liu</author>
+<author pid="139/7856">Yifu Guo</author>
+<author pid="62/1452">Jianhua Zheng</author>
+<author pid="04/2380-13">Bo Hu 0013</author>
+<author pid="15/388">Ning Ke</author>
+<title>Viral Marketing and Its Application in Enterprise Drive Operation.</title>
+<pages>420-427</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.56</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#WangZLLGZHK13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/OsmanEE13" mdate="2017-05-23">
+<author pid="139/7964">Amr Osman</author>
+<author pid="33/7161">Mohamed A. El-Refaey</author>
+<author pid="38/6055">Ayman Elnaggar</author>
+<title>Towards Real-Time Analytics in the Cloud.</title>
+<pages>428-435</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.36</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#OsmanEE13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>CP Session 2</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/MaoYSLC13" mdate="2017-05-23">
+<author pid="139/7862">Zexiang Mao</author>
+<author pid="139/7938">Jingqi Yang</author>
+<author pid="59/4425">Yanlei Shang</author>
+<author pid="00/3740">Chuanchang Liu</author>
+<author pid="63/6051">Junliang Chen</author>
+<title>A Game Theory of Cloud Service Deployment.</title>
+<pages>436-443</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.35</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#MaoYSLC13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/SakrL13" mdate="2019-06-02">
+<author orcid="0000-0002-2503-523X" pid="s/SherifSakr">Sherif Sakr</author>
+<author pid="89/5066">Anna Liu</author>
+<title>Is Your Cloud-Hosted Database Truly Elastic?</title>
+<pages>444-447</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.69</ee>
+<ee>https://www.wikidata.org/entity/Q62752579</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#SakrL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/LomoteyD13" mdate="2017-06-15">
+<author pid="117/5118">Richard K. Lomotey</author>
+<author orcid="0000-0001-6703-5839" pid="52/4351">Ralph Deters</author>
+<title>SaaS Authentication Middleware for Mobile Consumers of IaaS Cloud.</title>
+<pages>448-455</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.34</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LomoteyD13</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>CloudCup Workshop</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/services/JungMKKSG13" mdate="2017-05-23">
+<author pid="99/6820">Gueyoung Jung</author>
+<author pid="84/6388">Tridib Mukherjee</author>
+<author pid="139/7928">Shruti Kunde</author>
+<author pid="08/5086">Hyunjoo Kim</author>
+<author pid="23/1972">Naveen Sharma</author>
+<author pid="28/3310">Frank Goetz</author>
+<title>CloudAdvisor: A Recommendation-as-a-Service Platform for Cloud Configuration and Pricing.</title>
+<pages>456-463</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.55</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#JungMKKSG13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/LuSSSL13" mdate="2017-06-15">
+<author pid="79/4698">Hongbin Lu</author>
+<author pid="88/4048">Mark Shtern</author>
+<author pid="70/2154">Bradley Simmons</author>
+<author orcid="0000-0002-2028-4317" pid="19/86">Michael Smit</author>
+<author pid="55/887">Marin Litoiu</author>
+<title>Pattern-Based Deployment Service for Next Generation Clouds.</title>
+<pages>464-471</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.54</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#LuSSSL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/SmitSSL13" mdate="2017-06-15">
+<author orcid="0000-0002-2028-4317" pid="19/86">Michael Smit</author>
+<author pid="88/4048">Mark Shtern</author>
+<author pid="70/2154">Bradley Simmons</author>
+<author pid="55/887">Marin Litoiu</author>
+<title>Enabling an Enhanced Data-as-a-Service Ecosystem.</title>
+<pages>472-479</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.53</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#SmitSSL13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/KanagasabaiNFVEKTA13" mdate="2020-02-24">
+<author pid="r/KanagasabaiRajaraman">Rajaraman Kanagasabai</author>
+<author pid="31/6557">Le Duy Ngan</author>
+<author pid="71/4548">Yuzhang Feng</author>
+<author pid="00/3901">Anitha Veeramani</author>
+<author pid="139/8010">Joel Koo Chong En</author>
+<author pid="124/6755">Chan Chee Keong</author>
+<author pid="62/5858">Flora S. Tsai</author>
+<author pid="00/336">Artur Andrzejak 0001</author>
+<title>EC2BargainHunter: It's Easy to Hunt for Cost Savings on Amazon EC2!</title>
+<pages>480-487</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.52</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.52</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#KanagasabaiNFVEKTA13</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/services/DaiCWC13" mdate="2017-05-23">
+<author pid="139/8000">Wenyun Dai</author>
+<author pid="31/6907">Haopeng Chen</author>
+<author pid="49/8549">Wenting Wang</author>
+<author pid="16/3283">Xi Chen</author>
+<title>RMORM: A framework of Multi-objective Optimization Resource Management in Clouds.</title>
+<pages>488-494</pages>
+<year>2013</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2013.85</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2013.85</ee>
+<crossref>conf/services/2013</crossref>
+<url>db/conf/services/services2013.html#DaiCWC13</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

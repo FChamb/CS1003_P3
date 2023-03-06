@@ -1,0 +1,390 @@
+<bht key="db/journals/aicom/aicom30.bht" title="AI Communications, Volume 30"> 
+<h1><ref href="db/journals/aicom/index.html">AI Communications</ref>, Volume 30</h1> 
+<h2>Volume 30, Number 1, 2017</h2> Special Section - AI Communications Track on Agreement Technologies <dblpcites><r style="ee"><article key="journals/aicom/HerzigM17" mdate="2017-05-18">
+<author pid="h/AndreasHerzig">Andreas Herzig</author>
+<author pid="169/8402">Faustine Maffre</author>
+<title>How to share knowledge by gossiping.</title>
+<pages>1-17</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-170723</ee>
+<url>db/journals/aicom/aicom30.html#HerzigM17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/RodriguezHPPDJ17" mdate="2022-04-09">
+<author pid="121/4081">Paula Rodr&#237;guez</author>
+<author orcid="0000-0001-6212-9377" pid="16/17">Stella Heras</author>
+<author pid="45/3882">Javier Palanca</author>
+<author pid="197/8488">Jhon M. Poveda</author>
+<author pid="121/4262">N&#233;stor D. Duque</author>
+<author orcid="0000-0002-2743-6037" pid="80/1703">Vicente Juli&#225;n</author>
+<title>An educational recommender system based on argumentation theory.</title>
+<pages>19-36</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-170724</ee>
+<url>db/journals/aicom/aicom30.html#RodriguezHPPDJ17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/BillhardtFLOJPH17" mdate="2022-04-09">
+<author orcid="0000-0001-8298-4178" pid="30/2434">Holger Billhardt</author>
+<author orcid="0000-0002-8962-6856" pid="132/1966">Alberto Fern&#225;ndez 0002</author>
+<author pid="13/7269">Marin Lujak</author>
+<author orcid="0000-0003-2483-9508" pid="o/SaschaOssowski">Sascha Ossowski</author>
+<author orcid="0000-0002-2743-6037" pid="80/1703">Vicente Juli&#225;n</author>
+<author orcid="0000-0001-9461-7922" pid="53/2507">Juan F. De Paz</author>
+<author pid="42/891">Josefa Z. Hern&#225;ndez</author>
+<title>Coordinating open fleets. A taxi assignment example.</title>
+<pages>37-52</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-170722</ee>
+<url>db/journals/aicom/aicom30.html#BillhardtFLOJPH17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/LujakO17" mdate="2022-04-09">
+<author pid="13/7269">Marin Lujak</author>
+<author orcid="0000-0003-2483-9508" pid="o/SaschaOssowski">Sascha Ossowski</author>
+<title>Evacuation route optimization architecture considering human factor.</title>
+<pages>53-66</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-170721</ee>
+<url>db/journals/aicom/aicom30.html#LujakO17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/MarfiaFN17" mdate="2020-12-29">
+<author pid="05/10328">Fabio Marfia</author>
+<author orcid="0000-0003-1692-880X" pid="90/4020">Nicoletta Fornara</author>
+<author pid="10/4162">Truc-Vien T. Nguyen</author>
+<title>A framework for managing data provider and data consumer semantic obligations for access control.</title>
+<pages>67-82</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-170725</ee>
+<url>db/journals/aicom/aicom30.html#MarfiaFN17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/ChamosoPPP17" mdate="2020-06-15">
+<author orcid="0000-0001-5109-3583" pid="146/0245">Pablo Chamoso</author>
+<author orcid="0000-0001-9461-7922" pid="53/2507">Juan F. De Paz</author>
+<author orcid="0000-0002-8239-5020" pid="81/8228">Fernando de la Prieta</author>
+<author pid="12/3078">Javier Bajo P&#233;rez</author>
+<title>Agreement technologies applied to transmission towers maintenance.</title>
+<pages>83-98</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-170726</ee>
+<url>db/journals/aicom/aicom30.html#ChamosoPPP17</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 30, Number 2, 2017</h2> Research Article <dblpcites><r style="ee"><article key="journals/aicom/Mohamadi-Baghmolaei17" mdate="2022-10-02">
+<author pid="161/6817">Rezvan Mohamadi-Baghmolaei</author>
+<author orcid="0000-0002-8129-9918" pid="57/10021">Niloofar Mozafari</author>
+<author orcid="0000-0001-9873-4122" pid="04/4722">Ali Hamzeh</author>
+<title>Continuous states latency aware influence maximization in social networks.</title>
+<pages>99-116</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-170720</ee>
+<url>db/journals/aicom/aicom30.html#Mohamadi-Baghmolaei17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Oprea17" mdate="2017-05-29">
+<author pid="33/6060">Mihaela Oprea</author>
+<title>ABVE-Frame: An agent-based virtual enterprise development framework.</title>
+<pages>117-140</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-160719</ee>
+<url>db/journals/aicom/aicom30.html#Oprea17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/ChaudhariAM17" mdate="2019-10-19">
+<author pid="120/8760">Sneha Chaudhari</author>
+<author orcid="0000-0002-5057-1309" pid="18/9923">Amos Azaria</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<title>An entity graph based Recommender System.</title>
+<pages>141-149</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-170728</ee>
+<url>db/journals/aicom/aicom30.html#ChaudhariAM17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/BulnesDMT17" mdate="2019-12-27">
+<author pid="200/5354">Darian Reyes Fern&#225;ndez de Bulnes</author>
+<author pid="191/6613">Juan Carlos Dibene</author>
+<author pid="59/3963">Yazm&#237;n Maldonado</author>
+<author orcid="0000-0003-1812-5736" pid="62/1755">Leonardo Trujillo</author>
+<title>High-Level Synthesis through metaheuristics and LUTs optimization in FPGA devices.</title>
+<pages>151-168</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-170727</ee>
+<url>db/journals/aicom/aicom30.html#BulnesDMT17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/TharwatGIH17" mdate="2018-11-02">
+<author pid="146/8550">Alaa Tharwat</author>
+<author orcid="0000-0003-4065-4191" pid="05/10880">Tarek Gaber</author>
+<author orcid="0000-0002-8352-6731" pid="83/7441">Abdelhameed Ibrahim</author>
+<author pid="h/AboulEllaHassanien">Aboul Ella Hassanien</author>
+<title>Linear discriminant analysis: A detailed tutorial.</title>
+<pages>169-190</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-170729</ee>
+<url>db/journals/aicom/aicom30.html#TharwatGIH17</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 30, Numbers 3-4, 2017</h2> <dblpcites><r style="ee"><article key="journals/aicom/Diaz-AgudoG17" mdate="2020-09-05">
+<author orcid="0000-0003-2818-027X" pid="74/3942">Bel&#233;n D&#237;az-Agudo</author>
+<author pid="g/AshokKGoel">Ashok K. Goel 0001</author>
+<title>Special Issue on Case Based Reasoning.</title>
+<pages>191-192</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170730</ee>
+<url>db/journals/aicom/aicom30.html#Diaz-AgudoG17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/JalaliLF17" mdate="2017-08-07">
+<author pid="48/7995">Vahid Jalali</author>
+<author pid="61/6475">David Leake</author>
+<author pid="146/8066">Najmeh Forouzandehmehr</author>
+<title>Learning and applying adaptation rules for categorical features: An ensemble approach.</title>
+<pages>193-205</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170731</ee>
+<url>db/journals/aicom/aicom30.html#JalaliLF17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/ChenWP17" mdate="2017-09-25">
+<author pid="c/LiChen9">Li Chen 0009</author>
+<author pid="90/4225-9">Feng Wang 0009</author>
+<author pid="76/2682">Pearl Pu</author>
+<title>Investigating users' eye movement behavior in critiquing-based recommender systems.</title>
+<pages>207-222</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170737</ee>
+<url>db/journals/aicom/aicom30.html#ChenWP17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Jimenez-DiazGGS17" mdate="2017-08-07">
+<author pid="13/6994">Guillermo Jim&#233;nez-D&#237;az</author>
+<author pid="70/3374">Pedro Pablo G&#243;mez-Mart&#237;n</author>
+<author pid="45/6443">Marco Antonio G&#243;mez-Mart&#237;n</author>
+<author pid="99/1775">Antonio A. S&#225;nchez-Ruiz</author>
+<title>Similarity metrics from social network analysis for content recommender systems.</title>
+<pages>223-234</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170732</ee>
+<url>db/journals/aicom/aicom30.html#Jimenez-DiazGGS17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/FerrerP17" mdate="2020-11-04">
+<author pid="120/5874">Xavier Ferrer Aran</author>
+<author pid="p/EnricPlaza">Enric Plaza</author>
+<title>On argument bundles in the Web of Experiences.</title>
+<pages>235-249</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170736</ee>
+<url>db/journals/aicom/aicom30.html#FerrerP17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/HomemPSBM17" mdate="2020-06-15">
+<author pid="182/1219">Thiago Pedro Donadon Homem</author>
+<author orcid="0000-0001-6887-9240" pid="187/9085">Danilo H. Perico</author>
+<author orcid="0000-0001-8484-0354" pid="33/5229">Paulo Eduardo Santos</author>
+<author pid="40/169">Reinaldo Augusto da Costa Bianchi</author>
+<author pid="m/RLdMantaras">Ram&#243;n L&#243;pez de M&#225;ntaras</author>
+<title>Retrieving and reusing qualitative cases: An application in humanoid-robot soccer.</title>
+<pages>251-265</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170735</ee>
+<url>db/journals/aicom/aicom30.html#HomemPSBM17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/SizovOM17" mdate="2017-08-07">
+<author pid="115/4829">Gleb Sizov</author>
+<author pid="01/2796">Pinar &#214;zt&#252;rk</author>
+<author pid="47/4472">Erwin Marsi</author>
+<title>Let me explain: Adaptation of explanations extracted from incident reports.</title>
+<pages>267-280</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170738</ee>
+<url>db/journals/aicom/aicom30.html#SizovOM17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/FloydA17" mdate="2017-09-04">
+<author pid="09/5342">Michael W. Floyd</author>
+<author pid="25/557">David W. Aha</author>
+<title>Using explanations to provide transparency during trust-guided behavior adaptation.</title>
+<pages>281-294</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170733</ee>
+<url>db/journals/aicom/aicom30.html#FloydA17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/MathewC17" mdate="2019-10-19">
+<author orcid="0000-0003-3839-284X" pid="185/7653">Ditty Mathew</author>
+<author pid="03/1876">Sutanu Chakraborti</author>
+<title>A generalized case competence model for casebase maintenance.</title>
+<pages>295-309</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/AIC-170734</ee>
+<url>db/journals/aicom/aicom30.html#MathewC17</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 30, Number 5, 2017</h2> Research Article <dblpcites><r style="ee"><article key="journals/aicom/RehmanTHL17" mdate="2021-03-10">
+<author pid="202/1843">Sadaqat ur Rehman</author>
+<author pid="227/4548">Shan-Shan Tu</author>
+<author pid="76/6824-1">Yongfeng Huang 0001</author>
+<author pid="118/6048">Guojie Liu</author>
+<title>CSFL: A novel unsupervised convolution neural network approach for visual pattern classification.</title>
+<pages>311-324</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>5</number>
+<ee>https://doi.org/10.3233/AIC-170739</ee>
+<url>db/journals/aicom/aicom30.html#RehmanTHL17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/CaldwellGN17" mdate="2020-10-26">
+<author orcid="0000-0003-4475-8967" pid="38/2172">James L. Caldwell</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Generalized support and formal development of constraint propagators.</title>
+<pages>325-346</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>5</number>
+<ee>https://doi.org/10.3233/AIC-170740</ee>
+<url>db/journals/aicom/aicom30.html#CaldwellGN17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Fraga-GonzalezF17" mdate="2022-12-08">
+<author pid="205/3557">Luis Fernando Fraga-Gonzalez</author>
+<author orcid="0000-0003-2559-539X" pid="205/3636">Rita Quetziquel Fuentes-Aguilar</author>
+<author orcid="0000-0002-7250-4641" pid="205/3629">Alejandro Garc&#237;a-Gonz&#225;lez</author>
+<author pid="21/1333">Gildardo S&#225;nchez-Ante</author>
+<title>Adaptive simulated annealing for tuning PID controllers.</title>
+<pages>347-362</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>5</number>
+<ee>https://doi.org/10.3233/AIC-170741</ee>
+<url>db/journals/aicom/aicom30.html#Fraga-GonzalezF17</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 30, Number 6, 2017</h2> Research Article 
+<dblpcites><r style="ee"><article key="journals/aicom/EmamiSB17" mdate="2020-10-26">
+<author pid="133/8312">Hojjat Emami</author>
+<author orcid="0000-0002-3326-8527" pid="58/2807">Hossein Shirazi</author>
+<author pid="56/4443">Ahmad Abdollahzadeh Barforoush</author>
+<title>A semantic approach to cross-document person profiling in Web.</title>
+<pages>363-391</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>6</number>
+<ee>https://doi.org/10.3233/AIC-170742</ee>
+<url>db/journals/aicom/aicom30.html#EmamiSB17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/GoldenbergFPSS17" mdate="2019-10-19">
+<author pid="94/9797">Meir Goldenberg</author>
+<author orcid="0000-0003-0065-2757" pid="43/5063">Ariel Felner</author>
+<author pid="163/6315">Alon Palombo</author>
+<author pid="18/991">Nathan R. Sturtevant</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>The compressed differential heuristic.</title>
+<pages>393-418</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>6</number>
+<ee>https://doi.org/10.3233/AIC-170743</ee>
+<url>db/journals/aicom/aicom30.html#GoldenbergFPSS17</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Sutcliffe17" mdate="2021-04-09">
+<author orcid="0000-0001-9120-3927" pid="s/GeoffSutcliffe">Geoff Sutcliffe</author>
+<title>The CADE-26 automated theorem proving system competition - CASC-26.</title>
+<pages>419-432</pages>
+<year>2017</year>
+<volume>30</volume>
+<journal>AI Commun.</journal>
+<number>6</number>
+<ee>https://doi.org/10.3233/AIC-170744</ee>
+<url>db/journals/aicom/aicom30.html#Sutcliffe17</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

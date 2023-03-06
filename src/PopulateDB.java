@@ -113,9 +113,10 @@ public class PopulateDB {
                 Node venueName = nodeList.item(i);
                 if (venueName.getNodeType() == Node.ELEMENT_NODE) {
                     Element element = (Element) venueName;
-                    if (element.hasAttribute("inproceedings") || element.hasAttribute("article")) {
-                        publications += element.getElementsByTagName("title").getLength();
-                    }
+                    //if (element.hasAttribute("inproceedings") || element.hasAttribute("article")) {
+                        //publications += element.getElementsByTagName("title").getLength();
+                    //}
+		   publications += element.getElementsByTagName("title").getLength();
 
                 }
             }

@@ -1,0 +1,164 @@
+<bht key="db/journals/ai/ai70.bht" title="Artificial Intelligence, Volume 70"> 
+
+<h1><ref href="db/journals/ai/index.html">Artificial Intelligence</ref>, Volume 70</h1>
+<h2>Volume 70, Numbers 1-2, October 1994</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/WilkinsM94" mdate="2017-05-27">
+<author pid="83/754">David C. Wilkins</author>
+<author pid="33/3013">Yong Ma</author>
+<title>The Refinement of Probabilistic Rule Sets: Sociopathic Interactions.</title>
+<pages>1-32</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#WilkinsM94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90101-5</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Gerla94" mdate="2018-11-14">
+<author pid="38/2239">Giangiacomo Gerla</author>
+<title>Inferences in Probability Logic.</title>
+<pages>33-52</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#Gerla94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90102-3</ee>
+<ee>https://www.wikidata.org/entity/Q55982583</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Lifschitz94" mdate="2017-05-27">
+<author pid="l/VLifschitz">Vladimir Lifschitz</author>
+<title>Minimal Belief and Negation as Failure.</title>
+<pages>53-72</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#Lifschitz94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90103-1</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/WilliamsH94" mdate="2017-05-27">
+<author pid="76/5178">Colin P. Williams</author>
+<author pid="11/4299">Tad Hogg</author>
+<title>Exploiting the Deep Structure of Constraint Problems.</title>
+<pages>73-117</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#WilliamsH94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90104-X</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/TowellS94" mdate="2017-05-27">
+<author pid="62/2722">Geoffrey G. Towell</author>
+<author pid="s/JudeWShavlik">Jude W. Shavlik</author>
+<title>Knowledge-Based Artificial Neural Networks.</title>
+<pages>119-165</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#TowellS94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90105-8</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/DelgrandeSJ94" mdate="2017-05-27">
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<author pid="s/TorstenSchaub">Torsten Schaub</author>
+<author pid="46/2672">W. Ken Jackson</author>
+<title>Alternative Approaches to Default Logic.</title>
+<pages>167-237</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#DelgrandeSJ94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90106-6</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/ParodiT94" mdate="2017-05-27">
+<author pid="30/6528">Pietro Parodi</author>
+<author pid="87/3445">Vincent Torre</author>
+<title>On the Complexity of Labeling Perspective Projections of Polyhedral Scenes.</title>
+<pages>239-276</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#ParodiT94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90107-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Nayak94" mdate="2017-05-27">
+<author pid="57/2360">P. Pandurang Nayak</author>
+<title>Causal Approximations.</title>
+<pages>277-334</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#Nayak94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90108-2</ee>
+</article>
+</r>
+</dblpcites>
+Research Notes 
+<dblpcites><r style="ee"><article key="journals/ai/GentW94" mdate="2019-09-25">
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2998-8668" pid="86/2576">Toby Walsh</author>
+<title>Easy Problems are Sometimes Hard.</title>
+<pages>335-345</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#GentW94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90109-0</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/GereviniS94" mdate="2017-05-27">
+<author pid="73/3274">Alfonso Gerevini</author>
+<author pid="s/LenhartKSchubert">Lenhart K. Schubert</author>
+<title>On Point-Based Temporal Disjointness.</title>
+<pages>347-361</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#GereviniS94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90110-4</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/LismontM94" mdate="2017-05-27">
+<author pid="41/183">Luc Lismont</author>
+<author pid="12/6456">Philippe Mongin</author>
+<title>A Non-Minimal But Very Weak Axiomatization of Common Belief.</title>
+<pages>363-374</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#LismontM94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90111-2</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/RaedtD94" mdate="2022-04-09">
+<author orcid="0000-0002-6860-6303" pid="r/LucDeRaedt">Luc De Raedt</author>
+<author orcid="0000-0003-2363-712X" pid="d/SasoDzeroski">Saso Dzeroski</author>
+<title>First-Order jk-Clausal Theories are PAC-Learnable.</title>
+<pages>375-392</pages>
+<year>1994</year>
+<volume>70</volume>
+<journal>Artif. Intell.</journal>
+<number>1-2</number>
+<url>db/journals/ai/ai70.html#RaedtD94</url>
+<ee>https://doi.org/10.1016/0004-3702(94)90112-0</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

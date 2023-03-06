@@ -1,0 +1,430 @@
+<bht key="db/conf/ausai/ausai1988.bht" title="Australian Joint Conference on Artificial Intelligence 1988">  
+<h1>2. <ref href="db/conf/ausai/index.html">Australian Joint Conference on Artificial Intelligence</ref> 1988:
+Adelaide, Australia</h1> <dblpcites><r><proceedings key="conf/ausai/1988" mdate="2019-05-14">
+<editor pid="28/6728">Chris J. Barter</editor>
+<editor pid="b/MJBrooks">Michael J. Brooks</editor>
+<title>AI '88: 2nd Australian Joint Artificial Intelligence Conference, Adelaide, Australia, November 15-18, 1988, Proceedings</title>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>406</volume>
+<publisher>Springer</publisher>
+<year>1990</year>
+<isbn>3-540-52062-7</isbn>
+<ee>https://doi.org/10.1007/3-540-52062-7</ee>
+<url>db/conf/ausai/ausai1988.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Invited Presentations</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ausai/Clancey88" mdate="2017-05-19">
+<author pid="98/1978">William J. Clancey</author>
+<title>A Perspective on the Nature of Artificial Intelligence - Enabling and Enhancing Capabilities for Society.</title>
+<pages>2-6</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Clancey88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_65</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/Fahlman88" mdate="2017-05-19">
+<author pid="16/3174">Scott E. Fahlman</author>
+<title>What can Massively Parallel Architectures Bring to AI?</title>
+<pages>7-11</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Fahlman88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_66</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Expert systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ausai/HegartySH88" mdate="2017-05-19">
+<author pid="87/3869">Maree Hegarty</author>
+<author pid="35/478">John D. Smith</author>
+<author pid="60/2819">David Hamilton</author>
+<title>Herbicide Advisory Systems: Weeds in Wheat and other Crops.</title>
+<pages>14-29</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#HegartySH88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_67</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/Scholz88" mdate="2017-05-19">
+<author pid="37/1177">Jason B. Scholz</author>
+<title>A Real-Time Knowledge-Based System for Frequency Management in Communications.</title>
+<pages>30-39</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Scholz88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_68</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/McNamaraLT88" mdate="2017-05-19">
+<author pid="09/2986">Alan R. McNamara</author>
+<author pid="60/3900">Laurie G. Lock Lee</author>
+<author pid="39/7014">Kee Chye Teh</author>
+<title>Experiences in Developing an Intelligent Operator Guidance System.</title>
+<pages>40-47</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#McNamaraLT88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_69</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/MenziesDBF88" mdate="2017-05-19">
+<author pid="m/TimMenzies">Tim Menzies</author>
+<author pid="02/5051">M. Dean</author>
+<author pid="53/1002">J. L. Black</author>
+<author pid="97/2598">J. F. Fleming</author>
+<title>Combining Heuristics and Simulation Models: An Expert System for the Optimal Management of Pigs.</title>
+<pages>48-61</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#MenziesDBF88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_70</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/BaxterOB88" mdate="2017-05-19">
+<author pid="94/2661">J. D. Baxter</author>
+<author pid="02/3106">R. B. Oldland</author>
+<author pid="40/5875">R. J. Bottomley</author>
+<title>The Use of Expert Knowledge in the Selection of CIG Welding Consumables.</title>
+<pages>62-74</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#BaxterOB88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_71</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/BergerSZ88" mdate="2017-05-19">
+<author pid="77/4237">R. A. Berger</author>
+<author pid="41/4303">Elizabeth A. Sonenberg</author>
+<author pid="97/1460">John Zelcer</author>
+<title>A Knowledge Based Simulation of Critical Incidents in Anaesthesia.</title>
+<pages>75-89</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#BergerSZ88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_72</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Tutoring</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ausai/OliverZ88" mdate="2019-10-19">
+<author pid="07/6370">Jonathan J. Oliver</author>
+<author orcid="0000-0003-2237-5017" pid="z/IngridZukerman">Ingrid Zukerman</author>
+<title>DISSOLVE: A System for the Generation of Human Oriented Solutions to Algebraic Equations.</title>
+<pages>92-107</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#OliverZ88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_73</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/AmatoT88" mdate="2017-05-19">
+<author pid="81/5010">N. H. Amato</author>
+<author pid="96/3943">Chi Ping Tsang</author>
+<title>Student Modelling in a Keyboard Scale Tutoring System.</title>
+<pages>108-123</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#AmatoT88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_74</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/ZukermanC88" mdate="2019-10-19">
+<author orcid="0000-0003-2237-5017" pid="z/IngridZukerman">Ingrid Zukerman</author>
+<author pid="89/4261">Yee Han Cheong</author>
+<title>Contradictions and Revisions as Explanatory Aids in the Delivery of Technical Information.</title>
+<pages>124-139</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#ZukermanC88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_75</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Logic and Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ausai/Newmarch88" mdate="2017-05-19">
+<author pid="n/JanNewmarch">Jan Newmarch</author>
+<title>A Case Study in Deterministic Prolog.</title>
+<pages>142-155</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Newmarch88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_76</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/GirleM88" mdate="2018-11-02">
+<author orcid="0000-0002-5828-147X" pid="30/6263">Roderic A. Girle</author>
+<author pid="00/2571">Michael A. McRobbie</author>
+<title>Exploring the Epistemic Labyrinth: New Directions in the Formal Theory of Knowledge Representation.</title>
+<pages>156-176</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#GirleM88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_77</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/AngerMRM88" mdate="2017-10-24">
+<author pid="92/6495">Frank D. Anger</author>
+<author pid="32/2472-1">Robert A. Morris 0001</author>
+<author pid="04/5782">Rita V. Rodr&#237;guez</author>
+<author pid="47/667">Ram&#243;n A. Mata-Toledo</author>
+<title>A Temporal Relational Calculus.</title>
+<pages>177-186</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#AngerMRM88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_78</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/Bollen88" mdate="2017-05-19">
+<author pid="01/4903">A. W. Bollen</author>
+<title>Counterfactuals, Cotenability and Consistency.</title>
+<pages>187-201</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Bollen88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_79</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge Acquisition and Representation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ausai/Brown88" mdate="2017-05-19">
+<author pid="20/1769">D. J. H. Brown</author>
+<title>A Knowledge Acquisition Tool for Decision Support Systems.</title>
+<pages>204-213</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Brown88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_80</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/MorrisonDM88" mdate="2017-05-19">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="m/ChrisDMarlin">Chris D. Marlin</author>
+<title>Adaptive Data Stores.</title>
+<pages>214-224</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#MorrisonDM88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_81</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/Webb88" mdate="2017-05-19">
+<author pid="w/GeoffreyIWebb">Geoffrey I. Webb</author>
+<title>Techniques for Efficient Empirical Induction.</title>
+<pages>225-239</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Webb88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_82</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/TanDZ88" mdate="2019-12-27">
+<author pid="09/3345">P. L. Tan</author>
+<author pid="25/4706">Tharam S. Dillon</author>
+<author orcid="0000-0002-8786-2644" pid="96/5960">John Zeleznikow</author>
+<title>Representing Exceptions in Rule-Based Systems.</title>
+<pages>240-255</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#TanDZ88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_83</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/Creasy88" mdate="2017-05-19">
+<author pid="88/1580">Peter N. Creasy</author>
+<title>Conceptual Graphs from a Knowledge Systems Viewpoint.</title>
+<pages>256-271</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Creasy88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_84</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge Engineering</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ausai/Pilote88" mdate="2017-05-19">
+<author pid="36/5027">Michel Pilote</author>
+<title>Implementing Second Generation Rule-Based Financial Applications Today.</title>
+<pages>274-291</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Pilote88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_85</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/ComptonJ88" mdate="2021-10-14">
+<author orcid="0000-0002-7282-8814" pid="c/PaulCompton">Paul Compton</author>
+<author pid="j/BobJansen">Bob Jansen</author>
+<title>Knowledge in Context: A Strategy for Expert System Maintenance.</title>
+<pages>292-306</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#ComptonJ88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_86</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/RappaportG88" mdate="2017-05-19">
+<author pid="69/1435">Alain T. Rappaport</author>
+<author pid="g/BrianRGaines">Brian R. Gaines</author>
+<title>Integrating Knowledge Acquisition and Performance Systems.</title>
+<pages>307-326</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#RappaportG88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_87</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Vision and Robotics</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ausai/SkinnerB88" mdate="2017-05-19">
+<author pid="98/4044">D. R. Skinner</author>
+<author pid="04/1897">K. K. Benke</author>
+<title>A Machine Vision System with Learning Capabilities.</title>
+<pages>328-346</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#SkinnerB88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_88</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/Jarvis88" mdate="2017-05-19">
+<author pid="74/612">Ray A. Jarvis</author>
+<title>Range from Out of Focus Blur.</title>
+<pages>347-362</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Jarvis88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_89</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/Zelinsky88" mdate="2017-05-19">
+<author pid="35/1386">Alexander Zelinsky</author>
+<title>Environment Mapping with a Mobile Robot Using Sonar.</title>
+<pages>363-378</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#Zelinsky88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_90</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/SuterC88" mdate="2018-11-02">
+<author orcid="0000-0001-6306-3023" pid="37/5634">David Suter</author>
+<author pid="41/1405">Harvey A. Cohen</author>
+<title>Incorporating Knowledge via Regularization Theory: Applications in Vision and Image Processing.</title>
+<pages>379-394</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#SuterC88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_91</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Natural Language</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ausai/HuiZ88" mdate="2019-10-19">
+<author pid="35/2206">Lai Leng Hui</author>
+<author orcid="0000-0003-2237-5017" pid="z/IngridZukerman">Ingrid Zukerman</author>
+<title>Common-sense Resolution of Syntactic Ambiguity in Database Queries.</title>
+<pages>396-409</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#HuiZ88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_92</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/JenningsR88" mdate="2017-05-19">
+<author pid="69/2449">A. Jennings</author>
+<author pid="67/1399">Chris D. Rowles</author>
+<title>Capability Based Natural Language Understanding.</title>
+<pages>410-421</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#JenningsR88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_93</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Parallel Processing and Distributed AI</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ausai/FangW88" mdate="2017-05-19">
+<author pid="66/29">Luyuan Fang</author>
+<author pid="91/1083">William H. Wilson</author>
+<title>Character Pattern Recognition on a Computational Neural Network.</title>
+<pages>424-431</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#FangW88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_94</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/GeF88" mdate="2017-05-19">
+<author pid="40/2540">Qing Ge</author>
+<author pid="f/NVFindler">Nicholas V. Findler</author>
+<title>Distributed Planning and Control for Manufacturing Operations.</title>
+<pages>432-448</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#GeF88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_95</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ausai/LauY88" mdate="2017-05-19">
+<author pid="17/2652">Vickitt Lau</author>
+<author pid="y/JiaHuaiYou">Jia-Huai You</author>
+<title>Parallelism in Nonmonotonic Multiple Inheritance Systems.</title>
+<pages>449-462</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#LauY88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_96</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

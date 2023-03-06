@@ -1,0 +1,377 @@
+<bht key="db/conf/pos/pos2000.bht" title="POS-9 2000: Lillehammer, Norway"> 
+<h1><ref href="db/conf/pos/index.html">POS</ref>-9 2000:
+Lillehammer, Norway</h1> <dblpcites><r><proceedings key="conf/pos/2000" mdate="2019-05-14">
+<editor pid="k/GNCKirby">Graham N. C. Kirby</editor>
+<editor pid="d/AlanDearle">Alan Dearle</editor>
+<editor pid="32/889">Dag I. K. Sj&#248;berg</editor>
+<title>Persistent Object Systems, 9th International Workshop, POS-9, Lillehammer, Norway, September 6-8, 2000, Revised Papers</title>
+<booktitle>POS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2135</volume>
+<publisher>Springer</publisher>
+<year>2001</year>
+<isbn>3-540-42735-X</isbn>
+<ee>https://doi.org/10.1007/3-540-45498-5</ee>
+<url>db/conf/pos/pos2000.html</url>
+</proceedings>
+</r>
+</dblpcites>
+  
+<h2>Session 1</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Kirby00" mdate="2017-05-21">
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<title>Session 1: Overview.</title>
+<pages>1-3</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_1</ee>
+<url>db/conf/pos/pos2000.html#Kirby00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/WhitlockH00" mdate="2017-05-21">
+<author pid="21/1953">David Whitlock</author>
+<author pid="h/AntonyLHosking">Antony L. Hosking</author>
+<title>A Framework for Persistence-Enabled Optimization of Java Object Stores.</title>
+<pages>4-17</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_2</ee>
+<url>db/conf/pos/pos2000.html#WhitlockH00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/LewisMG00" mdate="2017-05-21">
+<author pid="l/BrianTLewis">Brian T. Lewis</author>
+<author pid="66/4864">Bernd Mathiske</author>
+<author pid="67/219">Neal M. Gafter</author>
+<title>Architecture of the PEVM: A High-Performance Orthogonally Persistent Java Virtual Machine.</title>
+<pages>18-33</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_3</ee>
+<url>db/conf/pos/pos2000.html#LewisMG00</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 2</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Blackburn00" mdate="2023-01-13">
+<author pid="b/StephenMBlackburn">Stephen M. Blackburn</author>
+<title>Session 2: Overview.</title>
+<pages>34-35</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_4</ee>
+<url>db/conf/pos/pos2000.html#Blackburn00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/VogesB00" mdate="2017-05-21">
+<author pid="87/6898">Erik Voges</author>
+<author pid="73/4908">Sonia Berman</author>
+<title>A Spatiotemporal Model as the Basis for a Persistent GIS.</title>
+<pages>36-54</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_5</ee>
+<url>db/conf/pos/pos2000.html#VogesB00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ShapiroFR00" mdate="2018-07-05">
+<author pid="s/MarcShapiro">Marc Shapiro 0001</author>
+<author pid="f/PauloJPFerreira">Paulo Ferreira 0001</author>
+<author pid="54/1106">Nicolas Richer</author>
+<title>Experience with the PerDiS Large-Scale Data-Sharing Middleware.</title>
+<pages>55-69</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_6</ee>
+<url>db/conf/pos/pos2000.html#ShapiroFR00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/KaplanRSSW00" mdate="2017-05-21">
+<author pid="47/6814">Alan Kaplan</author>
+<author pid="34/2435">John V. E. Ridgway</author>
+<author pid="15/3453">Bradley R. Schmerl</author>
+<author pid="76/1841">Krishnan Sridhar</author>
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<title>Toward Pure Polylingual Persistence.</title>
+<pages>70-83</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_7</ee>
+<url>db/conf/pos/pos2000.html#KaplanRSSW00</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 3</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Jones00" mdate="2017-05-21">
+<author pid="j/RichardJones">Richard E. Jones</author>
+<title>Session 3: Overview.</title>
+<pages>84-86</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_8</ee>
+<url>db/conf/pos/pos2000.html#Jones00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BjornssonS00" mdate="2017-05-21">
+<author pid="54/1966">Magnus E. Bjornsson</author>
+<author pid="s/LiubaShrira">Liuba Shrira</author>
+<title>Transactional Remote Group Caching in Distributed Object Systems.</title>
+<pages>87-99</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_9</ee>
+<url>db/conf/pos/pos2000.html#BjornssonS00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/HeBKZ00" mdate="2023-01-13">
+<author orcid="0000-0003-0302-5775" pid="44/4618">Zhen He</author>
+<author pid="b/StephenMBlackburn">Stephen M. Blackburn</author>
+<author pid="63/5908">Luke Kirby</author>
+<author pid="187/7247">John N. Zigman</author>
+<title>Platypus: Design and Implementation of a Flexible High Performance Object Store.</title>
+<pages>100-124</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_10</ee>
+<url>db/conf/pos/pos2000.html#HeBKZ00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MunroB00" mdate="2017-05-21">
+<author pid="m/DavidSMunro">David S. Munro</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<title>Evaluating Partition Selection Policies Using the PMOS Garbage Collector.</title>
+<pages>125-137</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_11</ee>
+<url>db/conf/pos/pos2000.html#MunroB00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ZigmanBM00" mdate="2023-01-13">
+<author pid="187/7247">John N. Zigman</author>
+<author pid="b/StephenMBlackburn">Stephen M. Blackburn</author>
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<title>TMOS: A Transactional Garbage Collector.</title>
+<pages>138-156</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_12</ee>
+<url>db/conf/pos/pos2000.html#ZigmanBM00</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 4</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Hosking00" mdate="2017-05-21">
+<author pid="h/AntonyLHosking">Antony L. Hosking</author>
+<title>Session 4: Overview.</title>
+<pages>157-160</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_13</ee>
+<url>db/conf/pos/pos2000.html#Hosking00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/RicherS00" mdate="2017-11-03">
+<author pid="54/1106">Nicolas Richer</author>
+<author pid="s/MarcShapiro">Marc Shapiro 0001</author>
+<title>The Memory Behavior of the WWW, or The WWW Considered as a Persistent Store.</title>
+<pages>161-176</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_14</ee>
+<url>db/conf/pos/pos2000.html#RicherS00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/GarrattJBW00" mdate="2018-01-01">
+<author pid="75/1452">Andrea Garratt</author>
+<author pid="j/MikeJackson">Mike Jackson 0001</author>
+<author pid="58/4302">Peter Burden</author>
+<author pid="70/2684">Jon Wallis</author>
+<title>A Comparison of Two Persistent Storage Tools for Implementing a Search Engine.</title>
+<pages>177-186</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_15</ee>
+<url>db/conf/pos/pos2000.html#GarrattJBW00</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 5</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Shrira00" mdate="2017-05-21">
+<author pid="s/LiubaShrira">Liuba Shrira</author>
+<title>Session 5: Overview.</title>
+<pages>187-188</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_16</ee>
+<url>db/conf/pos/pos2000.html#Shrira00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BemR00" mdate="2017-05-21">
+<author pid="02/6796">Ewa Z. Bem</author>
+<author pid="17/3411">John Rosenberg</author>
+<title>An Approach to Implementing Persistent Computations.</title>
+<pages>189-200</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_17</ee>
+<url>db/conf/pos/pos2000.html#BemR00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/SkoglundCL00" mdate="2017-05-21">
+<author pid="08/6862">Espen Skoglund</author>
+<author pid="64/4767">Christian Ceelen</author>
+<author pid="07/1586">Jochen Liedtke</author>
+<title>Transparent Orthogonal Checkpointing through User-Level Pagers.</title>
+<pages>201-214</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_18</ee>
+<url>db/conf/pos/pos2000.html#SkoglundCL00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/DiniLL00" mdate="2022-01-03">
+<author pid="01/4693">Gianluca Dini</author>
+<author orcid="0000-0003-1005-7441" pid="27/4222">Giuseppe Lettieri</author>
+<author pid="63/2013">Lanfranco Lopriore</author>
+<title>An Overview of Ulisse, a Distributed Single Address Space System.</title>
+<pages>215-227</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_19</ee>
+<url>db/conf/pos/pos2000.html#DiniLL00</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 6</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Dearle00" mdate="2017-05-21">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Session 6: Overview.</title>
+<pages>228-231</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_20</ee>
+<url>db/conf/pos/pos2000.html#Dearle00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ZirintsisKM00" mdate="2017-06-15">
+<author pid="36/415">Evangelos Zirintsis</author>
+<author orcid="0000-0002-4422-0190" pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Hyper-Code Revisited: Unifying Program Source, Executable, and Data.</title>
+<pages>232-246</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_21</ee>
+<url>db/conf/pos/pos2000.html#ZirintsisKM00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/MarquezBMZ00" mdate="2023-01-13">
+<author pid="75/4088">Alonso Marquez</author>
+<author pid="b/StephenMBlackburn">Stephen M. Blackburn</author>
+<author pid="54/2418">Gavin Mercer</author>
+<author pid="187/7247">John N. Zigman</author>
+<title>Implementing Orthogonally Persistent Java.</title>
+<pages>247-261</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_22</ee>
+<url>db/conf/pos/pos2000.html#MarquezBMZ00</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Session 7</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/pos/Berman00" mdate="2017-05-21">
+<author pid="73/4908">Sonia Berman</author>
+<title>Session 7: Overview.</title>
+<pages>262-264</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_23</ee>
+<url>db/conf/pos/pos2000.html#Berman00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BaconHMMY00" mdate="2017-05-21">
+<author pid="b/JeanBacon">Jean Bacon</author>
+<author pid="49/3357">Alexis Hombrecher</author>
+<author pid="03/3213">Chaoying Ma</author>
+<author pid="36/5483">Ken Moody</author>
+<author pid="96/5836">Walt Yao</author>
+<title>Event Storage and Federation Using ODMG.</title>
+<pages>265-281</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_24</ee>
+<url>db/conf/pos/pos2000.html#BaconHMMY00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/GruberK00" mdate="2017-05-21">
+<author pid="52/5789">Olivier Gruber</author>
+<author pid="k/RaviBKonuru">Ravi B. Konuru</author>
+<title>An Application Model and Environment for Personal Information Appliances.</title>
+<pages>282-291</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_25</ee>
+<url>db/conf/pos/pos2000.html#GruberK00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/AtkinsonDHP00" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="d/MishaDmitriev">Misha Dmitriev</author>
+<author pid="84/5469">Craig Hamilton</author>
+<author pid="p/TPrintezis">Tony Printezis</author>
+<title>Scalable and Recoverable Implementation of Object Evolution for the PJama<sub>1</sub> Platform.</title>
+<pages>292-314</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_26</ee>
+<url>db/conf/pos/pos2000.html#AtkinsonDHP00</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Morrison00" mdate="2017-05-21">
+<author pid="82/2183">Ronald Morrison</author>
+<title>Epilogue.</title>
+<pages>315-320</pages>
+<year>2000</year>
+<crossref>conf/pos/2000</crossref>
+<booktitle>POS</booktitle>
+<ee>https://doi.org/10.1007/3-540-45498-5_27</ee>
+<url>db/conf/pos/pos2000.html#Morrison00</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

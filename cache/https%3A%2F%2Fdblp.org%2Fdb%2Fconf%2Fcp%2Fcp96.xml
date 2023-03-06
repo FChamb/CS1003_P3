@@ -1,0 +1,772 @@
+<bht key="db/conf/cp/cp96.bht" title="2. CP 1996: Cambridge, Massachusetts"> 
+
+<h1>2. <ref href="db/conf/cp/index.html">CP</ref> 1996:
+Cambridge, Massachusetts</h1>
+<dblpcites><r><proceedings key="conf/cp/1996" mdate="2019-05-14">
+<editor pid="f/EugeneCFreuder">Eugene C. Freuder</editor>
+<title>Proceedings of the Second International Conference on Principles and Practice of Constraint Programming, Cambridge, Massachusetts, USA, August 19-22, 1996</title>
+<booktitle>CP</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>1118</volume>
+<publisher>Springer</publisher>
+<year>1996</year>
+<ee>https://doi.org/10.1007/3-540-61551-2</ee>
+<url>db/conf/cp/cp96.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AbdennadherFM96" mdate="2017-05-17">
+<author pid="a/SlimAbdennadher">Slim Abdennadher</author>
+<author pid="f/TWFruhwirth">Thom W. Fr&#252;hwirth</author>
+<author pid="m/HolgerMeuss">Holger Meuss</author>
+<title>On Confluence of Constraint Handling Rules.</title>
+<pages>1-15</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#AbdennadherFM96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_62</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AffaneB96" mdate="2017-05-17">
+<author pid="39/3515">Mohamed-Salah Affane</author>
+<author pid="75/3739">Hachemi Bennaceur</author>
+<title>A Labelling Arc Consistency Method for Functional Constraints.</title>
+<pages>16-30</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#AffaneB96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_63</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BanerjeeF96" mdate="2017-05-17">
+<author pid="60/3826">Dhritiman Banerjee</author>
+<author pid="32/67">Jeremy Frank</author>
+<title>Constraint Satisfaction in Optical Routing for Passive Wavelength-Routed Networks.</title>
+<pages>31-45</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#BanerjeeF96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_64</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BayardoS96" mdate="2017-05-17">
+<author pid="b/RobertoJBayardo">Roberto J. Bayardo Jr.</author>
+<author pid="89/295">Robert Schrag</author>
+<title>Using CSP Look-Back Techniques to Solve Exceptionally Hard SAT Instances.</title>
+<pages>46-60</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#BayardoS96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_65</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BessiereR96" mdate="2017-05-17">
+<author pid="b/ChristianBessiere">Christian Bessi&#232;re</author>
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<title>MAC and Combined Heuristics: Two Reasons to Forsake FC (and CBJ?) on Hard Problems.</title>
+<pages>61-75</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#BessiereR96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_66</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CharatonikP96" mdate="2017-05-17">
+<author pid="41/2652">Witold Charatonik</author>
+<author pid="p/APodelski">Andreas Podelski</author>
+<title>The Independence Property of a Class of Set Constraints.</title>
+<pages>76-90</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#CharatonikP96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_67</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChengLW96" mdate="2017-05-17">
+<author pid="45/355">B. M. W. Cheng</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<author pid="43/3646">J. C. K. Wu</author>
+<title>Speeding Up Constraint Propagation By Redundant Modeling.</title>
+<pages>91-103</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#ChengLW96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_68</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChiuCLLL96" mdate="2017-05-17">
+<author pid="96/5180">C. K. Chiu</author>
+<author pid="47/1293">C. M. Chou</author>
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<author pid="l/HofungLeung">Ho-fung Leung</author>
+<author pid="83/6225">Y. W. Leung</author>
+<title>A Constraint-Based Interactive Train Rescheduling Tool.</title>
+<pages>104-118</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#ChiuCLLL96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_69</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ClarkFGMTW96" mdate="2017-05-17">
+<author pid="22/6068">David A. Clark</author>
+<author pid="32/67">Jeremy Frank</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="92/4603">Neven Tomov</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Local Search and the Number of Solutions.</title>
+<pages>119-133</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#ClarkFGMTW96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_70</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CohenGJ96" mdate="2022-04-09">
+<author pid="50/3733">David A. Cohen</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<title>Derivation of Constraints and Database Relations.</title>
+<pages>134-148</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#CohenGJ96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_71</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Colombani96" mdate="2017-05-17">
+<author pid="92/3213">Yves Colombani</author>
+<title>Constraint Programming: an Efficient and Practical Approach to Solving the Job-Shop Problem.</title>
+<pages>149-163</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Colombani96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_72</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SakkoutWR96" mdate="2017-12-19">
+<author pid="46/4151">Hani El Sakkout</author>
+<author orcid="0000-0001-7326-8110" pid="w/MarkWallace">Mark Wallace 0001</author>
+<author pid="47/3409">Barry Richards</author>
+<title>An Instance of Adaptive Constraint Propagation.</title>
+<pages>164-178</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#SakkoutWR96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_73</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/gentMPSW96" mdate="2017-05-17">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="04/3968">Ewan MacIntyre</author>
+<author pid="14/3015">Patrick Prosser</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>An Empirical Study of Dynamic Variable Ordering Heuristics for the Constraint Satisfaction Problem.</title>
+<pages>179-193</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#gentMPSW96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_74</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HaoD96" mdate="2017-05-17">
+<author pid="h/JinKaoHao">Jin-Kao Hao</author>
+<author pid="55/6635">Rapha&#235;l Dorne</author>
+<title>Empirical Studies of Heuristic Local Search for Constraint Solving.</title>
+<pages>194-208</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#HaoD96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_75</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HolzbaurMB96" mdate="2018-11-02">
+<author pid="04/3620">Christian Holzbaur</author>
+<author pid="33/5329">Francisco Menezes</author>
+<author orcid="0000-0002-8355-4986" pid="b/PBarahona">Pedro Barahona</author>
+<title>Defeasibility in CLP(Q) through Generalized Slack Variables.</title>
+<pages>209-223</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#HolzbaurMB96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_76</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Hooker96" mdate="2017-05-17">
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<title>Inference Duality as a Basis for Secitivity Analysis.</title>
+<pages>224-236</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Hooker96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_77</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HosobeMY96" mdate="2017-05-17">
+<author pid="13/2286">Hiroshi Hosobe</author>
+<author pid="57/4464">Satoshi Matsuoka</author>
+<author pid="y/AkinoriYonezawa">Akinori Yonezawa</author>
+<title>Generalized Local Propagation: A Framework for Solving Constraint Hierarchies.</title>
+<pages>237-251</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#HosobeMY96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_78</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JampelJGH96" mdate="2021-10-14">
+<author pid="54/392">Michael Jampel</author>
+<author pid="58/759">Jean-Marie Jacquet</author>
+<author pid="g/DavidRGilbert">David R. Gilbert</author>
+<author orcid="0000-0001-7255-4465" pid="58/4785">Sebastian Hunt</author>
+<title>Transformations Between HCLP and PCSP.</title>
+<pages>252-266</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#JampelJGH96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_79</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JeavonsCG96" mdate="2022-04-09">
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<author pid="50/3733">David A. Cohen</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<title>A test for Tractability.</title>
+<pages>267-281</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#JeavonsCG96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_80</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KesperS96" mdate="2017-05-17">
+<author pid="80/726">Stephan Kepser</author>
+<author pid="s/KUSchulz">Klaus U. Schulz</author>
+<title>Combination of Constraint Systems II: Rational Amalgamation.</title>
+<pages>282-296</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#KesperS96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_81</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Koubarakis96" mdate="2017-05-17">
+<author pid="40/4517">Manolis Koubarakis</author>
+<title>Tractable Disjunctions of Linear Constraints.</title>
+<pages>297-307</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Koubarakis96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_82</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LarrosaM96" mdate="2017-05-17">
+<author pid="27/2738">Javier Larrosa</author>
+<author pid="96/1119">Pedro Meseguer</author>
+<title>Exploiting the Use of DAC in MAX-CSP.</title>
+<pages>308-322</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#LarrosaM96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_83</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Lau96" mdate="2017-05-17">
+<author pid="27/6572">Hoong Chuin Lau</author>
+<title>A New Approach for Weighted Constraint Satisfaction: Theoretical and Computational Results.</title>
+<pages>323-337</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Lau96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_84</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LeeLW96" mdate="2017-05-17">
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<author pid="l/HofungLeung">Ho-fung Leung</author>
+<author pid="16/768">Hon-Wing Won</author>
+<title>Towards a More Efficient Stochastic Constraint Solver.</title>
+<pages>338-352</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#LeeLW96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_85</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PesantG96" mdate="2017-05-17">
+<author pid="02/6567">Gilles Pesant</author>
+<author pid="08/5862">Michel Gendreau</author>
+<title>A View of Local Search in Constraint Programming.</title>
+<pages>353-366</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#PesantG96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_86</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Rojas96" mdate="2017-05-17">
+<author pid="r/MCRiffRojas">Mar&#237;a Cristina Riff Rojas</author>
+<title>From Quasi-Solutions to Solution: An Evolutionary Algorithm to Solve CSP.</title>
+<pages>367-381</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Rojas96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_87</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Rossi96" mdate="2017-05-17">
+<author pid="r/FrancescaRossi">Francesca Rossi</author>
+<title>Existential Variables and Local Consistency in Finite Domain Constraint Problems.</title>
+<pages>382-396</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Rossi96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_88</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Ruet96" mdate="2017-05-17">
+<author pid="71/6764">Paul Ruet</author>
+<title>Logical Semantics of Concurrent Constraint Programming.</title>
+<pages>397-409</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Ruet96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_89</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Sam-HaroudF96" mdate="2017-05-17">
+<author pid="s/DjamilaSamHaroud">Djamila Sam-Haroud</author>
+<author pid="f/BoiFaltings">Boi Faltings</author>
+<title>Solving Non-binary Convez CSPs in Continous Domains.</title>
+<pages>410-424</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Sam-HaroudF96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_90</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SuzukiKT96" mdate="2017-05-17">
+<author pid="05/2748">Tetsuya Suzuki</author>
+<author pid="65/3982">Nobuo Kakinuma</author>
+<author pid="t/TakehiroTokuda">Takehiro Tokuda</author>
+<title>An Eperimental Comparison of Three Modified DeltaBlue Algorithms.</title>
+<pages>425-435</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#SuzukiKT96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_91</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/TinelliH96" mdate="2017-06-15">
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<author pid="h/MehdiTHarandi">Mehdi T. Harandi</author>
+<title>Constraint Logic Programming over Unions of Constraint Theories.</title>
+<pages>436-450</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#TinelliH96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_92</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Urbina96" mdate="2017-05-17">
+<author pid="52/4417">Luis Urbina</author>
+<title>Analysis of Hybrid Systems in CLP(R).</title>
+<pages>451-467</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Urbina96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_93</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/VandeurzenGG96" mdate="2022-04-09">
+<author pid="01/1005">Luc Vandeurzen</author>
+<author orcid="0000-0002-5197-2817" pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="g/DirkVanGucht">Dirk Van Gucht</author>
+<title>On Query Languages for Linear Queries Definable with Polynomial Constraints.</title>
+<pages>468-481</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#VandeurzenGG96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_94</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Wallace96" mdate="2017-05-17">
+<author pid="44/4904">Richard J. Wallace</author>
+<title>Analysis of Heuristic Methods for Partial Constraint Satisfaction Problems.</title>
+<pages>482-496</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Wallace96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_95</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/YokooSS96" mdate="2017-05-17">
+<author pid="32/2416">Makoto Yokoo</author>
+<author pid="24/3777">Takayuki Suyama</author>
+<author pid="85/415">Hiroshi Sawada</author>
+<title>Solving Satisfiability Problems Using Field Programmable Gate Arrays: First Results.</title>
+<pages>497-509</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#YokooSS96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_96</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Zhou96" mdate="2017-05-17">
+<author pid="47/5781">Jianyang Zhou</author>
+<title>A Constraint Program for Solving the Job-Shop Problem.</title>
+<pages>510-524</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Zhou96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_97</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Posters</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/AlbersB96" mdate="2017-05-17">
+<author pid="90/1357">Patrick Albers</author>
+<author pid="94/3310">Jacques Bellone</author>
+<title>PSAP - A Planning System for Aircraft Production (Extended Abstract).</title>
+<pages>525-526</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#AlbersB96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_98</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Battle96" mdate="2017-05-17">
+<author pid="94/6579">Steven A. Battle</author>
+<title>Using Partial Arc Consistency in a Database Environment.</title>
+<pages>527-528</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Battle96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_99</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Bouzoubaa96" mdate="2017-05-17">
+<author pid="24/6566">Mouhssine Bouzoubaa</author>
+<title>Functional Constrain Hierarchies in CLP.</title>
+<pages>529-530</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Bouzoubaa96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_100</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CarlssonCO96" mdate="2021-10-14">
+<author pid="c/MCarlsson">Mats Carlsson</author>
+<author pid="14/4222">Bj&#246;rn Carlson</author>
+<author orcid="0000-0002-5829-2320" pid="15/3165">Greger Ottosson</author>
+<title>Towards an Open Finite Domain Constraint Solver.</title>
+<pages>531-532</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#CarlssonCO96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_101</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/ChmeissJ96" mdate="2017-05-17">
+<author pid="64/5639">Assef Chmeiss</author>
+<author pid="10/6570">Philippe J&#233;gou</author>
+<title>Efficient Constraint Propagation With Good Space Complexity.</title>
+<pages>533-534</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#ChmeissJ96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_102</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DalalF96" mdate="2017-05-17">
+<author pid="d/MukeshDalal">Mukesh Dalal</author>
+<author pid="64/4429">Yong Feng</author>
+<title>Anytime Temporal Reasoning: Preliminary Report (Extended Abstract).</title>
+<pages>535-536</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#DalalF96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_103</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Fages96" mdate="2017-05-17">
+<author pid="f/FrancoisFages">Fran&#231;ois Fages</author>
+<title>From Constraint Minimization to Goal Optimization in CLP Languages.</title>
+<pages>537-538</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Fages96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_104</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FrostD96" mdate="2017-05-17">
+<author pid="27/2812">Daniel Frost</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>Looking at Full Looking Ahead.</title>
+<pages>539-540</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#FrostD96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_105</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GrantS96" mdate="2017-05-17">
+<author pid="91/3831">Stuart A. Grant</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<title>The Arc and Path Consistency Phase Transitions.</title>
+<pages>541-542</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#GrantS96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_106</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Hellinck96" mdate="2017-05-17">
+<author pid="10/3188">Wim Hellinck</author>
+<title>Experiences with Combining Constraint Programming and Discrete Event Simulation.</title>
+<pages>543-544</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Hellinck96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_107</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Hirayama96" mdate="2017-05-17">
+<author pid="h/KatsutoshiHirayama">Katsutoshi Hirayama</author>
+<title>Hill-Climbing with Local Consistency for Solving Distributed CSPs.</title>
+<pages>545-546</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Hirayama96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_108</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JungenK96" mdate="2022-11-29">
+<author pid="69/3756">Frederik Jan J&#252;ngen</author>
+<author pid="90/3558">Wojtek Kowalczyk</author>
+<title>Appriximate Algorithms for Maximum Utility Problems.</title>
+<pages>547-548</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#JungenK96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_109</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LammaMM96" mdate="2017-05-17">
+<author pid="l/EvelinaLamma">Evelina Lamma</author>
+<author pid="m/PMello">Paola Mello</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>A Meta Constraint Logic Programming Architecture (Extended Abstract).</title>
+<pages>549-550</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#LammaMM96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_110</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MerelHHS96" mdate="2017-06-02">
+<author pid="37/5959">Pierre-Paul M&#233;rel</author>
+<author pid="43/3139">Zineb Habbas</author>
+<author orcid="0000-0001-5549-3541" pid="h/FrancineHerrmann">Francine Herrmann</author>
+<author orcid="0000-0001-5479-2806" pid="97/4205">Daniel Singer</author>
+<title>N-Ary Consistencies and Constraint-Based Backtracking.</title>
+<pages>551-552</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#MerelHHS96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_111</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NDongC96" mdate="2017-05-17">
+<author pid="90/2588">St&#233;phane N'Dong</author>
+<author pid="88/4989">Michel Van Caneghem</author>
+<title>Global Behaviour for Complex Constraints.</title>
+<pages>553-554</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#NDongC96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_112</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RishD96" mdate="2017-05-17">
+<author pid="r/IrinaRish">Irina Rish</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>To Guess or to Think? Hybrid Algorithms for SAT (Extended Abstract).</title>
+<pages>555-556</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#RishD96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_113</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Schachter96" mdate="2017-05-17">
+<author pid="88/6399">Vincent Sch&#228;chter</author>
+<title>A Local Simplification Scheme for cc Programs.</title>
+<pages>557-558</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Schachter96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_114</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Solotorevsky96" mdate="2017-05-17">
+<author pid="64/569">Gadi Solotorevsky</author>
+<title>From Evaluating Upper Bounds of the Complexity of Solving CSPs to Finding All the Solutions of CSPs.</title>
+<pages>559-560</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Solotorevsky96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_115</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SolotorevskyGM96" mdate="2017-05-17">
+<author pid="64/569">Gadi Solotorevsky</author>
+<author pid="g/EhudGudes">Ehud Gudes</author>
+<author pid="m/AmnonMeisels">Amnon Meisels</author>
+<title>Modeling and Solving Distributed Constraint Satisfaction Problems (DCSPs).</title>
+<pages>561-562</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#SolotorevskyGM96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_116</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SmithW96" mdate="2017-05-17">
+<author pid="73/1174">Douglas R. Smith</author>
+<author pid="98/5598">Stephen J. Westfold</author>
+<title>Scheduling an Asynchronously Shared Resource.</title>
+<pages>563-564</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#SmithW96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_117</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Urbina96a" mdate="2017-05-17">
+<author pid="52/4417">Luis Urbina</author>
+<title>The Generalized Railroad Crossing: Its Symbolic Analysis in CLP(R).</title>
+<pages>565-567</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Urbina96a</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_118</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/WongNL96" mdate="2020-03-17">
+<author pid="69/4594">Jason H. Y. Wong</author>
+<author pid="53/6928">Kai-Fai Ng</author>
+<author pid="l/HofungLeung">Ho-fung Leung</author>
+<title>A Stochastic Approach to Solving Fuzzy Constraint Satisfaction Problems.</title>
+<pages>568-569</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#WongNL96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_119</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Invited Lecture</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Nemhauser96" mdate="2017-05-17">
+<author pid="74/2089">George L. Nemhauser</author>
+<title>Branch-and-Price for Solving Integer Programs with a Huge Number of Variables: Methods and Applications (Abstract).</title>
+<pages>570</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Nemhauser96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_120</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Lectures in Honor of <author>Paris C. Kanellakis</author></h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/cp/Goldin96" mdate="2017-05-17">
+<author pid="g/DinaQGoldin">Dina Q. Goldin</author>
+<title>Constraint Databases.</title>
+<pages>571</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Goldin96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_121</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Mairson96" mdate="2017-05-17">
+<author pid="31/6437">Harry G. Mairson</author>
+<title>Complexity-Theoretic Aspects for Programming Language Design.</title>
+<pages>572</pages>
+<year>1996</year>
+<crossref>conf/cp/1996</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp96.html#Mairson96</url>
+<ee>https://doi.org/10.1007/3-540-61551-2_122</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

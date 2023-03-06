@@ -1,0 +1,177 @@
+<bht key="db/conf/sfp/sfp2000.bht" title="Scottish Functional Programming Workshop 2000">  
+<h1>2nd <ref href="db/conf/sfp/index.html">SFP</ref> 2000:
+St Andrews, Scotland, UK</h1> <dblpcites><r><proceedings key="conf/sfp/2000" mdate="2003-01-22">
+<editor pid="g/StephenGilmore">Stephen Gilmore</editor>
+<title>Selected papers from the 2nd Scottish Functional Programming Workshop (SFP00), University of St Andrews, Scotland, July 26th to 28th, 2000</title>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<series>Trends in Functional Programming</series>
+<volume>2</volume>
+<publisher>Intellect</publisher>
+<year>2000</year>
+<isbn>1-84150-058-5</isbn>
+<url>db/conf/sfp/sfp2000.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/sfp/Faxen00" mdate="2003-01-22">
+<author pid="31/6231">Karl-Filip Fax&#233;n</author>
+<title>The costs and benefits of cloning in a lazy functional language.</title>
+<pages>1-12</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#Faxen00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/ParejaPRS00" mdate="2018-08-09">
+<author pid="09/5920">Crist&#243;bal Pareja</author>
+<author pid="p/RicardoPenaMari">Ricardo Pena</author>
+<author pid="r/FernandoRubio">Fernando Rubio 0001</author>
+<author pid="01/4438">Clara Segura</author>
+<title>Optimising Eden by transformation.</title>
+<pages>13-26</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#ParejaPRS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/BrownGM00" mdate="2016-09-29">
+<author pid="58/1184">Deryck Forsyth Brown</author>
+<author pid="96/2432">A. Beatriz Garmendia-Doval</author>
+<author pid="00/484">John A. W. McCall</author>
+<title>A functional framework for the implementation of genetic algorithms: Comparing Haskell and Standard ML.</title>
+<pages>27-38</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#BrownGM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/LoidlKHLT00" mdate="2003-01-22">
+<author pid="l/HWLoidl">Hans-Wolfgang Loidl</author>
+<author pid="88/3426">Ulrike Klusik</author>
+<author pid="35/4224">Kevin Hammond</author>
+<author pid="l/RitaLoogen">Rita Loogen</author>
+<author pid="87/4953">Philip W. Trinder</author>
+<title>GpH and Eden: Comparing two parallel functional languages on a Beowulf cluster.</title>
+<pages>39-52</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#LoidlKHLT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/KlusikLP00" mdate="2003-01-22">
+<author pid="88/3426">Ulrike Klusik</author>
+<author pid="l/RitaLoogen">Rita Loogen</author>
+<author pid="84/5270">Steffen Priebe</author>
+<title>Controlling parallelism and data distribution in Eden.</title>
+<pages>53-64</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#KlusikLP00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/CopeGH00" mdate="2003-01-22">
+<author pid="83/4200">Michelle Cope</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="35/4224">Kevin Hammond</author>
+<title>Parallel heuristic search in Haskell.</title>
+<pages>65-76</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#CopeGH00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/Loulergue00" mdate="2003-01-22">
+<author pid="l/FredericLoulergue">Fr&#233;d&#233;ric Loulergue</author>
+<title>Parallel composition and bulk synchronous parallel functional programming.</title>
+<pages>77-88</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#Loulergue00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/Hidalgo-HerreroO00" mdate="2003-01-22">
+<author pid="59/5980">Mercedes Hidalgo-Herrero</author>
+<author pid="80/1588">Yolanda Ortega-Mall&#233;n</author>
+<title>A distributed operational semantics for a parallel functional language.</title>
+<pages>89-102</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#Hidalgo-HerreroO00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/TrinderPL00" mdate="2003-01-22">
+<author pid="87/4953">Philip W. Trinder</author>
+<author pid="80/4314">Robert F. Pointon</author>
+<author pid="l/HWLoidl">Hans-Wolfgang Loidl</author>
+<title>Runtime system level fault tolerance for a distributed functional language.</title>
+<pages>103-114</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#TrinderPL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/BakewellR00" mdate="2003-01-22">
+<author pid="32/743">Adam Bakewell</author>
+<author pid="r/CRunciman">Colin Runciman</author>
+<title>The space usage problem: An evaluation kit for graph reduction semantics.</title>
+<pages>115-128</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#BakewellR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/Serot00" mdate="2003-01-22">
+<author pid="39/2578">Jocelyn S&#233;rot</author>
+<title>CAMLFLOW: a CAML to data-flow graph translator.</title>
+<pages>129-144</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#Serot00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/Curtis00" mdate="2003-01-22">
+<author pid="49/5497">Sharon Curtis</author>
+<title>An application of functional programming: quilting.</title>
+<pages>145-158</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#Curtis00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/McAdamKB00" mdate="2003-01-22">
+<author pid="56/1855">Bruce J. McAdam</author>
+<author pid="93/2262">Andrew Kennedy</author>
+<author pid="b/NickBenton">Nick Benton</author>
+<title>Type inference for MLj.</title>
+<pages>159-172</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#McAdamKB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sfp/WideraB00" mdate="2003-01-22">
+<author pid="93/5770">Manfred Widera</author>
+<author pid="b/ChristophBeierle">Christoph Beierle</author>
+<title>Detecting common elements of types.</title>
+<pages>173-184</pages>
+<year>2000</year>
+<crossref>conf/sfp/2000</crossref>
+<booktitle>Scottish Functional Programming Workshop</booktitle>
+<url>db/conf/sfp/sfp2000.html#WideraB00</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

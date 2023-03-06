@@ -1,0 +1,49 @@
+<bht key="db/journals/ai/ai211.bht" title="Artificial Intelligence, Volume 211"> 
+<h1><ref href="db/journals/ai/index.html">Artificial Intelligence</ref>, Volume 211</h1> 
+<h2>Volume 211, June 2014</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/GentJLMN14" mdate="2020-02-04">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author pid="04/794">Steve Linton</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Generating custom propagators for arbitrary constraints.</title>
+<pages>1-33</pages>
+<year>2014</year>
+<volume>211</volume>
+<journal>Artif. Intell.</journal>
+<ee type="oa">https://doi.org/10.1016/j.artint.2014.03.001</ee>
+<url>db/journals/ai/ai211.html#GentJLMN14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/CaroCGIJ14" mdate="2021-04-09">
+<author orcid="0000-0002-8736-7870" pid="57/734">St&#233;phane Caro</author>
+<author orcid="0000-0001-7847-6162" pid="45/2686">Damien Chablat</author>
+<author orcid="0000-0002-6561-5888" pid="g/AlexandreGoldsztejn">Alexandre Goldsztejn</author>
+<author pid="11/680">Daisuke Ishii</author>
+<author orcid="0000-0002-1383-3103" pid="12/3363">Christophe Jermann</author>
+<title>A branch and prune algorithm for the computation of generalized aspects of parallel robots.</title>
+<pages>34-50</pages>
+<year>2014</year>
+<volume>211</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2014.02.001</ee>
+<ee>https://www.wikidata.org/entity/Q57086171</ee>
+<url>db/journals/ai/ai211.html#CaroCGIJ14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/CarrilloR14" mdate="2020-02-04">
+<author orcid="0000-0003-2105-3075" pid="155/7116">Miguel Carrillo</author>
+<author pid="94/5921">David A. Rosenblueth</author>
+<title>CTL update of Kripke models through protections.</title>
+<pages>51-74</pages>
+<year>2014</year>
+<volume>211</volume>
+<journal>Artif. Intell.</journal>
+<ee type="oa">https://doi.org/10.1016/j.artint.2014.02.005</ee>
+<url>db/journals/ai/ai211.html#CarrilloR14</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

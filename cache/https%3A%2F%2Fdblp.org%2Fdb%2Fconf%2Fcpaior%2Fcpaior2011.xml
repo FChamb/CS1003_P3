@@ -1,0 +1,310 @@
+<bht key="db/conf/cpaior/cpaior2011.bht" title="CPAIOR 2011">  
+<h1>8. <ref href="db/conf/cpaior/index.html">CPAIOR</ref> 2011:
+Berlin, Germany</h1> <dblpcites><r><proceedings key="conf/cpaior/2011" mdate="2019-05-14">
+<editor pid="71/6632">Tobias Achterberg</editor>
+<editor pid="43/2165">J. Christopher Beck</editor>
+<title>Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems - 8th International Conference, CPAIOR 2011, Berlin, Germany, May 23-27, 2011. Proceedings</title>
+<volume>6697</volume>
+<year>2011</year>
+<ee>https://doi.org/10.1007/978-3-642-21311-3</ee>
+<isbn>978-3-642-21310-6</isbn>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<booktitle>CPAIOR</booktitle>
+<url>db/conf/cpaior/cpaior2011.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Boutilier11" mdate="2018-06-26">
+<author pid="10/3411">Craig Boutilier</author>
+<title>Preference Elicitation and Preference Learning in Social Choice.</title>
+<pages>1</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-21311-3_1</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#Boutilier11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Gent11" mdate="2018-06-26">
+<author pid="30/3076">Ian P. Gent</author>
+<title>Propagation in Constraints: How One Thing Leads to Another.</title>
+<pages>2</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-21311-3_2</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#Gent11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Lodi11" mdate="2018-06-26">
+<author pid="196/3740">Andrea Lodi 0001</author>
+<title>On Bilevel Programming and Its Impact in Branching, Cutting and Complexity.</title>
+<pages>3</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-21311-3_3</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#Lodi11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/AschingerDFGJRT11" mdate="2022-10-02">
+<author pid="25/446">Markus Aschinger</author>
+<author pid="38/2503">Conrad Drescher</author>
+<author pid="47/1985">Gerhard Friedrich</author>
+<author orcid="0000-0002-2353-5230" pid="g/GeorgGottlob">Georg Gottlob</author>
+<author pid="j/PeterJeavons">Peter Jeavons 0001</author>
+<author orcid="0000-0001-5940-9634" pid="90/9555">Anna Ryabokon</author>
+<author pid="82/7995">Evgenij Thorstensen</author>
+<title>Optimization Methods for the Partner Units Problem.</title>
+<pages>4-19</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_4</ee>
+<ee>https://www.wikidata.org/entity/Q59259537</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#AschingerDFGJRT11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BergmanHH11" mdate="2017-05-17">
+<author pid="70/9555">David Bergman</author>
+<author pid="61/5378">Willem Jan van Hoeve</author>
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<title>Manipulating MDD Relaxations for Combinatorial Optimization.</title>
+<pages>20-35</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_5</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#BergmanHH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BessiereNQW11" mdate="2021-04-09">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="87/3366">Nina Narodytska</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The AllDifferent Constraint with Precedences.</title>
+<pages>36-52</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_6</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#BessiereNQW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ChapadosJR11" mdate="2017-05-17">
+<author pid="58/1013">Nicolas Chapados</author>
+<author pid="90/5847">Marc Joliveau</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<title>Retail Store Workforce Scheduling by Expected Operating Income Maximization.</title>
+<pages>53-58</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_7</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#ChapadosJR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/CoffrinHB11" mdate="2017-06-15">
+<author pid="14/7128">Carleton Coffrin</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author orcid="0000-0002-7300-151X" pid="93/1110">Russell Bent</author>
+<title>Spatial and Objective Decompositions for Very Large SCAPs.</title>
+<pages>59-75</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_8</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#CoffrinHB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/DilkinaLG11" mdate="2019-10-19">
+<author orcid="0000-0002-6784-473X" pid="30/5718">Bistra Dilkina</author>
+<author pid="92/3043">Katherine J. Lai</author>
+<author pid="g/CarlaPGomes">Carla P. Gomes</author>
+<title>Upgrading Shortest Paths in Networks.</title>
+<pages>76-91</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_9</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#DilkinaLG11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/EdisO11" mdate="2019-12-27">
+<author pid="01/123">Emrah B. Edis</author>
+<author orcid="0000-0003-0994-1758" pid="62/2832">Ceyda Oguz</author>
+<title>Parallel Machine Scheduling with Additional Resources: A Lagrangian-Based Constraint Programming Approach.</title>
+<pages>92-98</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_10</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#EdisO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/JanuschowskiP11" mdate="2019-09-25">
+<author pid="54/8909">Tim Januschowski</author>
+<author orcid="0000-0002-0947-7193" pid="48/1761">Marc E. Pfetsch</author>
+<title>Branch-Cut-and-Propagate for the Maximum <i>k</i>-Colorable Subgraph Problem with Symmetry.</title>
+<pages>99-116</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_11</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#JanuschowskiP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/LahimerLH11" mdate="2017-06-02">
+<author pid="46/9366">Asma Lahimer</author>
+<author pid="68/750">Pierre Lopez</author>
+<author orcid="0000-0003-0767-8220" pid="65/3765">Mohamed Haouari</author>
+<title>Climbing Depth-Bounded Adjacent Discrepancy Search for Solving Hybrid Flow Shop Scheduling Problems with Multiprocessor Tasks.</title>
+<pages>117-130</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_12</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#LahimerLH11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/LodiPR11" mdate="2017-05-17">
+<author pid="196/3740">Andrea Lodi 0001</author>
+<author pid="02/6567">Gilles Pesant</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<title>On Counting Lattice Points and Chv&#225;tal-Gomory Cutting Planes.</title>
+<pages>131-136</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_13</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#LodiPR11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/LombardiBMB11" mdate="2020-03-27">
+<author orcid="0000-0003-4709-8888" pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<author pid="98/4776">Alessio Bonfietti</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<author orcid="0000-0001-8068-3806" pid="b/LucaBenini">Luca Benini</author>
+<title>Precedence Constraint Posting for Cyclic Scheduling Problems.</title>
+<pages>137-153</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_14</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#LombardiBMB11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/NanniciniBLLMW11" mdate="2022-10-02">
+<author pid="04/6270">Giacomo Nannicini</author>
+<author orcid="0000-0001-6591-6886" pid="87/5964">Pietro Belotti</author>
+<author pid="90/4448">Jon Lee 0001</author>
+<author pid="l/JeffTLinderoth">Jeff T. Linderoth</author>
+<author pid="73/412">Fran&#231;ois Margot</author>
+<author pid="62/4235">Andreas W&#228;chter</author>
+<title>A Probing Algorithm for MINLP with Failure Prediction by SVM.</title>
+<pages>154-169</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_15</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#NanniciniBLLMW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/PesantZ11" mdate="2017-05-17">
+<author pid="02/6567">Gilles Pesant</author>
+<author pid="04/3886">Alessandro Zanarini</author>
+<title>Recovering Indirect Solution Densities for Counting-Based Branching Heuristics.</title>
+<pages>170-175</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_16</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#PesantZ11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Regin11" mdate="2017-05-17">
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<title>Using Hard Constraints for Representing Soft Constraints.</title>
+<pages>176-189</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_17</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#Regin11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ReginP11" mdate="2017-05-17">
+<author pid="20/6918">Jean-Charles R&#233;gin</author>
+<author pid="84/3969">Thierry Petit</author>
+<title>The Objective Sum Constraint.</title>
+<pages>190-195</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_18</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#ReginP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/SimonisO11" mdate="2018-11-02">
+<author pid="30/449">Helmut Simonis</author>
+<author orcid="0000-0002-0090-2085" pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Almost Square Packing.</title>
+<pages>196-209</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_19</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#SimonisO11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/SivanthiP11" mdate="2017-05-17">
+<author pid="17/1030">Thanikesavan Sivanthi</author>
+<author pid="61/261">Jan Poland</author>
+<title>Efficient Planning of Substation Automation System Cables.</title>
+<pages>210-214</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_20</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#SivanthiP11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/SubramaniW11" mdate="2017-05-17">
+<author pid="s/KSubramani">K. Subramani</author>
+<author pid="79/5946">James Worthington</author>
+<title>A New Algorithm for Linear and Integer Feasibility in Horn Constraints.</title>
+<pages>215-229</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_21</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#SubramaniW11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Vilim11" mdate="2017-05-17">
+<author pid="91/5349">Petr Vil&#237;m</author>
+<title>Timetable Edge Finding Filtering Algorithm for Discrete Cumulative Resources.</title>
+<pages>230-245</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_22</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#Vilim11</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ZanariniH11" mdate="2017-05-17">
+<author pid="04/3886">Alessandro Zanarini</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Identifying Patterns in Sequences of Variables.</title>
+<pages>246-251</pages>
+<year>2011</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21311-3_23</ee>
+<crossref>conf/cpaior/2011</crossref>
+<url>db/conf/cpaior/cpaior2011.html#ZanariniH11</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<dblpperson name="Ian Gent" pid="206/4749" n="1">
+<person key="homepages/206/4749" mdate="2017-09-29">
+<author pid="206/4749">Ian Gent</author>
+</person>
+<r><inproceedings key="conf/ipres/JonesMG15" mdate="2022-05-04">
+<author pid="90/7061">Catherine Jones</author>
+<author pid="80/1224">Brian Matthews</author>
+<author pid="206/4749">Ian Gent</author>
+<title>Software Reuse, Repurposing and Reproducibility.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429590</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#JonesMG15</url>
+</inproceedings>
+</r>
+<coauthors n="2" nc="1">
+<co c="0"><na f="j/Jones:Catherine" pid="90/7061">Catherine Jones</na></co>
+<co c="0"><na f="m/Matthews:Brian" pid="80/1224">Brian Matthews</na></co>
+</coauthors>
+</dblpperson>
+

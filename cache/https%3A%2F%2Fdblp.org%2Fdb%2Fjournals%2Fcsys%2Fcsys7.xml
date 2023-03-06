@@ -1,0 +1,225 @@
+<bht key="db/journals/csys/csys7.bht" title="Computing Systems, Volume 7">
+
+<h1><ref href="db/journals/csys/index.html">Computing Systems</ref>, Volume 7</h1> 
+<h2>Volume 7, Number 1, Winter 1994</h2> 
+<dblpcites><r style="ee"><article key="journals/csys/Ware94" mdate="2020-05-10">
+<author pid="62/6167">Willis H. Ware</author>
+<title>Policy Considerations for Data Networks.</title>
+<pages>1-44</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>1</number>
+<url>db/journals/csys/csys7.html#Ware94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/win_ware.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/YahalomKB94" mdate="2020-05-10">
+<author pid="71/2062">Raphael Yahalom</author>
+<author pid="05/2522">Birgit Klein</author>
+<author pid="b/ThomasBeth">Thomas Beth</author>
+<title>Trust-Based Navigation in Distribution Systems.</title>
+<pages>45-73</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>1</number>
+<url>db/journals/csys/csys7.html#YahalomKB94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/win_yahalom.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/KrajewskiCCT94" mdate="2020-05-10">
+<author pid="76/2353">Marjan Krajewski Jr.</author>
+<author pid="91/5170">John C. Chipchak</author>
+<author pid="64/3899">David A. Chodorow</author>
+<author pid="25/6173">Jonathan T. Trostle</author>
+<title>Applicability of Smart Cards to Network User Authentication.</title>
+<pages>75-89</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>1</number>
+<url>db/journals/csys/csys7.html#KrajewskiCCT94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/win_krajewski.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/HeydonT94" mdate="2020-05-10">
+<author pid="48/3474">Allan Heydon</author>
+<author pid="t/JDTygar">J. D. Tygar</author>
+<title>Specifying and Checking UNIX Security Constraints.</title>
+<pages>91-112</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>1</number>
+<url>db/journals/csys/csys7.html#HeydonT94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/win_heydon.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/LaPadula94" mdate="2020-05-10">
+<author pid="46/632">Leonard J. LaPadula</author>
+<title>A Rule-Set Approach to Formal Modeling of a Trusted Computer System.</title>
+<pages>113-167</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>1</number>
+<url>db/journals/csys/csys7.html#LaPadula94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/win_lapadula.pdf</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 7, Number 2, Spring 1994</h2> 
+<dblpcites><r style="ee"><article key="journals/csys/Welch94" mdate="2020-05-10">
+<author pid="w/BrentBWelch">Brent B. Welch</author>
+<title>A Comparison of Three Distributed File System Architectures: Vnode, Sprite, and Plan 9.</title>
+<pages>175-199</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/csys/csys7.html#Welch94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/spr_welch.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/Mogul94" mdate="2020-05-10">
+<author pid="m/JeffreyCMogul">Jeffrey C. Mogul</author>
+<title>Recovery in Spritely NFS.</title>
+<pages>201-262</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/csys/csys7.html#Mogul94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/spr_mogul.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/CarsonS94" mdate="2020-05-10">
+<author pid="00/2841">Scott D. Carson</author>
+<author pid="10/2676">Sanjeev Setia</author>
+<title>Optimal Write Batch Size in Log-Structured File Systems.</title>
+<pages>263-281</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/csys/csys7.html#CarsonS94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/spr_carson.pdf</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 7, Number 3, Summer 1994</h2> 
+<dblpcites><r style="ee"><article key="journals/csys/DearleBFHLRV94" mdate="2020-05-10">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="45/5804">Rex di Bona</author>
+<author pid="59/4584">James Farrow</author>
+<author pid="h/FransAHenskens">Frans A. Henskens</author>
+<author pid="73/5473">Anders Lindstr&#246;m</author>
+<author pid="17/3411">John Rosenberg</author>
+<author pid="72/6183">Francis Vaughan</author>
+<title>Grasshopper: An Orthogonally Persistent Operating System.</title>
+<pages>289-312</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys7.html#DearleBFHLRV94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/sum_dearle.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/InghamP94" mdate="2020-05-10">
+<author pid="13/4514">David B. Ingham</author>
+<author pid="02/3523">Graham D. Parrington</author>
+<title>Delayline: A Wide-Area Network Emulation Tool.</title>
+<pages>313-332</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys7.html#InghamP94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/sum_ingham.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/LongM94" mdate="2020-05-10">
+<author pid="49/4298">Darrell D. E. Long</author>
+<author pid="13/661">Bruce R. Montague</author>
+<title>Swift/RAID: A Distributed RAID System.</title>
+<pages>333-359</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys7.html#LongM94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/sum_long.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/Winckler94" mdate="2020-05-10">
+<author pid="49/3486">Andreas Winckler</author>
+<title>A Distributed Look-Ahead Workload Assignment Algorithm for Interdependent Tasks.</title>
+<pages>361-391</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys7.html#Winckler94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/sum_winckler.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/OyangW94" mdate="2020-05-10">
+<author pid="o/YenJenOyang">Yen-Jen Oyang</author>
+<author pid="46/1019">Le-Chun Wu</author>
+<title>Optimal Design of Megabyte Second-Level Caches for Minimizing Bus Traffic in Shared-Memory Shared-Bus Multiprocessors.</title>
+<pages>393-408</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys7.html#OyangW94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/sum_oyang.pdf</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 7, Number 4, Fall 1994</h2> 
+<dblpcites><r style="ee"><article key="journals/csys/LaumannB94" mdate="2020-05-10">
+<author pid="85/3419">Oliver Laumann</author>
+<author pid="65/5539">Carsten Bormann</author>
+<title>Elk: The Extension Language Kit.</title>
+<pages>419-449</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/csys/csys7.html#LaumannB94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/fall_laumann.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/Yahalom94" mdate="2020-05-10">
+<author pid="71/2062">Raphael Yahalom</author>
+<title>Secure Timeliness: On the Cost of Non-Synchronized Clocks.</title>
+<pages>451-465</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/csys/csys7.html#Yahalom94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/fall_yahalom.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/Nilsen94" mdate="2020-05-10">
+<author pid="36/3351">Kelvin D. Nilsen</author>
+<title>Reliable Real-Time Garbage Collection of C++.</title>
+<pages>467-504</pages>
+<year>1994</year>
+<volume>7</volume>
+<journal>Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/csys/csys7.html#Nilsen94</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1994/fall_nilsen.pdf</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

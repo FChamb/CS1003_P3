@@ -1,0 +1,383 @@
+<bht key="db/journals/aicom/aicom20.bht" title="AI Communications, Volume 20">  
+<h1><ref href="db/journals/aicom/index.html">AI Communications</ref>, Volume 20</h1> 
+<h2>Volume 20, Number 1, 2007</h2> Model-Based Systems 
+<dblpcites><r style="ee"><article key="journals/aicom/PicardiSW07" mdate="2015-05-15">
+<author pid="24/855">Claudia Picardi</author>
+<author pid="47/6543">Paulo Salles</author>
+<author pid="w/FranzWotawa">Franz Wotawa</author>
+<title>An introduction to model-based systems.</title>
+<pages>1-6</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic389</ee>
+<url>db/journals/aicom/aicom20.html#PicardiSW07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/CeballosGGV07" mdate="2015-05-15">
+<author pid="89/6818">Rafael Ceballos</author>
+<author pid="44/1706">Mar&#237;a Teresa G&#243;mez L&#243;pez</author>
+<author pid="g/RafaelMGasca">Rafael M. Gasca</author>
+<author pid="38/1715">Carmelo Del Valle</author>
+<title>A compiled model for faults diagnosis based on different techniques.</title>
+<pages>7-16</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic392</ee>
+<url>db/journals/aicom/aicom20.html#CeballosGGV07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/TortaT07" mdate="2015-05-15">
+<author pid="41/3800">Gianluca Torta</author>
+<author pid="19/1181">Pietro Torasso</author>
+<title>On the role of modeling causal independence for system model compilation with OBDDs.</title>
+<pages>17-26</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>http://content.iospress.com/articles/ai-communications/395</ee>
+<url>db/journals/aicom/aicom20.html#TortaT07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/LampertiZZ07" mdate="2015-05-15">
+<author pid="48/4023">Gianfranco Lamperti</author>
+<author pid="23/565">Marina Zanella</author>
+<author pid="64/5680">Davide Zanni</author>
+<title>Incremental processing of temporal observations in Model-Based Reasoning.</title>
+<pages>27-37</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic394</ee>
+<url>db/journals/aicom/aicom20.html#LampertiZZ07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Calderon-EspinozaAVG07" mdate="2015-05-15">
+<author pid="83/1060">Gabriela Calder&#243;n-Espinoza</author>
+<author pid="78/7045">Joaquim Armengol</author>
+<author pid="54/1262">Josep Veh&#237;</author>
+<author pid="93/4940">Esteban R. Gelso</author>
+<title>Dynamic diagnosis based on interval analytical redundancy relations and signs of the symptoms.</title>
+<pages>39-47</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic391</ee>
+<url>db/journals/aicom/aicom20.html#Calderon-EspinozaAVG07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/BredewegSN07" mdate="2015-05-15">
+<author pid="54/7008">Bert Bredeweg</author>
+<author pid="47/6543">Paulo Salles</author>
+<author pid="12/4442">Tim Nuttle</author>
+<title>Using exogenous quantities in qualitative models about environmental sustainability.</title>
+<pages>49-58</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>http://content.iospress.com/articles/ai-communications/390</ee>
+<url>db/journals/aicom/aicom20.html#BredewegSN07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/DomingoAPSA07" mdate="2015-05-15">
+<author pid="48/440">Marta Domingo</author>
+<author pid="34/4011">N&#250;ria Agell</author>
+<author pid="86/3834">Xavier Parra</author>
+<author pid="10/1018">M&#243;nica S&#225;nchez</author>
+<author pid="64/5598">Cecilio Angulo</author>
+<title>Using qualitative information to predict citizens' satisfaction.</title>
+<pages>59-65</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic393</ee>
+<url>db/journals/aicom/aicom20.html#DomingoAPSA07</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 20, Number 2, 2007</h2> 
+<dblpcites><r style="ee"><article key="journals/aicom/Schaerf07" mdate="2015-05-15">
+<author pid="00/2963">Marco Schaerf</author>
+<title>Obituary: Marco Cadoli (1965-2006) Dipartimento di Informatica e Sistemistica, Antonio Ruberti Sapienza Universit&#225; di Roma.</title>
+<pages>69-70</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic399</ee>
+<url>db/journals/aicom/aicom20.html#Schaerf07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/VallsGI07" mdate="2015-05-15">
+<author pid="48/4402">Jos&#233; Mar&#237;a Valls</author>
+<author pid="57/4739">In&#233;s Mar&#237;a Galv&#225;n</author>
+<author pid="v/PedroIsasiVinuela">Pedro Isasi</author>
+<title>LRBNN: A Lazy Radial Basis Neural Network model.</title>
+<pages>71-86</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic397</ee>
+<url>db/journals/aicom/aicom20.html#VallsGI07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/AvinB07" mdate="2015-05-15">
+<author pid="04/5911">Chen Avin</author>
+<author pid="b/RachelBenEliyahuZohary">Rachel Ben-Eliyahu-Zohary</author>
+<title>An upper bound on computing all X-minimal models.</title>
+<pages>87-92</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic396</ee>
+<url>db/journals/aicom/aicom20.html#AvinB07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/TortaT07a" mdate="2015-05-15">
+<author pid="41/3800">Gianluca Torta</author>
+<author pid="19/1181">Pietro Torasso</author>
+<title>An on-line approach to the computation and presentation of preferred diagnoses for dynamic systems.</title>
+<pages>93-116</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic400</ee>
+<url>db/journals/aicom/aicom20.html#TortaT07a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Sutcliffe07" mdate="2015-05-15">
+<author pid="s/GeoffSutcliffe">Geoff Sutcliffe</author>
+<title>The 3rd IJCAR Automated Theorem Proving Competition.</title>
+<pages>117-126</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic388</ee>
+<url>db/journals/aicom/aicom20.html#Sutcliffe07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Lopez-Arevalo07" mdate="2015-05-15">
+<author pid="36/2829">Ivan L&#243;pez-Ar&#233;valo</author>
+<title>Redesign support framework for complex technical processes (thesis abstract).</title>
+<pages>127-128</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic387</ee>
+<url>db/journals/aicom/aicom20.html#Lopez-Arevalo07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Ruiz07" mdate="2015-05-15">
+<author pid="s/RobertoRuizSanchez">Roberto Ruiz</author>
+<title>New heuristics in feature selection for high dimensional data (thesis abstract).</title>
+<pages>129-131</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic398</ee>
+<url>db/journals/aicom/aicom20.html#Ruiz07</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 20, Number 3, 2007</h2> Constraint Programming for Planning and Scheduling 
+<dblpcites><r style="ee"><article key="journals/aicom/KamarainenS07" mdate="2015-05-15">
+<author pid="38/3495">Olli Kamarainen</author>
+<author pid="46/4151">Hani El Sakkout</author>
+<title>A framework for constructing complete algorithms based on local search.</title>
+<pages>135-150</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic401</ee>
+<url>db/journals/aicom/aicom20.html#KamarainenS07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/DotuH07" mdate="2015-05-15">
+<author pid="d/IvanDottu">Iv&#225;n Dot&#250;</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Scheduling social tournaments locally.</title>
+<pages>151-162</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic402</ee>
+<url>db/journals/aicom/aicom20.html#DotuH07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/PolicellaCOS07" mdate="2015-05-15">
+<author pid="66/3190">Nicola Policella</author>
+<author pid="c/AmedeoCesta">Amedeo Cesta</author>
+<author pid="82/2253">Angelo Oddi</author>
+<author pid="s/StephenFSmith">Stephen F. Smith</author>
+<title>From precedence constraint posting to partial order schedules: A CSP approach to Robust Scheduling.</title>
+<pages>163-180</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic403</ee>
+<url>db/journals/aicom/aicom20.html#PolicellaCOS07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/KhatibMMRSV07" mdate="2017-10-24">
+<author pid="k/LinaKhatib">Lina Khatib</author>
+<author pid="45/2814">Paul H. Morris</author>
+<author pid="32/2472-1">Robert A. Morris 0001</author>
+<author pid="r/FrancescaRossi">Francesca Rossi</author>
+<author pid="s/ASperduti">Alessandro Sperduti</author>
+<author pid="v/KristenBrentVenable">Kristen Brent Venable</author>
+<title>Solving and learning a tractable class of soft temporal constraints: Theoretical and experimental results.</title>
+<pages>181-209</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic404</ee>
+<url>db/journals/aicom/aicom20.html#KhatibMMRSV07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/GentJKLMNST07" mdate="2015-05-15">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="03/5951">Christopher Jefferson</author>
+<author pid="43/8396">Tom Kelsey</author>
+<author pid="94/3399">In&#234;s Lynce</author>
+<author pid="17/2612">Ian Miguel</author>
+<author pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="s/BarbaraMSmith">Barbara M. Smith</author>
+<author pid="02/5166">Armagan Tarim</author>
+<title>Search in the patience game 'Black Hole'.</title>
+<pages>211-226</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic405</ee>
+<url>db/journals/aicom/aicom20.html#GentJKLMNST07</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 20, Number 4, 2007</h2> 
+<dblpcites><r style="ee"><article key="journals/aicom/HocheNF07" mdate="2015-05-15">
+<author pid="66/2882">Susanne Hoche</author>
+<author pid="04/1237">Andreas N&#252;rnberger</author>
+<author pid="f/PeterAFlach">Peter A. Flach</author>
+<title>Network analysis in natural sciences and engineering.</title>
+<pages>229-230</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic415</ee>
+<url>db/journals/aicom/aicom20.html#HocheNF07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Bilar07" mdate="2015-05-15">
+<author pid="90/3283">Daniel Bilar</author>
+<title>Callgraph properties of executables.</title>
+<pages>231-243</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic412</ee>
+<url>db/journals/aicom/aicom20.html#Bilar07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/CattutoSBSLHGS07" mdate="2017-01-18">
+<author pid="42/5539">Ciro Cattuto</author>
+<author pid="s/ChristophSchmitz">Christoph Schmitz 0001</author>
+<author pid="98/5212">Andrea Baldassarri</author>
+<author pid="21/3865">Vito Domenico Pietro Servedio</author>
+<author pid="09/3744">Vittorio Loreto</author>
+<author pid="h/AndreasHotho">Andreas Hotho</author>
+<author pid="44/4419">Miranda Grahl</author>
+<author pid="s/GerdStumme">Gerd Stumme</author>
+<title>Network properties of folksonomies.</title>
+<pages>245-262</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic410</ee>
+<url>db/journals/aicom/aicom20.html#CattutoSBSLHGS07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/KalnaH07" mdate="2015-05-15">
+<author pid="36/405">Gabriela Kalna</author>
+<author pid="74/2160">Desmond J. Higham</author>
+<title>A clustering coefficient for weighted networks, with application to gene expression data.</title>
+<pages>263-271</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic408</ee>
+<url>db/journals/aicom/aicom20.html#KalnaH07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/MarkovicTA07" mdate="2015-05-15">
+<author pid="67/4232">Goran Z. Markovic</author>
+<author pid="25/4714">Dusan Teodorovic</author>
+<author pid="28/5628">Vladanka S. Acimovic-Raspopovic</author>
+<title>Routing and wavelength assignment in all-optical networks based on the bee colony optimization.</title>
+<pages>273-285</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic413</ee>
+<url>db/journals/aicom/aicom20.html#MarkovicTA07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/PuzisED07" mdate="2015-05-15">
+<author pid="13/3098">Rami Puzis</author>
+<author pid="38/4086">Yuval Elovici</author>
+<author pid="d/ShlomiDolev">Shlomi Dolev</author>
+<title>Finding the most prominent group in complex networks.</title>
+<pages>287-296</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic411</ee>
+<url>db/journals/aicom/aicom20.html#PuzisED07</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/WestraHBGT07" mdate="2015-05-15">
+<author pid="23/5566">Ronald L. Westra</author>
+<author pid="10/3899">Goele Hollanders</author>
+<author pid="12/1974">Geert Jan Bex</author>
+<author pid="g/MarcGyssens">Marc Gyssens</author>
+<author pid="t/KTuyls">Karl Tuyls</author>
+<title>The pattern memory of gene-protein networks.</title>
+<pages>297-311</pages>
+<year>2007</year>
+<volume>20</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>http://content.iospress.com/articles/ai-communications/aic409</ee>
+<url>db/journals/aicom/aicom20.html#WestraHBGT07</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

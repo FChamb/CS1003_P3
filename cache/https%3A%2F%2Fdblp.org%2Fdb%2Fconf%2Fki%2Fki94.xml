@@ -1,0 +1,572 @@
+<bht key="db/conf/ki/ki94.bht" title="18. KI 1994: Saarbr&#252;cken"> 
+
+<h1>18. <ref href="db/conf/ki/index.html">KI</ref> 1994:
+Saarbr&#252;cken</h1>
+<dblpcites><r><proceedings key="conf/ki/1994" mdate="2019-05-14">
+<editor pid="n/BernhardNebel">Bernhard Nebel</editor>
+<editor pid="d/LSDreschlerFischer">Leonie S. Dreschler-Fischer</editor>
+<title>KI-94: Advances in Artificial Intelligence, 18th Annual German Conference on Artificial Intelligence, Saarbr&#252;cken, Germany, September 18-23, 1994, Proceedings</title>
+<booktitle>KI</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>861</volume>
+<publisher>Springer</publisher>
+<year>1994</year>
+<isbn>3-540-58467-6</isbn>
+<ee>https://doi.org/10.1007/3-540-58467-6</ee>
+<url>db/conf/ki/ki94.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Invited Paper</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/Nagel94" mdate="2017-05-20">
+<author pid="41/730">Hans-Hellmut Nagel</author>
+<title>AI Approaches Towards Sensor-Based Driver Support in Road Vehicles.</title>
+<pages>1-15</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Nagel94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_1</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Selected Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/BornscheuerT94" mdate="2017-05-20">
+<author pid="78/201">Sven-Erik Bornscheuer</author>
+<author pid="t/MichaelThielscher">Michael Thielscher</author>
+<title>Representing Concurrent Actions and Solving Conflicts.</title>
+<pages>16-27</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#BornscheuerT94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_2</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Goos94" mdate="2017-05-20">
+<author pid="11/715">Klaus Goos</author>
+<title>Preselection Strategies for Case Based Classification.</title>
+<pages>28-38</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Goos94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_3</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/StoppGHLL94" mdate="2017-05-20">
+<author pid="04/851">Eva Stopp</author>
+<author pid="12/6446">Klaus-Peter Gapp</author>
+<author pid="41/5105">Gerd Herzog</author>
+<author pid="l/ThomasLangle">Thomas Laengle</author>
+<author pid="l/TimLuth">Tim C. L&#252;th</author>
+<title>Utilizing Spatial Relations for Natural Language Access to an Autonomous Mobile Agent.</title>
+<pages>39-50</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#StoppGHLL94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_4</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/BaaderBH94" mdate="2017-05-20">
+<author pid="b/FBaader">Franz Baader</author>
+<author pid="97/5315">Martin Buchheit</author>
+<author pid="40/3444">Bernhard Hollunder</author>
+<title>Cardinality Restrictions on Concepts.</title>
+<pages>51-62</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#BaaderBH94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_5</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Neural Network Applications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/PomplunVR94" mdate="2017-06-08">
+<author pid="16/929">Marc Pomplun</author>
+<author pid="76/1660">Boris M. Velichkovsky</author>
+<author pid="r/HRitter">Helge J. Ritter</author>
+<title>An Artificial Neural Network for High Precision Eye Movement Tracking.</title>
+<pages>63-69</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#PomplunVR94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_6</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Logic Programming</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/Kuznetsov94" mdate="2017-05-20">
+<author pid="63/7040">Vladimir Kuznetsov</author>
+<title>A Kripke-Kleene Logic over General Logic Programs.</title>
+<pages>70-81</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Kuznetsov94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_7</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/DixM94" mdate="2018-07-30">
+<author pid="d/JurgenDix">J&#252;rgen Dix</author>
+<author pid="m/MartinMuller1">Martin M&#252;ller 0001</author>
+<title>The Stable Semantics and its Variants: A Comparison of Recent Approaches.</title>
+<pages>82-93</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#DixM94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_8</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Natural Language</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/GlochnerGMR94" mdate="2017-05-20">
+<author pid="79/6069">Ingo Gl&#246;ckner</author>
+<author pid="07/5967">Andrea Grieszl</author>
+<author pid="75/7512">Martin Eric M&#252;ller</author>
+<author pid="r/MRonthaler">Marc Ronthaler</author>
+<title>TabVer: A Case Study in Table Verbalization.</title>
+<pages>94-105</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#GlochnerGMR94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_9</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/JamesonKNSWZ94" mdate="2019-04-17">
+<author pid="j/AnthonyJameson">Anthony Jameson</author>
+<author pid="92/4197">Bernhard Kipper</author>
+<author pid="n/AlassaneNdiaye">Alassane Ndiaye</author>
+<author pid="45/6877">Ralph Sch&#228;fer</author>
+<author pid="w/ThomasWeis">Thomas Weis</author>
+<author pid="88/3674">Detlev Zimmermann</author>
+<title>Cooperating to Be Noncooperative: The Dialog System PRACMA.</title>
+<pages>106-117</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#JamesonKNSWZ94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_10</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Machine Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/Pfahringer94" mdate="2017-05-20">
+<author pid="10/140">Bernhard Pfahringer</author>
+<title>Robust Constructive Induction.</title>
+<pages>118-129</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Pfahringer94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_11</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge Representation</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/FuhrKS94" mdate="2017-05-20">
+<author pid="89/2637-2">Thomas Fuhr 0002</author>
+<author pid="81/4845">Franz Kummert</author>
+<author pid="20/6444">Gerhard Sagerer</author>
+<title>Enriching a Semantic Network Language by Integrating Qualitative Reasoning Techniques.</title>
+<pages>130-141</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#FuhrKS94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_12</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/HaarslevMS94" mdate="2018-08-14">
+<author pid="h/VolkerHaarslev">Volker Haarslev</author>
+<author pid="m/RalfMoller">Ralf M&#246;ller 0001</author>
+<author pid="61/268">Carsten Schr&#246;der</author>
+<title>Combining Spatial and Terminological Reasoning.</title>
+<pages>142-153</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#HaarslevMS94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_13</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Schaaf94" mdate="2017-05-20">
+<author pid="92/514">J&#246;rg Walter Schaaf</author>
+<title>Detecting Gestalts in CAD-Plans to be Used as Indices for Case-Retrieval in Architecture.</title>
+<pages>154-165</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Schaaf94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_14</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Schikuta94" mdate="2017-05-20">
+<author pid="89/2040">Erich Schikuta</author>
+<title>The NeuDB-System: Towards the Integration of Neural Networks and Database Systems.</title>
+<pages>166-177</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Schikuta94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_15</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/QuantzS94" mdate="2017-05-20">
+<author pid="57/1817">Joachim Quantz</author>
+<author pid="99/4721">Sven Suska</author>
+<title>Weighted Defaults in Description Logics: Formal Properties and Proof Theory.</title>
+<pages>178-189</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#QuantzS94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_16</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/BeckerL94" mdate="2017-05-20">
+<author pid="00/969">Andreas Becker</author>
+<author pid="l/GerhardLakemeyer">Gerhard Lakemeyer</author>
+<title>Epistemic Queries in Classic.</title>
+<pages>190-201</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#BeckerL94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_17</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/LinderHM94" mdate="2017-05-20">
+<author pid="79/4100">Bernd van Linder</author>
+<author pid="h/WiebevanderHoek">Wiebe van der Hoek</author>
+<author pid="m/JJCMeyer">John-Jules Ch. Meyer</author>
+<title>Communicating Rational Agents.</title>
+<pages>202-213</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#LinderHM94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_18</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Meyer-FujaraHSW94" mdate="2017-05-20">
+<author pid="22/1959">Josef Meyer-Fujara</author>
+<author pid="61/4505">Barbara Heller</author>
+<author pid="39/4835">Sonja Schlegelmilch</author>
+<author pid="w/IpkeWachsmuth">Ipke Wachsmuth</author>
+<title>Knowledge-Level Modularization of a Complex Knowledge Base.</title>
+<pages>214-225</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Meyer-FujaraHSW94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_19</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/LukaszewiczM94" mdate="2017-05-20">
+<author pid="73/4447">Witold Lukaszewicz</author>
+<author pid="71/3763">Ewa Madalinska-Bugaj</author>
+<title>Program Verification Techniques as a Tool for Reasoning about Action and Change.</title>
+<pages>226-236</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#LukaszewiczM94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_20</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/CerroH94" mdate="2017-05-20">
+<author pid="03/3567">Luis Fari&#241;as del Cerro</author>
+<author pid="h/AndreasHerzig">Andreas Herzig</author>
+<title>A Conditional Logic for Updating in the Possible Models Approach.</title>
+<pages>237-247</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#CerroH94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_21</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Non-monotonic Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/Schurz94" mdate="2017-05-20">
+<author pid="86/716">Gerhard Schurz</author>
+<title>Probabilistic Justification of Default Reasoning.</title>
+<pages>248-259</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Schurz94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_22</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Zaverucha94" mdate="2017-05-20">
+<author pid="53/3165">Gerson Zaverucha</author>
+<title>A Prioritized Contextual Default Logic: Curing Anomalous Extensions with a Simple Abnormality Default Theory.</title>
+<pages>260-271</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Zaverucha94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_23</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/DelgrandeS94" mdate="2017-05-20">
+<author pid="d/JamesPDelgrande">James P. Delgrande</author>
+<author pid="s/TorstenSchaub">Torsten Schaub</author>
+<title>Incorporating Specificity into Circumscriptive Theories.</title>
+<pages>272-283</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#DelgrandeS94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_24</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Rott94" mdate="2021-10-14">
+<author orcid="0000-0002-8142-2736" pid="95/4366">Hans Rott</author>
+<title>Coherent Choice and Epistemic Entrechment (Preliminary Report).</title>
+<pages>284-295</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Rott94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_25</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/LinL94" mdate="2017-05-20">
+<author pid="23/4616">Zuoquan Lin</author>
+<author pid="64/6025-22">Wei Li 0022</author>
+<title>A Note on Tableaux of Logic of Paradox.</title>
+<pages>296-307</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#LinL94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_26</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/AsherL94" mdate="2017-05-20">
+<author pid="33/3380">Nicholas Asher</author>
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<title>When Nonmonotonicity Comes from Distances.</title>
+<pages>308-318</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#AsherL94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_27</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Reasoning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/BecherP94" mdate="2017-05-20">
+<author pid="54/5528">G&#233;rard Becher</author>
+<author pid="63/1935">Uwe Petermann</author>
+<title>Rigid Unification by Completion and Rigid Paramodulation.</title>
+<pages>319-330</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#BecherP94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_28</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Kohlhase94" mdate="2017-05-20">
+<author pid="k/MKohlhase">Michael Kohlhase</author>
+<title>Unification in a Sorted Lambda-Calculus with Term Declarations and Function Sorts.</title>
+<pages>331-342</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Kohlhase94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_29</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/DenzingerF94" mdate="2017-05-20">
+<author pid="d/JDenzinger">J&#246;rg Denzinger</author>
+<author pid="10/455">Matthias Fuchs</author>
+<title>Goal Oriented Equational Theorem Proving Using Team Work.</title>
+<pages>343-354</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#DenzingerF94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_30</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/GentW94" mdate="2017-05-20">
+<author pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Hardest Random SAT Problems.</title>
+<pages>355-366</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#GentW94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_31</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Madden94" mdate="2017-05-20">
+<author pid="20/5839">Peter Madden</author>
+<title>Formal Methods for Automated Program Improvement.</title>
+<pages>367-378</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Madden94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_32</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/HuangKKR94" mdate="2017-05-20">
+<author pid="79/4664">Xiaorong Huang</author>
+<author pid="k/ManfredKerber">Manfred Kerber</author>
+<author pid="k/MKohlhase">Michael Kohlhase</author>
+<author pid="79/5411">J&#246;rn Richts</author>
+<title>Adapting Methods to Novel Tasks in Proof Planning.</title>
+<pages>379-390</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#HuangKKR94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_33</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Posters</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/ki/Amtrup94" mdate="2017-05-20">
+<author pid="05/3581">Jan W. Amtrup</author>
+<title>Using Charts for Transfer in MT.</title>
+<pages>391</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Amtrup94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_34</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/BaazH94" mdate="2017-05-20">
+<author pid="32/2031">Matthias Baaz</author>
+<author pid="33/6832">Karin H&#246;rwein</author>
+<title>A New Frame For Common-Sense Reasoning - Towards Local Inconsistencies.</title>
+<pages>392</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#BaazH94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_35</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/CordierS94" mdate="2017-05-20">
+<author pid="95/522">Marie-Odile Cordier</author>
+<author pid="59/4233">Pierre Siegel</author>
+<title>Prioritized Transitions for Updates.</title>
+<pages>393</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#CordierS94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_36</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Eckerle94" mdate="2017-05-20">
+<author pid="14/3950">J&#252;rgen Eckerle</author>
+<title>An Optimal Bidirectional Search Algorithm.</title>
+<pages>394</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Eckerle94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_37</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/FilipicZP94" mdate="2017-05-20">
+<author pid="66/1841">Bogdan Filipic</author>
+<author pid="96/4341">Iztok Zun</author>
+<author pid="30/1052">Matjaz Perpar</author>
+<title>Learning to Discriminate Phases in Gas-Liquid Flow.</title>
+<pages>395</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#FilipicZP94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_38</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/GieslN94" mdate="2017-05-20">
+<author pid="g/JurgenGiesl">J&#252;rgen Giesl</author>
+<author pid="84/1566">Ingrid Neumann</author>
+<title>Strategies for Semantical Contractions.</title>
+<pages>396</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#GieslN94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_39</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Penders94" mdate="2017-05-20">
+<author pid="66/6190">J. S. J. H. Penders</author>
+<title>Conflicts in the Spatial Interaction of Autonomous Agents.</title>
+<pages>397</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Penders94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_40</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/RappJD94" mdate="2017-05-20">
+<author pid="47/3760">Stefan Rapp</author>
+<author pid="83/6727">Michael Jessen</author>
+<author pid="31/6403">Grzegorz Dogil</author>
+<title>Using Rough Sets Theory to Predict German Word Stress.</title>
+<pages>398</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#RappJD94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_41</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Schaedler94" mdate="2017-05-20">
+<author pid="70/1256">Kristina Sch&#228;dler</author>
+<title>Graphtheoretical Algorithms and Knowledge-Based Design.</title>
+<pages>399</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Schaedler94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_42</ee>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ki/Ternovskaia94" mdate="2017-05-20">
+<author pid="t/EugeniaTernovska">Eugenia Ternovskaia</author>
+<title>Interval Situation Calculus.</title>
+<pages>400</pages>
+<year>1994</year>
+<crossref>conf/ki/1994</crossref>
+<booktitle>KI</booktitle>
+<url>db/conf/ki/ki94.html#Ternovskaia94</url>
+<ee>https://doi.org/10.1007/3-540-58467-6_43</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

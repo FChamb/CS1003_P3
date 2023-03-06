@@ -1,0 +1,464 @@
+<bht key="db/journals/cgf/cgf5.bht" title="Computer Graphics Forum, Volume 5"> 
+<h1><ref href="db/journals/cgf/index.html">Computer Graphics Forum</ref>, Volume 5</h1> 
+<h2>Volume 5, Number 1, March 1986</h2> Refereed Papers 
+<dblpcites><r style="ee"><article key="journals/cgf/ClearyWBV86" mdate="2017-05-26">
+<author pid="c/JohnGCleary">John G. Cleary</author>
+<author pid="19/1805">Brian Wyvill</author>
+<author pid="46/3499">Graham M. Birtwistle</author>
+<author pid="121/5652">Reddy Vatti</author>
+<title>Multiprocessor Ray Tracing.</title>
+<pages>3-12</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00263.x</ee>
+<url>db/journals/cgf/cgf5.html#ClearyWBV86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Thomas86" mdate="2017-05-26">
+<author pid="25/368">A. L. Thomas</author>
+<title>Overlap Operations and Raster Graphics.</title>
+<pages>13-32</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00264.x</ee>
+<url>db/journals/cgf/cgf5.html#Thomas86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Parsons86" mdate="2017-05-26">
+<author pid="121/5823">Michael S. Parsons</author>
+<title>Generating Lines Using Quadgraph Patterns.</title>
+<pages>33-39</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00265.x</ee>
+<url>db/journals/cgf/cgf5.html#Parsons86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/HubnerM86" mdate="2019-03-29">
+<author pid="97/2668-2">Wolfgang H&#252;bner 0002</author>
+<author pid="20/684">Z. I. Markov</author>
+<title>GKS Based Graphics Programming in PROLOG.</title>
+<pages>41-50</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00266.x</ee>
+<url>db/journals/cgf/cgf5.html#HubnerM86</url>
+</article>
+</r>
+</dblpcites>
+Papers reproduced from the CAMP Conference 
+<dblpcites><r style="ee"><article key="journals/cgf/CavaliereFT86" mdate="2017-05-26">
+<author pid="94/3780">S. Cavaliere</author>
+<author pid="57/1281">Mario Fantini</author>
+<author pid="99/1947">Antonio Turtur</author>
+<title>Text, Images and Graphics Management System for Editorial Environment.</title>
+<pages>51-56</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00267.x</ee>
+<url>db/journals/cgf/cgf5.html#CavaliereFT86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Denham86" mdate="2017-05-26">
+<author pid="121/5843">Den Denham</author>
+<title>High Performance Colour Displays for Computer Graphics.</title>
+<pages>57-63</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00268.x</ee>
+<url>db/journals/cgf/cgf5.html#Denham86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Joosten86" mdate="2017-05-26">
+<author pid="121/5665">Roy Joosten</author>
+<title>Integration of Town Planning, Landscaping and 3D-Architecture: Results and Future Enhancements since Camp '83.</title>
+<pages>65-69</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00269.x</ee>
+<url>db/journals/cgf/cgf5.html#Joosten86</url>
+</article>
+</r>
+</dblpcites>
+Reports ond Surveys 
+<dblpcites><r style="ee"><article key="journals/cgf/Mumford86" mdate="2017-05-26">
+<author pid="56/3048">Anne M. Mumford</author>
+<title>Scientific Software based on GKS.</title>
+<pages>71-72</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00270.x</ee>
+<url>db/journals/cgf/cgf5.html#Mumford86</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 5, Number 2, June 1986</h2> Refereed Papers 
+<dblpcites><r style="ee"><article key="journals/cgf/NavazoAB86" mdate="2017-05-26">
+<author pid="00/1413">Isabel Navazo</author>
+<author pid="121/5745">D. Avala</author>
+<author pid="b/PereBrunet">Pere Brunet</author>
+<title>A Geometric Modeller Based on the Exact Octtree Representation of Polyhedra.</title>
+<pages>91-104</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00278.x</ee>
+<url>db/journals/cgf/cgf5.html#NavazoAB86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/ShindeM86" mdate="2017-05-26">
+<author pid="121/5818">Yogesh N. Shinde</author>
+<author pid="m/SudhirPMudur">Sudhir P. Mudur</author>
+<title>Algorithms for Handling the Fill Area Primitive of GKS.</title>
+<pages>105-117</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00279.x</ee>
+<url>db/journals/cgf/cgf5.html#ShindeM86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/SchumannK86" mdate="2021-12-17">
+<author pid="121/5832">H. Schumann</author>
+<author pid="73/1909">Adolf Kotzauer</author>
+<title>A Method of Displaying Transformed Picture Rectangles Using GKS Raster Functions.</title>
+<pages>119-123</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00280.x</ee>
+<url>db/journals/cgf/cgf5.html#SchumannK86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Chryssafis86" mdate="2017-05-26">
+<author pid="121/5702">A. Chryssafis</author>
+<title>Anti-Aliasing of Computer-Generated Images: A Picture Independent Approach.</title>
+<pages>125-129</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00281.x</ee>
+<url>db/journals/cgf/cgf5.html#Chryssafis86</url>
+</article>
+</r>
+</dblpcites>
+Papers from the EUROGRAPHICS (UK) Conference 
+<dblpcites><r style="ee"><article key="journals/cgf/BrightL86" mdate="2017-05-26">
+<author pid="14/6956">Stephen Bright</author>
+<author pid="37/9573">Susan Laflin</author>
+<title>Shading of Solid Voxel Models.</title>
+<pages>131-137</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00282.x</ee>
+<url>db/journals/cgf/cgf5.html#BrightL86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Reynolds86" mdate="2017-05-26">
+<author pid="26/4922">Graham J. Reynolds</author>
+<title>A Token Based Graphics System.</title>
+<pages>139-145</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00283.x</ee>
+<url>db/journals/cgf/cgf5.html#Reynolds86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/MorrisonFDA86" mdate="2022-05-11">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="121/5795">A. L. Florianis</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>An Integrated Graphics Programming Environment.</title>
+<pages>147-157</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00284.x</ee>
+<url>db/journals/cgf/cgf5.html#MorrisonFDA86</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 5, Number 3, September 1986</h2> Refereed Papers 
+<dblpcites><r style="ee"><article key="journals/cgf/ArabniaO86" mdate="2017-05-26">
+<author pid="a/HRArabnia">Hamid R. Arabnia</author>
+<author pid="36/7516">Martin A. Oliver</author>
+<title>Fast Operations on Raster Images with SIMD Machine Architectures.</title>
+<pages>179-188</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00296.x</ee>
+<url>db/journals/cgf/cgf5.html#ArabniaO86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Muller86" mdate="2017-05-26">
+<author pid="46/2043">H. M&#252;ller</author>
+<title>Image Generation by Space Sweep.</title>
+<pages>189-195</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00297.x</ee>
+<url>db/journals/cgf/cgf5.html#Muller86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Szilvasi-Nagy86" mdate="2017-05-26">
+<author pid="82/2346">M&#225;rta Szilv&#225;si-Nagy</author>
+<title>Two Algorithms for Decomposing a Polyhedron into Convex Parts.</title>
+<pages>197-201</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00298.x</ee>
+<url>db/journals/cgf/cgf5.html#Szilvasi-Nagy86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Pickover86" mdate="2017-05-26">
+<author pid="05/1077">Clifford A. Pickover</author>
+<title>A Monte Carlo Approach for &#603; Placement in Fractal-Dimension Calculations for Waveform Graphs.</title>
+<pages>203-209</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00299.x</ee>
+<url>db/journals/cgf/cgf5.html#Pickover86</url>
+</article>
+</r>
+</dblpcites>
+Paper From The Eurographics Uk Conference 
+<dblpcites><r style="ee"><article key="journals/cgf/PoetM86" mdate="2017-05-26">
+<author pid="42/7379">Ron Poet</author>
+<author pid="73/7236">E. James Milner-White</author>
+<title>Displaying Relevant Features of Protein Molecules.</title>
+<pages>211-215</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00300.x</ee>
+<url>db/journals/cgf/cgf5.html#PoetM86</url>
+</article>
+</r>
+</dblpcites>
+Reports and Surveys 
+<dblpcites><r style="ee"><article key="journals/cgf/Kelly86" mdate="2017-05-26">
+<author pid="78/6879">Mary B. Kelly</author>
+<title>First Time Classroom Computer Graphics.</title>
+<pages>217-220</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00301.x</ee>
+<url>db/journals/cgf/cgf5.html#Kelly86</url>
+</article>
+</r>
+</dblpcites>
+Original Article 
+<dblpcites><r style="ee"><article key="journals/cgf/Matthew86" mdate="2017-05-26">
+<author pid="121/5828">A. J. Matthew</author>
+<title>EUROCRAPHICS UK 1986: Clasgow Conference.</title>
+<pages>225-231</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00303.x</ee>
+<url>db/journals/cgf/cgf5.html#Matthew86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Owen86" mdate="2017-05-26">
+<author pid="83/6256">Jon Owen</author>
+<title>Computer Graphics and CAD Literature A Keyword-Indexed Bibliography.</title>
+<pages>233-263</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00304.x</ee>
+<url>db/journals/cgf/cgf5.html#Owen86</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 5, Number 4, December 1986</h2> Editorial 
+<dblpcites><r style="ee"><article key="journals/cgf/ArnoldE86" mdate="2020-07-24">
+<author pid="a/DavidBArnold">David Arnold 0001</author>
+<author pid="90/4603">G&#252;nter Enderle</author>
+<title>Editorial.</title>
+<pages>281-282</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00313.x</ee>
+<url>db/journals/cgf/cgf5.html#ArnoldE86</url>
+</article>
+</r>
+</dblpcites>
+Refereed Papers 
+<dblpcites><r style="ee"><article key="journals/cgf/Abi-Ezzi86" mdate="2017-05-26">
+<author pid="48/2699">Salim S. Abi-Ezzi</author>
+<title>The Priority Tree, a HL/HSR Approach for PHIGS.</title>
+<pages>283-289</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00314.x</ee>
+<url>db/journals/cgf/cgf5.html#Abi-Ezzi86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Gossling86" mdate="2017-05-26">
+<author pid="66/4312">T. H. Gossling</author>
+<title>Beyond Hershey: A Representation of Fonts for Computer Graphics.</title>
+<pages>291-295</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00315.x</ee>
+<url>db/journals/cgf/cgf5.html#Gossling86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Arya86" mdate="2017-05-26">
+<author pid="29/4933">Kavi Arya</author>
+<title>A Functional Approach to Animation.</title>
+<pages>297-311</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00316.x</ee>
+<url>db/journals/cgf/cgf5.html#Arya86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Pickover86a" mdate="2017-05-26">
+<author pid="05/1077">Clifford A. Pickover</author>
+<title>Biom orphs: Computer Displays of Biological Forms Generated from Mathematical Feedback Loops.</title>
+<pages>313-316</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00317.x</ee>
+<url>db/journals/cgf/cgf5.html#Pickover86a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/GuTS86" mdate="2017-05-26">
+<author pid="121/5685">Kaining Gu</author>
+<author pid="61/6745">Zesheng Tang</author>
+<author pid="s/JiaGuangSun">Jiaguang Sun</author>
+<title>Reconstruction of 3D Objects from Orthographic Projections.</title>
+<pages>317-323</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00318.x</ee>
+<url>db/journals/cgf/cgf5.html#GuTS86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/Sabin86" mdate="2017-05-26">
+<author pid="37/1767">Malcolm A. Sabin</author>
+<title>A Survey of Contouring Methods.</title>
+<pages>325-339</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00319.x</ee>
+<url>db/journals/cgf/cgf5.html#Sabin86</url>
+</article>
+</r>
+</dblpcites>
+Keynote Poper from Eg '86 
+<dblpcites><r style="ee"><article key="journals/cgf/ThalmannM86" mdate="2017-05-26">
+<author pid="t/DanielThalmann">Daniel Thalmann</author>
+<author pid="t/NadiaMagnenatThalmann">Nadia Magnenat-Thalmann</author>
+<title>Artificial Intelligence in Three-Dimensional Computer Animation.</title>
+<pages>341-348</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00320.x</ee>
+<url>db/journals/cgf/cgf5.html#ThalmannM86</url>
+</article>
+</r>
+</dblpcites>
+Reports And Surveys 
+<dblpcites><r style="ee"><article key="journals/cgf/Duce86" mdate="2017-05-26">
+<author pid="d/DavidADuce">David A. Duce</author>
+<title>Teaching Workshop - December 1985.</title>
+<pages>349-352</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00321.x</ee>
+<url>db/journals/cgf/cgf5.html#Duce86</url>
+</article>
+</r>
+</dblpcites>
+Reports ond Surveys 
+<dblpcites><r style="ee"><article key="journals/cgf/Morrow86" mdate="2017-05-26">
+<author pid="20/1929">Tom M. Morrow</author>
+<title>EUROGRAPHICS '86 - A Personal View.</title>
+<pages>353-354</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00322.x</ee>
+<url>db/journals/cgf/cgf5.html#Morrow86</url>
+</article>
+</r>
+<r style="ee"><article key="journals/cgf/HopgoodD86" mdate="2017-05-26">
+<author pid="01/254">F. Robert A. Hopgood</author>
+<author pid="d/DavidADuce">David A. Duce</author>
+<title>Ausgraph '86.</title>
+<pages>355-356</pages>
+<year>1986</year>
+<volume>5</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.1986.tb00323.x</ee>
+<url>db/journals/cgf/cgf5.html#HopgoodD86</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

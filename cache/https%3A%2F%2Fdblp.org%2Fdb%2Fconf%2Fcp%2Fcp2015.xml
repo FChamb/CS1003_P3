@@ -1,0 +1,683 @@
+<bht key="db/conf/cp/cp2015.bht" title="21. CP 2015">  
+<h1>21. <ref href="db/conf/cp/index.html">CP</ref> 2015:
+Cork, Ireland</h1> <dblpcites><r><proceedings key="conf/cp/2015" mdate="2019-05-14">
+<editor pid="02/6567">Gilles Pesant</editor>
+<title>Principles and Practice of Constraint Programming - 21st International Conference, CP 2015, Cork, Ireland, August 31 - September 4, 2015, Proceedings</title>
+<booktitle>CP</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9255</volume>
+<isbn>978-3-319-23218-8</isbn>
+<ee>https://doi.org/10.1007/978-3-319-23219-5</ee>
+<url>db/conf/cp/cp2015.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Technical Track</h2> <dblpcites><r style="ee"><inproceedings key="conf/cp/AbioMS15" mdate="2017-05-17">
+<author pid="05/9729">Ignasi Ab&#237;o</author>
+<author pid="29/3643">Valentin Mayer-Eichberger</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Encoding Linear Constraints with Implication Chains to CNF.</title>
+<pages>3-11</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_1</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#AbioMS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/AlloucheGKSZ15" mdate="2017-05-17">
+<author pid="19/611">David Allouche</author>
+<author pid="18/1193">Simon de Givry</author>
+<author pid="61/6509">George Katsirelos</author>
+<author pid="87/6848">Thomas Schiex</author>
+<author pid="70/3438">Matthias Zytnicki</author>
+<title>Anytime Hybrid Best-First Search with Tree Decomposition for Weighted CSP.</title>
+<pages>12-29</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_2</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#AlloucheGKSZ15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BergmanCH15" mdate="2017-05-17">
+<author pid="70/9555">David Bergman</author>
+<author pid="87/2502">Andr&#233; Augusto Cir&#233;</author>
+<author pid="61/5378">Willem-Jan van Hoeve</author>
+<title>Improved Constraint Propagation via Lagrangian Decomposition.</title>
+<pages>30-38</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_3</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#BergmanCH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CoffrinHH15" mdate="2022-06-23">
+<author pid="14/7128">Carleton Coffrin</author>
+<author orcid="0000-0003-3102-2766" pid="159/1643">Hassan L. Hijazi</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Strengthening Convex Relaxations with Bound Tightening for Power Network Optimization.</title>
+<pages>39-57</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_4</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#CoffrinHH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CooperDE15" mdate="2017-05-17">
+<author pid="04/5623">Martin C. Cooper</author>
+<author pid="166/7455">Aymeric Duchein</author>
+<author pid="75/7116">Guillaume Escamocher</author>
+<title>Broken Triangles Revisited.</title>
+<pages>58-73</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_5</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#CooperDE15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/CooperJT15" mdate="2017-05-17">
+<author pid="04/5623">Martin C. Cooper</author>
+<author pid="10/6570">Philippe J&#233;gou</author>
+<author pid="34/5502">Cyril Terrioux</author>
+<title>A Microstructure-Based Family of Tractable Classes for CSPs.</title>
+<pages>74-88</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_6</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#CooperJT15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DejemeppeCS15" mdate="2017-05-17">
+<author pid="145/1697">Cyrille Dejemeppe</author>
+<author pid="155/8955">Sascha Van Cauwelaert</author>
+<author pid="78/2903">Pierre Schaus</author>
+<title>The Unary Resource with Transition Times.</title>
+<pages>89-104</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_7</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#DejemeppeCS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DerrienFPP15" mdate="2017-06-02">
+<author pid="136/5621">Alban Derrien</author>
+<author orcid="0000-0001-5638-4777" pid="86/10056">Jean-Guillaume Fages</author>
+<author pid="84/3969">Thierry Petit</author>
+<author pid="139/6447">Charles Prud'homme</author>
+<title>A Global Constraint for a Tractable Class of Temporal Optimization Problems.</title>
+<pages>105-120</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_8</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#DerrienFPP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/FiorettoLP0S15" mdate="2020-10-25">
+<author orcid="0000-0002-1381-6776" pid="119/6404">Ferdinando Fioretto</author>
+<author pid="118/3873">Tiep Le</author>
+<author orcid="0000-0002-7753-1737" pid="p/EnricoPontelli">Enrico Pontelli</author>
+<author pid="97/4283-1">William Yeoh 0001</author>
+<author pid="s/TranCaoSon">Tran Cao Son</author>
+<title>Exploiting GPUs in Solving (Distributed) Constraint Optimization Problems with Dynamic Programming.</title>
+<pages>121-139</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_9</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#FiorettoLP0S15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GayHLS15" mdate="2017-05-17">
+<author pid="47/8713">Steven Gay</author>
+<author pid="134/3045">Renaud Hartert</author>
+<author pid="95/2777">Christophe Lecoutre</author>
+<author pid="78/2903">Pierre Schaus</author>
+<title>Conflict Ordering Search for Scheduling Problems.</title>
+<pages>140-148</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_10</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#GayHLS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/GayHS15" mdate="2017-05-17">
+<author pid="47/8713">Steven Gay</author>
+<author pid="134/3045">Renaud Hartert</author>
+<author pid="78/2903">Pierre Schaus</author>
+<title>Simple and Scalable Time-Table Filtering for the Cumulative Constraint.</title>
+<pages>149-157</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_11</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#GayHS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HaQR15" mdate="2021-04-09">
+<author orcid="0000-0002-9923-6309" pid="168/8318">Minh Ho&#224;ng H&#224;</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<title>General Bounding Mechanism for Constraint Programs.</title>
+<pages>158-172</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_12</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#HaQR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/IgnatievPLM15" mdate="2020-02-24">
+<author orcid="0000-0002-4535-2902" pid="26/9729">Alexey Ignatiev</author>
+<author pid="29/9729">Alessandro Previti</author>
+<author pid="50/1766">Mark H. Liffiton</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o Marques-Silva 0001</author>
+<title>Smallest MUS Extraction with Minimal Hitting Set Dualization.</title>
+<pages>173-182</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_13</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#IgnatievPLM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/JonssonL15" mdate="2017-05-17">
+<author pid="j/PeterJonsson">Peter Jonsson</author>
+<author pid="129/5638">Victor Lagerkvist</author>
+<title>Upper and Lower Bounds on the Time Complexity of Infinite-Domain CSPs.</title>
+<pages>183-199</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_14</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#JonssonL15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/0001MM15" mdate="2017-06-02">
+<author pid="13/4416-1">Saurabh Joshi 0001</author>
+<author pid="14/8296">Ruben Martins</author>
+<author orcid="0000-0002-4205-2189" pid="57/1074">Vasco M. Manquinho</author>
+<title>Generalized Totalizer Encoding for Pseudo-Boolean Constraints.</title>
+<pages>200-209</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_15</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#0001MM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KarpinskiP15" mdate="2019-10-19">
+<author orcid="0000-0002-4190-3033" pid="140/7254">Michal Karpinski</author>
+<author orcid="0000-0002-4734-1721" pid="16/3533">Marek Piotr&#243;w</author>
+<title>Smaller Selection Networks for Cardinality Constraints Encoding.</title>
+<pages>210-225</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_16</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#KarpinskiP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KemmarLLBC15" mdate="2022-10-02">
+<author pid="116/6690">Amina Kemmar</author>
+<author pid="79/3951">Samir Loudni</author>
+<author pid="25/423">Yahia Lebbah</author>
+<author pid="29/2067">Patrice Boizumault</author>
+<author orcid="0000-0001-9700-5075" pid="29/2665">Thierry Charnois</author>
+<title>PREFIX-PROJECTION Global Constraint for Sequential Pattern Mining.</title>
+<pages>226-243</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_17</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#KemmarLLBC15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KongLLL15" mdate="2022-10-02">
+<author orcid="0000-0003-4264-3330" pid="166/7446">Shufeng Kong</author>
+<author orcid="0000-0002-3332-2546" pid="30/4051">Sanjiang Li</author>
+<author orcid="0000-0001-8038-008X" pid="39/2889">Yongming Li 0001</author>
+<author orcid="0000-0002-2714-3453" pid="135/7397">Zhiguo Long</author>
+<title>On Tree-Preserving Constraints.</title>
+<pages>244-261</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_18</ee>
+<ee>https://www.wikidata.org/entity/Q62038117</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#KongLLL15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KreterSS15" mdate="2017-06-15">
+<author pid="141/7170">Stefan Kreter</author>
+<author orcid="0000-0001-5452-4086" pid="82/2883">Andreas Schutt</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Modeling and Solving Project Scheduling with Calendars.</title>
+<pages>262-278</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_19</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#KreterSS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LombardiBM15" mdate="2017-06-02">
+<author orcid="0000-0003-4709-8888" pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<author pid="98/4776">Alessio Bonfietti</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>Deterministic Estimation of the Expected Makespan of a POS Under Duration Uncertainty.</title>
+<pages>279-294</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_20</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#LombardiBM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/McCreeshP15" mdate="2017-05-17">
+<author pid="119/4841">Ciaran McCreesh</author>
+<author pid="14/3015">Patrick Prosser</author>
+<title>A Parallel, Backjumping Subgraph Isomorphism Algorithm Using Supplemental Graphs.</title>
+<pages>295-312</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_21</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#McCreeshP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MonetteFP15" mdate="2018-11-14">
+<author pid="71/5015">Jean-No&#235;l Monette</author>
+<author orcid="0000-0001-8730-4098" pid="08/4454">Pierre Flener</author>
+<author pid="50/4914">Justin Pearson</author>
+<title>Automated Auxiliary Variable Elimination Through On-the-Fly Propagator Generation.</title>
+<pages>313-329</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_22</ee>
+<ee>https://www.wikidata.org/entity/Q57574230</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#MonetteFP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/NightingaleSM15" mdate="2020-03-27">
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="166/7452">Patrick Spracklen</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Automatically Improving SAT Encoding of Constraint Problems Through Common Subexpression Elimination in Savile Row.</title>
+<pages>330-340</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_23</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#NightingaleSM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PapadopoulosPRS15" mdate="2017-05-17">
+<author pid="14/3330">Alexandre Papadopoulos</author>
+<author pid="48/124">Fran&#231;ois Pachet</author>
+<author pid="56/2284">Pierre Roy</author>
+<author pid="165/3376">Jason Sakellariou</author>
+<title>Exact Sampling for Regular and Markov Constraints with Belief Propagation.</title>
+<pages>341-350</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_24</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#PapadopoulosPRS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PrestwichRT15" mdate="2022-02-07">
+<author pid="56/661">Steven D. Prestwich</author>
+<author orcid="0000-0001-7247-1010" pid="03/3111">Roberto Rossi</author>
+<author orcid="0000-0001-5601-3968" pid="02/5166">S. Armagan Tarim</author>
+<title>Randomness as a Constraint.</title>
+<pages>351-366</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_25</ee>
+<ee>https://www.wikidata.org/entity/Q57539179</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#PrestwichRT15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Razgon15" mdate="2017-05-17">
+<author pid="91/2007">Igor Razgon</author>
+<title>Quasipolynomial Simulation of DNNF by a Non-determinstic Read-Once Branching Program.</title>
+<pages>367-375</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_26</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#Razgon15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/RendlGST15" mdate="2020-10-25">
+<author pid="38/6313">Andrea Rendl</author>
+<author orcid="0000-0002-2156-2155" pid="41/3130">Tias Guns</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="41/5343">Guido Tack</author>
+<title>MiniSearch: A Solver-Independent Meta-Search Language for MiniZinc.</title>
+<pages>376-392</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_27</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#RendlGST15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/0002AH15" mdate="2018-11-02">
+<author orcid="0000-0001-9503-4091" pid="39/2558-2">Mohamed Siala 0002</author>
+<author pid="35/6486">Christian Artigues</author>
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<title>Two Clause Learning Approaches for Disjunctive Scheduling.</title>
+<pages>393-402</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_28</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#0002AH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/SimardMQLD15" mdate="2022-01-03">
+<author orcid="0000-0001-6419-6899" pid="34/6731">Fr&#233;d&#233;ric Simard</author>
+<author orcid="0000-0002-1008-4303" pid="14/8092">Michael Morin</author>
+<author orcid="0000-0002-5899-0217" pid="98/4519">Claude-Guy Quimper</author>
+<author pid="29/718">Fran&#231;ois Laviolette</author>
+<author orcid="0000-0003-2410-3314" pid="d/JoseeDesharnais">Jos&#233;e Desharnais</author>
+<title>Bounding an Optimal Search Path with a Game of Cop and Robber on Graphs.</title>
+<pages>403-418</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_29</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#SimardMQLD15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/Stergiou15" mdate="2019-01-08">
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>Restricted Path Consistency Revisited.</title>
+<pages>419-428</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_30</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#Stergiou15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BeekH15" mdate="2017-05-17">
+<author pid="b/PetervanBeek">Peter van Beek</author>
+<author pid="69/9668">Hella-Franziska Hoffmann</author>
+<title>Machine Learning of Bayesian Networks Using Constraint Programming.</title>
+<pages>429-445</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_31</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#BeekH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/VanaretGDA15" mdate="2018-11-02">
+<author orcid="0000-0002-1131-7631" pid="119/7282">Charlie Vanaret</author>
+<author pid="61/4921">Jean-Baptiste Gotteland</author>
+<author pid="83/1306-2">Nicolas Durand 0002</author>
+<author orcid="0000-0003-4858-3500" pid="77/2345">Jean-Marc Alliot</author>
+<title>Hybridization of Interval CP and Evolutionary Algorithms for Optimizing Difficult Problems.</title>
+<pages>446-462</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_32</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#VanaretGDA15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/WahbiMBB15" mdate="2017-05-17">
+<author pid="21/7407">Mohamed Wahbi</author>
+<author pid="13/10661">Younes Mechqrane</author>
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="49/1220">Kenneth N. Brown</author>
+<title>A General Framework for Reordering Agents Asynchronously in Distributed CSP.</title>
+<pages>463-479</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_33</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#WahbiMBB15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/WetterAM15" mdate="2020-03-27">
+<author pid="166/7454">James Wetter</author>
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Automatically Generating Streamlined Constraint Models with Essence and Conjure.</title>
+<pages>480-496</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_34</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#WetterAM15</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Application Track</h2> <dblpcites><r style="ee"><inproceedings key="conf/cp/ArbelaezMO15" mdate="2022-04-19">
+<author orcid="0000-0003-1622-5645" pid="33/3307">Alejandro Arbelaez</author>
+<author pid="59/139">Deepak Mehta 0001</author>
+<author orcid="0000-0002-0090-2085" pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Constraint-Based Local Search for Finding Node-Disjoint Bounded-Paths in Optical Access Networks.</title>
+<pages>499-507</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_35</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#ArbelaezMO15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BarcoFVAG15" mdate="2017-06-15">
+<author orcid="0000-0001-6751-3458" pid="146/2875">Andr&#233;s Felipe Barco</author>
+<author orcid="0000-0001-5638-4777" pid="86/10056">Jean-Guillaume Fages</author>
+<author pid="85/6190">&#201;lise Vareilles</author>
+<author orcid="0000-0003-3715-3214" pid="09/1841">Michel Aldanondo</author>
+<author pid="02/4883">Paul Gaborit</author>
+<title>Open Packing for Facade-Layout Synthesis Under a General Purpose Solver.</title>
+<pages>508-523</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_36</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#BarcoFVAG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BorghesiCLMB15" mdate="2021-10-14">
+<author orcid="0000-0002-2298-2944" pid="135/5392">Andrea Borghesi</author>
+<author pid="84/162">Francesca Collina</author>
+<author orcid="0000-0003-4709-8888" pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<author orcid="0000-0001-8068-3806" pid="b/LucaBenini">Luca Benini</author>
+<title>Power Capping in High Performance Computing Systems.</title>
+<pages>524-540</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_37</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#BorghesiCLMB15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BriotBV15" mdate="2017-05-17">
+<author pid="166/7451">Nicolas Briot</author>
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="22/1260">Philippe Vismara</author>
+<title>A Constraint-Based Approach to the Differential Harvest Problem.</title>
+<pages>541-556</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_38</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#BriotBV15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/DaoDV15" mdate="2017-05-17">
+<author pid="00/1932">Thi-Bich-Hanh Dao</author>
+<author pid="127/1672">Khanh-Chuong Duong</author>
+<author pid="v/ChristelVrain">Christel Vrain</author>
+<title>Constrained Minimum Sum of Squares Clustering by Constraint Programming.</title>
+<pages>557-573</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_39</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#DaoDV15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/EvenSH15" mdate="2017-06-15">
+<author pid="135/6238">Caroline Even</author>
+<author orcid="0000-0001-5452-4086" pid="82/2883">Andreas Schutt</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>A Constraint Programming Approach for Non-preemptive Evacuation Scheduling.</title>
+<pages>574-591</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_40</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#EvenSH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/HartertSVB15" mdate="2017-05-17">
+<author pid="134/3045">Renaud Hartert</author>
+<author pid="78/2903">Pierre Schaus</author>
+<author pid="29/7759">Stefano Vissicchio</author>
+<author pid="91/2043">Olivier Bonaventure</author>
+<title>Solving Segment Routing Problems with Hybrid Constraint Programming Techniques.</title>
+<pages>592-608</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_41</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#HartertSVB15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/BlindellLCS15" mdate="2017-12-26">
+<author pid="131/6604">Gabriel Hjort Blindell</author>
+<author pid="38/8779">Roberto Casta&#241;eda Lozano</author>
+<author pid="c/MCarlsson">Mats Carlsson</author>
+<author pid="s/ChristianSchulte">Christian Schulte 0001</author>
+<title>Modeling Universal Instruction Selection.</title>
+<pages>609-626</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_42</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#BlindellLCS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KadiogluCHB15" mdate="2017-05-17">
+<author pid="35/5878">Serdar Kadioglu</author>
+<author pid="166/7447">Mike Colena</author>
+<author pid="166/7450">Steven Huberman</author>
+<author pid="166/7445">Claire Bagley</author>
+<title>Optimizing the Cloud Service Experience Using Constraint Programming.</title>
+<pages>627-637</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_43</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#KadiogluCHB15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/KotthoffNGO15" mdate="2021-10-14">
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author pid="60/6693">Mirco Nanni</author>
+<author pid="157/9871">Riccardo Guidotti</author>
+<author orcid="0000-0002-0090-2085" pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Find Your Way Back: Mobility Profile Mining with Constraints.</title>
+<pages>638-653</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_44</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#KotthoffNGO15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/LamHK15" mdate="2020-09-02">
+<author pid="166/7448">Edward Lam 0001</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author orcid="0000-0001-7349-1179" pid="66/5607">Philip Kilby</author>
+<title>Joint Vehicle and Crew Routing and Scheduling.</title>
+<pages>654-670</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_45</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#LamHK15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MacdonaldMMP15" mdate="2020-08-07">
+<author pid="02/2224">Craig Macdonald</author>
+<author pid="119/4841">Ciaran McCreesh</author>
+<author orcid="0000-0002-0941-1717" pid="83/3062">Alice Miller 0001</author>
+<author pid="14/3015">Patrick Prosser</author>
+<title>Constructing Sailing Match Race Schedules: Round-Robin Pairing Lists.</title>
+<pages>671-686</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_46</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#MacdonaldMMP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/MurphyMB15" mdate="2017-05-17">
+<author pid="122/3939">Se&#225;n &#211;g Murphy</author>
+<author pid="137/4248">Oscar Manzano</author>
+<author pid="49/1220">Kenneth N. Brown</author>
+<title>Design and Evaluation of a Constraint-Based Energy Saving and Scheduling Recommender System.</title>
+<pages>687-703</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_47</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#MurphyMB15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cp/PraletLJ15" mdate="2017-05-17">
+<author pid="12/5282">C&#233;dric Pralet</author>
+<author pid="82/5712">Solange Lemai-Chenevier</author>
+<author pid="149/1216">Jean Jaubert</author>
+<title>Scheduling Running Modes of Satellite Instruments Using Constraint-Based Local Search.</title>
+<pages>704-719</pages>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_48</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#PraletLJ15</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Erratum</h2>
+<dblpcites><r style="ee"><inproceedings key="conf/cp/BlindellLCS15a" mdate="2017-12-26">
+<author pid="131/6604">Gabriel Hjort Blindell</author>
+<author pid="38/8779">Roberto Casta&#241;eda Lozano</author>
+<author pid="c/MCarlsson">Mats Carlsson</author>
+<author pid="s/ChristianSchulte">Christian Schulte 0001</author>
+<title>Erratum to: Modeling Universal Instruction Selection.</title>
+<year>2015</year>
+<booktitle>CP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23219-5_49</ee>
+<crossref>conf/cp/2015</crossref>
+<url>db/conf/cp/cp2015.html#BlindellLCS15a</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+</bht>
+

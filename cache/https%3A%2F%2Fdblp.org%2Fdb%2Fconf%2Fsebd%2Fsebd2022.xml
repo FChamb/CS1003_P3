@@ -1,0 +1,1161 @@
+<bht key="db/conf/sebd/sebd2022.bht" title="SEBD 2022"> 
+<h1>30th <ref href="db/conf/sebd/index.html">SEBD</ref> 2022:
+Tirrenia, Italy</h1> <dblpcites><r><proceedings key="conf/sebd/2022" mdate="2022-11-18">
+<editor pid="54/685">Giuseppe Amato 0001</editor>
+<editor pid="b/ValentinaBartalesi">Valentina Bartalesi</editor>
+<editor pid="44/3930">Devis Bianchini</editor>
+<editor pid="68/4499">Claudio Gennaro</editor>
+<editor pid="t/RiccardoTorlone">Riccardo Torlone</editor>
+<title>Proceedings of the 30th Italian Symposium on Advanced Database Systems, SEBD 2022, Tirrenia (PI), Italy, June 19-22, 2022.</title>
+<booktitle>SEBD</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>3194</volume>
+<year>2022</year>
+<ee type="oa">http://ceur-ws.org/Vol-3194</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-3194-9</ee>
+<url>db/conf/sebd/sebd2022.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Invited Talks</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/Ailamaki22" mdate="2022-09-26">
+<author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author>
+<title>Runtime-Optimized Analytics.</title>
+<pages>i</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/invited1.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#Ailamaki22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Grumbach22" mdate="2022-09-26">
+<author pid="g/SGrumbach">St&#233;phane Grumbach</author>
+<title>From Database Systems to Global Platforms: Cyberspace and the new Rules of Geopolitics.</title>
+<pages>ii</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/invited2.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#Grumbach22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Tutorial</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/NardiniT22" mdate="2022-09-26">
+<author pid="56/1965">Franco Maria Nardini</author>
+<author pid="117/1999">Salvatore Trani</author>
+<title>A Pragmatic Approach to Neural Information Retrieval.</title>
+<pages>iii</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/tutorial.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#NardiniT22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Taste of Time Award</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/CastanoAFP22" mdate="2022-09-26">
+<author pid="c/SilvanaCastano">Silvana Castano</author>
+<author pid="a/ValeriaDeAntonellis">Valeria De Antonellis</author>
+<author pid="f/MariaGraziaFugini">Maria Grazia Fugini</author>
+<author pid="p/BarbaraPernici">Barbara Pernici</author>
+<title>Techniques for the Analysis of Conceptual Schema.</title>
+<pages>iv</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/award1.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CastanoAFP22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Mecca22" mdate="2022-09-26">
+<author pid="m/GMecca">Giansalvatore Mecca</author>
+<title>Querying Genome Databases.</title>
+<pages>v</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/award2.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#Mecca22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Extraction, Integration and Visualization</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/VoyatCM22" mdate="2022-09-26">
+<author pid="289/9910">Roger Voyat</author>
+<author pid="26/1870">Valter Crescenzi</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<title>OpenTRIAGE: Entity Linkage for Detail Webpages.</title>
+<pages>1-12</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper1.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#VoyatCM22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/LuciaF0O22" mdate="2022-09-26">
+<author pid="327/1446">Luigi De Lucia</author>
+<author pid="228/0628">Guglielmo Faggioli</author>
+<author pid="f/NicolaFerro">Nicola Ferro 0001</author>
+<author pid="327/0605">Fabio Orobelli</author>
+<title>Extracting a Unified Database from Heterogeneous Bills of Materials via Data Integration Approaches.</title>
+<pages>13-24</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper2.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#LuciaF0O22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/RuccoLZ22" mdate="2022-09-26">
+<author pid="323/1318">Chiara Rucco</author>
+<author pid="68/606">Antonella Longo</author>
+<author pid="67/6789">Marco Zappatore</author>
+<title>Towards an Italian Energy Data Space.</title>
+<pages>25-35</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper3.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#RuccoLZ22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/FranciaGGMPR22" mdate="2022-09-26">
+<author pid="149/9199">Matteo Francia</author>
+<author pid="136/4315">Enrico Gallinucci</author>
+<author pid="g/MatteoGolfarelli">Matteo Golfarelli</author>
+<author pid="32/1783">Patrick Marcel</author>
+<author pid="p/VeronikaPeralta">Ver&#243;nika Peralta</author>
+<author pid="75/5487">Stefano Rizzi</author>
+<title>Describing Multidimensional Data Through Highlights.</title>
+<pages>36-43</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper4.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#FranciaGGMPR22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BagoziBR22" mdate="2022-09-26">
+<author pid="200/9133">Ada Bagozi</author>
+<author pid="44/3930">Devis Bianchini</author>
+<author pid="09/10282">Anisa Rula</author>
+<title>A Multi-Perspective Data Model for Cyber Physical Production Networks.</title>
+<pages>44-51</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper5.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BagoziBR22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/SimoniniGRZSABB22" mdate="2022-12-07">
+<author pid="151/8293">Giovanni Simonini</author>
+<author pid="172/1467">Luca Gagliardelli</author>
+<author pid="75/8956">Michele Rinaldi</author>
+<author orcid="0000-0002-4856-0838" pid="277/9125">Luca Zecchini</author>
+<author pid="327/0671">Giulio De Sabbata</author>
+<author pid="210/0320">Adeel Aslam</author>
+<author pid="b/DBeneventano">Domenico Beneventano</author>
+<author pid="b/SBergamaschi">Sonia Bergamaschi</author>
+<title>Progressive Entity Resolution with Node Embeddings.</title>
+<pages>52-60</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper6.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#SimoniniGRZSABB22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BartoliniL22" mdate="2022-09-26">
+<author pid="b/IlariaBartolini">Ilaria Bartolini</author>
+<author pid="214/7009">Andrea Di Luzio</author>
+<title>Active E-Learning by Doing with ALDO.</title>
+<pages>61-68</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper7.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BartoliniL22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/0002BP022" mdate="2022-09-26">
+<author pid="13/246-2">Andrea Baraldi 0002</author>
+<author pid="285/1283">Francesco Del Buono</author>
+<author pid="206/0032">Matteo Paganelli</author>
+<author pid="g/FrancescoGuerra">Francesco Guerra 0001</author>
+<title>Landmark Explanation: a Tool for Entity Matching.</title>
+<pages>69-76</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper8.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#0002BP022</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/ScafoglieriMNLL22" mdate="2022-09-26">
+<author pid="214/8650">Federico Maria Scafoglieri</author>
+<author pid="313/1191">Alessandra Monaco</author>
+<author pid="327/1005">Giulia Neccia</author>
+<author pid="91/2168">Domenico Lembo</author>
+<author pid="304/1503">Alessandra Limosani</author>
+<author pid="197/8519">Francesca Medda</author>
+<title>Automatic Information Extraction from Investment Product Documents.</title>
+<pages>77-84</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper9.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#ScafoglieriMNLL22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CalvaneseGLM0S22" mdate="2022-09-26">
+<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+<author pid="g/AvigdorGal">Avigdor Gal</author>
+<author pid="138/0355">Davide Lanti</author>
+<author pid="85/1455">Marco Montali</author>
+<author pid="90/626">Alessandro Mosca 0001</author>
+<author pid="200/9072">Roee Shraga</author>
+<title>Conceptually-grounded Mapping Patterns for Virtual Knowledge Graphs.</title>
+<pages>85-92</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper10.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CalvaneseGLM0S22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>(Big) Data Governance</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/LissandriniSPH22" mdate="2022-09-26">
+<author pid="139/1128">Matteo Lissandrini</author>
+<author pid="51/8415">Tomer Sagi</author>
+<author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author pid="h/KatjaHose">Katja Hose</author>
+<title>Understanding RDF Data Representations in Triplestores.</title>
+<pages>93-100</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper11.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#LissandriniSPH22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BaaziziCGSS22" mdate="2022-09-26">
+<author pid="17/5657">Mohamed Amine Baazizi</author>
+<author pid="c/DarioColazzo">Dario Colazzo</author>
+<author pid="g/GiorgioGhelli">Giorgio Ghelli</author>
+<author pid="89/5076">Carlo Sartiani</author>
+<author pid="s/StefanieScherzinger">Stefanie Scherzinger</author>
+<title>The Usage of Negation in Real-World JSON Schema Documents.</title>
+<pages>101-108</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper12.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BaaziziCGSS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/MordacchiniFCKC22" mdate="2022-09-26">
+<author pid="71/6416">Matteo Mordacchini</author>
+<author pid="71/8472">Luca Ferrucci</author>
+<author pid="96/8282">Emanuele Carlini</author>
+<author pid="95/11069">Hanna Kavalionak</author>
+<author pid="14/7020">Massimo Coppola</author>
+<author pid="d/PatrizioDazzi">Patrizio Dazzi</author>
+<title>Energy and QoE aware Placement of Applications and Data at the Edge.</title>
+<pages>109-116</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper13.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#MordacchiniFCKC22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/TrasartiGNR22" mdate="2022-09-26">
+<author pid="t/RobertoTrasarti">Roberto Trasarti</author>
+<author pid="05/19">Valerio Grossi</author>
+<author pid="235/2522">Michela Natilli</author>
+<author pid="122/2677">Beatrice Rapisarda</author>
+<title>SoBigData RI: European Integrated Infrastructure for Social Mining and Big Data Analytics.</title>
+<pages>117-124</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper14.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#TrasartiGNR22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/DazziGT22" mdate="2022-09-26">
+<author pid="d/PatrizioDazzi">Patrizio Dazzi</author>
+<author pid="05/19">Valerio Grossi</author>
+<author pid="t/RobertoTrasarti">Roberto Trasarti</author>
+<title>Workflows for Bringing Data Science on the Cloud/Edge Computing Continuum.</title>
+<pages>125-132</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper15.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#DazziGT22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/0001S22" mdate="2022-09-26">
+<author pid="31/791">Stefano Marchesin 0001</author>
+<author pid="71/3148">Gianmaria Silvello</author>
+<title>Exploiting Curated Databases to Train Relation Extraction Models for Gene-Disease Associations.</title>
+<pages>133-140</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper16.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#0001S22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BreveCDP22" mdate="2022-09-26">
+<author pid="247/7608">Bernardo Breve</author>
+<author pid="149/9262">Loredana Caruccio</author>
+<author pid="28/1520">Vincenzo Deufemia</author>
+<author pid="97/3702">Giuseppe Polese</author>
+<title>Imputation of Missing Values through Profiling Metadata.</title>
+<pages>141-148</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper17.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BreveCDP22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/SancriccaC22" mdate="2022-09-26">
+<author pid="327/0621">Camilla Sancricca</author>
+<author pid="17/5993">Cinzia Cappiello</author>
+<title>Supporting the Design of Data Preparation Pipelines.</title>
+<pages>149-158</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper18.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#SancriccaC22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CalauttiLPS22" mdate="2022-09-26">
+<author pid="134/9015">Marco Calautti</author>
+<author pid="177/8852">Ester Livshits</author>
+<author pid="89/5672">Andreas Pieris</author>
+<author pid="s/MarkusSchneider">Markus Schneider</author>
+<title>Counting Database Repairs Entailing a Query: The Case of Functional Dependencies.</title>
+<pages>159-166</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper19.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CalauttiLPS22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data for Smart Society</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/UmairM22" mdate="2022-09-26">
+<author pid="260/1731">Areeba Umair</author>
+<author pid="28/168">Elio Masciari</author>
+<title>A Survey of Sentimental Analysis Methods on COVID-19 Research.</title>
+<pages>167-174</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper20.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#UmairM22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/PuglieseLRP22" mdate="2022-09-26">
+<author pid="327/1170">Chiara Pugliese</author>
+<author pid="144/4327">Francesco Lettich</author>
+<author pid="84/4085">Chiara Renso</author>
+<author pid="87/1696">Fabio Pinelli</author>
+<title>MAT-Builder: a System to Build Semantically Enriched Trajectories.</title>
+<pages>175-182</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper21.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#PuglieseLRP22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BonifaziCCMTUV22" mdate="2022-09-26">
+<author pid="305/9115">Gianluca Bonifazi</author>
+<author pid="133/8758">Francesco Cauteruccio</author>
+<author pid="264/3490">Enrico Corradini</author>
+<author pid="91/8611">Michele Marchetti</author>
+<author pid="t/GiorgioTerracina">Giorgio Terracina</author>
+<author pid="u/DomenicoUrsino">Domenico Ursino</author>
+<author pid="234/3774">Luca Virgili</author>
+<title>A Network-based Model and a Related Approach to Represent and Handle the Semantics of Comments in a Social Network.</title>
+<pages>183-190</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper22.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BonifaziCCMTUV22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/0002FMT22" mdate="2022-09-26">
+<author pid="61/3498-2">Andrea Rossi 0002</author>
+<author pid="05/10127">Donatella Firmani</author>
+<author pid="m/PaoloMerialdo">Paolo Merialdo</author>
+<author pid="201/6374">Tommaso Teofili</author>
+<title>Explaining Link Prediction with Kelpie.</title>
+<pages>191-198</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper23.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#0002FMT22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/LiraPGR22" mdate="2022-09-26">
+<author pid="149/9294">Vinicius Monteiro de Lira</author>
+<author pid="153/1914">Fabiano Pallonetto</author>
+<author pid="132/4915">Lorenzo Gabrielli</author>
+<author pid="84/4085">Chiara Renso</author>
+<title>Predicting Vehicles Parking Behaviour for EV Recharge Optimization.</title>
+<pages>199-206</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper24.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#LiraPGR22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CavaGT22" mdate="2022-09-26">
+<author pid="296/2119">Lucio La Cava</author>
+<author pid="g/SergioGreco">Sergio Greco</author>
+<author pid="t/AndreaTagarelli">Andrea Tagarelli</author>
+<title>Discovering the Landscape of Decentralized Online Social Networks through Mastodon.</title>
+<pages>207-214</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper25.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CavaGT22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BonoP22" mdate="2022-09-26">
+<author pid="291/8117">Carlo Bono</author>
+<author pid="p/BarbaraPernici">Barbara Pernici</author>
+<title>Extracting Large Scale Spatio-Temporal Descriptions from Social Media.</title>
+<pages>215-222</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper27.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BonoP22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/RolloPB22" mdate="2022-09-26">
+<author pid="194/9921">Federica Rollo</author>
+<author pid="60/3612">Laura Po</author>
+<author pid="302/8239">Giovanni Bonisoli</author>
+<title>Online News Event Extraction for Crime Analysis.</title>
+<pages>223-230</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper28.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#RolloPB22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Knowledge, Ontologies and Reasoning on Data</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/CastanoFMP22" mdate="2022-09-26">
+<author pid="c/SilvanaCastano">Silvana Castano</author>
+<author pid="93/1927">Alfio Ferrara</author>
+<author pid="54/621">Stefano Montanelli</author>
+<author pid="304/9993">Francesco Periti</author>
+<title>Semantic Shift Detection in Vatican Publications: a Case Study from Leo XIII to Francis.</title>
+<pages>231-243</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper29.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CastanoFMP22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/DiamantiniKPS22" mdate="2022-09-26">
+<author pid="05/620">Claudia Diamantini</author>
+<author pid="327/0761">Tarique Khan</author>
+<author pid="14/3031">Domenico Potena</author>
+<author pid="86/7256">Emanuele Storti</author>
+<title>Shared Metrics of Sustainability: a Knowledge Graph Approach.</title>
+<pages>244-255</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper30.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#DiamantiniKPS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/FerilliRP22" mdate="2022-09-26">
+<author pid="46/4447">Stefano Ferilli</author>
+<author pid="91/3067">Domenico Redavid</author>
+<author pid="258/1810">Davide Di Pierro</author>
+<title>LPG-based Ontologies as Schemas for Graph DBs.</title>
+<pages>256-267</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper31.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#FerilliRP22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CarliniLSEBM22" mdate="2022-09-26">
+<author pid="96/8282">Emanuele Carlini</author>
+<author pid="149/9294">Vinicius Monteiro de Lira</author>
+<author pid="144/7946">Am&#237;lcar Soares</author>
+<author pid="129/5172">Mohammad Etemad</author>
+<author pid="57/2546">Bruno Brandoli</author>
+<author pid="m/StanMatwin">Stan Matwin</author>
+<title>A Topological Perspective of Port Networks From Three Years (2017-2019) of AIS Data.</title>
+<pages>268-275</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper32.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CarliniLSEBM22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BunemanDLS22" mdate="2022-09-26">
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="225/2174">Dennis Dosso</author>
+<author pid="139/1128">Matteo Lissandrini</author>
+<author pid="71/3148">Gianmaria Silvello</author>
+<title>Expanding the Citation Graph for Data Citations.</title>
+<pages>276-283</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper33.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BunemanDLS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CalauttiCGMTZ22" mdate="2022-09-26">
+<author pid="134/9015">Marco Calautti</author>
+<author pid="88/6642">Luciano Caroprese</author>
+<author pid="g/SergioGreco">Sergio Greco</author>
+<author pid="06/6866">Cristian Molinaro</author>
+<author pid="10/5698">Irina Trubitsyna</author>
+<author pid="42/4927">Ester Zumpano</author>
+<title>Active Integrity Constraints with Existential Quantification.</title>
+<pages>284-291</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper34.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CalauttiCGMTZ22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BaldazziBSA22" mdate="2022-09-26">
+<author pid="287/9337">Teodoro Baldazzi</author>
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="20/9117">Emanuel Sallinger</author>
+<author pid="a/PAtzeni">Paolo Atzeni</author>
+<title>Reasoning in Warded Datalog+/- with Harmful Joins.</title>
+<pages>292-299</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper35.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BaldazziBSA22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BellomariniBS22" mdate="2022-09-26">
+<author pid="86/6775">Luigi Bellomarini</author>
+<author pid="307/3726">Davide Benedetto</author>
+<author pid="20/9117">Emanuel Sallinger</author>
+<title>An Overview of Vadalog: a System for Reasoning over Large Knowledge Graphs.</title>
+<pages>300-308</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper36.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BellomariniBS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/FiondaGM22" mdate="2022-09-26">
+<author pid="43/3753">Valeria Fionda</author>
+<author pid="17/1770">Gianluigi Greco</author>
+<author pid="97/5464">Marco Antonio Mastratisi</author>
+<title>Reasoning about Smart Contracts via LTL Encoding.</title>
+<pages>309-316</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper37.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#FiondaGM22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Machine Learning and Data Mining</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/KavalionakCDFMC22" mdate="2022-09-26">
+<author pid="95/11069">Hanna Kavalionak</author>
+<author pid="96/8282">Emanuele Carlini</author>
+<author pid="d/PatrizioDazzi">Patrizio Dazzi</author>
+<author pid="71/8472">Luca Ferrucci</author>
+<author pid="71/6416">Matteo Mordacchini</author>
+<author pid="14/7020">Massimo Coppola</author>
+<title>Decentralized Federated Learning and Network Topologies: an Empirical Study on Convergence.</title>
+<pages>317-324</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper38.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#KavalionakCDFMC22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AmelioBCMUV22" mdate="2022-09-26">
+<author pid="88/9414">Alessia Amelio</author>
+<author pid="305/9115">Gianluca Bonifazi</author>
+<author pid="264/3490">Enrico Corradini</author>
+<author pid="91/8611">Michele Marchetti</author>
+<author pid="u/DomenicoUrsino">Domenico Ursino</author>
+<author pid="234/3774">Luca Virgili</author>
+<title>Mapping and Compressing a Convolutional Neural Network through a Multilayer Network.</title>
+<pages>325-332</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper39.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AmelioBCMUV22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/VeltriSB0P22" mdate="2022-09-26">
+<author pid="157/0004">Enzo Veltri</author>
+<author pid="32/5873">Donatello Santoro</author>
+<author pid="133/4901">Gilbert Badaro</author>
+<author pid="09/5035-2">Mohammed Saeed 0002</author>
+<author pid="p/PaoloPapotti">Paolo Papotti</author>
+<title>Ambiguity Detection and Textual Claims Generation from Relational Data.</title>
+<pages>333-340</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper40.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#VeltriSB0P22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/0001RRSS22" mdate="2022-09-26">
+<author pid="m/GiuseppeManco-1">Giuseppe Manco 0001</author>
+<author pid="67/4235">Ettore Ritacco</author>
+<author pid="117/6994">Antonino Rullo</author>
+<author pid="s/DomenicoSacca">Domenico Sacc&#224;</author>
+<author pid="26/7789">Edoardo Serra</author>
+<title>Generating Synthetic Discrete Datasets with Machine Learning.</title>
+<pages>341-350</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper41.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#0001RRSS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/MignonePC22" mdate="2022-09-26">
+<author pid="156/2942">Paolo Mignone</author>
+<author pid="118/2606">Gianvito Pio</author>
+<author pid="24/4914">Michelangelo Ceci</author>
+<title>Distributed Heterogeneous Transfer Learning.</title>
+<pages>351-358</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper42.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#MignonePC22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AvolioFVZ22" mdate="2022-09-26">
+<author pid="256/5917">Matteo Avolio</author>
+<author pid="38/2962">Antonio Fuduli</author>
+<author pid="169/3163">Eugenio Vocaturo</author>
+<author pid="42/4927">Ester Zumpano</author>
+<title>Multiple Instance Learning for viral pneumonia chest X-ray Classification.</title>
+<pages>359-366</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper43.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AvolioFVZ22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/MiniciPG022" mdate="2022-09-26">
+<author pid="305/9106">Marco Minici</author>
+<author pid="126/7860">Francesco Sergio Pisani</author>
+<author pid="41/7251">Massimo Guarascio</author>
+<author pid="m/GiuseppeManco-1">Giuseppe Manco 0001</author>
+<title>Towards Extreme Multi-Label Classification of Multimedia Content.</title>
+<pages>367-374</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper44.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#MiniciPG022</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/FaggioliF00T22" mdate="2022-09-26">
+<author pid="228/0628">Guglielmo Faggioli</author>
+<author pid="147/9179">Marco Ferrante</author>
+<author pid="f/NicolaFerro">Nicola Ferro 0001</author>
+<author pid="p/RaffaelePerego">Raffaele Perego 0001</author>
+<author pid="44/5123">Nicola Tonellotto</author>
+<title>Improving Conversational Evaluation via a Dependency-Aware Permutation Strategy.</title>
+<pages>375-382</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper45.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#FaggioliF00T22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Analysis</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/FaillaCR22" mdate="2022-09-26">
+<author pid="327/1010">Andrea Failla</author>
+<author pid="244/5009">Salvatore Citraro</author>
+<author pid="27/10814">Giulio Rossetti</author>
+<title>Attributed Stream-Hypernetwork Analysis: a SocioPatterns Case Study.</title>
+<pages>383-391</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper46.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#FaillaCR22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/FerrariMMM22" mdate="2022-09-26">
+<author pid="144/4795">Davide Ferrari</author>
+<author pid="19/4797">Federica Mandreoli</author>
+<author pid="312/5887">Federico Motta</author>
+<author pid="28/1062">Paolo Missier</author>
+<title>Data-Driven, AI-Based Clinical Practice: Experiences, Challenges, and Research Directions.</title>
+<pages>392-403</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper47.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#FerrariMMM22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CuzzocreaSLM22" mdate="2022-09-26">
+<author pid="c/AlfredoCuzzocrea">Alfredo Cuzzocrea</author>
+<author pid="322/3586">Majid Abbasi Sisara</author>
+<author pid="67/2539">Kristijan Lenac</author>
+<author pid="78/41">Enzo Mumolo</author>
+<title>Supporting Big Moving Objects Tracking and Analysis: An Innovative Scan-Matching Algorithm.</title>
+<pages>404-414</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper48.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CuzzocreaSLM22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Clustering and Partitioning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/0001DV22" mdate="2022-09-26">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="152/1401">Lucia Vadicamo</author>
+<title>Investigating Binary Partition Power in Metric Query.</title>
+<pages>415-426</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper49.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#0001DV22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/PuccioLPGV22" mdate="2022-09-26">
+<author pid="327/0637">Barbara Puccio</author>
+<author pid="327/1259">Ugo Lomoio</author>
+<author pid="141/2669">Luisa Di Paola</author>
+<author pid="60/161">Pietro Hiram Guzzi</author>
+<author pid="v/PierangeloVeltri">Pierangelo Veltri</author>
+<title>Annotating Protein Structures for Understanding SARS-CoV-2 Interactome.</title>
+<pages>427-436</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper50.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#PuccioLPGV22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BianchiniAG22" mdate="2022-09-26">
+<author pid="44/3930">Devis Bianchini</author>
+<author pid="a/ValeriaDeAntonellis">Valeria De Antonellis</author>
+<author pid="228/0684">Massimiliano Garda</author>
+<title>In-Vehicle Big Data Exploration for Road Maintenance.</title>
+<pages>437-444</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper51.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BianchiniAG22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/MandaglioTG22" mdate="2022-09-26">
+<author pid="218/6425">Domenico Mandaglio</author>
+<author pid="t/AndreaTagarelli">Andrea Tagarelli</author>
+<author pid="63/3664">Francesco Gullo</author>
+<title>Correlation Clustering: from Local to Global Constraints.</title>
+<pages>445-452</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper52.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#MandaglioTG22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BiraghiLMTT22" mdate="2022-09-26">
+<author pid="289/2877">Carlo Andrea Biraghi</author>
+<author pid="291/4024">Emilia Lenzi</author>
+<author pid="47/1654">Maristella Matera</author>
+<author pid="327/0675">Massimo Tadi</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>SiMBA: Systematic Clustering-Based Methodology to Support Built Environment Analysis.</title>
+<pages>453-460</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper53.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BiraghiLMTT22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AnniciellodFMMQ22" mdate="2022-09-26">
+<author pid="325/5825">Arianna Anniciello</author>
+<author pid="325/5797">Emanuele d'Ajello</author>
+<author pid="325/6603">Davide Formica</author>
+<author pid="28/168">Elio Masciari</author>
+<author pid="325/6311">Gaia Mattia</author>
+<author pid="281/2751">Stefano Quintarelli</author>
+<author pid="325/6777">Davide Zaccarella</author>
+<title>Clustered Majority Judgement.</title>
+<pages>461-472</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper54.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AnniciellodFMMQ22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Recommender Systems, Query Answering and Processing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/CiacciaMT22" mdate="2022-09-26">
+<author pid="c/PaoloCiaccia">Paolo Ciaccia</author>
+<author pid="14/6896">Davide Martinenghi</author>
+<author pid="t/RiccardoTorlone">Riccardo Torlone</author>
+<title>Helping Wine Lovers With Taxonomies.</title>
+<pages>473-480</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper55.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CiacciaMT22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CeylanLMV22" mdate="2022-09-26">
+<author pid="147/6111">Ismail Ilkan Ceylan</author>
+<author pid="l/ThomasLukasiewicz">Thomas Lukasiewicz</author>
+<author pid="01/4274">Enrico Malizia</author>
+<author pid="183/4444">Andrius Vaicenavicius</author>
+<title>Query Answer Explanations under Existential Rules.</title>
+<pages>481-488</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper56.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CeylanLMV22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/LukasiewiczMM22" mdate="2022-09-26">
+<author pid="l/ThomasLukasiewicz">Thomas Lukasiewicz</author>
+<author pid="01/4274">Enrico Malizia</author>
+<author pid="06/6866">Cristian Molinaro</author>
+<title>Explanations for Inconsistency-Tolerant Query Answering under Existential Rules.</title>
+<pages>489-496</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper57.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#LukasiewiczMM22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/ShekariSGRST22" mdate="2022-09-26">
+<author pid="305/9108">Mahsa Shekari</author>
+<author pid="272/0778">Alireza Javadian Sabet</author>
+<author pid="309/6092">Chaofeng Guan</author>
+<author pid="23/5796">Matteo Rossi</author>
+<author pid="s/FASchreiber">Fabio Alberto Schreiber</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>Personalized Context-Aware Recommender System for Travelers.</title>
+<pages>497-504</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper58.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#ShekariSGRST22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AnelliNSFM22" mdate="2022-09-26">
+<author pid="171/0384">Vito Walter Anelli</author>
+<author pid="58/5192">Tommaso Di Noia</author>
+<author pid="s/EugenioDiSciascio">Eugenio Di Sciascio</author>
+<author pid="247/6152">Antonio Ferrara</author>
+<author pid="298/4551">Alberto Carlo Maria Mancino</author>
+<title>Inferring User Decision-Making Processes in Recommender Systems with Knowledge Graphs.</title>
+<pages>505-513</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper59.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AnelliNSFM22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AnelliBFMMPDSN22" mdate="2022-09-26">
+<author pid="171/0384">Vito Walter Anelli</author>
+<author pid="23/1049">Alejandro Bellog&#237;n</author>
+<author pid="247/6152">Antonio Ferrara</author>
+<author pid="269/2890">Daniele Malitesta</author>
+<author pid="247/5939">Felice Antonio Merra</author>
+<author pid="214/8636">Claudio Pomo</author>
+<author pid="d/FrancescoMDonini">Francesco M. Donini</author>
+<author pid="s/EugenioDiSciascio">Eugenio Di Sciascio</author>
+<author pid="58/5192">Tommaso Di Noia</author>
+<title>The Challenging Reproducibility Task in Recommender Systems Research between Traditional and Deep Learning Models.</title>
+<pages>514-521</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper60.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AnelliBFMMPDSN22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CimaCLP22" mdate="2022-09-26">
+<author pid="200/8761">Gianluca Cima</author>
+<author pid="116/1425">Marco Console</author>
+<author pid="l/MLenzerini">Maurizio Lenzerini</author>
+<author pid="03/4524">Antonella Poggi</author>
+<title>Investigating Monotone Abstractions.</title>
+<pages>522-529</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper61.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CimaCLP22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/LukasiewiczMV22" mdate="2022-09-26">
+<author pid="l/ThomasLukasiewicz">Thomas Lukasiewicz</author>
+<author pid="01/4274">Enrico Malizia</author>
+<author pid="183/4444">Andrius Vaicenavicius</author>
+<title>Complexity of Inconsistency-Tolerant Query Answering in Datalog+/- under Cardinality-Based Repairs.</title>
+<pages>530-537</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper62.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#LukasiewiczMV22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AzzaliniACDMTA22" mdate="2022-09-26">
+<author pid="206/3236">Davide Azzalini</author>
+<author pid="206/3281">Fabio Azzalini</author>
+<author pid="290/0314">Chiara Criscuolo</author>
+<author pid="327/0835">Tommaso Dolci</author>
+<author pid="14/6896">Davide Martinenghi</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<title>SoCRATe: a Framework for Compensating Users Over Time with Limited Availability Recommendations.</title>
+<pages>538-545</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper63.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AzzaliniACDMTA22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Explainable AI, Ethics and Fairness of Data</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/AmatoFG0MS22" mdate="2022-09-26">
+<author pid="68/4698">Flora Amato</author>
+<author pid="262/0847">Antonino Ferraro</author>
+<author pid="246/5622">Antonio Galli</author>
+<author pid="87/786">Francesco Moscato 0001</author>
+<author pid="97/4042">Vincenzo Moscato</author>
+<author pid="121/0078">Giancarlo Sperl&#236;</author>
+<title>Credit Score Prediction Relying on Machine Learning.</title>
+<pages>546-553</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper64.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AmatoFG0MS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AzzaliniDT22" mdate="2022-09-26">
+<author pid="206/3281">Fabio Azzalini</author>
+<author pid="327/0835">Tommaso Dolci</author>
+<author pid="94/1719">Mara Tanelli</author>
+<title>Bias Score: Estimating Gender Bias in Sentence Representations.</title>
+<pages>554-561</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper65.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AzzaliniDT22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AzzaliniCT22" mdate="2022-09-26">
+<author pid="206/3281">Fabio Azzalini</author>
+<author pid="290/0314">Chiara Criscuolo</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>Functional Dependencies to Mitigate Data Bias.</title>
+<pages>562-569</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper66.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AzzaliniCT22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/AzzaliniQRT22" mdate="2022-09-26">
+<author pid="206/3236">Davide Azzalini</author>
+<author pid="85/6716">Elisa Quintarelli</author>
+<author pid="63/10316">Emanuele Rabosio</author>
+<author pid="t/LetiziaTanca">Letizia Tanca</author>
+<title>Accounting for Bossy Users in Context-Aware Group Recommendations.</title>
+<pages>570-577</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper67.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#AzzaliniQRT22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/BellandiS22" mdate="2022-09-26">
+<author pid="57/4994">Valerio Bellandi</author>
+<author pid="154/2442">Stefano Siccardi</author>
+<title>Gender Discriminatory Language Identification with an Hybrid Algorithm based on Syntactic Rules and Machine Learning.</title>
+<pages>578-585</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper68.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#BellandiS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CarliniCDL0RT22" mdate="2022-09-26">
+<author pid="96/8282">Emanuele Carlini</author>
+<author pid="126/5600">Thierry Chevalier</author>
+<author pid="d/PatrizioDazzi">Patrizio Dazzi</author>
+<author pid="144/4327">Francesco Lettich</author>
+<author pid="p/RaffaelePerego">Raffaele Perego 0001</author>
+<author pid="84/4085">Chiara Renso</author>
+<author pid="117/1999">Salvatore Trani</author>
+<title>A Federated Cloud Solution for Transnational Mobility Data Sharing.</title>
+<pages>586-592</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper69.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CarliniCDL0RT22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CerrutoCDGP22" mdate="2022-09-26">
+<author pid="313/8298">Francesca Cerruto</author>
+<author pid="231/4634">Stefano Cirillo</author>
+<author pid="225/1936">Domenico Desiato</author>
+<author pid="276/2647">Michele Simone Gambardella</author>
+<author pid="97/3702">Giuseppe Polese</author>
+<title>Cross-Social Network Investigation to Highlight Privacy Violations in Data Sharing Activities.</title>
+<pages>593-600</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper70.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CerrutoCDGP22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/CuzzocreaCH22" mdate="2022-09-26">
+<author pid="c/AlfredoCuzzocrea">Alfredo Cuzzocrea</author>
+<author pid="53/6942">Christophe Cerisara</author>
+<author pid="327/1038">Mojtaba Hajian</author>
+<title>Risk Analysis for Unsupervised Privacy-Preserving Tools.</title>
+<pages>601-609</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper71.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#CuzzocreaCH22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Doctoral Consortium</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sebd/Lagani22" mdate="2022-09-26">
+<author pid="248/4135">Gabriele Lagani</author>
+<title>Recent Advancements on Bio-Inspired Hebbian Learning for Deep Neural Networks.</title>
+<pages>610-615</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper72.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#Lagani22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Piantella22" mdate="2022-09-26">
+<author pid="244/5152">Davide Piantella</author>
+<title>A Research on Data Lakes and their Integration Challenges.</title>
+<pages>616-621</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper73.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#Piantella22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Marcia22" mdate="2022-09-26">
+<author pid="302/2737">Diego Marcia</author>
+<title>An XAI Framework for Automated Allocation and Exploitation of Resources.</title>
+<pages>622-626</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper74.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#Marcia22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sebd/Zecchini22" mdate="2022-12-07">
+<author orcid="0000-0002-4856-0838" pid="277/9125">Luca Zecchini</author>
+<title>Task-Driven Big Data Integration.</title>
+<pages>627-632</pages>
+<year>2022</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-3194/paper75.pdf</ee>
+<crossref>conf/sebd/2022</crossref>
+<url>db/conf/sebd/sebd2022.html#Zecchini22</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

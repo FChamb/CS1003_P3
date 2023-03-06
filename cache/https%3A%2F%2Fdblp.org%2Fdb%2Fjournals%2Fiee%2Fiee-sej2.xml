@@ -1,0 +1,382 @@
+<bht key="db/journals/iee/iee-sej2.bht" title="Software Engineering Journal, Volume 2">
+<h1><ref href="db/journals/iee-sej/index.html">Software Engineering Journal</ref>, Volume 2</h1>
+<h2>Volume 2, Number 1, January 1987</h2>
+<dblpcites><r style="ee"><article key="journals/iee/KaposiK87" mdate="2020-03-11">
+<author pid="80/9400">Agnes Kaposi</author>
+<author pid="k/BarbaraAKitchenham">Barbara A. Kitchenham</author>
+<title>The architecture of system quality.</title>
+<pages>2-8</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1049/sej.1987.0001</ee>
+<url>db/journals/iee/iee-sej2.html#KaposiK87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/BurnsR87" mdate="2022-03-18">
+<author pid="b/AlanBurns">Alan Burns 0001</author>
+<author pid="166/9329">Margaret A. Rathwell</author>
+<title>A communications environment for co-operative information systems development.</title>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1049/sej.1987.0002</ee>
+<url>db/journals/iee/iee-sej2.html#BurnsR87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/CarterCT87" mdate="2020-03-11">
+<author pid="168/7239">Guy D. Carter</author>
+<author pid="168/7236">C. P. Clare</author>
+<author pid="168/7243">D. C. J. Thorogood</author>
+<title>Engineering project management techniques and their application to computer projects.</title>
+<pages>15-20</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1049/sej.1987.0003</ee>
+<url>db/journals/iee/iee-sej2.html#CarterCT87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/VaradharajanB87" mdate="2020-03-11">
+<author pid="v/VijayVaradharajan">Vijay Varadharajan</author>
+<author pid="18/3972">Keith D. Baker</author>
+<title>Directed graph based representation for software system design.</title>
+<pages>21-28</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1049/sej.1987.0004</ee>
+<url>db/journals/iee/iee-sej2.html#VaradharajanB87</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 2, Number 2, March 1987</h2>
+<dblpcites><r style="ee"><article key="journals/iee/LittlewoodS87" mdate="2020-03-11">
+<author pid="20/555">Bev Littlewood</author>
+<author pid="00/6844">Ariela Sofer</author>
+<title>A Bayesian modification to the Jelinski-Moranda software reliability growth model.</title>
+<pages>30-41</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1049/sej.1987.0005</ee>
+<url>db/journals/iee/iee-sej2.html#LittlewoodS87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/Prather87" mdate="2020-03-11">
+<author pid="14/67">Ronald E. Prather</author>
+<title>On hierarchical software metrics.</title>
+<pages>42-45</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1049/sej.1987.0006</ee>
+<url>db/journals/iee/iee-sej2.html#Prather87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/RoperS87" mdate="2021-08-08">
+<author pid="168/7237">R. M. F. Roper</author>
+<author pid="30/4135">P. Smith</author>
+<title>A software tool for testing JSP designed programs.</title>
+<pages>46-52</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1049/sej.1987.0007</ee>
+<url>db/journals/iee/iee-sej2.html#RoperS87</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 2, Number 3, May 1987</h2>
+<dblpcites><r style="ee"><article key="journals/iee/Todd87" mdate="2020-03-11">
+<author pid="48/6632">B. S. Todd</author>
+<title>A model-based diagnostic program.</title>
+<pages>54-63</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1049/sej.1987.0008</ee>
+<url>db/journals/iee/iee-sej2.html#Todd87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/Crookes87" mdate="2020-03-11">
+<author pid="09/3995">Danny Crookes</author>
+<title>Generating readable software.</title>
+<pages>64-70</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1049/sej.1987.0009</ee>
+<url>db/journals/iee/iee-sej2.html#Crookes87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/MocekM87" mdate="2021-08-08">
+<author pid="168/7245">J. P. Mocek</author>
+<author pid="04/1777">John Alexander McDermid</author>
+<title>Implementation of a model lift control system from a formal specification.</title>
+<pages>71-79</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1049/sej.1987.0010</ee>
+<url>db/journals/iee/iee-sej2.html#MocekM87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/ONeillD87" mdate="2022-08-16">
+<author pid="45/2488">T. J. O'Neill</author>
+<author pid="73/4536">L. M. Delves</author>
+<title>An abstract data-type technique for scientific software.</title>
+<pages>80-84</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1049/sej.1987.0011</ee>
+<ee>https://www.wikidata.org/entity/Q111896816</ee>
+<url>db/journals/iee/iee-sej2.html#ONeillD87</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 2, Number 4, July 1987</h2>
+<dblpcites><r style="ee"><article key="journals/iee/SufrinW87" mdate="2023-02-17">
+<author pid="s/BernardSufrin">Bernard Sufrin</author>
+<author orcid="0000-0001-7955-2702" pid="w/JWoodcock">Jim Woodcock 0001</author>
+<title>Towards the formal specification of a simple programming support environment.</title>
+<pages>86-94</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/sej.1987.0012</ee>
+<url>db/journals/iee/iee-sej2.html#SufrinW87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/ColemanGS87" mdate="2021-08-08">
+<author pid="42/3060">Derek Coleman</author>
+<author pid="18/4663">Robin M. Gallimore</author>
+<author pid="185/5935">Victoria Stavridou</author>
+<title>The design of a rewrite rule interpreter from algebraic specifications.</title>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/sej.1987.0013</ee>
+<url>db/journals/iee/iee-sej2.html#ColemanGS87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/Kitchenham87" mdate="2020-03-11">
+<author pid="k/BarbaraAKitchenham">Barbara A. Kitchenham</author>
+<title>Towards a constructive quality model. Part 1: Software quality modelling, measurement and prediction.</title>
+<pages>105-126</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/sej.1987.0014</ee>
+<url>db/journals/iee/iee-sej2.html#Kitchenham87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/KitchenhamP87" mdate="2020-03-11">
+<author pid="k/BarbaraAKitchenham">Barbara A. Kitchenham</author>
+<author pid="89/3344">Lesley Pickard</author>
+<title>Towards a constructive quality model. Part 2: Statistical techniques for modelling software quality in the ESPRIT REQUEST project.</title>
+<pages>114-126</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/sej.1987.0015</ee>
+<url>db/journals/iee/iee-sej2.html#KitchenhamP87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/GurneyMM87" mdate="2021-08-08">
+<author pid="168/7233">William Gurney</author>
+<author pid="151/3619">Peter Maas</author>
+<author pid="168/7247">George May</author>
+<title>An experiment in software engineering education.</title>
+<pages>127-132</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/sej.1987.0016</ee>
+<url>db/journals/iee/iee-sej2.html#GurneyMM87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/WinderEC87" mdate="2021-03-25">
+<author pid="168/7238">Russel Winder</author>
+<author pid="168/7255">Charles D. Easteal</author>
+<author pid="14/4652">Robert Cole</author>
+<title>Software engineering in a first degree.</title>
+<pages>133-139</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/sej.1987.0017</ee>
+<url>db/journals/iee/iee-sej2.html#WinderEC87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/Runciman87" mdate="2021-08-08">
+<author pid="r/CRunciman">Colin Runciman</author>
+<title>Some software tools used in the development of the prototype york ada compiler.</title>
+<pages>140-144</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/sej.1987.0018</ee>
+<url>db/journals/iee/iee-sej2.html#Runciman87</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 2, Number 5, September 1987</h2>
+<dblpcites><r style="ee"><article key="journals/iee/WilburB87" mdate="2020-03-11">
+<author pid="47/3617">Steve R. Wilbur</author>
+<author pid="93/1086">Benjamin Bacarisse</author>
+<title>Building distributed systems with remote procedure call.</title>
+<pages>148-159</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1049/sej.1987.0020</ee>
+<url>db/journals/iee/iee-sej2.html#WilburB87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/ShrivastavaDP87" mdate="2020-03-11">
+<author pid="37/5945">Santosh K. Shrivastava</author>
+<author pid="52/2255">Graeme N. Dixon</author>
+<author pid="02/3523">Graham D. Parrington</author>
+<title>Objects and actions in reliable distributed systems.</title>
+<pages>160-168</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1049/sej.1987.0021</ee>
+<url>db/journals/iee/iee-sej2.html#ShrivastavaDP87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/WalpoleBHN87" mdate="2022-09-26">
+<author pid="50/3443">Jonathan Walpole</author>
+<author orcid="0000-0001-6212-1906" pid="b/GordonSBlair">Gordon S. Blair</author>
+<author pid="h/DavidHutchison">David Hutchison 0001</author>
+<author pid="99/2392">John R. Nicol</author>
+<title>Transaction mechanisms for distributed programming environments.</title>
+<pages>169-177</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1049/sej.1987.0022</ee>
+<url>db/journals/iee/iee-sej2.html#WalpoleBHN87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/BastableIL87" mdate="2020-03-11">
+<author pid="168/7248">A. Bastable</author>
+<author pid="168/7231">D. M. Ireland</author>
+<author pid="06/6674">Alwyn Langsford</author>
+<title>Building an open communication application.</title>
+<pages>178-183</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1049/sej.1987.0023</ee>
+<url>db/journals/iee/iee-sej2.html#BastableIL87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/HalsallH87" mdate="2020-03-11">
+<author pid="45/7008">F. Halsall</author>
+<author pid="02/587">S. C. Hui</author>
+<title>Performance monitoring and evaluation of large embedded systems.</title>
+<pages>184-192</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1049/sej.1987.0024</ee>
+<url>db/journals/iee/iee-sej2.html#HalsallH87</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 2, Number 6, November 1987</h2>
+<dblpcites><r style="ee"><article key="journals/iee/NicolCCOJ87" mdate="2021-08-08">
+<author pid="12/895">Clark Nicol</author>
+<author pid="12/586">Malcolm K. Crowe</author>
+<author pid="72/5274">Martin E. Corr</author>
+<author pid="30/4730">John W. Oram</author>
+<author pid="30/776">David G. Jenkins</author>
+<title>IDEA - an incremental development environment for Ada.</title>
+<pages>194-198</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1049/sej.1987.0025</ee>
+<url>db/journals/iee/iee-sej2.html#NicolCCOJ87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/MorrisonBCCDA87" mdate="2022-08-16">
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<author pid="71/151">Raymund Carrick</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Polymorphism, persistence and software re-use in a strongly typed object-oriented environment.</title>
+<pages>199-204</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1049/sej.1987.0026</ee>
+<ee>https://www.wikidata.org/entity/Q111900632</ee>
+<url>db/journals/iee/iee-sej2.html#MorrisonBCCDA87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/AyandehM87" mdate="2021-05-25">
+<author pid="168/7254">S. Ayandeh</author>
+<author pid="168/7251">Earl Layton Morris</author>
+<title>Pascal, modula-2 and multi-tasking kernel implementation.</title>
+<pages>205-212</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1049/sej.1987.0027</ee>
+<url>db/journals/iee/iee-sej2.html#AyandehM87</url>
+</article>
+</r>
+<r style="ee"><article key="journals/iee/CollisK87" mdate="2020-03-11">
+<author pid="168/7246">G. V. Collis</author>
+<author pid="168/7252">E. J. Kappos</author>
+<title>Occam as a hardware description language.</title>
+<pages>213-219</pages>
+<year>1987</year>
+<volume>2</volume>
+<journal>Softw. Eng. J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1049/sej.1987.0028</ee>
+<url>db/journals/iee/iee-sej2.html#CollisK87</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

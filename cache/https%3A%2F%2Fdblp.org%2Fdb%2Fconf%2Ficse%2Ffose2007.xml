@@ -1,0 +1,371 @@
+<bht key="db/conf/icse/fose2007.bht" title="ICSE 2007: FOSE">  
+<h1><ref href="db/conf/fose-ws/index.html">FOSE</ref>@<ref href="db/conf/icse/index.html">ICSE</ref> 2007:
+Minneapolis, MN, USA</h1> <dblpcites><r><proceedings key="conf/icse/2007fose" mdate="2019-10-16">
+<editor pid="93/1501">Lionel C. Briand</editor>
+<editor pid="w/AlexanderLWolf">Alexander L. Wolf</editor>
+<title>International Conference on Software Engineering, ISCE 2007, Workshop on the Future of Software Engineering, FOSE 2007, May 23-25, 2007, Minneapolis, MN, USA</title>
+<booktitle>FOSE@ICSE</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2007</year>
+<isbn>0-7695-2829-5</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/4221600/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/fose/2007/2829/00/index.html</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1253532</ee>
+<url>db/conf/icse/fose2007.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Osterweil07a" mdate="2017-05-23">
+<author pid="o/LJOsterweil">Leon J. Osterweil</author>
+<title>A Future for Software Engineering?</title>
+<pages>1-11</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.1</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.1</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254706</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Osterweil07a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/LethbridgeDLT07" mdate="2018-11-14">
+<author orcid="0000-0001-9410-2056" pid="l/TimothyLethbridge">Timothy Lethbridge</author>
+<author pid="35/6996">Jorge L. D&#237;az-Herrera</author>
+<author pid="l/RJLeBlanc">Richard J. LeBlanc</author>
+<author pid="48/6443">J. Barrie Thompson</author>
+<title>Improving software practice through education: Challenges and future trends.</title>
+<pages>12-28</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.13</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254707</ee>
+<ee>https://www.wikidata.org/entity/Q57339380</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#LethbridgeDLT07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/RombachA07" mdate="2017-05-23">
+<author pid="r/HDRombach">H. Dieter Rombach</author>
+<author pid="37/4351">Reinhold Achatz</author>
+<title>Research Collaborations between Academia and Industry.</title>
+<pages>29-36</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.16</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254708</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#RombachA07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/FranceR07" mdate="2017-06-15">
+<author pid="f/RBFrance">Robert B. France</author>
+<author orcid="0000-0002-2147-1966" pid="r/BernhardRumpe">Bernhard Rumpe</author>
+<title>Model-driven Development of Complex Software: A Research Roadmap.</title>
+<pages>37-54</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.14</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254709</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#FranceR07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/PretschnerBKS07" mdate="2022-12-07">
+<author pid="98/5319">Alexander Pretschner</author>
+<author pid="b/ManfredBroy">Manfred Broy</author>
+<author pid="k/IngolfKruger">Ingolf H. Kr&#252;ger</author>
+<author orcid="0000-0003-2669-7195" pid="59/3884">Thomas Stauner</author>
+<title>Software Engineering for Automotive Systems: A Roadmap.</title>
+<pages>55-71</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.22</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254710</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#PretschnerBKS07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/SchaferW07" mdate="2017-05-23">
+<author pid="31/5809">Wilhelm Sch&#228;fer</author>
+<author pid="w/HeikeWehrheim">Heike Wehrheim</author>
+<title>The Challenges of Building Advanced Mechatronic Systems.</title>
+<pages>72-84</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.28</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254711</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#SchaferW07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Bertolino07" mdate="2020-06-15">
+<author orcid="0000-0001-8749-1356" pid="03/3919">Antonia Bertolino</author>
+<title>Software Testing Research: Achievements, Challenges, Dreams.</title>
+<pages>85-103</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.25</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254712</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Bertolino07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Binkley07" mdate="2018-03-08">
+<author pid="b/DavidBinkley">David W. Binkley</author>
+<title>Source Code Analysis: A Road Map.</title>
+<pages>104-119</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.27</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254713</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Binkley07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/DwyerHRPV07" mdate="2017-06-15">
+<author orcid="0000-0002-1937-1544" pid="d/MatthewBDwyer">Matthew B. Dwyer</author>
+<author pid="52/5739">John Hatcliff</author>
+<author pid="98/4700">Robby</author>
+<author pid="03/4368">Corina S. Pasareanu</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Formal Software Analysis Emerging Trends in Software Model Checking.</title>
+<pages>120-136</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.6</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254714</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#DwyerHRPV07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Heimdahl07" mdate="2017-05-23">
+<author pid="68/654">Mats Per Erik Heimdahl</author>
+<title>Safety and Software Intensive Systems: Challenges Old and New.</title>
+<pages>137-152</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.18</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254715</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Heimdahl07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Lyu07" mdate="2017-05-23">
+<author pid="l/MichaelRLyu">Michael R. Lyu</author>
+<title>Software Reliability Engineering: A Roadmap.</title>
+<pages>153-170</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.24</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254716</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Lyu07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/WoodsideFP07" mdate="2017-06-15">
+<author pid="w/CMurrayWoodside">C. Murray Woodside</author>
+<author pid="51/25">Greg Franks</author>
+<author orcid="0000-0003-4688-9370" pid="46/4207">Dorina C. Petriu</author>
+<title>The Future of Software Performance Engineering.</title>
+<pages>171-187</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.32</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254717</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#WoodsideFP07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Herbsleb07" mdate="2019-06-02">
+<author orcid="0000-0002-7159-7524" pid="h/JamesDHerbsleb">James D. Herbsleb</author>
+<title>Global Software Engineering: The Future of Socio-technical Coordination.</title>
+<pages>188-198</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.11</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254718</ee>
+<ee>https://www.wikidata.org/entity/Q60458260</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Herbsleb07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Jazayeri07" mdate="2017-05-23">
+<author pid="j/MehdiJazayeri">Mehdi Jazayeri</author>
+<title>Some Trends in Web Application Development.</title>
+<pages>199-213</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.26</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254719</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Jazayeri07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Whitehead07" mdate="2017-05-23">
+<author pid="w/EJWhiteheadJr">Jim Whitehead</author>
+<title>Collaboration in Software Engineering: A Roadmap.</title>
+<pages>214-225</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.4</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.4</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254720</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Whitehead07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/TaylorH07" mdate="2017-05-23">
+<author pid="t/RichardNTaylor">Richard N. Taylor</author>
+<author pid="h/AndrevanderHoek">Andr&#233; van der Hoek</author>
+<title>Software Design and Architecture The once and future focus of software engineering.</title>
+<pages>226-243</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.21</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254721</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#TaylorH07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/IssarnyCG07" mdate="2020-06-15">
+<author pid="i/ValerieIssarny">Val&#233;rie Issarny</author>
+<author orcid="0000-0001-6981-0966" pid="c/MauroCaporuscio">Mauro Caporuscio</author>
+<author pid="41/2362">Nikolaos Georgantas</author>
+<title>A Perspective on the Future of Middleware-based Software Engineering.</title>
+<pages>244-258</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.2</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.2</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254722</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#IssarnyCG07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/KramerM07" mdate="2017-05-23">
+<author pid="k/JeffKramer">Jeff Kramer</author>
+<author pid="m/JeffMagee">Jeff Magee</author>
+<title>Self-Managed Systems: an Architectural Challenge.</title>
+<pages>259-268</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.19</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254723</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#KramerM07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Dearle07" mdate="2017-05-23">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Software Deployment, Past, Present and Future.</title>
+<pages>269-284</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.20</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254724</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Dearle07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/ChengA07" mdate="2021-10-14">
+<author orcid="0000-0001-9825-5359" pid="93/2440">Betty H. C. Cheng</author>
+<author pid="a/JMAtlee">Joanne M. Atlee</author>
+<title>Research Directions in Requirements Engineering.</title>
+<pages>285-303</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.17</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254725</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#ChengA07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Shepperd07" mdate="2020-03-27">
+<author orcid="0000-0003-1874-6145" pid="08/3451">Martin J. Shepperd</author>
+<title>Software project economics: a roadmap.</title>
+<pages>304-315</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.23</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254726</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Shepperd07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Zeller07" mdate="2021-07-25">
+<author orcid="0000-0003-4719-8803" pid="z/AndreasZeller">Andreas Zeller</author>
+<title>The Future of Programming Environments: Integration, Synergy, and Assistance.</title>
+<pages>316-325</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.31</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254727</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Zeller07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/CanforaP07" mdate="2018-11-14">
+<author orcid="0000-0003-0049-1279" pid="63/4434">Gerardo Canfora</author>
+<author orcid="0000-0002-0340-9747" pid="d/MassimilianoDiPenta">Massimiliano Di Penta</author>
+<title>New Frontiers of Reverse Engineering.</title>
+<pages>326-341</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.15</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254728</ee>
+<ee>https://www.wikidata.org/entity/Q57752136</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#CanforaP07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/Harman07" mdate="2019-06-02">
+<author orcid="0000-0002-5864-4488" pid="h/MarkHarman">Mark Harman</author>
+<title>The Current State and Future of Search Based Software Engineering.</title>
+<pages>342-357</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.29</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254729</ee>
+<ee>https://www.wikidata.org/entity/Q59610232</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#Harman07</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/icse/SjobergDJ07" mdate="2017-05-23">
+<author pid="32/889">Dag I. K. Sj&#248;berg</author>
+<author pid="81/2485">Tore Dyb&#229;</author>
+<author pid="26/5690">Magne J&#248;rgensen</author>
+<title>The Future of Empirical Methods in Software Engineering Research.</title>
+<pages>358-378</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.30</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254730</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#SjobergDJ07</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

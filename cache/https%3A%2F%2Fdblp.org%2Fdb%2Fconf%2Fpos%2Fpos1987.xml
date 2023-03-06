@@ -1,0 +1,451 @@
+<bht key="db/conf/pos/pos1987.bht" title="POS-2 1987: Appin, Scotland, UK">  
+<h1><ref href="db/conf/pos/index.html">POS</ref>-2 1987:
+Appin, Scotland, UK</h1> <dblpcites><r><proceedings key="conf/pos/1987" mdate="2022-03-17">
+<editor pid="71/151">Raymund Carrick</editor>
+<editor pid="c/RichardCooper">Richard Cooper 0001</editor>
+<title>Persistent Object Systems: Their Design Implementation and Use. Proceedings of the Second International Workshop, Appin, Scotland, August 25-28, 1987</title>
+<publisher>University of Glasgow and St. Andrew's</publisher>
+<volume>TR PPRR-44-87</volume>
+<year>1987</year>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/X87" mdate="2012-09-18">
+<title>Preface, Contents, Attendees.</title>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#X87</url>
+<cdrom>POS/1987/frontmatter.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/AtkinsonM87" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Polymorphic Names, Types, Constancy and Magic in a Type Secure Persistent Object Store.</title>
+<pages>1-12</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#AtkinsonM87</url>
+<cdrom>POS/1987/P001.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ConradiDEH87" mdate="2012-09-18">
+<author pid="c/ReidarConradi">Reidar Conradi</author>
+<author pid="43/3377">Tor Didriksen</author>
+<author pid="70/6457">H. Eidnes</author>
+<author pid="20/46">Ola Heens&#229;sen</author>
+<title>Experience with an Object Oriented Database Interface for the EPOS Programming Environment.</title>
+<pages>13-24</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#ConradiDEH87</url>
+<cdrom>POS/1987/P013.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/LyngbaekDFKR87" mdate="2012-09-18">
+<author pid="39/1385">Peter Lyngb&#230;k</author>
+<author pid="56/4727">Nigel Derrett</author>
+<author pid="59/5099">Daniel H. Fishman</author>
+<author pid="k/WilliamKent">William Kent</author>
+<author pid="54/2344">T. A. Ryan</author>
+<title>Design and Implementation of the Iris Object Manager.</title>
+<pages>25-51</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#LyngbaekDFKR87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/CooperA87" mdate="2022-05-11">
+<author pid="c/RichardCooper">Richard Cooper 0001</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Requirements Modelling in a Persistent Object Store.</title>
+<pages>52-67</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#CooperA87</url>
+<cdrom>POS/1987/P052.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Moffat87" mdate="2012-09-18">
+<author pid="34/7020">David S. Moffat</author>
+<title>Modular Commitment in Persistent Prolog.</title>
+<pages>68-77</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Moffat87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Powell87" mdate="2012-09-18">
+<author pid="42/3282">Malcolm S. Powell</author>
+<title>Incremental Compilation, Partial Evaluation and Persistence.</title>
+<pages>78-95</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Powell87</url>
+<cdrom>POS/1987/P078.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/RichardsonCDS87" mdate="2017-11-06">
+<author pid="41/538">Joel E. Richardson</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="86/732">Daniel T. Schuh</author>
+<title>Persistence in EXODUS.</title>
+<pages>96-113</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#RichardsonCDS87</url>
+<cdrom>POS/1987/P096.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/RosenbergK87" mdate="2012-09-18">
+<author pid="17/3411">John Rosenberg</author>
+<author pid="89/1100">James Leslie Keedy</author>
+<title>Object Management and Addressing in the MONADS Architecture.</title>
+<pages>114-133</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#RosenbergK87</url>
+<cdrom>POS/1987/P114.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Merrett87" mdate="2012-09-18">
+<author pid="m/THMerrett">T. H. Merrett</author>
+<title>Relix - First Steps to an Operating Language.</title>
+<pages>134-154</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Merrett87</url>
+<cdrom>POS/1987/P134.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Beech87" mdate="2012-09-18">
+<author pid="39/1371">David Beech</author>
+<title>Groundwork for an Object Database Model.</title>
+<pages>155-197</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Beech87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Rees87" mdate="2012-09-18">
+<author pid="33/1912">Owen Rees</author>
+<title>Object Oriented System Models.</title>
+<pages>198-206</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Rees87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Wai87" mdate="2012-09-18">
+<author pid="02/561">Francis Wai</author>
+<title>Distribution and Persistence.</title>
+<pages>207-225</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Wai87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Philbrow87" mdate="2012-09-18">
+<author pid="16/3545">Paul Philbrow</author>
+<title>Associative Storage and Retrieval: Some Language Design Issues.</title>
+<pages>226-232</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Philbrow87</url>
+<cdrom>POS/1987/P226.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BarmanC87" mdate="2016-10-07">
+<author pid="07/4612">Harry Justin Barman</author>
+<author pid="83/6994">Stephen Crawley</author>
+<title>Flexibility in a Persistent Object-based Type System.</title>
+<pages>233-245</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#BarmanC87</url>
+<cdrom>POS/1987/P233.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/DixonSP87" mdate="2012-09-18">
+<author pid="52/2255">Graeme N. Dixon</author>
+<author pid="37/5945">Santosh K. Shrivastava</author>
+<author pid="02/3523">Graham D. Parrington</author>
+<title>Managing Persistent Objects in Arjuna: A System for Reliable Distributed Computing.</title>
+<pages>246-265</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#DixonSP87</url>
+<cdrom>POS/1987/P246.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Guy87" mdate="2012-09-18">
+<author pid="97/5656">Michael R. Guy</author>
+<title>Persistent Store - Successor to Virtual Store.</title>
+<pages>266-282</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Guy87</url>
+<cdrom>POS/1987/P266.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Smithers87" mdate="2012-09-18">
+<author pid="95/4905">Tim Smithers</author>
+<title>AI-Based Design and Persistent Object Systems.</title>
+<pages>283-297</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Smithers87</url>
+<cdrom>POS/1987/P283.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/WilliamsWH87" mdate="2012-09-18">
+<author pid="50/2319">Ifor Williams</author>
+<author pid="24/2270">Mario Wolczko</author>
+<author pid="12/4287">T. P. Hopkins</author>
+<title>Realisation of a Dynamically Grouped Object-Oriented Virtual Memory Hierarchy.</title>
+<pages>298-308</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#WilliamsWH87</url>
+<cdrom>POS/1987/P298.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Matthews87" mdate="2012-09-18">
+<author pid="81/1541">David C. J. Matthews</author>
+<title>Progress with Persistence in Poly and Poly/ML.</title>
+<pages>309-316</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Matthews87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BuhrZ87" mdate="2012-09-18">
+<author pid="b/PeterABuhr">Peter A. Buhr</author>
+<author pid="54/7038">C. Robert Zarnke</author>
+<title>Persistence in an Environment for a Statically Typed Programming Language.</title>
+<pages>317-336</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#BuhrZ87</url>
+<cdrom>POS/1987/P317.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/PenneySM87" mdate="2017-11-05">
+<author pid="88/3660">D. Jason Penney</author>
+<author pid="72/5426">Jacob Stein</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Is the Disk Half Full or Half Empty? Combining Optimistic and Pessimistic Concurrency Mechanisms in a Shared, Persistent Object Base</title>
+<pages>337-345</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#PenneySM87</url>
+<cdrom>POS/1987/P337.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BoccaB87" mdate="2012-09-18">
+<author pid="97/6001">Jorge B. Bocca</author>
+<author pid="27/4894">Peter J. Bailey</author>
+<title>Logic Languages and Relational DBMS's - The Point of Convergence.</title>
+<pages>346-362</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#BoccaB87</url>
+<cdrom>POS/1987/P346.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/ClarkeWW87" mdate="2012-09-18">
+<author pid="c/LoriAClarke">Lori A. Clarke</author>
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<title>Object Management Support for Software Development Environments.</title>
+<pages>363-381</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#ClarkeWW87</url>
+<cdrom>POS/1987/P363.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/WileGA87" mdate="2012-09-18">
+<author pid="36/293">David S. Wile</author>
+<author pid="46/56">Neil M. Goldman</author>
+<author pid="88/5957">Dennis G. Allard</author>
+<title>Maintaining Object Persistence in the Common Lisp Framework.</title>
+<pages>382-406</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#WileGA87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/CopelandK87" mdate="2012-09-18">
+<author pid="37/3701">George P. Copeland</author>
+<author pid="14/6635">Setrag Khoshafian</author>
+<title>Identity and Versions for Complex Objects.</title>
+<pages>407-428</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#CopelandK87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BakerFS87" mdate="2012-09-18">
+<author pid="44/6931">Deborah A. Baker</author>
+<author pid="90/859">David A. Fisher</author>
+<author pid="87/4391">Jonathan C. Shultis</author>
+<title>Persistence and Type Integrity in a Software Development Environment.</title>
+<pages>429-442</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#BakerFS87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Dearle87" mdate="2012-09-18">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Constructing Compilers in a persistent environment.</title>
+<pages>443-455</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Dearle87</url>
+<cdrom>POS/1987/P443.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/CarrickM87" mdate="2012-09-18">
+<author pid="71/151">Raymund Carrick</author>
+<author pid="m/DavidSMunro">David S. Munro</author>
+<title>Execution Strategies in Persistent Systems.</title>
+<pages>456-460</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#CarrickM87</url>
+<cdrom>POS/1987/P456.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Brown87" mdate="2012-09-18">
+<author pid="b/AlfredLBrown">Alfred L. Brown</author>
+<title>A Distributed Stable Store.</title>
+<pages>461-468</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Brown87</url>
+<cdrom>POS/1987/P461.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Moss87" mdate="2012-09-18">
+<author pid="22/5025">Eric Moss</author>
+<title>Experience Interfacing an Object Oriented Language and an Object Server.</title>
+<pages>469</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Moss87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Cockshott87" mdate="2012-09-18">
+<author pid="39/5175">W. Paul Cockshott</author>
+<title>Stable Virtual Memory.</title>
+<pages>470-476</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Cockshott87</url>
+<cdrom>POS/1987/P470.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/EcklundE87" mdate="2012-09-18">
+<author pid="54/533">Earl F. Ecklund Jr.</author>
+<author pid="18/4754">Denise J. Ecklund</author>
+<title>CAD Performance Requirements for Persistent Object Systems.</title>
+<pages>477-478</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#EcklundE87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Nestor87" mdate="2012-09-18">
+<author pid="04/955">John R. Nestor</author>
+<title>Changing Persistent Objects in a Distributed Environment.</title>
+<pages>479</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Nestor87</url>
+<cdrom>POS/1987/P479.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/Kulkarni87" mdate="2012-09-18">
+<author pid="98/3371">K. G. Kulkarni</author>
+<title>A brief Review of Efforts in Providing Database Support for Trellis/Owl.</title>
+<pages>480-482</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#Kulkarni87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BennetHS87" mdate="2012-09-18">
+<author pid="49/6310">K. H. Bennet</author>
+<author pid="75/4995">C. Hawksley</author>
+<author pid="23/1192">D. J. Sparks</author>
+<title>XENOS - a System to Support Abstract Data Structures.</title>
+<pages>483-494</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#BennetHS87</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/BloomZ87" mdate="2012-09-18">
+<author pid="98/4768">Toby Bloom</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Issues in the Design of Object Oriented Database Programming Languages.</title>
+<pages>495-517</pages>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#BloomZ87</url>
+<cdrom>POS/1987/P495.pdf</cdrom>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/pos/X87a" mdate="2012-09-18">
+<title>Persistent Programming Research Group: Bibliography.</title>
+<year>1987</year>
+<crossref>conf/pos/1987</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos1987.html#X87a</url>
+<cdrom>POS/1987/backmatter.pdf</cdrom>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

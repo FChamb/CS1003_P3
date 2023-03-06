@@ -1,0 +1,1073 @@
+<bht key="db/journals/ai/ai172.bht" title="Artificial Intelligence, Volume 172">  
+<h1><ref href="db/journals/ai/index.html">Artificial Intelligence</ref>, Volume 172</h1> 
+<h2>Volume 172, Number 1, January 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/KrausHWAP08" mdate="2017-05-27">
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<author pid="46/6565">Penina Hoz-Weiss</author>
+<author pid="13/5535">Jonathan Wilkenfeld</author>
+<author pid="30/6693">David R. Andersen</author>
+<author pid="32/4795">Amy Pate</author>
+<title>Resolving crises through automated bilateral negotiations.</title>
+<pages>1-18</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.artint.2007.05.007</ee>
+<url>db/journals/ai/ai172.html#KrausHWAP08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/RuckertR08" mdate="2020-10-26">
+<author pid="36/3893-2">Ulrich R&#252;ckert 0002</author>
+<author orcid="0000-0002-6860-6303" pid="r/LucDeRaedt">Luc De Raedt</author>
+<title>An experimental evaluation of simplicity in rule learning.</title>
+<pages>19-28</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.artint.2007.06.004</ee>
+<url>db/journals/ai/ai172.html#RuckertR08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/BessiereD08" mdate="2017-05-27">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="30/847">Romuald Debruyne</author>
+<title>Theoretical analysis of singleton arc consistency and its extensions.</title>
+<pages>29-41</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.001</ee>
+<url>db/journals/ai/ai172.html#BessiereD08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/SmithA08" mdate="2019-06-26">
+<author pid="01/688">Jim Q. Smith</author>
+<author pid="16/182-2">Paul E. Anderson 0002</author>
+<title>Conditional independence and chain event graphs.</title>
+<pages>42-68</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.artint.2007.05.004</ee>
+<url>db/journals/ai/ai172.html#SmithA08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Numbers 2-3, February 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/KnottV08" mdate="2022-12-07">
+<author orcid="0000-0003-3036-4668" pid="59/3915">Alistair Knott</author>
+<author pid="41/2248">Peter Vlugter</author>
+<title>Multi-agent human-machine dialogue: issues in dialogue management and referring expression semantics.</title>
+<pages>69-102</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.artint.2007.06.001</ee>
+<url>db/journals/ai/ai172.html#KnottV08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/JensenVB08" mdate="2017-05-27">
+<author pid="10/623">Rune M. Jensen</author>
+<author pid="v/ManuelaMVeloso">Manuela M. Veloso</author>
+<author pid="b/REBryant">Randal E. Bryant</author>
+<title>State-set branching: Leveraging BDDs for heuristic search.</title>
+<pages>103-139</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.artint.2007.05.009</ee>
+<url>db/journals/ai/ai172.html#JensenVB08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Laskey08" mdate="2017-05-27">
+<author pid="52/3939">Kathryn B. Laskey</author>
+<title>MEBN: A language for first-order Bayesian knowledge bases.</title>
+<pages>140-178</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.006</ee>
+<url>db/journals/ai/ai172.html#Laskey08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/ChoiJK08" mdate="2017-05-27">
+<author pid="50/4982">Sung-Soon Choi</author>
+<author pid="48/3867">Kyomin Jung</author>
+<author pid="k/JeongHanKim">Jeong Han Kim</author>
+<title>Phase transition in a random NK landscape model.</title>
+<pages>179-203</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.artint.2007.06.002</ee>
+<url>db/journals/ai/ai172.html#ChoiJK08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/LarrosaHG08" mdate="2017-05-27">
+<author pid="27/2738">Javier Larrosa</author>
+<author pid="11/303">Federico Heras</author>
+<author pid="18/1193">Simon de Givry</author>
+<title>A logical approach to efficient Max-SAT solving.</title>
+<pages>204-233</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.artint.2007.05.006</ee>
+<url>db/journals/ai/ai172.html#LarrosaHG08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Denoeux08" mdate="2017-09-16">
+<author orcid="0000-0002-0660-5436" pid="70/2550">Thierry Denoeux</author>
+<title>Conjunctive and disjunctive combination of belief functions induced by nondistinct bodies of evidence.</title>
+<pages>234-264</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.artint.2007.05.008</ee>
+<url>db/journals/ai/ai172.html#Denoeux08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Liberatore08" mdate="2017-06-05">
+<author orcid="0000-0001-5355-3766" pid="l/PLiberatore">Paolo Liberatore</author>
+<title>Redundancy in logic II: 2CNF and Horn propositional formulae.</title>
+<pages>265-299</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.artint.2007.06.003</ee>
+<url>db/journals/ai/ai172.html#Liberatore08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/SrihariCSSSB08" mdate="2017-05-27">
+<author pid="s/SargurNSrihari">Sargur N. Srihari</author>
+<author pid="93/6402">Jim Collins</author>
+<author pid="59/6877">Rohini K. Srihari</author>
+<author pid="54/3955">Harish Srinivasan</author>
+<author pid="49/1617">Shravya Shetty</author>
+<author pid="58/6842">Janina Brutt-Griffler</author>
+<title>Automatic scoring of short handwritten essays in reading comprehension tests.</title>
+<pages>300-324</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.artint.2007.06.005</ee>
+<url>db/journals/ai/ai172.html#SrihariCSSSB08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/BrafmanD08" mdate="2019-10-19">
+<author orcid="0000-0001-8227-5646" pid="b/RonenIBrafman">Ronen I. Brafman</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Graphically structured value-function compilation.</title>
+<pages>325-349</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/j.artint.2007.07.002</ee>
+<url>db/journals/ai/ai172.html#BrafmanD08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Numbers 4-5, March 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/GerberN08" mdate="2017-05-27">
+<author pid="78/5980">Ralf Gerber</author>
+<author pid="41/730">Hans-Hellmut Nagel</author>
+<title>Representation of occurrences for road vehicle traffic.</title>
+<pages>351-391</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.artint.2007.07.001</ee>
+<url>db/journals/ai/ai172.html#GerberN08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/MorissetG08" mdate="2017-05-27">
+<author pid="25/5672">Benoit Morisset</author>
+<author pid="23/7017">Malik Ghallab</author>
+<title>Learning how to combine sensory-motor functions into a robust behavior.</title>
+<pages>392-412</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.artint.2007.07.003</ee>
+<url>db/journals/ai/ai172.html#MorissetG08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/BarishK08" mdate="2017-06-14">
+<author pid="48/6271">Greg Barish</author>
+<author orcid="0000-0002-6371-4807" pid="k/CAKnoblock">Craig A. Knoblock</author>
+<title>Speculative plan execution for information gathering.</title>
+<pages>413-453</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.artint.2007.08.002</ee>
+<url>db/journals/ai/ai172.html#BarishK08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/BarretoA08" mdate="2020-12-29">
+<author pid="72/953">Andr&#233; da Motta Salles Barreto</author>
+<author orcid="0000-0001-7392-3840" pid="92/5241">Charles W. Anderson</author>
+<title>Restricted gradient-descent algorithm for value-function approximation in reinforcement learning.</title>
+<pages>454-482</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.artint.2007.08.001</ee>
+<url>db/journals/ai/ai172.html#BarretoA08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/AllenSGH08" mdate="2017-05-27">
+<author pid="24/4758">Tim Van Allen</author>
+<author pid="15/2229">Ajit Singh</author>
+<author pid="g/RussellGreiner">Russell Greiner</author>
+<author pid="64/5250">Peter Hooper</author>
+<title>Quantifying the uncertainty of a belief net response: Bayesian error-bars for belief net inference.</title>
+<pages>483-513</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.004</ee>
+<url>db/journals/ai/ai172.html#AllenSGH08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/ZahaviFHS08" mdate="2019-10-19">
+<author pid="74/6929">Uzi Zahavi</author>
+<author orcid="0000-0003-0065-2757" pid="43/5063">Ariel Felner</author>
+<author pid="h/RobertHolte">Robert C. Holte</author>
+<author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author>
+<title>Duality in permutation state spaces and the dual search algorithm.</title>
+<pages>514-540</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.artint.2007.10.019</ee>
+<url>db/journals/ai/ai172.html#ZahaviFHS08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/SarneK08" mdate="2017-05-27">
+<author pid="03/5237">David Sarne</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<title>Managing parallel inquiries in agents' two-sided search.</title>
+<pages>541-569</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.002</ee>
+<url>db/journals/ai/ai172.html#SarneK08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Freund08" mdate="2017-05-27">
+<author pid="08/2922">Michael Freund</author>
+<title>On the notion of concept I.</title>
+<pages>570-590</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.003</ee>
+<url>db/journals/ai/ai172.html#Freund08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/BaumgartnerT08" mdate="2017-11-12">
+<author pid="b/PeterBaumgartner">Peter Baumgartner 0001</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<title>The model evolution calculus as a first-order DPLL method.</title>
+<pages>591-632</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.005</ee>
+<url>db/journals/ai/ai172.html#BaumgartnerT08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Numbers 6-7, April 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/RosenfeldKKS08" mdate="2018-11-30">
+<author pid="13/4267">Avi Rosenfeld</author>
+<author pid="28/5426">Gal A. Kaminka</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<author orcid="0000-0001-9594-7819" pid="20/1380">Onn Shehory</author>
+<title>A study of mechanisms for improving robotic group performance.</title>
+<pages>633-655</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.008</ee>
+<url>db/journals/ai/ai172.html#RosenfeldKKS08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/MelisMS08" mdate="2017-05-27">
+<author pid="m/EMelis">Erica Melis</author>
+<author pid="11/3773-2">Andreas Meier 0002</author>
+<author pid="s/JorgHSiekmann">J&#246;rg H. Siekmann</author>
+<title>Proof planning with multiple strategies.</title>
+<pages>656-684</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.11.004</ee>
+<url>db/journals/ai/ai172.html#MelisMS08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/BryceKS08" mdate="2019-11-19">
+<author pid="14/3037">Daniel Bryce</author>
+<author pid="k/SKambhampati">Subbarao Kambhampati</author>
+<author pid="95/2477-1">David E. Smith 0001</author>
+<title>Sequential Monte Carlo in reachability heuristics for probabilistic planning.</title>
+<pages>685-715</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.10.018</ee>
+<url>db/journals/ai/ai172.html#BryceKS08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/ThomazB08" mdate="2017-05-27">
+<author pid="l/AndreaLockerd">Andrea Lockerd Thomaz</author>
+<author pid="65/5630">Cynthia Breazeal</author>
+<title>Teachable robots: Understanding human teaching behavior to build more effective robot learners.</title>
+<pages>716-737</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.009</ee>
+<url>db/journals/ai/ai172.html#ThomazB08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/GentNRS08" mdate="2019-01-08">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="93/6320">Andrew G. D. Rowley</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<title>Solving quantified constraint satisfaction problems.</title>
+<pages>738-771</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.11.003</ee>
+<url>db/journals/ai/ai172.html#GentNRS08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/ChaviraD08" mdate="2017-05-27">
+<author pid="86/6262">Mark Chavira</author>
+<author pid="p/ADarwiche">Adnan Darwiche</author>
+<title>On probabilistic inference by weighted model counting.</title>
+<pages>772-799</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.11.002</ee>
+<url>db/journals/ai/ai172.html#ChaviraD08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/BessiereSW08" mdate="2019-09-25">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="97/3237">Kostas Stergiou 0001</author>
+<author orcid="0000-0003-2998-8668" pid="86/2576">Toby Walsh</author>
+<title>Domain filtering consistencies for non-binary constraints.</title>
+<pages>800-822</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.10.016</ee>
+<url>db/journals/ai/ai172.html#BessiereSW08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/LinKWB08" mdate="2017-05-27">
+<author pid="69/5277">Raz Lin</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<author pid="13/5535">Jonathan Wilkenfeld</author>
+<author pid="72/96">James Barry</author>
+<title>Negotiating with bounded rational agents in environments with incomplete information using an automated agent.</title>
+<pages>823-851</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.007</ee>
+<url>db/journals/ai/ai172.html#LinKWB08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Lukasiewicz08" mdate="2017-05-27">
+<author pid="l/ThomasLukasiewicz">Thomas Lukasiewicz</author>
+<title>Expressive probabilistic description logics.</title>
+<pages>852-883</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.10.017</ee>
+<url>db/journals/ai/ai172.html#Lukasiewicz08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/OlsenSS08" mdate="2017-05-27">
+<author pid="87/3417">Megan M. Olsen</author>
+<author pid="95/1809">N. Siegelmann-Danieli</author>
+<author pid="s/HavaTSiegelmann">Hava T. Siegelmann</author>
+<title>Robust artificial life via artificial programmed death.</title>
+<pages>884-898</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.artint.2007.10.015</ee>
+<url>db/journals/ai/ai172.html#OlsenSS08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Numbers 8-9, May 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/GereviniSS08" mdate="2017-06-05">
+<author pid="73/3274">Alfonso Gerevini</author>
+<author pid="62/6020">Alessandro Saetti</author>
+<author orcid="0000-0002-7785-9492" pid="76/6410">Ivan Serina</author>
+<title>An approach to efficient planning with numerical fluents and multi-criteria plan quality.</title>
+<pages>899-944</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2008.01.002</ee>
+<url>db/journals/ai/ai172.html#GereviniSS08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/WuK08" mdate="2017-05-27">
+<author pid="52/328">Di Wu</author>
+<author pid="11/5453">Xenofon D. Koutsoukos</author>
+<title>Reachability analysis of uncertain systems using bounded-parameter Markov decision processes.</title>
+<pages>945-954</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2007.12.002</ee>
+<url>db/journals/ai/ai172.html#WuK08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Mengshoel08" mdate="2017-05-27">
+<author pid="58/2801">Ole J. Mengshoel</author>
+<title>Understanding the role of noise in stochastic local search: Analysis and experiments.</title>
+<pages>955-990</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2007.09.010</ee>
+<url>db/journals/ai/ai172.html#Mengshoel08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/LangM08" mdate="2017-05-27">
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<author pid="37/6177">Pierre Marquis</author>
+<title>On propositional definability.</title>
+<pages>991-1017</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2007.12.003</ee>
+<url>db/journals/ai/ai172.html#LangM08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/GarciaS08" mdate="2019-06-02">
+<author pid="89/2357">Laurent Garcia</author>
+<author orcid="0000-0002-6286-1821" pid="64/3227">R&#233;gis Sabbadin</author>
+<title>Complexity results and algorithms for possibilistic influence diagrams.</title>
+<pages>1018-1044</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2007.11.008</ee>
+<ee>https://www.wikidata.org/entity/Q60558413</ee>
+<url>db/journals/ai/ai172.html#GarciaS08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/AndersonGGP08" mdate="2018-11-14">
+<author orcid="0000-0002-4407-2191" pid="03/1682">Michael L. Anderson</author>
+<author orcid="0000-0002-8518-8908" pid="37/7589">Walid E. Gomaa</author>
+<author pid="85/4920">John Grant</author>
+<author pid="p/DPerlis">Donald Perlis</author>
+<title>Active logic semantics for a single agent in a static world.</title>
+<pages>1045-1063</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2007.11.005</ee>
+<ee>https://www.wikidata.org/entity/Q57728575</ee>
+<url>db/journals/ai/ai172.html#AndersonGGP08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/GrantH08" mdate="2020-12-29">
+<author pid="85/4920">John Grant</author>
+<author orcid="0000-0001-5602-7446" pid="23/4530">Anthony Hunter</author>
+<title>Analysing inconsistent first-order knowledgebases.</title>
+<pages>1064-1093</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2007.11.006</ee>
+<url>db/journals/ai/ai172.html#GrantH08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/GreenC08" mdate="2017-05-27">
+<author pid="07/3495">Martin James Green</author>
+<author pid="50/3733">David A. Cohen</author>
+<title>Domain permutation reduction for constraint satisfaction problems.</title>
+<pages>1094-1118</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2007.12.001</ee>
+<url>db/journals/ai/ai172.html#GreenC08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/GattiGM08" mdate="2017-06-05">
+<author orcid="0000-0001-7349-3932" pid="g/NicolaGatti">Nicola Gatti 0001</author>
+<author pid="83/5424">Francesco Di Giunta</author>
+<author pid="16/4736">Stefano Marino</author>
+<title>Alternating-offers bargaining with one-sided uncertain deadlines: an efficient algorithm.</title>
+<pages>1119-1157</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2007.11.007</ee>
+<url>db/journals/ai/ai172.html#GattiGM08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/SchockaertC08" mdate="2021-04-09">
+<author orcid="0000-0002-9256-2881" pid="29/3972">Steven Schockaert</author>
+<author orcid="0000-0001-7917-0771" pid="79/4249">Martine De Cock</author>
+<title>Temporal reasoning about fuzzy intervals.</title>
+<pages>1158-1193</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.artint.2008.01.001</ee>
+<url>db/journals/ai/ai172.html#SchockaertC08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Number 10, June 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/HildS08" mdate="2017-05-27">
+<author pid="30/6092">Matthias Hild</author>
+<author pid="59/2354">Wolfgang Spohn</author>
+<title>The measurement of ranks and the laws of iterated contraction.</title>
+<pages>1195-1218</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.artint.2008.03.002</ee>
+<url>db/journals/ai/ai172.html#HildS08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/DeemterKPKSB08" mdate="2018-11-14">
+<author pid="30/4465">Kees van Deemter</author>
+<author pid="53/109">Brigitte Krenn</author>
+<author orcid="0000-0003-1621-6124" pid="74/2771">Paul Piwek</author>
+<author pid="16/610">Martin Klesen</author>
+<author pid="88/4000-1">Marc Schr&#246;der 0001</author>
+<author pid="24/6175">Stefan Baumann</author>
+<title>Fully generated scripted dialogue for embodied agents.</title>
+<pages>1219-1244</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.artint.2008.02.002</ee>
+<ee>https://www.wikidata.org/entity/Q57759585</ee>
+<url>db/journals/ai/ai172.html#DeemterKPKSB08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/NordhZ08" mdate="2017-05-27">
+<author pid="n/GustavNordh">Gustav Nordh</author>
+<author pid="67/2283">Bruno Zanuttini</author>
+<title>What makes propositional abduction tractable.</title>
+<pages>1245-1284</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.artint.2008.02.001</ee>
+<url>db/journals/ai/ai172.html#NordhZ08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/MellishP08" mdate="2017-05-27">
+<author pid="72/2459">Chris Mellish</author>
+<author pid="59/6490">Jeff Z. Pan</author>
+<title>Natural language directed inference from ontologies.</title>
+<pages>1285-1315</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.artint.2008.01.003</ee>
+<url>db/journals/ai/ai172.html#MellishP08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Number 11, July 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/Liberatore08a" mdate="2017-06-05">
+<author orcid="0000-0001-5355-3766" pid="l/PLiberatore">Paolo Liberatore</author>
+<title>Redundancy in logic III: Non-monotonic reasoning.</title>
+<pages>1317-1359</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/j.artint.2008.02.003</ee>
+<url>db/journals/ai/ai172.html#Liberatore08a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/KohlasW08" mdate="2022-12-07">
+<author pid="00/5785">J&#252;rg Kohlas</author>
+<author orcid="0000-0003-1874-8255" pid="00/3956">Nic Wilson</author>
+<title>Semiring induced valuation algebras: Exact and approximate local computation algorithms.</title>
+<pages>1360-1399</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/j.artint.2008.03.003</ee>
+<url>db/journals/ai/ai172.html#KohlasW08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/CoomanH08" mdate="2018-11-14">
+<author orcid="0000-0002-0469-1422" pid="c/GertdeCooman">Gert de Cooman</author>
+<author pid="60/2124">Filip Hermans</author>
+<title>Imprecise probability trees: Bridging two theories of imprecise probability.</title>
+<pages>1400-1427</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/j.artint.2008.03.001</ee>
+<ee>https://www.wikidata.org/entity/Q56765904</ee>
+<url>db/journals/ai/ai172.html#CoomanH08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Numbers 12-13, August 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/BaralEBN08" mdate="2022-08-16">
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="29/3247">Marcus Bj&#228;reland</author>
+<author pid="99/2452">Mutsumi Nakamura</author>
+<title>Maintenance goals of agents in a dynamic environment: Formulation and policy construction.</title>
+<pages>1429-1469</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>12-13</number>
+<ee>https://doi.org/10.1016/j.artint.2008.03.005</ee>
+<ee>https://www.wikidata.org/entity/Q113442976</ee>
+<url>db/journals/ai/ai172.html#BaralEBN08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/RenooijG08" mdate="2021-10-14">
+<author orcid="0000-0003-4339-8146" pid="08/4459">Silja Renooij</author>
+<author pid="g/LindaCvanderGaag">Linda C. van der Gaag</author>
+<title>Enhanced qualitative probabilistic networks for resolving trade-offs.</title>
+<pages>1470-1494</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>12-13</number>
+<ee>https://doi.org/10.1016/j.artint.2008.04.001</ee>
+<url>db/journals/ai/ai172.html#RenooijG08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/EiterILST08" mdate="2017-05-27">
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="i/GiovambattistaIanni">Giovambattista Ianni</author>
+<author pid="l/ThomasLukasiewicz">Thomas Lukasiewicz</author>
+<author pid="43/6617">Roman Schindlauer</author>
+<author pid="t/HansTompits">Hans Tompits</author>
+<title>Combining answer set programming with description logics for the Semantic Web.</title>
+<pages>1495-1539</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>12-13</number>
+<ee>https://doi.org/10.1016/j.artint.2008.04.002</ee>
+<url>db/journals/ai/ai172.html#EiterILST08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Davis08" mdate="2017-05-27">
+<author pid="16/2975">Ernest Davis</author>
+<title>Pouring liquids: A study in commonsense physical reasoning.</title>
+<pages>1540-1578</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>12-13</number>
+<ee>https://doi.org/10.1016/j.artint.2008.04.003</ee>
+<url>db/journals/ai/ai172.html#Davis08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/BonetG08" mdate="2020-10-26">
+<author pid="b/BBonet">Blai Bonet</author>
+<author orcid="0000-0001-9851-8219" pid="g/HectorGeffner">Hector Geffner</author>
+<title>Heuristics for planning with penalties and rewards formulated in logic and computed through circuits.</title>
+<pages>1579-1604</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>12-13</number>
+<ee>https://doi.org/10.1016/j.artint.2008.03.004</ee>
+<url>db/journals/ai/ai172.html#BonetG08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/ZhangF08" mdate="2019-11-26">
+<author pid="z/YuanlinZhang">Yuanlin Zhang 0002</author>
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<title>Properties of tree convex constraints.</title>
+<pages>1605-1612</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>12-13</number>
+<ee>https://doi.org/10.1016/j.artint.2008.05.001</ee>
+<url>db/journals/ai/ai172.html#ZhangF08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Number 14, September 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/LikhachevFGST08" mdate="2017-10-23">
+<author pid="33/1426">Maxim Likhachev</author>
+<author pid="28/5567">Dave Ferguson 0001</author>
+<author pid="41/487">Geoffrey J. Gordon</author>
+<author pid="71/3265">Anthony Stentz</author>
+<author pid="t/SebastianThrun">Sebastian Thrun</author>
+<title>Anytime search in dynamic graphs.</title>
+<pages>1613-1643</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1016/j.artint.2007.11.009</ee>
+<url>db/journals/ai/ai172.html#LikhachevFGST08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/EiterW08" mdate="2022-07-27">
+<author pid="e/TEiter">Thomas Eiter</author>
+<author orcid="0000-0002-0542-3761" pid="52/2483-1">Kewen Wang 0001</author>
+<title>Semantic forgetting in answer set programming.</title>
+<pages>1644-1672</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1016/j.artint.2008.05.002</ee>
+<url>db/journals/ai/ai172.html#EiterW08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/FatimaWJ08" mdate="2019-04-26">
+<author pid="77/5008">S. Shaheen Fatima</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<author orcid="0000-0003-0166-248X" pid="j/NicholasRJennings">Nicholas R. Jennings</author>
+<title>A linear approximation method for the Shapley value.</title>
+<pages>1673-1699</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1016/j.artint.2008.05.003</ee>
+<ee>https://www.wikidata.org/entity/Q57377393</ee>
+<url>db/journals/ai/ai172.html#FatimaWJ08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/VytelingumCJ08" mdate="2019-10-19">
+<author pid="83/2868">Perukrishnen Vytelingum</author>
+<author orcid="0000-0003-3822-9364" pid="47/5766">Dave Cliff</author>
+<author orcid="0000-0003-0166-248X" pid="j/NicholasRJennings">Nicholas R. Jennings</author>
+<title>Strategic bidding in continuous double auctions.</title>
+<pages>1700-1729</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1016/j.artint.2008.06.001</ee>
+<ee>https://www.wikidata.org/entity/Q57377400</ee>
+<url>db/journals/ai/ai172.html#VytelingumCJ08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Number 15, October 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/BiGB08" mdate="2017-05-27">
+<author pid="91/652">Yaxin Bi</author>
+<author pid="39/2957">Jiwen Guan</author>
+<author pid="b/DavidABell">David A. Bell</author>
+<title>The combination of multiple classifiers using an evidential reasoning approach.</title>
+<pages>1731-1751</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1016/j.artint.2008.06.002</ee>
+<url>db/journals/ai/ai172.html#BiGB08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/PhamTS08" mdate="2020-10-26">
+<author pid="35/6186">Duc Nghia Pham</author>
+<author pid="t/JohnThornton">John Thornton 0001</author>
+<author orcid="0000-0002-2567-2052" pid="s/AbdulSattar">Abdul Sattar 0001</author>
+<title>Modelling and solving temporal reasoning as propositional satisfiability.</title>
+<pages>1752-1782</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1016/j.artint.2008.06.003</ee>
+<url>db/journals/ai/ai172.html#PhamTS08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/PorterRST08" mdate="2017-05-27">
+<author pid="45/4370">Ryan Porter</author>
+<author pid="49/3193">Amir Ronen</author>
+<author pid="s/YoavShoham">Yoav Shoham</author>
+<author pid="t/MosheTennenholtz">Moshe Tennenholtz</author>
+<title>Fault tolerant mechanism design.</title>
+<pages>1783-1799</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1016/j.artint.2008.06.004</ee>
+<url>db/journals/ai/ai172.html#PorterRST08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/DashD08" mdate="2017-06-05">
+<author pid="19/1167">Denver Dash</author>
+<author orcid="0000-0002-7598-2286" pid="d/MarekJDruzdzel">Marek J. Druzdzel</author>
+<title>A note on the correctness of the causal ordering algorithm.</title>
+<pages>1800-1808</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1016/j.artint.2008.06.005</ee>
+<url>db/journals/ai/ai172.html#DashD08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/YuZ08" mdate="2017-09-07">
+<author pid="46/2181-1">Yang Yu 0001</author>
+<author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author>
+<title>A new approach to estimating the expected first hitting time of evolutionary algorithms.</title>
+<pages>1809-1832</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1016/j.artint.2008.07.001</ee>
+<url>db/journals/ai/ai172.html#YuZ08</url>
+</article>
+</r>
+</dblpcites>
+Erratum 
+<dblpcites><r style="ee"><article key="journals/ai/Bonatti08" mdate="2017-06-05">
+<author orcid="0000-0003-1436-5660" pid="b/PABonatti">Piero A. Bonatti</author>
+<title>Erratum to: Reasoning with infinite stable models [Artificial Intelligence 156 (1) (2004) 75-111].</title>
+<pages>1833-1835</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1016/j.artint.2008.07.002</ee>
+<url>db/journals/ai/ai172.html#Bonatti08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Numbers 16-17, November 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/AngiulliBP08" mdate="2022-07-18">
+<author orcid="0000-0002-9860-7569" pid="a/FabrizioAngiulli">Fabrizio Angiulli</author>
+<author pid="b/RachelBenEliyahuZohary">Rachel Ben-Eliyahu-Zohary</author>
+<author orcid="0000-0003-4915-5137" pid="p/LuigiPalopoli">Luigi Palopoli 0001</author>
+<title>Outlier detection using default reasoning.</title>
+<pages>1837-1872</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>16-17</number>
+<ee>https://doi.org/10.1016/j.artint.2008.07.004</ee>
+<url>db/journals/ai/ai172.html#AngiulliBP08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Zhang08" mdate="2017-06-05">
+<author orcid="0000-0003-0684-2084" pid="99/3659">Jiji Zhang</author>
+<title>On the completeness of orientation rules for causal discovery in the presence of latent confounders and selection bias.</title>
+<pages>1873-1896</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>16-17</number>
+<ee>https://doi.org/10.1016/j.artint.2008.08.001</ee>
+<url>db/journals/ai/ai172.html#Zhang08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/HullermeierFCB08" mdate="2019-06-02">
+<author pid="h/EykeHullermeier">Eyke H&#252;llermeier</author>
+<author orcid="0000-0002-1207-0159" pid="f/JohannesFurnkranz">Johannes F&#252;rnkranz</author>
+<author pid="66/2635">Weiwei Cheng</author>
+<author pid="35/4254">Klaus Brinker</author>
+<title>Label ranking by learning pairwise preferences.</title>
+<pages>1897-1916</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>16-17</number>
+<ee>https://doi.org/10.1016/j.artint.2008.08.002</ee>
+<ee>https://www.wikidata.org/entity/Q59195243</ee>
+<url>db/journals/ai/ai172.html#HullermeierFCB08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/ZoharR08" mdate="2017-05-27">
+<author pid="92/4269">Aviv Zohar</author>
+<author pid="r/JeffreySRosenschein">Jeffrey S. Rosenschein</author>
+<title>Mechanisms for information elicitation.</title>
+<pages>1917-1939</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>16-17</number>
+<ee>https://doi.org/10.1016/j.artint.2008.08.005</ee>
+<url>db/journals/ai/ai172.html#ZoharR08</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 172, Number 18, December 2008</h2> 
+<dblpcites><r style="ee"><article key="journals/ai/PerlisW08" mdate="2021-10-14">
+<author pid="p/DPerlis">Don Perlis</author>
+<author orcid="0000-0002-1047-0503" pid="84/6183">Mary-Anne Williams</author>
+<title>Editorial.</title>
+<pages>1943</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1016/j.artint.2008.10.004</ee>
+<url>db/journals/ai/ai172.html#PerlisW08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Boden08" mdate="2017-05-27">
+<author pid="75/6153">Margaret A. Boden</author>
+<title>Odd man out: Reply to reviewers.</title>
+<pages>1944-1964</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1016/j.artint.2008.07.003</ee>
+<url>db/journals/ai/ai172.html#Boden08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Sandewall08" mdate="2017-05-27">
+<author pid="s/ErikSandewall">Erik Sandewall</author>
+<title>A review of the Handbook of Knowledge Representation.</title>
+<pages>1965-1966</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1016/j.artint.2008.10.002</ee>
+<url>db/journals/ai/ai172.html#Sandewall08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/StantonW08" mdate="2022-10-02">
+<author orcid="0000-0001-7814-6120" pid="209/3500">Christopher J. Stanton</author>
+<author orcid="0000-0002-1047-0503" pid="84/6183">Mary-Anne Williams</author>
+<title>, Robotics: State of the Art and Future Challenges , Imperial College Press (2008).</title>
+<pages>1967-1972</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1016/j.artint.2008.10.003</ee>
+<url>db/journals/ai/ai172.html#StantonW08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/GentMN08" mdate="2017-09-16">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Generalised arc consistency for the AllDifferent constraint: An empirical survey.</title>
+<pages>1973-2000</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1016/j.artint.2008.10.006</ee>
+<url>db/journals/ai/ai172.html#GentMN08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/McCarthy08" mdate="2017-05-27">
+<author pid="m/JohnMcCarthy">John McCarthy 0001</author>
+<title>The well-designed child.</title>
+<pages>2003-2014</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1016/j.artint.2008.10.001</ee>
+<url>db/journals/ai/ai172.html#McCarthy08</url>
+</article>
+</r>
+<r style="ee"><article key="journals/ai/Sloman08" mdate="2017-05-27">
+<author pid="23/5327">Aaron Sloman</author>
+<title>The well-designed young mathematician.</title>
+<pages>2015-2034</pages>
+<year>2008</year>
+<volume>172</volume>
+<journal>Artif. Intell.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1016/j.artint.2008.09.004</ee>
+<url>db/journals/ai/ai172.html#Sloman08</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

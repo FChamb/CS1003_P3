@@ -1,0 +1,1351 @@
+<bht key="db/journals/internet/internet2.bht" title="IEEE Internet Computing, Volume 2, 1998">  
+<h1><ref href="db/journals/internet/index.html">IEEE Internet Computing</ref>, Volume 2, 1998</h1> 
+<h2>Volume 2, Number 1, January/February 1998</h2> Mobile Computing 
+<dblpcites><r style="ee"><article key="journals/internet/NixonC98" mdate="2020-03-13">
+<author pid="n/PaddyNixon">Paddy Nixon</author>
+<author pid="c/VCahill">Vinny Cahill</author>
+<title>Mobile Computing: Technologies for a Disconnected Society - Guest Editors' Introduction.</title>
+<pages>19-21</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#NixonC98</url>
+<ee>https://doi.org/10.1109/MIC.1998.656061</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.656061</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Dearle98" mdate="2020-03-13">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Toward Ubiquitous Environments for Mobile Users.</title>
+<pages>22-32</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Dearle98</url>
+<ee>https://doi.org/10.1109/4236.656063</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656063</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/RichardsonSWH98" mdate="2020-03-13">
+<author pid="32/3119">Tristan Richardson</author>
+<author pid="79/3361">Quentin Stafford-Fraser</author>
+<author pid="68/1891">Kenneth R. Wood</author>
+<author pid="h/AndyHopper">Andy Hopper</author>
+<title>Virtual Network Computing.</title>
+<pages>33-38</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#RichardsonSWH98</url>
+<ee>https://doi.org/10.1109/4236.656066</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656066</ee>
+<ee>https://www.wikidata.org/entity/Q55934684</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/HansenRA98" mdate="2021-10-14">
+<author pid="33/4241">J&#248;rgen Hansen</author>
+<author pid="74/5150">Torben Reich</author>
+<author orcid="0000-0003-1402-0355" pid="60/6908">Birger Andersen</author>
+<title>Dynamic Adaptation of Network Connections in Mobile Environments.</title>
+<pages>39-48</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#HansenRA98</url>
+<ee>https://doi.org/10.1109/4236.656070</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656070</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/OMahony98" mdate="2020-03-13">
+<author orcid="0000-0002-2508-9609" pid="73/55">Donal O'Mahony</author>
+<title>UMTS: The Fusion of Fixed and Mobile Networking.</title>
+<pages>49-56</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#OMahony98</url>
+<ee>https://doi.org/10.1109/4236.656074</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656074</ee>
+</article>
+</r>
+</dblpcites>
+Tutorial 
+<dblpcites><r style="ee"><article key="journals/internet/Perkins98" mdate="2020-03-13">
+<author pid="77/1931">Charles E. Perkins</author>
+<title>Mobile Networking Through Mobile IP.</title>
+<pages>58-69</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Perkins98</url>
+<ee>https://doi.org/10.1109/4236.656077</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656077</ee>
+</article>
+</r>
+</dblpcites>
+Industry Report 
+<dblpcites><r style="ee"><article key="journals/internet/Montenegro98" mdate="2020-03-13">
+<author pid="32/2118">Gabriel Montenegro</author>
+<title>MNCRS: Industry Specifications for the Mobile NC.</title>
+<pages>73-77</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Montenegro98</url>
+<ee>https://doi.org/10.1109/4236.656084</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656084</ee>
+</article>
+</r>
+</dblpcites>
+Special Feature 
+<dblpcites><r style="ee"><article key="journals/internet/ReddyF98" mdate="2020-03-13">
+<author pid="03/2084">Mike Reddy</author>
+<author pid="47/6975">Graham P. Fletcher</author>
+<title>An Adaptive Mechanism for Web Browser Cache Management.</title>
+<pages>78-81</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#ReddyF98</url>
+<ee>https://doi.org/10.1109/4236.656085</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656085</ee>
+</article>
+</r>
+</dblpcites>
+Columns 
+<dblpcites><r style="ee"><article key="journals/internet/Petrie98" mdate="2020-03-13">
+<author pid="04/2312">Charles J. Petrie</author>
+<title>Webword: Legislating Software Standards.</title>
+<pages>4-5</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Petrie98</url>
+<ee>https://doi.org/10.1109/4236.656048</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656048</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Clark98" mdate="2020-03-13">
+<author pid="40/4629">David Clark</author>
+<title>On the Wire: Powerline Communications: Finally Ready for Prime Time?</title>
+<pages>10-11</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Clark98</url>
+<ee>https://doi.org/10.1109/4236.656049</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656049</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/FilmanP98" mdate="2020-03-13">
+<author pid="f/RobertEFilman">Robert E. Filman</author>
+<author pid="p/FPenaMora">Feniosky Pe&#241;a-Mora</author>
+<title>The Arachnoid Tourist: Stuck in the Mud.</title>
+<pages>70-72</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#FilmanP98</url>
+<ee>https://doi.org/10.1109/4236.656081</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656081</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Lewis98" mdate="2020-03-13">
+<author pid="06/346">Ted G. Lewis</author>
+<title>Wired Wired World: Who Owns the Internet?</title>
+<pages>82-84</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Lewis98</url>
+<ee>https://doi.org/10.1109/4236.656087</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656087</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Thomas98" mdate="2020-03-13">
+<author pid="58/4935">Brian Thomas</author>
+<title>Digital Toolbox: Warning: Graphical Content.</title>
+<pages>85-86</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Thomas98</url>
+<ee>https://doi.org/10.1109/4236.656089</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656089</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Benda98" mdate="2020-03-13">
+<author pid="58/6871">Miroslav Benda</author>
+<title>Architecture Perspective: Shaping the Internet: The Dynamics.</title>
+<pages>87-90</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Benda98</url>
+<ee>https://doi.org/10.1109/4236.656090</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656090</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Adida98" mdate="2020-03-13">
+<author pid="a/BenAdida">Ben Adida</author>
+<title>Weaving the Web: Handling the Load.</title>
+<pages>91-93</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Adida98</url>
+<ee>https://doi.org/10.1109/4236.656098</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656098</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/HuhnsS98" mdate="2020-03-13">
+<author pid="h/MichaelNHuhns">Michael N. Huhns</author>
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<title>Agents on the Web: Anthropoid Agents.</title>
+<pages>94-95</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#HuhnsS98</url>
+<ee>https://doi.org/10.1109/4236.656099</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.656099</ee>
+<ee>https://www.wikidata.org/entity/Q59764697</ee>
+</article>
+</r>
+</dblpcites>
+IC Online Exclusive 
+<dblpcites><r style="ee"><article key="journals/internet/Cailliau98" mdate="2020-03-13">
+<author pid="c/RobertCailliau">Robert Cailliau</author>
+<title>As If It Never Happend - Interview.</title>
+<pages>96</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>1</number>
+<url>db/journals/internet/internet2.html#Cailliau98</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10002</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 2, Number 2, March/April 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/internet/Kiniry98" mdate="2020-03-13">
+<author pid="k/JosephKiniry">Joseph Kiniry</author>
+<title>Wavelength Division Multiplexing: Ultra High Speed Fiber Optics.</title>
+<pages>13-15</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Kiniry98</url>
+<ee>https://doi.org/10.1109/4236.670678</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670678</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Connolly98" mdate="2020-03-13">
+<author orcid="0000-0002-0928-7103" pid="33/2532">Dan Connolly</author>
+<title>On the Architecture of the Web: Let a Thousand Flowers Bloom (Interview).</title>
+<pages>22-31</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Connolly98</url>
+<ee>https://doi.org/10.1109/MIC.1998.670679</ee>
+</article>
+</r>
+</dblpcites>
+Internet Architecture 
+<dblpcites><r style="ee"><article key="journals/internet/Benda98a" mdate="2020-03-13">
+<author pid="58/6871">Miroslav Benda</author>
+<title>Internate Architecture: Its Evolution from an Industry Perspective - Guest Editor's Introduction.</title>
+<pages>32-35</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Benda98a</url>
+<ee>https://doi.org/10.1109/MIC.1998.670680</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.670680</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Dreyfus98" mdate="2020-03-13">
+<author pid="98/6435">Paul Dreyfus</author>
+<title>The Second Wave: Netscape on Usability in the Services-Based Internet.</title>
+<pages>36-40</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Dreyfus98</url>
+<ee>https://doi.org/10.1109/4236.670681</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670681</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/VothKF98" mdate="2020-03-13">
+<author pid="16/5083">Gary R. Voth</author>
+<author pid="87/2408">Charles Kindel</author>
+<author pid="87/3406">Jon Fujioka</author>
+<title>Distributed Application Development for Three-Tier Architectures: Microsoft on Windows DNA.</title>
+<pages>41-45</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#VothKF98</url>
+<ee>https://doi.org/10.1109/4236.670682</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670682</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/McFall98" mdate="2020-03-13">
+<author pid="24/6814">Cynthia McFall</author>
+<title>An Object Infrastructure for Internet Middleware: IBM on Component Broker.</title>
+<pages>46-51</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#McFall98</url>
+<ee>https://doi.org/10.1109/4236.670683</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670683</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Rosenberg98" mdate="2020-03-13">
+<author pid="35/3615">Dave Rosenberg</author>
+<title>Bringing Java to the Enterprise: Oracle on Its Java Server Strategy.</title>
+<pages>52-59</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Rosenberg98</url>
+<ee>https://doi.org/10.1109/4236.670684</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670684</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/GuptaFWV98" mdate="2020-03-13">
+<author pid="08/4347">Abhay Gupta</author>
+<author pid="25/410">Chris Ferris</author>
+<author pid="47/1559">Yvonne Wilson</author>
+<author pid="91/725">Katni Venkatasubramanian</author>
+<title>Implementing Java Computing: Sun on Architecture and Applications Development.</title>
+<pages>60-64</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#GuptaFWV98</url>
+<ee>https://doi.org/10.1109/4236.670685</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670685</ee>
+</article>
+</r>
+</dblpcites>
+Research Features 
+<dblpcites><r style="ee"><article key="journals/internet/HoodJ98" mdate="2020-03-13">
+<author pid="50/5891">Cynthia S. Hood</author>
+<author pid="23/165">Chuanyi Ji</author>
+<title>Intelligent Agents for Proactive Fault Detection.</title>
+<pages>65-72</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#HoodJ98</url>
+<ee>https://doi.org/10.1109/4236.670686</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670686</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/HsuS98" mdate="2020-03-13">
+<author pid="31/146">Yung-Kao Hsu</author>
+<author pid="78/787">Stephen P. Seymour</author>
+<title>An Intranet Security Framework Based on Short-Lived Certificates.</title>
+<pages>73-79</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#HsuS98</url>
+<ee>https://doi.org/10.1109/4236.670687</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670687</ee>
+</article>
+</r>
+</dblpcites>
+Columns 
+<dblpcites><r style="ee"><article key="journals/internet/Petrie98a" mdate="2020-03-13">
+<author pid="04/2312">Charles J. Petrie</author>
+<title>Webword: Putting Mom on E-Mail.</title>
+<pages>4-5</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Petrie98a</url>
+<ee>https://doi.org/10.1109/MIC.1998.670674</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.670674</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Khare98" mdate="2020-03-13">
+<author pid="k/RohitKhare">Rohit Khare</author>
+<title>Seventh Heaven: The Transfer Protocols.</title>
+<pages>80-82</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Khare98</url>
+<ee>https://doi.org/10.1109/4236.670688</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670688</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Ben-ShaulK98" mdate="2020-03-13">
+<author pid="15/1654">Israel Ben-Shaul</author>
+<author pid="k/GailEKaiser">Gail E. Kaiser</author>
+<title>Collaborative Work: Coordinating Distributed Components over the Internet.</title>
+<pages>83-86</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Ben-ShaulK98</url>
+<ee>https://doi.org/10.1109/4236.670689</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670689</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Thomas98a" mdate="2020-03-13">
+<author pid="58/4935">Brian Thomas</author>
+<title>Digital Toolbox: Palette's Plunder.</title>
+<pages>87-89</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Thomas98a</url>
+<ee>https://doi.org/10.1109/4236.670691</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670691</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/HuhnsS98a" mdate="2020-03-13">
+<author pid="h/MichaelNHuhns">Michael N. Huhns</author>
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<title>Agents on the Web: Agent Jurisprudence.</title>
+<pages>90-91</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#HuhnsS98a</url>
+<ee>https://doi.org/10.1109/4236.670692</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.670692</ee>
+<ee>https://www.wikidata.org/entity/Q59764683</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Lewis98a" mdate="2020-03-13">
+<author pid="06/346">Ted G. Lewis</author>
+<title>Wired Wired World: A Rose by Any Other (Domain) Name.</title>
+<pages>92-93</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#Lewis98a</url>
+<ee>https://doi.org/10.1109/MIC.1998.670693</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.670693</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/FilmanP98a" mdate="2020-03-13">
+<author pid="f/RobertEFilman">Robert E. Filman</author>
+<author pid="p/FPenaMora">Feniosky Pe&#241;a-Mora</author>
+<title>Arachnoid Tourist: Spider on the Go.</title>
+<pages>94-95</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>2</number>
+<url>db/journals/internet/internet2.html#FilmanP98a</url>
+<ee>https://doi.org/10.1109/MIC.1998.670694</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.670694</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 2, Number 3, May/June 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/internet/KiniryM98" mdate="2020-03-13">
+<author pid="k/JosephKiniry">Joseph Kiniry</author>
+<author pid="18/1407">Christopher Metz</author>
+<title>Cable Modems: Cable TV Delivers the Internet.</title>
+<pages>12-15</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#KiniryM98</url>
+<ee>https://doi.org/10.1109/4236.683789</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.683789</ee>
+</article>
+</r>
+</dblpcites>
+Embedded Systems and the Web 
+<dblpcites><r style="ee"><article key="journals/internet/Lee98" mdate="2020-03-13">
+<author pid="91/5023">Burton H. Lee</author>
+<title>Embedded Internet Systems: Poised for Takeoff - Guest Editor's Introduction.</title>
+<pages>24-29</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#Lee98</url>
+<ee>https://doi.org/10.1109/MIC.1998.683796</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.683796</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Mulchandani98" mdate="2020-03-13">
+<author pid="16/622">Deekap Mulchandani</author>
+<title>Java for Embedded Systems.</title>
+<pages>30-39</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#Mulchandani98</url>
+<ee>https://doi.org/10.1109/4236.683797</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.683797</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Agranat98" mdate="2020-03-13">
+<author pid="68/3675">Ian Douglas Agranat</author>
+<title>Engineering Web Technologies for Embedded Applications.</title>
+<pages>40-45</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#Agranat98</url>
+<ee>https://doi.org/10.1109/4236.683798</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.683798</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/ItschnerPR98" mdate="2020-03-13">
+<author pid="46/2618">Robert Itschner</author>
+<author pid="10/6299">Claude Pommerell</author>
+<author pid="59/6065">Martin Rutishauser</author>
+<title>GLASS: Remote Monitoring of Embedded Systems in Power Engineering.</title>
+<pages>46-52</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#ItschnerPR98</url>
+<ee>https://doi.org/10.1109/4236.683799</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.683799</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/McDowellMABM98" mdate="2020-03-13">
+<author pid="m/CharlesMMcDowell">Charles E. McDowell</author>
+<author pid="13/661">Bruce R. Montague</author>
+<author pid="69/1063">Michael R. Allen</author>
+<author pid="52/264">Elizabeth A. Baldwin</author>
+<author pid="25/6371">Marcello E. Montoreano</author>
+<title>JavaCam: Trimming Java Down to Size.</title>
+<pages>53-59</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#McDowellMABM98</url>
+<ee>https://doi.org/10.1109/4236.683800</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.683800</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/AbrardoC98" mdate="2020-03-13">
+<author pid="65/2893">Andrea Abrardo</author>
+<author pid="22/6761">A. L. Casini</author>
+<title>Embedded Java in a Web-Based Teleradiology System.</title>
+<pages>60-68</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#AbrardoC98</url>
+<ee>https://doi.org/10.1109/4236.683801</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.683801</ee>
+</article>
+</r>
+</dblpcites>
+Research Feature 
+<dblpcites><r style="ee"><article key="journals/internet/JoshiRH98" mdate="2020-10-26">
+<author orcid="0000-0002-8641-3193" pid="j/AnupamJoshi">Anupam Joshi</author>
+<author pid="r/NarenRamakrishnan">Naren Ramakrishnan</author>
+<author pid="55/5634">Elias N. Houstis</author>
+<title>Multiagent System Support of Networked Scientific Computing.</title>
+<pages>69-83</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#JoshiRH98</url>
+<ee>https://doi.org/10.1109/MIC.1998.683802</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.683802</ee>
+</article>
+</r>
+</dblpcites>
+Columns 
+<dblpcites><r style="ee"><article key="journals/internet/Petrie98b" mdate="2020-03-13">
+<author pid="04/2312">Charles J. Petrie</author>
+<title>Webword: The XML Files.</title>
+<pages>4-6</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#Petrie98b</url>
+<ee>https://doi.org/10.1109/MIC.1998.683785</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.683785</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/FilmanP98b" mdate="2020-03-13">
+<author pid="f/RobertEFilman">Robert E. Filman</author>
+<author pid="p/FPenaMora">Feniosky Pe&#241;a-Mora</author>
+<title>Arachnoid Tourist: Web of Frail Delight.</title>
+<pages>84-86</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#FilmanP98b</url>
+<ee>https://doi.org/10.1109/MIC.1998.683803</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.683803</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Khare98a" mdate="2020-03-13">
+<author pid="k/RohitKhare">Rohit Khare</author>
+<title>Seventh Heaven: Telnet: The Mother of All (Application) Protocols.</title>
+<pages>88-91</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#Khare98a</url>
+<ee>https://doi.org/10.1109/4236.683804</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.683804</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Thomas98b" mdate="2020-03-13">
+<author pid="58/4935">Brian Thomas</author>
+<title>Digital Toolbox: URL Diving.</title>
+<pages>92-93</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#Thomas98b</url>
+<ee>https://doi.org/10.1109/4236.683805</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.683805</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/HuhnsS98b" mdate="2020-03-13">
+<author pid="h/MichaelNHuhns">Michael N. Huhns</author>
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<title>Agents on the Web: All Agents are Not Created Equal.</title>
+<pages>94-96</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#HuhnsS98b</url>
+<ee>https://doi.org/10.1109/4236.683806</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.683806</ee>
+<ee>https://www.wikidata.org/entity/Q59764690</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Darken98" mdate="2020-03-13">
+<author pid="95/6331">Rudy Darken</author>
+<title>Wired Wired World: Breaking the Mosaic Mold.</title>
+<pages>97-99</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#Darken98</url>
+<ee>https://doi.org/10.1109/MIC.1998.683807</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.683807</ee>
+</article>
+</r>
+</dblpcites>
+IC Online 
+<dblpcites><r style="ee"><article key="journals/internet/Witchey98" mdate="2020-03-13">
+<author pid="15/2280">Nick Witchey</author>
+<title>An Easy-to-Do Embedded Web Server.</title>
+<pages>100</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>3</number>
+<url>db/journals/internet/internet2.html#Witchey98</url>
+<ee>https://doi.org/10.1109/MIC.1998.683808</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.683808</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 2, Number 4, July/August 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/internet/Metz98" mdate="2020-03-13">
+<author pid="18/1407">Christopher Metz</author>
+<title>Reliable Multicast: When Many Must Absolutely Positively Receive It.</title>
+<pages>9-13</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#Metz98</url>
+<ee>https://doi.org/10.1109/4236.707685</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707685</ee>
+</article>
+</r>
+</dblpcites>
+Internet Search Technologies 
+<dblpcites><r style="ee"><article key="journals/internet/FilmanP98c" mdate="2020-03-13">
+<author pid="f/RobertEFilman">Robert E. Filman</author>
+<author pid="69/1892">Sangam Pant</author>
+<title>Searching the Internet - Guest Editors' Introduction.</title>
+<pages>21-23</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#FilmanP98c</url>
+<ee>https://doi.org/10.1109/MIC.1998.707686</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.707686</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Li98" mdate="2020-03-13">
+<author pid="29/240">Yanhong Li</author>
+<title>Toward A Qualitative Search Engine.</title>
+<pages>24-29</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#Li98</url>
+<ee>https://doi.org/10.1109/4236.707687</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707687</ee>
+<ee>https://www.wikidata.org/entity/Q30054481</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Lassila98" mdate="2020-03-13">
+<author pid="12/2319">Ora Lassila</author>
+<title>Web Metadata: A Matter of Semantics.</title>
+<pages>30-37</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#Lassila98</url>
+<ee>https://doi.org/10.1109/4236.707688</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707688</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/LawrenceG98" mdate="2020-10-26">
+<author pid="96/6643">Steve Lawrence</author>
+<author orcid="0000-0002-1931-585X" pid="g/CLeeGiles">C. Lee Giles</author>
+<title>Context and Page Analysis for Improved Web Search.</title>
+<pages>38-46</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#LawrenceG98</url>
+<ee>https://doi.org/10.1109/4236.707689</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707689</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/VollrathWB98" mdate="2020-03-13">
+<author pid="22/6543">Ivo Vollrath</author>
+<author pid="21/1505">Wolfgang Wilke</author>
+<author pid="b/RalphBergmann">Ralph Bergmann</author>
+<title>Case-Based Reasoning Support for Online Catalog Sales.</title>
+<pages>47-54</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#VollrathWB98</url>
+<ee>https://doi.org/10.1109/4236.707690</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707690</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/RajaramanN98" mdate="2020-03-13">
+<author pid="r/ARajaraman">Anand Rajaraman</author>
+<author pid="n/PeterNorvig">Peter Norvig</author>
+<title>Virtual database technology: Transforming the Internet into a Database.</title>
+<pages>55-58</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#RajaramanN98</url>
+<ee>https://doi.org/10.1109/4236.707691</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707691</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/BenitezBC98" mdate="2020-03-13">
+<author pid="33/262">Ana B. Benitez</author>
+<author pid="46/859">Mandis Beigi</author>
+<author pid="c/ShihFuChang">Shih-Fu Chang</author>
+<title>Using Relevance Feedback in Content-Based Image Metasearch.</title>
+<pages>59-69</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#BenitezBC98</url>
+<ee>https://doi.org/10.1109/4236.707692</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707692</ee>
+</article>
+</r>
+</dblpcites>
+Research Feature 
+<dblpcites><r style="ee"><article key="journals/internet/PuliafitoTVT98" mdate="2020-03-13">
+<author pid="15/7009">Antonio Puliafito</author>
+<author orcid="0000-0003-4653-0480" pid="43/5379">Orazio Tomarchio</author>
+<author pid="22/4107">Lorenzo Vita</author>
+<author pid="t/KishorSTrivedi">Kishor S. Trivedi</author>
+<title>Increasing Application Accessibility through Java.</title>
+<pages>70-77</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#PuliafitoTVT98</url>
+<ee>https://doi.org/10.1109/4236.707808</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707808</ee>
+</article>
+</r>
+</dblpcites>
+Columns 
+<dblpcites><r style="ee"><article key="journals/internet/Petrie98c" mdate="2020-03-13">
+<author pid="04/2312">Charles J. Petrie</author>
+<title>Webword: Simple Wins.</title>
+<pages>4-5</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#Petrie98c</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10014</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/FilmanP98d" mdate="2020-03-13">
+<author pid="f/RobertEFilman">Robert E. Filman</author>
+<author pid="p/FPenaMora">Feniosky Pe&#241;a-Mora</author>
+<title>Arachnoid Tourist: Seek, and ye shall find.</title>
+<pages>78-83</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#FilmanP98d</url>
+<ee>https://doi.org/10.1109/4236.707809</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707809</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/KosoresowK98" mdate="2020-03-13">
+<author pid="56/6198">Andrew P. Kosoresow</author>
+<author pid="k/GailEKaiser">Gail E. Kaiser</author>
+<title>Collaborative Work: Using Agents to Enable Collaborative Work.</title>
+<pages>85-87</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#KosoresowK98</url>
+<ee>https://doi.org/10.1109/4236.707810</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707810</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Khare98b" mdate="2020-03-13">
+<author pid="k/RohitKhare">Rohit Khare</author>
+<title>Seventh Heaven: I Want My FTP: Bits on Demand.</title>
+<pages>88-91</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#Khare98b</url>
+<ee>https://doi.org/10.1109/4236.707811</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707811</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Thomas98c" mdate="2020-03-13">
+<author pid="58/4935">Brian Thomas</author>
+<title>Digital Toolbox: Rank and File.</title>
+<pages>92-93</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#Thomas98c</url>
+<ee>https://doi.org/10.1109/4236.707812</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707812</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/HuhnsS98c" mdate="2020-03-13">
+<author pid="h/MichaelNHuhns">Michael N. Huhns</author>
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<title>Workflow Agents.</title>
+<pages>94-96</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#HuhnsS98c</url>
+<ee>https://doi.org/10.1109/4236.707813</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.707813</ee>
+<ee>https://www.wikidata.org/entity/Q59764716</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/LewisV98" mdate="2020-03-13">
+<author pid="18/4964">Ted Lewis</author>
+<author pid="07/1483">Dennis M. Volpano</author>
+<title>Wired Wired World: Wired and Wired-Er.</title>
+<pages>97-99</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<url>db/journals/internet/internet2.html#LewisV98</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10013</ee>
+</article>
+</r>
+</dblpcites>
+<a href="http://computer.org/internet/v2n3/xml-tool.htm">IC Online</a> 
+<h2>Volume 2, Number 5, September/October 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/internet/Metz98a" mdate="2020-03-13">
+<author pid="18/1407">Christopher Metz</author>
+<title>Ingredients for Better Routing? Read the Label.</title>
+<pages>10-15</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#Metz98a</url>
+<ee>https://doi.org/10.1109/4236.722225</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722225</ee>
+</article>
+</r>
+</dblpcites>
+Software Engineering Over the Internet 
+<dblpcites><r style="ee"><article key="journals/internet/MaurerK98" mdate="2020-03-13">
+<author orcid="0000-0002-0240-715X" pid="m/FrankMaurer">Frank Maurer</author>
+<author pid="k/GailEKaiser">Gail E. Kaiser</author>
+<title>Software Engineering in the Internet Age - Guest Editors' Introduction.</title>
+<pages>22-24</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#MaurerK98</url>
+<ee>https://doi.org/10.1109/MIC.1998.722226</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.722226</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/CallahanKH98" mdate="2020-03-13">
+<author pid="82/5709">John R. Callahan</author>
+<author pid="57/6006">Reshma R. Khatsuriya</author>
+<author pid="46/2051">Randy Hefner</author>
+<title>Web-Based Issue Tracking for Large Software-Projects.</title>
+<pages>25-33</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#CallahanKH98</url>
+<ee>https://doi.org/10.1109/4236.722227</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722227</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/WhiteheadW98" mdate="2020-03-13">
+<author pid="w/EJWhiteheadJr">E. James Whitehead Jr.</author>
+<author pid="36/388">Meredith Wiggins</author>
+<title>WEBDAV: IETF Standard for Collaborative Authoring on the Web.</title>
+<pages>34-40</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#WhiteheadW98</url>
+<ee>https://doi.org/10.1109/4236.722228</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722228</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/CeriFGP98" mdate="2020-03-13">
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="f/PieroFraternali">Piero Fraternali</author>
+<author pid="82/394">Stefano Gevinti</author>
+<author orcid="0000-0003-0399-1738" pid="05/600">Stefano Paraboschi</author>
+<title>Building a Database Design Laboratory on the Internet.</title>
+<pages>41-48</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#CeriFGP98</url>
+<ee>https://doi.org/10.1109/4236.722229</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722229</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Lawrence98" mdate="2020-03-13">
+<author pid="08/1472">David C. Lawrence</author>
+<title>Internetnews Server: Inside An Open-Source Project.</title>
+<pages>49-52</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#Lawrence98</url>
+<ee>https://doi.org/10.1109/4236.722230</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722230</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/GrundyAHM98" mdate="2020-03-13">
+<author orcid="0000-0003-4928-7076" pid="g/JohnCGrundy">John C. Grundy</author>
+<author pid="31/3652">Mark D. Apperley</author>
+<author orcid="0000-0002-4776-3828" pid="h/JohnGHosking">John G. Hosking</author>
+<author pid="44/2715">Warwick B. Mugridge</author>
+<title>A Decentralized Architecture for Software Process Modeling and Enactment.</title>
+<pages>53-62</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#GrundyAHM98</url>
+<ee>https://doi.org/10.1109/4236.722231</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722231</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/TesorieroZ98" mdate="2020-03-13">
+<author pid="t/RoseanneTesorieroTvedt">Roseanne Tesoriero</author>
+<author pid="z/MarvinVZelkowitz">Marvin V. Zelkowitz</author>
+<title>A Web-Based Tool for Data Analysis and Presentation.</title>
+<pages>63-69</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#TesorieroZ98</url>
+<ee>https://doi.org/10.1109/4236.722232</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722232</ee>
+</article>
+</r>
+</dblpcites>
+Research Feature 
+<dblpcites><r style="ee"><article key="journals/internet/HuangFC98" mdate="2020-03-13">
+<author pid="h/JiungYaoHuang">Jiung-Yao Huang</author>
+<author pid="76/138">Chao-Tsong Fang-Tsou</author>
+<author pid="48/5671">Jia-Lin Chang</author>
+<title>A Multiuser 3D Web Browsing System.</title>
+<pages>70-79</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#HuangFC98</url>
+<ee>https://doi.org/10.1109/4236.722233</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722233</ee>
+</article>
+</r>
+</dblpcites>
+Columns 
+<dblpcites><r style="ee"><article key="journals/internet/Petrie98d" mdate="2020-03-13">
+<author pid="04/2312">Charles J. Petrie</author>
+<title>Webword: The Internet as an Alien Invasion.</title>
+<pages>4-5</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#Petrie98d</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10023</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Filman98" mdate="2020-03-13">
+<author pid="f/RobertEFilman">Robert E. Filman</author>
+<title>Arachnoid Tourist: Still Not Bleeding.</title>
+<pages>80-81</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#Filman98</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10022</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Khare98c" mdate="2020-03-13">
+<author pid="k/RohitKhare">Rohit Khare</author>
+<title>Seventh Heaven: The Spec's in the Mail.</title>
+<pages>82-86</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#Khare98c</url>
+<ee>https://doi.org/10.1109/4236.722234</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722234</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Thomas98d" mdate="2020-03-13">
+<author pid="58/4935">Brian Thomas</author>
+<title>Digital Toolbox: Turning Tables.</title>
+<pages>87-89</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#Thomas98d</url>
+<ee>https://doi.org/10.1109/4236.722235</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722235</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/HuhnsS98d" mdate="2020-03-13">
+<author pid="h/MichaelNHuhns">Michael N. Huhns</author>
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<title>Agents on the Web: Personal Assistants.</title>
+<pages>90-92</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#HuhnsS98d</url>
+<ee>https://doi.org/10.1109/4236.722236</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722236</ee>
+<ee>https://www.wikidata.org/entity/Q59764709</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Lewis98b" mdate="2020-03-13">
+<author pid="06/346">Ted G. Lewis</author>
+<title>Wired Wired World: The New Economics of Information.</title>
+<pages>93-94</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<url>db/journals/internet/internet2.html#Lewis98b</url>
+<ee>https://doi.org/10.1109/4236.722237</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.722237</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 2, Number 6, November/December 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/internet/Metz98b" mdate="2020-03-13">
+<author pid="18/1407">Christopher Metz</author>
+<title>IP Routers: New Tool for Gigabit Networking.</title>
+<pages>14-19</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#Metz98b</url>
+<ee>https://doi.org/10.1109/4236.735981</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.735981</ee>
+</article>
+</r>
+</dblpcites>
+Security and Mobile Code 
+<dblpcites><r style="ee"><article key="journals/internet/McGrawF98" mdate="2020-03-13">
+<author pid="00/5145">Gary McGraw</author>
+<author pid="f/EdwardWFelten">Edward W. Felten</author>
+<title>Mobile Code and Security - Guest Editors' Introduction.</title>
+<pages>26-29</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#McGrawF98</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10034</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/RubinG98" mdate="2020-03-13">
+<author pid="r/ADRubin">Aviel D. Rubin</author>
+<author pid="83/744">Daniel E. Geer Jr.</author>
+<title>Mobile Code Security.</title>
+<pages>30-34</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#RubinG98</url>
+<ee>https://doi.org/10.1109/4236.735984</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.735984</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/HashiiLPS98" mdate="2020-03-13">
+<author pid="11/2174">Brant Hashii</author>
+<author pid="76/6680">Manoj Lal</author>
+<author pid="26/1479">Raju Pandey</author>
+<author pid="69/2466">Steven Samorodin</author>
+<title>Securing Systems Against External Programs.</title>
+<pages>35-45</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#HashiiLPS98</url>
+<ee>https://doi.org/10.1109/4236.735985</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.735985</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/AnupamM98" mdate="2020-03-13">
+<author pid="90/1955">Vinod Anupam</author>
+<author pid="41/72">Alain J. Mayer</author>
+<title>Secure Web Scripting.</title>
+<pages>46-55</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#AnupamM98</url>
+<ee>https://doi.org/10.1109/4236.735986</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.735986</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Gong98" mdate="2020-03-13">
+<author pid="46/6786">Li Gong</author>
+<title>Secure Java Class Loading.</title>
+<pages>56-61</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#Gong98</url>
+<ee>https://doi.org/10.1109/4236.735987</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.735987</ee>
+</article>
+</r>
+</dblpcites>
+Feature
+<dblpcites><r style="ee"><article key="journals/internet/SeacordHW98" mdate="2020-03-13">
+<author pid="86/10988">Robert C. Seacord</author>
+<author pid="h/ScottAHissam">Scott A. Hissam</author>
+<author pid="96/2207">Kurt C. Wallnau</author>
+<title>AGORA: A Search Engine for Software Components.</title>
+<pages>62-70</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#SeacordHW98</url>
+<ee>https://doi.org/10.1109/4236.735988</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.735988</ee>
+</article>
+</r>
+</dblpcites>
+Columns
+<dblpcites><r style="ee"><article key="journals/internet/Petrie98e" mdate="2020-03-13">
+<author pid="04/2312">Charles J. Petrie</author>
+<title>Webword: A Brief History.</title>
+<pages>6-7</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#Petrie98e</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10032</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Filman98a" mdate="2020-03-13">
+<author pid="f/RobertEFilman">Robert E. Filman</author>
+<title>Arachnoid Tourist: Safety in Numbers.</title>
+<pages>72-73</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#Filman98a</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10030</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Khare98d" mdate="2020-03-13">
+<author pid="k/RohitKhare">Rohit Khare</author>
+<title>Seventh Heaven: Reflections on the Wizard of TPs...and Other Network News.</title>
+<pages>74-78</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#Khare98d</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10024</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/PortK98" mdate="2020-03-13">
+<author pid="p/DanielPort">Daniel Port</author>
+<author pid="k/GailEKaiser">Gail E. Kaiser</author>
+<title>Collaborative Work: Collaborative Technologies for Evolving Software Systems.</title>
+<pages>79-83</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#PortK98</url>
+<ee>https://doi.org/10.1109/4236.735990</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.735990</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Thomas98e" mdate="2020-03-13">
+<author pid="58/4935">Brian Thomas</author>
+<title>Digital Toolbox: Burnt Offerings.</title>
+<pages>84-86</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#Thomas98e</url>
+<ee>https://doi.org/10.1109/4236.735991</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.735991</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/HuhnsS98e" mdate="2020-03-13">
+<author pid="h/MichaelNHuhns">Michael N. Huhns</author>
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<title>Agents on the Web: Cognitive Agents.</title>
+<pages>87-89</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#HuhnsS98e</url>
+<ee>https://doi.org/10.1109/4236.735992</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/4236.735992</ee>
+<ee>https://www.wikidata.org/entity/Q59764704</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/internet/Lewis98c" mdate="2020-03-13">
+<author pid="06/346">Ted G. Lewis</author>
+<title>Wired Wired World: Supermoles, Skyhawwks, and the Bandwidth Bonanza.</title>
+<pages>90-92</pages>
+<year>1998</year>
+<volume>2</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>6</number>
+<url>db/journals/internet/internet2.html#Lewis98c</url>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.1998.10031</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

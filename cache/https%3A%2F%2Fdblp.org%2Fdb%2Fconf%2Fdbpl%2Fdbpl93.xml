@@ -1,0 +1,878 @@
+<bht key="db/conf/dbpl/dbpl93.bht" title="DBPL-4, 1993: Manhattan, New York City">
+<h1><ref href="db/conf/dbpl/index.html">DBPL</ref>-4, 1993: Manhattan, New York City</h1>
+
+<dblpcites><r><proceedings key="conf/dbpl/93" mdate="2016-08-11">
+<editor pid="b/CBeeri">Catriel Beeri</editor>
+<editor pid="o/AtsushiOhori">Atsushi Ohori</editor>
+<editor pid="s/DennisShasha">Dennis E. Shasha</editor>
+<title>Database Programming Languages (DBPL-4), Proceedings of the Fourth International Workshop on Database Programming Languages - Object Models and Languages, Manhattan, New York City, USA, 30 August - 1 September 1993</title>
+<series href="db/series/wic/index.html">Workshops in Computing</series>
+<publisher>Springer</publisher>
+<year>1994</year>
+<isbn>3-540-19853-9</isbn>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Invited Talk</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/dbpl/Andrews93" mdate="2012-09-18">
+<author pid="37/6556">Tim Andrews</author>
+<title>Designing Linguistic Interfaces to an Object Database or What do C++, SQL, and Hell have in Common?</title>
+<pages>3-8</pages>
+<cdrom>DBPL1993/P003.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#Andrews93</url>
+<crossref>conf/dbpl/93</crossref>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Regular Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/dbpl/CardelliMA93" mdate="2012-09-18">
+<author pid="c/LucaCardelli">Luca Cardelli</author>
+<author pid="m/FlorianMatthes">Florian Matthes</author>
+<author pid="a/MartinAbadi">Mart&#237;n Abadi</author>
+<title>Extensible Grammars for Language Specialization.</title>
+<pages>11-31</pages>
+<cdrom>DBPL1993/P011.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#CardelliMA93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite label="ASU87">books/aw/AhoSU86</cite>
+<cite label="BA92">conf/lfp/BoveA92</cite>
+<cite label="BTBN91">conf/dbpl/TannenBN91</cite>
+<cite label="Car93">...</cite>
+<cite label="Gri88">conf/lics/Griffin88</cite>
+<cite label="KFFD92">conf/lfp/KohlbeckerFFD86</cite>
+<cite label="Kir92">...</cite>
+<cite label="Koh86">...</cite>
+<cite label="KR77">books/ph/KernighanR78</cite>
+<cite label="Mat93">...</cite>
+<cite label="MR92">conf/lfp/RauglaudreM92</cite>
+<cite label="MS91">conf/dbpl/MatthesS91</cite>
+<cite label="Naq89">conf/dbpl/Naqvi89</cite>
+<cite label="ORBT89">conf/sigmod/OhoriBT89</cite>
+<cite label="PT93">conf/popl/PierceT93</cite>
+<cite label="SFL83">...</cite>
+<cite label="SMM91">conf/dbpl/StempleMA91</cite>
+<cite label="SQL87">...</cite>
+<cite label="SS91">conf/ewdw/StempleS90</cite>
+<cite label="SSF92">...</cite>
+<cite label="SSS88">conf/oodbs/StempleSS88</cite>
+<cite label="SSS+92">...</cite>
+<cite label="Tri91">conf/dbpl/Trinder91</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/RosenbergH93" mdate="2017-03-29">
+<author pid="17/3411">John Rosenberg</author>
+<author pid="89/6080">Michael Hitchens</author>
+<title>Linguistic Support for Persistent Modules and Capabilities.</title>
+<pages>32-49</pages>
+<cdrom>DBPL1993/P032.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#RosenbergH93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>...</cite>
+<cite>journals/tods/AlbanoCO85</cite>
+<cite>conf/icse/AlsbergD76</cite>
+<cite>journals/cj/AtkinsonBCCM83</cite>
+<cite>journals/tods/BernsteinSR80</cite>
+<cite>conf/pos/ConnorBCDM89</cite>
+<cite>journals/tods/EagerS83</cite>
+<cite>...</cite>
+<cite>journals/cacm/Fabry74</cite>
+<cite>conf/sosp/Gifford79</cite>
+<cite>...</cite>
+<cite>conf/pos/Keedy89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/dbpl/MatthesS89</cite>
+<cite>...</cite>
+<cite>conf/pos/MorrisonBCCDA89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/PuNP86</cite>
+<cite>conf/pos/RichardsonC89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pos/Rosenberg90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/Schmidt77</cite>
+<cite>journals/tods/Thomas79</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/FarkasD93" mdate="2017-03-29">
+<author pid="91/3786">Alex Farkas</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<title>Octopus: A Reflective Language Mechanism for Object Manipulation.</title>
+<pages>50-64</pages>
+<cdrom>DBPL1993/P050.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#FarkasD93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>journals/tods/AlbanoCO85</cite>
+<cite>...</cite>
+<cite>journals/cacm/Bachman73</cite>
+<cite>...</cite>
+<cite>conf/pos/ConnorBCDMR90</cite>
+<cite>...</cite>
+<cite>journals/cj/DearleB88</cite>
+<cite>conf/dbpl/DearleRV91</cite>
+<cite>conf/pos/FarkasDKCMC92</cite>
+<cite>conf/icse/FutatsugiGMO87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pos/KirbyCCMDF92</cite>
+<cite>...</cite>
+<cite>conf/dbpl/MatthesS89</cite>
+<cite>journals/ipl/MorrisonABD90</cite>
+<cite>...</cite>
+<cite>books/ph/Jones87</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/GrumbachMK93" mdate="2012-09-18">
+<author pid="g/SGrumbach">St&#233;phane Grumbach</author>
+<author pid="m/TovaMilo">Tova Milo</author>
+<author pid="20/563">Yoram Kornatzky</author>
+<title>Calculi for Bags and their Complexity.</title>
+<pages>65-79</pages>
+<cdrom>DBPL1993/P065.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#GrumbachMK93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite label="AB87">journals/vldb/AbiteboulB95</cite>
+<cite label="Alb91">conf/vldb/Albert91</cite>
+<cite label="BTS91">conf/icalp/TannenS91</cite>
+<cite label="CDV88">conf/sigmod/CareyDV88</cite>
+<cite label="CV93">conf/pods/ChaudhuriV93</cite>
+<cite label="DGK82">conf/pods/DayalGK82</cite>
+<cite label="Fea87">journals/tois/FishmanBCCCDDHKLMNRS87</cite>
+<cite label="FR74">...</cite>
+<cite label="FR79">...</cite>
+<cite label="GM93">conf/pods/GrumbachM93</cite>
+<cite label="Gur85">...</cite>
+<cite label="GV91a">conf/dbpl/GrumbachV91</cite>
+<cite label="GV91b">conf/pods/GrumbachV91</cite>
+<cite label="HM81">journals/tods/HammerM81</cite>
+<cite label="HS88">conf/pods/HullS88</cite>
+<cite label="HS89">conf/pods/HullS89</cite>
+<cite label="KG85">conf/vldb/KlausnerG85</cite>
+<cite label="LW93">conf/dbpl/LibkinW93</cite>
+<cite label="MD86">conf/oodbs/ManolaD86</cite>
+<cite label="Mum90">conf/vldb/MumickPR90</cite>
+<cite label="Pre29">...</cite>
+<cite label="Rab77">...</cite>
+<cite label="Sko30">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/BeeriT93" mdate="2017-03-29">
+<author pid="b/CBeeri">Catriel Beeri</author>
+<author pid="38/1877">Paula Ta-Shma</author>
+<title>Bulk Data Types, A Theoretical Approach.</title>
+<pages>80-96</pages>
+<cdrom>DBPL1993/P080.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#BeeriT93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>conf/ewdw/AtkinsonRT90</cite>
+<cite>conf/vldb/BancilhonBKV87</cite>
+<cite>conf/dbpl/BancilhonCD89</cite>
+<cite>...</cite>
+<cite>conf/icdt/BeeriK90</cite>
+<cite>conf/pods/BeeriM91</cite>
+<cite>conf/dbpl/TannenBN91</cite>
+<cite>conf/icalp/TannenS91</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/dbpl/HullS89</cite>
+<cite>conf/dbpl/MatthesS91</cite>
+<cite>conf/sigmod/OhoriBT89</cite>
+<cite>...</cite>
+<cite>conf/dbpl/Trinder91</cite>
+<cite>conf/lfp/Wadler90</cite>
+<cite>...</cite>
+<cite>conf/popl/Wadler87</cite>
+<cite>...</cite>
+<cite>books/el/leeuwen90/Wirsing90</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/LibkinW93" mdate="2017-03-29">
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="w/LimsoonWong">Limsoon Wong</author>
+<title>Some Properties of Query Languages for Bags.</title>
+<pages>97-114</pages>
+<cdrom>DBPL1993/P097.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#LibkinW93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>journals/vldb/AbiteboulB95</cite>
+<cite>conf/vldb/Albert91</cite>
+<cite>conf/dbpl/TannenBN91</cite>
+<cite>conf/icalp/TannenS91</cite>
+<cite>conf/icdt/TannenBW92</cite>
+<cite>journals/tcs/BunemanJO91</cite>
+<cite>journals/jcss/ChandraH82</cite>
+<cite>conf/pods/BusscheP91</cite>
+<cite>conf/pods/GrumbachM93</cite>
+<cite>...</cite>
+<cite>journals/jacm/ImielinskiL84</cite>
+<cite>conf/pods/ImmermanPS91</cite>
+<cite>conf/lfp/JategaonkarM88</cite>
+<cite>conf/vldb/KlausnerG85</cite>
+<cite>journals/jacm/Klug82</cite>
+<cite>conf/mfdbs/Libkin91</cite>
+<cite>conf/pods/LibkinW93</cite>
+<cite>...</cite>
+<cite>conf/dbpl/LibkinW93a</cite>
+<cite>journals/iandc/Moggi91</cite>
+<cite>journals/amai/MumickS95</cite>
+<cite>...</cite>
+<cite>conf/sigmod/OhoriBT89</cite>
+<cite>journals/tods/OzsoyogluOM87</cite>
+<cite>journals/tods/ParedaensG92</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/lfp/Wadler90</cite>
+<cite>conf/pods/Wong93</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/SubramanianZLV93" mdate="2017-03-29">
+<author pid="20/436">Bharathi Subramanian</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<author pid="14/1402">Theodore W. Leung</author>
+<author pid="72/5367">Scott L. Vandenberg</author>
+<title>Ordered Types in the AQUA Data Model.</title>
+<pages>115-135</pages>
+<cdrom>DBPL1993/P115.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#SubramanianZLV93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>conf/icdt/BeeriK90</cite>
+<cite>journals/jcss/Doner70</cite>
+<cite>journals/sigmod/FrenchJP90</cite>
+<cite>journals/cacm/Frenkel91</cite>
+<cite>conf/pods/GinsburgW92</cite>
+<cite>journals/tois/GutingZC89</cite>
+<cite>conf/stoc/KarpMR72</cite>
+<cite>journals/cacm/LanderLS91</cite>
+<cite>conf/dbpl/LeungMSVVZ93</cite>
+<cite>conf/vldb/Richardson92</cite>
+<cite>journals/mst/ThatcherW68</cite>
+<cite>conf/sigmod/VandenbergD91</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/LaaschS93" mdate="2017-03-29">
+<author pid="52/3896">Christian Laasch</author>
+<author pid="s/MarcHScholl">Marc H. Scholl</author>
+<title>A Functional Object Language.</title>
+<pages>136-156</pages>
+<cdrom>DBPL1993/P136.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#LaaschS93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>journals/vldb/AbiteboulB95</cite>
+<cite>conf/sigmod/AbiteboulK89</cite>
+<cite>conf/dbpl/BalstersV91</cite>
+<cite>journals/tcs/BalstersF91</cite>
+<cite>conf/vldb/BancilhonBKV87</cite>
+<cite>conf/dood/Beeri89</cite>
+<cite>journals/tods/BunemanO96</cite>
+<cite>journals/csur/CardelliW85</cite>
+<cite>...</cite>
+<cite>books/aw/kimL89/FishmanABCCDHHKLLMNRSW89</cite>
+<cite>journals/csur/HullK87</cite>
+<cite>conf/iski/LaaschS92</cite>
+<cite>conf/icde/LaaschS93</cite>
+<cite>journals/tse/ManninoCB90</cite>
+<cite>...</cite>
+<cite>conf/sigmod/OhoriBT89</cite>
+<cite>conf/sigmod/RichardsonS91</cite>
+<cite>journals/is/SchekS86</cite>
+<cite>conf/dood/SchollLT91</cite>
+<cite>...</cite>
+<cite>conf/icdt/SchollS90</cite>
+<cite>journals/tois/Sciore89</cite>
+<cite>conf/icde/ShawZ90</cite>
+<cite>...</cite>
+<cite>journals/tois/StraubeO90</cite>
+<cite>conf/fpca/Turner85</cite>
+<cite>journals/tkde/WilkinsonLH90</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/LeungMSVVZ93" mdate="2017-03-29">
+<author pid="14/1402">Theodore W. Leung</author>
+<author pid="86/1150">Gail Mitchell</author>
+<author pid="20/436">Bharathi Subramanian</author>
+<author pid="35/6080">Bennet Vance</author>
+<author pid="72/5367">Scott L. Vandenberg</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>The AQUA Data Model and Algebra.</title>
+<pages>157-175</pages>
+<cdrom>DBPL1993/P157.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#LeungMSVVZ93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>conf/sigmod/AbiteboulK89</cite>
+<cite>conf/pods/AbiteboulSV90</cite>
+<cite>conf/dbpl/AlbanoGO91</cite>
+<cite>conf/dbpl/AtkinsonLPR91</cite>
+<cite>journals/tois/BanerjeeCGKWBK87</cite>
+<cite>conf/icdt/BeeriK90</cite>
+<cite>conf/dbpl/TannenBN91</cite>
+<cite>conf/dbpl/BunemanO91</cite>
+<cite>conf/sigmod/CareyDV88</cite>
+<cite>conf/pods/Chandra88</cite>
+<cite>journals/debu/DanielsGKMSV91</cite>
+<cite>conf/btw/DayalMBCGHOR87</cite>
+<cite>books/aw/GoldbergR83</cite>
+<cite>...</cite>
+<cite>conf/vldb/HullY90</cite>
+<cite>conf/icde/90</cite>
+<cite>books/el/leeuwen90/Kanellakis90</cite>
+<cite>conf/dbpl/91</cite>
+<cite>...</cite>
+<cite>conf/oopsla/MaierSOP86</cite>
+<cite>conf/dbpl/MatthesS91</cite>
+<cite>books/ph/Meyer97</cite>
+<cite>...</cite>
+<cite>conf/oodbs/Osborn88</cite>
+<cite>conf/dbpl/RichardsonS91</cite>
+<cite>conf/vldb/RoweS87</cite>
+<cite>conf/dbpl/RozenS91</cite>
+<cite>conf/icde/ShawZ90</cite>
+<cite>journals/tois/StraubeO90</cite>
+<cite>books/aw/Stroustrup91</cite>
+<cite>conf/dbpl/SubramanianZLV93</cite>
+<cite>...</cite>
+<cite>conf/sigmod/VandenbergD91</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/Vance93" mdate="2017-03-29">
+<author pid="35/6080">Bennet Vance</author>
+<title>An Abstract Object-Oriented Query Execution Language.</title>
+<pages>176-199</pages>
+<cdrom>DBPL1993/P176.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#Vance93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>conf/popl/AmadioC91</cite>
+<cite>...</cite>
+<cite>conf/ewdw/AtkinsonRT90</cite>
+<cite>conf/icdt/BeeriK90</cite>
+<cite>...</cite>
+<cite>conf/dbpl/TannenBN91</cite>
+<cite>journals/jfp/Bruce94</cite>
+<cite>conf/popl/Bruce93</cite>
+<cite>journals/tods/BunemanFN82</cite>
+<cite>conf/fpca/CanningCHOM89</cite>
+<cite>conf/dbpl/Cardelli91</cite>
+<cite>conf/tacs/CardelliMMS91</cite>
+<cite>journals/csur/CardelliW85</cite>
+<cite>journals/csur/DanforthT88</cite>
+<cite>...</cite>
+<cite>conf/sigmod/FreytagG86</cite>
+<cite>...</cite>
+<cite>journals/csur/Graefe93</cite>
+<cite>journals/tkde/Graefe94</cite>
+<cite>conf/icde/GraefeM93</cite>
+<cite>journals/csur/JarkeK84</cite>
+<cite>conf/dbpl/91</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/LiskovSAS77</cite>
+<cite>journals/ibmrd/LorieN79</cite>
+<cite>books/mk/freytagMV91/MaierDKVGM91</cite>
+<cite>...</cite>
+<cite>journals/csur/MishraE92</cite>
+<cite>conf/lics/MitchellHF93</cite>
+<cite>journals/toplas/MorrisonDCB91</cite>
+<cite>conf/vldb/ParkerSV92</cite>
+<cite>conf/pldi/Reppy91</cite>
+<cite>conf/ewdw/90</cite>
+<cite>conf/dbpl/ShawZ89</cite>
+<cite>journals/tods/ShuHTGL77</cite>
+<cite>conf/ewdw/StempleS90</cite>
+<cite>...</cite>
+<cite>conf/sigmod/VandenbergD91</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/Fegaras93" mdate="2017-03-29">
+<author pid="f/LeonidasFegaras">Leonidas Fegaras</author>
+<title>Efficient Optimization of Iterative Queries.</title>
+<pages>200-225</pages>
+<cdrom>DBPL1993/P200.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#Fegaras93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>conf/icdt/BeeriK90</cite>
+<cite>conf/stoc/BellantoniC92</cite>
+<cite>conf/dbpl/TannenBN91</cite>
+<cite>conf/lfp/Chin92</cite>
+<cite>conf/popl/ConselD93</cite>
+<cite>journals/acta/DarlingtonB76</cite>
+<cite>...</cite>
+<cite>conf/cade/FegarasSS92</cite>
+<cite>conf/dbpl/FegarasS91</cite>
+<cite>journals/tods/FreytagG89</cite>
+<cite>conf/mpc/Malcolm89</cite>
+<cite>...</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>conf/fpca/SheardF93</cite>
+<cite>journals/tkde/ShenoyO89</cite>
+<cite>conf/esop/Wadler88</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/CluetM93" mdate="2017-03-29">
+<author pid="c/SophieCluet">Sophie Cluet</author>
+<author pid="m/GuidoMoerkotte">Guido Moerkotte</author>
+<title>Nested Queries in Object Bases.</title>
+<pages>226-242</pages>
+<cdrom>DBPL1993/P226.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#CluetM93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>journals/cacm/AstrahanC75</cite>
+<cite>conf/dbpl/BancilhonCD89</cite>
+<cite>conf/edbt/Beech88</cite>
+<cite>conf/icdt/BeeriK90</cite>
+<cite>conf/sigmod/CareyDV88</cite>
+<cite>journals/tse/CeriG85</cite>
+<cite>conf/sigmod/CluetD92</cite>
+<cite>conf/vldb/Dayal87</cite>
+<cite>journals/tkde/Deux90</cite>
+<cite>conf/vldb/LohmanDHKS84</cite>
+<cite>conf/sigmod/GanskiW87</cite>
+<cite>...</cite>
+<cite>conf/edbt/JenqWKL90</cite>
+<cite>conf/vldb/KemperM90</cite>
+<cite>books/mk/freytagMV91/KemperM91</cite>
+<cite>conf/vldb/KemperMP93</cite>
+<cite>...</cite>
+<cite>conf/vldb/Kim89</cite>
+<cite>journals/tods/Kim82</cite>
+<cite>conf/vldb/Muralikrishna89</cite>
+<cite>conf/vldb/Muralikrishna92</cite>
+<cite>conf/sigmod/RosenthalG90</cite>
+<cite>conf/icde/ShawZ90</cite>
+<cite>journals/tois/StraubeO90</cite>
+<cite>conf/sigmod/VandenbergD91</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/BenzakenD93" mdate="2012-09-18">
+<author pid="b/VBenzaken">V&#233;ronique Benzaken</author>
+<author pid="d/AnneDoucet">Anne Doucet</author>
+<title>Th&#233;mis: a database programming language with integrity constraints.</title>
+<pages>243-262</pages>
+<cdrom>DBPL1993/P243.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#BenzakenD93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite label="BDM88">conf/edbt/BryDM88</cite>
+<cite label="BM86">conf/vldb/BryM86</cite>
+<cite label="Car84">...</cite>
+<cite label="GM79">conf/vldb/GardarinM79</cite>
+<cite label="HI85">conf/sigmod/HsuI85</cite>
+<cite label="HMS89">conf/dbpl/89</cite>
+<cite label="KSS87">conf/vldb/KowalskiSS87</cite>
+<cite label="LR89">conf/pods/LecluseR89</cite>
+<cite label="LR90">...</cite>
+<cite label="Mar91">...</cite>
+<cite label="Nic79">journals/acta/Nicolas82</cite>
+<cite label="SS89">journals/tods/SheardS89</cite>
+<cite label="Sto75">conf/sigmod/Stonebraker75</cite>
+<cite label="WSK83">journals/is/WeberSK83</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/Suciu93" mdate="2017-03-29">
+<author pid="s/DanSuciu">Dan Suciu</author>
+<title>Bounded Fixpoints for Complex Objects.</title>
+<pages>263-281</pages>
+<cdrom>DBPL1993/P263.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#Suciu93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>journals/vldb/AbiteboulB95</cite>
+<cite>conf/dbpl/AbiteboulGVW89</cite>
+<cite>conf/sigmod/AbiteboulK89</cite>
+<cite>conf/coco/AbiteboulVV92</cite>
+<cite>conf/lics/AbiteboulV89</cite>
+<cite>conf/birthday/AbiteboulV92</cite>
+<cite>conf/stoc/AbiteboulV91</cite>
+<cite>conf/dbpl/TannenBN91</cite>
+<cite>conf/icdt/TannenBW92</cite>
+<cite>journals/jcss/ChandraH80</cite>
+<cite>journals/jcss/ChandraH82</cite>
+<cite>conf/pods/GrumbachV91</cite>
+<cite>conf/pods/HullS88</cite>
+<cite>conf/pods/HullS89</cite>
+<cite>journals/iandc/Immerman86</cite>
+<cite>conf/dbpl/LibkinW93a</cite>
+<cite>journals/tods/ParedaensG92</cite>
+<cite>...</cite>
+<cite label="19-1">books/cs/Ullman88</cite>
+<cite label="19-2">books/cs/Ullman89</cite>
+<cite label="20">...</cite>
+<cite label="21">conf/stoc/Vardi82</cite>
+<cite label="22">journals/jcss/GuchtF88</cite>
+<cite label="23">conf/pods/Wong93</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/LibkinW93a" mdate="2017-03-29">
+<author pid="l/LeonidLibkin">Leonid Libkin</author>
+<author pid="w/LimsoonWong">Limsoon Wong</author>
+<title>Aggregate Functions, Conservative Extensions, and Linear Orders.</title>
+<pages>282-294</pages>
+<cdrom>DBPL1993/P282.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#LibkinW93a</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>conf/dbpl/TannenBN91</cite>
+<cite>conf/icalp/TannenS91</cite>
+<cite>conf/icdt/TannenBW92</cite>
+<cite>journals/is/Colby90</cite>
+<cite>...</cite>
+<cite>conf/icdt/GrumbachV90</cite>
+<cite>journals/jcss/HullS91</cite>
+<cite>journals/iandc/Immerman86</cite>
+<cite>conf/pods/JaeschkeS82</cite>
+<cite>conf/lfp/JategaonkarM88</cite>
+<cite>conf/vldb/KlausnerG85</cite>
+<cite>journals/jacm/Klug82</cite>
+<cite>...</cite>
+<cite>conf/fodo/KuspertSW89</cite>
+<cite>conf/dbpl/LibkinW93</cite>
+<cite>journals/iandc/Moggi91</cite>
+<cite>conf/sigmod/OhoriBT89</cite>
+<cite>journals/tods/OzsoyogluOM87</cite>
+<cite>journals/tods/ParedaensG92</cite>
+<cite>journals/is/SchekS86</cite>
+<cite>conf/dbpl/Suciu93</cite>
+<cite>journals/acr/ThomasF86</cite>
+<cite>conf/stoc/Vardi82</cite>
+<cite>conf/lfp/Wadler90</cite>
+<cite>...</cite>
+<cite>conf/pods/Wong93</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/DongS93" mdate="2017-03-29">
+<author pid="d/GuozhuDong">Guozhu Dong</author>
+<author pid="s/JWSu">Jianwen Su</author>
+<title>First-Order Incremental Evaluation of Datalog Queries.</title>
+<pages>295-308</pages>
+<cdrom>DBPL1993/P295.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#DongS93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>conf/stoc/AfratiC89</cite>
+<cite>books/mk/minker88/AptBW88</cite>
+<cite>books/aw/AbiteboulHV95</cite>
+<cite>conf/pods/AptP87</cite>
+<cite>conf/popl/AhoU79</cite>
+<cite>conf/db-workshops/Bancilhon85</cite>
+<cite>conf/icdt/TannenBW92</cite>
+<cite>conf/pods/BancilhonMSU86</cite>
+<cite>conf/edbt/BryDM88</cite>
+<cite>conf/soda/BuchsbaumKV90</cite>
+<cite>conf/stoc/ChandraM77</cite>
+<cite>conf/birthday/Dong92</cite>
+<cite>conf/pods/Dong92</cite>
+<cite>...</cite>
+<cite>conf/icdt/DongT92</cite>
+<cite>conf/deductive/GuptaKM92</cite>
+<cite>conf/pods/HillebrandKMV91</cite>
+<cite>journals/ipl/IbarakiK83</cite>
+<cite>journals/tcs/Italiano86</cite>
+<cite>conf/vldb/Ioannidis85</cite>
+<cite>conf/dbpl/JacobsH91</cite>
+<cite>conf/icdt/Jakobsson92</cite>
+<cite>conf/dood/Kuchenhoff91</cite>
+<cite>journals/jlp/LloydS91</cite>
+<cite>journals/jlp/LloydST87</cite>
+<cite>journals/acta/Nicolas82</cite>
+<cite>conf/dbpl/Qian89</cite>
+<cite>journals/jacm/EmdenK76</cite>
+<cite label="29-1">books/cs/Ullman88</cite>
+<cite label="29-2">books/cs/Ullman89</cite>
+<cite label="30">conf/pods/Vardi88</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/BonnerKC93" mdate="2017-03-29">
+<author pid="b/AJBonner">Anthony J. Bonner</author>
+<author pid="k/MichaelKifer">Michael Kifer</author>
+<author pid="c/MPConsens">Mariano P. Consens</author>
+<title>Database Programming in Transaction Logic.</title>
+<pages>309-337</pages>
+<cdrom>DBPL1993/P309.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#BonnerKC93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite>conf/sigmod/AbiteboulB91</cite>
+<cite>conf/pods/AbiteboulV88</cite>
+<cite>conf/vldb/AgrawalCL91</cite>
+<cite>journals/ai/Allen84</cite>
+<cite>journals/sigmod/Bancilhon86</cite>
+<cite>conf/sigmod/BarsalouKSW91</cite>
+<cite>conf/pods/Beeri92</cite>
+<cite>conf/vldb/BeeriM91</cite>
+<cite>journals/tcs/Bonner90</cite>
+<cite>conf/iclp/BonnerK93</cite>
+<cite>...</cite>
+<cite>conf/iclp/BonnerK93</cite>
+<cite>conf/iclp/Bry90</cite>
+<cite>journals/jcss/ChandraH80</cite>
+<cite>journals/jcss/ChandraH82</cite>
+<cite>conf/dood/Chen91</cite>
+<cite>conf/vldb/MaindrevilleS88</cite>
+<cite>conf/vldb/GehaniJ91</cite>
+<cite>...</cite>
+<cite>journals/jcss/HarelKP82</cite>
+<cite>conf/vldb/HullJ91</cite>
+<cite>conf/kr/KatsunoM91</cite>
+<cite>journals/jacm/KiferLW95</cite>
+<cite>conf/jcdkb/KrishnamurthyN88</cite>
+<cite>books/mk/minker88/ManchandraW88</cite>
+<cite>conf/sigmod/McCarthyD89</cite>
+<cite>conf/pods/NaqviK88</cite>
+<cite>conf/sigmod/PhippsDR91</cite>
+<cite>books/mk/minker88/Przymusinski88</cite>
+<cite>conf/pods/SaccaZ90</cite>
+<cite>conf/sigmod/StonebrakerJGP90</cite>
+<cite>journals/sigmod/Widom92</cite>
+<cite>conf/vldb/WidomCL91</cite>
+<cite>conf/sigmod/WidomF90</cite>
+<cite>journals/tods/Winslett88</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/Castagna93" mdate="2012-09-18">
+<author pid="c/GiuseppeCastagna">Giuseppe Castagna</author>
+<title>F<sup>&#38;</sup><sub>&#60;=</sub>: integrating parametric and &#34;ad hoc&#34; second order polymorphism.</title>
+<pages>338-358</pages>
+<cdrom>DBPL1993/P338.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#Castagna93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite label="AGOO88">...</cite>
+<cite label="App92">...</cite>
+<cite label="BDe92">books/mk/BancilhonDK92</cite>
+<cite label="Bru92">...</cite>
+<cite label="BTCGS91">journals/iandc/Breazu-TannenCGS91</cite>
+<cite label="Car88">journals/iandc/Cardelli88</cite>
+<cite label="Car92">...</cite>
+<cite label="Cas93">conf/fsttcs/Castagna93</cite>
+<cite label="CCH+89">conf/fpca/CanningCHOM89</cite>
+<cite label="CG92">journals/mscs/CurienG92</cite>
+<cite label="CGL92">conf/lfp/CastagnaGL92</cite>
+<cite label="CGL93">conf/tlca/CastagnaGL93</cite>
+<cite label="CHC90">conf/popl/CookHC90</cite>
+<cite label="CL91">journals/jfp/CardelliL91</cite>
+<cite label="CMMS91">conf/tacs/CardelliMMS91</cite>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="DG87">conf/ecoop/DeMichielG87</cite>
+<cite label="Ghe90">...</cite>
+<cite label="Ghe91">conf/oopsla/Ghelli91</cite>
+<cite label="GM93">...</cite>
+<cite label="Hin64">...</cite>
+<cite label="Mey88">books/ph/Meyer97</cite>
+<cite label="New42">...</cite>
+<cite label="NeX91">...</cite>
+<cite label="Ont">...</cite>
+<cite label="Pie93">conf/popl/Pierce92</cite>
+<cite label="PT93">journals/jfp/PierceT94</cite>
+<cite label="Ros73">journals/jacm/Rosen73</cite>
+<cite label="Str67">...</cite>
+<cite label="Wan87">conf/lics/Wand87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/SjobergALT93" mdate="2022-05-11">
+<author pid="32/889">Dag I. K. Sj&#248;berg</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="11/4129">Jo&#227;o Lopes</author>
+<author pid="87/4953">Philip W. Trinder</author>
+<title>Building an Integrated Persistent Application.</title>
+<pages>359-375</pages>
+<cdrom>DBPL1993/P359.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#SjobergALT93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite label="ABC+83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="ABJP93">...</cite>
+<cite label="ACC82">...</cite>
+<cite label="ALPR91">...</cite>
+<cite label="AM85">journals/toplas/AtkinsonM85</cite>
+<cite label="Atk93">...</cite>
+<cite label="ATW93">...</cite>
+<cite label="BLN86">journals/csur/BatiniL86</cite>
+<cite label="CDK90">...</cite>
+<cite label="Con91">...</cite>
+<cite label="Cut93a">...</cite>
+<cite label="Cut93b">...</cite>
+<cite label="CY79">...</cite>
+<cite label="DCC92">...</cite>
+<cite label="DDH72">...</cite>
+<cite label="Dea87">...</cite>
+<cite label="FDK+92">conf/pos/FarkasDKCMC92</cite>
+<cite label="Fel79">journals/spe/Feldman79</cite>
+<cite label="Gra84">...</cite>
+<cite label="Jac75">...</cite>
+<cite label="KCC+92">conf/pos/KirbyCCMDF92</cite>
+<cite label="KD90">...</cite>
+<cite label="Kir93">...</cite>
+<cite label="Kru92">journals/csur/Krueger92</cite>
+<cite label="Lop93">...</cite>
+<cite label="MBCD89">...</cite>
+<cite label="MBDA86">...</cite>
+<cite label="MBDA88">...</cite>
+<cite label="MBDA90">journals/ipl/MorrisonABD90</cite>
+<cite label="Mem90">...</cite>
+<cite label="Mun93">...</cite>
+<cite label="Sj&#248;92">...</cite>
+<cite label="Sj&#248;93a">...</cite>
+<cite label="Sj&#248;93b">...</cite>
+<cite label="Tri91">conf/dbpl/Trinder91</cite>
+<cite label="Zhe92">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/WienerI93" mdate="2017-03-29">
+<author pid="w/JanetLWiener">Janet L. Wiener</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<title>A Moose and a Fox Can Aid Scientists with Data Management Problems.</title>
+<pages>376-398</pages>
+<cdrom>DBPL1993/P376.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#WienerI93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite label="ABD+89">conf/dood/AtkinsonBDDMZ89</cite>
+<cite label="AK89">conf/sigmod/AbiteboulK89</cite>
+<cite label="ASL89">conf/vldb/AlashqurSL89</cite>
+<cite label="BCD89">conf/dbpl/BancilhonCD89</cite>
+<cite label="BCG+87">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="BKK88">conf/icde/BanerjeeKK88</cite>
+<cite label="BNPS92">journals/tkde/BertinoNPS92</cite>
+<cite label="CDG+90">...</cite>
+<cite label="CDV88">conf/sigmod/CareyDV88</cite>
+<cite label="Che76">journals/tods/Chen76</cite>
+<cite label="Deu90">journals/tkde/Deux90</cite>
+<cite label="DGJ92">conf/edbt/DarGJ92</cite>
+<cite label="DW89">books/aw/DateW90</cite>
+<cite label="FBC+90">journals/tois/FishmanBCCCDDHKLMNRS87</cite>
+<cite label="HK87">journals/csur/HullK87</cite>
+<cite label="HM81">journals/tods/HammerM81</cite>
+<cite label="IL89">conf/ifip/IoannidisL89</cite>
+<cite label="IL92">journals/ijcis/IoannidisL92</cite>
+<cite label="ILH+93">journals/debu/IoannidisLHMTW93</cite>
+<cite label="ISK+93">journals/tods/IshikawaSKMMIAY93</cite>
+<cite label="KC86">conf/oopsla/KhoshafianC86</cite>
+<cite label="Kim89">conf/vldb/Kim89</cite>
+<cite label="KKS92">conf/sigmod/KiferKS92</cite>
+<cite label="Las93">...</cite>
+<cite label="LLOW91">journals/cacm/LambLOW91</cite>
+<cite label="MF91">...</cite>
+<cite label="NO92">...</cite>
+<cite label="Obj91">...</cite>
+<cite label="Ont92">...</cite>
+<cite label="PG88">conf/oodbs/PatonG88</cite>
+<cite label="RKB87">journals/is/RothKB87</cite>
+<cite label="Shi81">journals/tods/Shipman81</cite>
+<cite label="SKL88">...</cite>
+<cite label="SS77">journals/tods/SmithS77</cite>
+<cite label="SZ89">conf/dbpl/ShawZ89</cite>
+<cite label="VD91">conf/sigmod/VandenbergD91</cite>
+<cite label="Ver91">...</cite>
+<cite label="WCH87">journals/cogsci/WinstonCH87</cite>
+<cite label="WI93">...</cite>
+<cite label="Zan83">conf/sigmod/Zaniolo83</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/MullenE93" mdate="2017-03-29">
+<author pid="21/1639">James G. Mullen</author>
+<author pid="e/AKElmagarmid">Ahmed K. Elmagarmid</author>
+<title>InterSQL: A Multidatabase Transaction Programming Language.</title>
+<pages>399-416</pages>
+<cdrom>DBPL1993/P399.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#MullenE93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite label="BCC+92">conf/ride/BukhresCCELZ92</cite>
+<cite label="BEM92">...</cite>
+<cite label="B&#214;91">conf/ride/BarkerO91</cite>
+<cite label="BST90">conf/sigmod/BreitbartST90</cite>
+<cite label="BST92">journals/vldb/BreitbartST92</cite>
+<cite label="ELLR90">conf/vldb/ElmagarmidLLR90</cite>
+<cite label="EM93">...</cite>
+<cite label="Gal92">...</cite>
+<cite label="Geo91">conf/ride/Georgakopoulos91</cite>
+<cite label="HM85">journals/tois/HeimbignerM85</cite>
+<cite label="MJSA93">conf/dexa/MullenJS93</cite>
+<cite label="MR91">conf/icde/MuthR91</cite>
+<cite label="MRB+92">conf/pods/MehrotraRBKS92</cite>
+<cite label="Mul92">...</cite>
+<cite label="PRR91">conf/sigmod/PerrizoRR91</cite>
+<cite label="SKS91">journals/computer/SoparkarKS91</cite>
+<cite label="Sto86">books/aw/Stonebraker86</cite>
+<cite label="WV90">conf/parbase/WolskiV90a</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/ConnorABCKM93" mdate="2022-05-11">
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="73/4908">Sonia Berman</author>
+<author pid="c/QICutts">Quintin I. Cutts</author>
+<author pid="k/GNCKirby">Graham N. C. Kirby</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>The Joy of Sets.</title>
+<pages>417-433</pages>
+<cdrom>DBPL1993/P417.pdf</cdrom>
+<year>1993</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl93.html#ConnorABCKM93</url>
+<crossref>conf/dbpl/93</crossref>
+<cite label="ACO85">journals/tods/AlbanoCO85</cite>
+<cite label="ALP+91">conf/dbpl/AtkinsonLPR91</cite>
+<cite label="BL84">...</cite>
+<cite label="CBC+90">conf/pos/ConnorBCDMR90</cite>
+<cite label="DD85">journals/toplas/DonahueD85</cite>
+<cite label="Deu90">journals/tkde/Deux90</cite>
+<cite label="KCC+92">conf/pos/KirbyCCMDF92</cite>
+<cite label="MBC+89">...</cite>
+<cite label="MP88">journals/toplas/MitchellP88</cite>
+<cite label="MTH89">...</cite>
+<cite label="SSS+92">...</cite>
+<cite label="Tur36">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

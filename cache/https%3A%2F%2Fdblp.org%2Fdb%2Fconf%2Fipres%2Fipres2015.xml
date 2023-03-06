@@ -1,0 +1,971 @@
+<bht key="db/conf/ipres/ipres2015.bht" title="iPRES 2015">  
+<h1><ref href="db/conf/ipres/index.html">iPRES</ref> 2015: Chapel Hill, North Carolina, USA</h1> <dblpcites><r><proceedings key="conf/ipres/2015" mdate="2022-08-30">
+<editor pid="20/1397-1">Christopher A. Lee 0001</editor>
+<editor pid="139/3232">Jonathan David Crabtree</editor>
+<editor pid="123/8709">Leo Konstantelos</editor>
+<editor pid="29/2987">Nancy Y. McGovern</editor>
+<editor pid="146/5111">Yukio Maeda</editor>
+<editor pid="88/6205">Maureen Pennock</editor>
+<editor pid="13/3273">Helen Tibbo</editor>
+<editor pid="59/9790">Kam Woods</editor>
+<editor pid="92/4236">Eld Zierau 0001</editor>
+<title>Proceedings of the 12th International Conference on Digital Preservation, iPRES 2015, Chapel Hill, North Carolina, USA, November 2-6, 2015</title>
+<booktitle>iPRES</booktitle>
+<year>2015</year>
+<ee type="oa">https://hdl.handle.net/11353/10.429524</ee>
+<url>db/conf/ipres/ipres2015.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/AltmanTC15" mdate="2022-05-04">
+<author pid="91/5569">Micah Altman</author>
+<author pid="13/3273">Helen Tibbo</author>
+<author pid="139/3232">Jonathan David Crabtree</author>
+<title>Advancing the Evidence Base of Digital Preservation.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429526</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#AltmanTC15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/FanielESHM15" mdate="2022-05-24">
+<author pid="25/2141">Ixchel M. Faniel</author>
+<author pid="206/4927">Vessela Ensberg</author>
+<author pid="45/11083">Seth Shaw</author>
+<author pid="206/4949">Elizabeth Hull</author>
+<author pid="m/ReaganMoore">Reagan W. Moore</author>
+<title>Preservation of Research Data for Reuse.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429527</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#FanielESHM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/McCainSKMPR15" mdate="2022-05-04">
+<author pid="181/0579">Edward McCain</author>
+<author pid="206/4893">Hannah Sommers</author>
+<author pid="67/1254-1">Martin Klein 0001</author>
+<author pid="02/11514">Christie Moffatt</author>
+<author pid="206/4825">Abigail Potter</author>
+<author pid="206/4741">St&#233;phane Reecht</author>
+<title>Preserving Born-Digital News.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429528</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#McCainSKMPR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/MolinaroPSMS15" mdate="2022-05-04">
+<author pid="133/9316">Mary Molinaro</author>
+<author pid="206/4892">Dave Pcolar</author>
+<author pid="50/2940">Katherine Skinner</author>
+<author pid="154/2951">Sam Meister</author>
+<author pid="206/4957">Sybil Schaefer</author>
+<title>Long Term Preservation Strategies &#38; Architecture: Views from Implementers.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429529</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#MolinaroPSMS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/RicePWA15" mdate="2022-05-04">
+<author pid="26/4639">Robin Rice</author>
+<author pid="129/0223">Limor Peer</author>
+<author pid="206/4956">Wendy White</author>
+<author pid="146/4706">Florio Arguillas</author>
+<title>Good, Better, Best? Examining the Range and Rationales of Institutional Data Curation Practices.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429530</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#RicePWA15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/SmithWHP15" mdate="2022-08-08">
+<author pid="206/4751">Imogen Smith</author>
+<author pid="67/854">David Walls</author>
+<author pid="37/1215">Martin D. Halbert</author>
+<author pid="206/4825">Abigail Potter</author>
+<title>Engaging Content Creators to Improve the Capture and Preservation of Born-Digital Content.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429531</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#SmithWHP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Abrams15" mdate="2022-05-04">
+<author pid="77/9553">Stephen Abrams</author>
+<title>A Foundational Framework for Digital Curation: The Sept Domain Model.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429533</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Abrams15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Boutard15" mdate="2022-05-04">
+<author pid="14/10874">Guillaume Boutard</author>
+<title>Participatory Digital Repositories for the Curation of Performing Arts with Digital Technology.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429535</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Boutard15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/BrunelleWN15" mdate="2022-05-04">
+<author pid="83/8218">Justin F. Brunelle</author>
+<author pid="38/1669">Michele C. Weigle</author>
+<author pid="n/MichaelLNelson">Michael L. Nelson</author>
+<title>Archiving Deferred Representations Using a Two-Tiered Crawling Approach.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429536</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#BrunelleWN15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/CurrierGH15" mdate="2022-05-04">
+<author pid="206/4931">Brett Currier</author>
+<author pid="78/1918">Anne J. Gilliland</author>
+<author pid="22/7499">David Hansen</author>
+<title>Copyright and the Digitization of State Government Documents: A Preliminary Analysis.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429537</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#CurrierGH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/CaronLRT15" mdate="2022-05-04">
+<author pid="206/4896">Bertrand Caron</author>
+<author pid="05/6869">Thomas Ledoux</author>
+<author pid="206/4741">St&#233;phane Reecht</author>
+<author pid="178/1852">Jean-Philippe Tramoni</author>
+<title>Experiment, Document &#38; Decide: a Collaborative Approach to Preservation Planning at the BnF.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429538</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#CaronLRT15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/DArcy15" mdate="2022-05-04">
+<author pid="206/4902">Zoe D'Arcy</author>
+<title>Project Chrysalis - Transforming the Digital Business of the National Archives of Australia.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429539</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#DArcy15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/DuretecKRB15" mdate="2022-05-04">
+<author pid="120/7037">Kresimir Duretec</author>
+<author pid="152/2471">Artur Kulmukhametov</author>
+<author pid="r/AndreasRauber">Andreas Rauber</author>
+<author pid="22/479-1">Christoph Becker 0001</author>
+<title>Benchmarks for Digital Preservation Tools.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429547</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#DuretecKRB15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/EldakarN15" mdate="2022-05-04">
+<author pid="87/2436">Youssef Eldakar</author>
+<author pid="07/373">Magdy Nagi</author>
+<title>Deduplicating Bibliotheca Alexandrina's Web Archive.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429548</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#EldakarN15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/GorzigEBH15" mdate="2022-05-04">
+<author pid="181/0911">Heike G&#246;rzig</author>
+<author pid="191/7091">Felix C. Engel</author>
+<author pid="b/HolgerBrocks">Holger Brocks</author>
+<author pid="h/MatthiasHemmje">Matthias L. Hemmje</author>
+<title>Lessons Learned and Open Challenges Regarding Support for Data Management Plans and Research Data Management.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429549</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#GorzigEBH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/HeinenG15" mdate="2022-05-04">
+<author pid="206/4717">Joey Heinen</author>
+<author pid="175/2517">Andrea Goethals</author>
+<title>Developing a Framework for File Format Migrations.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429550</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#HeinenG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/KlindtA15" mdate="2022-05-04">
+<author pid="206/4736">Marco Klindt</author>
+<author pid="206/4707">Kilian Amrhein</author>
+<title>One Core Preservation System for All your Data. No Exceptions!</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429551</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#KlindtA15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/LyonMAL15" mdate="2022-05-04">
+<author pid="77/3414">Liz Lyon</author>
+<author pid="65/10873">Eleanor Mattern</author>
+<author pid="147/7988">Amelia Acker</author>
+<author pid="202/4764">Alison Langmead</author>
+<title>Applying Translational Principles to Data Science Curriculum Development.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429552</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#LyonMAL15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/MaemuraMB15" mdate="2022-05-04">
+<author pid="194/7429">Emily Maemura</author>
+<author pid="133/9289">Nathan Moles</author>
+<author pid="22/479-1">Christoph Becker 0001</author>
+<title>A Survey of Organizational Assessment Frameworks in Digital Preservation.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429553</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#MaemuraMB15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/MooreRX15" mdate="2022-05-24">
+<author pid="m/ReaganMoore">Reagan W. Moore</author>
+<author pid="70/1598">Arcot Rajasekar</author>
+<author pid="43/6008-6">Hao Xu 0006</author>
+<title>DataNet Federation Consortium Preservation Policy ToolKit.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429554</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#MooreRX15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/MoranG15" mdate="2022-05-04">
+<author pid="206/4839">Jessica Moran</author>
+<author pid="206/4889">Jay Gattuso</author>
+<title>Beyond the Binary: Pre-Ingest Preservation of Metadata.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429555</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#MoranG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/RechertLSVS15" mdate="2022-05-04">
+<author pid="80/343">Klaus Rechert</author>
+<author pid="138/7134">Thomas Liebetraut</author>
+<author pid="206/4891">Oleg Stobbe</author>
+<author pid="02/8419">Isgandar Valizada</author>
+<author pid="39/6308">Tobias Steinke</author>
+<title>Characterization of CD-ROMs for Emulation-Based Access.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429556</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#RechertLSVS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/RyanGG15" mdate="2022-05-04">
+<author pid="183/3854">Heather M. Ryan</author>
+<author pid="120/2403">Roman Graf</author>
+<author pid="10/2104">Sergiu Gordea</author>
+<title>Human and Machine-based File Format Endangerment Notification and Recommender Systems Development.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429557</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#RyanGG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/SchultzTS15" mdate="2022-05-04">
+<author pid="206/4739">Matt Schultz</author>
+<author pid="64/10851">Aaron Trehub</author>
+<author pid="50/2940">Katherine Skinner</author>
+<title>Getting to the Bottom Line: 20 Digital Preservation Cost Questions.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429558</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#SchultzTS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/SiermanR15" mdate="2022-05-04">
+<author pid="128/7993">Barbara Sierman</author>
+<author pid="206/4924">Marcel Ras</author>
+<title>Best until ... A National Infrastructure for Digital Preservation in the Netherlands.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429559</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#SiermanR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/ThainIM15" mdate="2022-05-04">
+<author pid="83/1871">Douglas Thain</author>
+<author pid="154/0581">Peter Ivie</author>
+<author pid="165/1280">Haiyan Meng</author>
+<title>Techniques for Preserving Scientific Software Executions: Preserve the Mess or Encourage Cleanliness?</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429560</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#ThainIM15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/ThirifaysJ15" mdate="2022-05-04">
+<author pid="129/0235">Alex Thirifays</author>
+<author pid="206/4958">Katherine Hougaard Edsen Johansen</author>
+<title>Towards a Common Approach for Access to Digital Archival Records in Europe.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429561</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#ThirifaysJ15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/ThompsonWKMS15" mdate="2022-05-04">
+<author pid="175/2747">Santi Thompson</author>
+<author pid="178/1726">Annie Wu</author>
+<author pid="206/4814">Drew Krewer</author>
+<author pid="122/7828">Mary Manning</author>
+<author pid="206/4921">Rob Spragg</author>
+<title>Preserving the Fruit of Our Labor: Establishing Digital Preservation Policies and Strategies at the University of Houston Libraries.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429562</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#ThompsonWKMS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/WoodsLLR15" mdate="2022-05-04">
+<author pid="59/9790">Kam Woods</author>
+<author pid="20/1397-1">Christopher A. Lee 0001</author>
+<author pid="138/7134">Thomas Liebetraut</author>
+<author pid="80/343">Klaus Rechert</author>
+<title>Functional Access to Forensic Disk Images in a Web Service.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429564</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#WoodsLLR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/WuXHZ15" mdate="2022-05-04">
+<author pid="72/7608">Zhenxin Wu</author>
+<author pid="56/2373">Jing Xie</author>
+<author pid="206/4853">Jiying Hu</author>
+<author pid="12/1950">Zhixiong Zhang</author>
+<title>Developing a Highly Automated Web Archiving System Based on IIPC Open Source Software.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429565</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#WuXHZ15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/XuCBWRRMKG15" mdate="2022-05-24">
+<author pid="43/6008-6">Hao Xu 0006</author>
+<author pid="31/11059">Jason Coposky</author>
+<author pid="206/4802">Dan Bedard</author>
+<author pid="w/JewelHWard">Jewel Ward</author>
+<author pid="14/8829">Terrell G. Russell</author>
+<author pid="70/1598">Arcot Rajasekar</author>
+<author pid="m/ReaganMoore">Reagan W. Moore</author>
+<author pid="145/1606">Ben Keller</author>
+<author pid="206/4852">Zoey Greer</author>
+<title>A Method for the Systematic Generation of Audit Logs in a Digital Preservation Environment and Its Experimental Implementation In a Production Ready System.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429566</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#XuCBWRRMKG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/YakelFS15" mdate="2022-05-04">
+<author pid="20/3435">Elizabeth Yakel</author>
+<author pid="206/4718">Rebecca D. Frank</author>
+<author pid="206/4939">Kara Suzuka</author>
+<title>Educational Records of Practice: Preservation and Access Concerns.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429567</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#YakelFS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/TreloganEJ15" mdate="2022-05-04">
+<author pid="139/4192">Jessica Trelogan</author>
+<author pid="94/7062">Maria Esteva</author>
+<author pid="206/4715">Lauren Jackson</author>
+<title>Preserving an Evolving Collection: &#34;On-The-Fly&#34; Solutions for The Chora of Metaponto Publication Series.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429572</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#TreloganEJ15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/HoebelheinrichA15" mdate="2022-05-04">
+<author pid="92/11081">Nancy Hoebelheinrich</author>
+<author pid="77/9553">Stephen Abrams</author>
+<title>Dash Curation Service Infrastructure Enhancement: An Informed Extension &#38; Redesign.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429573</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#HoebelheinrichA15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/AlterP15" mdate="2022-05-04">
+<author pid="206/4882">Adi Alter</author>
+<author pid="206/4993">Ido Peled</author>
+<title>An Institutional Digital Repository Backbone.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429574</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#AlterP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/AlterP15a" mdate="2022-05-04">
+<author pid="206/4882">Adi Alter</author>
+<author pid="206/4993">Ido Peled</author>
+<title>Managing and Preserving Research Data in Ex Libris Rosetta.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429575</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#AlterP15a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/AtkinsEGJKMPS15" mdate="2022-05-04">
+<author pid="206/4908">Winston Atkins</author>
+<author pid="146/5025">Erin Engle</author>
+<author pid="175/2517">Andrea Goethals</author>
+<author pid="206/4874">Karl Jackson</author>
+<author pid="206/4952">Carol Kussmann</author>
+<author pid="206/4691">Kate Murray</author>
+<author pid="206/4918">Michelle Paolillo</author>
+<author pid="206/4789">Mariella Soprano</author>
+<title>In the Thicket of It with the NDSA Standards and Practices Working Group: Cultivating Grass Roots Approaches to Real-World Digital Preservation Issues.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429577</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#AtkinsEGJKMPS15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/BrownHRTV15" mdate="2022-05-04">
+<author pid="206/4826">Sherri Brown</author>
+<author pid="203/0439">Wendy Hagenmaier</author>
+<author pid="206/4720">Lizzy Rolando</author>
+<author pid="206/4743">Jody Thompson</author>
+<author pid="206/4973">Alison Valk</author>
+<title>The retroTECH Program at the Georgia Tech Library: Digital Preservation through Access.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429578</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#BrownHRTV15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/ChoP15" mdate="2022-05-04">
+<author pid="206/4965">Pyounguk Cho</author>
+<author pid="206/4851">Art Pasquinelli</author>
+<title>The Oracle Cloud Storage Archive for Long-term Storage and Preservation.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429579</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#ChoP15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/ChristianL15" mdate="2022-05-04">
+<author pid="206/4811">Thu-Mai Christian</author>
+<author pid="206/4875">Sophia Lafferty-Hess</author>
+<title>Achieving Transparency and Replicability: A Data Curation, Verification, and Publication Workflow.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429580</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#ChristianL15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/ColemanOF15" mdate="2022-05-04">
+<author pid="206/4922">R. Shane Coleman</author>
+<author pid="206/4696">Andrea L. Ogier</author>
+<author pid="122/2842">Mohamed Farag</author>
+<title>In Search of GeoBlacklight: Reporting on a Community-Driven Geospatial Data Portal in the Library.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429581</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#ColemanOF15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Contaxis15" mdate="2022-05-04">
+<author pid="206/4766">Nicole Contaxis</author>
+<title>Preserving In-House Developed Software.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429582</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Contaxis15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/DelveAW15" mdate="2022-05-04">
+<author pid="59/6434">Janet Delve</author>
+<author pid="59/2321-1">David Anderson 0001</author>
+<author pid="30/6467">Andrew Wilson</author>
+<title>Addressing Major Digital Archiving Challenges.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429583</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#DelveAW15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/DownsDDR15" mdate="2022-05-04">
+<author pid="78/7005">Robert R. Downs</author>
+<author pid="52/1965">Ruth E. Duerr</author>
+<author pid="54/10850">Devan Ray Donaldson</author>
+<author pid="09/11244">Sarah Ramdeen</author>
+<title>Establishing Trustworthy Repositories of Scientific Data: Opportunities and Benefits.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429584</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#DownsDDR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/EricksonL15" mdate="2022-05-04">
+<author pid="206/4711">Chris Erickson</author>
+<author pid="90/5266">Barry M. Lunt</author>
+<title>Alternatives for Long-Term Storage Of Digital Information.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429585</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#EricksonL15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/EspenschiedVSLR15" mdate="2022-05-04">
+<author pid="123/8725">Dragan Espenschied</author>
+<author pid="02/8419">Isgandar Valizada</author>
+<author pid="206/4891">Oleg Stobbe</author>
+<author pid="138/7134">Thomas Liebetraut</author>
+<author pid="80/343">Klaus Rechert</author>
+<title>(Re-)publication of Preserved, Interactive Content - Theresa Duncan CD-ROMs: Visionary Videogames for Girls.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429586</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#EspenschiedVSLR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/FayMWK15" mdate="2022-05-04">
+<author pid="206/4765">Ed Fay</author>
+<author pid="206/4910">Becky McGuinness</author>
+<author pid="34/7414">Carl Wilson</author>
+<author pid="206/4813">Nick Krabbenhoeft</author>
+<title>Open Preservation Foundation Community Survey 2015.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429587</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#FayMWK15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/GaoleiY15" mdate="2022-05-04">
+<author pid="206/4798">Yin Gaolei</author>
+<author pid="27/394">Zhao Yan</author>
+<title>The Strategic Framework and the Mechanism of Rights Management of Long-term Preservation.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429588</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#GaoleiY15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/HankLZSK15" mdate="2022-05-04">
+<author pid="57/1456">Carolyn Hank</author>
+<author pid="206/4943">Noah Lasley</author>
+<author pid="99/5694">Xiaohua Zhu</author>
+<author pid="206/4735">Kylan Shireman</author>
+<author pid="206/4819">Charlene Kirkpatrick</author>
+<title>What We Teach: An Assessment of Graduate-Level Digital Curation Syllabi.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429589</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#HankLZSK15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/JonesMG15" mdate="2022-05-04">
+<author pid="90/7061">Catherine Jones</author>
+<author pid="80/1224">Brian Matthews</author>
+<author pid="206/4749">Ian Gent</author>
+<title>Software Reuse, Repurposing and Reproducibility.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429590</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#JonesMG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/JurikBC15" mdate="2022-05-04">
+<author pid="m/BAMadsen">Bolette Ammitzb&#248;ll Jurik</author>
+<author pid="155/2985">Asger Askov Blekinge</author>
+<author pid="206/4912">K&#229;re Fiedler Christiansen</author>
+<title>Minimal Effort Ingest.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429591</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#JurikBC15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/KleinC15" mdate="2022-05-04">
+<author pid="67/1254-1">Martin Klein 0001</author>
+<author pid="58/6011">Kevin Clarke</author>
+<title>Modeling Tweets in Compliance with the Portland Common Data Model.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429592</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#KleinC15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/LeggottT15" mdate="2022-05-04">
+<author pid="30/9856">Mark Leggott</author>
+<author pid="206/4991">Erin Tripp</author>
+<title>Mind the Gap: Bridging Digital Libraries &#38; Archives.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429593</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#LeggottT15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/LehtonenHKLT15" mdate="2022-05-04">
+<author pid="99/3947">Juha Lehtonen</author>
+<author pid="85/6550">Heikki Helin</author>
+<author orcid="0000-0002-9614-8370" pid="17/40">Kimmo Koivunen</author>
+<author pid="206/4925">Kuisma Lehtonen</author>
+<author pid="11/9222">Mikko Tiainen</author>
+<title>A National Preservation Solution for Cultural Heritage.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429594</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#LehtonenHKLT15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Pascual15" mdate="2022-05-04">
+<author pid="206/4941">Chlo&#233; Pascual</author>
+<title>Preserving Electronic Syllabi at California State University Long Beach.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429595</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Pascual15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Patnaik15" mdate="2022-05-04">
+<author pid="206/4971">K. Rama Patnaik</author>
+<title>Congregating Socio- Economic Datasets for Scholastic Research: A Case Study in IIMB Library.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429596</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Patnaik15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/QasimPKHCAHHTGO15" mdate="2022-05-04">
+<author pid="52/7458">Umar Qasim</author>
+<author pid="28/74">Jim Pruyne</author>
+<author pid="206/4916">Jason Knabl</author>
+<author pid="206/4695">Jason Hlady</author>
+<author pid="10/6661">Kyle Chard</author>
+<author pid="61/600">Rachana Ananthakrishnan</author>
+<author pid="146/4904">Chuck Humphrey</author>
+<author pid="206/4752">John Huck</author>
+<author pid="206/4859">Leanne Trimble</author>
+<author pid="26/9769">Alex Garnett</author>
+<author pid="206/4780">Dugan O'Neil</author>
+<author pid="206/4961">Sean Cavanaugh</author>
+<title>Assessing the Scale of Challenges for Preserving Research Data.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429597</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#QasimPKHCAHHTGO15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/QasimR15" mdate="2022-05-04">
+<author pid="52/7458">Umar Qasim</author>
+<author pid="206/4760">Kendall Roark</author>
+<title>Preserving Qualitative Data: A Data Model to Prepare Computer Assisted Qualitative Data Analysis Software Data for Long-term Preservation.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429598</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#QasimR15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/RokeW15" mdate="2022-05-04">
+<author pid="203/0391">Elizabeth Russey Roke</author>
+<author pid="206/4876">Dorothy Waugh</author>
+<title>Protecting the Long-Term Viability of Digital Composite Objects through Format Migration.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429599</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#RokeW15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/SampsonC15" mdate="2022-05-04">
+<author pid="45/9790">Wiliam Walker Sampson</author>
+<author pid="154/2966">Alexandra Chassanoff</author>
+<title>Providing Access to Disk Image Content: A Preliminary Approach and Workflow.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429600</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#SampsonC15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/ShallcrossE15" mdate="2022-05-04">
+<author pid="194/7609">Michael Shallcross</author>
+<author pid="206/4989">Max Eckard</author>
+<title>ArchivesSpace-Archivematica-DSpace Workflow Integration.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429601</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#ShallcrossE15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/SiermanKLW15" mdate="2022-05-04">
+<author pid="128/7993">Barbara Sierman</author>
+<author pid="133/9317">William Kilbride</author>
+<author pid="146/5131">Herv&#233; L'Hours</author>
+<author pid="75/1864">Paul Wheatley</author>
+<title>Invitation to Join the OAIS Community Platform.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429602</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#SiermanKLW15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Suomela15" mdate="2022-05-04">
+<author pid="202/1391">Todd Suomela</author>
+<title>Should Web Archives Be Used For Research Data Preservation?</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429603</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Suomela15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Thoegersen15" mdate="2022-05-04">
+<author pid="206/4848">Jennifer Thoegersen</author>
+<title>Making the Pieces Fit: Integrating Preservation into a Digital Material Ecosystem.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429604</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Thoegersen15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/TibboCG15" mdate="2022-05-04">
+<author pid="13/3273">Helen Tibbo</author>
+<author pid="206/4811">Thu-Mai Christian</author>
+<author pid="206/4827">Rachel Goatley</author>
+<title>Targeting Audiences among the Masses: A Data Curation MOOC for Researchers and Information Professionals.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429607</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#TibboCG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Tieman15" mdate="2022-05-04">
+<author pid="206/4796">Jessica Tieman</author>
+<title>Strategies for Audit-Based Repository Certification: Guidelines, Resources, and Tools to Prepare, Organize, and Evaluate Criteria Evidence.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429608</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Tieman15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/TrumanH15" mdate="2022-05-04">
+<author pid="206/4919">Gail Truman</author>
+<author pid="206/4915">Jaime Henderson</author>
+<title>Using the Virtual-Private Cloud Model to Serve and Preserve Historical Collections: A Case Study (Based on Islandora).</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429609</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#TrumanH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/WestcottCO15" mdate="2022-05-04">
+<author pid="206/4871">Stephanie Westcott</author>
+<author pid="206/4857">Kelle Cruz</author>
+<author pid="93/7570">Eric Olson</author>
+<title>Preserving Informal Astronomy: Arceli, the PressForward Plugin, and the Archiving of Scientific Communications.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429610</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#WestcottCO15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Yamamoto15" mdate="2022-05-04">
+<author pid="48/5371">Shunsuke Yamamoto</author>
+<title>Research on Accessibility of Digital Documentation on Physical Media across Different Versions of MS Windows.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429611</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Yamamoto15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/Zierau15" mdate="2022-08-30">
+<author pid="92/4236">Eld Zierau 0001</author>
+<title>Automatic Identification and Preservation of National Parts of the Internet Outside a Country's Top Level Domain.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429612</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#Zierau15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/BaileyD15" mdate="2022-05-04">
+<author pid="124/8803">Jefferson Bailey</author>
+<author pid="206/4885">Lori Donovan</author>
+<title>Data Mining Web Archives.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429619</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#BaileyD15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/CaronNHH15" mdate="2022-05-04">
+<author pid="206/4896">Bertrand Caron</author>
+<author pid="206/4863">Andreas Nef</author>
+<author pid="92/11081">Nancy Hoebelheinrich</author>
+<author pid="206/4804">Thomas Habing</author>
+<title>Testing the Proposed METS 2.0 Data Model against Use Cases and Complementary Data Models: Presentations and Community Discussion.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429620</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#CaronNHH15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/DuretecKRB15a" mdate="2022-05-04">
+<author pid="120/7037">Kresimir Duretec</author>
+<author pid="152/2471">Artur Kulmukhametov</author>
+<author pid="r/AndreasRauber">Andreas Rauber</author>
+<author pid="22/479-1">Christoph Becker 0001</author>
+<title>Benchmarking Forum.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429621</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#DuretecKRB15a</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/McLellanBG15" mdate="2022-05-04">
+<author pid="70/7193">Evelyn McLellan</author>
+<author pid="206/4773">Karin Bredenberg</author>
+<author pid="206/4934">Rebecca Guenther</author>
+<title>PREMIS Implementation Fair Workshop.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429622</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#McLellanBG15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/MummaSMBWLE15" mdate="2022-05-04">
+<author pid="206/4738">Courtney C. Mumma</author>
+<author pid="194/7609">Michael Shallcross</author>
+<author pid="154/2951">Sam Meister</author>
+<author pid="206/4966">Christine Di Bella</author>
+<author pid="31/3961">Brad Westbrook</author>
+<author pid="20/1397-1">Christopher A. Lee 0001</author>
+<author pid="206/4989">Max Eckard</author>
+<title>Using Open-Source Tools to Fulfill Digital Preservation Requirements.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429623</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#MummaSMBWLE15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/OwensW15" mdate="2022-05-04">
+<author pid="49/9988">Trevor Owens</author>
+<author pid="34/7414">Carl Wilson</author>
+<title>Roles and Responsibilities for Sustaining Open Source Platforms and Tools.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429624</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#OwensW15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/TibboMSMD15" mdate="2022-05-04">
+<author pid="13/3273">Helen Tibbo</author>
+<author pid="29/2987">Nancy Y. McGovern</author>
+<author pid="128/7993">Barbara Sierman</author>
+<author pid="206/4738">Courtney C. Mumma</author>
+<author pid="132/6613">Ingrid Dillo</author>
+<title>From Theory to Practice: Using ISO 16363.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429625</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#TibboMSMD15</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ipres/CoxW15" mdate="2022-05-04">
+<author pid="56/10085">David Wilcox</author>
+<author pid="172/2124">Andrew Woods</author>
+<title>Fedora 4 Tutorial.</title>
+<year>2015</year>
+<booktitle>iPRES</booktitle>
+<ee type="oa">https://hdl.handle.net/11353/10.429626</ee>
+<crossref>conf/ipres/2015</crossref>
+<url>db/conf/ipres/ipres2015.html#CoxW15</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+</bht>
+

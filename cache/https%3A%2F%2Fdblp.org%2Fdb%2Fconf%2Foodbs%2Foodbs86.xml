@@ -1,0 +1,563 @@
+<bht key="db/conf/oodbs/oodbs86.bht" title="1. OODBS 1986: Pacific Grove, California, USA">
+
+<h1>1st <ref href="db/conf/oodbs/index.html">OODBS</ref> 1986:
+Pacific Grove, California, USA</h1>
+
+<dblpcites><r><proceedings key="conf/oodbs/86" mdate="2012-09-18">
+<editor pid="d/KRDittrich">Klaus R. Dittrich</editor>
+<editor pid="76/2198">Umeshwar Dayal</editor>
+<title>1986 International Workshop on Object-Oriented Database Systems, September 23-26, 1986, Asilomar Conference Center, Pacific Grove, California, USA, Proceedings.</title>
+<publisher>IEEE Computer Society</publisher>
+<year>1986</year>
+<isbn>0-8186-0734-3</isbn>
+<url>db/conf/oodbs/oodbs86.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Opening Remarks</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/Dittrich86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318832</ee>
+<author pid="d/KRDittrich">Klaus R. Dittrich</author>
+<title>Object-Oriented Database Systems: The Notion and the Issue.</title>
+<pages>2-4</pages>
+<cdrom>OODBS1986/P002.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Dittrich86</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Models and Constraints</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/LyngbaekK86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318834</ee>
+<author pid="39/1385">Peter Lyngb&#230;k</author>
+<author pid="k/WilliamKent">William Kent</author>
+<title>A Data Modeling Methodology for the Design and Implementation of Information Systems.</title>
+<pages>6-17</pages>
+<cdrom>OODBS1986/P006.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#LyngbaekK86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/ManolaD86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318835</ee>
+<author pid="04/2682">Frank Manola</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>PDM: An Object-Oriented Data Model.</title>
+<pages>18-25</pages>
+<cdrom>OODBS1986/P018.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#ManolaD86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/HudsonK86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318836</ee>
+<author pid="h/ScottEHudson">Scott E. Hudson</author>
+<author pid="64/2075">Roger King</author>
+<title>CACTIS: A Database System for Specifying Functinonally-Defined Data.</title>
+<pages>26-37</pages>
+<cdrom>OODBS1986/P026.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#HudsonK86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/BuchmannCV86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318838</ee>
+<author pid="b/APBuchmann">Alejandro P. Buchmann</author>
+<author pid="52/982">R. S. Carrera</author>
+<author pid="89/1686">M. A. Vazquez-Galindo</author>
+<title>A Generalized Constraint and Exception handler for an Object-Oriented CAD-DBMS.</title>
+<pages>38-49</pages>
+<cdrom>OODBS1986/P038.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#BuchmannCV86</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Tools and Proposed Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/CareyDFGMRS86" mdate="2017-11-06">
+<ee>http://dl.acm.org/citation.cfm?id=318839</ee>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="94/2846">Daniel Frank</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<author pid="60/1433">M. Muralikrishna</author>
+<author pid="41/538">Joel E. Richardson</author>
+<author pid="03/6706">Eugene J. Shekita</author>
+<title>The Architecture of the EXODUS Extensible DBMS.</title>
+<pages>52-65</pages>
+<cdrom>OODBS1986/P052.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#CareyDFGMRS86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Stonebraker86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318840</ee>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Object Management in Postgres Using Procedures.</title>
+<pages>66-72</pages>
+<cdrom>OODBS1986/P066.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Stonebraker86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/MaryanskiBHHMPS86" mdate="2017-09-29">
+<ee>http://dl.acm.org/citation.cfm?id=318841</ee>
+<author pid="88/969">Fred J. Maryanski</author>
+<author pid="12/5211">John R. Bedell</author>
+<author pid="22/12">Sheilah Hoelscher</author>
+<author pid="65/4706">Shuguang Hong</author>
+<author pid="95/6677">LouAnne McDonald</author>
+<author pid="p/JoanPeckham">Joan Peckham</author>
+<author pid="50/5295">Darrell Stock</author>
+<title>The Data Model Compiler: A Tool for Generating Object-Oriented Database Systems.</title>
+<pages>73-84</pages>
+<cdrom>OODBS1986/P073.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#MaryanskiBHHMPS86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/SchwarzCFLMMP86" mdate="2016-12-14">
+<ee>http://dl.acm.org/citation.cfm?id=318842</ee>
+<author pid="20/3569">Peter M. Schwarz</author>
+<author pid="19/2392">Walter Chang</author>
+<author pid="f/JCFreytag">Johann Christoph Freytag</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<author pid="02/5355">John McPherson</author>
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Extensibility in the Starburst Database System.</title>
+<pages>85-92</pages>
+<cdrom>OODBS1986/P085.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#SchwarzCFLMMP86</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Languages and Interfaces</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/AlbanoGOO86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318843</ee>
+<author pid="a/AAlbano">Antonio Albano</author>
+<author pid="g/GiorgioGhelli">Giorgio Ghelli</author>
+<author pid="o/MEOcchiuto">M. Eugenia Occhiuto</author>
+<author pid="o/RenzoOrsini">Renzo Orsini</author>
+<title>A Strongly Typed, Interactive Object-Oriented Database Programming Language.</title>
+<pages>94-103</pages>
+<cdrom>OODBS1986/P094.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#AlbanoGOO86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/KerstenS86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318844</ee>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="60/2493">Frans H. Schippers</author>
+<title>Towards on Object-Centered Database Language.</title>
+<pages>104-112</pages>
+<cdrom>OODBS1986/P104.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#KerstenS86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/OBrienBS86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318845</ee>
+<author pid="26/722">Patrick O'Brien</author>
+<author pid="57/7007">Bruce Bullis</author>
+<author pid="34/3612">Craig Schaffert</author>
+<title>Persistent and Shared Objects in Trellis/Owl.</title>
+<pages>113-123</pages>
+<cdrom>OODBS1986/P113.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#OBrienBS86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/TroyerKM86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318846</ee>
+<author pid="57/2745">Olga De Troyer</author>
+<author pid="72/1896">J. Keustermans</author>
+<author pid="m/RobertMeersman">Robert Meersman</author>
+<title>How Helpful is an Object-Oriented Language for an Object-Oriented Database Model?</title>
+<pages>124-132</pages>
+<cdrom>OODBS1986/P124.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#TroyerKM86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/AndersonEM86" mdate="2017-11-07">
+<ee>http://dl.acm.org/citation.cfm?id=318847</ee>
+<author pid="32/5577">T. Lougenia Anderson</author>
+<author pid="54/533">Earl F. Ecklund Jr.</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Proteus: Objectifying the DBMS User Interface.</title>
+<pages>133-145</pages>
+<cdrom>OODBS1986/P133.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#AndersonEM86</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Physical Aspects</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/Thatte86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318848</ee>
+<author pid="89/6864">Satish M. Thatte</author>
+<title>Persistent Memory: A Storage Architecture for Object-Oriented Database Systems.</title>
+<pages>148-159</pages>
+<cdrom>OODBS1986/P148.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Thatte86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Rowe86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318849</ee>
+<author pid="r/LawrenceARowe">Lawrence A. Rowe</author>
+<title>A Shared Object Hierarchy.</title>
+<pages>160-170</pages>
+<cdrom>OODBS1986/P160.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Rowe86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/MaierS86" mdate="2017-11-05">
+<ee>http://dl.acm.org/citation.cfm?id=318850</ee>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="72/5426">Jacob Stein</author>
+<title>Indexing in an Object-Oriented DBMS.</title>
+<pages>171-182</pages>
+<cdrom>OODBS1986/P171.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#MaierS86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/DeppischPS86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318851</ee>
+<author pid="49/4182">Uwe Deppisch</author>
+<author pid="63/5493">H.-Bernhard Paul</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<title>A Storage System for Complex Objects.</title>
+<pages>183-195</pages>
+<cdrom>OODBS1986/P183.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#DeppischPS86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/SkarraZR86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318852</ee>
+<author pid="35/4896">Andrea H. Skarra</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<author pid="r/StevenPReiss">Steven P. Reiss</author>
+<title>An Object Server for an Object-Oriented Database System.</title>
+<pages>196-204</pages>
+<cdrom>OODBS1986/P196.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#SkarraZR86</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Position Statements</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/oodbs/AtkinsonDM86" mdate="2022-05-11">
+<ee>http://dl.acm.org/citation.cfm?id=318853</ee>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>A Strongly Persistent Object Store.</title>
+<pages>206</pages>
+<cdrom>OODBS1986/P206.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#AtkinsonDM86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Batory86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318854</ee>
+<author pid="b/DSBatory">Don S. Batory</author>
+<title>GENESIS: A Project to Develop an Extensible Database Management System.</title>
+<pages>207-208</pages>
+<cdrom>OODBS1986/P207.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Batory86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Berre86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318855</ee>
+<author pid="55/1946">Arne-J&#248;rgen Berre</author>
+<title>Sharing of Objects in an Object-Oriented Language.</title>
+<pages>209</pages>
+<cdrom>OODBS1986/P209.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Berre86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Butler86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318856</ee>
+<author pid="06/4023">Margaret H. Butler</author>
+<title>Storage Reclamation for Object Oriented Database Systems: A Summary of the Expected Costs.</title>
+<pages>210-211</pages>
+<cdrom>OODBS1986/P210.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Butler86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/CattellR86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318871</ee>
+<author pid="67/2932">R. G. G. Cattell</author>
+<author pid="53/2872">T. R. Rogers</author>
+<title>Combining Object-Oriented and Relational Models of Data.</title>
+<pages>212-213</pages>
+<cdrom>OODBS1986/P212.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#CattellR86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/CopelandK86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318873</ee>
+<author pid="37/3701">George P. Copeland</author>
+<author pid="14/6635">Setrag Khoshafian</author>
+<title>Identity And Versions For Complex Objects.</title>
+<pages>214</pages>
+<cdrom>OODBS1986/P214.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#CopelandK86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Eastman86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318874</ee>
+<author pid="e/CharlesMEastman">Charles M. Eastman</author>
+<title>The Use of Object-Oriented Databases to Model Engineering Systems.</title>
+<pages>215-216</pages>
+<cdrom>OODBS1986/P215.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Eastman86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Harder86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318875</ee>
+<author pid="h/TheoHarder">Theo H&#228;rder</author>
+<title>New Approaches to Object Processing in Engineering Databases.</title>
+<pages>217</pages>
+<cdrom>OODBS1986/P217.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Harder86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/KachhwahaH86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318876</ee>
+<author pid="97/6858">P. Kachhwaha</author>
+<author pid="66/6385">R. Hogan</author>
+<title>An Object-Oriented Data Model for the Research Laboratory.</title>
+<pages>218</pages>
+<cdrom>OODBS1986/P218.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#KachhwahaH86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Katz86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318877</ee>
+<author pid="k/RandyHKatz">Randy H. Katz</author>
+<title>Inheritance Semantics for Computer-Aided Design Databases.</title>
+<pages>219-220</pages>
+<cdrom>OODBS1986/P219.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Katz86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Keller86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318878</ee>
+<author pid="29/3467">Arthur M. Keller</author>
+<title>Unifying Database and Programming Language Concepts Using the Object Model.</title>
+<pages>221-222</pages>
+<cdrom>OODBS1986/P221.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Keller86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Ketabchi86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318879</ee>
+<author pid="04/5138">Mohammad A. Ketabchi</author>
+<title>Object-Oriented Data Models and Management of CAD Databases.</title>
+<pages>223-224</pages>
+<cdrom>OODBS1986/P223.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Ketabchi86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Lamersdorf86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318880</ee>
+<author pid="l/WLamersdorf">Winfried Lamersdorf</author>
+<title>Communicating Recursive Objects.</title>
+<pages>225-226</pages>
+<cdrom>OODBS1986/P225.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Lamersdorf86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Maier86" mdate="2017-11-05">
+<ee>http://dl.acm.org/citation.cfm?id=318881</ee>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Why Object-Oriented Databases Can Succeed Where Others Have Failed.</title>
+<pages>227</pages>
+<cdrom>OODBS1986/P227.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Maier86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/McLeod86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318882</ee>
+<author pid="m/DennisMcLeod">Dennis McLeod</author>
+<title>Object Management and Sharing in Autonomous, Distributed Databases.</title>
+<pages>228</pages>
+<cdrom>OODBS1986/P228.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#McLeod86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Moss86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318883</ee>
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<title>Transaction Management for Object-Oriented Systems.</title>
+<pages>229</pages>
+<cdrom>OODBS1986/P229.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Moss86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Nestor86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318885</ee>
+<author pid="04/955">John R. Nestor</author>
+<title>Re-creation and Evolution in a Programming Environment.</title>
+<pages>230</pages>
+<cdrom>OODBS1986/P230.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Nestor86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Osborn86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318886</ee>
+<author pid="o/SylviaLOsborn">Sylvia L. Osborn</author>
+<title>Object Modelling.</title>
+<pages>231</pages>
+<cdrom>OODBS1986/P231.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Osborn86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Rao86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318887</ee>
+<author pid="17/3957">K. V. Bapa Rao</author>
+<title>An Object-Oriented Framework for Modelling Design Data.</title>
+<pages>232</pages>
+<cdrom>OODBS1986/P232.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Rao86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/Spooner86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318888</ee>
+<author pid="s/DavidLSpooner">David L. Spooner</author>
+<title>On Object-Oriented Data Management System for Mechanical CAD.</title>
+<pages>233-234</pages>
+<cdrom>OODBS1986/P233.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#Spooner86</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/oodbs/ZaroliagisSGC86" mdate="2012-09-18">
+<ee>http://dl.acm.org/citation.cfm?id=318889</ee>
+<author pid="z/CDZaroliagis">Christos D. Zaroliagis</author>
+<author pid="21/646">P. Soupos</author>
+<author pid="70/1517">S. Goutas</author>
+<author pid="06/4618">Dimitris Christodoulakis</author>
+<title>The GRASPIN DB - A Syntax Directed, Language Independent Software Engineering Database.</title>
+<pages>235</pages>
+<cdrom>OODBS1986/P235.pdf</cdrom>
+<year>1986</year>
+<crossref>conf/oodbs/86</crossref>
+<booktitle>OODBS</booktitle>
+<url>db/conf/oodbs/oodbs86.html#ZaroliagisSGC86</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

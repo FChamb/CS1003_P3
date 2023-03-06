@@ -1,0 +1,233 @@
+<bht key="db/journals/heuristics/heuristics3.bht" title="Journal of Heuristics, Volume 3">  
+<h1><ref href="db/journals/heuristics/index.html">Journal of Heuristics</ref>, Volume 3</h1> 
+<h2>Volume 3, Number 1, Fall 1997</h2> 
+<dblpcites><r style="ee"><article key="journals/heuristics/RibeiroRL97" mdate="2022-04-09">
+<author orcid="0000-0002-9478-2351" pid="26/4167">Celso C. Ribeiro</author>
+<author pid="14/5282">Cl&#225;udio D. Ribeiro</author>
+<author pid="77/6175">Rosana S. G. Lanzelotte</author>
+<title>Query Optimization in Distributed Relational Databases.</title>
+<pages>5-23</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics3.html#RibeiroRL97</url>
+<ee>https://doi.org/10.1023/A:1009670031749</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/KraayH97" mdate="2017-05-18">
+<author pid="71/84">David R. Kraay</author>
+<author pid="29/4483">Patrick T. Harker</author>
+<title>Case-Based Reasoning for Repetitive Combinatorial Optimization Problems, Part II: Numerical Results.</title>
+<pages>25-42</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics3.html#KraayH97</url>
+<ee>https://doi.org/10.1023/A:1009620815820</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/HigginsKF97" mdate="2021-04-09">
+<author pid="94/3187">Andrew J. Higgins</author>
+<author orcid="0000-0002-3208-702X" pid="59/3977">Erhan Kozan</author>
+<author pid="12/3139">Luis Ferreira</author>
+<title>Heuristic Techniques for Single Line Train Scheduling.</title>
+<pages>43-62</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics3.html#HigginsKF97</url>
+<ee>https://doi.org/10.1023/A:1009672832658</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/HongKM97" mdate="2017-05-18">
+<author pid="60/5944">Inki Hong</author>
+<author pid="k/AndrewBKahng">Andrew B. Kahng</author>
+<author pid="91/4695">Byung Ro Moon</author>
+<title>Improved Large-Step Markov Chain Variants for the Symmetric TSP.</title>
+<pages>63-81</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>1</number>
+<url>db/journals/heuristics/heuristics3.html#HongKM97</url>
+<ee>https://doi.org/10.1023/A:1009624916728</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 3, Number 2, Winter 1997</h2> 
+<dblpcites><r style="ee"><article key="journals/heuristics/VigoM97" mdate="2017-05-18">
+<author pid="43/5242">Daniele Vigo</author>
+<author pid="36/4608">Vittorio Maniezzo</author>
+<title>A Genetic/Tabu Thresholding Hybrid Algorithm for the Process Allocation Problem.</title>
+<pages>91-110</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics3.html#VigoM97</url>
+<ee>https://doi.org/10.1023/A:1009676913040</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/DemirkolMU97" mdate="2022-10-02">
+<author pid="52/601">Ebru Demirkol</author>
+<author pid="26/177">Sanjay Mehta</author>
+<author orcid="0000-0002-8068-550X" pid="35/5182">Reha Uzsoy</author>
+<title>A Computational Study of Shifting Bottleneck Procedures for Shop Scheduling Problems.</title>
+<pages>111-137</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics3.html#DemirkolMU97</url>
+<ee>https://doi.org/10.1023/A:1009627429878</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/JacobsonJSFK97" mdate="2017-05-18">
+<author pid="09/4287">Sheldon H. Jacobson</author>
+<author pid="98/4512">Alan W. Johnson</author>
+<author pid="98/6779">Kelly A. Sullivan</author>
+<author pid="19/829">Mark A. Fleischer</author>
+<author pid="55/3227">Ashok Kumar</author>
+<title>Metaheuristics for a Flexible Assembly System Design Problem.</title>
+<pages>139-159</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics3.html#JacobsonJSFK97</url>
+<ee>https://doi.org/10.1023/A:1009679413948</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/GloverL97" mdate="2019-06-04">
+<author pid="46/1455">Fred W. Glover</author>
+<author pid="30/755">Manuel Laguna</author>
+<title>General Purpose Heuristics for Integer Programming-Part II.</title>
+<pages>161-179</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>2</number>
+<url>db/journals/heuristics/heuristics3.html#GloverL97</url>
+<ee>https://doi.org/10.1023/A:1009631530787</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 3, Number 3, November 1997</h2> 
+<dblpcites><r style="ee"><article key="journals/heuristics/DavisCKLO97" mdate="2017-05-18">
+<author pid="41/855">Lawrence Davis</author>
+<author pid="55/4563">Louis Anthony Cox Jr.</author>
+<author pid="12/2685">Warren Kuehner</author>
+<author pid="37/2025">Leonard L. Lu</author>
+<author pid="42/3015">David Orvosh</author>
+<title>Dynamic Hierarchical Packing of Wireless Switches Using a Seed, Repair and Replace Genetic Algorithm.</title>
+<pages>187-205</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics3.html#DavisCKLO97</url>
+<ee>https://doi.org/10.1023/A:1009683509118</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/Saab97" mdate="2017-05-18">
+<author pid="s/YoussefSaab">Youssef Saab</author>
+<title>Combinatorial Optimization by Dynamic Contraction.</title>
+<pages>207-224</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics3.html#Saab97</url>
+<ee>https://doi.org/10.1023/A:1009631125956</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/ShiVV97" mdate="2017-05-18">
+<author pid="30/2759">C.-J. Richard Shi</author>
+<author pid="02/2121">Anthony Vannelli</author>
+<author pid="72/5181">Jir&#237; Vlach</author>
+<title>Performance-Driven Layer Assignment by Integer Linear Programming and Path-Constrained Hypergraph Partitioning.</title>
+<pages>225-243</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics3.html#ShiVV97</url>
+<ee>https://doi.org/10.1023/A:1009683110027</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/BertsekasTW97" mdate="2017-05-18">
+<author pid="b/DimitriPBertsekas">Dimitri P. Bertsekas</author>
+<author pid="00/4563">John N. Tsitsiklis</author>
+<author pid="57/1501">Cynara Wu</author>
+<title>Rollout Algorithms for Combinatorial Optimization.</title>
+<pages>245-262</pages>
+<year>1997</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>3</number>
+<url>db/journals/heuristics/heuristics3.html#BertsekasTW97</url>
+<ee>https://doi.org/10.1023/A:1009635226865</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 3, Number 4, March 1998</h2> 
+<dblpcites><r style="ee"><article key="journals/heuristics/NuijtenP98" mdate="2017-05-18">
+<author pid="n/WimNuijten">Wim Nuijten</author>
+<author pid="84/1556">Claude Le Pape</author>
+<title>Constraint-Based Job Shop Scheduling with \sc Ilog Scheduler.</title>
+<pages>271-286</pages>
+<year>1998</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>4</number>
+<url>db/journals/heuristics/heuristics3.html#NuijtenP98</url>
+<ee>https://doi.org/10.1023/A:1009687210594</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/KovalyovK98" mdate="2019-09-25">
+<author orcid="0000-0003-0832-0829" pid="16/2654">Mikhail Y. Kovalyov</author>
+<author pid="41/1670">Wieslaw Kubiak</author>
+<title>A Fully Polynomial Approximation Scheme for Minimizing Makespan of Deteriorating Jobs.</title>
+<pages>287-297</pages>
+<year>1998</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>4</number>
+<url>db/journals/heuristics/heuristics3.html#KovalyovK98</url>
+<ee>https://doi.org/10.1023/A:1009626427432</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/Gent98" mdate="2017-05-18">
+<author pid="30/3076">Ian P. Gent</author>
+<title>Heuristic Solution of Open Bin Packing Problems.</title>
+<pages>299-304</pages>
+<year>1998</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>4</number>
+<url>db/journals/heuristics/heuristics3.html#Gent98</url>
+<ee>https://doi.org/10.1023/A:1009678411503</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/heuristics/Sun98" mdate="2018-11-14">
+<author orcid="0000-0001-8503-9761" pid="96/833">Minghe Sun</author>
+<title>A Tabu Search Heuristic Procedure for Solving the Transportation Problem with Exclusionary Side Constraints.</title>
+<pages>305-326</pages>
+<year>1998</year>
+<volume>3</volume>
+<journal>J. Heuristics</journal>
+<number>4</number>
+<url>db/journals/heuristics/heuristics3.html#Sun98</url>
+<ee>https://doi.org/10.1023/A:1009630528341</ee>
+<ee>https://www.wikidata.org/entity/Q57570785</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

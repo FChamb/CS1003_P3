@@ -1,0 +1,1086 @@
+<bht key="db/conf/edbt/edbt90.bht" title="2. EDBT 1990: Venice, Italy">  
+<h1>2nd <ref href="db/conf/edbt/index.html">EDBT</ref> 1990:
+Venice, Italy</h1>
+<dblpcites><r><proceedings key="conf/edbt/90" mdate="2019-05-14">
+<editor pid="28/718">Fran&#231;ois Bancilhon</editor>
+<editor pid="89/2480">Costantino Thanos</editor>
+<editor pid="t/DennisTsichritzis">Dennis Tsichritzis</editor>
+<title>Advances in Database Technology - EDBT'90. International Conference on Extending Database Technology, Venice, Italy, March 26-30, 1990, Proceedings</title>
+<booktitle>EDBT</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>416</volume>
+<publisher>Springer</publisher>
+<year>1990</year>
+<isbn>3-540-52291-3</isbn>
+<ee>https://doi.org/10.1007/BFb0022159</ee>
+<url>db/conf/edbt/edbt90.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+
+<h2>Opening</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/Zaniolo90" mdate="2017-05-19">
+<author pid="z/CZaniolo">Carlo Zaniolo</author>
+<title>Deductive Databases - Theory Meets Practice.</title>
+<pages>1-15</pages>
+<cdrom>EDBT90/P001.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#Zaniolo90</url>
+<ee>https://doi.org/10.1007/BFb0022160</ee>
+<cite label="SpBw">books/mk/minker88/AptBW88</cite>
+<cite label="BaBu">...</cite>
+<cite label="BNS">conf/jcdkb/BeeriNT88</cite>
+<cite label="Bor">conf/dpds/Boral88</cite>
+<cite label="BNST">journals/jlp/BeeriNST91</cite>
+<cite label="BMSU">conf/pods/BancilhonMSU86</cite>
+<cite label="Boc">conf/sigmod/Bocca86</cite>
+<cite label="Ceta1">journals/debu/ChimentiOKTWZ87</cite>
+<cite label="Ceta2">journals/tkde/ChimentiGKNTZ90</cite>
+<cite label="CeGW">conf/eds/CeriGW86</cite>
+<cite label="CG89">...</cite>
+<cite label="CGK1">conf/vldb/ChimentiGK89</cite>
+<cite label="CGK2">conf/edbt/ChimentiGK90</cite>
+<cite label="CoMa">conf/sigmod/CopelandM84</cite>
+<cite label="CoSh">...</cite>
+<cite label="DM89">...</cite>
+<cite label="Fost">...</cite>
+<cite label="Gane">...</cite>
+<cite label="GMN">journals/csur/GallaireMN84</cite>
+<cite label="GENE88">...</cite>
+<cite label="JaCV">conf/sigmod/JarkeCV84</cite>
+<cite label="Kell">conf/aaai/Kellogg82</cite>
+<cite label="KNZ">conf/slp/KrishnamurthyNZ89</cite>
+<cite label="KrN1">conf/jcdkb/KrishnamurthyN88</cite>
+<cite label="KrN2">conf/vldb/KrishnamurthyN88</cite>
+<cite label="KrZa">conf/edbt/KrishnamurthyZ88</cite>
+<cite label="KuYo">...</cite>
+<cite label="Li">...</cite>
+<cite label="LeVi">conf/dood/LefebvreV89</cite>
+<cite label="Llo">books/sp/Lloyd87</cite>
+<cite label="MaSu">conf/iclp/MarekS89</cite>
+<cite label="Meta">journals/debu/MorrisNSUG87</cite>
+<cite label="Mi68">...</cite>
+<cite label="NaKr">conf/pods/NaqviK88</cite>
+<cite label="Naq">...</cite>
+<cite label="NaTs">books/cs/NaqviT89</cite>
+<cite label="Prz1">...</cite>
+<cite label="Prz2">conf/iclp/Przymusinski89</cite>
+<cite label="RaBK">conf/pods/RamakrishnanBK88</cite>
+<cite label="RaSh">conf/iclp/RamamohanaraoS87</cite>
+<cite label="RoSh">conf/sigmod/RoweS79</cite>
+<cite label="SaZ1">conf/iclp/SaccaZ87</cite>
+<cite label="SaZ2">journals/tcs/SaccaZ88</cite>
+<cite label="SaZ3">conf/pods/SaccaZ90</cite>
+<cite label="Sch77">journals/tods/Schmidt77</cite>
+<cite label="Seta">conf/sigmod/SelingerACLP79</cite>
+<cite label="ShNa">conf/iclp/ShmueliN87</cite>
+<cite label="ShTZ">conf/pods/ShmueliTZ88</cite>
+<cite label="Tsur">...</cite>
+<cite label="Ull-1">books/cs/Ullman88</cite>
+<cite label="Ull-2">books/cs/Ullman89</cite>
+<cite label="vEKo">journals/jacm/EmdenK76</cite>
+<cite label="War">...</cite>
+<cite label="Zan1">conf/eds/Zaniolo84</cite>
+<cite label="Zan2">conf/iclp/Zaniolo88</cite>
+<cite label="Zan3">conf/dood/Zaniolo89</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Structures</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/Baeza-Yates90" mdate="2020-10-25">
+<author orcid="0000-0003-3208-9778" pid="b/RABaezaYates">Ricardo A. Baeza-Yates</author>
+<title>An Adaptive Overflow Technique for B-trees.</title>
+<pages>16-28</pages>
+<cdrom>EDBT90/P016.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#Baeza-Yates90</url>
+<ee>https://doi.org/10.1007/BFb0022161</ee>
+<cite label="AS72">...</cite>
+<cite label="BM72">journals/acta/BayerM72</cite>
+<cite label="BY87">...</cite>
+<cite label="BY89a">journals/acta/Baeza-Yates89a</cite>
+<cite label="BY89b">journals/acta/Baeza-Yates89</cite>
+<cite label="BYL89">journals/tkde/Baeza-YatesL89</cite>
+<cite label="EZG+82">journals/iandc/WoodEZM82</cite>
+<cite label="JS89">conf/pods/JohnsonS89</cite>
+<cite label="Lom87">journals/tods/Lomet87</cite>
+<cite label="Miz79">...</cite>
+<cite label="Yao78">journals/acta/Yao78</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/MohanHWC90" mdate="2019-05-29">
+<author pid="m/CMohan">C. Mohan 0001</author>
+<author pid="11/633">Don Haderle</author>
+<author pid="36/3235">Yun Wang</author>
+<author pid="30/1628">Josephine M. Cheng</author>
+<title>Single Table Access Using Multiple Indexes: Optimization, Execution, and Concurrency Control Techniques.</title>
+<pages>29-43</pages>
+<cdrom>EDBT90/P029.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#MohanHWC90</url>
+<ee>https://doi.org/10.1007/BFb0022162</ee>
+<cite label="Alur89">...</cite>
+<cite label="BlEs76">...</cite>
+<cite label="BlEs77">journals/ibmsj/BlasgenE77</cite>
+<cite label="Bora88">conf/dpds/Boral88</cite>
+<cite label="CLSW84">journals/ibmsj/ChengLSW84</cite>
+<cite label="Daya87">conf/vldb/Dayal87</cite>
+<cite label="EGLT76">journals/cacm/EswarranGLT76</cite>
+<cite label="Gray78">conf/ac/Gray78</cite>
+<cite label="LoYo89">conf/vldb/LorieY89</cite>
+<cite label="Lync88">conf/vldb/Lynch88</cite>
+<cite label="MHLP89">journals/tods/MohanHLPS92</cite>
+<cite label="Moha89">conf/vldb/Mohan90</cite>
+<cite label="MoLe89">conf/sigmod/MohanL92</cite>
+<cite label="MuDe88">conf/sigmod/MuralikrishnaD88</cite>
+<cite label="Mura88">...</cite>
+<cite label="Onei87">conf/hpts/ONeil87</cite>
+<cite label="Onei89">...</cite>
+<cite label="PMCLS89">conf/dpds/PiraheshMCLS90</cite>
+<cite label="RoRe82">conf/sigmod/RosenthalR82</cite>
+<cite label="SACL79">conf/sigmod/SelingerACLP79</cite>
+<cite label="TeGu84">journals/ibmsj/TengG84</cite>
+<cite label="ValH88">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/Bertino90" mdate="2017-05-19">
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<title>Optimization of Queries using Nested Indices.</title>
+<pages>44-59</pages>
+<cdrom>EDBT90/P044.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#Bertino90</url>
+<ee>https://doi.org/10.1007/BFb0022163</ee>
+<cite label="Bert 89">journals/tkde/BertinoK89</cite>
+<cite label="Bert 89a">...</cite>
+<cite label="Ditt 86">conf/oodbs/Dittrich86</cite>
+<cite label="Kim 88">...</cite>
+<cite label="Kim 88">conf/er/KimKWD88</cite>
+<cite label="Vald 87">journals/debu/Valduriez86</cite>
+<cite label="Yao 77">journals/cacm/Yao77</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Data Models</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/BarbaraGP90" mdate="2017-05-19">
+<author pid="b/DBarbara">Daniel Barbar&#225;</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="81/3102">Daryl Porter</author>
+<title>A Probalilistic Relational Data Model.</title>
+<pages>60-74</pages>
+<cdrom>EDBT90/P060.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#BarbaraGP90</url>
+<ee>https://doi.org/10.1007/BFb0022164</ee>
+<cite label="Bar">...</cite>
+<cite label="Cav">conf/vldb/CavalloP87</cite>
+<cite label="Dad">conf/sigmod/DadamKABEGLPW86</cite>
+<cite label="Dat">books/aw/Date86</cite>
+<cite label="Gar">...</cite>
+<cite label="Gel">conf/icde/GelenbeH86</cite>
+<cite label="Gho">journals/tse/Ghosh86</cite>
+<cite label="Imi">conf/sigmod/Imielinski86</cite>
+<cite label="Imi2">...</cite>
+<cite label="Imi3">journals/jacm/ImielinskiL84</cite>
+<cite label="Lip">journals/tods/Lipski79</cite>
+<cite label="Lip2">conf/mfcs/Lipski77</cite>
+<cite label="Liu">conf/icde/LiuS88</cite>
+<cite label="Men">journals/tods/MendelsonS86</cite>
+<cite label="Mey">...</cite>
+<cite label="Mor">conf/sigir/MorrisseyR87</cite>
+<cite label="Pea">journals/ai/Pearl86</cite>
+<cite label="Raj">journals/tods/RajuM88</cite>
+<cite label="Rei">journals/jacm/Reiter86</cite>
+<cite label="Rot">...</cite>
+<cite label="Rot2">...</cite>
+<cite label="Ull">books/cs/Ullman88</cite>
+<cite label="Vas">conf/vldb/Vassiliou80</cite>
+<cite label="Won">journals/tods/Wong82</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/PoulovassilisK90" mdate="2017-05-19">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="k/PeterJHKing">Peter J. H. King</author>
+<title>Extending the Functional Data Model to Computational Completeness.</title>
+<pages>75-91</pages>
+<cdrom>EDBT90/P075.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#PoulovassilisK90</url>
+<ee>https://doi.org/10.1007/BFb0022165</ee>
+<cite label="ABRI74">...</cite>
+<cite label="ALBA85">journals/tods/AlbanoCO85</cite>
+<cite label="ATKI87">journals/csur/AtkinsonB87</cite>
+<cite label="BANC87">conf/vldb/BancilhonBKV87</cite>
+<cite label="BANC88">conf/pods/Bancilhon88</cite>
+<cite label="BATO88">journals/tods/BatoryLW88</cite>
+<cite label="BEEC88">conf/edbt/Beech88</cite>
+<cite label="Bune82">journals/tods/BunemanFN82</cite>
+<cite label="CARD85">...</cite>
+<cite label="CARD87">journals/scp/Cardelli87</cite>
+<cite label="CLAR78">conf/adbt/Clark77</cite>
+<cite label="DAYA87">conf/btw/DayalMBCGHOR87</cite>
+<cite label="DERA89">...</cite>
+<cite label="DITT88">...</cite>
+<cite label="FIEL88">books/aw/FieldH88</cite>
+<cite label="FLOR74">journals/cj/Florentin74</cite>
+<cite label="GALL78">...</cite>
+<cite label="GRAY88">conf/edbt/GrayMP88</cite>
+<cite label="HAMM78">conf/sigmod/HammerM78</cite>
+<cite label="HEIL88">conf/oodbs/HeilerZ88</cite>
+<cite label="HIND86">books/cu/HindleyS86</cite>
+<cite label="JOU85">...</cite>
+<cite label="KHOS86">conf/oopsla/KhoshafianC86</cite>
+<cite label="KING89">...</cite>
+<cite label="KULK86">journals/cj/KulkarniA86</cite>
+<cite label="KULK87">journals/spe/KulkarniA87</cite>
+<cite label="MILN78">journals/jcss/Milner78</cite>
+<cite label="MILN84">...</cite>
+<cite label="NIEV84">journals/tods/NievergeltHS84</cite>
+<cite label="NIKH85">...</cite>
+<cite label="PATO88">...</cite>
+<cite label="PEYT87">books/ph/Jones87</cite>
+<cite label="POUL89">...</cite>
+<cite label="REIT78">conf/adbt/Reiter77</cite>
+<cite label="SCHM88">...</cite>
+<cite label="SHIP81">journals/tods/Shipman81</cite>
+<cite label="SIBL">...</cite>
+<cite label="SMIT83">...</cite>
+<cite label="TURN85">...</cite>
+<cite label="VERH82">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/Kalinichenko90" mdate="2017-05-19">
+<author pid="k/LeonidAKalinichenko">Leonid A. Kalinichenko</author>
+<title>Methods and Tools for Equivalent Data Model Mapping Construction.</title>
+<pages>92-119</pages>
+<cdrom>EDBT90/P092.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#Kalinichenko90</url>
+<ee>https://doi.org/10.1007/BFb0022166</ee>
+<cite>...</cite>
+<cite>conf/gi/BillerG75</cite>
+<cite>journals/cacm/Tennent76</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/PaoliniP77</cite>
+<cite>journals/cacm/Backus78</cite>
+<cite>journals/is/BillerN78</cite>
+<cite>conf/vldb/Borkin78</cite>
+<cite>conf/vldb/Kalinichenko78</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Zaniolo79</cite>
+<cite>conf/ddb/AdibaADFT80</cite>
+<cite>journals/is/CardenasP80</cite>
+<cite>conf/ddb/LandersR82</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Deductive Database Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/BeeriK90" mdate="2017-05-19">
+<author pid="b/CBeeri">Catriel Beeri</author>
+<author pid="20/563">Yoram Kornatzky</author>
+<title>The Many Faces of Query Monotonicity.</title>
+<pages>120-135</pages>
+<cdrom>EDBT90/P120.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#BeeriK90</url>
+<ee>https://doi.org/10.1007/BFb0022167</ee>
+<cite>journals/vldb/AbiteboulB95</cite>
+<cite>conf/dbpl/AbiteboulG87</cite>
+<cite>conf/popl/AhoU79</cite>
+<cite>journals/jlp/Ait-KaciN86</cite>
+<cite>books/mk/minker88/AptBW88</cite>
+<cite>journals/jacm/AptE82</cite>
+<cite>conf/pods/BancilhonK86</cite>
+<cite>conf/vldb/BancilhonRS82</cite>
+<cite>conf/pods/BeeriNRST87</cite>
+<cite>journals/jcss/ChandraH82</cite>
+<cite>journals/jcss/ChandraH80</cite>
+<cite>conf/sigmod/DadamKABEGLPW86</cite>
+<cite>journals/jlp/Fitting87</cite>
+<cite>conf/sigmod/GyssensG88</cite>
+<cite>conf/pods/HullS88</cite>
+<cite>conf/pods/HullS89</cite>
+<cite>conf/pods/KiferW89</cite>
+<cite>conf/pods/Kuper87</cite>
+<cite>conf/pods/Kuper88</cite>
+<cite>conf/icdt/KuperV88</cite>
+<cite>conf/icde/Linnemann87</cite>
+<cite>conf/sigmod/PaulSSWD87</cite>
+<cite>journals/jacm/SagivY80</cite>
+<cite>journals/is/SchekS86</cite>
+<cite>...</cite>
+<cite>books/cs/Ullman88</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/KusumiNH90" mdate="2017-05-19">
+<author pid="13/5539">Yuki Kusumi</author>
+<author pid="n/ShojiroNishio">Shojiro Nishio</author>
+<author pid="72/3440">Toshiharu Hasegawa</author>
+<title>File Access Level Optimization Using Page Access Graph on Recursive Query Evaluation.</title>
+<pages>136-152</pages>
+<cdrom>EDBT90/P136.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#KusumiNH90</url>
+<ee>https://doi.org/10.1007/BFb0022168</ee>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/BancilhonMSU86</cite>
+<cite>conf/sigmod/BancilhonR86</cite>
+<cite>...</cite>
+<cite>conf/sigmod/HanH87</cite>
+<cite>conf/edbt/HanQC88</cite>
+<cite>journals/jacm/HenschenN84</cite>
+<cite>conf/vldb/IoannidisR88</cite>
+<cite>conf/vldb/Lu87</cite>
+<cite>conf/eds/ValduriezB86</cite>
+<cite>journals/tods/Valduriez87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/ChimentiGK90" mdate="2017-05-19">
+<author pid="91/4807">Danette Chimenti</author>
+<author pid="52/4057">Ruben Gamboa</author>
+<author pid="97/5651">Ravi Krishnamurthy</author>
+<title>Abstract Machine for LDL.</title>
+<pages>153-168</pages>
+<cdrom>EDBT90/P153.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#ChimentiGK90</url>
+<ee>https://doi.org/10.1007/BFb0022169</ee>
+<cite label="Ba85">...</cite>
+<cite label="B*">conf/pods/BancilhonMSU86</cite>
+<cite label="BR86">conf/sigmod/BancilhonR86</cite>
+<cite label="BR87">conf/pods/BeeriR87</cite>
+<cite label="By80">...</cite>
+<cite label="HN84">journals/jacm/HenschenN84</cite>
+<cite label="KZ88">conf/edbt/KrishnamurthyZ88</cite>
+<cite label="Ll84">books/sp/Lloyd84</cite>
+<cite label="Me82">...</cite>
+<cite label="Mi68">...</cite>
+<cite label="Nil80">...</cite>
+<cite label="NT89">books/cs/NaqviT89</cite>
+<cite label="PP82">...</cite>
+<cite label="RBK88">conf/pods/RamakrishnanBK88</cite>
+<cite label="SZ86">conf/icdt/SaccaZ86</cite>
+<cite label="ULL85">journals/tods/Ullman85</cite>
+<cite label="ULL88">books/cs/Ullman88</cite>
+<cite label="ULL89">books/cs/Ullman89</cite>
+<cite label="Vi89">journals/tcs/Vieille89</cite>
+<cite label="Wa71">...</cite>
+<cite label="Wa83">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Query Processing</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/JenqWKL90" mdate="2018-03-28">
+<author pid="70/4065">B. Paul Jenq</author>
+<author pid="89/5812">Darrell Woelk</author>
+<author pid="86/2627-1">Won Kim 0001</author>
+<author pid="11/2967">Wan-Lik Lee</author>
+<title>Query Processing in Distributed ORION.</title>
+<pages>169-187</pages>
+<cdrom>EDBT90/P169.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#JenqWKL90</url>
+<ee>https://doi.org/10.1007/BFb0022170</ee>
+<cite label="ABIT84">conf/pods/AbiteboulB84</cite>
+<cite label="APER83">journals/tse/ApersHY83</cite>
+<cite label="BANE87">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="BANE88">conf/icde/BanerjeeKK88</cite>
+<cite label="CHAN83">conf/sigmod/ChanDFGRS83</cite>
+<cite label="DANI82">conf/ddb/DanielsSHLMWW82</cite>
+<cite label="IEEE88">...</cite>
+<cite label="KIM87">conf/oopsla/KimBCGW87</cite>
+<cite label="KIM88">conf/oopsla/KimBCGWB88</cite>
+<cite label="KIM89a">books/aw/kimL89/KimKD89</cite>
+<cite label="KIM89b">conf/vldb/Kim89</cite>
+<cite label="KIMK88">conf/er/KimKWD88</cite>
+<cite label="LOHM85">books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite label="LORI83">conf/sigmod/LorieP83</cite>
+<cite label="MAKI77">conf/vldb/Makinouchi77</cite>
+<cite label="MACK86">conf/vldb/MackertL86</cite>
+<cite label="SELI79">conf/sigmod/SelingerACLP79</cite>
+<cite label="VALD88">...</cite>
+<cite label="YU87">journals/tc/YuGZTBC87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/Chen90" mdate="2017-05-19">
+<author pid="c/ALPChen">Arbee L. P. Chen</author>
+<title>A Localized Approach to Distributed Query Processing.</title>
+<pages>188-202</pages>
+<cdrom>EDBT90/P188.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#Chen90</url>
+<ee>https://doi.org/10.1007/BFb0022171</ee>
+<cite>journals/tse/ApersHY83</cite>
+<cite>journals/csur/BatiniL86</cite>
+<cite>journals/jacm/BernsteinC81</cite>
+<cite>journals/tods/BernsteinGWRR81</cite>
+<cite>conf/icde/BreitbartOT86</cite>
+<cite>conf/ddss/BreitbartT84</cite>
+<cite>conf/icde/BrillTY84</cite>
+<cite>books/mg/CeriP84</cite>
+<cite>...</cite>
+<cite>conf/vldb/ChenL84</cite>
+<cite>journals/tc/ChenL84</cite>
+<cite>journals/tse/ChenL85</cite>
+<cite>journals/siamcomp/ChiuBH84</cite>
+<cite>conf/sigmod/ChiuH80</cite>
+<cite>journals/tc/ChuH82</cite>
+<cite>conf/icde/CzejdoRE87</cite>
+<cite>books/sp/kimrb85/Dayal85</cite>
+<cite>journals/tse/DayalH84</cite>
+<cite>conf/ddss/DeenAT84</cite>
+<cite>journals/tse/DeenAT87</cite>
+<cite>journals/cj/DeenAOT85</cite>
+<cite>conf/sigmod/EpsteinSW78</cite>
+<cite>conf/sigmod/Freytag87</cite>
+<cite>conf/dpds/Gamal-EldinTE88</cite>
+<cite>conf/sigmod/GraefeD87</cite>
+<cite>conf/vldb/HammerZ80</cite>
+<cite>conf/pods/HwangDG84</cite>
+<cite>...</cite>
+<cite>books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite>conf/sigmod/Lohman88</cite>
+<cite>conf/icod/LukL83</cite>
+<cite>conf/sigmod/ShenoyO87</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Stonebraker75</cite>
+<cite>...</cite>
+<cite>conf/sigmod/YuC83</cite>
+<cite>journals/tse/YuCTBL85</cite>
+<cite>journals/tse/YuGBC89</cite>
+<cite>...</cite>
+<cite>conf/icde/YuLGTBC86</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/RabittiS90" mdate="2019-09-16">
+<author pid="60/423">Fausto Rabitti</author>
+<author orcid="0000-0002-8841-5440" pid="s/PasqualeSavino">Pasquale Savino</author>
+<title>Retrieval of Multimedia Documents by Imprecise Query Specification.</title>
+<pages>203-218</pages>
+<cdrom>EDBT90/P203.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#RabittiS90</url>
+<ee>https://doi.org/10.1007/BFb0022172</ee>
+<cite label="Barb85">conf/vldb/BarbicR85</cite>
+<cite label="Barn81">...</cite>
+<cite label="Belk87">...</cite>
+<cite label="Bert88">journals/tois/BertinoRG88</cite>
+<cite label="Bert88a">...</cite>
+<cite label="Chri84">journals/tse/ChristodoulakisF84</cite>
+<cite label="Chri86">journals/tois/ChristodoulakisTHPP86</cite>
+<cite label="Cont87">...</cite>
+<cite label="Cont89">...</cite>
+<cite label="Crof81">...</cite>
+<cite label="Crof88">...</cite>
+<cite label="Crof88a">journals/tois/CroftS88</cite>
+<cite label="Eiru88">...</cite>
+<cite label="Gibb87">...</cite>
+<cite label="Gord84">...</cite>
+<cite label="Hora86">...</cite>
+<cite label="Morr87">conf/sigir/MorrisseyR87</cite>
+<cite label="ODA85">...</cite>
+<cite label="Rijs79">books/bu/Rijsbergen79</cite>
+<cite label="Rijs86">journals/cj/Rijsbergen86</cite>
+<cite label="Salt83">books/mg/SaltonG83</cite>
+<cite label="Thom85">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Complex Objects</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/HerrmannDKRS90" mdate="2017-05-19">
+<author pid="33/4586">Ulrich Herrmann</author>
+<author pid="d/PDadam">Peter Dadam</author>
+<author pid="k/KKuspert">Klaus K&#252;spert</author>
+<author pid="60/3546">E. A. Roman</author>
+<author pid="19/4663">Gunter Schlageter</author>
+<title>A Lock Technique for Disjoint and Non-Disjoint Complex Objects.</title>
+<pages>219-237</pages>
+<cdrom>EDBT90/P219.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#HerrmannDKRS90</url>
+<ee>https://doi.org/10.1007/BFb0022173</ee>
+<cite label="Astr76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="BaBu84">conf/vldb/BatoryB84</cite>
+<cite label="BaSc77">journals/acta/BayerS77</cite>
+<cite label="Dada86">conf/sigmod/DadamKABEGLPW86</cite>
+<cite label="Dada88">journals/debu/Dadam88</cite>
+<cite label="Date85">...</cite>
+<cite label="DiDa86">conf/oodbs/86</cite>
+<cite label="Ditt86">conf/oodbs/Dittrich86</cite>
+<cite label="Ditt88">...</cite>
+<cite label="GFR87">...</cite>
+<cite label="GLP75">conf/vldb/GrayLPT75</cite>
+<cite label="GLPT76">...</cite>
+<cite label="HaLo82">conf/sigmod/HaskinL82</cite>
+<cite label="HDKS89">conf/btw/HerrmannDKS89</cite>
+<cite label="HHMM88">journals/dke/HarderHMM88</cite>
+<cite label="HMMS87">conf/vldb/HarderMMS87</cite>
+<cite label="KDG87">conf/vldb/KuspertDG87</cite>
+<cite label="KLMP84">conf/vldb/KimLMP84</cite>
+<cite label="KSUW85">conf/sigmod/KlaholdSUW85</cite>
+<cite label="KuRo81">journals/tods/KungR81</cite>
+<cite label="Linn88">conf/vldb/LinnemannKDPEKSWW88</cite>
+<cite label="LoPl83">conf/sigmod/LorieP83</cite>
+<cite label="Lori85">...</cite>
+<cite label="MeLo83">conf/vldb/MeierL83</cite>
+<cite label="Paul87">conf/sigmod/PaulSSWD87</cite>
+<cite label="PiAn86">conf/vldb/PistorA86</cite>
+<cite label="Rehm88">conf/oodbs/RehmRRLHGDA88</cite>
+<cite label="RiSt77">journals/tods/RiesS77</cite>
+<cite label="ScSc86">journals/is/SchekS86</cite>
+<cite label="WKS89">conf/icde/WilkesKS89</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/NavatheC90" mdate="2017-05-19">
+<author pid="n/ShamkantBNavathe">Shamkant B. Navathe</author>
+<author pid="98/3180">Aloysius Cornelio</author>
+<title>Modeling Physical Systems by Complex Structural Objects and Complex Functional Objects.</title>
+<pages>238-252</pages>
+<cdrom>EDBT90/P238.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#NavatheC90</url>
+<ee>https://doi.org/10.1007/BFb0022174</ee>
+<cite label="AND87">conf/oopsla/AndrewsH87</cite>
+<cite label="BAN87">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="BAT84">conf/vldb/BatoryB84</cite>
+<cite label="BAT85">journals/tods/BatoryK85</cite>
+<cite label="COP84">conf/sigmod/CopelandM84</cite>
+<cite label="COR89a">...</cite>
+<cite label="COR89b">...</cite>
+<cite label="COR90a">conf/icde/CornelioND90</cite>
+<cite label="COR90b">...</cite>
+<cite label="DAV84">journals/ai/Davis84</cite>
+<cite label="DAY87">...</cite>
+<cite label="FIS88">...</cite>
+<cite label="GUT77">journals/cacm/Guttag77</cite>
+<cite label="HAM81">journals/tods/HammerM81</cite>
+<cite label="JAY88">...</cite>
+<cite label="KEM87">conf/sigmod/KemperLW87</cite>
+<cite label="KET85">...</cite>
+<cite label="KIM87a">conf/icde/KimCB87</cite>
+<cite label="KIM87b">conf/oopsla/KimBCGW87</cite>
+<cite label="KIM89">conf/sigmod/KimBG89</cite>
+<cite label="LIS75">journals/tse/LiskovZ75</cite>
+<cite label="ONG84">journals/sigmod/OngFS84</cite>
+<cite label="SCH80">conf/er/ScheuermannSW79</cite>
+<cite label="SMI77">journals/tods/SmithS77</cite>
+<cite label="STO87">journals/tods/StonebrakerAH87</cite>
+<cite label="SU86">journals/computer/Su86</cite>
+<cite label="Su90">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/CopelandFW90" mdate="2017-05-19">
+<author pid="37/3701">George P. Copeland</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Uniform Object Management.</title>
+<pages>253-268</pages>
+<cdrom>EDBT90/P253.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#CopelandFW90</url>
+<ee>https://doi.org/10.1007/BFb0022175</ee>
+<cite label="AK85">...</cite>
+<cite label="ACC86">...</cite>
+<cite label="AG89">conf/sigmod/AgrawalG89</cite>
+<cite label="AB87">journals/csur/AtkinsonB87</cite>
+<cite label="Bal87">...</cite>
+<cite label="Ba88a">conf/pods/Bancilhon88</cite>
+<cite label="Ba88b">conf/oodbs/BancilhonBBDGLPRV88</cite>
+<cite label="BBKV87">conf/vldb/BancilhonBKV87</cite>
+<cite label="BCD72">journals/cacm/BensoussanCD72</cite>
+<cite label="Bo88">conf/jcdkb/Boral88</cite>
+<cite label="CDRS86">conf/vldb/CareyDRS86</cite>
+<cite label="Ca88">conf/oodbs/Cattell88</cite>
+<cite label="CW86">conf/oopsla/CaudillW86</cite>
+<cite label="CM88">journals/tocs/ChangM88</cite>
+<cite label="CCF89">...</cite>
+<cite label="CM84">conf/sigmod/CopelandM84</cite>
+<cite label="CKKS89">conf/vldb/CopelandKKS89</cite>
+<cite label="DKV87">...</cite>
+<cite label="Di84">conf/sigmod/DielKLSS84</cite>
+<cite label="Dit86">conf/oodbs/Dittrich86</cite>
+<cite label="DGL87">journals/debu/DittrichGL87</cite>
+<cite label="Fo88">conf/oodbs/FordJLLPPPSTWA88</cite>
+<cite label="HMMS87">conf/vldb/HarderMMS87</cite>
+<cite label="JTTW88">journals/sigmod/JosephTTW89</cite>
+<cite label="KFC88">journals/is/KhoshafianFC90</cite>
+<cite label="KCB88">journals/tse/KimCB88</cite>
+<cite label="Kim88">conf/oopsla/KimBCGWB88</cite>
+<cite label="KDG88">conf/vldb/KuspertDG87</cite>
+<cite label="LY81">journals/tods/LehmanY81</cite>
+<cite label="Mo89">conf/dbpl/Moss89</cite>
+<cite label="OBS86">conf/oodbs/OBrienBS86</cite>
+<cite label="Pa87">conf/sigmod/PaulSSWD87</cite>
+<cite label="RC89">conf/pos/RichardsonC89</cite>
+<cite label="SGS89">journals/ibmsj/ScalziGS89</cite>
+<cite label="SPSW89">journals/tkde/SchekPSW90</cite>
+<cite label="SG88">journals/tods/ShashaG88</cite>
+<cite label="SZR86">conf/oodbs/SkarraZR86</cite>
+<cite label="Sm85">journals/tocs/Smith85</cite>
+<cite label="Sp85">journals/tse/SpectorBDDEFHS85</cite>
+<cite label="St81">journals/cacm/Stonebraker81</cite>
+<cite label="TG84">journals/ibmsj/TengG84</cite>
+<cite label="Tev87">...</cite>
+<cite label="Th86">conf/oodbs/Thatte86</cite>
+<cite label="Tr86">journals/sigops/Traiger82</cite>
+<cite label="Un87">...</cite>
+<cite label="We89">conf/icde/Weikum89</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Database Programming Languages</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/StempleFSS90" mdate="2017-05-19">
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<author pid="f/LeonidasFegaras">Leonidas Fegaras</author>
+<author pid="s/TimSheard">Tim Sheard</author>
+<author pid="59/5498">Adolfo Socorro</author>
+<title>Exceeding the Limits of Polymorphism in Database Programming Languages.</title>
+<pages>269-285</pages>
+<cdrom>EDBT90/P269.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#StempleFSS90</url>
+<ee>https://doi.org/10.1007/BFb0022176</ee>
+<cite>...</cite>
+<cite>conf/dbpl/FegarasSS89</cite>
+<cite>conf/pods/JaeschkeS82</cite>
+<cite>conf/oopsla/Maes87</cite>
+<cite>conf/dbpl/MatthesS89</cite>
+<cite>conf/pos/MorrisonBCCDA89</cite>
+<cite>conf/sigmod/OhoriBT89</cite>
+<cite>conf/dbpl/ShawZ89</cite>
+<cite>...</cite>
+<cite>journals/tods/SheardS89</cite>
+<cite>conf/popl/Smith84</cite>
+<cite>conf/icse/StempleS85</cite>
+<cite>conf/oodbs/StempleSS88</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/RundensteinerB90" mdate="2017-05-19">
+<author pid="r/EARundensteiner">Elke A. Rundensteiner</author>
+<author pid="b/LubomirBic">Lubomir Bic</author>
+<title>Set Operations in a Data Model Supporting Complex Objects.</title>
+<pages>286-300</pages>
+<cdrom>EDBT90/P286.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#RundensteinerB90</url>
+<ee>https://doi.org/10.1007/BFb0022177</ee>
+<cite>journals/tods/AbiteboulH87</cite>
+<cite>journals/csur/AtkinsonB87</cite>
+<cite>...</cite>
+<cite>journals/tods/HammerM81</cite>
+<cite>journals/csur/HullK87</cite>
+<cite>conf/oopsla/KhoshafianC86</cite>
+<cite>journals/tods/MylopoulosBW80</cite>
+<cite>conf/vldb/RundensteinerB89</cite>
+<cite>...</cite>
+<cite>journals/computer/Su86</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/ConnorDMB90" mdate="2021-07-07">
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="b/AlfredLBrown">Fred Brown</author>
+<title>Existentially Quantified Typed as a Database Viewing Mechanism.</title>
+<pages>301-315</pages>
+<cdrom>EDBT90/P301.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#ConnorDMB90</url>
+<ee>https://doi.org/10.1007/BFb0022178</ee>
+<cite label="ABC76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="ABC83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="ABM88">journals/cj/AtkinsonBM88</cite>
+<cite label="ACO85">journals/tods/AlbanoCO85</cite>
+<cite label="BCD89">conf/dbpl/BancilhonCD89</cite>
+<cite label="BL84">...</cite>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="Dea89">...</cite>
+<cite label="Har85">conf/db-workshops/Harper85</cite>
+<cite label="IBM78">...</cite>
+<cite label="MAt85">...</cite>
+<cite label="MBC88">...</cite>
+<cite label="MP85">journals/toplas/MitchellP88</cite>
+<cite label="NW74">...</cite>
+<cite label="Pow85">...</cite>
+<cite label="ps87">...</cite>
+<cite label="SWK76">journals/tods/StonebrakerWKH76</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Panel</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/Maier90" mdate="2017-11-05">
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Panel: Has Theory Brought Anything to Database Systems and Will It in the Future?</title>
+<pages>316</pages>
+<cdrom>EDBT90/P316.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#Maier90</url>
+<ee>https://doi.org/10.1007/BFb0022179</ee>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Object-Oriented Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/AndersonBMPS90" mdate="2017-05-19">
+<author pid="32/5577">T. Lougenia Anderson</author>
+<author pid="55/1946">Arne-J&#248;rgen Berre</author>
+<author pid="92/6112">Moira Mallison</author>
+<author pid="05/5534">Harry H. Porter</author>
+<author pid="06/6892">Bruce Schneider</author>
+<title>The HyperModel Benchmark.</title>
+<pages>317-331</pages>
+<cdrom>EDBT90/P317.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#AndersonBMPS90</url>
+<ee>https://doi.org/10.1007/BFb0022180</ee>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icse/Bernstein87</cite>
+<cite>conf/vldb/BittonDT83</cite>
+<cite>conf/oodbs/Cattell88</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/ecoop/LoomisSR87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/RubensteinKC87</cite>
+<cite>...</cite>
+<cite>journals/cacm/BlahaPR88</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/Barbedette90" mdate="2017-05-19">
+<author pid="78/4814">Gilles Barbedette</author>
+<title>LISPO<sub>2</sub>: a Persistent Object-Oriented Lisp.</title>
+<pages>332-347</pages>
+<cdrom>EDBT90/P332.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#Barbedette90</url>
+<ee>https://doi.org/10.1007/BFb0022181</ee>
+<cite label="Alba85">journals/tods/AlbanoCO85</cite>
+<cite label="Andr87">conf/oopsla/AndrewsH87</cite>
+<cite label="Atki81">...</cite>
+<cite label="Atki87">journals/csur/AtkinsonB87</cite>
+<cite label="Banc88">conf/oodbs/BancilhonBBDGLPRV88</cite>
+<cite label="Bane87">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="Care88">conf/sigmod/CareyDV88</cite>
+<cite label="Cope84">conf/sigmod/CopelandM84</cite>
+<cite label="Dada86">conf/sigmod/DadamKABEGLPW86</cite>
+<cite label="Demi87">conf/ecoop/DeMichielG87</cite>
+<cite label="Fish87">journals/tois/FishmanBCCCDDHKLMNRS87</cite>
+<cite label="Gold83">books/aw/GoldbergR83</cite>
+<cite label="Kael86">conf/oopsla/Kaehler86</cite>
+<cite label="Kim87">conf/oopsla/KimBCGW87</cite>
+<cite label="L&#233;cl89a">conf/pods/LecluseR89</cite>
+<cite label="L&#233;cl89b">conf/vldb/LecluseR89</cite>
+<cite label="Lieb86">conf/oopsla/Lieberman86</cite>
+<cite label="Maie86">conf/oopsla/MaierSOP86</cite>
+<cite label="Meye88">...</cite>
+<cite label="Paep88">conf/ecoop/Paepcke88</cite>
+<cite label="Rees87">...</cite>
+<cite label="Scha86">conf/oopsla/SchaffertCBKW86</cite>
+<cite label="Schm77">journals/tods/Schmidt77</cite>
+<cite label="Stro86">books/aw/Stroustrup86</cite>
+<cite label="Vele89">conf/vldb/VelezBD89</cite>
+<cite label="Wegn87">conf/oopsla/Wegner87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/LyngbaekWH90" mdate="2017-05-19">
+<author pid="39/1385">Peter Lyngb&#230;k</author>
+<author pid="w/KevinWilkinson">W. Kevin Wilkinson</author>
+<author pid="30/1809">Waqar Hasan</author>
+<title>The Iris Kernel Architecture.</title>
+<pages>348-362</pages>
+<cdrom>EDBT90/P348.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#LyngbaekWH90</url>
+<ee>https://doi.org/10.1007/BFb0022182</ee>
+<cite label="BE77">journals/ibmsj/BlasgenE77</cite>
+<cite label="BM88">conf/icde/BeechM88</cite>
+<cite label="CL88">conf/oodbs/ConnorsL88</cite>
+<cite label="DG87">conf/sigmod/GraefeD87</cite>
+<cite label="DS89">...</cite>
+<cite label="Fis=89">books/aw/kimL89/FishmanABCCDHHKLLMNRSW89</cite>
+<cite label="Fis+87">journals/tois/FishmanBCCCDDHKLMNRS87</cite>
+<cite label="HP-">...</cite>
+<cite label="HZ88">conf/oodbs/HeilerZ88</cite>
+<cite label="LK86">conf/oodbs/LyngbaekK86</cite>
+<cite label="LV87">conf/sigmod/LyngbaekV87</cite>
+<cite label="LW89a">...</cite>
+<cite label="LW89b">...</cite>
+<cite label="MBW80">journals/tods/MylopoulosBW80</cite>
+<cite label="MD86">conf/oodbs/ManolaD86</cite>
+<cite label="Ris89">conf/vldb/Risch89</cite>
+<cite label="Shi81">journals/tods/Shipman81</cite>
+<cite label="WLH89">journals/tkde/WilkinsonLH90</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Time, Object-Oriented and Active Systems</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/CartF90" mdate="2017-05-19">
+<author pid="09/2345">Mich&#232;le Cart</author>
+<author pid="08/3501">Jean Ferri&#233;</author>
+<title>Integrating Concurrency Control into an Object-Oriented Database System.</title>
+<pages>363-377</pages>
+<cdrom>EDBT90/P363.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#CartF90</url>
+<ee>https://doi.org/10.1007/BFb0022183</ee>
+<cite>...</cite>
+<cite>conf/pods/Bancilhon88</cite>
+<cite>conf/oodbs/BancilhonBBDGLPRV88</cite>
+<cite>conf/sigmod/BanerjeeKKK87</cite>
+<cite>conf/edbt/BeeriSW88</cite>
+<cite>journals/jacm/BeeriBG89</cite>
+<cite>books/aw/BernsteinHG87</cite>
+<cite>conf/pods/Carey83</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/EswarranGLT76</cite>
+<cite>journals/tois/FishmanBCCCDDHKLMNRS87</cite>
+<cite>journals/tods/Garcia-Molina83</cite>
+<cite>conf/sigmod/GarzaK88</cite>
+<cite>conf/ac/Gray78</cite>
+<cite>journals/csur/HarderR83</cite>
+<cite>conf/sigmod/LecluseRV88</cite>
+<cite>conf/pods/LecluseR89</cite>
+<cite>...</cite>
+<cite>journals/tocs/SchwarzS84</cite>
+<cite>...</cite>
+<cite>conf/vldb/VelezBD89</cite>
+<cite>conf/vldb/WoelkK87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/HulsmannS90" mdate="2017-05-19">
+<author pid="76/1968">Klaus H&#252;lsmann</author>
+<author pid="s/GunterSaake">Gunter Saake</author>
+<title>Representation of the Historical Information Necessary for Temporal Integrity Monitoring.</title>
+<pages>378-392</pages>
+<cdrom>EDBT90/P378.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#HulsmannS90</url>
+<ee>https://doi.org/10.1007/BFb0022184</ee>
+<cite label="Ch76">...</cite>
+<cite label="EDG86">conf/ds/EhrichDG86</cite>
+<cite label="EHHLE">...</cite>
+<cite label="ELG84">conf/vldb/EhrichLG84</cite>
+<cite label="FiS88">journals/acta/FiadeiroS88</cite>
+<cite label="HsI85">conf/sigmod/HsuI85</cite>
+<cite label="H&#252;88">...</cite>
+<cite label="H&#252;S89">journals/acta/HulsmannS91</cite>
+<cite label="KoSS87">conf/vldb/KowalskiSS87</cite>
+<cite label="Kr87">...</cite>
+<cite label="Ku84">conf/vldb/Kung84</cite>
+<cite label="LEG85">...</cite>
+<cite label="Li88">conf/icdt/Lipeck88</cite>
+<cite label="Li89">...</cite>
+<cite label="LiS87">journals/is/LipeckS87</cite>
+<cite label="LlT85">journals/jlp/LloydT85</cite>
+<cite label="MaP81">...</cite>
+<cite label="MaW84">journals/toplas/MannaW84</cite>
+<cite label="Ni82">journals/acta/Nicolas82</cite>
+<cite label="Sa88">...</cite>
+<cite label="SaL87">conf/tdb/SaakeL87</cite>
+<cite label="SaL89">conf/csl/SaakeL88</cite>
+<cite label="Se80">journals/is/Sernadas80</cite>
+<cite label="SFNC84">journals/is/SchielFNC84</cite>
+<cite label="Vi83">conf/pods/Vianu83</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/ChakravarthyN90" mdate="2017-05-19">
+<author pid="c/SChakravarthy">Sharma Chakravarthy</author>
+<author pid="75/2288">Susan Nesson</author>
+<title>Making an Object-Oriented DBMS Active: Design, Implementation, and Evaluation of a Prototype.</title>
+<pages>393-406</pages>
+<cdrom>EDBT90/P393.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#ChakravarthyN90</url>
+<ee>https://doi.org/10.1007/BFb0022185</ee>
+<cite label="BOBR83">...</cite>
+<cite label="CHAK89">...</cite>
+<cite label="DARN87">...</cite>
+<cite label="DAYA88a">journals/sigmod/DayalBBCHLMRSCLJ88</cite>
+<cite label="DAYA88b">...</cite>
+<cite label="DAYA87a">...</cite>
+<cite label="DAYA87b">...</cite>
+<cite label="DITT86">journals/sigmod/DittrichKM86</cite>
+<cite label="INTE85">...</cite>
+<cite label="MANO86">conf/oodbs/ManolaD86</cite>
+<cite label="ROSE86">conf/sigmod/RosenthalHDM86</cite>
+<cite label="STON86">conf/sigmod/StonebrakerR86</cite>
+<cite label="STON87">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Rules</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/ZhouH90" mdate="2017-05-19">
+<author pid="07/4783">Yuli Zhou</author>
+<author pid="40/4895">Meichun Hsu</author>
+<title>A Theory for Rule Triggering Systems.</title>
+<pages>407-421</pages>
+<cdrom>EDBT90/P407.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#ZhouH90</url>
+<ee>https://doi.org/10.1007/BFb0022186</ee>
+<cite>conf/sigmod/BlakeleyLT86</cite>
+<cite>journals/tods/BunemanC79</cite>
+<cite>...</cite>
+<cite>conf/aaai/Cohen86</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/ai/Forgy82</cite>
+<cite>conf/jcdkb/HsuLM88</cite>
+<cite>conf/oodbs/HsuC88</cite>
+<cite>journals/jacm/Huet80</cite>
+<cite>...</cite>
+<cite>conf/adbt/NicolasY77</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/cs/Ullman82</cite>
+<cite>journals/jacm/EmdenK76</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/AntunesBCLS90" mdate="2019-11-07">
+<author pid="93/3152">Francisca Antunes</author>
+<author pid="66/4152">Se&#225;n Baker</author>
+<author pid="18/6068-1">Brian Caulfield 0001</author>
+<author pid="39/764">Mauricio Lopez</author>
+<author pid="37/5129">Mark Sheppard</author>
+<title>A Pragmatic Approach for Integrating Data Management and Tasks Management: Modelling and Implementation Issues.</title>
+<pages>422-436</pages>
+<cdrom>EDBT90/P422.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#AntunesBCLS90</url>
+<ee>https://doi.org/10.1007/BFb0022187</ee>
+<cite label="Ant89">...</cite>
+<cite label="Bra83">conf/sigmod/BracchiP83</cite>
+<cite label="Ber88">...</cite>
+<cite label="Chu84">...</cite>
+<cite label="Cau88">...</cite>
+<cite label="Day89">conf/sigmod/McCarthyD89</cite>
+<cite label="DOE87">...</cite>
+<cite label="Ell79">...</cite>
+<cite label="Ham83">...</cite>
+<cite label="Lop87">...</cite>
+<cite label="Mal83">...</cite>
+<cite label="Ped88">...</cite>
+<cite label="PPR85">...</cite>
+<cite label="Sac86">journals/is/Sacco88</cite>
+<cite label="Sch77">journals/tods/Schmidt77</cite>
+<cite label="Shi81">journals/tods/Shipman81</cite>
+<cite label="Sir82">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/edbt/BonnerI90" mdate="2017-05-19">
+<author pid="b/AJBonner">Anthony J. Bonner</author>
+<author pid="i/TomaszImielinski">Tomasz Imielinski</author>
+<title>The Reuse and Modification of Rulebases by Predicate Substituation.</title>
+<pages>437-451</pages>
+<cdrom>EDBT90/P437.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#BonnerI90</url>
+<ee>https://doi.org/10.1007/BFb0022188</ee>
+<cite>journals/jacm/AptE82</cite>
+<cite>conf/pods/BeeriNRST87</cite>
+<cite>conf/sigmod/ChomickiI89</cite>
+<cite>conf/pods/Kuper87</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/vldb/TsurZ86</cite>
+<cite>journals/jacm/EmdenK76</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Panel</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/edbt/Missikoff90" mdate="2017-05-19">
+<author pid="m/MMissikoff">Michele Missikoff</author>
+<title>Panel: &#34;Why are object-oriented folks producing systems, while deductive foks are producing papers?&#34;.</title>
+<pages>452</pages>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#Missikoff90</url>
+<ee>https://doi.org/10.1007/BFb0022189</ee>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

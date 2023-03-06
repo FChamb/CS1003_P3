@@ -1,0 +1,213 @@
+<bht key="db/journals/is/is95.bht" title="Information Systems, Volume 95"> 
+<h1><ref href="db/journals/is/index.html">Information Systems</ref>, Volume 95</h1> 
+<h2>Volume 95, January 2021</h2> Special Section:
+11th International Conference on Similarity Search and Applications (SISAP 2018) 
+<dblpcites><r style="ee"><article key="journals/is/RazenteBS21" mdate="2022-04-09">
+<author orcid="0000-0001-9687-5730" pid="86/470">Humberto Luiz Razente</author>
+<author orcid="0000-0002-5809-0243" pid="37/2450">Maria Camila Nardini Barioni</author>
+<author pid="198/8864">R&#233;gis Michel dos Santos Sousa</author>
+<title>A comprehensive analysis of delayed insertions in metric access methods.</title>
+<pages>101492</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101492</ee>
+<url>db/journals/is/is95.html#RazenteBS21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/DearleC21" mdate="2021-07-07">
+<author orcid="0000-0002-1157-2421" pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<title>Bitpart: Exact metric search in high(er) dimensions.</title>
+<pages>101493</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101493</ee>
+<url>db/journals/is/is95.html#DearleC21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/VadicamoGFCCA21" mdate="2022-11-18">
+<author orcid="0000-0001-7182-7038" pid="152/1401">Lucia Vadicamo</author>
+<author orcid="0000-0002-3715-149X" pid="68/4499">Claudio Gennaro</author>
+<author orcid="0000-0001-6258-5313" pid="32/4659">Fabrizio Falchi</author>
+<author pid="95/1963">Edgar Ch&#225;vez</author>
+<author pid="c/RCHConnor">Richard Connor 0001</author>
+<author orcid="0000-0003-0171-4315" pid="54/685">Giuseppe Amato 0001</author>
+<title>Re-ranking via local embeddings: A use case with permutation-based indexing and the nSimplex projection.</title>
+<pages>101506</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101506</ee>
+<url>db/journals/is/is95.html#VadicamoGFCCA21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/ShimomuraOVK21" mdate="2020-11-07">
+<author pid="227/4708">Larissa Capobianco Shimomura</author>
+<author pid="272/7074">Rafael Seidi Oyamada</author>
+<author orcid="0000-0003-3502-8014" pid="98/5702">Marcos R. Vieira</author>
+<author orcid="0000-0001-9628-3313" pid="k/DanielSKaster">Daniel S. Kaster</author>
+<title>A survey on graph-based methods for similarity searches in metric spaces.</title>
+<pages>101507</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101507</ee>
+<url>db/journals/is/is95.html#ShimomuraOVK21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/SilvaM21" mdate="2020-10-29">
+<author pid="s/YasinNSilva">Yasin N. Silva</author>
+<author pid="32/3825">St&#233;phane Marchand-Maillet</author>
+<title>Introduction to Special Issue of the 11th International Conference on Similarity Search and Applications (SISAP 2018).</title>
+<pages>101509</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101509</ee>
+<url>db/journals/is/is95.html#SilvaM21</url>
+</article>
+</r>
+</dblpcites>
+
+Regular Articles 
+<dblpcites><r style="ee"><article key="journals/is/AlvesBFB21" mdate="2022-04-09">
+<author orcid="0000-0002-4744-9177" pid="144/4514">Fernando Alves</author>
+<author pid="239/4243">Aur&#233;lien Bettini</author>
+<author orcid="0000-0003-2369-0115" pid="50/5790-5">Pedro M. Ferreira 0001</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Bessani</author>
+<title>Processing tweets for cybersecurity threat awareness.</title>
+<pages>101586</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101586</ee>
+<url>db/journals/is/is95.html#AlvesBFB21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/KlinkmullerW21" mdate="2020-11-07">
+<author orcid="0000-0002-5926-2238" pid="97/8388">Christopher Klinkm&#252;ller</author>
+<author orcid="0000-0002-4833-5921" pid="59/1213">Ingo Weber</author>
+<title>Every apprentice needs a master: Feedback-based effectiveness improvements for process model matching.</title>
+<pages>101612</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101612</ee>
+<url>db/journals/is/is95.html#KlinkmullerW21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/BikakisMPV21" mdate="2020-11-14">
+<author orcid="0000-0001-6859-1941" pid="57/7247">Nikos Bikakis</author>
+<author orcid="0000-0003-2816-4368" pid="223/7951">Stavros Maroulis</author>
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0003-0085-6776" pid="13/1242">Panos Vassiliadis</author>
+<title>In-situ visual exploration over big raw data.</title>
+<pages>101616</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101616</ee>
+<url>db/journals/is/is95.html#BikakisMPV21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/DuanYCYY21" mdate="2020-10-29">
+<author pid="119/9357">Xiaoyu Duan</author>
+<author pid="75/3547">Shi Ying</author>
+<author pid="166/2656">Hailong Cheng</author>
+<author pid="240/2791">Wanli Yuan</author>
+<author pid="18/1022">Xiang Yin</author>
+<title>OILog: An online incremental log keyword extraction approach based on MDP-LSTM neural network.</title>
+<pages>101618</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101618</ee>
+<url>db/journals/is/is95.html#DuanYCYY21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/LahmarH21" mdate="2020-10-29">
+<author pid="196/1385">Houssem Ben Lahmar</author>
+<author pid="w/MelanieWeis">Melanie Herschel</author>
+<title>Collaborative filtering over evolution provenance data for interactive visual data exploration.</title>
+<pages>101620</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101620</ee>
+<url>db/journals/is/is95.html#LahmarH21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/OliveiraFSGML21" mdate="2020-11-07">
+<author orcid="0000-0002-2357-5814" pid="136/0322">Italo Lopes Oliveira</author>
+<author pid="35/2350">Renato Fileto</author>
+<author pid="67/10288">Ren&#233; Speck</author>
+<author pid="25/7075">Lu&#237;s Paulo F. Garcia</author>
+<author pid="168/1542">Diego Moussallem</author>
+<author pid="71/4882">Jens Lehmann 0001</author>
+<title>Towards holistic Entity Linking: Survey and directions.</title>
+<pages>101624</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101624</ee>
+<url>db/journals/is/is95.html#OliveiraFSGML21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/BrunkSPRMB21" mdate="2020-11-14">
+<author orcid="0000-0001-6020-5540" pid="208/0939">Jens Brunk</author>
+<author pid="231/9655">Matthias Stierle</author>
+<author pid="270/1623">Leon Papke</author>
+<author orcid="0000-0001-8914-9132" pid="67/1904">Kate Revoredo</author>
+<author orcid="0000-0001-5244-3928" pid="00/4206">Martin Matzner</author>
+<author pid="b/JorgBecker">J&#246;rg Becker 0001</author>
+<title>Cause vs. effect in context-sensitive prediction of business process instances.</title>
+<pages>101635</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101635</ee>
+<url>db/journals/is/is95.html#BrunkSPRMB21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/KirE21" mdate="2020-11-14">
+<author orcid="0000-0002-3315-2794" pid="74/7556">H&#252;seyin Kir</author>
+<author orcid="0000-0002-7719-1955" pid="e/NadiaErdogan">Nadia Erdogan</author>
+<title>A knowledge-intensive adaptive business process management framework.</title>
+<pages>101639</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101639</ee>
+<url>db/journals/is/is95.html#KirE21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/Boken21" mdate="2020-10-29">
+<author pid="277/3445">Bj&#246;rn B&#246;ken</author>
+<title>On the appropriateness of Platt scaling in classifier calibration.</title>
+<pages>101641</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101641</ee>
+<url>db/journals/is/is95.html#Boken21</url>
+</article>
+</r>
+<r style="ee"><article key="journals/is/MartinPM21" mdate="2022-06-23">
+<author orcid="0000-0003-3279-3853" pid="157/0683">Niels Martin</author>
+<author orcid="0000-0002-5182-2587" pid="121/4587">Luise Pufahl</author>
+<author orcid="0000-0003-1733-777X" pid="133/6845">Felix Mannhardt</author>
+<title>Detection of batch activities from event logs.</title>
+<pages>101642</pages>
+<year>2021</year>
+<volume>95</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2020.101642</ee>
+<url>db/journals/is/is95.html#MartinPM21</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

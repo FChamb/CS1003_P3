@@ -1,0 +1,1142 @@
+<bht key="db/conf/dbpl/dbpl89.bht" title="DBPL-2, 1989: Gleneden Beach, Oregon">
+
+<h1><ref href="db/conf/dbpl/index.html">DBPL</ref>-2, 1989:
+Gleneden Beach, Oregon</h1>
+<dblpcites><r><proceedings key="conf/dbpl/89" mdate="2018-06-20">
+<editor pid="h/RichardHull">Richard Hull 0001</editor>
+<editor pid="82/2183">Ronald Morrison</editor>
+<editor pid="s/DavidWStemple">David W. Stemple</editor>
+<title>Proceedings of the Second International Workshop on Database Programming Languages, 4-8 June, 1989, Salishan Lodge, Gleneden Beach, Oregon, USA</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1990</year>
+<isbn>1-55860-072-8</isbn>
+<url>db/conf/dbpl/dbpl89.html</url>
+</proceedings>
+</r>
+</dblpcites>
+
+
+<h2>Persistence</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/dbpl/Atkinson89" mdate="2022-05-11">
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Questioning Persistent Types.</title>
+<pages>2-24</pages>
+<cdrom>DBPL1989/P002.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#Atkinson89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="AB87">journals/csur/AtkinsonB87</cite>
+<cite label="ABC+83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="ABM88a">journals/cj/AtkinsonBM88</cite>
+<cite label="ABM88b">conf/pos/1985</cite>
+<cite label="ACC81">...</cite>
+<cite label="ACC83a">journals/spe/AtkinsonCCM83</cite>
+<cite label="ACC83b">journals/spe/AtkinsonCC83</cite>
+<cite label="ACO+85">journals/tods/AlbanoCO85</cite>
+<cite label="ADG+89">conf/dbpl/AlbanoDGMMOS89</cite>
+<cite label="AGO+85">conf/db-workshops/AlbanoGOP85</cite>
+<cite label="AGO89">conf/dbpl/AlbanoGO89</cite>
+<cite label="AHP+89">...</cite>
+<cite label="Ait85">conf/db-workshops/Ait-KaciN85</cite>
+<cite label="AM87b">conf/dbpl/AtkinsonM87</cite>
+<cite label="AM85b">conf/db-workshops/AtkinsonM85</cite>
+<cite label="AM87">...</cite>
+<cite label="Atk78">conf/vldb/Atkinson78</cite>
+<cite label="Atk89">conf/pos/AtkinsonM89</cite>
+<cite label="BA86">conf/sigmod/BunemanA86</cite>
+<cite label="BBO89">conf/dbpl/TannenBO89</cite>
+<cite label="BC85">...</cite>
+<cite label="BC87">...</cite>
+<cite label="BFS87">...</cite>
+<cite label="BFS87a">conf/dbpl/BakerFS87</cite>
+<cite label="BO89">...</cite>
+<cite label="BO89x">conf/sigmod/OhoriBT89</cite>
+<cite label="Bro89">...</cite>
+<cite label="Bun85">conf/db-workshops/Buneman85</cite>
+<cite label="BW87">conf/dbpl/BruceW87</cite>
+<cite label="CAD+87">conf/vldb/CooperADA87</cite>
+<cite label="Car84">...</cite>
+<cite label="Car85">...</cite>
+<cite label="Car88">conf/edbt/Cardelli88</cite>
+<cite label="CM85">conf/db-workshops/CardelliM85</cite>
+<cite label="CM88">...</cite>
+<cite label="Coo89">...</cite>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="DB87">journals/cj/DearleB88</cite>
+<cite label="DCB+89">conf/dbpl/DearleCBM89</cite>
+<cite label="DD79">...</cite>
+<cite label="Dea89">...</cite>
+<cite label="Fai85">conf/db-workshops/Fairbairn85</cite>
+<cite label="FSS89">conf/dbpl/FegarasSS89</cite>
+<cite label="Ghe89">...</cite>
+<cite label="Har85">conf/db-workshops/Harper85</cite>
+<cite label="HS89a">conf/pos/HurstS89</cite>
+<cite label="HS89b">conf/dbpl/HullS89</cite>
+<cite label="IBH+">...</cite>
+<cite label="Jac89">conf/dbpl/Jacobs89</cite>
+<cite label="KR89">...</cite>
+<cite label="LZ74">journals/sigplan/LiskovZ74</cite>
+<cite label="Mat87a">...</cite>
+<cite label="Mat87b">conf/dbpl/Matthews87</cite>
+<cite label="MBC+89">...</cite>
+<cite label="MD89">...</cite>
+<cite label="Mi78">journals/jcss/Milner78</cite>
+<cite label="Mil84">conf/lfp/Milner84</cite>
+<cite label="Mor79">...</cite>
+<cite label="Mor89">conf/pos/MorrisonBCCDA89</cite>
+<cite label="MP85">conf/popl/MitchellP85</cite>
+<cite label="MPS84">conf/popl/MacQueenPS84</cite>
+<cite label="MS89">conf/dbpl/MatthesS89</cite>
+<cite label="Nik84">...</cite>
+<cite label="Nip85">...</cite>
+<cite label="Oho87">conf/dbpl/Ohori87</cite>
+<cite label="Owo84">...</cite>
+<cite label="Owo85">...</cite>
+<cite label="Pow89">conf/pos/Powell89</cite>
+<cite label="Sch77">journals/tods/Schmidt77</cite>
+<cite label="SFL83">...</cite>
+<cite label="Shi81">journals/tods/Shipman81</cite>
+<cite label="SS87">conf/dbpl/StempleS87</cite>
+<cite label="Ste81">...</cite>
+<cite label="Ten81">...</cite>
+<cite label="Wei85">conf/db-workshops/Weihl85</cite>
+<cite label="WZ89">conf/dbpl/WegnerZ89</cite>
+<cite label="Zdo87">conf/dbpl/Zdonik87</cite>
+<cite label="Zdo89">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/AgrawalG89" mdate="2017-11-07">
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="88/911">Narain H. Gehani</author>
+<title>Rationale for the Design of Persistence and Query Processing Facilities in the Database Programming Language O++.</title>
+<pages>25-40</pages>
+<cdrom>DBPL1989/P025.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#AgrawalG89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite>conf/icde/Agrawal87</cite>
+<cite>conf/sigmod/AgrawalG89</cite>
+<cite>conf/popl/AhoU79</cite>
+<cite>journals/tods/AlbanoCO85</cite>
+<cite>conf/oopsla/AndrewsH87</cite>
+<cite>journals/csur/AtkinsonB87</cite>
+<cite>conf/sigmod/BancilhonR86</cite>
+<cite>conf/vldb/BancilhonBKV87</cite>
+<cite>journals/tois/BanerjeeCGKWBK87</cite>
+<cite>conf/oopsla/BloomZ87</cite>
+<cite>...</cite>
+<cite>conf/sigmod/BunemanA86</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/spe/CockshottACBM84</cite>
+<cite>conf/sigmod/CopelandM84</cite>
+<cite>journals/computer/DetlefsHW88</cite>
+<cite>journals/spe/GehaniR86</cite>
+<cite>conf/oopsla/KhoshafianC86</cite>
+<cite>conf/sigmod/LecluseRV88</cite>
+<cite>journals/sigmod/BernsteinDDGGJLLMNRRSSSS89</cite>
+<cite>conf/sigmod/NixonCLBMS87</cite>
+<cite>conf/oodbs/OBrienBS86</cite>
+<cite>...</cite>
+<cite>conf/sigmod/RichardsonC87</cite>
+<cite>journals/spe/RichardsonC89</cite>
+<cite>journals/toplas/RichardsonCS93</cite>
+<cite>conf/sigmod/RoweS79</cite>
+<cite>conf/vldb/RoweS87</cite>
+<cite>conf/icde/SchlageterUWZMNM88</cite>
+<cite>journals/tods/Schmidt77</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/aw/Stroustrup86</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Wasserman79</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/TarrWW89" mdate="2012-09-18">
+<author pid="t/PeriLTarr">Peri L. Tarr</author>
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<title>A Different Tack to Providing Persistence in a Language.</title>
+<pages>41-60</pages>
+<cdrom>DBPL1989/P041.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#TarrWW89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite>journals/tods/AlbanoCO85</cite>
+<cite>journals/cj/AtkinsonBCCM83</cite>
+<cite>journals/csur/AtkinsonB87</cite>
+<cite>...</cite>
+<cite>conf/oodbs/MossS88</cite>
+<cite>journals/tods/Schmidt77</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sde/WiledenWFT88</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/PhilbrowHA89" mdate="2022-05-11">
+<author pid="16/3545">Paul Philbrow</author>
+<author pid="17/4058">David Harper</author>
+<author pid="a/MalcolmPAtkinson">Malcolm P. Atkinson 0001</author>
+<title>Supporting an Object-Oriented Programming Methodology using PS-Algol.</title>
+<pages>61-78</pages>
+<cdrom>DBPL1989/P061.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#PhilbrowHA89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="Atkinson et al. 83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="Atkinson &#38; Buneman 87">journals/csur/AtkinsonB87</cite>
+<cite label="Atkinson &#38; Morrison 85">journals/toplas/AtkinsonM85</cite>
+<cite label="Blott &#38; Campin 87">...</cite>
+<cite label="Copeland &#38; Maier 84">conf/sigmod/CopelandM84</cite>
+<cite label="Cutts &#38; Kirby 87">...</cite>
+<cite label="Dearle 88">...</cite>
+<cite label="Harper &#38; Philbrow 89">...</cite>
+<cite label="L&#233;cluse et al. 88">conf/sigmod/LecluseRV88</cite>
+<cite label="Morrison et al. 86">...</cite>
+<cite label="Morrison et al. 87">...</cite>
+<cite label="Ontologic 87">...</cite>
+<cite label="PPRG 88">...</cite>
+<cite label="Purdy et al. 87">journals/tois/PurdySM87</cite>
+<cite label="SERC 89">...</cite>
+<cite label="Stroustrup 86">books/aw/Stroustrup86</cite>
+<cite label="Wai 88">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Objects and Databases</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/dbpl/Dayal89" mdate="2012-09-18">
+<author pid="76/2198">Umeshwar Dayal</author>
+<title>Queries and Views in an Object-Oriented Data Model.</title>
+<pages>80-102</pages>
+<cdrom>DBPL1989/P080.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#Dayal89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="ABIT88">journals/vldb/AbiteboulB95</cite>
+<cite label="AGRA88">conf/icde/Agrawal87</cite>
+<cite label="AGRA89">conf/sigmod/AgrawalG89</cite>
+<cite label="ALBA86">conf/oodbs/AlbanoGOO86</cite>
+<cite label="ATKI87">journals/csur/AtkinsonB87</cite>
+<cite label="BANC86">conf/pods/BancilhonK86</cite>
+<cite label="BANC88">conf/oodbs/BancilhonBBDGLPRV88</cite>
+<cite label="BANN87">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="BANN88">conf/icde/BanerjeeKK88</cite>
+<cite label="BATO88">journals/tods/BatoryLW88</cite>
+<cite label="CARE86">conf/oodbs/CareyDFGMRS86</cite>
+<cite label="CARE88">conf/sigmod/CareyDV88</cite>
+<cite label="CHAN82">conf/vldb/ChanDFLNR82</cite>
+<cite label="CHAN87">...</cite>
+<cite label="CODD79">journals/tods/Codd79</cite>
+<cite label="COPE84">conf/sigmod/CopelandM84</cite>
+<cite label="DANF88">journals/csur/DanforthT88</cite>
+<cite label="DAYA78">journals/tods/DayalB82</cite>
+<cite label="DAYA82">conf/pods/DayalGK82</cite>
+<cite label="DAYA84">journals/tse/DayalH84</cite>
+<cite label="DAYA85">books/sp/kimrb85/Dayal85</cite>
+<cite label="DAYA86">conf/btw/DayalMBCGHOR87</cite>
+<cite label="DAYA87a">...</cite>
+<cite label="DAYA87b">conf/vldb/Dayal87</cite>
+<cite label="DAYA88">conf/oodbs/DayalBM88</cite>
+<cite label="DESH88">conf/vldb/DeshpandeG88</cite>
+<cite label="FISH87">journals/tois/FishmanBCCCDDHKLMNRS87</cite>
+<cite label="FORD88">conf/oodbs/FordJLLPPPSTWA88</cite>
+<cite label="FREY87">conf/sigmod/Freytag87</cite>
+<cite label="GOLD84">conf/vldb/GoldhirschY84</cite>
+<cite label="GRAE87">conf/sigmod/GraefeD87</cite>
+<cite label="HAMM81">journals/tods/HammerM81</cite>
+<cite label="HEIL88">conf/oodbs/HeilerZ88</cite>
+<cite label="HULL87">journals/csur/HullK87</cite>
+<cite label="KELL86">conf/vldb/Keller86</cite>
+<cite label="KHOS86">conf/oopsla/KhoshafianC86</cite>
+<cite label="KIFE89">conf/pods/KiferW89</cite>
+<cite label="KLAU85">conf/vldb/KlausnerG85</cite>
+<cite label="LAND82">conf/ddb/LandersR82</cite>
+<cite label="LECL86">conf/sigmod/LecluseRV88</cite>
+<cite label="LIND86">conf/sigmod/LindsayHM86</cite>
+<cite label="LOHM85">books/sp/kimrb85/LohmanMHDLSW85</cite>
+<cite label="LOHM88">conf/sigmod/Lohman88</cite>
+<cite label="LYNG86">conf/oodbs/LyngbaekK86</cite>
+<cite label="MAIE86">conf/oopsla/MaierSOP86</cite>
+<cite label="MANO82">...</cite>
+<cite label="MANO86">conf/oodbs/ManolaD86</cite>
+<cite label="MANO88">...</cite>
+<cite label="OSBO88">conf/oodbs/Osborn88</cite>
+<cite label="RIES83">...</cite>
+<cite label="ROSE86">conf/sigmod/RosenthalHDM86</cite>
+<cite label="ROSE88">conf/vldb/RosenthalC88</cite>
+<cite label="ROWE87">conf/vldb/RoweS87</cite>
+<cite label="SCHA86">conf/oopsla/SchaffertCBKW86</cite>
+<cite label="SCHW86">conf/oodbs/SchwarzCFLMMP86</cite>
+<cite label="SELL86">conf/sigmod/Sellis86</cite>
+<cite label="SHAW89">conf/dbpl/ShawZ89</cite>
+<cite label="SHIP81">journals/tods/Shipman81</cite>
+<cite label="SMIT83">...</cite>
+<cite label="STON75">conf/sigmod/Stonebraker75</cite>
+<cite label="STON86">conf/sigmod/StonebrakerR86</cite>
+<cite label="TSUR86">conf/vldb/TsurZ86</cite>
+<cite label="ULLM87">conf/pods/Ullman87</cite>
+<cite label="ZDON84">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/ShawZ89" mdate="2012-09-18">
+<author pid="81/2278">Gail M. Shaw</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>An Object-Oriented Query Algebra.</title>
+<pages>103-112</pages>
+<cdrom>DBPL1989/P103.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#ShawZ89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="Abi88">journals/vldb/AbiteboulB95</cite>
+<cite label="Abi89">conf/sigmod/AbiteboulK89</cite>
+<cite label="Alb85">journals/tods/AlbanoCO85</cite>
+<cite label="Ban87">conf/vldb/BancilhonBKV87</cite>
+<cite label="Ban88">conf/icde/BanerjeeKK88</cite>
+<cite label="Car88">conf/sigmod/CareyDV88</cite>
+<cite label="Gra88">conf/oodbs/GraefeM88</cite>
+<cite label="Jae82">conf/pods/JaeschkeS82</cite>
+<cite label="Kho86">conf/oopsla/KhoshafianC86</cite>
+<cite label="Kor88">conf/oodbs/Korth88</cite>
+<cite label="Lec88">conf/sigmod/LecluseRV88</cite>
+<cite label="Mai87">books/mit/shriverW87/MaierS87</cite>
+<cite label="Osb88">conf/oodbs/Osborn88</cite>
+<cite label="Sha89">conf/icde/ShawZ90</cite>
+<cite label="Zan83">conf/sigmod/Zaniolo83</cite>
+<cite label="Zdo86">...</cite>
+<cite label="Zdo89">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/LecluseR89" mdate="2012-09-18">
+<author pid="82/67">Christophe L&#233;cluse</author>
+<author pid="29/2689">Philippe Richard</author>
+<title>Manipulation of Structured Values in Object-Oriented Databases.</title>
+<pages>113-121</pages>
+<cdrom>DBPL1989/P113.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#LecluseR89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="Abiteboul and Beeri 87">journals/vldb/AbiteboulB95</cite>
+<cite label="Abiteboul and Kanellakis 89">conf/sigmod/AbiteboulK89</cite>
+<cite label="Ait-Kaci and Nasr 86">journals/jlp/Ait-KaciN86</cite>
+<cite label="Bancilhon and Khoshafian 86">conf/pods/BancilhonK86</cite>
+<cite label="Bancilhon 88">conf/pods/Bancilhon88</cite>
+<cite label="Banerjee et al. 87">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="Bobrow et al. 86">conf/oopsla/BobrowKKMSZ86</cite>
+<cite label="Cardelli 84">...</cite>
+<cite label="Cardelli 84a">...</cite>
+<cite label="Cardelli et al. 85">journals/csur/CardelliW85</cite>
+<cite label="Carey et al. 88">conf/sigmod/CareyDV88</cite>
+<cite label="Cox 86">...</cite>
+<cite label="Danforth et al. 87">...</cite>
+<cite label="Goldberg and Robson 83">books/aw/GoldbergR83</cite>
+<cite label="Kim et al. 87">conf/oopsla/KimBCGW87</cite>
+<cite label="Kuper 85">...</cite>
+<cite label="L&#233;cluse et al. 88">conf/sigmod/LecluseRV88</cite>
+<cite label="L&#233;cluse and Richard 88">conf/icdt/LecluseR88</cite>
+<cite label="L&#233;cluse and Richard 89">conf/pods/LecluseR89</cite>
+<cite label="L&#233;cluse and Richard 89a">conf/vldb/LecluseR89</cite>
+<cite label="Copeland and Maier 84">conf/sigmod/CopelandM84</cite>
+<cite label="Stroustrup 86">books/aw/Stroustrup86</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/BancilhonCD89" mdate="2012-09-18">
+<author pid="28/718">Fran&#231;ois Bancilhon</author>
+<author pid="c/SophieCluet">Sophie Cluet</author>
+<author pid="05/611">Claude Delobel</author>
+<title>A Query Language for the O<sub>2</sub> Object-Oriented Database System.</title>
+<pages>122-138</pages>
+<cdrom>DBPL1989/P122.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#BancilhonCD89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="Abiteboul and Beeri 88">journals/vldb/AbiteboulB95</cite>
+<cite label="Abiteboul and Kanellakis 89">conf/sigmod/AbiteboulK89</cite>
+<cite label="Atwood 85">...</cite>
+<cite label="Bancilhon et al. 89">...</cite>
+<cite label="Bancilhon and Maier 87">...</cite>
+<cite label="Bancilhon 88">conf/pods/Bancilhon88</cite>
+<cite label="Bancilhon et al. 88">conf/oodbs/BancilhonBBDGLPRV88</cite>
+<cite label="Banerjee et al. 87a">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="Banerjee et al. 87b">conf/icde/BanerjeeKK88</cite>
+<cite label="Beech 88">conf/edbt/Beech88</cite>
+<cite label="Boucelma and Lema&#238;tre 88">...</cite>
+<cite label="Buneman et al. 82">journals/tods/BunemanFN82</cite>
+<cite label="Carey et al. 88">conf/sigmod/CareyDV88</cite>
+<cite label="Caruso and Sciore 88">conf/sigmod/CarusoS88</cite>
+<cite label="Cluet et al. 89">...</cite>
+<cite label="Delobel et al. 88">...</cite>
+<cite label="Fishman et al. 87">journals/tois/FishmanBCCCDDHKLMNRS87</cite>
+<cite label="L&#233;cluse et al. 88">conf/sigmod/LecluseRV88</cite>
+<cite label="Maier et al. 84">conf/oopsla/MaierSOP86</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/ZhuM89" mdate="2017-11-07">
+<author pid="71/4551">Jianhua Zhu</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Computational Objects in Object-Oriented Data Models.</title>
+<pages>139-160</pages>
+<cdrom>DBPL1989/P139.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#ZhuM89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="Ander86">conf/oodbs/AndersonEM86</cite>
+<cite label="Banci86">conf/sigmod/BancilhonR86</cite>
+<cite label="Clock84">...</cite>
+<cite label="Ecklu87">conf/vldb/EcklundEET87</cite>
+<cite label="Johns84">...</cite>
+<cite label="Kiebu85">conf/fpca/Kieburtz85</cite>
+<cite label="Kiebu87a">...</cite>
+<cite label="Kiebu87b">...</cite>
+<cite label="Kiebu87c">conf/asplos/Kieburtz87</cite>
+<cite label="Krish88">conf/sigmod/KrishnamurthyRS88</cite>
+<cite label="Maier81">conf/sigmod/MaierW81</cite>
+<cite label="Maier83">books/cs/Maier83</cite>
+<cite label="Maier84">...</cite>
+<cite label="Maier85">...</cite>
+<cite label="Maier86">...</cite>
+<cite label="Maier87">books/bc/MaierW88</cite>
+<cite label="Maier87a">...</cite>
+<cite label="Maier88">books/aw/kimL89/Maier89</cite>
+<cite label="Ohkaw87">...</cite>
+<cite label="Reiss86">...</cite>
+<cite label="Schae89">...</cite>
+<cite label="Stone76">journals/tods/StonebrakerWKH76</cite>
+<cite label="Todd76">journals/ibmsj/Todd76</cite>
+<cite label="Zanio86">conf/eds/Zaniolo86</cite>
+<cite label="Zhu88">conf/eds/ZhuM88</cite>
+<cite label="Zhu89">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/SteinAM89" mdate="2017-11-05">
+<author pid="72/5426">Jacob Stein</author>
+<author pid="32/5577">T. Lougenia Anderson</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<title>Mistaking Identity.</title>
+<pages>161-168</pages>
+<cdrom>DBPL1989/P161.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#SteinAM89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="AG">conf/sigmod/AgrawalG89</cite>
+<cite label="B+">books/aw/kimL89/BretlMOPSSWW89</cite>
+<cite label="C+">...</cite>
+<cite label="KC">conf/oopsla/KhoshafianC86</cite>
+<cite label="K+">conf/oopsla/KimBCGWB88</cite>
+<cite label="MS">...</cite>
+<cite label="PG">conf/oodbs/PatonG88</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Types and Inheritance</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/dbpl/AlbanoDGMMOS89" mdate="2015-06-16">
+<author pid="a/AAlbano">Antonio Albano</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="g/GiorgioGhelli">Giorgio Ghelli</author>
+<author pid="m/ChrisDMarlin">Chris D. Marlin</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="o/RenzoOrsini">Renzo Orsini</author>
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<title>A Framework for Comparing Type Systems for Database Programming Languages.</title>
+<pages>170-178</pages>
+<cdrom>DBPL1989/P170.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#AlbanoDGMMOS89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="OO88">conf/oodbs/88</cite>
+<cite label="1">journals/csur/AtkinsonB87</cite>
+<cite label="2">...</cite>
+<cite label="3">conf/pos/1985</cite>
+<cite label="4">conf/db-workshops/Intervale</cite>
+<cite label="5">journals/csur/DanforthT88</cite>
+<cite label="6">conf/oodbs/88</cite>
+<cite label="7">books/mit/ShriverW87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/DearleCBM89" mdate="2012-09-18">
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="c/RCHConnor">Richard C. H. Connor</author>
+<author pid="b/AlfredLBrown">Fred Brown</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>Napier88 - A Database Programming Language?</title>
+<pages>179-195</pages>
+<cdrom>DBPL1989/P179.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#DearleCBM89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="ABC83">journals/cj/AtkinsonBCCM83</cite>
+<cite label="ADG89">conf/dbpl/AlbanoDGMMOS89</cite>
+<cite label="AM85">journals/toplas/AtkinsonM85</cite>
+<cite label="AMP86">...</cite>
+<cite label="atk78">conf/vldb/Atkinson78</cite>
+<cite label="BBB88">conf/oodbs/BancilhonBBDGLPRV88</cite>
+<cite label="BCC88">...</cite>
+<cite label="bro89">...</cite>
+<cite label="car84">...</cite>
+<cite label="CL88">conf/oodbs/ConnorsL88</cite>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="DB88">journals/cj/DearleB88</cite>
+<cite label="dea89">...</cite>
+<cite label="GM79">journals/ipl/GunnM79</cite>
+<cite label="LZ74">journals/sigplan/LiskovZ74</cite>
+<cite label="mor79a">...</cite>
+<cite label="mor79b">...</cite>
+<cite label="MP85">conf/popl/MitchellP85</cite>
+<cite label="ps87">...</cite>
+<cite label="str67">...</cite>
+<cite label="SZ86">conf/oodbs/SkarraZR86</cite>
+<cite label="wir82">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/AlbanoGO89" mdate="2012-09-18">
+<author pid="a/AAlbano">Antonio Albano</author>
+<author pid="g/GiorgioGhelli">Giorgio Ghelli</author>
+<author pid="o/RenzoOrsini">Renzo Orsini</author>
+<title>Types for Databases: The Galileo Experience.</title>
+<pages>196-206</pages>
+<cdrom>DBPL1989/P196.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#AlbanoGO89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="Albano 83a">...</cite>
+<cite label="Albano 83b">conf/vldb/AlbanoCOO83</cite>
+<cite label="Albano 85">journals/tods/AlbanoCO85</cite>
+<cite label="Albano 88a">...</cite>
+<cite label="Albano 88b">conf/db-workshops/AlbanoGOP85</cite>
+<cite label="Albano 89a">conf/db-workshops/Albano85</cite>
+<cite label="Albano 89b">conf/dbpl/AlbanoDGMMOS89</cite>
+<cite label="Andrews 87">conf/oopsla/AndrewsH87</cite>
+<cite label="Atkinson 87">journals/csur/AtkinsonB87</cite>
+<cite label="Bancilhon 88">conf/pods/Bancilhon88</cite>
+<cite label="Banerjee 87">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="Borgida 85">journals/software/Borgida85</cite>
+<cite label="Cardelli 84">...</cite>
+<cite label="Dahl 66">...</cite>
+<cite label="GemStone 86">...</cite>
+<cite label="Goldberg 83">books/aw/GoldbergR83</cite>
+<cite label="Nierstrasz 88">...</cite>
+<cite label="Symbolics 88">...</cite>
+<cite label="Wegner 87">conf/oopsla/Wegner87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/FegarasSS89" mdate="2012-09-18">
+<author pid="f/LeonidasFegaras">Leonidas Fegaras</author>
+<author pid="s/TimSheard">Tim Sheard</author>
+<author pid="s/DavidWStemple">David W. Stemple</author>
+<title>The ADABTPL Type System.</title>
+<pages>207-218</pages>
+<cdrom>DBPL1989/P207.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#FegarasSS89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite>conf/dbpl/AlbanoDGMMOS89</cite>
+<cite>...</cite>
+<cite>journals/csur/CardelliW85</cite>
+<cite>journals/tods/SheardS89</cite>
+<cite>...</cite>
+<cite>conf/dbpl/StempleS87</cite>
+<cite>conf/icde/StempleSB86</cite>
+<cite>conf/oodbs/StempleSS88</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/MatthesS89" mdate="2012-09-18">
+<author pid="m/FlorianMatthes">Florian Matthes</author>
+<author pid="s/JoachimWSchmidt">Joachim W. Schmidt</author>
+<title>The Type System of DBPL.</title>
+<pages>219-225</pages>
+<cdrom>DBPL1989/P219.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#MatthesS89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="ADG*89">conf/dbpl/AlbanoDGMMOS89</cite>
+<cite label="CDG*88">...</cite>
+<cite label="JGL*88">conf/icde/GeJLRS88</cite>
+<cite label="JLS85">conf/vldb/JarkeLS85</cite>
+<cite label="Lam84">conf/icde/Lamersdorf84</cite>
+<cite label="LMS84">conf/vldb/LamersdorfMS84</cite>
+<cite label="MRS84">conf/db-workshops/MallSR82</cite>
+<cite label="MRS89">...</cite>
+<cite label="OBB89">conf/sigmod/OhoriBT89</cite>
+<cite label="Sch77">journals/tods/Schmidt77</cite>
+<cite label="SEM88">...</cite>
+<cite label="SGL89">conf/db-workshops/SchmidtGLJ85</cite>
+<cite label="SL85">conf/bncod/SchmidtL85</cite>
+<cite label="Wir83">books/sp/Wirth82</cite>
+<cite label="Wir87">journals/spe/Wirth88</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/TannenBO89" mdate="2012-09-18">
+<author pid="t/ValTannen">Val Tannen</author>
+<author pid="b/PeterBuneman">Peter Buneman</author>
+<author pid="o/AtsushiOhori">Atsushi Ohori</author>
+<title>Can Object-Oriented Databases be Statically Typed?</title>
+<pages>226-237</pages>
+<cdrom>DBPL1989/P226.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#TannenBO89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="AB87">journals/csur/AtkinsonB87</cite>
+<cite label="BBG88">...</cite>
+<cite label="BCGS89">conf/lics/Breazu-TannenCGS89</cite>
+<cite label="BJO89">journals/tcs/BunemanJO91</cite>
+<cite label="Car84a">...</cite>
+<cite label="Car84b">...</cite>
+<cite label="Car88a">...</cite>
+<cite label="Car88b">conf/popl/Cardelli88</cite>
+<cite label="CM88">...</cite>
+<cite label="CW85">journals/csur/CardelliW85</cite>
+<cite label="FM88">conf/esop/FuhM88</cite>
+<cite label="GB80">conf/lfp/GoldsteinB80</cite>
+<cite label="HK87">journals/csur/HullK87</cite>
+<cite label="HMT88">...</cite>
+<cite label="Hul87">...</cite>
+<cite label="JM88">conf/lfp/JategaonkarM88</cite>
+<cite label="Mac79">...</cite>
+<cite label="Mit84">conf/popl/Mitchell84</cite>
+<cite label="OB88">conf/lfp/OhoriB88</cite>
+<cite label="OBB89">conf/sigmod/OhoriBT89</cite>
+<cite label="Oho88">conf/icdt/Ohori88</cite>
+<cite label="Rem89">conf/popl/Remy89</cite>
+<cite label="Rey74">...</cite>
+<cite label="Sta88">conf/popl/Stansifer88</cite>
+<cite label="Tur85">conf/fpca/Turner85</cite>
+<cite label="Wan87">conf/lics/Wand87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/Jacobs89" mdate="2012-09-18">
+<author pid="96/2901">Dean Jacobs</author>
+<title>A Type System for Algebraic Database Programming Languages.</title>
+<pages>238-247</pages>
+<cdrom>DBPL1989/P238.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#Jacobs89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="DH88">conf/esop/DietrichH88</cite>
+<cite label="GM86">...</cite>
+<cite label="HV87">conf/slp/HuberV87</cite>
+<cite label="Llo84">books/sp/Lloyd84</cite>
+<cite label="Mil78">journals/jcss/Milner78</cite>
+<cite label="Mis84">conf/slp/Mishra84</cite>
+<cite label="MO84">journals/ai/MycroftO84</cite>
+<cite label="MR85">conf/popl/MishraR85</cite>
+<cite label="PR89">conf/slp/PyoR89</cite>
+<cite label="Red88">...</cite>
+<cite label="Smo88">conf/alp/Smolka88</cite>
+<cite label="Wal88">journals/jacm/Walther88</cite>
+<cite label="War77">...</cite>
+<cite label="YS87">...</cite>
+<cite label="Zob87">conf/iclp/Zobel87</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/WegnerZ89" mdate="2012-09-18">
+<author pid="w/PeterWegner">Peter Wegner</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>Models of Inheritance.</title>
+<pages>248-255</pages>
+<cdrom>DBPL1989/P248.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#WegnerZ89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="Bo">...</cite>
+<cite label="BW">conf/dbpl/BruceW87</cite>
+<cite label="To">books/mk/Touretzky86</cite>
+<cite label="WZ">conf/ecoop/WegnerZ88</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Layered Development</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/dbpl/BorgidaMSW89" mdate="2012-09-18">
+<author pid="b/ABorgida">Alexander Borgida</author>
+<author pid="m/JohnMylopoulos">John Mylopoulos</author>
+<author pid="s/JoachimWSchmidt">Joachim W. Schmidt</author>
+<author pid="w/IngridWetzel">Ingrid Wetzel</author>
+<title>Support for Data-Intensive Applications: Conceptual Design and Software Development.</title>
+<pages>258-280</pages>
+<cdrom>DBPL1989/P258.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#BorgidaMSW89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/Borgida85</cite>
+<cite>conf/db-workshops/BorgidaJMSV85</cite>
+<cite>journals/computer/BorgidaGM85</cite>
+<cite>conf/db-workshops/BorgidaMW82</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tods/MylopoulosBW80</cite>
+<cite>journals/tods/Schmidt77</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/StempleS84</cite>
+<cite>books/sp/Wirth82</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/LingatR89" mdate="2012-09-18">
+<author pid="25/533">Jean-Yves Lingat</author>
+<author pid="r/CRolland">Colette Rolland</author>
+<title>PROQUEL: a PROgramming QUEry Language.</title>
+<pages>281-295</pages>
+<cdrom>DBPL1989/P281.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#LingatR89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="AHO86">books/aw/AhoSU86</cite>
+<cite label="ALLM76">...</cite>
+<cite label="ATKI85">...</cite>
+<cite label="BODA83">...</cite>
+<cite label="BOUC81">...</cite>
+<cite label="BUNE86">conf/sigmod/BunemanA86</cite>
+<cite label="CHRI87">conf/vldb/ChristensenZ87</cite>
+<cite label="CRIS 1">...</cite>
+<cite label="DATE86">...</cite>
+<cite label="GAME87">...</cite>
+<cite label="HAYE83">...</cite>
+<cite label="LING87a">conf/vldb/LingatNR87</cite>
+<cite label="LING87b">...</cite>
+<cite label="LING88">conf/vldb/LingatCR88</cite>
+<cite label="NOBE88">conf/bncod/NobecourtRL88</cite>
+<cite label="ROLL82">...</cite>
+<cite label="ROLL87">...</cite>
+<cite label="ROLL88">...</cite>
+<cite label="SQL 86">...</cite>
+<cite label="SCHM80">...</cite>
+<cite label="WASS82">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Logic and Database Programming</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/dbpl/AbiteboulGVW89" mdate="2012-09-18">
+<author pid="a/SergeAbiteboul">Serge Abiteboul</author>
+<author pid="g/SGrumbach">St&#233;phane Grumbach</author>
+<author pid="v/AVoisard">Agn&#232;s Voisard</author>
+<author pid="w/EmmanuelWaller">Emmanuel Waller</author>
+<title>An Extensible Rule-Based Language with Complex Objects and data-Functions.</title>
+<pages>298-314</pages>
+<cdrom>DBPL1989/P298.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#AbiteboulGVW89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="AB86">journals/jcss/AbiteboulB86</cite>
+<cite label="AB87">...</cite>
+<cite label="Abi89">conf/dood/Abiteboul89</cite>
+<cite label="ABW86">books/mk/minker88/AptBW88</cite>
+<cite label="AG88">conf/edbt/AbiteboulG88</cite>
+<cite label="AH88">conf/sigmod/AbiteboulH88</cite>
+<cite label="AK89">conf/sigmod/AbiteboulK89</cite>
+<cite label="Apt87">books/el/leeuwen90/Apt90</cite>
+<cite label="AV87">conf/pods/AbiteboulV87</cite>
+<cite label="Ba86">conf/pods/BancilhonMSU86</cite>
+<cite label="Ba87">conf/pods/BeeriNRST87</cite>
+<cite label="Ban88">conf/pods/Bancilhon88</cite>
+<cite label="BK86">conf/pods/BancilhonK86</cite>
+<cite label="BL86">journals/jlp/BelliaL86</cite>
+<cite label="BR86">conf/sigmod/BancilhonR86</cite>
+<cite label="Bre88">...</cite>
+<cite label="CH80">journals/jcss/ChandraH80</cite>
+<cite label="CH87">...</cite>
+<cite label="Cod70">journals/cacm/Codd70</cite>
+<cite label="DL85">...</cite>
+<cite label="FT83">...</cite>
+<cite label="Gel86">conf/slp/Gelder86</cite>
+<cite label="GMN84">journals/csur/GallaireMN84</cite>
+<cite label="GS87">...</cite>
+<cite label="HK87">journals/csur/HullK87</cite>
+<cite label="HS88">conf/pods/HullS89</cite>
+<cite label="Jac82">journals/jacm/Jacobs82</cite>
+<cite label="JLM84">journals/jlp/JaffarLM84</cite>
+<cite label="KRS85">...</cite>
+<cite label="Kup87">conf/pods/Kuper87</cite>
+<cite label="LP83">journals/ita/LeviP83</cite>
+<cite label="Mol87">...</cite>
+<cite label="Naq86">...</cite>
+<cite label="Red85">conf/slp/Reddy85</cite>
+<cite label="RS82">...</cite>
+<cite label="SS86">journals/is/SchekS86</cite>
+<cite label="Ver86">conf/nf2/SchollABBGPRV87</cite>
+<cite label="Voi88">...</cite>
+<cite label="WAL*87">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/ChenKW89" mdate="2017-03-15">
+<author pid="10/1448-5">Weidong Chen 0005</author>
+<author pid="k/MichaelKifer">Michael Kifer</author>
+<author pid="w/DavidScottWarren">David Scott Warren</author>
+<title>HiLog as a Platform for Database Languages.</title>
+<pages>315-329</pages>
+<cdrom>DBPL1989/P315.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#ChenKW89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite>conf/dbpl/AbiteboulG87</cite>
+<cite>conf/iclp/Abramson88</cite>
+<cite>books/mk/minker88/AptBW88</cite>
+<cite>journals/jacm/AptE82</cite>
+<cite>conf/pods/BeeriNRST87</cite>
+<cite>conf/slp/ChenKW89</cite>
+<cite>...</cite>
+<cite>conf/slp/Chen87</cite>
+<cite>conf/pods/ChenW89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tcs/Goldfarb81</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/KiferL89</cite>
+<cite>conf/pods/KiferW89</cite>
+<cite>conf/vldb/KrishnamurthyN88</cite>
+<cite>conf/pods/Kuper87</cite>
+<cite>...</cite>
+<cite>conf/pods/KuperV84</cite>
+<cite>books/mk/minker88/LassezMM88</cite>
+<cite>books/mk/minker88/Lifschitz88</cite>
+<cite>...</cite>
+<cite>conf/ijcai/Maida83</cite>
+<cite>...</cite>
+<cite>journals/toplas/MartelliM82</cite>
+<cite>journals/tois/Motro86</cite>
+<cite>conf/iclp/MillerN86</cite>
+<cite>...</cite>
+<cite>books/bc/MaierW88</cite>
+<cite>...</cite>
+<cite>books/mk/minker88/Przymusinski88</cite>
+<cite>journals/jacm/EmdenK76</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/Manchanda89" mdate="2012-09-18">
+<author pid="85/4350">Sanjay Manchanda</author>
+<title>&#34;Higher-Order&#34; Logic As a Data Model.</title>
+<pages>330-341</pages>
+<cdrom>DBPL1989/P330.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#Manchanda89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="AB87">journals/csur/AtkinsonB87</cite>
+<cite label="AG87">conf/dbpl/AbiteboulG87</cite>
+<cite label="And86">...</cite>
+<cite label="Che87">conf/slp/Chen87</cite>
+<cite label="Chu40">...</cite>
+<cite label="CKW89">conf/dbpl/ChenKW89</cite>
+<cite label="CM84">conf/sigmod/CopelandM84</cite>
+<cite label="Cod79">journals/tods/Codd79</cite>
+<cite label="CW89">conf/pods/ChenW89</cite>
+<cite label="End72">...</cite>
+<cite label="Kup87">conf/pods/Kuper87</cite>
+<cite label="KV84">conf/pods/KuperV84</cite>
+<cite label="KV85">conf/sigmod/KuperV85</cite>
+<cite label="KW88">conf/pods/KiferW89</cite>
+<cite label="Mai86">...</cite>
+<cite label="Man88">conf/pods/Manchanda89</cite>
+<cite label="MN86">conf/iclp/MillerN86</cite>
+<cite label="MS86">conf/oodbs/MaierS86</cite>
+<cite label="MW87">books/mk/minker88/ManchandraW88</cite>
+<cite label="OBS86">conf/oodbs/OBrienBS86</cite>
+<cite label="Qui80">...</cite>
+<cite label="RB87">books/mk/minker88/BancilhonR88</cite>
+<cite label="SB86">journals/aim/StefikB86</cite>
+<cite label="Sto84">conf/sigmod/StonebrakerAHR84</cite>
+<cite label="Sto86">conf/oodbs/Stonebraker86</cite>
+<cite label="TZ86">conf/vldb/TsurZ86</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="Zan83">conf/sigmod/Zaniolo83</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/Naqvi89" mdate="2012-09-18">
+<author pid="16/3083">Shamim A. Naqvi</author>
+<title>Stratification as a Design Principle in Logical Query Langugages.</title>
+<pages>342-356</pages>
+<cdrom>DBPL1989/P342.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#Naqvi89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="AG87">conf/dbpl/AbiteboulG87</cite>
+<cite label="AV87">conf/pods/AbiteboulV87</cite>
+<cite label="ABW88">books/mk/minker88/AptBW88</cite>
+<cite label="BN*89">journals/jlp/BeeriNST91</cite>
+<cite label="Can15">...</cite>
+<cite label="CH85">journals/jlp/ChandraH85</cite>
+<cite label="Har79">books/sp/Harel79</cite>
+<cite label="Imm86">journals/iandc/Immerman86</cite>
+<cite label="IN88">conf/pods/ImielinskiN88</cite>
+<cite label="Kif89">conf/sigmod/KiferL89</cite>
+<cite label="KN88">conf/jcdkb/KrishnamurthyN88</cite>
+<cite label="KN288">conf/vldb/KrishnamurthyN88</cite>
+<cite label="Kup87">conf/pods/Kuper87</cite>
+<cite label="Kup88">...</cite>
+<cite label="Knu69">books/aw/Knuth68</cite>
+<cite label="Lif88">books/mk/minker88/Lifschitz88</cite>
+<cite label="Man86">books/mk/minker88/ManchandraW88</cite>
+<cite label="Man89">conf/pods/Manchanda89</cite>
+<cite label="M87">...</cite>
+<cite label="M89">conf/dbpl/Manchanda89</cite>
+<cite label="MUVG86">conf/iclp/MorrisUG86</cite>
+<cite label="Nad87">...</cite>
+<cite label="Naq86">...</cite>
+<cite label="NK88">conf/pods/NaqviK88</cite>
+<cite label="NT89">books/cs/NaqviT89</cite>
+<cite label="SN87">conf/iclp/ShmueliN87</cite>
+<cite label="TZ86">conf/vldb/TsurZ86</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="Var82">conf/stoc/Vardi82</cite>
+<cite label="vEK76">journals/jacm/EmdenK76</cite>
+<cite label="VG86">conf/slp/Gelder86</cite>
+<cite label="War89">conf/dbpl/ChenKW89</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Implementation Isssues</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/dbpl/Moss89" mdate="2012-09-18">
+<author pid="m/JEliotBMoss">J. Eliot B. Moss</author>
+<title>Addressing Large Distributed Collections of Persistent Objects: The Mneme Project's Approach.</title>
+<pages>358-374</pages>
+<cdrom>DBPL1989/P358.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#Moss89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="Bishop, 1977">...</cite>
+<cite label="Brown and Cockshott, 1986">...</cite>
+<cite label="Chang and Mergen, 1988">journals/tocs/ChangM88</cite>
+<cite label="Cockshott, 1987">...</cite>
+<cite label="Connor et al., 1989">conf/pos/ConnorBCDM89</cite>
+<cite label="Copeland et al., 1988">conf/edbt/CopelandFW90</cite>
+<cite label="Goldberg and Robson, 1983">books/aw/GoldbergR83</cite>
+<cite label="Intel Corporation, 1981">...</cite>
+<cite label="Kaehler and Krasner, 1983">...</cite>
+<cite label="Kaehler, 1986">conf/oopsla/Kaehler86</cite>
+<cite label="Keedy and Rosenberg, 1989">conf/pos/Keedy89</cite>
+<cite label="Khoshafian and Copeland, 1986">conf/oopsla/KhoshafianC86</cite>
+<cite label="Liskov et al., 1977">journals/cacm/LiskovSAS77</cite>
+<cite label="Liskov et al., 1981">books/sp/Liskov81</cite>
+<cite label="McCarthy et al., 1984">...</cite>
+<cite label="Moss and Sinofsky, 1988">conf/oodbs/MossS88</cite>
+<cite label="Organick, 1983">...</cite>
+<cite label="Schaffert et al., 1986">conf/oopsla/SchaffertCBKW86</cite>
+<cite label="Steele Jr., 1984">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/ValduriezDHBC89" mdate="2012-09-18">
+<author pid="v/PatrickValduriez">Patrick Valduriez</author>
+<author pid="20/1607">Scott Danforth</author>
+<author pid="38/1663">Brian E. Hart</author>
+<author pid="58/2420">Ted Briggs</author>
+<author pid="20/317">Munir Cochinwala</author>
+<title>Compiling FAD, a Database Programming Language.</title>
+<pages>375-393</pages>
+<cdrom>DBPL1989/P375.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#ValduriezDHBC89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="Ale88">conf/sigmod/AlexanderC88</cite>
+<cite label="Atk87">journals/csur/AtkinsonB87</cite>
+<cite label="Ban87">conf/vldb/BancilhonBKV87</cite>
+<cite label="Ban87a">conf/dbpl/87</cite>
+<cite label="Bri89">...</cite>
+<cite label="Bor88">conf/dpds/Boral88</cite>
+<cite label="Cop84">conf/sigmod/CopelandM84</cite>
+<cite label="Cop88">conf/sigmod/CopelandABK88</cite>
+<cite label="Dan87">...</cite>
+<cite label="Dan88">...</cite>
+<cite label="Dan88a">...</cite>
+<cite label="Har88">conf/dpds/HartDV88</cite>
+<cite label="Har89">journals/debu/HartVD89</cite>
+<cite label="Joh78">...</cite>
+<cite label="Kho87">conf/dbpl/KhoshafianV87</cite>
+<cite label="Kho88">...</cite>
+<cite label="Mil78">journals/jcss/Milner78</cite>
+<cite label="Mil84">conf/lfp/Milner84</cite>
+<cite label="Tie86">...</cite>
+<cite label="Val86">conf/vldb/ValduriezKC86</cite>
+<cite label="Val88">...</cite>
+<cite label="Val88a">journals/ijpp/ValduriezK88</cite>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Expressiveness and Complexity</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/dbpl/HullS89" mdate="2017-11-11">
+<author pid="h/RichardHull">Richard Hull 0001</author>
+<author pid="s/JWSu">Jianwen Su</author>
+<title>On Bulk Data type Constructors and Manipulation Primitives: A Framework for Analyzing Power and Complexity.</title>
+<pages>396-410</pages>
+<cdrom>DBPL1989/P396.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#HullS89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="AB76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="AB86">journals/jcss/AbiteboulB86</cite>
+<cite label="AB87">journals/csur/AtkinsonB87</cite>
+<cite label="AB88">journals/vldb/AbiteboulB95</cite>
+<cite label="ABW86">books/mk/minker88/AptBW88</cite>
+<cite label="ACO85">journals/tods/AlbanoCO85</cite>
+<cite label="AG88">conf/edbt/AbiteboulG88</cite>
+<cite label="AGSS86">...</cite>
+<cite label="AH87a">journals/tods/AbiteboulH87</cite>
+<cite label="AH87b">conf/oopsla/AndrewsH87</cite>
+<cite label="AK89">conf/sigmod/AbiteboulK89</cite>
+<cite label="AU79">conf/popl/AhoU79</cite>
+<cite label="AV85">conf/pods/AbiteboulV85</cite>
+<cite label="AV86">conf/pods/AbiteboulV86</cite>
+<cite label="AV87">conf/pods/AbiteboulV87</cite>
+<cite label="AV88">conf/pods/AbiteboulV88</cite>
+<cite label="BBKV87">conf/vldb/BancilhonBKV87</cite>
+<cite label="BCG+87">journals/tois/BanerjeeCGKWBK87</cite>
+<cite label="BLN86">journals/csur/BatiniL86</cite>
+<cite label="BNR+87">conf/pods/BeeriNRST87</cite>
+<cite label="CH80">journals/jcss/ChandraH80</cite>
+<cite label="CH82">journals/jcss/ChandraH82</cite>
+<cite label="CH85">journals/jlp/ChandraH85</cite>
+<cite label="Cha81">conf/popl/Chandra81</cite>
+<cite label="Cha88">conf/pods/Chandra88</cite>
+<cite label="Che76">journals/tods/Chen76</cite>
+<cite label="CM84">conf/sigmod/CopelandM84</cite>
+<cite label="Coh86">conf/aaai/Cohen86</cite>
+<cite label="DV88">...</cite>
+<cite label="Fag74">...</cite>
+<cite label="FT83">...</cite>
+<cite label="GvG87">...</cite>
+<cite label="HM81">journals/tods/HammerM81</cite>
+<cite label="HS88a">journals/acta/HullS94</cite>
+<cite label="HS88b">conf/pods/HullS88</cite>
+<cite label="HS89a">conf/sigmod/HullS89</cite>
+<cite label="HS89b">conf/pods/HullS89</cite>
+<cite label="Hul86">journals/siamcomp/Hull86</cite>
+<cite label="Hul87">...</cite>
+<cite label="HY84">journals/jacm/HullY84</cite>
+<cite label="Imm82">conf/stoc/Immerman82</cite>
+<cite label="Imm87">journals/siamcomp/Immerman87</cite>
+<cite label="Jac82">journals/jacm/Jacobs82</cite>
+<cite label="JS82">conf/pods/JaeschkeS82</cite>
+<cite label="KV84">conf/pods/KuperV84</cite>
+<cite label="KV88">conf/icdt/KuperV88</cite>
+<cite label="LRV88">conf/sigmod/LecluseRV88</cite>
+<cite label="RKS88">journals/tods/RothKS88</cite>
+<cite label="Rog87">...</cite>
+<cite label="Shi81">journals/tods/Shipman81</cite>
+<cite label="SWKH76">journals/tods/StonebrakerWKH76</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="Var82">conf/stoc/Vardi82</cite>
+<cite label="Var83">...</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/Qian89" mdate="2012-09-18">
+<author pid="91/2417">Xiaolei Qian</author>
+<title>On the Expressive Power of the Bounded Iteration Construct.</title>
+<pages>411-421</pages>
+<cdrom>DBPL1989/P411.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#Qian89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite>journals/jacm/AbiteboulV88</cite>
+<cite>conf/pods/AbiteboulV88</cite>
+<cite>conf/popl/AhoU79</cite>
+<cite>conf/popl/Chandra81</cite>
+<cite>conf/pods/Chandra88</cite>
+<cite>journals/jcss/ChandraH82</cite>
+<cite>journals/iandc/Immerman86</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/cs/Ullman88</cite>
+<cite>conf/stoc/Vardi82</cite>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/dbpl/BuhrDZ89" mdate="2012-09-18">
+<author pid="b/PeterABuhr">Peter A. Buhr</author>
+<author pid="65/6720">Glen Ditchfield</author>
+<author pid="54/7038">C. Robert Zarnke</author>
+<title>Basic Abstractions for a Database Programming Language.</title>
+<pages>422-437</pages>
+<cdrom>DBPL1989/P422.pdf</cdrom>
+<year>1989</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl89.html#BuhrDZ89</url>
+<crossref>conf/dbpl/89</crossref>
+<cite label="ABLN85">journals/tse/AlmesBLN85</cite>
+<cite label="ACO85">journals/tods/AlbanoCO85</cite>
+<cite label="AM85a">conf/db-workshops/AtkinsonM85</cite>
+<cite label="AM85b">journals/toplas/AtkinsonM85</cite>
+<cite label="BDD85">...</cite>
+<cite label="BDZ89">...</cite>
+<cite label="BHJL86">conf/oopsla/BlackHJL86</cite>
+<cite label="BZ86">...</cite>
+<cite label="BZ87">...</cite>
+<cite label="BZ88">conf/ecoop/BuhrZ88</cite>
+<cite label="BZ89">conf/pos/BuhrZ89</cite>
+<cite label="CDG+88">...</cite>
+<cite label="CG89">journals/cacm/CarrieroG89</cite>
+<cite label="CRJ87">conf/c++/CampbellRJ87</cite>
+<cite label="DJA87">...</cite>
+<cite label="DSP87">...</cite>
+<cite label="GPP71">...</cite>
+<cite label="GR83">books/aw/GoldbergR83</cite>
+<cite label="HM88">conf/ecoop/HedinM88</cite>
+<cite label="Ive62">...</cite>
+<cite label="LCJS87">conf/sosp/LiskovCJS87</cite>
+<cite label="LHL+77">...</cite>
+<cite label="MBC+88">conf/oodbs/MorrisonBCCD88</cite>
+<cite label="MBC+89">conf/pos/MorrisonBCCDA89</cite>
+<cite label="Mil78">journals/jcss/Milner78</cite>
+<cite label="Org72">...</cite>
+<cite label="PS-87">...</cite>
+<cite label="Sha81">...</cite>
+<cite label="Sta87">...</cite>
+<cite label="Ste84">...</cite>
+<cite label="Str86">books/aw/Stroustrup86</cite>
+<cite label="Uni83">...</cite>
+<cite label="Weg87">conf/oopsla/Wegner87</cite>
+<cite label="Wri87">...</cite>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

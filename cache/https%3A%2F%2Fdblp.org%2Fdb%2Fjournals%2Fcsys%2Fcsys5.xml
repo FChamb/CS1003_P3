@@ -1,0 +1,204 @@
+<bht key="db/journals/csys/csys5.bht" title="Computing Systems, Volume 5">
+
+<h1><ref href="db/journals/csys/index.html">Computing Systems</ref>, Volume 5</h1> 
+<h2>Volume 5, Number 1, Winter 1992</h2> 
+<dblpcites><r style="ee"><article key="journals/csys/Grass92" mdate="2020-05-10">
+<author pid="57/7008">Judith E. Grass</author>
+<title>Object-Oriented Design Archaeology with CIA++.</title>
+<pages>5-67</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>1</number>
+<url>db/journals/csys/csys5.html#Grass92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/win_grass.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/Sakkinen92" mdate="2020-05-10">
+<author pid="09/5012">Markku Sakkinen</author>
+<title>A Critique of the Inheritance Principles of C++.</title>
+<pages>69-110</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>1</number>
+<url>db/journals/csys/csys5.html#Sakkinen92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/win_sakkinen.pdf</ee>
+<note>Corrigendum: Computing Systems 5(3): 361 (1992)</note>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 5, Number 2, Spring 1992</h2> 
+<dblpcites><r style="ee"><article key="journals/csys/Moffat92" mdate="2020-05-10">
+<author pid="m/AlistairMoffat">Alistair Moffat</author>
+<title>Economical Inversion of Large Text Files.</title>
+<pages>125-139</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/csys/csys5.html#Moffat92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/spr_moffat.pdf</ee>
+<note>Corrigendum: Computing Systems 5(4): 494 (1992)</note>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/McKenneyD92" mdate="2020-05-10">
+<author pid="12/1073">Paul E. McKenney</author>
+<author pid="01/7014">Ken F. Dove</author>
+<title>Efficient Demultiplexing of Incoming TCP Packets.</title>
+<pages>141-157</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/csys/csys5.html#McKenneyD92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/spr_mckenney.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/AtkinsCO92" mdate="2020-05-10">
+<author pid="a/MStellaAtkins">M. Stella Atkins</author>
+<author pid="88/2827">Yan Chen</author>
+<author pid="37/1918">Florina Olariu</author>
+<title>Experiences: Overcoming Data Transfer Bottlenecks across SUN-Transputer Interfaces.</title>
+<pages>159-192</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>2</number>
+<url>db/journals/csys/csys5.html#AtkinsCO92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/spr_atkins.pdf</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 5, Number 3, Summer 1992</h2> 
+<dblpcites><r style="ee"><article key="journals/csys/CabreraLS92" mdate="2020-05-10">
+<author pid="78/4209">Luis-Felipe Cabrera</author>
+<author pid="96/5766">Allen Luniewski</author>
+<author pid="93/6755">James W. Stamos</author>
+<title>Fine-Grained Access Control in a Transactional Object-Oriented System.</title>
+<pages>199-216</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys5.html#CabreraLS92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/sum_cabrera.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/CampbellIM92" mdate="2020-05-10">
+<author pid="c/RoyHCampbell">Roy H. Campbell</author>
+<author pid="38/3967">Nayeem Islam</author>
+<author pid="30/2701">Peter Madany</author>
+<title>Choices, Frameworks and Refinement.</title>
+<pages>217-257</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys5.html#CampbellIM92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/sum_campbell.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/MockKC92" mdate="2020-05-10">
+<author pid="64/5523">Michael Mock</author>
+<author pid="53/2903">Reinhold Kr&#246;ger</author>
+<author pid="c/VCahill">Vinny Cahill</author>
+<title>Implementing Atomic Objects with the RelaX Transaction Facility.</title>
+<pages>259-304</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys5.html#MockKC92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/sum_mock.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/Rosenberg92" mdate="2020-05-10">
+<author pid="17/3411">John Rosenberg</author>
+<title>Architectural and Operating System Support for Orthogonal Persistence.</title>
+<pages>305-335</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys5.html#Rosenberg92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/sum_rosenberg.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/VaughanBDMB92" mdate="2020-05-10">
+<author pid="72/6183">Francis Vaughan</author>
+<author pid="42/6773">Tracy Lo Basso</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="m/ChrisDMarlin">Chris D. Marlin</author>
+<author pid="28/6728">Chris J. Barter</author>
+<title>Casper: A Cached Architecture Supporting Persistence.</title>
+<pages>337-359</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>3</number>
+<url>db/journals/csys/csys5.html#VaughanBDMB92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/sum_vaughan.pdf</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 5, Number 4, Fall 1992</h2> 
+<dblpcites><r style="ee"><article key="journals/csys/Golding92" mdate="2020-05-10">
+<author pid="g/RichardAGolding">Richard A. Golding</author>
+<title>A Weak-Consistency Architecture for Distributed Information Services.</title>
+<pages>379-405</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/csys/csys5.html#Golding92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/fall_golding.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/Neuman92" mdate="2020-05-10">
+<author pid="27/4485">B. Clifford Neuman</author>
+<title>The Prospero File System: A Global File System Based on the Virtual System Model.</title>
+<pages>407-432</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/csys/csys5.html#Neuman92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/fall_neuman.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/DanzigLO92" mdate="2020-05-10">
+<author pid="d/PeterBDanzig">Peter B. Danzig</author>
+<author pid="64/792">Shih-Hao Li</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<title>Distributed Indexing of Autonomous Internet Services.</title>
+<pages>433-459</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/csys/csys5.html#DanzigLO92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/fall_danzig.pdf</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/csys/SchwartzEKN92" mdate="2020-05-10">
+<author pid="12/359">Michael F. Schwartz</author>
+<author pid="76/1432">Alan Emtage</author>
+<author pid="89/4765">Brewster Kahle</author>
+<author pid="27/4485">B. Clifford Neuman</author>
+<title>A Comparison of Internet Resource Discovery Approaches.</title>
+<pages>461-493</pages>
+<year>1992</year>
+<volume>5</volume>
+<journal>Comput. Syst.</journal>
+<number>4</number>
+<url>db/journals/csys/csys5.html#SchwartzEKN92</url>
+<ee type="oa">http://www.usenix.org/publications/compsystems/1992/fall_schwartz.pdf</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

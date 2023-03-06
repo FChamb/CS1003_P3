@@ -1,0 +1,286 @@
+<bht key="db/journals/constraints/constraints19.bht" title="Constraints, Volume 19"> 
+<h1><ref href="db/journals/constraints/index.html">Constraints</ref>, Volume 19</h1> 
+<h2>Volume 19, Number 1, January 2014</h2> 
+<dblpcites><r style="ee"><article key="journals/constraints/FrancisS14" mdate="2020-03-13">
+<author pid="37/631">Kathryn Glenn Francis</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Explaining circuit propagation.</title>
+<pages>1-29</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-013-9148-0</ee>
+<url>db/journals/constraints/constraints19.html#FrancisS14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/0002HH14" mdate="2020-03-13">
+<author orcid="0000-0001-9503-4091" pid="39/2558-2">Mohamed Siala 0002</author>
+<author orcid="0000-0003-3131-0709" pid="04/5577">Emmanuel Hebrard</author>
+<author pid="75/6282">Marie-Jos&#233; Huguet</author>
+<title>An optimal arc consistency algorithm for a particular case of sequence constraint.</title>
+<pages>30-56</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-013-9150-6</ee>
+<url>db/journals/constraints/constraints19.html#0002HH14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/PrudhommeLDJ14" mdate="2020-03-13">
+<author pid="139/6447">Charles Prud'homme</author>
+<author orcid="0000-0002-6534-8644" pid="94/2497">Xavier Lorca</author>
+<author pid="92/4836">R&#233;mi Douence</author>
+<author pid="89/5260">Narendra Jussien</author>
+<title>Propagation engine prototyping with a domain specific language.</title>
+<pages>57-76</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-013-9151-5</ee>
+<url>db/journals/constraints/constraints19.html#PrudhommeLDJ14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/MairyHD14" mdate="2022-10-02">
+<author pid="119/6424">Jean-Baptiste Mairy</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author orcid="0000-0002-6711-9992" pid="13/1302">Yves Deville</author>
+<title>Optimal and efficient filtering algorithms for table constraints.</title>
+<pages>77-120</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10601-013-9156-0</ee>
+<url>db/journals/constraints/constraints19.html#MairyHD14</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 19, Number 2, April 2014</h2> The Future of Constraint Programming 
+<dblpcites><r style="ee"><article key="journals/constraints/MilanoH14" mdate="2020-03-13">
+<author pid="m/MichelaMilano">Michela Milano</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>Looking into the crystal-ball: a bright future for CP.</title>
+<pages>121-125</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s10601-014-9160-z</ee>
+<url>db/journals/constraints/constraints19.html#MilanoH14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/BandaSHW14" mdate="2020-03-13">
+<author orcid="0000-0002-6666-514X" pid="b/MariaJGarciadelaBanda">Maria Garcia de la Banda</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<author orcid="0000-0001-7326-8110" pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>The future of optimization technology.</title>
+<pages>126-138</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-013-9149-z</ee>
+<url>db/journals/constraints/constraints19.html#BandaSHW14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/BeldiceanuFMPS14" mdate="2020-03-13">
+<author pid="95/1732">Nicolas Beldiceanu</author>
+<author orcid="0000-0001-8730-4098" pid="08/4454">Pierre Flener</author>
+<author pid="71/5015">Jean-No&#235;l Monette</author>
+<author pid="50/4914">Justin Pearson</author>
+<author pid="30/449">Helmut Simonis</author>
+<title>Toward sustainable development in constraint programming.</title>
+<pages>139-149</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-013-9152-4</ee>
+<ee>https://www.wikidata.org/entity/Q57574235</ee>
+<url>db/journals/constraints/constraints19.html#BeldiceanuFMPS14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/FreuderO14" mdate="2020-03-13">
+<author pid="f/EugeneCFreuder">Eugene C. Freuder</author>
+<author orcid="0000-0002-0090-2085" pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Grand challenges for constraint programming.</title>
+<pages>150-162</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-013-9155-1</ee>
+<url>db/journals/constraints/constraints19.html#FreuderO14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/KelseyKJLMNG14" mdate="2021-10-14">
+<author orcid="0000-0002-8091-1458" pid="43/8396">Thomas W. Kelsey</author>
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author pid="53/849">Stephen A. Linton</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<title>Qualitative modelling via constraint programming.</title>
+<pages>163-173</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-014-9158-6</ee>
+<ee>https://www.wikidata.org/entity/Q61442789</ee>
+<url>db/journals/constraints/constraints19.html#KelseyKJLMNG14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/MilanoL14" mdate="2020-03-13">
+<author pid="m/MichelaMilano">Michela Milano</author>
+<author orcid="0000-0003-4709-8888" pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<title>Strategic decision making on complex systems.</title>
+<pages>174-185</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-014-9161-y</ee>
+<url>db/journals/constraints/constraints19.html#MilanoL14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/Rossi14" mdate="2020-03-13">
+<author pid="r/FrancescaRossi">Francesca Rossi</author>
+<title>Collective decision making: a great opportunity for constraint reasoning.</title>
+<pages>186-194</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10601-013-9153-3</ee>
+<url>db/journals/constraints/constraints19.html#Rossi14</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 19, Number 3, July 2014</h2> 
+<dblpcites><r style="ee"><article key="journals/constraints/MearsBDW14" mdate="2020-03-13">
+<author pid="63/2774">Christopher Mears</author>
+<author orcid="0000-0002-6666-514X" pid="b/MariaJGarciadelaBanda">Maria Garcia de la Banda</author>
+<author pid="d/BartDemoen">Bart Demoen</author>
+<author orcid="0000-0001-7326-8110" pid="w/MarkWallace">Mark Wallace 0001</author>
+<title>Lightweight dynamic symmetry breaking.</title>
+<pages>195-242</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10601-013-9154-2</ee>
+<url>db/journals/constraints/constraints19.html#MearsBDW14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/KameugneFSN14" mdate="2020-10-26">
+<author orcid="0000-0003-1809-9822" pid="67/10056">Roger Kameugne</author>
+<author pid="76/912">Laure Pauline Fotso</author>
+<author pid="141/2134">Joseph D. Scott</author>
+<author pid="22/10056">Youcheu Ngo-Kateu</author>
+<title>A quadratic edge-finding filtering algorithm for cumulative resource constraints.</title>
+<pages>243-269</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10601-013-9157-z</ee>
+<url>db/journals/constraints/constraints19.html#KameugneFSN14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/LeeLS14" mdate="2020-03-13">
+<author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author>
+<author pid="43/7442">Ka Lun Leung</author>
+<author pid="71/10661">Yu Wai Shum</author>
+<title>Consistency techniques for polytime linear global cost functions in weighted constraint satisfaction.</title>
+<pages>270-308</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10601-014-9159-5</ee>
+<url>db/journals/constraints/constraints19.html#LeeLS14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/PelleauTB14" mdate="2020-03-13">
+<author pid="51/7479">Marie Pelleau</author>
+<author pid="76/1220">Charlotte Truchet</author>
+<author pid="b/FredericBenhamou">Fr&#233;d&#233;ric Benhamou</author>
+<title>The octagon abstract domain for continuous constraints.</title>
+<pages>309-337</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10601-014-9162-x</ee>
+<url>db/journals/constraints/constraints19.html#PelleauTB14</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 19, Number 4, October 2014</h2> 
+<dblpcites><r style="ee"><article key="journals/constraints/PrudhommeLJ14" mdate="2020-03-13">
+<author pid="139/6447">Charles Prud'homme</author>
+<author orcid="0000-0002-6534-8644" pid="94/2497">Xavier Lorca</author>
+<author pid="89/5260">Narendra Jussien</author>
+<title>Explanation-based large neighborhood search.</title>
+<pages>339-379</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10601-014-9166-6</ee>
+<url>db/journals/constraints/constraints19.html#PrudhommeLJ14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/StojadinovicM14" mdate="2020-03-13">
+<author pid="149/8456">Mirko Stojadinovic</author>
+<author pid="32/881">Filip Maric</author>
+<title>meSAT: multiple encodings of CSP to SAT.</title>
+<pages>380-403</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10601-014-9165-7</ee>
+<url>db/journals/constraints/constraints19.html#StojadinovicM14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/BergmanH14" mdate="2020-03-13">
+<author pid="70/9555">David Bergman</author>
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<title>Graph coloring inequalities from all-different systems.</title>
+<pages>404-433</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10601-014-9164-8</ee>
+<url>db/journals/constraints/constraints19.html#BergmanH14</url>
+</article>
+</r>
+<r style="ee"><article key="journals/constraints/ChuBMS14" mdate="2020-03-13">
+<author pid="16/7407">Geoffrey Chu</author>
+<author orcid="0000-0002-6666-514X" pid="b/MariaJGarciadelaBanda">Maria Garcia de la Banda</author>
+<author pid="63/2774">Christopher Mears</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Symmetries, almost symmetries, and lazy clause generation.</title>
+<pages>434-462</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10601-014-9163-9</ee>
+<url>db/journals/constraints/constraints19.html#ChuBMS14</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

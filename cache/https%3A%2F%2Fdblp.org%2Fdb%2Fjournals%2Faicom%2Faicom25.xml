@@ -1,0 +1,433 @@
+<bht key="db/journals/aicom/aicom25.bht" title="AI Communications, Volume 25"> 
+<h1><ref href="db/journals/aicom/index.html">AI Communications</ref>, Volume 25</h1> 
+<h2>Volume 25, Number 1, 2012</h2> <dblpcites><r style="ee"><article key="journals/aicom/FagundesOLM12" mdate="2022-04-09">
+<author pid="11/2749">Moser Silva Fagundes</author>
+<author orcid="0000-0003-2483-9508" pid="o/SaschaOssowski">Sascha Ossowski</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<title>Using Normative Markov Decision Processes for evaluating electronic contracts.</title>
+<pages>1-17</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-2012-0511</ee>
+<url>db/journals/aicom/aicom25.html#FagundesOLM12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/RubinW12" mdate="2017-05-18">
+<author pid="54/2885">Jonathan Rubin</author>
+<author pid="w/IanDWatson">Ian D. Watson</author>
+<title>Case-based strategies in computer poker.</title>
+<pages>19-48</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-2012-0513</ee>
+<url>db/journals/aicom/aicom25.html#RubinW12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Sutcliffe12" mdate="2021-04-09">
+<author orcid="0000-0001-9120-3927" pid="s/GeoffSutcliffe">Geoff Sutcliffe</author>
+<title>The CADE-23 Automated Theorem Proving System Competition - CASC-23.</title>
+<pages>49-63</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-2012-0512</ee>
+<url>db/journals/aicom/aicom25.html#Sutcliffe12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Rubio-Escudero12" mdate="2017-05-18">
+<author pid="94/6735">Cristina Rubio-Escudero</author>
+<title>Fusion of knowledge towards the identification of genetic profiles.</title>
+<pages>65-67</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-2011-0506</ee>
+<url>db/journals/aicom/aicom25.html#Rubio-Escudero12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Rodrigues12" mdate="2017-06-05">
+<author orcid="0000-0001-7867-6682" pid="r/PedroPereiraRodrigues">Pedro Pereira Rodrigues</author>
+<title>Learning from ubiquitous data streams: Clustering data and data sources.</title>
+<pages>69-71</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-2011-0510</ee>
+<url>db/journals/aicom/aicom25.html#Rodrigues12</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 25, Number 2, 2012</h2> <dblpcites><r style="ee"><article key="journals/aicom/GavanelliM12" mdate="2022-01-03">
+<author orcid="0000-0001-7433-5899" pid="15/5240">Marco Gavanelli</author>
+<author orcid="0000-0003-3355-2170" pid="14/290">Toni Mancini</author>
+<title>18th RCRA International Workshop on &#34;Experimental evaluation of algorithms for solving problems with combinatorial explosion&#34;.</title>
+<pages>73-74</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-2012-0528</ee>
+<url>db/journals/aicom/aicom25.html#GavanelliM12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/MartinsML12" mdate="2017-06-05">
+<author pid="14/8296">Ruben Martins</author>
+<author orcid="0000-0002-4205-2189" pid="57/1074">Vasco M. Manquinho</author>
+<author orcid="0000-0003-4868-415X" pid="94/3399">In&#234;s Lynce</author>
+<title>Parallel search for maximum satisfiability.</title>
+<pages>75-95</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-2012-0517</ee>
+<url>db/journals/aicom/aicom25.html#MartinsML12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/BelovLM12" mdate="2020-02-24">
+<author pid="59/1724">Anton Belov</author>
+<author orcid="0000-0003-4868-415X" pid="94/3399">In&#234;s Lynce</author>
+<author orcid="0000-0002-6632-3086" pid="s/JoaoPMarquesSilva">Jo&#227;o Marques-Silva 0001</author>
+<title>Towards efficient MUS extraction.</title>
+<pages>97-116</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-2012-0523</ee>
+<url>db/journals/aicom/aicom25.html#BelovLM12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/PulinaT12" mdate="2021-10-14">
+<author orcid="0000-0003-0258-3222" pid="35/6729">Luca Pulina</author>
+<author orcid="0000-0001-9487-331X" pid="35/5174">Armando Tacchella</author>
+<title>Challenging SMT solvers to verify neural networks.</title>
+<pages>117-135</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-2012-0525</ee>
+<url>db/journals/aicom/aicom25.html#PulinaT12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/MarateaP12" mdate="2017-06-05">
+<author pid="m/MarcoMaratea">Marco Maratea</author>
+<author orcid="0000-0003-0258-3222" pid="35/6729">Luca Pulina</author>
+<title>Solving disjunctive temporal problems with preferences using maximum satisfiability.</title>
+<pages>137-156</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-2012-0527</ee>
+<url>db/journals/aicom/aicom25.html#MarateaP12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/MilaniS12" mdate="2019-09-25">
+<author orcid="0000-0003-4534-1805" pid="89/4496">Alfredo Milani</author>
+<author orcid="0000-0003-1483-7998" pid="94/7501">Valentino Santucci</author>
+<title>Community of scientist optimization: An autonomy oriented approach to distributed optimization.</title>
+<pages>157-172</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-2012-0526</ee>
+<url>db/journals/aicom/aicom25.html#MilaniS12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Gonzalez-MartinJRCMP12" mdate="2017-06-05">
+<author pid="118/4191">Sergio Gonz&#225;lez-Mart&#237;n</author>
+<author orcid="0000-0003-1392-1776" pid="72/1651">Angel A. Juan</author>
+<author orcid="0000-0002-4718-7234" pid="33/3603">Daniel Riera</author>
+<author pid="118/4195">Quim Castell&#224;</author>
+<author pid="118/4337">Rodrigo Mu&#241;oz</author>
+<author pid="118/4250">Alejandra P&#233;rez</author>
+<title>Development and assessment of the SHARP and RandSHARP algorithms for the arc routing problem.</title>
+<pages>173-189</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-2012-0522</ee>
+<url>db/journals/aicom/aicom25.html#Gonzalez-MartinJRCMP12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/GentMM12" mdate="2017-06-05">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author pid="25/7125">Neil C. A. Moore</author>
+<title>An empirical study of learning and forgetting constraints.</title>
+<pages>191-208</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AIC-2012-0524</ee>
+<url>db/journals/aicom/aicom25.html#GentMM12</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 25, Number 3, 2012</h2> <dblpcites><r style="ee"><article key="journals/aicom/BorrajoLL12" mdate="2022-01-03">
+<author orcid="0000-0001-5282-0463" pid="05/2730">Daniel Borrajo</author>
+<author pid="33/1426">Maxim Likhachev</author>
+<author orcid="0000-0003-1811-4754" pid="21/6753">Carlos Linares L&#243;pez</author>
+<title>The Symposium on Combinatorial Search.</title>
+<pages>209-210</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/AIC-2012-0530</ee>
+<url>db/journals/aicom/aicom25.html#BorrajoLL12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/OttenD12" mdate="2017-05-18">
+<author pid="32/2145">Lars Otten</author>
+<author pid="d/RDechter">Rina Dechter</author>
+<title>Anytime AND/OR depth-first search for combinatorial optimization.</title>
+<pages>211-227</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/AIC-2012-0531</ee>
+<url>db/journals/aicom/aicom25.html#OttenD12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/SternKF12" mdate="2019-10-19">
+<author orcid="0000-0003-0043-8179" pid="95/1348">Roni Stern</author>
+<author orcid="0000-0001-7394-4713" pid="73/4684">Meir Kalech</author>
+<author orcid="0000-0003-0065-2757" pid="43/5063">Ariel Felner</author>
+<title>Finding patterns in an unknown graph.</title>
+<pages>229-256</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/AIC-2012-0532</ee>
+<url>db/journals/aicom/aicom25.html#SternKF12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/KotthoffGM12" mdate="2021-10-14">
+<author orcid="0000-0003-4635-6873" pid="42/7865">Lars Kotthoff</author>
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>An evaluation of machine learning in algorithm selection for search problems.</title>
+<pages>257-270</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/AIC-2012-0533</ee>
+<url>db/journals/aicom/aicom25.html#KotthoffGM12</url>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 25, Number 4, 2012</h2> 
+<dblpcites><r style="ee"><article key="journals/aicom/KwongY12" mdate="2017-05-18">
+<author pid="48/7442">Helen Kwong</author>
+<author pid="95/5096">Neil Yorke-Smith</author>
+<title>Detection of imperative and declarative question-answer pairs in email conversations.</title>
+<pages>271-283</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0516</ee>
+<url>db/journals/aicom/aicom25.html#KwongY12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/ZhaoOZWM12" mdate="2021-06-04">
+<author orcid="0000-0001-5870-5730" pid="52/2048">Xiangfu Zhao</author>
+<author pid="43/3931">Dantong Ouyang</author>
+<author orcid="0000-0001-8263-4194" pid="66/6011-5">Liming Zhang 0005</author>
+<author pid="58/4775">Xiaoyu Wang</author>
+<author pid="12/2174">Yuchang Mo</author>
+<title>Reasoning on partially-ordered observations in online diagnosis of DESs.</title>
+<pages>285-294</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0518</ee>
+<url>db/journals/aicom/aicom25.html#ZhaoOZWM12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Neri12" mdate="2021-04-09">
+<author orcid="0000-0002-2529-2287" pid="80/3049">Filippo Neri</author>
+<title>Agent-based modeling under partial and full knowledge learning settings to simulate financial markets.</title>
+<pages>295-304</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0537</ee>
+<url>db/journals/aicom/aicom25.html#Neri12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/RazaviGKM12" mdate="2019-10-19">
+<author pid="15/9134">Seyed Naser Razavi</author>
+<author pid="54/4006">Nicolas Gaud</author>
+<author orcid="0000-0002-7383-5143" pid="k/AbderKoukam">Abderrafiaa Koukam</author>
+<author orcid="0000-0001-9477-9657" pid="228/7394">Nasser Mozayani</author>
+<title>A genetic programming based learning system to derive multipole and local expansions for the fast multipole method.</title>
+<pages>305-319</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0538</ee>
+<url>db/journals/aicom/aicom25.html#RazaviGKM12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/TangWQW12" mdate="2018-08-08">
+<author pid="73/4491">Pan Tang</author>
+<author pid="13/5641-2">Hongwei Wang 0002</author>
+<author pid="22/5716">Chao Qi</author>
+<author pid="39/449">Jian Wang</author>
+<title>Anytime heuristic search in temporal HTN planning for developing incident action plans.</title>
+<pages>321-342</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0539</ee>
+<url>db/journals/aicom/aicom25.html#TangWQW12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Maratea12" mdate="2017-05-18">
+<author pid="m/MarcoMaratea">Marco Maratea</author>
+<title>Planning as satisfiability with IPC simple preferences and action costs.</title>
+<pages>343-360</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0540</ee>
+<url>db/journals/aicom/aicom25.html#Maratea12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Pereira12" mdate="2017-05-18">
+<author pid="p/LuizMonizPereira">Lu&#237;s Moniz Pereira</author>
+<title>Book Review.</title>
+<pages>361-364</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0515</ee>
+<url>db/journals/aicom/aicom25.html#Pereira12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Rubio-Manzano12" mdate="2020-10-26">
+<author orcid="0000-0001-5832-070X" pid="76/5525">Clemente Rubio-Manzano</author>
+<title>Design and implementation of a fuzzy logic programming language using weak unification.</title>
+<pages>365-367</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0514</ee>
+<url>db/journals/aicom/aicom25.html#Rubio-Manzano12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Cruz12" mdate="2017-06-05">
+<author orcid="0000-0001-9029-9963" pid="60/6256">Ferm&#237;n L. Cruz</author>
+<title>Feature-based opinion extraction: A practical, domain-adaptable approach.</title>
+<pages>369-371</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0519</ee>
+<url>db/journals/aicom/aicom25.html#Cruz12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Martinez-Martin12" mdate="2017-06-05">
+<author orcid="0000-0003-4495-6912" pid="58/9491">Ester Mart&#237;nez-Mart&#237;n</author>
+<title>Computer vision methods for robot tasks: Motion detection, depth estimation and tracking.</title>
+<pages>373-375</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0520</ee>
+<url>db/journals/aicom/aicom25.html#Martinez-Martin12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Such12" mdate="2017-05-18">
+<author pid="18/4101">Jose M. Such</author>
+<title>Enhancing privacy in Multi-agent Systems.</title>
+<pages>377-379</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0521</ee>
+<url>db/journals/aicom/aicom25.html#Such12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Granados12" mdate="2018-11-02">
+<author orcid="0000-0003-0158-7969" pid="80/2612">Ana Granados</author>
+<title>Analysis and study on text representation to improve the accuracy of the normalized compression distance.</title>
+<pages>381-384</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0529</ee>
+<url>db/journals/aicom/aicom25.html#Granados12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Bulnes12" mdate="2017-06-05">
+<author orcid="0000-0002-7059-5703" pid="97/9518">Francisco G. Bulnes</author>
+<title>Classification of periodical defects in inspection systems based on computer vision.</title>
+<pages>385-386</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0534</ee>
+<url>db/journals/aicom/aicom25.html#Bulnes12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Falomir12" mdate="2017-06-05">
+<author orcid="0000-0002-6398-8488" pid="01/3488">Zoe Falomir</author>
+<title>Qualitative distances and qualitative description of images for indoor scene description and recognition in robotics.</title>
+<pages>387-389</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0535</ee>
+<url>db/journals/aicom/aicom25.html#Falomir12</url>
+</article>
+</r>
+<r style="ee"><article key="journals/aicom/Tamargo12" mdate="2017-05-18">
+<author pid="43/7556">Luciano H. Tamargo</author>
+<title>Knowledge dynamics in multi-agent systems: Plausibility, belief revision and forwarding information.</title>
+<pages>391-393</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2012-0536</ee>
+<url>db/journals/aicom/aicom25.html#Tamargo12</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,4315 @@
+<bht key="db/journals/concurrency/concurrency28.bht" title="Concurrency and Computation: Practice and Experience, Volume 28"> 
+<h1><ref href="db/journals/concurrency/index.html">Concurrency and Computation:
+Practice and Experience</ref>, Volume 28</h1> 
+<h2>Volume 28, Number 1, January 2016</h2> Research Articles <dblpcites><r style="ee"><article key="journals/concurrency/LiuGG16" mdate="2020-03-02">
+<author pid="147/1465">Weifeng Liu</author>
+<author pid="g/MichaelGerndt">Michael Gerndt</author>
+<author pid="71/5780">Bin Gong</author>
+<title>Model-based MPI-IO tuning with Periscope tuning framework.</title>
+<pages>3-20</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.3603</ee>
+<url>db/journals/concurrency/concurrency28.html#LiuGG16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MancaMOAM16" mdate="2020-03-02">
+<author pid="64/9202">Emanuele Manca</author>
+<author pid="77/6404">Andrea Manconi</author>
+<author pid="43/202">Alessandro Orro</author>
+<author pid="48/3252">Giuliano Armano</author>
+<author orcid="0000-0002-1201-3939" pid="55/5807">Luciano Milanesi</author>
+<title>CUDA-quicksort: an improved GPU-based implementation of quicksort.</title>
+<pages>21-43</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.3611</ee>
+<url>db/journals/concurrency/concurrency28.html#MancaMOAM16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiZWZSZR16" mdate="2020-03-02">
+<author pid="58/11205">Tonglin Li</author>
+<author pid="28/726">Xiaobing Zhou</author>
+<author pid="181/2613-12">Ke Wang 0012</author>
+<author pid="25/5030-1">Dongfang Zhao 0001</author>
+<author pid="148/6695">Iman Sadooghi</author>
+<author pid="87/6853-7">Zhao Zhang 0007</author>
+<author pid="94/3254">Ioan Raicu</author>
+<title>A convergence of key-value storage systems from clouds to supercomputers.</title>
+<pages>44-69</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.3614</ee>
+<url>db/journals/concurrency/concurrency28.html#LiZWZSZR16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WangQSZLLR16" mdate="2020-03-02">
+<author pid="181/2613-12">Ke Wang 0012</author>
+<author pid="30/9881">Kan Qiao</author>
+<author pid="148/6695">Iman Sadooghi</author>
+<author pid="28/726">Xiaobing Zhou</author>
+<author pid="58/11205">Tonglin Li</author>
+<author orcid="0000-0002-3498-6352" pid="00/1679">Michael Lang 0003</author>
+<author pid="94/3254">Ioan Raicu</author>
+<title>Load-balanced and locality-aware scheduling for data-intensive workloads at extreme scales.</title>
+<pages>70-94</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.3617</ee>
+<url>db/journals/concurrency/concurrency28.html#WangQSZLLR16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/CurtisS16" mdate="2020-03-02">
+<author orcid="0000-0003-4462-3907" pid="173/5861">Vitor Venceslau Curtis</author>
+<author orcid="0000-0002-8048-7204" pid="82/1743">Carlos Alberto Alonso Sanches</author>
+<title>An efficient solution to the <i>subset-sum problem</i> on GPU.</title>
+<pages>95-113</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.3636</ee>
+<url>db/journals/concurrency/concurrency28.html#CurtisS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/GallegeGHR16" mdate="2020-03-02">
+<author pid="120/6199">Lahiru S. Gallege</author>
+<author pid="62/10286">Dimuthu U. Gamage</author>
+<author pid="35/4134">James H. Hill</author>
+<author pid="96/717">Rajeev R. Raje</author>
+<title>Understanding the trust of software-intensive distributed systems.</title>
+<pages>114-143</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.3656</ee>
+<url>db/journals/concurrency/concurrency28.html#GallegeGHR16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BuhrDH16" mdate="2020-06-15">
+<author pid="b/PeterABuhr">Peter A. Buhr</author>
+<author pid="73/3023">David Dice</author>
+<author orcid="0000-0002-1413-4320" pid="h/WimHHesselink">Wim H. Hesselink</author>
+<title>Dekker's mutual exclusion algorithm made RW-safe.</title>
+<pages>144-165</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.3659</ee>
+<url>db/journals/concurrency/concurrency28.html#BuhrDH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MaMW16" mdate="2020-03-02">
+<author pid="121/4132">Youzhong Ma</author>
+<author pid="m/XiaofengMeng-1">Xiaofeng Meng 0001</author>
+<author pid="173/5811">Shaoya Wang</author>
+<title>Parallel similarity joins on massive high-dimensional data using MapReduce.</title>
+<pages>166-183</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.3663</ee>
+<url>db/journals/concurrency/concurrency28.html#MaMW16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 2, February 2016</h2> Combined Special issues on Performance and power for highly parallel systems (PPHPS), Advances in modelling and simulation for big-data applications (AMSBA) and Programming models and applications for multicores and manycores (PMAM)<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/HagerKVW16" mdate="2020-10-26">
+<author orcid="0000-0002-8723-2781" pid="83/6202">Georg Hager</author>
+<author pid="61/4750">Darren J. Kerbyson</author>
+<author pid="92/2581">Abhinav Vishnu</author>
+<author pid="00/3710">Gerhard Wellein</author>
+<title>Performance and power for highly parallel systems.</title>
+<pages>187-188</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3761</ee>
+<url>db/journals/concurrency/concurrency28.html#HagerKVW16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/HagerTHW16" mdate="2022-10-02">
+<author orcid="0000-0002-8723-2781" pid="83/6202">Georg Hager</author>
+<author pid="163/2189">Jan Treibig</author>
+<author pid="65/8315">Johannes Habich</author>
+<author orcid="0000-0001-7371-3026" pid="00/3710">Gerhard Wellein</author>
+<title>Exploring performance and power properties of modern multi-core chips via simple machine models.</title>
+<pages>189-210</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3180</ee>
+<url>db/journals/concurrency/concurrency28.html#HagerTHW16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/PerazaTLCS16" mdate="2020-03-02">
+<author pid="70/9707">Joshua Peraza</author>
+<author pid="39/1238">Ananta Tiwari</author>
+<author pid="29/5459">Michael Laurenzano</author>
+<author pid="80/3558">Laura Carrington</author>
+<author pid="55/1134">Allan Snavely</author>
+<title>PMaC's green queue: a framework for selecting energy optimal DVFS configurations in large scale MPI applications.</title>
+<pages>211-231</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3184</ee>
+<url>db/journals/concurrency/concurrency28.html#PerazaTLCS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BreslowPTLCTS16" mdate="2022-05-25">
+<author pid="123/7697">Alex D. Breslow</author>
+<author pid="60/5029">Leo Porter 0001</author>
+<author pid="39/1238">Ananta Tiwari</author>
+<author pid="29/5459">Michael Laurenzano</author>
+<author pid="80/3558">Laura Carrington</author>
+<author pid="t/DeanMTullsen">Dean M. Tullsen</author>
+<author pid="55/1134">Allan Snavely</author>
+<title>The case for colocation of high performance computing workloads.</title>
+<pages>232-251</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3187</ee>
+<url>db/journals/concurrency/concurrency28.html#BreslowPTLCTS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ServatLGL16" mdate="2020-03-02">
+<author orcid="0000-0002-0144-7934" pid="18/481">Harald Servat</author>
+<author orcid="0000-0002-7345-0841" pid="01/8240">Germ&#225;n Llort</author>
+<author orcid="0000-0002-2501-2791" pid="39/5410">Judit Gim&#233;nez</author>
+<author orcid="0000-0002-7489-4727" pid="87/4934">Jes&#250;s Labarta</author>
+<title>Detailed and simultaneous power and performance analysis.</title>
+<pages>252-273</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3188</ee>
+<ee>https://www.wikidata.org/entity/Q61731079</ee>
+<url>db/journals/concurrency/concurrency28.html#ServatLGL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/PakinS0FRIMGLRG16" mdate="2021-05-18">
+<author orcid="0000-0002-5220-1985" pid="01/397">Scott Pakin</author>
+<author pid="83/2365">Curtis B. Storlie</author>
+<author orcid="0000-0002-3498-6352" pid="00/1679">Michael Lang 0003</author>
+<author pid="88/527">Robert E. Fields</author>
+<author pid="175/6383">Eloy E. Romero Jr.</author>
+<author pid="144/2477">Craig Idler</author>
+<author pid="27/7471">Sarah Michalak</author>
+<author pid="165/3372">Hugh Greenberg</author>
+<author pid="18/501">Josip Loncaric</author>
+<author pid="51/1184">Randal Rheinheimer</author>
+<author pid="31/6753">Gary Grider</author>
+<author orcid="0000-0001-5879-3945" pid="41/9846">Joanne Wendelberger</author>
+<title>Power usage of production supercomputers and production workloads.</title>
+<pages>274-290</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3191</ee>
+<ee>https://www.wikidata.org/entity/Q59222977</ee>
+<url>db/journals/concurrency/concurrency28.html#PakinS0FRIMGLRG16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/PopIGK16" mdate="2020-03-02">
+<author orcid="0000-0002-4566-1545" pid="26/5194">Florin Pop</author>
+<author orcid="0000-0002-2089-975X" pid="05/1559">Mauro Iacono</author>
+<author pid="05/2603">Marco Gribaudo</author>
+<author pid="08/5515">Joanna Kolodziej</author>
+<title>Advances in modelling and simulation for big-data applications (AMSBA).</title>
+<pages>291-293</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3750</ee>
+<url>db/journals/concurrency/concurrency28.html#PopIGK16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/Liao16" mdate="2020-03-02">
+<author pid="87/4939">Jianwei Liao</author>
+<title>Server-side prefetching in distributed file systems.</title>
+<pages>294-310</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3432</ee>
+<url>db/journals/concurrency/concurrency28.html#Liao16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MaRYTAA16" mdate="2020-03-02">
+<author orcid="0000-0003-2320-1692" pid="49/864">Tinghuai Ma</author>
+<author pid="175/6356">Huan Rong</author>
+<author pid="175/6412">Changhong Ying</author>
+<author pid="39/5423-3">Yuan Tian 0003</author>
+<author pid="16/4341">Abdullah Al-Dhelaan</author>
+<author pid="43/7498">Mznah Al-Rodhaan</author>
+<title>Detect structural-connected communities based on BSCHEF in C-DBLP.</title>
+<pages>311-330</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3437</ee>
+<ee>https://www.wikidata.org/entity/Q58813739</ee>
+<url>db/journals/concurrency/concurrency28.html#MaRYTAA16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhaoLTXDLKL16" mdate="2020-03-02">
+<author pid="175/6375">Shuoyi Zhao</author>
+<author pid="60/4429">Ruixuan Li</author>
+<author pid="175/6354">Wenlong Tian</author>
+<author pid="30/4252">Weijun Xiao</author>
+<author pid="158/8186">Xinhua Dong</author>
+<author pid="175/6386">Dongjie Liao</author>
+<author pid="k/SameeUllahKhan">Samee U. Khan</author>
+<author pid="l/KeqinLi">Keqin Li 0001</author>
+<title>Divide-and-conquer approach for solving singular value decomposition based on MapReduce.</title>
+<pages>331-350</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3436</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhaoLTXDLKL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/PopescuSIP16" mdate="2020-03-02">
+<author pid="203/4415">Pantelimon George Popescu</author>
+<author pid="61/3015">Emil-Ioan Slusanschi</author>
+<author pid="157/8826">Voichita Iancu</author>
+<author pid="26/5194">Florin Pop</author>
+<title>A new upper bound for Shannon entropy. A novel approach in modeling of Big Data applications.</title>
+<pages>351-359</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3444</ee>
+<url>db/journals/concurrency/concurrency28.html#PopescuSIP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BehadadaTCB16" mdate="2020-03-02">
+<author pid="25/7706">Omar Behadada</author>
+<author orcid="0000-0001-6607-422X" pid="152/2638">Marcello Trovati</author>
+<author pid="99/9862">Mohammed Amine Chikh</author>
+<author orcid="0000-0002-6013-3935" pid="87/3687">Nik Bessis</author>
+<title>Big data-based extraction of fuzzy partition rules for heart arrhythmia detection: a semi-automated approach.</title>
+<pages>360-373</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3428</ee>
+<url>db/journals/concurrency/concurrency28.html#BehadadaTCB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SerbanescuABNN16" mdate="2020-03-02">
+<author pid="121/4035">Vlad Serbanescu 0001</author>
+<author pid="138/2686">Keyvan Azadbakht</author>
+<author pid="b/DSsBoer">Frank S. de Boer</author>
+<author pid="154/4515">Chetan Nagarajagowda</author>
+<author pid="87/7561">Behrooz Nobakht</author>
+<title>A design pattern for optimizations in data intensive applications using ABS and JAVA 8.</title>
+<pages>374-385</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3480</ee>
+<url>db/journals/concurrency/concurrency28.html#SerbanescuABNN16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WuTLFJI16" mdate="2020-03-02">
+<author pid="23/1092-1">Song Wu 0001</author>
+<author pid="36/10730">Songqiao Tao</author>
+<author pid="08/1891">Xiao Ling</author>
+<author pid="23/2535">Hao Fan</author>
+<author pid="98/4156">Hai Jin 0001</author>
+<author pid="00/981">Shadi Ibrahim</author>
+<title><i>iShare</i>: Balancing I/O performance isolation and disk I/O efficiency in virtualized environments.</title>
+<pages>386-399</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3496</ee>
+<url>db/journals/concurrency/concurrency28.html#WuTLFJI16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/FiccoAPC16" mdate="2021-01-05">
+<author pid="49/1311">Massimo Ficco</author>
+<author pid="160/2905">Giovanni Avolio</author>
+<author orcid="0000-0003-1760-5527" pid="86/2508-2">Francesco Palmieri 0002</author>
+<author orcid="0000-0003-0571-1074" pid="46/295">Aniello Castiglione</author>
+<title>An HLA-based framework for simulation of large-scale critical systems.</title>
+<pages>400-419</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3472</ee>
+<url>db/journals/concurrency/concurrency28.html#FiccoAPC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Karpowicz16" mdate="2020-10-26">
+<author orcid="0000-0003-1431-3078" pid="126/2562">Michal P. Karpowicz</author>
+<title>Energy-efficient CPU frequency control for the Linux system.</title>
+<pages>420-437</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3476</ee>
+<url>db/journals/concurrency/concurrency28.html#Karpowicz16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/CerottiGIP16" mdate="2020-03-02">
+<author orcid="0000-0001-5192-9387" pid="08/2403">Davide Cerotti</author>
+<author pid="05/2603">Marco Gribaudo</author>
+<author orcid="0000-0002-2089-975X" pid="05/1559">Mauro Iacono</author>
+<author orcid="0000-0003-2288-8410" pid="55/7050">Pietro Piazzolla</author>
+<title>Modeling and analysis of performances for concurrent multithread applications on multicore and graphics processing unit systems.</title>
+<pages>438-452</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3504</ee>
+<ee>https://www.wikidata.org/entity/Q62037278</ee>
+<url>db/journals/concurrency/concurrency28.html#CerottiGIP16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/Balaji016" mdate="2020-03-02">
+<author pid="70/2491">Pavan Balaji</author>
+<author pid="13/6225-1">Zhiyi Huang 0001</author>
+<title>Programming models and applications for multicores and manycores.</title>
+<pages>453-454</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3624</ee>
+<url>db/journals/concurrency/concurrency28.html#Balaji016</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/ChenZG16" mdate="2020-03-02">
+<author pid="40/3858-2">Quan Chen 0002</author>
+<author pid="68/6274-1">Long Zheng 0001</author>
+<author pid="99/6797">Minyi Guo</author>
+<title>Adaptive demand-aware work-stealing in multi-programmed multi-core architectures.</title>
+<pages>455-471</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3619</ee>
+<url>db/journals/concurrency/concurrency28.html#ChenZG16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/VaristeasB16" mdate="2020-03-02">
+<author pid="141/0283">Georgios Varisteas</author>
+<author pid="30/2217">Mats Brorsson</author>
+<title>Palirria: accurate on-line parallelism estimation for adaptive work-stealing.</title>
+<pages>472-491</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3630</ee>
+<url>db/journals/concurrency/concurrency28.html#VaristeasB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WanLLL16" mdate="2020-10-23">
+<author orcid="0000-0001-7236-3589" pid="55/8073">Lanjun Wan</author>
+<author pid="l/KenliLi">Kenli Li 0001</author>
+<author pid="72/2590-32">Jing Liu 0032</author>
+<author pid="l/KeqinLi">Keqin Li 0001</author>
+<title>Efficient CPU-GPU cooperative computing for solving the subset-sum problem.</title>
+<pages>492-516</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3629</ee>
+<url>db/journals/concurrency/concurrency28.html#WanLLL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SodsongHCLKB16" mdate="2020-03-02">
+<author pid="41/10440">Wasuwee Sodsong</author>
+<author pid="93/8239">Jingun Hong</author>
+<author pid="137/7899">Seongwook Chung</author>
+<author pid="97/2526">Yeong-Kyu Lim</author>
+<author pid="46/1853">Shin-Dug Kim</author>
+<author pid="50/2220">Bernd Burgstaller</author>
+<title>Dynamic partitioning-based JPEG decompression on heterogeneous multicore architectures.</title>
+<pages>517-536</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3620</ee>
+<url>db/journals/concurrency/concurrency28.html#SodsongHCLKB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/TianX0CEC16" mdate="2020-03-02">
+<author pid="118/8976">Xiaonan Tian</author>
+<author pid="137/0637">Rengan Xu</author>
+<author pid="96/2570-1">Yonghong Yan 0001</author>
+<author pid="28/2826">Sunita Chandrasekaran</author>
+<author pid="10/2561">Deepak Eachempati</author>
+<author pid="c/BarbaraMChapman">Barbara M. Chapman</author>
+<title>Compiler transformation of nested loops for general purpose GPUs.</title>
+<pages>537-556</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3648</ee>
+<url>db/journals/concurrency/concurrency28.html#TianX0CEC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/RegulyLMG16" mdate="2020-03-02">
+<author pid="129/5523">I. Z. Reguly</author>
+<author pid="129/5492">Endre L&#225;szl&#243;</author>
+<author orcid="0000-0002-1398-5174" pid="26/1059">Gihan R. Mudalige</author>
+<author orcid="0000-0002-5445-3721" pid="00/7270">Mike B. Giles</author>
+<title>Vectorizing unstructured mesh computations for many-core architectures.</title>
+<pages>557-577</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.3621</ee>
+<url>db/journals/concurrency/concurrency28.html#RegulyLMG16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 3, March 2016</h2> Combined Special issues on Security and reliability in big data (TrustCom 2013), HeteroPar 2014, APCIE 2014, and TASUS 2014 Special Issue and Workshop on high-performance computational finance (WHPCF14)<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/XiangSM016" mdate="2020-03-02">
+<author pid="50/2192-1">Yang Xiang 0001</author>
+<author pid="s/IvanStojmenovic">Ivan Stojmenovic</author>
+<author pid="20/4094">Peter Mueller</author>
+<author orcid="0000-0002-2189-7801" pid="z/JunZhang10">Jun Zhang 0010</author>
+<title>Security and reliability in big data.</title>
+<pages>581-582</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3755</ee>
+<url>db/journals/concurrency/concurrency28.html#XiangSM016</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/HwangHPL16" mdate="2020-03-02">
+<author pid="09/4039">Gwan-Hwan Hwang</author>
+<author pid="139/3228">Wei-Sian Huang</author>
+<author pid="139/3311">Jenn-Zjone Peng</author>
+<author pid="58/7205">Yu-Wei Lin</author>
+<title>Fulfilling mutual nonrepudiation for cloud storage.</title>
+<pages>583-599</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3315</ee>
+<url>db/journals/concurrency/concurrency28.html#HwangHPL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WangYBS16" mdate="2020-03-02">
+<author orcid="0000-0002-8465-0996" pid="33/3535-2">Hua Wang 0002</author>
+<author orcid="0000-0001-7351-5724" pid="94/4423">Xun Yi</author>
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="85/2990">Lili Sun</author>
+<title>Protecting outsourced data in cloud computing through access management.</title>
+<pages>600-615</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3286</ee>
+<url>db/journals/concurrency/concurrency28.html#WangYBS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HanLXUWLGL16" mdate="2021-07-14">
+<author pid="175/6418">Chunjing Han</author>
+<author pid="58/5750-1">Zhenyu Li 0001</author>
+<author pid="01/2888">Gaogang Xie</author>
+<author orcid="0000-0001-6251-6836" pid="87/6218">Steve Uhlig</author>
+<author pid="25/4914">Yulei Wu</author>
+<author pid="65/10461">Liangxiong Li</author>
+<author pid="27/5353">Jingguo Ge</author>
+<author pid="15/10015-2">Yunjie Liu 0002</author>
+<title>Insights into the issue in IPv6 adoption: A view from the Chinese IPv6 Application mix.</title>
+<pages>616-630</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3327</ee>
+<ee>https://www.wikidata.org/entity/Q57916032</ee>
+<url>db/journals/concurrency/concurrency28.html#HanLXUWLGL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhouXW16" mdate="2022-08-06">
+<author pid="69/5011">Wei Zhou</author>
+<author pid="61/3906-13">Yang Xu 0013</author>
+<author pid="81/3285-1">Guojun Wang 0001</author>
+<title>Decentralized group key management for hierarchical access control using multilinear forms.</title>
+<pages>631-645</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3328</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhouXW16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiuBYZC16" mdate="2020-03-02">
+<author pid="52/5716-1">Chang Liu 0001</author>
+<author pid="175/6352">Nick Beaugeard</author>
+<author pid="10/702">Chi Yang</author>
+<author pid="54/8558">Xuyun Zhang</author>
+<author pid="06/2379">Jinjun Chen</author>
+<title>HKE-BC: hierarchical key exchange for secure scheduling and auditing of big data in cloud computing.</title>
+<pages>646-660</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3426</ee>
+<url>db/journals/concurrency/concurrency28.html#LiuBYZC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhangH16" mdate="2021-10-14">
+<author pid="99/11225">Jinson Zhang</author>
+<author orcid="0000-0002-6896-6480" pid="h/MaoLinHuang">Mao Lin Huang</author>
+<title>Density approach: a new model for BigData analysis and visualization.</title>
+<pages>661-673</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3337</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhangH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MaoZWHH16" mdate="2020-03-02">
+<author pid="74/6497">Yuxin Mao</author>
+<author pid="38/5398">Ping Zhu</author>
+<author pid="39/3529">Guiyi Wei</author>
+<author pid="84/4762">Mohammad Mehedi Hassan</author>
+<author orcid="0000-0002-7673-8410" pid="02/5654">M. Anwar Hossain 0001</author>
+<title>A game-based incentive model for service cooperation in VANETs.</title>
+<pages>674-687</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3340</ee>
+<ee>https://www.wikidata.org/entity/Q61908241</ee>
+<url>db/journals/concurrency/concurrency28.html#MaoZWHH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MuhlbauerZK16" mdate="2021-04-09">
+<author pid="32/6181">Adam Muhlbauer</author>
+<author pid="139/3123">Timothy Zelinsky</author>
+<author orcid="0000-0002-1835-3475" pid="42/840">Salil S. Kanhere</author>
+<title>Platform zero: a step closer to ubiquitous computing.</title>
+<pages>688-706</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3366</ee>
+<url>db/journals/concurrency/concurrency28.html#MuhlbauerZK16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ThulasiramTPJ16" mdate="2020-03-02">
+<author pid="34/4880">Ruppa K. Thulasiram</author>
+<author pid="46/4112">Parimala Thulasiraman</author>
+<author pid="90/7128">Hari Prasain</author>
+<author pid="69/7128">Girish K. Jha</author>
+<title>Nature-inspired soft computing for financial option pricing using high-performance analytics.</title>
+<pages>707-728</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3360</ee>
+<url>db/journals/concurrency/concurrency28.html#ThulasiramTPJ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhouHGX16" mdate="2022-12-15">
+<author pid="69/5011-19">Wei Zhou 0019</author>
+<author pid="72/6837">Jizhong Han</author>
+<author pid="90/2817">Yun Gao</author>
+<author pid="54/3171-3">Zhiyong Xu 0003</author>
+<title>An efficient graph data processing system for large-scale social network service applications.</title>
+<pages>729-747</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3393</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhouHGX16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/CarreteroCJLRTZ16" mdate="2020-12-29">
+<author orcid="0000-0002-1413-4793" pid="c/JCarretero">Jes&#250;s Carretero 0001</author>
+<author pid="15/717">Raimondas Ciegis</author>
+<author pid="46/5717">Emmanuel Jeannot</author>
+<author pid="03/4160">Laurent Lef&#232;vre</author>
+<author pid="r/GudulaRunger">Gudula R&#252;nger</author>
+<author pid="44/5373">Domenico Talia</author>
+<author pid="78/6870">Julius Zilinskas</author>
+<title>HeteroPar 2014, APCIE 2014, and TASUS 2014 Special Issue.</title>
+<pages>748-749</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3688</ee>
+<url>db/journals/concurrency/concurrency28.html#CarreteroCJLRTZ16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/MansouriHH16" mdate="2020-03-02">
+<author pid="140/0356">Farouk Mansouri</author>
+<author pid="27/4812">Sylvain Huet</author>
+<author pid="75/753">Dominique Houzet</author>
+<title>A domain-specific high-level programming model.</title>
+<pages>750-767</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3622</ee>
+<url>db/journals/concurrency/concurrency28.html#MansouriHH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SoldadoAP16" mdate="2020-03-02">
+<author pid="155/4976">F&#225;bio Soldado</author>
+<author pid="132/6955">Fernando Alexandre</author>
+<author orcid="0000-0001-7958-9740" pid="04/5183">Herv&#233; Paulino</author>
+<title>Execution of compound multi-kernel OpenCL computations in multi-CPU/multi-GPU environments.</title>
+<pages>768-787</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3612</ee>
+<url>db/journals/concurrency/concurrency28.html#SoldadoAP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/AcostaA16" mdate="2020-03-02">
+<author orcid="0000-0001-5440-034X" pid="48/8360">Alejandro Acosta</author>
+<author orcid="0000-0002-1279-9636" pid="00/2671">Francisco Almeida</author>
+<title>The particle filter algorithm: parallel implementations and performance analysis over Android mobile devices.</title>
+<pages>788-801</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3626</ee>
+<url>db/journals/concurrency/concurrency28.html#AcostaA16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MalikRL16" mdate="2020-03-02">
+<author orcid="0000-0002-4461-7120" pid="155/5487">Tania Malik</author>
+<author pid="58/1595">Vladimir Rychkov</author>
+<author orcid="0000-0001-9460-3897" pid="80/6837">Alexey L. Lastovetsky</author>
+<title>Network-aware optimization of communications for parallel matrix multiplication on hierarchical HPC platforms.</title>
+<pages>802-821</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3609</ee>
+<url>db/journals/concurrency/concurrency28.html#MalikRL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MorelliCC16" mdate="2020-03-02">
+<author orcid="0000-0002-1041-6793" pid="55/4866">Davide Morelli</author>
+<author pid="165/6055">Andrea Canciani</author>
+<author orcid="0000-0001-5302-3335" pid="97/6894">Antonio Cisternino</author>
+<title>A high-level and accurate energy model of parallel and concurrent workloads.</title>
+<pages>822-833</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3610</ee>
+<url>db/journals/concurrency/concurrency28.html#MorelliCC16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/DixonMD16" mdate="2020-03-02">
+<author pid="34/7005">Matthew Dixon</author>
+<author pid="12/1593">Jos&#233; E. Moreira</author>
+<author pid="64/282">David Daly</author>
+<title>Workshop on high-performance computational finance.</title>
+<pages>834-835</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3738</ee>
+<url>db/journals/concurrency/concurrency28.html#DixonMD16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/BurkeRV16" mdate="2021-07-25">
+<author pid="151/8340">Neil Burke</author>
+<author orcid="0000-0003-3046-3906" pid="r/ARauChaplin">Andrew Rau-Chaplin</author>
+<author pid="32/7786">Blesson Varghese</author>
+<title>Computing probable maximum loss in catastrophe reinsurance portfolios on multi-core and many-core architectures.</title>
+<pages>836-847</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3695</ee>
+<url>db/journals/concurrency/concurrency28.html#BurkeRV16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiL16" mdate="2020-03-02">
+<author pid="49/595">Shuo Li</author>
+<author pid="54/5881">James Lin</author>
+<title>Accelerating Asian option pricing on many-core architectures.</title>
+<pages>848-865</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3725</ee>
+<url>db/journals/concurrency/concurrency28.html#LiL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DixonLZ16" mdate="2020-03-02">
+<author pid="34/7005">Matthew Dixon</author>
+<author pid="30/7910">J&#246;rg Lotze</author>
+<author pid="28/4965">Mohammad Zubair</author>
+<title>A portable, extensible and fast stochastic volatility model calibration using multi and many-core processors.</title>
+<pages>866-877</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3727</ee>
+<url>db/journals/concurrency/concurrency28.html#DixonLZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/FiksmanNBS16" mdate="2020-03-02">
+<author pid="83/6036">Evgeny Fiksman</author>
+<author pid="01/10547">Andrey Nikolaev</author>
+<author pid="129/5413">Ilya Burylov</author>
+<author pid="151/6932">Sania Salahuddin</author>
+<title>STAC-A2 on Intel architecture: evolving from scalar code to heterogeneous applications.</title>
+<pages>878-891</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3691</ee>
+<url>db/journals/concurrency/concurrency28.html#FiksmanNBS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BruggerLSW16" mdate="2021-07-25">
+<author pid="118/5506">Christian Brugger</author>
+<author pid="161/9186">Gongda Liu</author>
+<author orcid="0000-0002-5911-5289" pid="60/9861">Christian de Schryver</author>
+<author orcid="0000-0002-9010-086X" pid="48/6980">Norbert Wehn</author>
+<title>Precision-tuning and hybrid pricer for closed-form solution-based Heston calibration.</title>
+<pages>892-904</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3694</ee>
+<url>db/journals/concurrency/concurrency28.html#BruggerLSW16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MorenoB16" mdate="2020-03-02">
+<author pid="161/6588">Alexander Moreno</author>
+<author pid="b/TuckerRBalch">Tucker Balch</author>
+<title>Improving financial computation speed with full and subproblem memoization.</title>
+<pages>905-915</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3693</ee>
+<url>db/journals/concurrency/concurrency28.html#MorenoB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/GeorgakoudisGSS16" mdate="2020-03-02">
+<author orcid="0000-0001-6542-3555" pid="115/5946">Giorgis Georgakoudis</author>
+<author pid="72/5020">Charles J. Gillan</author>
+<author pid="84/1298">Ahmed Sayed</author>
+<author pid="42/1833">Ivor T. A. Spence</author>
+<author pid="157/8442">Richard Faloon</author>
+<author orcid="0000-0003-0217-8307" pid="50/1235">Dimitrios S. Nikolopoulos</author>
+<title>Methods and metrics for fair server assessment under real-time financial workloads.</title>
+<pages>916-928</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3704</ee>
+<url>db/journals/concurrency/concurrency28.html#GeorgakoudisGSS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/FreitasFS16" mdate="2020-03-02">
+<author pid="164/8960">F&#225;bio Daros Freitas</author>
+<author pid="175/6377">Christian Daros Freitas</author>
+<author orcid="0000-0003-1561-8447" pid="82/3659">Alberto Ferreira de Souza</author>
+<title>Intelligent trading architecture.</title>
+<pages>929-943</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.3690</ee>
+<url>db/journals/concurrency/concurrency28.html#FreitasFS16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 4, March 2016</h2> Combined Special issues on Cloud computing for data-driven science and engineering (ScienceCloud 2012), Recent advances in security and privacy in large-scale networks (LSNS 2014) and Intelligent Distributed Computing (IDC 2014)<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/SimmhanRAG16" mdate="2020-03-02">
+<author orcid="0000-0003-4140-7774" pid="s/YogeshSimmhan">Yogesh Simmhan</author>
+<author pid="80/1690">Lavanya Ramakrishnan</author>
+<author pid="a/GabrielAntoniu">Gabriel Antoniu</author>
+<author pid="g/CaroleAGoble">Carole A. Goble</author>
+<title>Cloud computing for data-driven science and engineering.</title>
+<pages>947-949</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3668</ee>
+<url>db/journals/concurrency/concurrency28.html#SimmhanRAG16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/CostanTAB16" mdate="2021-10-14">
+<author orcid="0000-0003-3111-6308" pid="81/2916">Alexandru Costan</author>
+<author pid="56/2735">Radu Tudoran</author>
+<author pid="a/GabrielAntoniu">Gabriel Antoniu</author>
+<author pid="48/369">Goetz Brasche</author>
+<title>TomusBlobs: scalable data-intensive processing on Azure clouds.</title>
+<pages>950-976</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3034</ee>
+<url>db/journals/concurrency/concurrency28.html#CostanTAB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/PatelRV16" mdate="2021-07-25">
+<author pid="121/1950">Ishan Patel</author>
+<author orcid="0000-0003-3046-3906" pid="r/ARauChaplin">Andrew Rau-Chaplin</author>
+<author pid="32/7786">Blesson Varghese</author>
+<title>Accelerating R-based analytics on the cloud.</title>
+<pages>977-994</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3026</ee>
+<url>db/journals/concurrency/concurrency28.html#PatelRV16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MissierWHW16" mdate="2020-03-27">
+<author orcid="0000-0002-0978-2446" pid="28/1062">Paolo Missier</author>
+<author pid="81/3471">Simon Woodman</author>
+<author pid="35/741">Hugo Hiden</author>
+<author orcid="0000-0001-7629-4760" pid="22/3634-1">Paul Watson 0001</author>
+<title>Provenance and data differencing for workflow reproducibility analysis.</title>
+<pages>995-1015</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3035</ee>
+<ee>https://www.wikidata.org/entity/Q59635336</ee>
+<url>db/journals/concurrency/concurrency28.html#MissierWHW16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DuY016" mdate="2020-03-02">
+<author pid="56/7373">Naiqiao Du</author>
+<author pid="79/5188">Xiaojun Ye</author>
+<author pid="06/3456-1">Jianmin Wang 0001</author>
+<title>A semantic-aware data generator for ETL workflows.</title>
+<pages>1016-1040</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3028</ee>
+<url>db/journals/concurrency/concurrency28.html#DuY016</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MehrotraDHHJLSB16" mdate="2020-03-02">
+<author pid="33/354">Piyush Mehrotra</author>
+<author pid="81/2570">M. Jahed Djomehri</author>
+<author pid="120/1837">Steve Heistand</author>
+<author pid="08/6531">Robert Hood</author>
+<author pid="93/1721">Haoqiang Jin</author>
+<author pid="176/2226">Arthur Lazanoff</author>
+<author pid="40/832">Subhash Saini</author>
+<author pid="17/2584">Rupak Biswas</author>
+<title>Performance evaluation of Amazon Elastic Compute Cloud for NASA high-performance computing applications.</title>
+<pages>1041-1055</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3029</ee>
+<url>db/journals/concurrency/concurrency28.html#MehrotraDHHJLSB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/CandelaCCPS16" mdate="2020-09-05">
+<author orcid="0000-0002-7279-2727" pid="25/5513">Leonardo Candela</author>
+<author pid="23/3970">Donatella Castelli</author>
+<author orcid="0000-0001-7232-191X" pid="42/6318">Gianpaolo Coro</author>
+<author orcid="0000-0001-6611-3209" pid="99/834">Pasquale Pagano</author>
+<author pid="176/2228">Fabio Sinibaldi</author>
+<title>Species distribution modeling in the cloud.</title>
+<pages>1056-1079</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3030</ee>
+<ee>https://www.wikidata.org/entity/Q57810084</ee>
+<url>db/journals/concurrency/concurrency28.html#CandelaCCPS16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/YuMLR16" mdate="2020-03-02">
+<author pid="43/5685-2">Yong Yu 0002</author>
+<author pid="m/YiMu">Yi Mu 0001</author>
+<author pid="88/3562">Rongxing Lu</author>
+<author pid="59/2180">Jian Ren</author>
+<title>Recent advances in security and privacy in large-scale networks.</title>
+<pages>1080-1082</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3775</ee>
+<url>db/journals/concurrency/concurrency28.html#YuMLR16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/0003ZD16" mdate="2020-03-02">
+<author pid="46/999-3">Bo Yang 0003</author>
+<author pid="28/2422">Mingwu Zhang</author>
+<author pid="142/9700">Jun-Qiang Du</author>
+<title>An error-tolerant keyword search scheme based on public-key encryption in secure cloud computing.</title>
+<pages>1083-1093</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3521</ee>
+<url>db/journals/concurrency/concurrency28.html#0003ZD16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BaoC16" mdate="2020-03-02">
+<author pid="23/4271">Haiyong Bao</author>
+<author pid="19/576">Le Chen</author>
+<title>A lightweight privacy-preserving scheme with data integrity for smart grid communications.</title>
+<pages>1094-1110</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3527</ee>
+<url>db/journals/concurrency/concurrency28.html#BaoC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhangQD16" mdate="2020-03-02">
+<author pid="47/722">Yue Zhang</author>
+<author orcid="0000-0003-2380-0396" pid="00/1015-2">Jing Qin 0002</author>
+<author pid="176/2227">Lihua Du</author>
+<title>A secure biometric authentication based on PEKS.</title>
+<pages>1111-1123</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3539</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhangQD16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DengXWD16" mdate="2020-03-02">
+<author pid="49/10381">Jiang Deng</author>
+<author pid="15/49">Chunxiang Xu</author>
+<author pid="136/0888">Huai Wu</author>
+<author pid="32/2587">Liju Dong</author>
+<title>A new certificateless signature with enhanced security and aggregation version.</title>
+<pages>1124-1133</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3551</ee>
+<url>db/journals/concurrency/concurrency28.html#DengXWD16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ChenWXW16" mdate="2020-03-02">
+<author pid="26/2684">Zhide Chen</author>
+<author pid="93/6765-4">Meng Wang 0004</author>
+<author pid="85/2168-2">Li Xu 0002</author>
+<author pid="95/6985-1">Wei Wu 0001</author>
+<title>Worm propagation model in mobile network.</title>
+<pages>1134-1144</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3566</ee>
+<url>db/journals/concurrency/concurrency28.html#ChenWXW16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DongZC16" mdate="2022-06-23">
+<author pid="06/1495">Xiaolei Dong</author>
+<author pid="99/3847-18">Jun Zhou 0018</author>
+<author orcid="0000-0002-5250-5030" pid="49/1185">Zhenfu Cao</author>
+<title>Efficient privacy-preserving temporal and spacial data aggregation for smart grid communications.</title>
+<pages>1145-1160</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3570</ee>
+<url>db/journals/concurrency/concurrency28.html#DongZC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhangNTWY16" mdate="2020-03-02">
+<author pid="172/0487">Yafang Zhang</author>
+<author pid="121/2421">Jianbing Ni</author>
+<author pid="81/7694">Xiaoling Tao</author>
+<author pid="84/2694">Yong Wang</author>
+<author pid="43/5685-2">Yong Yu 0002</author>
+<title>Provable multiple replication data possession with full dynamics for secure cloud storage.</title>
+<pages>1161-1173</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3573</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhangNTWY16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HeWQLL16" mdate="2020-03-02">
+<author pid="152/2566">Shuangyu He</author>
+<author pid="54/7015">Qianhong Wu</author>
+<author pid="05/4546">Bo Qin</author>
+<author pid="43/3771-1">Jianwei Liu 0001</author>
+<author pid="87/660">Yan Li</author>
+<title>Efficient group key management for secure big data in predictable large-scale networks.</title>
+<pages>1174-1192</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3574</ee>
+<url>db/journals/concurrency/concurrency28.html#HeWQLL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/GeLL16" mdate="2021-10-14">
+<author pid="176/2225">Yongyong Ge</author>
+<author orcid="0000-0002-4407-9027" pid="136/0901">Yannan Li</author>
+<author pid="61/590">Zhusong Liu</author>
+<title>Delegation of signing rights for emerging 5G networks.</title>
+<pages>1193-1203</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3581</ee>
+<url>db/journals/concurrency/concurrency28.html#GeLL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MiaoML16" mdate="2022-10-02">
+<author pid="166/1798">Yinbin Miao</author>
+<author pid="12/6604-1">Jianfeng Ma 0001</author>
+<author orcid="0000-0002-3934-2177" pid="139/4288">Zhiquan Liu</author>
+<title>Revocable and anonymous searchable encryption in multi-user setting.</title>
+<pages>1204-1218</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3608</ee>
+<url>db/journals/concurrency/concurrency28.html#MiaoML16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiWYM16" mdate="2022-12-07">
+<author pid="72/3476-1">Xinghua Li 0001</author>
+<author pid="176/2229">Ermeng Wang</author>
+<author pid="67/4294">Weidong Yang</author>
+<author pid="12/6604-1">Jianfeng Ma 0001</author>
+<title>DALP: A demand-aware location privacy protection scheme in continuous location-based services.</title>
+<pages>1219-1236</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3613</ee>
+<url>db/journals/concurrency/concurrency28.html#LiWYM16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WangZC16" mdate="2020-03-02">
+<author pid="137/5278">Minqian Wang</author>
+<author pid="43/4074">Zhenfeng Zhang</author>
+<author pid="10/217">Cheng Chen</author>
+<title>Security analysis of a privacy-preserving decentralized ciphertext-policy attribute-based encryption scheme.</title>
+<pages>1237-1245</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3623</ee>
+<url>db/journals/concurrency/concurrency28.html#WangZC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HeAJL16" mdate="2020-03-02">
+<author pid="00/6988">Xuefeng He</author>
+<author pid="122/1593">Xingzheng Ai</author>
+<author pid="176/2230">Yuewu Jing</author>
+<author pid="97/2119">Yuanyuan Liu</author>
+<title>Partner selection of agricultural products supply chain based on data mining.</title>
+<pages>1246-1256</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3625</ee>
+<url>db/journals/concurrency/concurrency28.html#HeAJL16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/VenticinqueC16" mdate="2020-09-05">
+<author orcid="0000-0001-5042-3384" pid="66/3823">Salvatore Venticinque</author>
+<author orcid="0000-0002-5051-3475" pid="64/1881">David Camacho</author>
+<title>Intelligent Distributed Computing.</title>
+<pages>1257-1260</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3759</ee>
+<ee>https://www.wikidata.org/entity/Q57491671</ee>
+<url>db/journals/concurrency/concurrency28.html#VenticinqueC16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/MartinAVG16" mdate="2022-04-09">
+<author pid="04/6224">R. Martin</author>
+<author orcid="0000-0002-7472-4840" pid="69/6723">Ricardo Aler</author>
+<author orcid="0000-0002-5441-532X" pid="48/4402">Jos&#233; Mar&#237;a Valls</author>
+<author orcid="0000-0002-8490-7296" pid="57/4739">In&#233;s Mar&#237;a Galv&#225;n</author>
+<title>Machine learning techniques for daily solar energy prediction and interpolation using numerical weather models.</title>
+<pages>1261-1274</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3631</ee>
+<url>db/journals/concurrency/concurrency28.html#MartinAVG16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/AmatoMSV16" mdate="2020-03-02">
+<author orcid="0000-0002-5196-8148" pid="12/10589">Alba Amato</author>
+<author pid="19/953">Beniamino Di Martino</author>
+<author pid="134/1009">Marco Scialdone</author>
+<author orcid="0000-0001-5042-3384" pid="66/3823">Salvatore Venticinque</author>
+<title>Distributed architecture for agents-based energy negotiation in solar powered micro-grids.</title>
+<pages>1275-1290</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3757</ee>
+<ee>https://www.wikidata.org/entity/Q57491665</ee>
+<url>db/journals/concurrency/concurrency28.html#AmatoMSV16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/CarneiroPGNN16" mdate="2022-04-27">
+<author orcid="0000-0002-6650-0388" pid="05/6663">Davide Carneiro 0001</author>
+<author pid="133/0767">Andr&#233; Pimenta</author>
+<author orcid="0000-0003-4614-5101" pid="115/9315">S&#233;rgio Gon&#231;alves</author>
+<author orcid="0000-0002-8863-0351" pid="84/5278">Jos&#233; Neves 0001</author>
+<author orcid="0000-0002-3549-0754" pid="77/2321">Paulo Novais</author>
+<title>Monitoring and improving performance in human-computer interaction.</title>
+<pages>1291-1309</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3635</ee>
+<ee>https://www.wikidata.org/entity/Q59237894</ee>
+<url>db/journals/concurrency/concurrency28.html#CarneiroPGNN16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Hernandez-Castro16" mdate="2020-03-02">
+<author orcid="0000-0001-8070-9586" pid="87/4321">Carlos Javier Hern&#225;ndez-Castro</author>
+<author orcid="0000-0002-3601-3052" pid="45/5258">David F. Barrero</author>
+<author orcid="0000-0002-7024-0427" pid="74/170">Mar&#237;a D. R.-Moreno</author>
+<title>Machine learning and empathy: the Civil Rights CAPTCHA.</title>
+<pages>1310-1323</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3632</ee>
+<url>db/journals/concurrency/concurrency28.html#Hernandez-Castro16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/JanderBL16" mdate="2020-03-02">
+<author pid="01/8431">Kai Jander</author>
+<author pid="94/4499">Lars Braubach</author>
+<author pid="l/WLamersdorf">Winfried Lamersdorf</author>
+<title>Distributed monitoring and workflow management for goal-oriented workflows.</title>
+<pages>1324-1335</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3571</ee>
+<url>db/journals/concurrency/concurrency28.html#JanderBL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/KarlsenSN16" mdate="2020-03-02">
+<author pid="90/3506">Randi Karlsen</author>
+<author pid="131/0594">David Sundby</author>
+<author pid="55/3371">Joan C. Nordbotten</author>
+<title>Development of image collection representations for intelligent distributed systems.</title>
+<pages>1336-1355</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3649</ee>
+<url>db/journals/concurrency/concurrency28.html#KarlsenSN16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Jung16" mdate="2020-03-02">
+<author orcid="0000-0003-0050-7445" pid="90/5330">Jason J. Jung</author>
+<title>Exploiting geotagged resources for spatial clustering on social network services.</title>
+<pages>1356-1367</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3634</ee>
+<ee>https://www.wikidata.org/entity/Q62708521</ee>
+<url>db/journals/concurrency/concurrency28.html#Jung16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/PokahrB16" mdate="2020-03-02">
+<author orcid="0000-0001-6476-6994" pid="45/808">Alexander Pokahr</author>
+<author pid="94/4499">Lars Braubach</author>
+<title>Elastic component-based applications in PaaS clouds.</title>
+<pages>1368-1384</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3641</ee>
+<url>db/journals/concurrency/concurrency28.html#PokahrB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Villar-Rodriguez16" mdate="2022-10-02">
+<author orcid="0000-0003-3343-3737" pid="150/4886">Esther Villar-Rodriguez</author>
+<author orcid="0000-0002-1260-9775" pid="94/1127">Javier Del Ser</author>
+<author orcid="0000-0003-3005-1100" pid="129/9497">Ana I. Torre-Bastida</author>
+<author orcid="0000-0002-0519-8728" pid="34/9720">Miren Nekane Bilbao</author>
+<author pid="34/4610">Sancho Salcedo-Sanz</author>
+<title>A novel machine learning approach to the detection of identity theft in social networks based on emulated attack instances and support vector machines.</title>
+<pages>1385-1395</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/cpe.3633</ee>
+<url>db/journals/concurrency/concurrency28.html#Villar-Rodriguez16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 5, April 2016</h2> Research Articles <dblpcites><r style="ee"><article key="journals/concurrency/WeiZLQ16" mdate="2020-03-02">
+<author pid="24/4105-16">Wei Wei 0016</author>
+<author pid="01/1504">Yuhong Zhang</author>
+<author pid="51/3710-168">Yang Liu 0168</author>
+<author pid="52/1374">Zhiguang Qin</author>
+<title>FRP: a fast resource placement algorithm in distributed cloud computing platform.</title>
+<pages>1399-1416</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3654</ee>
+<url>db/journals/concurrency/concurrency28.html#WeiZLQ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/StrnadN16" mdate="2021-09-23">
+<author orcid="0000-0003-4468-0290" pid="05/5158">Damjan Strnad</author>
+<author orcid="0000-0003-1559-9776" pid="177/0621">Andrej Nerat</author>
+<title>Parallel construction of classification trees on a GPU.</title>
+<pages>1417-1436</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3660</ee>
+<url>db/journals/concurrency/concurrency28.html#StrnadN16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/PeiWMX16" mdate="2021-02-26">
+<author pid="147/1676">Xiaoqiang Pei</author>
+<author pid="91/1726-1">Yijie Wang 0001</author>
+<author pid="144/9515">Xingkong Ma</author>
+<author pid="132/1722">Fangliang Xu</author>
+<title>Repairing multiple failures adaptively with erasure codes in distributed storage systems.</title>
+<pages>1437-1461</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3664</ee>
+<url>db/journals/concurrency/concurrency28.html#PeiWMX16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/EzugwuJFBO16" mdate="2022-11-29">
+<author pid="44/10879">Absalom E. Ezugwu</author>
+<author pid="38/6307">Sahalu B. Junaidu</author>
+<author pid="89/210">Marc E. Fr&#238;ncu</author>
+<author orcid="0000-0002-7536-4066" pid="137/0911">Seyed M. Buhari</author>
+<author pid="334/4446">Afolayan Ayodele Obiniyi</author>
+<title>Scheduling multi-component applications with mobile agents in heterogeneous distributed systems.</title>
+<pages>1462-1479</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3667</ee>
+<url>db/journals/concurrency/concurrency28.html#EzugwuJFBO16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/YuOBS16" mdate="2022-04-12">
+<author pid="y/TingYu-12">Ting Yu 0012</author>
+<author pid="133/5083">Julian Oppermann</author>
+<author pid="115/6528">Chris P. Bradley</author>
+<author pid="06/6045">Oliver Sinnen</author>
+<title>Performance optimisation strategies for automatically generated FPGA accelerators for biomedical models.</title>
+<pages>1480-1506</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3699</ee>
+<url>db/journals/concurrency/concurrency28.html#YuOBS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WangLQL16" mdate="2023-02-08">
+<author pid="70/11179">Xinyang Wang</author>
+<author pid="61/10795">Jiarong Liang</author>
+<author pid="08/4959">Deyu Qi 0001</author>
+<author pid="53/282-1">Weiwei Lin 0001</author>
+<title>The twisted crossed cube.</title>
+<pages>1507-1526</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3707</ee>
+<url>db/journals/concurrency/concurrency28.html#WangLQL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LeeBV16" mdate="2020-03-02">
+<author orcid="0000-0002-2730-9150" pid="44/765">Kevin Lee</author>
+<author pid="33/784">Georg Buss</author>
+<author pid="97/3958">Daniel Veit</author>
+<title>A heuristic approach for the allocation of resources in large-scale computing infrastructures.</title>
+<pages>1527-1547</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3709</ee>
+<url>db/journals/concurrency/concurrency28.html#LeeBV16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/RighiCRR16" mdate="2020-06-15">
+<author pid="33/4917">Rodrigo da Rosa Righi</author>
+<author orcid="0000-0003-3859-6199" pid="14/3505">Cristiano Andr&#233; da Costa</author>
+<author orcid="0000-0001-6129-0548" pid="160/8134">Vinicius Facco Rodrigues</author>
+<author pid="162/3710">Gustavo Rostirolla</author>
+<title>Joint-analysis of performance and energy consumption when enabling cloud elasticity for synchronous HPC applications.</title>
+<pages>1548-1571</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3710</ee>
+<url>db/journals/concurrency/concurrency28.html#RighiCRR16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/AroraBS16" mdate="2020-03-02">
+<author pid="177/0676">Vinay Arora</author>
+<author pid="89/2317">Rajesh Kumar Bhatia</author>
+<author orcid="0000-0001-8489-8759" pid="05/7685">Maninder Singh</author>
+<title>A systematic review of approaches for testing concurrent programs.</title>
+<pages>1572-1611</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3711</ee>
+<ee>https://www.wikidata.org/entity/Q57570465</ee>
+<url>db/journals/concurrency/concurrency28.html#AroraBS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiuYC16" mdate="2020-03-02">
+<author pid="71/2181">Duanyang Liu</author>
+<author pid="13/1520">Xi Yang</author>
+<author pid="70/3835">Zhen Cheng</author>
+<title>An energy-aware scheduling algorithm for divisible loads in a bus network.</title>
+<pages>1612-1628</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3713</ee>
+<url>db/journals/concurrency/concurrency28.html#LiuYC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LinL16" mdate="2020-03-02">
+<author pid="09/3567">Yu-Te Lin</author>
+<author pid="42/3701">Jenq Kuen Lee</author>
+<title>Vector data flow analysis for SIMD optimizations on OpenCL programs.</title>
+<pages>1629-1654</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3714</ee>
+<url>db/journals/concurrency/concurrency28.html#LinL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/FeldottoG16" mdate="2020-03-02">
+<author orcid="0000-0003-1348-6516" pid="135/3122">Matthias Feldotto</author>
+<author pid="61/5614">Kalman Graffi</author>
+<title>Systematic evaluation of peer-to-peer systems using PeerfactSim.KOM.</title>
+<pages>1655-1677</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3716</ee>
+<url>db/journals/concurrency/concurrency28.html#FeldottoG16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiXWSXGD16" mdate="2020-10-26">
+<author orcid="0000-0002-4622-6481" pid="09/6002">Dali Li</author>
+<author pid="43/826">Chuanfu Xu</author>
+<author orcid="0000-0002-6752-0436" pid="16/5578">Yongxian Wang</author>
+<author pid="177/0700">Zhifang Song</author>
+<author pid="33/6735">Min Xiong</author>
+<author pid="14/3881">Xiang Gao</author>
+<author pid="21/3234">Xiaogang Deng</author>
+<title>Parallelizing and optimizing large-scale 3D multi-phase flow simulations on the Tianhe-2 supercomputer.</title>
+<pages>1678-1692</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3717</ee>
+<url>db/journals/concurrency/concurrency28.html#LiXWSXGD16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 6, April 2016</h2> Combined Special issues on Workshop on high performance data intensive computing, Wireless and mobile network performance evaluation and Securing cyberspace<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/ZhangZ16" mdate="2020-03-02">
+<author pid="17/6660">Yunquan Zhang</author>
+<author pid="178/0248">Ji-Lin Zhang</author>
+<title>Workshop on high performance data intensive computing.</title>
+<pages>1695-1696</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3765</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhangZ16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/TuNL16" mdate="2020-03-02">
+<author pid="227/4548">Shan-Shan Tu</author>
+<author pid="148/1760">Shao-Zhang Niu</author>
+<author pid="66/3387">Hui Li</author>
+<title>A fine-grained access control and revocation scheme on clouds.</title>
+<pages>1697-1714</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.2956</ee>
+<url>db/journals/concurrency/concurrency28.html#TuNL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/TaheriZK16" mdate="2020-03-02">
+<author pid="60/739">Javid Taheri</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<author pid="k/SameeUllahKhan">Samee U. Khan</author>
+<title>Genetic algorithm in finding Pareto frontier of optimizing data transfer versus job execution in grids.</title>
+<pages>1715-1736</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.2960</ee>
+<url>db/journals/concurrency/concurrency28.html#TaheriZK16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiuHLH16" mdate="2020-03-02">
+<author pid="74/4038">Zhenyu Liu</author>
+<author pid="32/11117">Jingyuan Hu</author>
+<author pid="37/4190-7">Yang Li 0007</author>
+<author pid="15/6040">Yi Huang</author>
+<title>Towards virtual dataspaces for material scientific data cloud.</title>
+<pages>1737-1750</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.2961</ee>
+<url>db/journals/concurrency/concurrency28.html#LiuHLH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhangYWMZZJDW16" mdate="2022-02-09">
+<author pid="15/743">Jilin Zhang</author>
+<author pid="177/8569">Junfeng Yuan</author>
+<author pid="87/2888-1">Jian Wan 0001</author>
+<author pid="64/2139">Jie Mao</author>
+<author pid="115/6238">Li-Ting Zhu</author>
+<author pid="54/40">Li Zhou</author>
+<author pid="90/736">Congfeng Jiang</author>
+<author pid="00/9301">Peng Di</author>
+<author pid="69/393-13">Jue Wang 0013</author>
+<title>Efficient parallel implementation of incompressible pipe flow algorithm based on SIMPLE.</title>
+<pages>1751-1766</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3000</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhangYWMZZJDW16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/Notare16" mdate="2020-03-02">
+<author orcid="0000-0002-2530-0494" pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
+<title>Wireless and mobile network performance evaluation.</title>
+<pages>1767-1768</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3787</ee>
+<url>db/journals/concurrency/concurrency28.html#Notare16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/MaamarBP16" mdate="2020-03-02">
+<author pid="55/246">Haifa Raja Maamar</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author pid="75/6222">Emil M. Petriu</author>
+<title>A performance evaluation of mobility management and multihop supplying partner strategies for 3D streaming systems over thin mobile devices.</title>
+<pages>1769-1795</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3106</ee>
+<url>db/journals/concurrency/concurrency28.html#MaamarBP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/AngelopoulosNPR16" mdate="2020-03-02">
+<author orcid="0000-0001-7459-4444" pid="17/7911">Constantinos Marios Angelopoulos</author>
+<author pid="n/SotirisENikoletseas">Sotiris E. Nikoletseas</author>
+<author pid="14/7910">Dimitra Patroumpa</author>
+<author pid="16/6015">Christoforos L. Raptopoulos</author>
+<title>Efficient collection of sensor data via a new accelerated random walk.</title>
+<pages>1796-1811</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3108</ee>
+<url>db/journals/concurrency/concurrency28.html#AngelopoulosNPR16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ClimentSBCO16" mdate="2020-09-11">
+<author pid="56/328-2">Salvador Climent 0002</author>
+<author pid="57/5053">Antonio S&#225;nchez</author>
+<author orcid="0000-0001-6439-2902" pid="27/4444">Sara Blanc</author>
+<author pid="38/6476">Juan Vicente Capella</author>
+<author pid="01/3100">Rafael Ors</author>
+<title>Wireless sensor network with energy harvesting: modeling and simulation based on a practical architecture using real radiation levels.</title>
+<pages>1812-1830</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3151</ee>
+<url>db/journals/concurrency/concurrency28.html#ClimentSBCO16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BoumerzougBB16" mdate="2020-03-02">
+<author pid="151/0166">Hayette Boumerzoug</author>
+<author pid="54/4923">Boucif Amar Bensaber</author>
+<author orcid="0000-0002-7644-5810" pid="53/3240">Isma&#239;l Biskri</author>
+<title>A lightweight key management scheme based on an Adelson-Velskii and Landis tree and elliptic curve cryptography for wireless sensor networks.</title>
+<pages>1831-1847</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3153</ee>
+<url>db/journals/concurrency/concurrency28.html#BoumerzougBB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/GuBG16" mdate="2020-03-02">
+<author pid="96/6539">YunFeng Gu</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author orcid="0000-0001-9448-2036" pid="72/6645">Robson Eduardo De Grande</author>
+<title>Supporting multidimensional range queries in Hierarchically Distributed Tree.</title>
+<pages>1848-1869</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3160</ee>
+<url>db/journals/concurrency/concurrency28.html#GuBG16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/LiNGBLC16" mdate="2022-10-02">
+<author orcid="0000-0003-1583-641X" pid="62/2655-9">Gang Li 0009</author>
+<author pid="13/4012">Wenjia Niu</author>
+<author pid="02/929-1">Li Guo 0001</author>
+<author pid="79/3442">Lynn Margaret Batten</author>
+<author pid="123/9187">Yinlong Liu</author>
+<author pid="38/1076">Guoyong Cai</author>
+<title>Securing cyberspace.</title>
+<pages>1870-1871</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3753</ee>
+<url>db/journals/concurrency/concurrency28.html#LiNGBLC16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/YuanL16" mdate="2020-03-02">
+<author pid="178/0243">Bianqing Yuan</author>
+<author pid="27/4749">Jiqiang Liu</author>
+<title>A universally composable secure grouping-proof protocol for RFID tags.</title>
+<pages>1872-1883</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3548</ee>
+<url>db/journals/concurrency/concurrency28.html#YuanL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/XiongZZ16" mdate="2020-03-02">
+<author pid="15/3392">Ping Xiong</author>
+<author pid="60/10449">Lefeng Zhang</author>
+<author pid="19/8310">Tianqing Zhu</author>
+<title>Semantic analysis in location privacy preserving.</title>
+<pages>1884-1899</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3508</ee>
+<url>db/journals/concurrency/concurrency28.html#XiongZZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiKKL16" mdate="2020-03-02">
+<author pid="47/4887">Hongzhe Li</author>
+<author pid="173/5742">Hyuckmin Kwon</author>
+<author pid="46/4109">Jonghoon Kwon</author>
+<author pid="75/4485">Heejo Lee</author>
+<title>CLORIFI: software vulnerability discovery using code clone verification.</title>
+<pages>1900-1917</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3532</ee>
+<ee>https://www.wikidata.org/entity/Q59509198</ee>
+<url>db/journals/concurrency/concurrency28.html#LiKKL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DengXWC16" mdate="2020-03-02">
+<author pid="49/10381">Jiang Deng</author>
+<author pid="15/49">Chunxiang Xu</author>
+<author pid="136/0888">Huai Wu</author>
+<author pid="92/6289">Jie Chen</author>
+<title>Analysis and improvement of a fair remote retrieval protocol for private medical records.</title>
+<pages>1918-1929</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3556</ee>
+<url>db/journals/concurrency/concurrency28.html#DengXWC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SongWWCN16" mdate="2020-03-02">
+<author pid="178/0254">Lingwei Song</author>
+<author pid="132/3309">Jinxia Wei</author>
+<author pid="54/2170">Licheng Wang</author>
+<author pid="130/4747">Chenlei Cao</author>
+<author pid="26/1990">Xinxin Niu</author>
+<title>Identity-based storage management and integrity verify protocol for secure outsourcing in multi-cloud.</title>
+<pages>1930-1945</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.3662</ee>
+<url>db/journals/concurrency/concurrency28.html#SongWWCN16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 7, May 2016</h2> Combined Special issues on GCE15 Special Issue Conference Publications and New advances in High Performance Computing and simulation:
+parallel and distributed systems, algorithms, and applications (HPCS 2013)<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/OlabarriagaW16" mdate="2020-03-02">
+<author pid="o/SilviaDelgadoOlabarriaga">S&#237;lvia Delgado Olabarriaga</author>
+<author pid="92/6614">Nancy Wilkins-Diehr</author>
+<title>GCE15 Special Issue Conference Publications.</title>
+<pages>1949-1951</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3743</ee>
+<url>db/journals/concurrency/concurrency28.html#OlabarriagaW16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/SahaGMP16" mdate="2020-03-02">
+<author pid="141/0470">Pankaj Saha</author>
+<author pid="02/7038">Madhusudhan Govindaraju</author>
+<author orcid="0000-0002-6374-095X" pid="09/1760">Suresh Marru</author>
+<author orcid="0000-0002-9582-5712" pid="72/883">Marlon E. Pierce</author>
+<title>Integrating Apache Airavata with Docker, Marathon, and Mesos.</title>
+<pages>1952-1959</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3708</ee>
+<url>db/journals/concurrency/concurrency28.html#SahaGMP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BrookesKPMSP16" mdate="2020-03-02">
+<author pid="86/4907">Emre H. Brookes</author>
+<author pid="178/8750">Abhishek Kapoor</author>
+<author pid="178/8746">Priyanshu Patra</author>
+<author orcid="0000-0002-6374-095X" pid="09/1760">Suresh Marru</author>
+<author pid="17/7554">Raminder Singh</author>
+<author orcid="0000-0002-9582-5712" pid="72/883">Marlon E. Pierce</author>
+<title>GSoC 2015 student contributions to GenApp and Airavata.</title>
+<pages>1960-1970</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3689</ee>
+<url>db/journals/concurrency/concurrency28.html#BrookesKPMSP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SinghSTS16" mdate="2021-01-18">
+<author pid="178/8744">Kritika Singh</author>
+<author pid="31/6034">Shava Smallen</author>
+<author pid="56/826">Sameer Tilak</author>
+<author pid="66/6611">Lawrence K. Saul</author>
+<title>Failure analysis and prediction for the CIPRES science gateway.</title>
+<pages>1971-1981</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3715</ee>
+<url>db/journals/concurrency/concurrency28.html#SinghSTS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HuckGCWNP16" mdate="2022-01-05">
+<author pid="169/9758">Patrick Huck</author>
+<author orcid="0000-0002-2779-2744" pid="19/5323">Dan Gunter</author>
+<author orcid="0000-0002-4775-8201" pid="94/4935">Shreyas Cholia</author>
+<author pid="169/9684">Donald Winston</author>
+<author pid="169/9789">Alpha T. N'Diaye</author>
+<author pid="163/0839">Kristin A. Persson</author>
+<title>User applications driven by the community contribution framework MPContribs in the Materials Project.</title>
+<pages>1982-1993</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3698</ee>
+<url>db/journals/concurrency/concurrency28.html#HuckGCWNP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/AgarwalFFKKLPRS16" mdate="2022-10-02">
+<author orcid="0000-0001-5045-2396" pid="a/DeborahAAgarwal">Deborah A. Agarwal</author>
+<author pid="155/5732">Boris Faybishenko</author>
+<author pid="21/11091">Vicky L. Freedman</author>
+<author pid="97/11201">Harinarayan Krishnan</author>
+<author pid="178/8755">Gary Kushner</author>
+<author pid="41/321">Carina Lansing</author>
+<author pid="142/4851">Ellen Porter</author>
+<author pid="47/2053">Alexandru Romosan</author>
+<author pid="s/ArieShoshani">Arie Shoshani</author>
+<author orcid="0000-0002-2140-6072" pid="143/5403">Haruko M. Wainwright</author>
+<author pid="178/8738">Arthur Weidmer</author>
+<author orcid="0000-0002-6907-3393" pid="30/4395">Kesheng Wu</author>
+<title>A science data gateway for environmental management.</title>
+<pages>1994-2004</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3697</ee>
+<ee>https://www.wikidata.org/entity/Q59359287</ee>
+<url>db/journals/concurrency/concurrency28.html#AgarwalFFKKLPRS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Kar16" mdate="2020-03-02">
+<author pid="84/7329">Bandana Kar</author>
+<title>Citizen science in risk communication in the era of ICT.</title>
+<pages>2005-2013</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3705</ee>
+<ee>https://www.wikidata.org/entity/Q73119731</ee>
+<url>db/journals/concurrency/concurrency28.html#Kar16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DAgostinoDCRZPG16" mdate="2020-03-02">
+<author orcid="0000-0003-2649-0071" pid="11/4958">Daniele D'Agostino</author>
+<author orcid="0000-0003-2025-6794" pid="15/5870">Emanuele Danovaro</author>
+<author pid="07/4852">Andrea Clematis</author>
+<author pid="155/5565">Luca Roverelli</author>
+<author pid="157/2870">Gabriele Zereik</author>
+<author orcid="0000-0002-8505-0634" pid="121/6992">Antonio Parodi</author>
+<author orcid="0000-0003-1672-3281" pid="95/3481">Antonella Galizia</author>
+<title>Lessons learned implementing a science gateway for hydro-meteorological research.</title>
+<pages>2014-2023</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3700</ee>
+<url>db/journals/concurrency/concurrency28.html#DAgostinoDCRZPG16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/SmariBFA16" mdate="2020-06-15">
+<author pid="23/35">Waleed W. Smari</author>
+<author orcid="0000-0001-8558-5471" pid="32/1024">Mohamed Bakhouya</author>
+<author orcid="0000-0002-8430-6087" pid="73/3417">Sandro Fiore</author>
+<author orcid="0000-0001-5902-6983" pid="20/2456">Giovanni Aloisio</author>
+<title>New advances in High Performance Computing and simulation: parallel and distributed systems, algorithms, and applications.</title>
+<pages>2024-2030</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3774</ee>
+<url>db/journals/concurrency/concurrency28.html#SmariBFA16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/WernerHSLPG16" mdate="2020-03-02">
+<author pid="47/671-1">Stefan Werner 0001</author>
+<author pid="156/2392">Dennis Heinrich</author>
+<author pid="156/2402">Marc Stelzner</author>
+<author pid="l/VLinnemann">Volker Linnemann</author>
+<author orcid="0000-0001-6518-1226" pid="52/851">Thilo Pionteck</author>
+<author orcid="0000-0001-5196-1117" pid="g/SvenGroppe">Sven Groppe</author>
+<title>Accelerated join evaluation in Semantic Web databases by using FPGAs.</title>
+<pages>2031-2051</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3502</ee>
+<url>db/journals/concurrency/concurrency28.html#WernerHSLPG16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/VanderbauwhedeT16" mdate="2020-03-02">
+<author orcid="0000-0001-6768-0037" pid="11/2815">Wim Vanderbauwhede</author>
+<author orcid="0000-0002-7596-2373" pid="136/5565">Tetsuya Takemi</author>
+<title>An analysis of the feasibility and benefits of GPU/multicore acceleration of the Weather Research and Forecasting model.</title>
+<pages>2052-2072</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3522</ee>
+<url>db/journals/concurrency/concurrency28.html#VanderbauwhedeT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/JaziriPPH16" mdate="2020-03-02">
+<author orcid="0000-0002-1417-2458" pid="134/6211">Faouzi Jaziri</author>
+<author pid="98/3915">Eric Peyretaillade</author>
+<author orcid="0000-0003-3114-0586" pid="38/5202">Pierre Peyret</author>
+<author pid="51/2137">David R. C. Hill</author>
+<title>High performance computing of oligopeptides complete backtranslation applied to DNA microarray probe design.</title>
+<pages>2073-2091</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3412</ee>
+<url>db/journals/concurrency/concurrency28.html#JaziriPPH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SinkarovsS16" mdate="2021-10-14">
+<author orcid="0000-0003-3292-2985" pid="136/5554">Artjoms Sinkarovs</author>
+<author orcid="0000-0002-8663-1043" pid="19/3841">Sven-Bodo Scholz</author>
+<title>Type-driven data layouts for improved vectorisation.</title>
+<pages>2092-2119</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3501</ee>
+<url>db/journals/concurrency/concurrency28.html#SinkarovsS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/CoullonL16" mdate="2020-03-02">
+<author pid="89/8242">H&#233;l&#232;ne Coullon</author>
+<author pid="68/1991">S&#233;bastien Limet</author>
+<title>The SIPSim implicit parallelism model and the SkelGIS library.</title>
+<pages>2120-2144</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3494</ee>
+<url>db/journals/concurrency/concurrency28.html#CoullonL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HeineckeKPB16" mdate="2022-06-23">
+<author pid="84/6756">Alexander Heinecke</author>
+<author pid="178/8740">Roman Karlstetter</author>
+<author orcid="0000-0002-4360-0212" pid="96/5029">Dirk Pfl&#252;ger</author>
+<author pid="b/HansJoachimBungartz">Hans-Joachim Bungartz</author>
+<title>Data mining on vast data sets as a cluster system benchmark.</title>
+<pages>2145-2165</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3514</ee>
+<url>db/journals/concurrency/concurrency28.html#HeineckeKPB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SkowronR16" mdate="2021-10-14">
+<author orcid="0000-0002-4453-3955" pid="133/1905">Piotr Skowron 0001</author>
+<author pid="11/1187">Krzysztof Rzadca</author>
+<title>Flexible replica placement for optimized P2P backup on heterogeneous, unreliable machines.</title>
+<pages>2166-2186</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3491</ee>
+<url>db/journals/concurrency/concurrency28.html#SkowronR16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Mencagli16" mdate="2020-03-02">
+<author orcid="0000-0002-6263-7723" pid="85/5541">Gabriele Mencagli</author>
+<title>Adaptive model predictive control of autonomic distributed parallel computations with variable horizons and switching costs.</title>
+<pages>2187-2212</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3495</ee>
+<url>db/journals/concurrency/concurrency28.html#Mencagli16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SalmanMTVOT16" mdate="2020-10-26">
+<author orcid="0000-0002-3748-848X" pid="48/3575">Adnan Salman</author>
+<author pid="35/4761">Allen D. Malony</author>
+<author pid="04/4714">Sergei Turovets</author>
+<author orcid="0000-0003-0350-4186" pid="99/1980">Vasily Volkov</author>
+<author pid="130/2293">David Ozog</author>
+<author pid="62/4581">Don M. Tucker</author>
+<title>Concurrency in electrical neuroinformatics: parallel computation for studying the volume conduction of brain electrical fields in human head tissues.</title>
+<pages>2213-2236</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3510</ee>
+<url>db/journals/concurrency/concurrency28.html#SalmanMTVOT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/KarimiK16" mdate="2020-03-02">
+<author pid="145/7208">Behnam Karimi</author>
+<author pid="k/AdamKrzyzak">Adam Krzyzak</author>
+<title>A novel technique for detecting suspicious lesions in breast ultrasound images.</title>
+<pages>2237-2260</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3553</ee>
+<url>db/journals/concurrency/concurrency28.html#KarimiK16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ChenBK16" mdate="2022-02-04">
+<author pid="c/GuangyiChen-1">Guangyi Chen 0001</author>
+<author pid="b/TienDBui">Tien D. Bui</author>
+<author pid="k/AdamKrzyzak">Adam Krzyzak</author>
+<title>Sparse support vector machine for pattern recognition.</title>
+<pages>2261-2273</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3492</ee>
+<url>db/journals/concurrency/concurrency28.html#ChenBK16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/CodreanuDWYYLDS16" mdate="2022-01-03">
+<author pid="136/5479">Valeriu Codreanu</author>
+<author pid="178/8753">Bob Dr&#246;ge</author>
+<author pid="28/977-2">David Williams 0002</author>
+<author pid="136/5430">Burhan Yasar</author>
+<author orcid="0000-0002-8553-7127" pid="88/5343-1">Po Yang 0001</author>
+<author pid="54/784">Baoquan Liu</author>
+<author pid="62/2555-5">Feng Dong 0005</author>
+<author orcid="0000-0002-0644-1435" pid="00/5638">Olarik Surinta</author>
+<author orcid="0000-0003-2351-930X" pid="27/2292">Lambert R. B. Schomaker</author>
+<author pid="r/JBTMRoerdink">Jos B. T. M. Roerdink</author>
+<author orcid="0000-0003-4331-7537" pid="57/2565">Marco A. Wiering</author>
+<title>Evaluating automatically parallelized versions of the support vector machine.</title>
+<pages>2274-2294</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3413</ee>
+<url>db/journals/concurrency/concurrency28.html#CodreanuDWYYLDS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WittmannHZTW16" mdate="2022-10-02">
+<author pid="00/136">Markus Wittmann</author>
+<author orcid="0000-0002-8723-2781" pid="83/6202">Georg Hager</author>
+<author pid="32/2936">Thomas Zeiser</author>
+<author pid="163/2189">Jan Treibig</author>
+<author orcid="0000-0001-7371-3026" pid="00/3710">Gerhard Wellein</author>
+<title>Chip-level and multi-node analysis of energy-optimized lattice Boltzmann CFD simulations.</title>
+<pages>2295-2315</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cpe.3489</ee>
+<url>db/journals/concurrency/concurrency28.html#WittmannHZTW16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 8, June 2016</h2> Combined Special issues on Heterogeneous cluster architectures and applications (HUCAASI 2015) and Parallel and distributed computing for Big Data applications (WPBA 2014) <dblpcites><r style="ee"><article key="journals/concurrency/SillaF16" mdate="2020-03-02">
+<author pid="75/3178">Federico Silla</author>
+<author pid="56/3662">Holger Fr&#246;ning</author>
+<title>Heterogeneous cluster architectures and applications.</title>
+<pages>2319-2321</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3762</ee>
+<url>db/journals/concurrency/concurrency28.html#SillaF16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MallonTK16" mdate="2020-10-26">
+<author orcid="0000-0002-8455-3598" pid="14/1386">Dami&#225;n A. Mall&#243;n</author>
+<author orcid="0000-0002-6281-6641" pid="09/6075">Guillermo L. Taboada</author>
+<author pid="75/9134">Lars Koesterke</author>
+<title>MPI and UPC broadcast, scatter and gather algorithms in Xeon Phi.</title>
+<pages>2322-2340</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3552</ee>
+<url>db/journals/concurrency/concurrency28.html#MallonTK16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SonerO16" mdate="2020-09-05">
+<author pid="95/9420">Seren Soner</author>
+<author orcid="0000-0003-0465-2519" pid="27/738">Can C. &#214;zturan</author>
+<title>A new auction-based scheduler for heterogeneous systems with moldable generic resources support.</title>
+<pages>2341-2352</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3653</ee>
+<url>db/journals/concurrency/concurrency28.html#SonerO16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MedeirosSS16" mdate="2020-03-02">
+<author pid="19/10335">Bruno Medeiros</author>
+<author pid="28/5940">R. Silva</author>
+<author orcid="0000-0002-1512-1126" pid="32/5923">Jo&#227;o L. Sobral</author>
+<title>Gaspar: a compositional aspect-oriented approach for cluster applications.</title>
+<pages>2353-2373</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3666</ee>
+<url>db/journals/concurrency/concurrency28.html#MedeirosSS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LawandeGL16" mdate="2020-03-02">
+<author pid="75/8814">Abhijeet G. Lawande</author>
+<author pid="g/AlanDGeorge">Alan D. George</author>
+<author pid="l/HermanLam">Herman Lam</author>
+<title>Novo-G#: a multidimensional torus-based reconfigurable cluster for molecular dynamics.</title>
+<pages>2374-2393</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3565</ee>
+<url>db/journals/concurrency/concurrency28.html#LawandeGL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/EickerLMS16" mdate="2020-03-02">
+<author orcid="0000-0002-8254-8357" pid="72/4918">Norbert Eicker</author>
+<author pid="13/5159">Thomas Lippert</author>
+<author pid="50/278">Thomas Moschny</author>
+<author orcid="0000-0003-0748-7264" pid="139/3991">Estela Suarez</author>
+<title>The DEEP Project An alternative approach to heterogeneous cluster-computing in the many-core era.</title>
+<pages>2394-2411</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3562</ee>
+<url>db/journals/concurrency/concurrency28.html#EickerLMS16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorial <dblpcites><r style="ee"><article key="journals/concurrency/SengerG16" mdate="2020-03-02">
+<author orcid="0000-0003-1273-9809" pid="23/4124">Hermes Senger</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<title>Parallel and distributed computing for Big Data applications.</title>
+<pages>2412-2415</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3813</ee>
+<url>db/journals/concurrency/concurrency28.html#SengerG16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/AnjosFG16" mdate="2021-04-09">
+<author orcid="0000-0003-3623-2762" pid="156/4550">Julio C. S. dos Anjos</author>
+<author pid="34/3862">Gilles Fedak</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</author>
+<title>BIGhybrid: a simulator for MapReduce applications in hybrid distributed infrastructures validated with the Grid5000 experimental platform.</title>
+<pages>2416-2439</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3665</ee>
+<url>db/journals/concurrency/concurrency28.html#AnjosFG16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/AntoinePHB16" mdate="2020-03-02">
+<author pid="156/4679">Maeva Antoine</author>
+<author pid="129/2223">Laurent Pellegrino</author>
+<author pid="24/3553">Fabrice Huet</author>
+<author pid="03/1165">Fran&#231;oise Baude</author>
+<title>A generic API for load balancing in distributed systems for big data management.</title>
+<pages>2440-2456</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3646</ee>
+<url>db/journals/concurrency/concurrency28.html#AntoinePHB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BoitoKND16" mdate="2020-03-02">
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="15/3219">Rodrigo Virote Kassick</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="38/6122">Yves Denneulin</author>
+<title>Automatic I/O scheduling algorithm selection for parallel file systems.</title>
+<pages>2457-2472</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3606</ee>
+<url>db/journals/concurrency/concurrency28.html#BoitoKND16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DuanLTXL16" mdate="2021-03-08">
+<author pid="157/2422">Mingxing Duan</author>
+<author pid="l/KenliLi">Kenli Li 0001</author>
+<author pid="71/617">Zhuo Tang</author>
+<author orcid="0000-0001-5008-4829" pid="04/9371-1">Guoqing Xiao 0001</author>
+<author pid="l/KeqinLi">Keqin Li 0001</author>
+<title>Selection and replacement algorithms for memory performance improvement in Spark.</title>
+<pages>2473-2486</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3584</ee>
+<url>db/journals/concurrency/concurrency28.html#DuanLTXL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/RochaHDFMG16" mdate="2022-10-02">
+<author pid="156/4621">Rodrigo Caetano Rocha</author>
+<author orcid="0000-0002-8684-8576" pid="180/5282">Bruno Hott</author>
+<author pid="156/4548">Vin&#237;cius Vitor dos Santos Dias</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</author>
+<title>Watershed-ng: an extensible distributed stream processing framework.</title>
+<pages>2487-2502</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3779</ee>
+<url>db/journals/concurrency/concurrency28.html#RochaHDFMG16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SengerCAMMSS16" mdate="2022-10-02">
+<author orcid="0000-0003-1273-9809" pid="23/4124">Hermes Senger</author>
+<author orcid="0000-0003-4637-9725" pid="89/6623">Veronica Gil-Costa</author>
+<author orcid="0000-0002-0938-2004" pid="a/LucianaArantes">Luciana Arantes</author>
+<author orcid="0000-0003-1574-0362" pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author pid="43/1430">Mauricio Mar&#237;n</author>
+<author orcid="0000-0002-1163-9980" pid="94/109">Liria Matsumoto Sato</author>
+<author pid="22/9778">Fabr&#237;cio A. B. da Silva</author>
+<title>BSP cost and scalability analysis for MapReduce operations.</title>
+<pages>2503-2527</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3628</ee>
+<ee>https://www.wikidata.org/entity/Q56435577</ee>
+<url>db/journals/concurrency/concurrency28.html#SengerCAMMSS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SilvaOVM16" mdate="2020-12-21">
+<author pid="90/2984">V&#237;tor Silva 0003</author>
+<author pid="68/7553-1">Daniel de Oliveira 0001</author>
+<author pid="v/PatrickValduriez">Patrick Valduriez</author>
+<author orcid="0000-0002-0870-3371" pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<title>Analyzing related raw data files through dataflows.</title>
+<pages>2528-2545</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3616</ee>
+<url>db/journals/concurrency/concurrency28.html#SilvaOVM16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/TolooeeMP16" mdate="2020-03-02">
+<author pid="180/5289">Cameron Tolooee</author>
+<author pid="98/10788">Matthew Malensek</author>
+<author pid="38/1106">Sangmi Lee Pallickara</author>
+<title>A scalable framework for continuous query evaluations over multidimensional, scientific datasets.</title>
+<pages>2546-2563</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3651</ee>
+<url>db/journals/concurrency/concurrency28.html#TolooeeMP16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 9, June 2016</h2> Research Articles <dblpcites><r style="ee"><article key="journals/concurrency/Abo-AlianBT16" mdate="2020-03-02">
+<author orcid="0000-0002-0609-2300" pid="05/1075">Alshaimaa Abo-Alian</author>
+<author pid="123/9749">Nagwa L. Badr</author>
+<author pid="25/6592">Mohamed F. Tolba 0001</author>
+<title>Keystroke dynamics-based user authentication service for cloud computing.</title>
+<pages>2567-2585</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3718</ee>
+<url>db/journals/concurrency/concurrency28.html#Abo-AlianBT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/RosciszewskiCLS16" mdate="2020-03-02">
+<author pid="139/4693">Pawel Rosciszewski</author>
+<author orcid="0000-0002-4918-9196" pid="73/4985">Pawel Czarnul</author>
+<author pid="178/6741">Rafal Lewandowski</author>
+<author pid="180/5285">Marcel Schally-Kacprzak</author>
+<title>KernelHive: a new workflow-based framework for multilevel high performance computing using clusters and workstations with CPUs and GPUs.</title>
+<pages>2586-2607</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3719</ee>
+<url>db/journals/concurrency/concurrency28.html#RosciszewskiCLS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/AgulloBCDM016" mdate="2022-10-02">
+<author pid="59/1733">Emmanuel Agullo</author>
+<author pid="116/2998">B&#233;renger Bramas</author>
+<author orcid="0000-0003-2924-284X" pid="45/1172">Olivier Coulaud</author>
+<author pid="33/6221">Eric Darve</author>
+<author pid="92/10751">Matthias Messner</author>
+<author orcid="0000-0003-4232-7143" pid="66/3859-2">Toru Takahashi 0002</author>
+<title>Task-based FMM for heterogeneous architectures.</title>
+<pages>2608-2629</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3723</ee>
+<url>db/journals/concurrency/concurrency28.html#AgulloBCDM016</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZengXW16" mdate="2020-03-02">
+<author pid="67/3280">Lingfang Zeng</author>
+<author pid="19/4813">Shijie Xu</author>
+<author pid="w/YangWang6">Yang Wang 0006</author>
+<title>VMBackup: an efficient framework for online virtual machine image backup and recovery.</title>
+<pages>2630-2643</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3724</ee>
+<url>db/journals/concurrency/concurrency28.html#ZengXW16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SajidRS16" mdate="2020-03-02">
+<author pid="156/8466">Mohammad Sajid</author>
+<author pid="44/4971">Zahid Raza</author>
+<author pid="77/9719">Mohammad Shahid</author>
+<title>Energy-efficient scheduling algorithms for batch-of-tasks (BoT) applications on heterogeneous computing systems.</title>
+<pages>2644-2669</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3728</ee>
+<url>db/journals/concurrency/concurrency28.html#SajidRS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BaiBC16" mdate="2020-03-02">
+<author pid="16/4212">Sen Bai</author>
+<author pid="31/5925-4">Xin Bai 0004</author>
+<author pid="70/4741">Xiangjiu Che</author>
+<title>Window-LRFU: a cache replacement policy subsumes the LRU and window-LFU policies.</title>
+<pages>2670-2684</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3730</ee>
+<url>db/journals/concurrency/concurrency28.html#BaiBC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MuraliV16" mdate="2020-03-02">
+<author pid="165/5180">Prakash Murali</author>
+<author orcid="0000-0002-5476-8328" pid="v/SathishSVadhiyar">Sathish Vadhiyar</author>
+<title>Qespera: an adaptive framework for prediction of queue waiting times in supercomputer systems.</title>
+<pages>2685-2710</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3735</ee>
+<url>db/journals/concurrency/concurrency28.html#MuraliV16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LinL16a" mdate="2020-03-02">
+<author pid="98/139">Jia-Chun Lin</author>
+<author pid="18/3398">Ming-Chang Lee</author>
+<title>Performance evaluation of job schedulers on Hadoop YARN.</title>
+<pages>2711-2728</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3736</ee>
+<url>db/journals/concurrency/concurrency28.html#LinL16a</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/AlamR16" mdate="2022-10-02">
+<author orcid="0000-0001-6081-1890" pid="149/1058">Taj Alam</author>
+<author pid="44/4971">Zahid Raza</author>
+<title>An adaptive threshold based hybrid load balancing scheme with sender and receiver initiated approach using random information exchange.</title>
+<pages>2729-2746</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3737</ee>
+<url>db/journals/concurrency/concurrency28.html#AlamR16</url>
+</article>
+</r>
+</dblpcites>
+
+Errata <dblpcites><r style="ee"><article key="journals/concurrency/TanakaNI16" mdate="2020-03-02">
+<author pid="27/3086">Kazuaki Tanaka</author>
+<author pid="n/HideyukiNakanishi">Hideyuki Nakanishi</author>
+<author pid="92/3644">Hiroshi Ishiguro</author>
+<title>Appearance, motion, and embodiment: unpacking avatars by fine-grained communication analysis.</title>
+<pages>2747</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3809</ee>
+<url>db/journals/concurrency/concurrency28.html#TanakaNI16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WangLWX16" mdate="2020-03-02">
+<author pid="37/4826">Yilei Wang</author>
+<author pid="70/1220-1">Zhe Liu 0001</author>
+<author pid="w/HaoWang-7">Hao Wang 0007</author>
+<author pid="07/63">Qiuliang Xu</author>
+<title>Social rational secure multi-party computation.</title>
+<pages>2748</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3823</ee>
+<url>db/journals/concurrency/concurrency28.html#WangLWX16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DriraKJ16" mdate="2020-03-02">
+<author pid="08/1934">Khalil Drira</author>
+<author pid="09/5212">Ahmed Hadj Kacem</author>
+<author pid="58/6741">Mohamed Jmaiel</author>
+<title>Special issue Editorial: New technologies of distributed systems.</title>
+<pages>2749</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/cpe.3857</ee>
+<url>db/journals/concurrency/concurrency28.html#DriraKJ16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 10, July 2016</h2> Combined Special issues on Cloud computing for mobile environments (MobileCloud 2013) and Security and privacy in big data (SPBD 2014)<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/JeongRHJ16" mdate="2022-12-07">
+<author orcid="0000-0002-5017-934X" pid="64/2570">Hwa-Young Jeong</author>
+<author orcid="0000-0003-3597-2646" pid="r/OmerFRana">Omer F. Rana</author>
+<author pid="35/3725">Ching-Hsien Hsu</author>
+<author pid="82/2855">Young-Sik Jeong</author>
+<title>Cloud computing for mobile environments.</title>
+<pages>2753-2755</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3785</ee>
+<url>db/journals/concurrency/concurrency28.html#JeongRHJ16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/ParkYKL16" mdate="2020-03-02">
+<author pid="64/4502">JiSu Park</author>
+<author pid="80/2696">HeonChang Yu</author>
+<author pid="69/10202">Hyongsoon Kim</author>
+<author pid="91/8067">EunYoung Lee</author>
+<title>Dynamic group-based fault tolerance technique for reliable resource management in mobile cloud computing.</title>
+<pages>2756-2769</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3205</ee>
+<url>db/journals/concurrency/concurrency28.html#ParkYKL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ChoiL16" mdate="2020-03-02">
+<author pid="52/5595">Min Choi</author>
+<author pid="31/11238">Seungho Lim</author>
+<title>x86-Android performance improvement for x86 smart mobile devices.</title>
+<pages>2770-2780</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3189</ee>
+<url>db/journals/concurrency/concurrency28.html#ChoiL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Sood16" mdate="2020-03-02">
+<author orcid="0000-0003-1981-9422" pid="72/7850">Sandeep K. Sood</author>
+<title>Function points-based resource prediction in cloud computing.</title>
+<pages>2781-2794</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3296</ee>
+<ee>https://www.wikidata.org/entity/Q56781975</ee>
+<url>db/journals/concurrency/concurrency28.html#Sood16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WangCZX16" mdate="2021-09-06">
+<author pid="77/7826">Zhuowei Wang 0001</author>
+<author pid="58/1879">Lianglun Cheng</author>
+<author pid="39/3694">Wuqing Zhao</author>
+<author pid="x/NaixueXiong">Naixue Xiong</author>
+<title>An architecture-level graphics processing unit energy model.</title>
+<pages>2795-2810</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3299</ee>
+<url>db/journals/concurrency/concurrency28.html#WangCZX16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DeD16" mdate="2020-03-02">
+<author orcid="0000-0002-7090-5636" pid="68/5822">Suddhasil De</author>
+<author pid="140/3466">Sohini De</author>
+<title>Modeling decoupled mobile cloud computing using Mobile UNITY.</title>
+<pages>2811-2855</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3300</ee>
+<url>db/journals/concurrency/concurrency28.html#DeD16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/XiangAK16" mdate="2020-03-02">
+<author pid="50/2192-1">Yang Xiang 0001</author>
+<author orcid="0000-0003-2068-9530" pid="55/24">Man Ho Au</author>
+<author pid="09/3690">Miroslaw Kutylowsky</author>
+<title>Security and privacy in big data.</title>
+<pages>2856-2857</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3796</ee>
+<url>db/journals/concurrency/concurrency28.html#XiangAK16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/ChenLHWZ16" mdate="2020-03-02">
+<author pid="32/10201">Zhenhua Chen</author>
+<author pid="87/7449">Shundong Li</author>
+<author pid="58/5215">Qiong Huang</author>
+<author pid="37/4826">Yilei Wang</author>
+<author pid="174/1178">Sufang Zhou</author>
+<title>A restricted proxy re-encryption with keyword search for fine-grained data access control in cloud storage.</title>
+<pages>2858-2876</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3754</ee>
+<url>db/journals/concurrency/concurrency28.html#ChenLHWZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/YuNXWYZ16" mdate="2022-08-11">
+<author pid="43/5685-2">Yong Yu 0002</author>
+<author pid="121/2421">Jianbing Ni</author>
+<author pid="88/5697">Qi Xia</author>
+<author pid="137/9492">Xiaofen Wang</author>
+<author pid="25/7558">Haomiao Yang</author>
+<author pid="26/3075-1">Xiaosong Zhang 0001</author>
+<title>SDIVIP<sup>2</sup>: shared data integrity verification with identity privacy preserving in mobile clouds.</title>
+<pages>2877-2888</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3484</ee>
+<url>db/journals/concurrency/concurrency28.html#YuNXWYZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HassanAARAAH16" mdate="2022-06-23">
+<author pid="84/4762">Mohammad Mehedi Hassan</author>
+<author orcid="0000-0001-6767-3574" pid="85/744">Mohammad Abdullah-Al-Wadud</author>
+<author orcid="0000-0002-8253-9709" pid="63/1919">Ahmad Almogren</author>
+<author orcid="0000-0002-9166-6830" pid="67/1359">Sk. Md. Mizanur Rahman</author>
+<author pid="56/7481">Abdulhameed Alelaiwi</author>
+<author pid="25/2352">Atif Alamri</author>
+<author orcid="0000-0001-9698-4726" pid="22/824">Md. Abdul Hamid</author>
+<title>QoS and trust-aware coalition formation game in data-intensive cloud federations.</title>
+<pages>2889-2905</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3543</ee>
+<url>db/journals/concurrency/concurrency28.html#HassanAARAAH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/AbawajyNH16" mdate="2021-10-14">
+<author pid="44/300">Jemal H. Abawajy</author>
+<author pid="65/10309">Mohd Izuan Hafez Ninggal</author>
+<author orcid="0000-0001-9262-9137" pid="67/7386">Tutut Herawan</author>
+<title>Vertex re-identification attack using neighbourhood-pair properties.</title>
+<pages>2906-2919</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3687</ee>
+<url>db/journals/concurrency/concurrency28.html#AbawajyNH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/QinWWWSL16" mdate="2020-03-02">
+<author pid="05/4546">Bo Qin</author>
+<author pid="152/2507">Linxiao Wang</author>
+<author pid="46/10271">Yujue Wang</author>
+<author pid="54/7015">Qianhong Wu</author>
+<author pid="74/2181">Wenchang Shi</author>
+<author pid="71/6053-2">Bin Liang 0002</author>
+<title>Versatile lightweight key distribution for big data privacy in vehicular ad hoc networks.</title>
+<pages>2920-2939</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3577</ee>
+<url>db/journals/concurrency/concurrency28.html#QinWWWSL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhouHWPB16" mdate="2022-04-09">
+<author pid="69/5011">Wei Zhou</author>
+<author orcid="0000-0003-0230-1432" pid="99/5144">Jiankun Hu</author>
+<author orcid="0000-0002-0239-7991" pid="62/3151-3">Song Wang 0003</author>
+<author pid="01/5650">Ian R. Petersen</author>
+<author orcid="0000-0002-6603-3257" pid="00/3214">Mohammed Bennamoun</author>
+<title>Partial fingerprint indexing: a combination of local and reconstructed global features.</title>
+<pages>2940-2957</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3600</ee>
+<ee>https://www.wikidata.org/entity/Q62790166</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhouHWPB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/FangXX16" mdate="2022-04-19">
+<author pid="99/8598">He Fang</author>
+<author pid="85/2168-2">Li Xu 0002</author>
+<author orcid="0000-0003-2402-611X" pid="x/LiangXiao3">Liang Xiao 0003</author>
+<title>Secure routing and resource allocation based on game theory in cooperative cognitive radio networks.</title>
+<pages>2958-2977</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3576</ee>
+<url>db/journals/concurrency/concurrency28.html#FangXX16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/YangHHS16" mdate="2022-04-25">
+<author pid="63/1534-2">Xu Yang 0002</author>
+<author pid="82/4944-1">Xinyi Huang 0001</author>
+<author orcid="0000-0002-4993-9452" pid="77/9673">Jinguang Han</author>
+<author pid="04/4049">Chunhua Su</author>
+<title>Improved handover authentication and key pre-distribution for wireless mesh networks.</title>
+<pages>2978-2990</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3544</ee>
+<url>db/journals/concurrency/concurrency28.html#YangHHS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/StojmenovicWHL16" mdate="2020-03-02">
+<author pid="s/IvanStojmenovic">Ivan Stojmenovic</author>
+<author orcid="0000-0003-0655-666X" pid="41/3095">Sheng Wen</author>
+<author pid="82/4944">Xinyi Huang</author>
+<author pid="32/4655">Hao Luan</author>
+<title>An overview of Fog computing and its security issues.</title>
+<pages>2991-3005</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3485</ee>
+<url>db/journals/concurrency/concurrency28.html#StojmenovicWHL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/TanZ16" mdate="2020-03-02">
+<author pid="60/10263">Xiaoqing Tan</author>
+<author pid="32/10920">Xiaoqian Zhang</author>
+<title>Quantum private comparison protocol with cloud quantum computing.</title>
+<pages>3006-3020</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/cpe.3490</ee>
+<url>db/journals/concurrency/concurrency28.html#TanZ16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 11, August 2016</h2> Combined Special issues on Distributed computing track at SYNASC 2014 and Big data and smart computing:
+nethodology and practice<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/FrincuB16" mdate="2020-03-02">
+<author pid="89/210">Marc Fr&#238;ncu</author>
+<author pid="52/3129">K&#225;roly B&#243;sa</author>
+<title>Distributed computing track at SYNASC 2014.</title>
+<pages>3023-3024</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3793</ee>
+<url>db/journals/concurrency/concurrency28.html#FrincuB16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/BellettiniCCM16" mdate="2020-06-15">
+<author orcid="0000-0001-8526-4790" pid="79/1975">Carlo Bellettini</author>
+<author orcid="0000-0003-2491-5267" pid="62/11141">Matteo Camilli</author>
+<author orcid="0000-0002-1029-1169" pid="75/1101">Lorenzo Capra</author>
+<author orcid="0000-0003-4852-0067" pid="32/6774">Mattia Monga</author>
+<title>Distributed CTL model checking using MapReduce: theory and practice.</title>
+<pages>3025-3041</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3652</ee>
+<url>db/journals/concurrency/concurrency28.html#BellettiniCCM16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/CiobanuT16" mdate="2020-03-02">
+<author orcid="0000-0002-8166-9456" pid="c/GCiobanu">Gabriel Ciobanu</author>
+<author pid="12/7004">Eneia Nicolae Todoran</author>
+<title>Correct metric semantics for a language inspired by DNA computing.</title>
+<pages>3042-3060</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3585</ee>
+<ee>https://www.wikidata.org/entity/Q57936309</ee>
+<url>db/journals/concurrency/concurrency28.html#CiobanuT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Ravve16" mdate="2020-03-02">
+<author orcid="0000-0002-2723-9578" pid="26/437">Elena V. Ravve</author>
+<title>Incremental computations over strongly distributed databases.</title>
+<pages>3061-3076</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3597</ee>
+<url>db/journals/concurrency/concurrency28.html#Ravve16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/RongLC16" mdate="2021-07-26">
+<author orcid="0000-0002-8347-0539" pid="50/320">Chunming Rong</author>
+<author orcid="0000-0003-1013-4507" pid="31/2088-1">Lu Liu 0001</author>
+<author pid="86/2961">Guolong Chen</author>
+<title>Big data and smart computing: methodology and practice.</title>
+<pages>3077-3078</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3844</ee>
+<url>db/journals/concurrency/concurrency28.html#RongLC16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/LinGL16" mdate="2020-03-02">
+<author pid="74/4413">Bing Lin</author>
+<author pid="10/2272">Wenzhong Guo</author>
+<author pid="29/8935">Xiuyan Lin</author>
+<title>Online optimization scheduling for scientific workflows with deadline constraint on hybrid clouds.</title>
+<pages>3079-3095</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3582</ee>
+<url>db/journals/concurrency/concurrency28.html#LinGL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Deng0XYLLL16" mdate="2022-06-25">
+<author pid="152/0037">Chuang Deng</author>
+<author pid="51/3710-10">Yang Liu 0010</author>
+<author pid="155/8297">Lixiong Xu</author>
+<author pid="12/1198">Jie Yang</author>
+<author pid="144/1516">Junyong Liu</author>
+<author pid="43/6625">Siguang Li</author>
+<author pid="l/MaozhenLi">Maozhen Li 0001</author>
+<title>A MapReduce-based parallel <i>K-means</i> clustering for large-scale CIM data verification.</title>
+<pages>3096-3114</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3580</ee>
+<url>db/journals/concurrency/concurrency28.html#Deng0XYLLL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiWTZY16" mdate="2020-04-09">
+<author pid="l/JianxinLi-2">Jianxin Li 0002</author>
+<author pid="09/7677">Jianfeng Wen</author>
+<author pid="167/7906">Zhenying Tai</author>
+<author pid="61/1229">Richong Zhang</author>
+<author pid="45/8097">Weiren Yu</author>
+<title>Bursty event detection from microblog: a distributed and incremental approach.</title>
+<pages>3115-3130</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3657</ee>
+<url>db/journals/concurrency/concurrency28.html#LiWTZY16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SelimiFCV16" mdate="2020-03-02">
+<author orcid="0000-0001-9644-5415" pid="147/6953">Mennan Selimi</author>
+<author orcid="0000-0001-5438-479X" pid="35/3049">Felix Freitag</author>
+<author pid="27/3027">Lloren&#231; Cerd&#224;-Alabern</author>
+<author orcid="0000-0002-9285-0736" pid="v/LuisVeiga">Lu&#237;s Veiga</author>
+<title>Performance evaluation of a distributed storage service in community network clouds.</title>
+<pages>3131-3148</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3658</ee>
+<url>db/journals/concurrency/concurrency28.html#SelimiFCV16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/QiangZDJ16" mdate="2020-03-02">
+<author pid="q/WeizhongQiang">Weizhong Qiang</author>
+<author pid="29/177">Kang Zhang</author>
+<author pid="43/8735">Weiqi Dai</author>
+<author pid="98/4156">Hai Jin 0001</author>
+<title>Secure cryptographic functions via virtualization-based outsourced computing.</title>
+<pages>3149-3163</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3706</ee>
+<url>db/journals/concurrency/concurrency28.html#QiangZDJ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/JaradatDB16" mdate="2020-03-02">
+<author pid="130/3969">Ward Jaradat</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="24/1959">Adam Barker</author>
+<title>Towards an autonomous decentralized orchestration system.</title>
+<pages>3164-3179</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3655</ee>
+<url>db/journals/concurrency/concurrency28.html#JaradatDB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/0001KP16" mdate="2020-03-02">
+<author pid="33/7684-1">Simon Ostermann 0001</author>
+<author orcid="0000-0001-5716-8857" pid="31/6374">Gabor Kecskemeti</author>
+<author orcid="0000-0002-8247-5426" pid="43/1754">Radu Prodan</author>
+<title>Multi-layered simulations at the heart of workflow enactment on clouds.</title>
+<pages>3180-3201</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3733</ee>
+<url>db/journals/concurrency/concurrency28.html#0001KP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/GeDJ16" mdate="2020-03-02">
+<author pid="140/2069">Dajie Ge</author>
+<author pid="d/ZhijunDing">Zhijun Ding</author>
+<author pid="136/9374">Hongfei Ji</author>
+<title>A task scheduling strategy based on weighted round robin for distributed crawler.</title>
+<pages>3202-3212</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3701</ee>
+<url>db/journals/concurrency/concurrency28.html#GeDJ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HouM16" mdate="2020-03-02">
+<author pid="119/6585">Fu Hou</author>
+<author pid="74/4827">XinJun Mao</author>
+<title>Cross-clouds services autonomic management approach based on self-organizing multi-agent technology.</title>
+<pages>3213-3237</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3760</ee>
+<url>db/journals/concurrency/concurrency28.html#HouM16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiZYXW16" mdate="2020-03-02">
+<author pid="169/6623">Fuxiang Li</author>
+<author pid="30/5925">Fucai Zhou</author>
+<author pid="183/4988">Heqing Yuan</author>
+<author pid="177/2277">Zifeng Xu</author>
+<author pid="64/5630-5">Qiang Wang 0005</author>
+<title>Bilinear-map accumulator-based verifiable intersection operations on encrypted data in cloud.</title>
+<pages>3238-3253</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3783</ee>
+<url>db/journals/concurrency/concurrency28.html#LiZYXW16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 12, August 2016</h2> Combined special issues on New advances in large-scale distributed simulation and real-time applications and Euro-Par 2015<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/Notare16a" mdate="2020-03-02">
+<author orcid="0000-0002-2530-0494" pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
+<title>New advances in large-scale distributed simulation and real-time applications.</title>
+<pages>3257-3259</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3806</ee>
+<url>db/journals/concurrency/concurrency28.html#Notare16a</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/ForshawMT16" mdate="2021-10-14">
+<author orcid="0000-0001-7014-9837" pid="125/6236">Matthew Forshaw</author>
+<author orcid="0000-0001-5626-0934" pid="m/ASMcGough">A. Stephen McGough</author>
+<author pid="16/2669">Nigel Thomas</author>
+<title>HTC-Sim: a trace-driven simulation framework for energy consumption in high-throughput computing systems.</title>
+<pages>3260-3290</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3804</ee>
+<url>db/journals/concurrency/concurrency28.html#ForshawMT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ValadaresGL16" mdate="2020-03-02">
+<author pid="26/10521">Arthur Valadares</author>
+<author pid="149/2713">Eugenia Gabrielova</author>
+<author pid="l/CristinaVideiraLopes">Cristina Videira Lopes</author>
+<title>On designing and testing distributed virtual environments.</title>
+<pages>3291-3312</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3803</ee>
+<url>db/journals/concurrency/concurrency28.html#ValadaresGL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiCT16" mdate="2020-06-10">
+<author pid="53/469">Xiaosong Li</author>
+<author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
+<author pid="t/StephenJohnTurner">Stephen John Turner</author>
+<title>Supporting efficient execution of continuous space agent-based simulation on GPU.</title>
+<pages>3313-3332</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3808</ee>
+<url>db/journals/concurrency/concurrency28.html#LiCT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/CicirelliN16" mdate="2020-03-02">
+<author orcid="0000-0002-6138-5739" pid="44/4467">Franco Cicirelli</author>
+<author pid="85/5567">Libero Nigro</author>
+<title>Control centric framework for model continuity in time-dependent multi-agent systems.</title>
+<pages>3333-3356</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3802</ee>
+<url>db/journals/concurrency/concurrency28.html#CicirelliN16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/FuBS16" mdate="2020-03-02">
+<author pid="77/9717">Desheng Fu</author>
+<author orcid="0000-0003-4358-1258" pid="69/3369-2">Matthias Becker 0002</author>
+<author pid="s/HelenaSzczerbicka">Helena Szczerbicka</author>
+<title>Improving the performance of distributed discrete event simulation by exchange of conditional look-ahead.</title>
+<pages>3357-3368</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3811</ee>
+<url>db/journals/concurrency/concurrency28.html#FuBS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/EngelmannN16" mdate="2020-03-02">
+<author orcid="0000-0003-4365-6416" pid="71/4514">Christian Engelmann</author>
+<author pid="04/1344">Thomas J. Naughton</author>
+<title>A new deadlock resolution protocol and message matching algorithm for the extreme-scale simulator.</title>
+<pages>3369-3389</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3805</ee>
+<url>db/journals/concurrency/concurrency28.html#EngelmannN16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/XuLYJH16" mdate="2020-03-02">
+<author pid="64/4216-3">Xiao Xu 0003</author>
+<author pid="24/712">Ge Li</author>
+<author pid="32/6458">Mei Yang</author>
+<author pid="53/3596">Rusheng Ju</author>
+<author pid="66/4330">Kedi Huang</author>
+<title>Towards the integration of engagement and engineering-level simulation over real-time and heterogeneous systems.</title>
+<pages>3390-3408</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3810</ee>
+<url>db/journals/concurrency/concurrency28.html#XuLYJH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/GrandeBGA16" mdate="2020-12-29">
+<author orcid="0000-0001-9448-2036" pid="72/6645">Robson Eduardo De Grande</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author pid="174/6748">Shichao Guan</author>
+<author orcid="0000-0001-9952-2770" pid="120/4036">Noura Aljeri</author>
+<title>A modular distributed simulation-based architecture for intelligent transportation systems.</title>
+<pages>3409-3426</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3801</ee>
+<url>db/journals/concurrency/concurrency28.html#GrandeBGA16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LeiteBMETR16" mdate="2020-03-02">
+<author orcid="0000-0002-3071-8019" pid="80/8766">Alessandro Ferreira Leite</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<author pid="62/3092">Christine Eisenbeis</author>
+<author pid="75/1189">Claude Tadonki</author>
+<author orcid="0000-0002-2983-2180" pid="09/2442">C&#233;lia Ghedini Ralha</author>
+<title>Power-aware server consolidation for federated clouds.</title>
+<pages>3427-3444</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3807</ee>
+<ee>https://www.wikidata.org/entity/Q62627904</ee>
+<url>db/journals/concurrency/concurrency28.html#LeiteBMETR16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/LengauerBT16" mdate="2020-03-02">
+<author pid="l/CLengauer">Christian Lengauer</author>
+<author pid="b/LucBouge">Luc Boug&#233;</author>
+<author pid="t/JLTraff">Jesper Larsson Tr&#228;ff</author>
+<title>Special issue: Euro-Par 2015.</title>
+<pages>3445-3446</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3875</ee>
+<url>db/journals/concurrency/concurrency28.html#LengauerBT16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/AbdelfattahLKD16" mdate="2020-03-02">
+<author pid="125/8688">Ahmad Abdelfattah</author>
+<author orcid="0000-0002-6897-1095" pid="92/397">Hatem Ltaief</author>
+<author orcid="0000-0002-4052-7224" pid="27/854">David E. Keyes</author>
+<author pid="d/JackDongarra">Jack J. Dongarra</author>
+<title>Performance optimization of Sparse Matrix-Vector Multiplication for multi-component PDE-based applications using GPUs.</title>
+<pages>3447-3465</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3874</ee>
+<url>db/journals/concurrency/concurrency28.html#AbdelfattahLKD16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WangBO16" mdate="2020-03-02">
+<author pid="165/7400">Leyuan Wang</author>
+<author pid="141/4417">Sean Baxter</author>
+<author pid="97/1367">John D. Owens</author>
+<title>Fast parallel skew and prefix-doubling suffix array construction on the GPU.</title>
+<pages>3466-3484</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3867</ee>
+<url>db/journals/concurrency/concurrency28.html#WangBO16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/CaloreGKST16" mdate="2020-03-02">
+<author orcid="0000-0002-2301-3838" pid="147/6877">Enrico Calore</author>
+<author orcid="0000-0002-8367-6596" pid="144/5025">Alessandro Gabbana</author>
+<author pid="70/9777">Jiri Kraus</author>
+<author orcid="0000-0002-0132-9196" pid="01/5335">Sebastiano Fabio Schifano</author>
+<author pid="71/4546">Raffaele Tripiccione</author>
+<title>Performance and portability of accelerated lattice Boltzmann applications with OpenACC.</title>
+<pages>3485-3502</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3862</ee>
+<ee>https://www.wikidata.org/entity/Q59102334</ee>
+<url>db/journals/concurrency/concurrency28.html#CaloreGKST16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MatteisGM16" mdate="2020-03-02">
+<author orcid="0000-0002-9158-6849" pid="144/4354">Tiziano De Matteis</author>
+<author pid="165/7302">Salvatore Di Girolamo</author>
+<author orcid="0000-0002-6263-7723" pid="85/5541">Gabriele Mencagli</author>
+<title>Continuous skyline queries on multicore architectures.</title>
+<pages>3503-3522</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.3866</ee>
+<ee>https://www.wikidata.org/entity/Q57535910</ee>
+<url>db/journals/concurrency/concurrency28.html#MatteisGM16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 13, September 2016</h2> Research Articles <dblpcites><r style="ee"><article key="journals/concurrency/VerduCP16" mdate="2020-03-02">
+<author orcid="0000-0003-4485-2419" pid="59/5208">Javier Verd&#250;</author>
+<author orcid="0000-0003-2479-0230" pid="71/6679">Juan Jos&#233; Costa</author>
+<author orcid="0000-0002-5510-6860" pid="14/3960">Alex Pajuelo</author>
+<title>Dynamic web worker pool management for highly parallel javascript web applications.</title>
+<pages>3525-3539</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.3739</ee>
+<url>db/journals/concurrency/concurrency28.html#VerduCP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BaranwalV16" mdate="2021-07-25">
+<author orcid="0000-0002-9540-3173" pid="166/7506">Gaurav Baranwal</author>
+<author pid="21/1893">Deo Prakash Vidyarthi</author>
+<title>A cloud service selection model using improved ranked voting method.</title>
+<pages>3540-3567</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.3740</ee>
+<url>db/journals/concurrency/concurrency28.html#BaranwalV16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhaoQZLZR16" mdate="2020-03-02">
+<author pid="25/5030-1">Dongfang Zhao 0001</author>
+<author pid="30/9881">Kan Qiao</author>
+<author pid="67/2535">Zhou Zhou</author>
+<author pid="58/11205">Tonglin Li</author>
+<author pid="28/726">Xiaobing Zhou</author>
+<author pid="94/3254">Ioan Raicu</author>
+<title>Exploiting multi-cores for efficient interchange of large messages in distributed systems.</title>
+<pages>3568-3585</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.3742</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhaoQZLZR16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiSHMP16" mdate="2021-01-21">
+<author pid="184/4825">Yuanzhe Li</author>
+<author orcid="0000-0002-7167-7436" pid="70/3653">Loren Schwiebert</author>
+<author pid="134/9565">Eyad Hailat</author>
+<author pid="134/9438">Jason R. Mick</author>
+<author orcid="0000-0002-4421-8787" pid="138/8790">Jeffrey J. Potoff</author>
+<title>Improving performance of GPU code using novel features of the NVIDIA kepler architecture.</title>
+<pages>3586-3605</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.3744</ee>
+<url>db/journals/concurrency/concurrency28.html#LiSHMP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BehrendsHJKLLMT16" mdate="2020-03-02">
+<author pid="42/6183">Reimer Behrends</author>
+<author orcid="0000-0002-4326-4562" pid="35/4224">Kevin Hammond</author>
+<author pid="73/8357">Vladimir Janjic</author>
+<author orcid="0000-0001-5299-3292" pid="34/5510">Alexander Konovalov 0001</author>
+<author pid="04/794">Steve Linton</author>
+<author pid="l/HWLoidl">Hans-Wolfgang Loidl</author>
+<author pid="04/5127">Patrick Maier 0001</author>
+<author pid="87/4953">Phil Trinder</author>
+<title>HPC-GAP: engineering a 21st-century high-performance computer algebra system.</title>
+<pages>3606-3636</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.3746</ee>
+<url>db/journals/concurrency/concurrency28.html#BehrendsHJKLLMT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ArafatDKBS16" mdate="2020-03-02">
+<author pid="118/5339">Humayun Arafat</author>
+<author orcid="0000-0002-4840-7737" pid="03/5712">James Dinan</author>
+<author pid="k/SriramKrishnamoorthy">Sriram Krishnamoorthy</author>
+<author pid="70/2491">Pavan Balaji</author>
+<author pid="s/PSadayappan">P. Sadayappan</author>
+<title>Work stealing for GPU-accelerated parallel programs in a global address space framework.</title>
+<pages>3637-3654</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.3747</ee>
+<url>db/journals/concurrency/concurrency28.html#ArafatDKBS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/NiuDTBKMWS16" mdate="2020-03-02">
+<author pid="118/5361">Qingpeng Niu</author>
+<author orcid="0000-0002-4840-7737" pid="03/5712">James Dinan</author>
+<author pid="129/5641">Sravya Tirukkovalur</author>
+<author orcid="0000-0002-2133-0338" pid="184/4881">Anouar Benali</author>
+<author pid="56/9929">Jeongnim Kim</author>
+<author pid="39/605">Lubos Mitas</author>
+<author pid="04/9756">Lucas K. Wagner</author>
+<author pid="s/PSadayappan">P. Sadayappan</author>
+<title>Global-view coefficients: a data management solution for parallel quantum Monte Carlo applications.</title>
+<pages>3655-3671</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.3748</ee>
+<ee>https://www.wikidata.org/entity/Q57430484</ee>
+<url>db/journals/concurrency/concurrency28.html#NiuDTBKMWS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ToosiKB16" mdate="2020-03-02">
+<author orcid="0000-0001-5655-5337" pid="24/2372">Adel Nadjaran Toosi</author>
+<author orcid="0000-0002-4005-7867" pid="162/5776">Farzad Khodadadi</author>
+<author pid="b/RajkumarBuyya">Rajkumar Buyya</author>
+<title><i>SipaaS</i>: Spot instance pricing as a Service framework and its implementation in OpenStack.</title>
+<pages>3672-3690</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.3749</ee>
+<url>db/journals/concurrency/concurrency28.html#ToosiKB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HanZLXP16" mdate="2020-03-02">
+<author pid="139/1153">Jiayu Han</author>
+<author pid="64/1676">Wanli Zuo</author>
+<author pid="31/2088-13">Lu Liu 0013</author>
+<author pid="184/4944">Yuanbo Xu</author>
+<author pid="89/6609-3">Tao Peng 0003</author>
+<title>Building text classifiers using positive, unlabeled and 'outdated' examples.</title>
+<pages>3691-3706</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.3879</ee>
+<url>db/journals/concurrency/concurrency28.html#HanZLXP16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 14, September 2016</h2> Combined Special issues on SORT 2014 and Social network analysis and its application 2015<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/Higuera-Toledano16" mdate="2020-03-02">
+<author pid="04/5715">M. Teresa Higuera-Toledano</author>
+<author pid="05/3396">Uwe Brinkschulte</author>
+<author pid="56/6293">Achim Rettberg</author>
+<title>SORT 2014.</title>
+<pages>3709-3710</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3917</ee>
+<url>db/journals/concurrency/concurrency28.html#Higuera-Toledano16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/Brinkschulte16" mdate="2020-03-02">
+<author pid="05/3396">Uwe Brinkschulte</author>
+<title>An artificial DNA for self-descripting and self-building embedded real-time systems.</title>
+<pages>3711-3729</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3460</ee>
+<url>db/journals/concurrency/concurrency28.html#Brinkschulte16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Pacher16" mdate="2020-03-02">
+<author pid="74/5633">Mathias Pacher</author>
+<title>Two-level extensions of an artificial hormone system.</title>
+<pages>3730-3750</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3470</ee>
+<url>db/journals/concurrency/concurrency28.html#Pacher16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/RammigS16" mdate="2020-03-02">
+<author pid="r/FranzJosefRammig">Franz-Josef Rammig</author>
+<author pid="62/10011">Katharina Stahl</author>
+<title>Online behavior classification for anomaly detection in self-x real-time systems.</title>
+<pages>3751-3772</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3567</ee>
+<url>db/journals/concurrency/concurrency28.html#RammigS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SudhakarZR16" mdate="2020-03-02">
+<author pid="151/3414">Krishna Sudhakar</author>
+<author pid="39/1215-1">Yuhong Zhao 0001</author>
+<author pid="r/FranzJosefRammig">Franz-Josef Rammig</author>
+<title>Efficient integration of online model checking into a small-footprint real-time operating system.</title>
+<pages>3773-3797</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3712</ee>
+<url>db/journals/concurrency/concurrency28.html#SudhakarZR16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/QiangZH16" mdate="2020-03-02">
+<author pid="q/WeizhongQiang">Weizhong Qiang</author>
+<author pid="14/7437">Xianghan Zheng</author>
+<author pid="35/3725">Ching-Hsien Hsu</author>
+<title>Social network analysis and its application.</title>
+<pages>3798-3802</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3920</ee>
+<url>db/journals/concurrency/concurrency28.html#QiangZH16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/DengGW16" mdate="2020-03-02">
+<author pid="98/6900">Gang Deng</author>
+<author pid="42/5761">Zhenghu Gong</author>
+<author pid="83/5522">Hong Wang</author>
+<title>Make-way: transporting latency-sensitive flows nonblockingly in oversubscription data center networks.</title>
+<pages>3803-3813</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3721</ee>
+<url>db/journals/concurrency/concurrency28.html#DengGW16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/YaoXLZ16" mdate="2022-01-03">
+<author pid="98/914">Hong Yao</author>
+<author orcid="0000-0003-0032-5481" pid="186/2257">Jinlai Xu</author>
+<author pid="71/1281">Zhongwen Luo</author>
+<author pid="08/5937">Deze Zeng</author>
+<title>MEMoMR: Accelerate MapReduce via reuse of intermediate results.</title>
+<pages>3814-3829</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3702</ee>
+<url>db/journals/concurrency/concurrency28.html#YaoXLZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiuSJ16" mdate="2020-03-02">
+<author orcid="0000-0002-1119-9284" pid="87/2948-5">Yuan Liu 0005</author>
+<author pid="85/5317">Xuanhua Shi</author>
+<author pid="98/4156">Hai Jin 0001</author>
+<title>Runtime-aware adaptive scheduling in stream processing.</title>
+<pages>3830-3843</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3661</ee>
+<url>db/journals/concurrency/concurrency28.html#LiuSJ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/JinLHLL16" mdate="2020-03-02">
+<author pid="00/34">Jing Jin</author>
+<author pid="172/2655">Siyan Lai</author>
+<author pid="44/8079">Su Hu</author>
+<author pid="80/2054">Jing Lin</author>
+<author orcid="0000-0002-7665-8349" pid="00/6250">Xiaola Lin</author>
+<title>GPUSGD: A GPU-accelerated stochastic gradient descent algorithm for matrix factorization.</title>
+<pages>3844-3865</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3722</ee>
+<url>db/journals/concurrency/concurrency28.html#JinLHLL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/XiaoYER16" mdate="2020-03-02">
+<author pid="174/0113">Chengwei Xiao</author>
+<author pid="174/0151">Jiaqi Ye</author>
+<author pid="75/7868">Rui M&#225;ximo Esteves</author>
+<author orcid="0000-0002-8347-0539" pid="50/320">Chunming Rong</author>
+<title>Using Spearman's correlation coefficients for exploratory data analysis on big dataset.</title>
+<pages>3866-3878</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3745</ee>
+<url>db/journals/concurrency/concurrency28.html#XiaoYER16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhaoYZ16" mdate="2020-03-02">
+<author pid="50/2082">Yang Zhao</author>
+<author pid="71/8496">Liang Yao</author>
+<author pid="91/3045-6">Yin Zhang 0006</author>
+<title>Purchase prediction using Tmall-specific features.</title>
+<pages>3879-3894</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3720</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhaoYZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhengACG16" mdate="2021-02-11">
+<author pid="14/7437">Xianghan Zheng</author>
+<author pid="172/0293">Dongyun An</author>
+<author pid="89/120-2">Xing Chen 0002</author>
+<author pid="10/2272">Wenzhong Guo</author>
+<title>Interest prediction in social networks based on Markov chain modeling on clustered users.</title>
+<pages>3895-3909</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3572</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhengACG16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/GuQR16" mdate="2020-03-02">
+<author pid="15/4208-3">Yu Gu 0003</author>
+<author pid="159/4576">Lianghu Quan</author>
+<author pid="17/4005">Fuji Ren</author>
+<title>AAH: accurate activity recognition of human beings using WiFi signals.</title>
+<pages>3910-3926</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3741</ee>
+<url>db/journals/concurrency/concurrency28.html#GuQR16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SunSCZCCLY16" mdate="2021-02-26">
+<author pid="36/1447-2">Jianhua Sun 0002</author>
+<author pid="186/2229">Lingjun She</author>
+<author pid="86/475-2">Hao Chen 0002</author>
+<author pid="32/613">Wenyong Zhong</author>
+<author pid="41/4917">Cheng Chang</author>
+<author pid="133/3514">Zhiwen Chen</author>
+<author pid="60/8180">Wentao Li</author>
+<author pid="186/2395">Shuna Yao</author>
+<title>Automatically identifying apps in mobile traffic.</title>
+<pages>3927-3941</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.3703</ee>
+<url>db/journals/concurrency/concurrency28.html#SunSCZCCLY16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 15, October 2016</h2> Combined Special issues on Big data analytics and knowledge discovery (DaWak 2014) and Big data-related technologies and applications (BDTA 2015)<br /> Editorials <dblpcites><r style="ee"><article key="journals/concurrency/BellatrecheM16" mdate="2020-03-02">
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Big data analytics and knowledge discovery.</title>
+<pages>3945-3947</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3905</ee>
+<url>db/journals/concurrency/concurrency28.html#BellatrecheM16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/DiamantiniPS16" mdate="2020-03-02">
+<author orcid="0000-0001-8143-7615" pid="05/620">Claudia Diamantini</author>
+<author orcid="0000-0002-7067-5463" pid="14/3031">Domenico Potena</author>
+<author orcid="0000-0001-5966-6921" pid="86/7256">Emanuele Storti</author>
+<title>Extended drill-down operator: Digging into the structure of performance indicators.</title>
+<pages>3948-3968</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3726</ee>
+<ee>https://www.wikidata.org/entity/Q58616427</ee>
+<url>db/journals/concurrency/concurrency28.html#DiamantiniPS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/TheodorouALT16" mdate="2020-03-02">
+<author orcid="0000-0002-0249-170X" pid="150/4993">Vasileios Theodorou</author>
+<author pid="88/2053">Alberto Abell&#243;</author>
+<author pid="l/WLehner">Wolfgang Lehner</author>
+<author orcid="0000-0002-1665-977X" pid="48/2949">Maik Thiele</author>
+<title>Quality measures for ETL processes: from goals to implementation.</title>
+<pages>3969-3993</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3729</ee>
+<url>db/journals/concurrency/concurrency28.html#TheodorouALT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LeungJPP16" mdate="2020-03-02">
+<author orcid="0000-0002-7541-9127" pid="29/654">Carson Kai-Sang Leung</author>
+<author pid="58/3794-1">Fan Jiang 0001</author>
+<author pid="185/1297">Adam G. M. Pazdor</author>
+<author pid="160/1287">Aaron M. Peddle</author>
+<title>Parallel social network mining for interesting 'following' patterns.</title>
+<pages>3994-4012</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3773</ee>
+<url>db/journals/concurrency/concurrency28.html#LeungJPP16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/SakthithasanP16" mdate="2020-03-02">
+<author pid="129/2663">Sripirakas Sakthithasan</author>
+<author pid="71/4680">Russel Pears</author>
+<title>Capturing recurring concepts using discrete Fourier transform.</title>
+<pages>4013-4035</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3784</ee>
+<url>db/journals/concurrency/concurrency28.html#SakthithasanP16</url>
+</article>
+</r>
+</dblpcites>
+
+Editorials <dblpcites><r style="ee"><article key="journals/concurrency/LuoLL16" mdate="2020-03-02">
+<author pid="63/4996">Xiangfeng Luo</author>
+<author pid="38/559">Yunhuai Liu</author>
+<author pid="181/2689-1">Qing Li 0001</author>
+<title>Big data-related technologies and applications.</title>
+<pages>4036-4037</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3824</ee>
+<url>db/journals/concurrency/concurrency28.html#LuoLL16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/XuZHMXCSZ16" mdate="2022-12-07">
+<author pid="83/2535-1">Zheng Xu 0001</author>
+<author pid="z/HuiZhang16">Hui Zhang 0016</author>
+<author pid="119/2965">Chuanping Hu</author>
+<author pid="84/4478-1">Lin Mei 0001</author>
+<author orcid="0000-0002-8367-6908" pid="08/10768">Junyu Xuan</author>
+<author orcid="0000-0001-9208-5336" pid="c/KimKwangRaymondChoo">Kim-Kwang Raymond Choo</author>
+<author orcid="0000-0003-2557-3182" pid="66/6868">Vijayan Sugumaran</author>
+<author pid="80/7713">Yiwei Zhu</author>
+<title>Building knowledge base of urban emergency events based on crowdsourcing of social media.</title>
+<pages>4038-4052</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3780</ee>
+<url>db/journals/concurrency/concurrency28.html#XuZHMXCSZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LinLLL16" mdate="2020-03-02">
+<author pid="62/4059">Xia Lin</author>
+<author pid="96/13">Yao Li</author>
+<author pid="62/1412">Yuping Lu</author>
+<author pid="186/2252">Nai-yong Li</author>
+<title>Big data analysis on the coordination optimization of protection schemes and automatic devices for distribution network.</title>
+<pages>4053-4066</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3788</ee>
+<url>db/journals/concurrency/concurrency28.html#LinLLL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/Zheng16" mdate="2020-03-02">
+<author pid="94/190">Jie Zheng</author>
+<title>An association analysis and identification for unknown protocol of bitstream oriented.</title>
+<pages>4067-4081</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3799</ee>
+<url>db/journals/concurrency/concurrency28.html#Zheng16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/XieZZLJ16" mdate="2020-03-02">
+<author pid="36/844">Min Xie</author>
+<author pid="60/4661">Hongyan Zhao</author>
+<author pid="186/2343">Nana Zhu</author>
+<author pid="81/8202">Chengju Liu</author>
+<author pid="186/2250">Tianying Jiang</author>
+<title>Study on the relationship between network position and organizational performance based on meta-analysis.</title>
+<pages>4082-4092</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3794</ee>
+<url>db/journals/concurrency/concurrency28.html#XieZZLJ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/GaoZGTZ16" mdate="2020-03-02">
+<author pid="46/2802">Kun Gao</author>
+<author pid="80/7713">Yiwei Zhu</author>
+<author pid="59/3677">SongJie Gong</author>
+<author pid="14/7723">HengSong Tan</author>
+<author pid="22/6475">Guangyu Zhou</author>
+<title>Research on social network discovery algorithm in pervasive sensing environment.</title>
+<pages>4093-4106</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3815</ee>
+<url>db/journals/concurrency/concurrency28.html#GaoZGTZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WeiZ16" mdate="2023-02-12">
+<author orcid="0000-0002-6258-6129" pid="181/2867-2">Xiao Wei 0002</author>
+<author pid="z/DanielDajunZeng">Daniel Dajun Zeng</author>
+<title>ExNa: an efficient search pattern for semantic search engines.</title>
+<pages>4107-4124</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3818</ee>
+<url>db/journals/concurrency/concurrency28.html#WeiZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/BiXLJ16" mdate="2020-03-02">
+<author pid="63/7651">Zhongqin Bi</author>
+<author pid="49/1462">Feifei Xu</author>
+<author pid="09/669">Jingsheng Lei</author>
+<author pid="49/8548">Teng Jiang</author>
+<title>Attribute reduction in decision-theoretic rough set model based on minimum decision cost.</title>
+<pages>4125-4143</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3830</ee>
+<url>db/journals/concurrency/concurrency28.html#BiXLJ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/WangJYH16" mdate="2020-03-02">
+<author orcid="0000-0003-0449-2973" pid="66/1893">Yuzhu Wang</author>
+<author pid="45/7449">Jinrong Jiang</author>
+<author pid="186/2177">Huang Ye</author>
+<author pid="186/2382">Juanxiong He</author>
+<title>A distributed load balancing algorithm for climate big data processing over a multi-core CPU cluster.</title>
+<pages>4144-4160</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3822</ee>
+<url>db/journals/concurrency/concurrency28.html#WangJYH16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/XueXYWZ16" mdate="2021-01-28">
+<author pid="147/7765">Yunlan Xue</author>
+<author pid="71/5428">Lingyu Xu</author>
+<author pid="74/3437-9">Jie Yu 0009</author>
+<author pid="w/LeiWang100">Lei Wang 0100</author>
+<author pid="168/0801">Gaowei Zhang</author>
+<title>Event space model in virtual and real society based on special field.</title>
+<pages>4161-4176</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3812</ee>
+<url>db/journals/concurrency/concurrency28.html#XueXYWZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhangWLY16" mdate="2020-03-02">
+<author pid="34/8383">Shunxiang Zhang</author>
+<author pid="70/4828">Yin Wang</author>
+<author pid="92/9611">Weidong Liu</author>
+<author pid="93/7843">Xiaobo Yin</author>
+<title>A model for estimating the out-degree of nodes in associated semantic network from semantic feature view.</title>
+<pages>4177-4193</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3819</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhangWLY16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/QuZYZ16" mdate="2020-03-02">
+<author pid="20/3008">Peng Qu</author>
+<author orcid="0000-0001-8740-2851" pid="17/1820">Junsheng Zhang</author>
+<author pid="65/11083">Changqing Yao</author>
+<author pid="55/6445">Wen Zeng</author>
+<title>Identifying long tail term from large-scale candidate pairs for big data-oriented patent analysis.</title>
+<pages>4194-4208</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/cpe.3792</ee>
+<url>db/journals/concurrency/concurrency28.html#QuZYZ16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 16, November 2016</h2> Embedded multicore computing and applications (EMCA 2014)<br /> Editorial <dblpcites><r style="ee"><article key="journals/concurrency/MagoulesHJH16" mdate="2022-04-09">
+<author orcid="0000-0002-1198-7539" pid="79/3753">Fr&#233;d&#233;ric Magoul&#232;s</author>
+<author orcid="0000-0002-8906-9367" pid="80/6405">Che-Lun Hung</author>
+<author pid="15/5983">Hai Jiang</author>
+<author pid="88/1307-1">Jia Hu 0001</author>
+<title>Embedded multicore computing and applications.</title>
+<pages>4211-4214</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3910</ee>
+<url>db/journals/concurrency/concurrency28.html#MagoulesHJH16</url>
+</article>
+</r>
+</dblpcites>
+
+Special Issue Papers <dblpcites><r style="ee"><article key="journals/concurrency/DuanXZMZL16" mdate="2020-03-02">
+<author pid="01/1402">Hancong Duan</author>
+<author pid="172/4103">Xiaoke Xiang</author>
+<author pid="135/6869">Yulu Zhang</author>
+<author pid="96/3727">Geyong Min</author>
+<author pid="162/6572">Wenhan Zhan</author>
+<author pid="187/8793">Pengcheng Lv</author>
+<title>A multi-channel architecture for metadata management in cloud storage systems by binding CPU-cores to disks.</title>
+<pages>4215-4229</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3882</ee>
+<ee>https://www.wikidata.org/entity/Q57916038</ee>
+<url>db/journals/concurrency/concurrency28.html#DuanXZMZL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ChangLYC16" mdate="2020-03-02">
+<author pid="62/6434">Chih-Hung Chang</author>
+<author pid="83/1018">Chih-Wei Lu</author>
+<author orcid="0000-0002-9579-4426" pid="y/ChaoTungYang">Chao-Tung Yang</author>
+<author pid="70/10076">Tzu-Chieh Chang</author>
+<title>An approach of performance comparisons with OpenMP and CUDA parallel programming on multicore systems.</title>
+<pages>4230-4245</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3829</ee>
+<ee>https://www.wikidata.org/entity/Q57983506</ee>
+<url>db/journals/concurrency/concurrency28.html#ChangLYC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/FeiLYL16" mdate="2020-10-12">
+<author pid="157/2473">Xiongwei Fei</author>
+<author pid="l/KenliLi">Kenli Li 0001</author>
+<author pid="84/8385">Wangdong Yang</author>
+<author pid="l/KeqinLi">Keqin Li 0001</author>
+<title>Practical parallel AES algorithms on cloud for massive users and their performance evaluation.</title>
+<pages>4246-4263</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3734</ee>
+<url>db/journals/concurrency/concurrency28.html#FeiLYL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/JiangMLJYLC16" mdate="2020-03-02">
+<author pid="96/5583">Wenbin Jiang</author>
+<author pid="154/3543">Hongyan Mei</author>
+<author pid="97/6483-3">Feng Lu 0003</author>
+<author pid="98/4156">Hai Jin 0001</author>
+<author pid="y/LaurenceTianruoYang">Laurence T. Yang</author>
+<author pid="36/4256">Bin Luo</author>
+<author pid="171/1104">Ye Chi</author>
+<title>A novel parallel deblocking filtering strategy for HEVC/H.265 based on GPU.</title>
+<pages>4264-4276</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3751</ee>
+<url>db/journals/concurrency/concurrency28.html#JiangMLJYLC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HungW16" mdate="2020-03-02">
+<author orcid="0000-0002-8906-9367" pid="80/6405">Che-Lun Hung</author>
+<author pid="174/1534">Yuan-Huai Wu</author>
+<title>GPU-based parallel fuzzy c-mean clustering model via genetic algorithm.</title>
+<pages>4277-4290</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3731</ee>
+<url>db/journals/concurrency/concurrency28.html#HungW16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/PerrotDC16" mdate="2020-03-02">
+<author pid="09/11117">Gilles Perrot</author>
+<author pid="32/3415">St&#233;phane Domas</author>
+<author orcid="0000-0003-1490-9592" pid="26/3185">Rapha&#235;l Couturier</author>
+<title>An optimized GPU-based 2D convolution implementation.</title>
+<pages>4291-4304</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3752</ee>
+<url>db/journals/concurrency/concurrency28.html#PerrotDC16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MagoulesAS16" mdate="2022-04-09">
+<author orcid="0000-0002-1198-7539" pid="79/3753">Fr&#233;d&#233;ric Magoul&#232;s</author>
+<author pid="160/2190">Abal-Kassim Cheik Ahamed</author>
+<author pid="95/125">Atsushi Suzuki</author>
+<title>Green computing on graphics processing units.</title>
+<pages>4305-4325</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3692</ee>
+<url>db/journals/concurrency/concurrency28.html#MagoulesAS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/HungLOTHLF16" mdate="2020-03-02">
+<author orcid="0000-0002-8906-9367" pid="80/6405">Che-Lun Hung</author>
+<author pid="27/3566">Chun-Yuan Lin</author>
+<author pid="160/2158">Chia Shin Ou</author>
+<author pid="187/8947">Yuan-Hong Tseng</author>
+<author pid="187/8825">Po-Yen Hung</author>
+<author pid="31/3974">Shipeng Li</author>
+<author pid="160/2210">Chun Ting Fu</author>
+<title>Efficient bit-parallel subcircuit extraction using CUDA.</title>
+<pages>4326-4338</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3732</ee>
+<url>db/journals/concurrency/concurrency28.html#HungLOTHLF16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/QianXXZ16" mdate="2020-03-02">
+<author pid="45/4867">Quan Qian</author>
+<author pid="166/0615">Mengbo Xie</author>
+<author pid="134/3946">Chao-Jie Xiao</author>
+<author pid="60/2536-13">Rui Zhang 0013</author>
+<title>Grid-based high performance ensemble classification for evolving data stream.</title>
+<pages>4339-4351</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3898</ee>
+<url>db/journals/concurrency/concurrency28.html#QianXXZ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MagoulesBC16" mdate="2022-04-09">
+<author orcid="0000-0002-1198-7539" pid="79/3753">Fr&#233;d&#233;ric Magoul&#232;s</author>
+<author pid="160/2271">Guillaume Gbikpi Benissan</author>
+<author pid="31/314">Patrick Callet</author>
+<title>Ray-tracing domain decomposition methods for real-time simulation on multi-core and multi-processor systems.</title>
+<pages>4352-4364</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1002/cpe.3696</ee>
+<url>db/journals/concurrency/concurrency28.html#MagoulesBC16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 17, December 2016</h2> Research Articles <dblpcites><r style="ee"><article key="journals/concurrency/GuoYPYHXLL16" mdate="2020-03-02">
+<author pid="51/11073">Kunyi Guo</author>
+<author pid="23/2089">Ke Yu</author>
+<author pid="72/1547">Shanchen Pang</author>
+<author pid="43/3014">Dan Yang</author>
+<author pid="51/5022">Jun Huang</author>
+<author pid="82/2446">Yunni Xia</author>
+<author pid="53/5106-1">Xin Luo 0001</author>
+<author pid="23/6950">Jia Li</author>
+<title>On the performance and power consumption analysis of elastic clouds.</title>
+<pages>4367-4384</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.3756</ee>
+<url>db/journals/concurrency/concurrency28.html#GuoYPYHXLL16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/DinanBBGGT16" mdate="2021-10-14">
+<author orcid="0000-0002-4840-7737" pid="03/5712">James Dinan</author>
+<author pid="70/2491">Pavan Balaji</author>
+<author pid="29/3628">Darius Buntinas</author>
+<author pid="12/1910">David Goodell</author>
+<author pid="g/WilliamGropp">William Gropp</author>
+<author orcid="0000-0002-5532-3048" pid="19/5351">Rajeev Thakur</author>
+<title>An implementation and evaluation of the MPI 3.0 one-sided communication interface.</title>
+<pages>4385-4404</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.3758</ee>
+<url>db/journals/concurrency/concurrency28.html#DinanBBGGT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/KaraataA16" mdate="2020-03-02">
+<author pid="59/6610">Mehmet Hakan Karaata</author>
+<author pid="118/5548">Thamer Alsulaiman</author>
+<title>An optimal inherently stabilizing routing algorithm for star P2P overlay networks.</title>
+<pages>4405-4428</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.3764</ee>
+<url>db/journals/concurrency/concurrency28.html#KaraataA16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/VermaGNRIRCB16" mdate="2020-03-02">
+<author pid="24/5650">Manish Verma</author>
+<author orcid="0000-0002-0764-2650" pid="10/3459">G. R. Gangadharan</author>
+<author pid="n/NanjangudCNarendra">Nanjangud C. Narendra</author>
+<author pid="19/1273">Vadlamani Ravi</author>
+<author pid="187/8942">Vidyadhar Inamdar</author>
+<author pid="40/4155">Lakshmi Ramachandran</author>
+<author orcid="0000-0001-7435-2445" pid="78/6512">Rodrigo N. Calheiros</author>
+<author pid="b/RajkumarBuyya">Rajkumar Buyya</author>
+<title>Dynamic resource demand prediction and allocation in multi-tenant service clouds.</title>
+<pages>4429-4442</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.3767</ee>
+<ee>https://www.wikidata.org/entity/Q57429624</ee>
+<url>db/journals/concurrency/concurrency28.html#VermaGNRIRCB16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ChenLTLWL16" mdate="2020-10-12">
+<author pid="04/4498">Junjie Chen</author>
+<author pid="l/KenliLi">Kenli Li 0001</author>
+<author pid="71/617">Zhuo Tang</author>
+<author pid="147/8031">Chubo Liu</author>
+<author pid="59/2227-22">Yan Wang 0022</author>
+<author pid="l/KeqinLi">Keqin Li 0001</author>
+<title>Data-aware task scheduling on heterogeneous hybrid memory multiprocessor systems.</title>
+<pages>4443-4459</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.3772</ee>
+<url>db/journals/concurrency/concurrency28.html#ChenLTLWL16</url>
+</article>
+</r>
+</dblpcites>
+
+
+<h2>Volume 28, Number 18, December 2016</h2> Research Articles 
+<dblpcites><r style="ee"><article key="journals/concurrency/GmysLMMT16" mdate="2020-06-15">
+<author orcid="0000-0001-9635-4396" pid="178/0659">Jan Gmys</author>
+<author pid="141/0211">Rudi Leroy</author>
+<author pid="19/5553">Mohand Mezmaz</author>
+<author pid="m/NouredineMelab">Nouredine Melab</author>
+<author pid="80/3976">Daniel Tuyttens</author>
+<title>Work stealing with private integer-vector-matrix data structure for multi-core branch-and-bound algorithms.</title>
+<pages>4463-4484</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.3771</ee>
+<url>db/journals/concurrency/concurrency28.html#GmysLMMT16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/ZhouFJ16" mdate="2020-03-02">
+<author pid="50/6002">Jingya Zhou</author>
+<author pid="93/2399">Jianxi Fan</author>
+<author pid="92/4988">Juncheng Jia</author>
+<title>A cost-efficient resource provisioning algorithm for DHT-based cloud storage systems.</title>
+<pages>4485-4506</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.3795</ee>
+<url>db/journals/concurrency/concurrency28.html#ZhouFJ16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/PalopoliRS16" mdate="2022-07-18">
+<author pid="p/LuigiPalopoli">Luigi Palopoli 0001</author>
+<author pid="91/2341">Domenico Rosaci</author>
+<author pid="74/3091">Giuseppe M. L. Sarn&#233;</author>
+<title>A distributed and multi-tiered software architecture for assessing e-Commerce recommendations.</title>
+<pages>4507-4531</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.3798</ee>
+<url>db/journals/concurrency/concurrency28.html#PalopoliRS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/MorganKSS16" mdate="2021-07-25">
+<author orcid="0000-0001-8830-6861" pid="176/5388">Hannah Morgan</author>
+<author orcid="0000-0002-2292-0735" pid="30/5730">Matthew G. Knepley</author>
+<author pid="54/8294">Patrick Sanan</author>
+<author pid="54/1503">L. Ridgway Scott</author>
+<title>A stochastic performance model for pipelined Krylov methods.</title>
+<pages>4532-4542</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.3820</ee>
+<url>db/journals/concurrency/concurrency28.html#MorganKSS16</url>
+</article>
+</r>
+<r style="ee"><article key="journals/concurrency/LiWYZXS16" mdate="2020-03-02">
+<author pid="28/5133">Weimin Li</author>
+<author pid="13/1898-17">Bin Wang 0017</author>
+<author pid="19/6163">Jiaqi Yu</author>
+<author pid="55/6109">Chong Zhu</author>
+<author pid="189/9920">Sinuo Xiao</author>
+<author pid="39/464">Jinfang Sheng</author>
+<title>The optimization of Transparent-Desktop service mechanism based on SPICE.</title>
+<pages>4543-4556</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.3858</ee>
+<url>db/journals/concurrency/concurrency28.html#LiWYZXS16</url>
+</article>
+</r>
+</dblpcites>
+
+Erratum 
+<dblpcites><r style="ee"><article key="journals/concurrency/Niewiadomska-Szynkiewicz16" mdate="2020-03-02">
+<author orcid="0000-0003-4782-3816" pid="37/4232">Ewa Niewiadomska-Szynkiewicz</author>
+<author pid="42/1514">Andrzej Sikora</author>
+<author orcid="0000-0002-4173-3249" pid="70/1273">Piotr Arabas</author>
+<author pid="08/5515">Joanna Kolodziej</author>
+<title>Control system for reducing energy consumption in backbone computer network.</title>
+<pages>4557</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.4036</ee>
+<url>db/journals/concurrency/concurrency28.html#Niewiadomska-Szynkiewicz16</url>
+</article>
+</r>
+</dblpcites>
+
+</bht>
+

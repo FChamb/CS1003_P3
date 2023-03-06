@@ -1,0 +1,1041 @@
+<bht key="db/conf/sutc/sutc2010.bht" title="Sensor Networks, Ubiquitous, and Trustworthy Computing 2010">  
+<h1><ref href="db/conf/sutc/index.html">SUTC</ref>/UMC 2010:
+Newport Beach, California, USA</h1> <dblpcites><r><proceedings key="conf/sutc/2010" mdate="2019-10-16">
+<title>IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing, SUTC 2010 and IEEE International Workshop on Ubiquitous and Mobile Computing, UMC 2010, 7-9 June 2010, Newport Beach, California, USA</title>
+<booktitle>SUTC/UMC</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2010</year>
+<isbn>978-0-7695-4049-8</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/5504581/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/sutc/2010/4049/00/index.html</ee>
+<url>db/conf/sutc/sutc2010.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Keynote Speakers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/Bajcsy10" mdate="2017-05-23">
+<author pid="b/RuzenaBajcsy">Ruzena Bajcsy</author>
+<title>A Wireless Body Sensor Network for Different Health Related Applications.</title>
+<pages>1</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.76</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.76</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#Bajcsy10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/Kim10" mdate="2017-05-23">
+<author pid="k/KHKim">K. H. (Kane) Kim</author>
+<title>Desirable Advances in Cyber-Physical System Software Engineering.</title>
+<pages>2-4</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.70</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.70</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#Kim10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/ThuraisinghamH10" mdate="2022-06-29">
+<author pid="t/BMThuraisingham">Bhavani Thuraisingham</author>
+<author pid="60/1400">Kevin W. Hamlen</author>
+<title>Secure Semantic Sensor Web and Pervasive Computing.</title>
+<pages>5-10</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.75</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ThuraisinghamH10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>2010 IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing</h2> 
+<h3>Sensor Networks I</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/FaruqueH10" mdate="2017-05-23">
+<author pid="28/6364">Jabed Faruque</author>
+<author pid="h/AhmedHelmy">Ahmed Helmy</author>
+<title>TABS: Link Loss Tolerant Data Routing Protocol for Multi-hop Wireless Sensor Networks.</title>
+<pages>11-18</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.53</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#FaruqueH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/HasenfratzMMCT10" mdate="2017-05-23">
+<author pid="92/8298">David Hasenfratz</author>
+<author pid="11/3773-3">Andreas Meier 0003</author>
+<author pid="54/1556">Clemens Moser</author>
+<author pid="70/1961">Jian-Jia Chen</author>
+<author pid="t/LotharThiele">Lothar Thiele</author>
+<title>Analysis, Comparison, and Optimization of Routing Protocols for Energy Harvesting Wireless Sensor Networks.</title>
+<pages>19-26</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.35</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#HasenfratzMMCT10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/ShaikhKASS10" mdate="2020-10-25">
+<author pid="32/2351">Faisal Karim Shaikh</author>
+<author pid="97/5874">Abdelmajid Khelil</author>
+<author pid="08/1632">Brahim Ayari</author>
+<author pid="39/6730">Piotr Szczytowski</author>
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<title>Generic Information Transport for Wireless Sensor Networks.</title>
+<pages>27-34</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.39</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ShaikhKASS10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Data Management</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/SzczytowskiKS10" mdate="2020-10-25">
+<author pid="39/6730">Piotr Szczytowski</author>
+<author pid="97/5874">Abdelmajid Khelil</author>
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<title>ASample: Adaptive Spatial Sampling in Wireless Sensor Networks.</title>
+<pages>35-42</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.37</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#SzczytowskiKS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/ChenT10" mdate="2017-05-23">
+<author pid="95/7441">Yutian Chen</author>
+<author pid="77/5837">Bin Tang</author>
+<title>Data Caching in Ad Hoc Networks Using Game-Theoretic Analysis.</title>
+<pages>43-49</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.60</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ChenT10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/MahmudimaneshKS10" mdate="2020-10-25">
+<author pid="09/7293">Mohammadreza Mahmudimanesh</author>
+<author pid="97/5874">Abdelmajid Khelil</author>
+<author orcid="0000-0003-1688-1167" pid="s/NeerajSuri">Neeraj Suri</author>
+<title>Reordering for Better Compressibility: Efficient Spatial Sampling in Wireless Sensor Networks.</title>
+<pages>50-57</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.30</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#MahmudimaneshKS10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Trust and Security</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/DiniT10" mdate="2017-06-05">
+<author orcid="0000-0002-6029-5467" pid="01/4693">Gianluca Dini</author>
+<author pid="66/8298">Marco Tiloca</author>
+<title>Considerations on Security in ZigBee Networks.</title>
+<pages>58-65</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.15</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#DiniT10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/ButtyanCV10" mdate="2017-05-23">
+<author pid="84/3267">Levente Butty&#225;n</author>
+<author pid="15/9312">L&#225;szl&#243; Czap</author>
+<author pid="41/2998">Istv&#225;n Vajda</author>
+<title>Pollution Attack Defense for Coding Based Sensor Storage.</title>
+<pages>66-73</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.57</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.57</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ButtyanCV10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/WinklerR10" mdate="2017-05-23">
+<author pid="54/1479-2">Thomas Winkler 0002</author>
+<author pid="18/3286">Bernhard Rinner</author>
+<title>User-Based Attestation for Trustworthy Visual Sensor Networks.</title>
+<pages>74-81</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.20</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#WinklerR10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Embedded Wireless Communication</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/LiZBK10" mdate="2022-04-09">
+<author pid="22/1805">Ying Li</author>
+<author pid="52/5264">Xing Zhang</author>
+<author pid="32/431">Bridget Benson</author>
+<author orcid="0000-0001-9062-5570" pid="15/3231">Ryan Kastner</author>
+<title>Hardware Implementation of Symbol Synchronization for Underwater FSK.</title>
+<pages>82-88</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.14</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#LiZBK10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/HaghighiMVM10" mdate="2019-10-19">
+<author pid="02/4828">Mohammad Sayad Haghighi</author>
+<author pid="43/3731">Kamal Mohamedpour</author>
+<author orcid="0000-0002-3621-9114" pid="v/VijayVaradharajan">Vijay Varadharajan</author>
+<author pid="81/8297">Alireza Mohammadi-Nodooshan</author>
+<title>Overhearing Gain Analysis in Low-Traffic CDMA Wireless Sensor Networks.</title>
+<pages>89-94</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.18</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#HaghighiMVM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/TongBLK10" mdate="2022-04-09">
+<author pid="21/1869">Feng Tong</author>
+<author pid="32/431">Bridget Benson</author>
+<author pid="22/1805">Ying Li</author>
+<author orcid="0000-0001-9062-5570" pid="15/3231">Ryan Kastner</author>
+<title>Channel Equalization Based on Data Reuse LMS Algorithm for Shallow Water Acoustic Communication.</title>
+<pages>95-98</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.45</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#TongBLK10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Invited Papers:
+Pervasive Services and Data Management</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/TrajcevskiGS10" mdate="2017-05-23">
+<author pid="66/974">Goce Trajcevski</author>
+<author pid="14/1982">Oliviu Ghica</author>
+<author pid="s/PeterScheuermann">Peter Scheuermann</author>
+<title>Tracking-Based Trajectory Data Reduction in Wireless Sensor Networks.</title>
+<pages>99-106</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.51</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#TrajcevskiGS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/JeungSPSADPL10" mdate="2022-10-02">
+<author pid="39/2670">Hoyoung Jeung</author>
+<author pid="74/3560">Sofiane Sarni</author>
+<author pid="66/8909">Ioannis K. Paparrizos</author>
+<author pid="55/1967">Saket Sathe 0001</author>
+<author pid="a/KarlAberer">Karl Aberer</author>
+<author pid="90/1842">Nicholas Dawes</author>
+<author orcid="0000-0002-0264-4577" pid="80/50">Thanasis G. Papaioannou</author>
+<author orcid="0000-0002-8442-0875" pid="01/3467">Michael Lehning</author>
+<title>Effective Metadata Management in Federated Sensor Networks.</title>
+<pages>107-114</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.29</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#JeungSPSADPL10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/HaraHN10" mdate="2017-05-23">
+<author pid="40/2808">Takahiro Hara</author>
+<author pid="34/7752">Ryo Hagihara</author>
+<author pid="n/ShojiroNishio">Shojiro Nishio</author>
+<title>Data Replication for Top-k Query Processing in Mobile Wireless Sensor Networks.</title>
+<pages>115-122</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.25</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#HaraHN10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/HandteIAWM10" mdate="2017-05-23">
+<author pid="35/3498">Marcus Handte</author>
+<author pid="50/8196">Muhammad Umer Iqbal</author>
+<author pid="64/8297">Wolfgang Apolinarski</author>
+<author pid="19/3143-1">Stephan Wagner 0001</author>
+<author pid="65/3060">Pedro Jos&#233; Marr&#243;n</author>
+<title>The NARF Architecture for Generic Personal Context Recognition.</title>
+<pages>123-130</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.40</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.40</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#HandteIAWM10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Sensor Networks II</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/PauwVVTO10" mdate="2017-06-05">
+<author pid="61/8297">Tim De Pauw</author>
+<author pid="34/1717">Stijn Verstichel</author>
+<author orcid="0000-0003-0575-5894" pid="56/3545">Bruno Volckaert</author>
+<author pid="30/888">Filip De Turck</author>
+<author pid="78/8297">Veerle Ongenae</author>
+<title>Resource-Aware Scheduling of Distributed Ontological Reasoning Tasks in Wireless Sensor Networks.</title>
+<pages>131-137</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.10</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#PauwVVTO10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/ReinkeHNGWL10" mdate="2017-06-05">
+<author pid="12/2831">Christoph Reinke</author>
+<author pid="97/2717">Nils Hoeller</author>
+<author pid="59/153">Jana Neumann</author>
+<author orcid="0000-0001-5196-1117" pid="g/SvenGroppe">Sven Groppe</author>
+<author pid="01/8298">Simon Werner</author>
+<author pid="l/VLinnemann">Volker Linnemann</author>
+<title>Analysis and Comparison of Atomic Commit Protocols for Adaptive Usage in Wireless Sensor Networks.</title>
+<pages>138-145</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.12</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ReinkeHNGWL10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/SaitoTS10" mdate="2020-10-25">
+<author pid="03/6716">Hiroshi Saito</author>
+<author pid="90/8298">Sadaharu Tanaka</author>
+<author orcid="0000-0001-5112-4933" pid="98/2475">Shigeo Shioda</author>
+<title>Estimating Parameters of Non-convex Target Object Using Networked Binary Sensors.</title>
+<pages>146-154</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.19</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#SaitoTS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/VyasLT10" mdate="2017-05-23">
+<author pid="74/8297">Rushi Vyas</author>
+<author pid="19/8299">Vasileios Lakafosis</author>
+<author pid="86/2610">Manos M. Tentzeris</author>
+<title>Enabling Localization in WSNs with Solar-Powered End Devices.</title>
+<pages>155-160</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.52</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.52</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#VyasLT10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Invited Papers:
+Ubiquitous Computing</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/NakazawaYAITT10" mdate="2017-05-23">
+<author pid="78/1157">Jin Nakazawa</author>
+<author pid="05/3996">Jun'ichi Yura</author>
+<author pid="78/901">Soko Aoki</author>
+<author pid="61/4823">Masaki Ito</author>
+<author pid="15/1455">Kazunori Takashio</author>
+<author pid="41/679">Hideyuki Tokuda</author>
+<title>A Description Language for Universal Understandings of Heterogeneous Services in Pervasive Computing.</title>
+<pages>161-168</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.68</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.68</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#NakazawaYAITT10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/Amft10" mdate="2017-06-15">
+<author orcid="0000-0001-6811-3659" pid="02/4953">Oliver Amft</author>
+<title>Adaptive Activity Spotting Based on Event Rates.</title>
+<pages>169-176</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.63</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#Amft10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/WatzdorfM10" mdate="2017-05-23">
+<author pid="50/7371">Stephan von Watzdorf</author>
+<author pid="m/FlorianMichahelles">Florian Michahelles</author>
+<title>Improving the Design of Track and Trace Products: Evidence from a Field Study on Pet Tracking Devices.</title>
+<pages>177-180</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.69</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#WatzdorfM10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Sensor Networks III</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/SalmaniC10" mdate="2017-05-23">
+<author pid="s/VahidSalmani">Vahid Salmani</author>
+<author pid="17/1272">Pai H. Chou</author>
+<title>Pushing the Throughput Limit of Low-Complexity Wireless Embedded Sensing Systems.</title>
+<pages>181-188</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.31</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#SalmaniC10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/GerwenPLMD10" mdate="2020-06-15">
+<author pid="84/8298">Jono Vanhie-Van Gerwen</author>
+<author pid="34/1837">Eli De Poorter</author>
+<author pid="29/5852">Beno&#238;t Latr&#233;</author>
+<author orcid="0000-0003-2377-3674" pid="77/5355">Ingrid Moerman</author>
+<author pid="d/PietDemeester">Piet Demeester</author>
+<title>Real-Life Performance of Protocol Combinations for Wireless Sensor Networks.</title>
+<pages>189-196</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.49</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#GerwenPLMD10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/HinerSLLG10" mdate="2017-05-23">
+<author pid="56/8298">Jeff Hiner</author>
+<author pid="29/8299">Ashish Shenoy</author>
+<author pid="44/1428">Roman L. Lysecky</author>
+<author pid="62/1809">Susan Lysecky</author>
+<author pid="47/5909">Ann Gordon-Ross</author>
+<title>Transaction-Level Modeling for Sensor Networks Using SystemC.</title>
+<pages>197-204</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.16</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#HinerSLLG10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Invited Papers:
+Sensor Networks and Cyber-Physical Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/HuangCKK10" mdate="2022-10-06">
+<author pid="67/1141">Pai-Han Huang</author>
+<author pid="21/5521">Ying Chen</author>
+<author pid="87/2250">Bhaskar Krishnamachari</author>
+<author pid="89/7912">V. S. Anil Kumar 0001</author>
+<title>Link Scheduling in a Single Broadcast Domain Underwater Networks.</title>
+<pages>205-212</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.62</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#HuangCKK10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/AhmadiAK10" mdate="2017-05-23">
+<author pid="82/7028">Hossein Ahmadi</author>
+<author pid="a/TarekFAbdelzaher">Tarek F. Abdelzaher</author>
+<author pid="60/3388">Robin Kravets</author>
+<title>Adaptive Multi-metric Routing in Distressed Mobile Sensing Networks.</title>
+<pages>213-220</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.55</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#AhmadiAK10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/PhamAN10" mdate="2022-10-02">
+<author pid="11/3070">Nam Pham</author>
+<author pid="a/TarekFAbdelzaher">Tarek F. Abdelzaher</author>
+<author orcid="0000-0001-7813-9756" pid="85/6293">Suman Nath</author>
+<title>On Bounding Data Stream Privacy in Distributed Cyber-physical Systems.</title>
+<pages>221-228</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.74</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#PhamAN10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Pervasive Services</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/GlombitzaMRFP10" mdate="2021-10-14">
+<author pid="84/1265">Nils Glombitza</author>
+<author pid="05/8299">Richard Mietz</author>
+<author orcid="0000-0002-4248-4424" pid="r/KayRomer">Kay R&#246;mer</author>
+<author pid="f/StefanFischer">Stefan Fischer 0001</author>
+<author pid="15/4958">Dennis Pfisterer</author>
+<title>Self-Description and Protocol Conversion for a Web of Things.</title>
+<pages>229-236</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.13</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#GlombitzaMRFP10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/EvdokimovFKS10" mdate="2018-12-18">
+<author pid="25/313-2">Sergei Evdokimov 0002</author>
+<author orcid="0000-0002-9585-1814" pid="68/261">Benjamin Fabian</author>
+<author pid="84/7870">Steffen Kunz</author>
+<author pid="94/5493">Nina Sch&#246;nemann</author>
+<title>Comparison of Discovery Service Architectures for the Internet of Things.</title>
+<pages>237-244</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.22</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#EvdokimovFKS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/BagciWSU10" mdate="2017-05-23">
+<author pid="02/4364">Faruk Bagci</author>
+<author pid="66/7497">Julian Wolf</author>
+<author pid="27/1529">Benjamin Satzger</author>
+<author pid="u/TheoUngerer">Theo Ungerer</author>
+<title>UbiMASS.</title>
+<pages>245-252</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.38</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#BagciWSU10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Sensor Networks IV</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/TroubleynPRMD10" mdate="2020-06-15">
+<author pid="38/8298">Evy Troubleyn</author>
+<author pid="34/1837">Eli De Poorter</author>
+<author pid="16/8299">Peter Ruckebusch</author>
+<author orcid="0000-0003-2377-3674" pid="77/5355">Ingrid Moerman</author>
+<author pid="d/PietDemeester">Piet Demeester</author>
+<title>Supporting Protocol-Independent Adaptive QoS in Wireless Sensor Networks.</title>
+<pages>253-260</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.34</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#TroubleynPRMD10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/BudhwaniSN10" mdate="2017-05-23">
+<author pid="23/8299">Sultan Budhwani</author>
+<author pid="32/5962">Mahasweta Sarkar</author>
+<author pid="82/2923">Santosh Nagaraj</author>
+<title>A MAC Layer Protocol for Sensor Networks Using Directional Antennas.</title>
+<pages>261-267</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.11</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#BudhwaniSN10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/BoydBDM10" mdate="2020-10-25">
+<author pid="57/8300">Alan W. F. Boyd</author>
+<author orcid="0000-0002-5093-0906" pid="03/427">Dharini Balasubramaniam</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>On the Selection of Connectivity-Based Metrics for WSNs Using a Classification of Application Behaviour.</title>
+<pages>268-275</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.44</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#BoydBDM10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Cyber-Physical Systems</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/LyonsNH10" mdate="2017-05-23">
+<author pid="14/3156">Daniel Lyons</author>
+<author pid="08/8298">Benjamin Noack</author>
+<author pid="h/UDHanebeck">Uwe D. Hanebeck</author>
+<title>A Log-Ratio Information Measure for Stochastic Sensor Management.</title>
+<pages>276-283</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.48</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#LyonsNH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/RashidB10" mdate="2017-05-23">
+<author pid="51/5055">Md. Jayedur Rashid</author>
+<author pid="32/5642">Mathias Broxvall</author>
+<title>Indirect Reference: Reconfiguring Distributed Sensors and Actuators.</title>
+<pages>284-290</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.41</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#RashidB10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/KimZE10" mdate="2019-12-05">
+<author pid="92/7139">Jonghoek Kim</author>
+<author orcid="0000-0003-0053-4224" pid="34/5598-1">Fumin Zhang 0001</author>
+<author pid="e/MagnusEgerstedt">Magnus Egerstedt</author>
+<title>Battery Level Estimation of Mobile Agents under Communication Constraints.</title>
+<pages>291-295</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.54</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#KimZE10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Sensor Networks V</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/KominamiSMHM10" mdate="2022-12-30">
+<author pid="97/8298">Daichi Kominami</author>
+<author orcid="0000-0002-9044-0055" pid="51/496">Masashi Sugano</author>
+<author orcid="0000-0002-4168-2875" pid="99/4092-1">Masayuki Murata 0001</author>
+<author pid="15/640">Takaaki Hatauchi</author>
+<author pid="77/8297">Junichi Machida</author>
+<title>Energy Saving in Intermittent Receiver-Driven Multi-hop Wireless Sensor Networks.</title>
+<pages>296-303</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.28</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.28</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#KominamiSMHM10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/YangG10" mdate="2017-05-23">
+<author pid="74/1008">Sungwon Yang</author>
+<author pid="g/MarioGerla">Mario Gerla</author>
+<title>Energy-Efficient Accelerometer Data Transfer for Human Body Movement Studies.</title>
+<pages>304-311</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.56</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#YangG10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/KhemapechDM10" mdate="2019-10-19">
+<author pid="25/8298">Ittipong Khemapech</author>
+<author orcid="0000-0001-7297-9199" pid="76/2340">Ishbel Duncan</author>
+<author pid="12/652">Alan Miller</author>
+<title>Energy Preservation in Environmental Monitoring WSN.</title>
+<pages>312-319</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.46</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#KhemapechDM10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>2010 IEEE International Workshop on Ubiquitous and Mobile Computing</h2> 
+<h3>Smart Space and u-Healthcare</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/LeeKHK10" mdate="2021-04-09">
+<author pid="53/2649">Myungjin Lee</author>
+<author pid="72/4634">Kyungmin Kim</author>
+<author pid="86/4384">Sharly Joana Halder</author>
+<author orcid="0000-0001-5828-178X" pid="14/3712">Wooju Kim</author>
+<title>Framework of Semantic Web Services for Ubiquitous City Management Center.</title>
+<pages>320-326</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.21</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#LeeKHK10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/LimOCL10" mdate="2019-09-25">
+<author pid="84/5421">Shinyoung Lim</author>
+<author pid="83/850">Tae Hwan Oh</author>
+<author pid="53/5121">Young B. Choi</author>
+<author orcid="0000-0003-4523-9376" pid="63/662">Lakshman Tamil</author>
+<title>Security Issues on Wireless Body Area Network for Remote Healthcare Monitoring.</title>
+<pages>327-332</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.61</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#LimOCL10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/JoBLC10" mdate="2017-05-23">
+<author pid="67/8297">Kyunam Jo</author>
+<author pid="12/8298">Changgyu Bak</author>
+<author pid="40/3016">Jung-Won Lee</author>
+<author pid="29/2993">We-Duke Cho</author>
+<title>Service-Oriented Actuator for Ubiquitous Smart Space.</title>
+<pages>333-339</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.17</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#JoBLC10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Ubiquitous Computing Applications I</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/FujiwaraW10" mdate="2020-10-25">
+<author pid="60/5146">Takahiro Fujiwara</author>
+<author orcid="0000-0002-3227-9048" pid="64/6874">Takashi Watanabe</author>
+<title>Bidirectional Communications for Damage Monitoring Using Sensor Networks in Emergency Conditions.</title>
+<pages>340-346</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.42</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#FujiwaraW10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/OudomBKHCH10" mdate="2017-05-23">
+<author pid="24/7957">Keo Oudom</author>
+<author pid="83/7954">Sangwook Bae</author>
+<author pid="09/8299">Hyunsook Kim</author>
+<author pid="05/58">Sunyoung Han</author>
+<author pid="29/2423">Chun-Hyon Chang</author>
+<author pid="25/6540">Young-Guk Ha</author>
+<title>Vehicle Movement Tracking Using Online Map with Real-Time Live Video in 3G Network.</title>
+<pages>347-352</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.24</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.24</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#OudomBKHCH10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/YooKP10" mdate="2017-05-23">
+<author pid="21/3950">Jae-Bong Yoo</author>
+<author pid="08/427">Jihie Kim</author>
+<author pid="87/3049">Chan-Young Park</author>
+<title>Road Reservation for Fast and Safe Emergency Vehicle Response Using Ubiquitous Sensor Network.</title>
+<pages>353-358</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.67</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#YooKP10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Ubiquitous Computing Applications II</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/Rashid10" mdate="2017-05-23">
+<author pid="11/8298">Jayedur Rashid</author>
+<title>Towards the Development of an Ubiquitous Networked Robot Systems for Ambient Assisted Living.</title>
+<pages>359-366</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.27</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#Rashid10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/LeeGHL10" mdate="2023-02-08">
+<author pid="238/9046">Sangkeun Lee 0001</author>
+<author pid="93/8097">Gihyun Gong</author>
+<author pid="47/8298">Inbeom Hwang</author>
+<author pid="67/5511">Sang-goo Lee</author>
+<title>LifeLogOn: A Practical Lifelog System for Building and Exploiting Lifelog Ontology.</title>
+<pages>367-373</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.33</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#LeeGHL10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/ParkLC10" mdate="2017-05-23">
+<author pid="20/8299">Arum Park</author>
+<author pid="78/4299">Kyoung Jun Lee</author>
+<author pid="65/2133">Federico Casalegno</author>
+<title>The Three Dimensions of Book Evolution in Ubiquitous Computing Age: Digitalization, Augmentation, and Hypermediation.</title>
+<pages>374-378</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.50</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.50</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ParkLC10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Wireless Sensor Networks</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/SeongLYY10" mdate="2017-05-23">
+<author pid="41/7539">Dongook Seong</author>
+<author pid="14/9921">Jihee Lee</author>
+<author pid="31/7117">Myungho Yeo</author>
+<author pid="26/6191">Jaesoo Yoo</author>
+<title>An Energy Efficient Data-Centric Probing Priority Determination Method for Mobile Sinks in Wireless Sensor Networks.</title>
+<pages>379-383</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.58</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.58</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#SeongLYY10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/ParkHSKC10" mdate="2017-05-23">
+<author pid="42/2097">Jin Kyung Park</author>
+<author pid="54/5502">Jun Ha</author>
+<author pid="22/8299">Heewon Seo</author>
+<author pid="63/6718">Joonmo Kim</author>
+<author pid="76/6351">Cheon Won Choi</author>
+<title>Stability of Game-Theoretic Energy-Aware MAC Scheme for Wireless Sensor Networks.</title>
+<pages>384-389</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.23</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ParkHSKC10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/KimKHL10" mdate="2017-05-23">
+<author pid="74/4773">Jonguk Kim</author>
+<author pid="79/8298">Sukin Kang</author>
+<author pid="39/5969">Manpyo Hong</author>
+<author pid="73/8297">Seong-uck Lee</author>
+<title>EDGAR: Extended Dynamic Group-Key AgReement.</title>
+<pages>390-395</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.32</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#KimKHL10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Mobile and Wireless Networks</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/LeeLL10" mdate="2017-05-23">
+<author pid="67/8298">Sunghun Lee</author>
+<author pid="47/3213">Hyukjoon Lee</author>
+<author pid="40/3100">Hyungkeun Lee</author>
+<title>A Cross Layer Routing Metric to Recognize Traffic Interference in Wireless Mesh Networks.</title>
+<pages>396-401</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.65</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#LeeLL10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/ParkLK10" mdate="2017-05-23">
+<author pid="35/7753">Inhye Park</author>
+<author pid="40/3100">Hyungkeun Lee</author>
+<author pid="81/6422">Taekon Kim</author>
+<title>The Performance Analysis of Hybrid ARQ-II for Cooperative Communication over Wireless Channels.</title>
+<pages>402-407</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.66</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ParkLK10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/KimKK10" mdate="2020-11-30">
+<author pid="53/8298">Yonghyuck Kim</author>
+<author pid="93/524-2">Younghan Kim 0002</author>
+<author pid="95/4571">Namhi Kang</author>
+<title>Multimedia Push-to-Talk Service over Wireless Mesh Networks.</title>
+<pages>408-412</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.43</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.43</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#KimKK10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Ubiquitous Data Management I</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/XuLWWS10" mdate="2022-12-07">
+<author pid="86/6484">ChengZhi Xu</author>
+<author orcid="0000-0002-2056-5346" pid="57/3505-1">Peng Liang 0001</author>
+<author pid="85/6966">Taehyung (George) Wang</author>
+<author pid="19/1924">Qi Wang</author>
+<author orcid="0000-0003-2036-850X" pid="s/PCYSheu">Phillip C.-Y. Sheu</author>
+<title>Semantic Web Services Annotation and Composition Based on ER Model.</title>
+<pages>413-420</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.73</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.73</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#XuLWWS10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/GutierrezKVW10" mdate="2017-05-23">
+<author pid="55/8297">Christopher N. Gutierrez</author>
+<author pid="78/8298">Gautam Kakani</author>
+<author pid="30/8298">Ramesh C. Verma</author>
+<author pid="85/6966">Taehyung (George) Wang</author>
+<title>Digital Watermarking of Medical Images for Mobile Devices.</title>
+<pages>421-425</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.47</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#GutierrezKVW10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/AhnN10" mdate="2017-05-23">
+<author pid="18/5195">Chulbum Ahn</author>
+<author pid="25/3339">Yunmook Nah</author>
+<title>Design of Location-Based Web Service Framework for Context-Aware Applications in Ubiquitous Environments.</title>
+<pages>426-433</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.26</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#AhnN10</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h3>Ubiquitous Data Management II</h3> 
+<dblpcites><r style="ee"><inproceedings key="conf/sutc/ParkSLLKBRY10" mdate="2017-05-23">
+<author pid="71/8297">Yonghun Park</author>
+<author pid="93/7115">Dongmin Seo</author>
+<author pid="23/5144">Jongtae Lim</author>
+<author pid="95/8297">Jinju Lee</author>
+<author pid="59/8297">Mikyoung Kim</author>
+<author pid="15/8298">Weiwei Bao</author>
+<author pid="94/8297">Christopher T. Ryu</author>
+<author pid="26/6191">Jaesoo Yoo</author>
+<title>A New Spatial Index Structure for Efficient Query Processing in Location Based Services.</title>
+<pages>434-441</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.64</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.64</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ParkSLLKBRY10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/ParkSLN10" mdate="2017-05-23">
+<author pid="89/8298">Taejoo Park</author>
+<author pid="98/8297">Junghoon Shin</author>
+<author pid="91/5525">Sangjun Lee</author>
+<author pid="25/3339">Yunmook Nah</author>
+<title>Design and Implementation of Adaptive Rendering Engine for Large Scale 3D-Terrain Data.</title>
+<pages>442-447</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.36</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#ParkSLN10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/JangY10" mdate="2017-05-23">
+<author pid="71/3664">Su Min Jang</author>
+<author pid="26/6191">Jae-Soo Yoo</author>
+<title>An Efficient Method for Personalized Searching on Large Scale Data.</title>
+<pages>448-451</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.59</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#JangY10</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sutc/X10" mdate="2017-05-23">
+<title>Author Index.</title>
+<pages>452-455</pages>
+<year>2010</year>
+<booktitle>SUTC/UMC</booktitle>
+<ee>https://doi.org/10.1109/SUTC.2010.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SUTC.2010.71</ee>
+<crossref>conf/sutc/2010</crossref>
+<url>db/conf/sutc/sutc2010.html#X10</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,238 @@
+<bht key="db/journals/jair/jair46.bht" title="Journal of Artificial Intelligence Research, Volume 46"> 
+<h1><ref href="db/journals/jair/index.html">Journal of Artificial Intelligence Research</ref>, Volume 46</h1> 
+<h2>Volume 46, January 2013</h2> 
+<dblpcites><r style="ee"><article key="journals/jair/NightingaleGJM13" mdate="2020-03-27">
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<title>Short and Long Supports for Constraint Propagation.</title>
+<pages>1-45</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3749</ee>
+<url>db/journals/jair/jair46.html#NightingaleGJM13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/HuangK13" mdate="2019-01-21">
+<author pid="16/3126">Eric Huang</author>
+<author pid="18/2128">Richard E. Korf</author>
+<title>Optimal Rectangle Packing: An Absolute Placement Approach.</title>
+<pages>47-87</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3735</ee>
+<url>db/journals/jair/jair46.html#HuangK13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/SauperB13" mdate="2019-01-21">
+<author pid="51/9012">Christina Sauper</author>
+<author pid="b/ReginaBarzilay">Regina Barzilay</author>
+<title>Automatic Aggregation by Joint Modeling of Aspects and Values.</title>
+<pages>89-127</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3647</ee>
+<url>db/journals/jair/jair46.html#SauperB13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/GuoMAC13" mdate="2019-01-21">
+<author pid="62/5599">Mingyu Guo</author>
+<author pid="m/EvangelosMarkakis">Evangelos Markakis</author>
+<author pid="a/KRApt">Krzysztof R. Apt</author>
+<author pid="c/VincentConitzer">Vincent Conitzer</author>
+<title>Undominated Groves Mechanisms.</title>
+<pages>129-163</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3810</ee>
+<url>db/journals/jair/jair46.html#GuoMAC13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/QazvinianRMDZWM13" mdate="2022-05-03">
+<author pid="38/5620">Vahed Qazvinian</author>
+<author pid="r/DragomirRRadev">Dragomir R. Radev</author>
+<author pid="58/380">Saif M. Mohammad</author>
+<author pid="d/BonnieJDorr">Bonnie J. Dorr</author>
+<author pid="72/3638">David M. Zajic</author>
+<author pid="142/2910">Michael Whidby</author>
+<author pid="10/8160">Taesun Moon</author>
+<title>Generating Extractive Summaries of Scientific Paradigms.</title>
+<pages>165-201</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3732</ee>
+<url>db/journals/jair/jair46.html#QazvinianRMDZWM13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/ZhaoZK13" mdate="2022-10-02">
+<author pid="25/1145">Hai Zhao</author>
+<author pid="125/2864">Xiaotian Zhang</author>
+<author orcid="0000-0002-6445-7400" pid="48/3888">Chunyu Kit</author>
+<title>Integrative Semantic Dependency Parsing via Efficient Large-scale Feature Selection.</title>
+<pages>203-233</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3717</ee>
+<url>db/journals/jair/jair46.html#ZhaoZK13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/GoernitzKRB13" mdate="2019-01-21">
+<author pid="93/7251">Nico G&#246;rnitz</author>
+<author pid="73/2217">Marius Kloft</author>
+<author pid="64/4020">Konrad Rieck</author>
+<author pid="99/122">Ulf Brefeld</author>
+<title>Toward Supervised Anomaly Detection.</title>
+<pages>235-262</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3623</ee>
+<url>db/journals/jair/jair46.html#GoernitzKRB13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/OrdyniakS13" mdate="2022-04-09">
+<author orcid="0000-0003-1935-651X" pid="88/3220">Sebastian Ordyniak</author>
+<author pid="s/StefanSzeider">Stefan Szeider</author>
+<title>Parameterized Complexity Results for Exact Bayesian Network Structure Learning.</title>
+<pages>263-302</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3744</ee>
+<url>db/journals/jair/jair46.html#OrdyniakS13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/AMCS13" mdate="2019-01-21">
+<author pid="04/9507">Amit Metodi</author>
+<author pid="c/MCodish">Michael Codish</author>
+<author pid="s/PeterJStuckey">Peter J. Stuckey</author>
+<title>Boolean Equi-propagation for Concise and Efficient SAT Encodings of Combinatorial Problems.</title>
+<pages>303-341</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3809</ee>
+<url>db/journals/jair/jair46.html#AMCS13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/ColesCFL13" mdate="2021-11-02">
+<author orcid="0000-0002-1838-8301" pid="05/5393">Amanda Jane Coles</author>
+<author pid="66/6335">Andrew Coles</author>
+<author pid="35/2895">Maria Fox 0001</author>
+<author orcid="0000-0002-5720-9265" pid="54/3768">Derek Long</author>
+<title>A Hybrid LP-RPG Heuristic for Modelling Numeric Resource Flows in Planning.</title>
+<pages>343-412</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3788</ee>
+<url>db/journals/jair/jair46.html#ColesCFL13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/SnookeL13" mdate="2019-01-21">
+<author pid="85/6730">Neal Andrew Snooke</author>
+<author pid="26/3061">Mark H. Lee</author>
+<title>Qualitative Order of Magnitude Energy-Flow-Based Failure Modes and Effects Analysis.</title>
+<pages>413-447</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3898</ee>
+<url>db/journals/jair/jair46.html#SnookeL13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/OliehoekSAW13" mdate="2022-10-02">
+<author orcid="0000-0003-4372-5055" pid="82/2420">Frans A. Oliehoek</author>
+<author pid="27/6431">Matthijs T. J. Spaan</author>
+<author orcid="0000-0002-6786-7384" pid="10/3254">Christopher Amato</author>
+<author pid="42/2548">Shimon Whiteson</author>
+<title>Incremental Clustering and Expansion for Faster Optimal Planning in Dec-POMDPs.</title>
+<pages>449-509</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3804</ee>
+<url>db/journals/jair/jair46.html#OliehoekSAW13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/OnoWB13" mdate="2019-01-21">
+<author pid="70/753">Masahiro Ono</author>
+<author pid="33/2153-1">Brian C. Williams</author>
+<author pid="91/4266">Lars Blackmore</author>
+<title>Probabilistic Planning for Continuous Dynamic Systems under Bounded Risk.</title>
+<pages>511-577</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3893</ee>
+<url>db/journals/jair/jair46.html#OnoWB13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/WolpertB13" mdate="2019-01-21">
+<author pid="w/DavidWolpert">David H. Wolpert</author>
+<author pid="59/7975">James W. Bono</author>
+<title>Predicting Behavior in Unstructured Bargaining with a Probability Distribution.</title>
+<pages>579-605</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3662</ee>
+<url>db/journals/jair/jair46.html#WolpertB13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/MichalakASRJ13" mdate="2021-10-14">
+<author orcid="0000-0002-5288-0324" pid="69/391">Tomasz P. Michalak</author>
+<author pid="142/0338">Aadithya V. Karthik</author>
+<author pid="118/4017">Piotr L. Szczepanski</author>
+<author orcid="0000-0002-5364-7639" pid="69/2281">Balaraman Ravindran</author>
+<author orcid="0000-0003-0166-248X" pid="j/NicholasRJennings">Nicholas R. Jennings</author>
+<title>Efficient Computation of the Shapley Value for Game-Theoretic Network Centrality.</title>
+<pages>607-650</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3806</ee>
+<url>db/journals/jair/jair46.html#MichalakASRJ13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/HaririCMGMF13" mdate="2019-01-21">
+<author pid="94/3565">Babak Bagheri Hariri</author>
+<author orcid="0000-0001-5174-9693" pid="c/DiegoCalvanese">Diego Calvanese</author>
+<author orcid="0000-0002-8021-3430" pid="85/1455">Marco Montali</author>
+<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+<author orcid="0000-0003-2540-7395" pid="90/7560">Riccardo De Masellis</author>
+<author orcid="0000-0001-9561-8775" pid="44/8399">Paolo Felli</author>
+<title>Description Logic Knowledge and Action Bases.</title>
+<pages>651-686</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3826</ee>
+<ee>https://www.wikidata.org/entity/Q58185303</ee>
+<url>db/journals/jair/jair46.html#HaririCMGMF13</url>
+</article>
+</r>
+<r style="ee"><article key="journals/jair/CaiSLS13" mdate="2021-10-14">
+<author orcid="0000-0003-1730-6922" pid="45/8399">Shaowei Cai</author>
+<author orcid="0000-0001-6741-9699" pid="80/5001">Kaile Su</author>
+<author pid="98/10657">Chuan Luo</author>
+<author orcid="0000-0002-2567-2052" pid="s/AbdulSattar">Abdul Sattar 0001</author>
+<title>NuMVC: An Efficient Local Search Algorithm for Minimum Vertex Cover.</title>
+<pages>687-716</pages>
+<year>2013</year>
+<volume>46</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3907</ee>
+<url>db/journals/jair/jair46.html#CaiSLS13</url>
+</article>
+</r>
+</dblpcites>
+</bht>
+

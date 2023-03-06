@@ -1,0 +1,3632 @@
+<bht key="db/conf/ecai/ecai2014.bht" title="ECAI 2014">  
+<h1>21st <ref href="db/conf/ecai/index.html">ECAI</ref> 2014:
+Prague, Czech Republic</h1><dblpcites><r><proceedings key="conf/ecai/2014" mdate="2014-09-11">
+<editor pid="s/TorstenSchaub">Torsten Schaub</editor>
+<editor pid="47/1985">Gerhard Friedrich</editor>
+<editor pid="o/BarryOSullivan">Barry O'Sullivan</editor>
+<title>ECAI 2014 - 21st European Conference on Artificial Intelligence, 18-22 August 2014, Prague, Czech Republic - Including Prestigious Applications of Intelligent Systems (PAIS 2014)</title>
+<publisher>IOS Press</publisher>
+<year>2014</year>
+<series href="db/series/faia/index.html">Frontiers in Artificial Intelligence and Applications</series>
+<volume>263</volume>
+<isbn>978-1-61499-418-3</isbn>
+<isbn>978-1-61499-419-0</isbn>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2014.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/AkgunGJMN14" mdate="2017-09-16">
+<author orcid="0000-0001-9519-938X" pid="35/9923">Ozgur Akgun</author>
+<author pid="30/3076">Ian P. Gent</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6930-2686" pid="17/2612">Ian Miguel</author>
+<author orcid="0000-0002-5052-8634" pid="n/PeterNightingale">Peter Nightingale</author>
+<title>Breaking Conditional Symmetry in Automated Constraint Modelling with CONJURE.</title>
+<pages>3-8</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-3</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#AkgunGJMN14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/AlechinaLNR14" mdate="2021-12-08">
+<author pid="a/NatashaAlechina">Natasha Alechina</author>
+<author pid="81/6813">Brian Logan 0001</author>
+<author pid="21/2630">Hoang Nga Nguyen</author>
+<author pid="58/461">Franco Raimondi</author>
+<title>Decidable Model-Checking for a Resource Logic with Production of Resources.</title>
+<pages>9-14</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-9</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#AlechinaLNR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/AtenciaDE14" mdate="2017-05-24">
+<author pid="75/6696">Manuel Atencia</author>
+<author pid="10/4191">J&#233;r&#244;me David</author>
+<author pid="85/192">J&#233;r&#244;me Euzenat</author>
+<title>Data interlinking through robust linkkey extraction.</title>
+<pages>15-20</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-15</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#AtenciaDE14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/AttamahDGH14" mdate="2017-06-15">
+<author pid="150/5889">Maduka Attamah</author>
+<author pid="v/HansPvanDitmarsch">Hans van Ditmarsch</author>
+<author orcid="0000-0002-9709-030X" pid="21/782">Davide Grossi</author>
+<author pid="h/WiebevanderHoek">Wiebe van der Hoek</author>
+<title>Knowledge and Gossip.</title>
+<pages>21-26</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-21</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#AttamahDGH14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BaarslagDHJ14" mdate="2018-11-02">
+<author orcid="0000-0002-1662-3910" pid="53/10460">Tim Baarslag</author>
+<author pid="137/1270">Alexander Dirkzwager</author>
+<author orcid="0000-0002-5707-5236" pid="67/2212">Koen V. Hindriks</author>
+<author pid="41/631">Catholijn M. Jonker</author>
+<title>The Significance of Bidding, Accepting and Opponent Modeling in Automated Negotiation.</title>
+<pages>27-32</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-27</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BaarslagDHJ14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Backstrom14" mdate="2017-05-24">
+<author pid="b/CBackstrom">Christer B&#228;ckstr&#246;m</author>
+<title>Parameterising the Complexity of Planning by the Number of Paths in the Domain-transition Graphs.</title>
+<pages>33-38</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-33</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Backstrom14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BagetGMR14" mdate="2017-05-24">
+<author pid="20/6834">Jean-Fran&#231;ois Baget</author>
+<author pid="146/0721">Fabien Garreau</author>
+<author pid="10/88">Marie-Laure Mugnier</author>
+<author pid="132/2824">Swan Rocher</author>
+<title>Extending Acyclicity Notions for Existential Rules.</title>
+<pages>39-44</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-39</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BagetGMR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BarrettAHKS14" mdate="2017-09-16">
+<author pid="39/2945">Samuel Barrett</author>
+<author pid="52/1053">Noa Agmon</author>
+<author orcid="0000-0001-9910-0762" pid="80/1237">Noam Hazon</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<author pid="s/PeterStone">Peter Stone</author>
+<title>Communicating with Unknown Teammates.</title>
+<pages>45-50</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-45</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BarrettAHKS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BartKLM14" mdate="2017-05-24">
+<author pid="150/6040">Anicet Bart</author>
+<author pid="70/4456">Fr&#233;d&#233;ric Koriche</author>
+<author pid="28/7480">Jean-Marie Lagniez</author>
+<author pid="37/6177">Pierre Marquis</author>
+<title>Symmetry-Driven Decision Diagrams for Knowledge Compilation.</title>
+<pages>51-56</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-51</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BartKLM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BastianelliCCBN14" mdate="2018-11-02">
+<author pid="126/2073">Emanuele Bastianelli</author>
+<author pid="126/2079">Giuseppe Castellucci</author>
+<author orcid="0000-0001-9111-1950" pid="38/2048">Danilo Croce</author>
+<author orcid="0000-0001-5140-0694" pid="79/2000">Roberto Basili 0001</author>
+<author orcid="0000-0001-6606-200X" pid="n/DanieleNardi">Daniele Nardi</author>
+<title>Effective and Robust Natural Language Understanding for Human-Robot Interaction.</title>
+<pages>57-62</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-57</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BastianelliCCBN14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Baumann14" mdate="2017-05-24">
+<author pid="34/8219">Ringo Baumann</author>
+<title>Context-free and Context-sensitive Kernels: Update and Deletion Equivalence in abstract Argumentation.</title>
+<pages>63-68</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-63</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Baumann14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BaumannDLSW14" mdate="2017-05-24">
+<author pid="34/8219">Ringo Baumann</author>
+<author pid="90/7375">Wolfgang Dvor&#225;k</author>
+<author pid="144/7473">Thomas Linsbichler</author>
+<author pid="52/4232">Hannes Strass</author>
+<author pid="39/6130">Stefan Woltran</author>
+<title>Compact Argumentation Frameworks.</title>
+<pages>69-74</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-69</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BaumannDLSW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BaumeisterBLN0R14" mdate="2017-05-24">
+<author pid="77/1721">Dorothea Baumeister</author>
+<author pid="90/5102">Sylvain Bouveret</author>
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<author pid="44/8473">Nhan-Tam Nguyen</author>
+<author pid="18/1411-4">Trung Thanh Nguyen 0004</author>
+<author pid="r/JorgRothe">J&#246;rg Rothe</author>
+<title>Scoring Rules for the Allocation of Indivisible Goods.</title>
+<pages>75-80</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-75</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BaumeisterBLN0R14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Belardinelli14" mdate="2019-09-25">
+<author orcid="0000-0002-7768-1794" pid="59/2916">Francesco Belardinelli</author>
+<title>Model Checking Auctions as Artifact Systems: Decidability via Finite Abstraction.</title>
+<pages>81-86</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-81</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Belardinelli14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BenabbouPV14" mdate="2022-10-02">
+<author orcid="0000-0002-4589-4162" pid="150/5993">Nawal Benabbou</author>
+<author pid="01/3393">Patrice Perny</author>
+<author orcid="0000-0002-7922-3877" pid="76/6477">Paolo Viappiani</author>
+<title>Incremental Elicitation of Choquet Capacities for Multicriteria Decision Making.</title>
+<pages>87-92</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-87</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BenabbouPV14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BenzmullerP14" mdate="2019-09-25">
+<author orcid="0000-0002-3392-3093" pid="b/CBenzmueller">Christoph Benzm&#252;ller</author>
+<author pid="64/228">Bruno Woltzenlogel Paleo</author>
+<title>Automating G&#246;del's Ontological Proof of God's Existence with Higher-order Automated Theorem Provers.</title>
+<pages>93-98</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-93</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BenzmullerP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BessiereCDLMB14" mdate="2020-10-25">
+<author pid="b/ChristianBessiere">Christian Bessiere</author>
+<author pid="37/4003">Remi Coletta</author>
+<author pid="150/5934">Abderrazak Daoudi</author>
+<author orcid="0000-0003-2524-9462" pid="17/8149">Nadjib Lazaar</author>
+<author pid="13/10661">Younes Mechqrane</author>
+<author pid="47/4507">El-Houssine Bouyakhf</author>
+<title>Boosting Constraint Acquisition via Generalization Queries.</title>
+<pages>99-104</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-99</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BessiereCDLMB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BloembergenSBTW14" mdate="2022-03-08">
+<author pid="85/10481">Daan Bloembergen</author>
+<author orcid="0000-0002-2339-5514" pid="35/10058">Bijan Ranjbar Sahraei</author>
+<author pid="50/10495">Haitham Bou-Ammar</author>
+<author orcid="0000-0001-7929-1944" pid="t/KTuyls">Karl Tuyls</author>
+<author pid="07/2055">Gerhard Weiss 0001</author>
+<title>Influencing Social Networks: An Optimal Control Study.</title>
+<pages>105-110</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-105</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BloembergenSBTW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/0001VDB14" mdate="2021-04-09">
+<author orcid="0000-0003-3460-4251" pid="06/7505-1">Bart Bogaerts 0001</author>
+<author pid="01/5707">Joost Vennekens</author>
+<author pid="d/MarcDenecker">Marc Denecker</author>
+<author orcid="0000-0003-0072-3252" pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Inference in the FO(C) Modelling Language.</title>
+<pages>111-116</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-111</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#0001VDB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BoothGKRT14" mdate="2021-04-09">
+<author pid="58/6050">Richard Booth 0001</author>
+<author pid="g/DovMGabbay">Dov M. Gabbay</author>
+<author pid="75/323">Souhila Kaci</author>
+<author pid="81/11131">Tjitze Rienstra</author>
+<author orcid="0000-0003-4330-3717" pid="t/LeendertWNvanderTorre">Leendert W. N. van der Torre</author>
+<title>Abduction and Dialogical Proof in Argumentation and Logic Programming.</title>
+<pages>117-122</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-117</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BoothGKRT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BoothFKP14" mdate="2019-12-27">
+<author pid="58/6050">Richard Booth 0001</author>
+<author orcid="0000-0002-9618-2421" pid="f/ELFerme">Eduardo L. Ferm&#233;</author>
+<author orcid="0000-0002-2590-1222" pid="36/1515">S&#233;bastien Konieczny</author>
+<author pid="96/1310">Ram&#243;n Pino P&#233;rez</author>
+<title>Credibility-Limited Improvement Operators.</title>
+<pages>123-128</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-123</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BoothFKP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Borgo14" mdate="2017-09-16">
+<author orcid="0000-0001-6001-2765" pid="64/2829">Stefano Borgo</author>
+<title>'Being a Manifold' as the Topological Primitive of Mereotopology.</title>
+<pages>129-134</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-129</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Borgo14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BounhasPR14" mdate="2017-05-24">
+<author pid="90/8163">Myriam Bounhas</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<author pid="44/1221">Gilles Richard</author>
+<title>Analogical classification: A new way to deal with examples.</title>
+<pages>135-140</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-135</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BounhasPR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BouveretL14" mdate="2017-05-24">
+<author pid="90/5102">Sylvain Bouveret</author>
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<title>Manipulating picking sequences.</title>
+<pages>141-146</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-141</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BouveretL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BrafmanS14" mdate="2019-10-19">
+<author orcid="0000-0001-8227-5646" pid="b/RonenIBrafman">Ronen I. Brafman</author>
+<author orcid="0000-0003-4131-0382" pid="77/5955">Guy Shani</author>
+<title>On The Properties of Belief Tracking for Online Contingent Planning using Regression.</title>
+<pages>147-152</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-147</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BrafmanS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BrewkaW14" mdate="2017-05-24">
+<author pid="b/GerhardBrewka">Gerhard Brewka</author>
+<author pid="39/6130">Stefan Woltran</author>
+<title>GRAPPA: A Semantical Framework for Graph-Based Argument Processing.</title>
+<pages>153-158</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-153</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BrewkaW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BrewkaEP14" mdate="2018-11-02">
+<author pid="b/GerhardBrewka">Gerhard Brewka</author>
+<author orcid="0000-0003-3882-4286" pid="118/2748">Stefan Ellmauthaler</author>
+<author pid="28/4299">J&#246;rg P&#252;hrer</author>
+<title>Multi-Context Systems for Reactive Reasoning in Dynamic Environments.</title>
+<pages>159-164</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-159</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BrewkaEP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BrocheninLM14" mdate="2017-05-24">
+<author pid="39/4952">R&#233;mi Brochenin</author>
+<author pid="l/YLierler">Yuliya Lierler</author>
+<author pid="m/MarcoMaratea">Marco Maratea</author>
+<title>Abstract Disjunctive Answer Set Solvers.</title>
+<pages>165-170</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-165</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BrocheninLM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BuehlerP14" mdate="2019-10-19">
+<author pid="117/4911">Jennifer Elisabeth Buehler</author>
+<author orcid="0000-0001-7712-6646" pid="p/MauricePagnucco">Maurice Pagnucco</author>
+<title>Planning and Execution of Robot Tasks Based on a Platform-Independent Model of Robot Capabilities.</title>
+<pages>171-176</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-171</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BuehlerP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BullingJP14" mdate="2017-05-24">
+<author pid="63/716">Nils Bulling</author>
+<author pid="09/966">Wojciech Jamroga</author>
+<author pid="49/9867">Matei Popovici</author>
+<title>ATL* With Truly Perfect Recall: Expressivity and Validities.</title>
+<pages>177-182</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-177</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BullingJP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CaillouxE14" mdate="2017-05-24">
+<author pid="59/10257">Olivier Cailloux</author>
+<author pid="e/UlrichEndriss">Ulle Endriss</author>
+<title>Eliciting a Suitable Voting Rule via Examples.</title>
+<pages>183-188</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-183</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CaillouxE14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CampeottoDFP14" mdate="2020-10-25">
+<author pid="119/6421">Federico Campeotto</author>
+<author orcid="0000-0003-2052-8593" pid="d/ADovier">Agostino Dovier</author>
+<author orcid="0000-0002-1381-6776" pid="119/6404">Ferdinando Fioretto</author>
+<author orcid="0000-0002-7753-1737" pid="p/EnricoPontelli">Enrico Pontelli</author>
+<title>A GPU Implementation of Large Neighborhood Search for Solving Constraint Optimization Problems.</title>
+<pages>189-194</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-189</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CampeottoDFP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CerexheRST14" mdate="2017-05-24">
+<author pid="18/10555">Timothy Joseph Cerexhe</author>
+<author pid="59/4677">David Rajaratnam</author>
+<author pid="99/7599">Abdallah Saffidine</author>
+<author pid="t/MichaelThielscher">Michael Thielscher</author>
+<title>A Systematic Solution to the (De-)Composition Problem in General Game Playing.</title>
+<pages>195-200</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-195</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CerexheRST14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CermakBL14" mdate="2017-06-15">
+<author pid="131/5318">Jir&#237; Cerm&#225;k</author>
+<author pid="24/5039">Branislav Bosansk&#253;</author>
+<author orcid="0000-0002-1647-1507" pid="76/5110">Viliam Lis&#253;</author>
+<title>Practical Performance of Refinements of Nash Equilibria in Extensive-Form Zero-Sum Games.</title>
+<pages>201-206</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-201</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CermakBL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CeruttiTO14" mdate="2023-01-31">
+<author orcid="0000-0003-0755-0358" pid="97/18">Federico Cerutti 0001</author>
+<author pid="71/6178">Nava Tintarev</author>
+<author pid="93/2933">Nir Oren</author>
+<title>Formal Arguments, Preferences, and Natural Language Interfaces to Humans: an Empirical Evaluation.</title>
+<pages>207-212</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-207</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CeruttiTO14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CodocedoN14" mdate="2017-05-24">
+<author pid="28/3653">V&#237;ctor Codocedo</author>
+<author pid="n/AmedeoNapoli">Amedeo Napoli</author>
+<title>Lattice-based biclustering using Partition Pattern Structures.</title>
+<pages>213-218</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-213</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CodocedoN14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ConsoleL14" mdate="2018-11-02">
+<author pid="116/1425">Marco Console</author>
+<author orcid="0000-0003-2875-6187" pid="l/MLenzerini">Maurizio Lenzerini</author>
+<title>Reducing global consistency to local consistency in Ontology-based Data Access.</title>
+<pages>219-224</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-219</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ConsoleL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CorreiaCL14" mdate="2020-08-07">
+<author orcid="0000-0002-6118-1840" pid="36/5177">Marco Correia</author>
+<author orcid="0000-0001-7835-8983" pid="18/4839">Jorge Cruz 0001</author>
+<author orcid="0000-0001-6786-7360" pid="l/JoaoAlexandreLeite">Jo&#227;o Leite 0001</author>
+<title>On the Efficient Implementation of Social Abstract Argumentation.</title>
+<pages>225-230</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-225</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CorreiaCL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CreignouPRW14" mdate="2017-05-24">
+<author pid="70/5975">Nadia Creignou</author>
+<author pid="09/6707">Odile Papini</author>
+<author pid="86/5471">Stefan R&#252;mmele</author>
+<author pid="39/6130">Stefan Woltran</author>
+<title>Belief merging within fragments of propositional logic.</title>
+<pages>231-236</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-231</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CreignouPRW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CrosbyJR14" mdate="2017-06-02">
+<author pid="83/10481">Matthew Crosby</author>
+<author orcid="0000-0002-5756-7847" pid="05/3488">Anders Jonsson</author>
+<author pid="59/1999">Michael Rovatsos</author>
+<title>A Single-Agent Approach to Multiagent Planning.</title>
+<pages>237-242</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-237</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CrosbyJR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/DerracS14" mdate="2017-06-02">
+<author pid="18/7079">Joaqu&#237;n Derrac</author>
+<author orcid="0000-0002-9256-2881" pid="29/3972">Steven Schockaert</author>
+<title>Characterising Semantic Relatedness using Interpretable Directions in Conceptual Spaces.</title>
+<pages>243-248</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-243</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#DerracS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/DistelAB14" mdate="2017-05-24">
+<author pid="77/516">Felix Distel</author>
+<author pid="98/6766">Jamal Atif</author>
+<author pid="33/1668">Isabelle Bloch</author>
+<title>Concept Dissimilarity Based on Tree Edit Distances and Morphological Dilations.</title>
+<pages>249-254</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-249</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#DistelAB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/DuHZQH14" mdate="2020-08-29">
+<author pid="33/10023">Changying Du</author>
+<author pid="74/7371">Jia He</author>
+<author pid="48/5638">Fuzhen Zhuang</author>
+<author pid="32/6684">Yuan Qi</author>
+<author pid="14/3700-3">Qing He 0003</author>
+<title>Nonparametric Bayesian Multi-Task Large-margin Classification.</title>
+<pages>255-260</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-255</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#DuHZQH14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/DuboisPS14" mdate="2017-06-02">
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<author orcid="0000-0002-9256-2881" pid="29/3972">Steven Schockaert</author>
+<title>Reasoning about Uncertainty and Explicit Ignorance in Generalized Possibilistic Logic.</title>
+<pages>261-266</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-261</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#DuboisPS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Dung14" mdate="2017-05-24">
+<author pid="07/3249">Phan Minh Dung</author>
+<title>An Axiomatic Analysis of Structured Argumentation for Prioritized Default Reasoning.</title>
+<pages>267-272</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-267</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Dung14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/EganJ14" mdate="2017-05-24">
+<author pid="93/10759">Malcolm Egan</author>
+<author pid="87/141">Michal Jakob</author>
+<title>A Profit-Aware Negotiation Mechanism for On-Demand Transport Services.</title>
+<pages>273-278</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-273</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#EganJ14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/EghoRJN14" mdate="2019-10-19">
+<author pid="124/9314">Elias Egho</author>
+<author pid="76/1132">Chedy Ra&#239;ssi</author>
+<author orcid="0000-0002-5790-6933" pid="33/2692">Nicolas Jay</author>
+<author pid="n/AmedeoNapoli">Amedeo Napoli</author>
+<title>Mining Heterogeneous Multidimensional Sequential Patterns.</title>
+<pages>279-284</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-279</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#EghoRJN14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/EiterF014" mdate="2017-11-16">
+<author pid="e/TEiter">Thomas Eiter</author>
+<author pid="f/MFink">Michael Fink 0001</author>
+<author pid="89/2024-1">Daria Stepanova 0001</author>
+<title>Towards Practical Deletion Repair of Inconsistent DL-programs.</title>
+<pages>285-290</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-285</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#EiterF014</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/EndrissG14" mdate="2017-05-24">
+<author pid="e/UlrichEndriss">Ulle Endriss</author>
+<author pid="36/7407">Umberto Grandi</author>
+<title>Collective Rationality in Graph Aggregation.</title>
+<pages>291-296</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-291</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#EndrissG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/FagesLP14" mdate="2019-10-19">
+<author pid="86/10056">Jean-Guillaume Fages</author>
+<author orcid="0000-0002-6534-8644" pid="94/2497">Xavier Lorca</author>
+<author pid="84/3969">Thierry Petit</author>
+<title>Self-decomposable Global Constraints.</title>
+<pages>297-302</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-297</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#FagesLP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/FangLQFX14" mdate="2017-11-10">
+<author pid="83/10447">Zhiwen Fang</author>
+<author pid="35/5239">Chu-Min Li</author>
+<author pid="30/9881">Kan Qiao</author>
+<author pid="95/1533">Xu Feng</author>
+<author pid="x/KeXu">Ke Xu 0001</author>
+<title>Solving Maximum Weight Clique Using Maximum Satisfiability Reasoning.</title>
+<pages>303-308</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-303</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#FangLQFX14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/FatimaW14" mdate="2019-04-26">
+<author orcid="0000-0002-6068-2942" pid="77/5008">S. Shaheen Fatima</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Multilateral Bargaining for Resource Division.</title>
+<pages>309-314</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-309</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#FatimaW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/FatimaMW14" mdate="2021-04-09">
+<author orcid="0000-0002-6068-2942" pid="77/5008">S. Shaheen Fatima</author>
+<author orcid="0000-0002-5288-0324" pid="69/391">Tomasz P. Michalak</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Bargaining for Coalition Structure Formation.</title>
+<pages>315-320</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-315</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#FatimaMW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/FeldmanD14" mdate="2017-05-24">
+<author pid="24/7602">Zohar Feldman</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Monte-Carlo Tree Search: To MC or to DP?</title>
+<pages>321-326</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-321</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#FeldmanD14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/FlouvatSPSB14" mdate="2021-09-23">
+<author pid="53/1920">Fr&#233;d&#233;ric Flouvat</author>
+<author pid="116/6380">J&#233;r&#233;my Sanhes</author>
+<author pid="86/931">Claude Pasquier</author>
+<author orcid="0000-0003-1667-3819" pid="13/3368">Nazha Selmaoui-Folcher</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Improving pattern discovery relevancy by deriving constraints from expert models.</title>
+<pages>327-332</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-327</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#FlouvatSPSB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GaoT14" mdate="2019-05-03">
+<author pid="89/4402-21">Yang Gao 0021</author>
+<author pid="t/FrancescaToni">Francesca Toni</author>
+<title>Argumentation Accelerated Reinforcement Learning for Cooperative Multi-Agent Systems.</title>
+<pages>333-338</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-333</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GaoT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GarbaceaTR14" mdate="2022-04-09">
+<author pid="150/5069">Cristina G&#226;rbacea</author>
+<author pid="27/5801">Manos Tsagkias</author>
+<author orcid="0000-0002-1086-0202" pid="r/MdRijke">Maarten de Rijke</author>
+<title>Detecting the Reputation Polarity of Microblog Posts.</title>
+<pages>339-344</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-339</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GarbaceaTR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GatensKW14" mdate="2017-05-24">
+<author pid="138/0692">William Gatens</author>
+<author pid="56/1470">Boris Konev</author>
+<author pid="w/FrankWolter">Frank Wolter</author>
+<title>Lower and Upper Approximations for Depleting Modules of Description Logic Ontologies.</title>
+<pages>345-350</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-345</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GatensKW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GebserJR14" mdate="2021-10-14">
+<author pid="64/2589">Martin Gebser</author>
+<author pid="j/TomiJanhunen">Tomi Janhunen</author>
+<author orcid="0000-0001-5983-0074" pid="65/3601">Jussi Rintanen</author>
+<title>Answer Set Programming as SAT modulo Acyclicity.</title>
+<pages>351-356</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-351</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GebserJR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GeisserKM14" mdate="2021-10-14">
+<author pid="150/5887">Florian Gei&#223;er</author>
+<author orcid="0000-0001-8951-5235" pid="48/2739-1">Thomas Keller 0001</author>
+<author pid="94/1789">Robert Mattm&#252;ller</author>
+<title>Past, Present, and Future: An Optimal Online Algorithm for Single-Player GDL-II Games.</title>
+<pages>357-362</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-357</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GeisserKM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/YangDM14" mdate="2021-07-25">
+<author pid="13/7702">Gen Yang</author>
+<author orcid="0000-0003-2026-468X" pid="80/5817">S&#233;bastien Destercke</author>
+<author pid="27/703">Marie-H&#233;l&#232;ne Masson</author>
+<title>Nested Dichotomies with probability sets for multi-class classification.</title>
+<pages>363-368</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-363</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#YangDM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GiacomoLPV14" mdate="2017-06-02">
+<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+<author pid="74/5003">Yves Lesp&#233;rance</author>
+<author pid="79/782">Fabio Patrizi</author>
+<author orcid="0000-0001-7564-5290" pid="07/2215">Stavros Vassos</author>
+<title>LTL Verification of Online Executions with Sensing in Bounded Situation Calculus.</title>
+<pages>369-374</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-369</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GiacomoLPV14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GoncalvesKL14" mdate="2022-02-23">
+<author orcid="0000-0003-4289-7197" pid="68/2296-1">Ricardo Gon&#231;alves 0001</author>
+<author orcid="0000-0003-1826-1498" pid="14/5000">Matthias Knorr 0001</author>
+<author orcid="0000-0001-6786-7360" pid="l/JoaoAlexandreLeite">Jo&#227;o Leite 0001</author>
+<title>Evolving Multi-Context Systems.</title>
+<pages>375-380</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-375</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GoncalvesKL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Gonen14" mdate="2019-10-19">
+<author orcid="0000-0002-2483-075X" pid="37/6563">Mehmet G&#246;nen</author>
+<title>Embedding Heterogeneous Data by Preserving Multiple Kernels.</title>
+<pages>381-386</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-381</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Gonen14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GonenGG14" mdate="2019-10-19">
+<author orcid="0000-0002-2483-075X" pid="37/6563">Mehmet G&#246;nen</author>
+<author pid="33/11481">G&#252;lefsan Bozkurt G&#246;nen</author>
+<author pid="g/FikretSGurgen">Fikret S. G&#252;rgen</author>
+<title>Bayesian Multiview Dimensionality Reduction for Learning Predictive Subspaces.</title>
+<pages>387-392</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-387</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GonenGG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GourvesMT14" mdate="2017-05-24">
+<author pid="04/6964">Laurent Gourv&#232;s</author>
+<author pid="77/4959">J&#233;r&#244;me Monnot</author>
+<author pid="118/2610">Lydia Tlilane</author>
+<title>Near Fairness in Matroids.</title>
+<pages>393-398</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-393</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GourvesMT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GovernatoriOSRC14" mdate="2022-10-02">
+<author orcid="0000-0002-9878-2762" pid="g/GuidoGovernatori">Guido Governatori</author>
+<author orcid="0000-0003-0838-9850" pid="10/7503">Francesco Olivieri</author>
+<author orcid="0000-0002-4206-4198" pid="35/8628">Simone Scannapieco</author>
+<author pid="89/4715">Antonino Rotolo</author>
+<author pid="96/6270">Matteo Cristani</author>
+<title>Strategic Argumentation is NP-Complete.</title>
+<pages>399-404</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-399</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GovernatoriOSRC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Grastien14" mdate="2017-05-24">
+<author pid="04/3354">Alban Grastien</author>
+<title>Diagnosis of Hybrid Systems with SMT: Opportunities and Challenges.</title>
+<pages>405-410</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-405</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Grastien14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GuoS14" mdate="2017-05-24">
+<author pid="g/JiongGuo">Jiong Guo</author>
+<author pid="125/2884">Yash Raj Shrestha</author>
+<title>Controlling Two-Stage Voting Rules.</title>
+<pages>411-416</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-411</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GuoS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HaimGKA14" mdate="2022-01-03">
+<author pid="118/4047">Galit Haim</author>
+<author orcid="0000-0001-7187-8572" pid="65/3114">Ya'akov (Kobi) Gal</author>
+<author pid="k/SaritKraus">Sarit Kraus</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<title>Human-Computer Negotiation in Three-Player Market Settings.</title>
+<pages>417-422</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-417</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HaimGKA14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HashemiE14" mdate="2018-11-02">
+<author orcid="0000-0002-9167-7417" pid="56/10094">Vahid Hashemi</author>
+<author pid="e/UlrichEndriss">Ulle Endriss</author>
+<title>Measuring Diversity of Preferences in a Group.</title>
+<pages>423-428</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-423</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HashemiE14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HeintzL14" mdate="2017-05-24">
+<author pid="86/6319">Fredrik Heintz</author>
+<author pid="136/1818">Daniel de Leng</author>
+<title>Spatio-Temporal Stream Reasoning with Incomplete Spatial Information.</title>
+<pages>429-434</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-429</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HeintzL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HerzigMBW14" mdate="2019-10-19">
+<author pid="h/AndreasHerzig">Andreas Herzig</author>
+<author pid="68/8694">Maria Viviane de Menezes</author>
+<author pid="51/6275">Leliane Nunes de Barros</author>
+<author orcid="0000-0001-8065-1433" pid="w/RenataWassermann">Renata Wassermann</author>
+<title>On the revision of planning tasks.</title>
+<pages>435-440</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-435</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HerzigMBW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/0001KT14" mdate="2020-10-25">
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<author pid="79/6191">Peter Kissmann</author>
+<author orcid="0000-0002-5352-2529" pid="118/2636">&#193;lvaro Torralba</author>
+<title>&#34;Distance&#34;? Who Cares? Tailoring Merge-and-Shrink Heuristics to Detect Unsolvability.</title>
+<pages>441-446</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-441</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#0001KT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HollerBBB14" mdate="2021-10-14">
+<author pid="150/5955">Daniel H&#246;ller</author>
+<author orcid="0000-0002-1445-9934" pid="150/5866">Gregor Behnke</author>
+<author orcid="0000-0002-0795-4320" pid="69/6573">Pascal Bercher</author>
+<author pid="37/5274">Susanne Biundo</author>
+<title>Language Classification of Hierarchical Planning Problems.</title>
+<pages>447-452</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-447</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HollerBBB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/IgnatievMMLM14" mdate="2023-02-12">
+<author orcid="0000-0002-4535-2902" pid="26/9729">Alexey Ignatiev</author>
+<author orcid="0000-0002-5295-1321" pid="23/4454-1">Ant&#243;nio Morgado 0001</author>
+<author orcid="0000-0002-4205-2189" pid="57/1074">Vasco M. Manquinho</author>
+<author orcid="0000-0003-4868-415X" pid="94/3399">In&#234;s Lynce</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o Marques-Silva 0001</author>
+<title>Progression in Maximum Satisfiability.</title>
+<pages>453-458</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-453</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#IgnatievMMLM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ImaiF14" mdate="2017-05-24">
+<author pid="07/9854">Tatsuya Imai</author>
+<author pid="f/ASFukunaga">Alex Fukunaga</author>
+<title>A Practical, Integer-Linear Programming Model for the Delete-Relaxation in Cost-Optimal Planning.</title>
+<pages>459-464</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-459</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ImaiF14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/JegouT14" mdate="2017-05-24">
+<author pid="10/6570">Philippe J&#233;gou</author>
+<author pid="34/5502">Cyril Terrioux</author>
+<title>Combining Restarts, Nogoods and Decompositions for Solving CSPs.</title>
+<pages>465-470</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-465</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#JegouT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/JiGH14" mdate="2017-05-24">
+<author pid="61/1203">Qiu Ji</author>
+<author pid="40/5417">Zhiqiang Gao</author>
+<author pid="h/ZhishengHuang">Zhisheng Huang</author>
+<title>Conflict Resolution in Partially Ordered OWL DL Ontologies.</title>
+<pages>471-476</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-471</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#JiGH14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/KafaliGY14" mdate="2017-05-24">
+<author pid="11/3288">&#214;zg&#252;r Kafali</author>
+<author pid="g/AkinGunay">Akin G&#252;nay</author>
+<author pid="31/4750">Pinar Yolum</author>
+<title>GOSU: computing GOal SUpport with commitments in multiagent systems.</title>
+<pages>477-482</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-477</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KafaliGY14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Krajnansky0BF14" mdate="2017-05-24">
+<author pid="150/5950">Michal Krajnansk&#253;</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<author pid="35/5418">Olivier Buffet</author>
+<author pid="49/6764">Alan Fern</author>
+<title>Learning Pruning Rules for Heuristic Search Planning.</title>
+<pages>483-488</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-483</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Krajnansky0BF14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/KrakG14" mdate="2017-05-24">
+<author pid="150/5963">Thomas E. Krak</author>
+<author pid="g/LindaCvanderGaag">Linda C. van der Gaag</author>
+<title>Knowledge-based Bias Correction - A Case Study in Veterinary Decision Support.</title>
+<pages>489-494</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-489</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KrakG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/KreutzmannW14" mdate="2017-05-24">
+<author pid="136/4109">Arne Kreutzmann</author>
+<author pid="73/1193">Diedrich Wolter</author>
+<title>Qualitative Spatial and Temporal Reasoning with AND/OR Linear Programming.</title>
+<pages>495-500</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-495</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KreutzmannW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LangS14" mdate="2021-12-21">
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<author orcid="0000-0003-2548-8623" pid="40/2794">Marija Slavkovik 0001</author>
+<title>How Hard is it to Compute Majority-Preserving Judgment Aggregation Rules?</title>
+<pages>501-506</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-501</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LangS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Lee14" mdate="2017-11-09">
+<author orcid="0000-0001-9840-780X" pid="94/7676">Jae Hee Lee 0001</author>
+<title>The Complexity of Reasoning with Relative Directions.</title>
+<pages>507-512</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-507</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Lee14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Li0PVH14" mdate="2022-03-21">
+<author pid="21/8669">Jianwen Li</author>
+<author pid="76/4015-1">Lijun Zhang 0001</author>
+<author pid="33/1678">Geguang Pu</author>
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<author pid="66/3868">Jifeng He 0001</author>
+<title>LTLf Satisfiability Checking.</title>
+<pages>513-518</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-513</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Li0PVH14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LiAK14" mdate="2022-10-02">
+<author pid="96/4282">Rui Li</author>
+<author orcid="0000-0003-1110-4756" pid="37/10813">Zahra Ahmadi</author>
+<author pid="k/StefanKramer1">Stefan Kramer 0001</author>
+<title>Constrained Latent Dirichlet Allocation for Subgroup Discovery with Topic Rules.</title>
+<pages>519-524</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-519</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LiAK14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LinDETM14" mdate="2022-04-30">
+<author pid="118/3494">Dianhuan Lin</author>
+<author pid="133/1950">Eyal Dechter</author>
+<author pid="150/5951">Kevin Ellis</author>
+<author pid="t/JoshuaBTenenbaum">Joshua B. Tenenbaum</author>
+<author pid="m/StephenMuggleton">Stephen H. Muggleton</author>
+<title>Bias reformulation for one-shot function induction.</title>
+<pages>525-530</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-525</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LinDETM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LiuZ14" mdate="2022-05-17">
+<author pid="96/2615-8">Ye Liu 0008</author>
+<author pid="20/4627-1">Liqing Zhang 0001</author>
+<title>Uncorrelated Multilinear Nearest Feature Line Analysis.</title>
+<pages>531-536</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-531</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LiuZ14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LiuZZZ14" mdate="2022-05-17">
+<author pid="96/2615-8">Ye Liu 0008</author>
+<author pid="55/2270-72">Hao Zhang 0072</author>
+<author pid="13/1193">Qibin Zhao</author>
+<author pid="20/4627-1">Liqing Zhang 0001</author>
+<title>Common Spatial-Spectral Boosting Pattern for Brain-Computer Interface.</title>
+<pages>537-542</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-537</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LiuZZZ14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LomuscioM14" mdate="2020-10-25">
+<author orcid="0000-0003-3420-723X" pid="l/AlessioLomuscio">Alessio R. Lomuscio</author>
+<author orcid="0000-0002-5053-0347" pid="37/7116">Jakub Michaliszyn</author>
+<title>Decidability of model checking multi-agent systems against a class of EHS specifications.</title>
+<pages>543-548</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-543</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LomuscioM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LoriniJP14" mdate="2017-05-24">
+<author pid="43/6250">Emiliano Lorini</author>
+<author pid="135/5213">Guifei Jiang</author>
+<author pid="79/5272">Laurent Perrussel</author>
+<title>Trust-based belief change.</title>
+<pages>549-554</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-549</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LoriniJP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Ludwig014" mdate="2020-07-28">
+<author pid="84/5739">Michel Ludwig</author>
+<author pid="98/6949-2">Dirk Walther 0002</author>
+<title>The Logical Difference for &#8496;&#8466;&#8459;<sup>r</sup>-Terminologies using Hypergraphs.</title>
+<pages>555-560</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-555</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Ludwig014</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LukasiewiczMS14" mdate="2020-10-25">
+<author pid="l/ThomasLukasiewicz">Thomas Lukasiewicz</author>
+<author orcid="0000-0003-2819-4735" pid="01/5870">Maria Vanina Martinez</author>
+<author orcid="0000-0003-3185-4992" pid="30/2915">Gerardo I. Simari</author>
+<title>Probabilistic Preference Logic Networks.</title>
+<pages>561-566</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-561</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LukasiewiczMS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MabroukGJC14" mdate="2017-05-24">
+<author pid="30/10883">Ahmed Mabrouk</author>
+<author pid="42/5839">Christophe Gonzales</author>
+<author pid="150/5886">Karine Jabet-Chevalier</author>
+<author pid="10/5502">Eric Chojnacki</author>
+<title>An Efficient Bayesian Network Structure Learning Algorithm in the Presence of Deterministic Relations.</title>
+<pages>567-572</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-567</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MabroukGJC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MacedoDAC14" mdate="2019-10-19">
+<author pid="150/5876">Lu&#237;s Felipe K. de Macedo</author>
+<author pid="79/36">Gra&#231;aliz Pereira Dimuro</author>
+<author orcid="0000-0002-5247-6022" pid="02/284">Marilton S. de Aguiar</author>
+<author pid="81/813">Helder Coelho</author>
+<title>An Evolutionary Spatial Game-based Approach for the Self-regulation of Social Exchanges in MAS.</title>
+<pages>573-578</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-573</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MacedoDAC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MagieraF14" mdate="2021-10-14">
+<author pid="66/9637">Krzysztof Magiera</author>
+<author orcid="0000-0002-0332-4364" pid="58/2379">Piotr Faliszewski</author>
+<title>How Hard is Control in Single-Crossing Elections?</title>
+<pages>579-584</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-579</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MagieraF14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Maher14" mdate="2017-05-24">
+<author pid="m/MichaelJMaher">Michael J. Maher</author>
+<title>Comparing Defeasible Logics.</title>
+<pages>585-590</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-585</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Maher14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MahmoudBMTDL14" mdate="2018-11-02">
+<author pid="83/10716">Samhar Mahmoud</author>
+<author pid="73/10118">Lina Barakat</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0003-0240-9857" pid="56/3754">Adel Taweel</author>
+<author orcid="0000-0002-3518-0131" pid="76/9250">Brendan Delaney</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<title>Information-based Incentivisation when Rewards are Inadequate.</title>
+<pages>591-596</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-591</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MahmoudBMTDL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MaliahSS14" mdate="2019-10-19">
+<author pid="149/1392">Shlomi Maliah</author>
+<author orcid="0000-0003-4131-0382" pid="77/5955">Guy Shani</author>
+<author orcid="0000-0003-0043-8179" pid="95/1348">Roni Stern</author>
+<title>Privacy Preserving Landmark Detection.</title>
+<pages>597-602</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-597</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MaliahSS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Marques-SilvaIMML14" mdate="2023-02-12">
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o Marques-Silva 0001</author>
+<author orcid="0000-0002-4535-2902" pid="26/9729">Alexey Ignatiev</author>
+<author orcid="0000-0002-5295-1321" pid="23/4454-1">Ant&#243;nio Morgado 0001</author>
+<author orcid="0000-0002-4205-2189" pid="57/1074">Vasco M. Manquinho</author>
+<author orcid="0000-0003-4868-415X" pid="94/3399">In&#234;s Lynce</author>
+<title>Efficient Autarkies.</title>
+<pages>603-608</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-603</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Marques-SilvaIMML14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MarquisPP14" mdate="2022-01-03">
+<author orcid="0000-0002-7979-6608" pid="37/6177">Pierre Marquis</author>
+<author pid="09/6707">Odile Papini</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Some Elements for a Prehistory of Artificial Intelligence in the Last Four Centuries.</title>
+<pages>609-614</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-609</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MarquisPP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MarronBM14" mdate="2018-11-02">
+<author pid="150/5900">Diego Marron</author>
+<author orcid="0000-0002-8339-7773" pid="48/1070">Albert Bifet</author>
+<author orcid="0000-0002-2415-494X" pid="53/7323">Gianmarco De Francisci Morales</author>
+<title>Random Forests of Very Fast Decision Trees on GPU for Mining Evolving Big Data Streams.</title>
+<pages>615-620</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-615</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MarronBM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MichelsHLV14" mdate="2017-05-24">
+<author pid="04/7662">Steffen Michels</author>
+<author pid="09/5015">Arjen Hommersom</author>
+<author pid="l/PeterJFLucas">Peter J. F. Lucas</author>
+<author pid="13/4228">Marina Velikova</author>
+<title>Imprecise Probabilistic Horn Clause Logic.</title>
+<pages>621-626</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-621</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MichelsHLV14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MicletBP14" mdate="2017-05-24">
+<author pid="58/5644">Laurent Miclet</author>
+<author pid="04/4157">Nelly Barbot</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>From analogical proportions in lattices to proportional analogies in formal concepts.</title>
+<pages>627-632</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-627</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MicletBP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MirkisD14" mdate="2017-05-24">
+<author pid="57/6803">Vitaly Mirkis</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Landmarks in Oversubscription Planning.</title>
+<pages>633-638</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-633</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MirkisD14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MullerB14" mdate="2017-05-24">
+<author pid="133/2485">Gilbert M&#252;ller</author>
+<author pid="b/RalphBergmann">Ralph Bergmann</author>
+<title>A Cluster-Based Approach to Improve Similarity-Based Retrieval for Process-Oriented Case-Based Reasoning.</title>
+<pages>639-644</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-639</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MullerB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MushthofaSC14" mdate="2021-04-09">
+<author orcid="0000-0003-4991-4148" pid="78/8399">Mushthofa Mushthofa</author>
+<author orcid="0000-0002-9256-2881" pid="29/3972">Steven Schockaert</author>
+<author orcid="0000-0001-7917-0771" pid="79/4249">Martine De Cock</author>
+<title>A finite-valued solver for disjunctive fuzzy answer set programs.</title>
+<pages>645-650</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-645</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MushthofaSC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/NarayanamSLM14" mdate="2021-04-09">
+<author pid="56/3378">Ramasuri Narayanam</author>
+<author orcid="0000-0002-3978-416X" pid="38/9669">Oskar Skibski</author>
+<author pid="120/8503">Hemank Lamba</author>
+<author orcid="0000-0002-5288-0324" pid="69/391">Tomasz P. Michalak</author>
+<title>A Shapley Value-based Approach to Determine Gatekeepers in Social Networks with Applications.</title>
+<pages>651-656</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-651</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#NarayanamSLM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/NarodytskaW14" mdate="2017-05-24">
+<author pid="87/3366">Nina Narodytska</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>The Computational Impact of Partial Votes on Strategic Voting.</title>
+<pages>657-662</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-657</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#NarodytskaW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/NoorianMV14" mdate="2017-06-15">
+<author pid="97/8092">Zeinab Noorian</author>
+<author pid="150/2170">Mohsen Mohkami</author>
+<author orcid="0000-0001-5050-3106" pid="28/6667">Julita Vassileva</author>
+<title>How much trust is enough to trust? A market-adaptive trust threshold setting for e-marketplaces.</title>
+<pages>663-668</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-663</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#NoorianMV14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/NunesMLBL14" mdate="2017-06-15">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author orcid="0000-0002-0044-503X" pid="b/SDJBarbosa">Simone Diniz Junqueira Barbosa</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Pattern-based Explanation for Automated Decisions.</title>
+<pages>669-674</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-669</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#NunesMLBL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/OztokD14" mdate="2017-05-24">
+<author pid="150/4947">Umut Oztok</author>
+<author pid="p/ADarwiche">Adnan Darwiche</author>
+<title>CV-width: A New Complexity Parameter for CNFs.</title>
+<pages>675-680</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-675</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#OztokD14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PadghamNSC14" mdate="2022-10-02">
+<author orcid="0000-0002-6974-3318" pid="p/LPadgham">Lin Padgham</author>
+<author orcid="0000-0003-2775-6898" pid="76/2993">Kai Nagel</author>
+<author pid="45/1456">Dhirendra Singh</author>
+<author pid="28/5691">Qingyu Chen</author>
+<title>Integrating BDI Agents into a MATSim Simulation.</title>
+<pages>681-686</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-681</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PadghamNSC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PalaciosVRP14" mdate="2022-01-26">
+<author orcid="0000-0002-0479-1490" pid="08/7072">Juan Jos&#233; Palacios 0001</author>
+<author pid="73/2316">Camino R. Vela</author>
+<author pid="45/155">In&#233;s Gonz&#225;lez Rodr&#237;guez</author>
+<author orcid="0000-0001-6840-3939" pid="28/4945">Jorge Puente 0001</author>
+<title>Schedule Generation Schemes for Job Shop Problems with Fuzziness.</title>
+<pages>687-692</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-687</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PalaciosVRP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PastinkG14" mdate="2017-05-24">
+<author pid="119/6730">Arnoud Pastink</author>
+<author pid="g/LindaCvanderGaag">Linda C. van der Gaag</author>
+<title>The Persistence of Most Probable Explanations in Bayesian Networks.</title>
+<pages>693-698</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-693</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PastinkG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Pencole14" mdate="2017-05-24">
+<author pid="51/5594">Yannick Pencol&#233;</author>
+<title>DITO: a CSP-based diagnostic engine.</title>
+<pages>699-704</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-699</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Pencole14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PepelsTLW14" mdate="2017-06-02">
+<author pid="122/8018">Tom Pepels</author>
+<author pid="115/6957">Mandy J. W. Tak</author>
+<author pid="64/10094">Marc Lanctot</author>
+<author orcid="0000-0002-0125-0824" pid="32/436">Mark H. M. Winands</author>
+<title>Quality-based Rewards for Monte-Carlo Tree Search Simulations.</title>
+<pages>705-710</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-705</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PepelsTLW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PereiraT14" mdate="2022-04-09">
+<author orcid="0000-0001-6278-7740" pid="s/CeliadaCostaPereira">C&#233;lia da Costa Pereira</author>
+<author pid="t/AndreaTettamanzi">Andrea G. B. Tettamanzi</author>
+<title>Syntactic Possibilistic Goal Generation.</title>
+<pages>711-716</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-711</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PereiraT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PiltaverLZDG14" mdate="2022-04-09">
+<author pid="27/10840">Rok Piltaver</author>
+<author pid="l/MitjaLustrek">Mitja Lustrek</author>
+<author pid="150/5949">Jernej Zupancic</author>
+<author orcid="0000-0003-2363-712X" pid="d/SasoDzeroski">Saso Dzeroski</author>
+<author pid="43/1312">Matjaz Gams</author>
+<title>Multi-objective learning of hybrid classifiers.</title>
+<pages>717-722</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-717</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PiltaverLZDG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PorelloT14" mdate="2017-06-15">
+<author orcid="0000-0003-3655-0218" pid="33/8219">Daniele Porello</author>
+<author orcid="0000-0002-5763-6080" pid="66/2057">Nicolas Troquard</author>
+<title>A resource-sensitive logic of agency.</title>
+<pages>723-728</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-723</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PorelloT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PotykaT14" mdate="2017-05-24">
+<author pid="116/9377">Nico Potyka</author>
+<author pid="07/1317">Matthias Thimm</author>
+<title>Consolidation of Probabilistic Knowledge Bases by Inconsistency Minimization.</title>
+<pages>729-734</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-729</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PotykaT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Prakken14" mdate="2017-05-24">
+<author pid="64/5549">Henry Prakken</author>
+<title>On support relations in abstract argumentation as abstractions of inferential relations.</title>
+<pages>735-740</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-735</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Prakken14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PrestwichLK14" mdate="2022-04-09">
+<author pid="56/661">Steven D. Prestwich</author>
+<author orcid="0000-0002-0174-2909" pid="91/6716">Marco Laumanns</author>
+<author pid="69/10257">Ban Kawas</author>
+<title>Symmetry Breaking for Exact Solutions in Adjustable Robust Optimisation.</title>
+<pages>741-746</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-741</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PrestwichLK14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ProceeKWM14" mdate="2017-05-24">
+<author pid="150/5898">Ruurdje Procee</author>
+<author pid="42/7555">Bart A. Kamphorst</author>
+<author pid="95/7116">Arlette van Wissen</author>
+<author pid="m/JJCMeyer">John-Jules Ch. Meyer</author>
+<title>An Agent-Based Model of Procrastination.</title>
+<pages>747-752</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-747</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ProceeKWM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/QiaoR14" mdate="2017-05-24">
+<author pid="144/7544">Wenzhao Qiao</author>
+<author pid="46/5656">Nico Roos</author>
+<title>An argumentation system for reasoning with LPm.</title>
+<pages>753-758</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-753</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#QiaoR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/RietbergenGB14" mdate="2017-09-16">
+<author pid="96/9811">Merel T. Rietbergen</author>
+<author pid="g/LindaCvanderGaag">Linda C. van der Gaag</author>
+<author orcid="0000-0002-9297-3330" pid="b/HLBodlaender">Hans L. Bodlaender</author>
+<title>Provisional Propagation for Verifying Monotonicity of Bayesian Networks.</title>
+<pages>759-764</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-759</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#RietbergenGB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/RogerPH14" mdate="2017-06-15">
+<author pid="92/2559">Gabriele R&#246;ger</author>
+<author orcid="0000-0003-1311-283X" pid="39/7401">Florian Pommerening</author>
+<author pid="21/4581">Malte Helmert</author>
+<title>Optimal Planning in the Presence of Conditional Effects: Extending LM-Cut with Context Splitting.</title>
+<pages>765-770</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-765</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#RogerPH14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Roos14" mdate="2017-05-24">
+<author pid="46/5656">Nico Roos</author>
+<title>The semantics of behavior.</title>
+<pages>771-776</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-771</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Roos14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/RossiPT14" mdate="2022-02-07">
+<author orcid="0000-0001-7247-1010" pid="03/3111">Roberto Rossi</author>
+<author pid="56/661">Steven D. Prestwich</author>
+<author orcid="0000-0001-5601-3968" pid="02/5166">S. Armagan Tarim</author>
+<title>Statistical Constraints.</title>
+<pages>777-782</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-777</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#RossiPT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ScalaT14" mdate="2018-11-02">
+<author orcid="0000-0003-2274-875X" pid="79/10105">Enrico Scala</author>
+<author pid="19/1181">Pietro Torasso</author>
+<title>Proactive and Reactive Reconfiguration for the Robust Execution of Multi Modality Plans.</title>
+<pages>783-788</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-783</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ScalaT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SchaeferHG14" mdate="2018-11-02">
+<author pid="45/8170">Christoph Schaefer</author>
+<author orcid="0000-0002-2388-4609" pid="86/9507">Daniel Hienert</author>
+<author pid="55/6194">Thomas Gottron</author>
+<title>Normalized Relevance Distance - A Stable Metric for Computing Semantic Relatedness over Reference Corpora.</title>
+<pages>789-794</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-789</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SchaeferHG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SchultzB14" mdate="2022-04-09">
+<author orcid="0000-0001-7334-6617" pid="171/1533">Carl Schultz</author>
+<author orcid="0000-0002-6290-5492" pid="38/6829">Mehul Bhatt</author>
+<title>Declarative Spatial Reasoning with Boolean Combinations of Axis-Aligned Rectangular Polytopes.</title>
+<pages>795-800</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-795</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SchultzB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SchweringL14" mdate="2017-05-24">
+<author pid="118/6458">Christoph Schwering</author>
+<author pid="l/GerhardLakemeyer">Gerhard Lakemeyer</author>
+<title>A Semantic Account of Iterated Belief Revision in the Situation Calculus.</title>
+<pages>801-806</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-801</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SchweringL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SerafinoV14" mdate="2017-06-15">
+<author pid="01/105">Paolo Serafino</author>
+<author orcid="0000-0003-1464-1215" pid="30/6089">Carmine Ventre</author>
+<title>Heterogeneous Facility Location without Money on the Line.</title>
+<pages>807-812</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-807</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SerafinoV14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ShchekotykhinFRF14" mdate="2022-10-02">
+<author orcid="0000-0002-0286-0958" pid="188/5759">Kostyantyn M. Shchekotykhin</author>
+<author pid="47/1985">Gerhard Friedrich</author>
+<author pid="87/9888">Patrick Rodler</author>
+<author pid="63/9890">Philipp Fleiss</author>
+<title>Sequential diagnosis of high cardinality faults in knowledge-bases by direct diagnosis generation.</title>
+<pages>813-818</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-813</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ShchekotykhinFRF14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ShiehJYVT14" mdate="2017-05-24">
+<author pid="117/4929">Eric Anyung Shieh</author>
+<author pid="59/3808">Albert Xin Jiang</author>
+<author pid="121/3511">Amulya Yadav</author>
+<author pid="72/759">Pradeep Varakantham</author>
+<author pid="67/2667">Milind Tambe</author>
+<title>Unleashing Dec-MDPs in Security Games: Enabling Effective Defender Teamwork.</title>
+<pages>819-824</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-819</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ShiehJYVT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ShleyfmanKD14" mdate="2017-05-24">
+<author pid="116/9267">Alexander Shleyfman</author>
+<author pid="96/5384">Anton&#237;n Komenda</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>On Combinatorial Actions and CMABs with Linear Side Information.</title>
+<pages>825-830</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-825</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ShleyfmanKD14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SimoninO14" mdate="2018-11-02">
+<author pid="45/8725">Gilles Simonin</author>
+<author orcid="0000-0002-0090-2085" pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<title>Optimisation for the Ride-Sharing Problem: a Complexity-based Approach.</title>
+<pages>831-836</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-831</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SimoninO14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SinghP14" mdate="2020-09-05">
+<author pid="45/1456">Dhirendra Singh</author>
+<author orcid="0000-0002-6974-3318" pid="p/LPadgham">Lin Padgham</author>
+<title>OpenSim: A framework for integrating agent-based models and simulation components.</title>
+<pages>837-842</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-837</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SinghP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Slaney14" mdate="2017-05-24">
+<author pid="150/5964">John Slaney</author>
+<title>Set-theoretic duality: A fundamental feature of combinatorial optimisation.</title>
+<pages>843-848</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-843</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Slaney14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SoldanoS14" mdate="2017-06-02">
+<author orcid="0000-0001-8505-948X" pid="23/5819">Henry Soldano</author>
+<author pid="99/9286">Guillaume Santini</author>
+<title>Graph abstraction for closed pattern mining in attributed networks.</title>
+<pages>849-854</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-849</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SoldanoS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/StoilosS14" mdate="2017-05-24">
+<author pid="49/2781">Giorgos Stoilos</author>
+<author pid="s/GBStamou">Giorgos B. Stamou</author>
+<title>Hybrid Query Answering Over OWL Ontologies.</title>
+<pages>855-860</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-855</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#StoilosS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SuG14" mdate="2017-05-24">
+<author pid="137/8429">Xingyu Su</author>
+<author pid="04/3354">Alban Grastien</author>
+<title>Verifying the Precision of Diagnostic Algorithms.</title>
+<pages>861-866</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-861</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SuG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SzczepanskiMW14" mdate="2021-04-09">
+<author pid="118/4017">Piotr L. Szczepanski</author>
+<author orcid="0000-0002-5288-0324" pid="69/391">Tomasz P. Michalak</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>A Centrality Measure for Networks With Community Structure Based on a Generalization of the Owen Value.</title>
+<pages>867-872</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-867</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SzczepanskiMW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/TenorthBB14" mdate="2017-06-15">
+<author pid="76/7748">Moritz Tenorth</author>
+<author pid="150/5869">Georg Bartels</author>
+<author orcid="0000-0002-7888-7444" pid="b/MichaelBeetz">Michael Beetz</author>
+<title>Knowledge-based Specification of Robot Motions.</title>
+<pages>873-878</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-873</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#TenorthBB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ThangarajahHMY14" mdate="2019-09-16">
+<author orcid="0000-0002-7699-6444" pid="02/2279">John Thangarajah</author>
+<author pid="h/JamesHarland">James Harland</author>
+<author pid="23/4431">David N. Morley</author>
+<author pid="95/5096">Neil Yorke-Smith</author>
+<title>Quantifying the Completeness of Goals in BDI Agent Systems.</title>
+<pages>879-884</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-879</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ThangarajahHMY14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ThilakarathneT14" mdate="2020-12-29">
+<author orcid="0000-0003-4037-1626" pid="130/4417">Dilhan J. Thilakarathne</author>
+<author orcid="0000-0003-2466-9158" pid="t/JanTreur">Jan Treur</author>
+<title>Modelling the Dynamics of Emotional Awareness.</title>
+<pages>885-890</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-885</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ThilakarathneT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Thimm14" mdate="2017-05-24">
+<author pid="07/1317">Matthias Thimm</author>
+<title>Coherence and Compatibility of Markov Logic Networks.</title>
+<pages>891-896</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-891</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Thimm14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ThomazoR14" mdate="2017-06-15">
+<author pid="94/9924">Micha&#235;l Thomazo</author>
+<author orcid="0000-0002-1609-2080" pid="79/6633">Sebastian Rudolph</author>
+<title>Mixing Materialization and Query Rewriting for Existential Rules.</title>
+<pages>897-902</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-897</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ThomazoR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/UgarteBLC14" mdate="2017-06-15">
+<author orcid="0000-0002-7510-618X" pid="120/2429">Willy Ugarte</author>
+<author pid="29/2067">Patrice Boizumault</author>
+<author pid="79/3951">Samir Loudni</author>
+<author pid="c/BrunoCremilleux">Bruno Cr&#233;milleux</author>
+<title>Computing Skypattern Cubes.</title>
+<pages>903-908</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-903</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#UgarteBLC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Walsh14" mdate="2017-05-24">
+<author pid="86/2576">Toby Walsh</author>
+<title>The PeerRank Method for Peer Assessment.</title>
+<pages>909-914</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-909</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Walsh14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/WileySB14" mdate="2017-11-06">
+<author orcid="0000-0002-5424-2537" pid="26/9963">Timothy Wiley</author>
+<author pid="s/ClaudeSammut">Claude Sammut</author>
+<author pid="b/IvanBratko">Ivan Bratko</author>
+<title>Qualitative Simulation with Answer Set Programming.</title>
+<pages>915-920</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-915</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#WileySB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Wilson14" mdate="2022-12-07">
+<author orcid="0000-0003-1874-8255" pid="00/3956">Nic Wilson</author>
+<title>Preference Inference Based on Lexicographic Models.</title>
+<pages>921-926</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-921</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Wilson14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/YangZMC14" mdate="2017-05-24">
+<author pid="02/1640">Min Yang</author>
+<author pid="65/4369">Dingju Zhu</author>
+<author pid="40/8183">Rashed Mustafa</author>
+<author pid="30/241">Kam-Pui Chow</author>
+<title>Learning Domain-specific Sentiment Lexicon with Supervised Sentiment-aware LDA.</title>
+<pages>927-932</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-927</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#YangZMC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ZaluskyDSNS14" mdate="2022-04-04">
+<author pid="90/8485">Roman Z&#225;lusk&#253;</author>
+<author pid="14/4023">Daniela Durackov&#225;</author>
+<author orcid="0000-0002-0010-8965" pid="15/6088">Viera Stopjakov&#225;</author>
+<author pid="53/11197">Luk&#225;s Nagy</author>
+<author pid="150/6035">Vladim&#237;r Sedl&#225;k</author>
+<title>Novel architecture of a digital neuron for FFNN employing special multiplication.</title>
+<pages>933-938</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-933</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ZaluskyDSNS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ZarriessC14" mdate="2019-09-25">
+<author pid="132/5788">Benjamin Zarrie&#223;</author>
+<author orcid="0000-0002-0395-1907" pid="85/1549">Jens Cla&#223;en</author>
+<title>Verifying CTL* Properties of GOLOG Programs over Local-Effect Actions.</title>
+<pages>939-944</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-939</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ZarriessC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ZhaoLTY14" mdate="2022-12-07">
+<author pid="54/7566">Dengji Zhao</author>
+<author pid="150/5897">Siqi Luo</author>
+<author orcid="0000-0003-3467-329X" pid="67/7117">Taiki Todo</author>
+<author orcid="0000-0003-4929-396X" pid="32/2416">Makoto Yokoo</author>
+<title>False-name-proof Combinatorial Auction Design via Single-minded Decomposition.</title>
+<pages>945-950</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-945</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ZhaoLTY14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/AbusharkWMHT14" mdate="2020-03-30">
+<author pid="256/0964">Yoosef B. Abushark</author>
+<author pid="w/MichaelWinikoff">Michael Winikoff</author>
+<author pid="64/2748-1">Tim Miller 0001</author>
+<author pid="h/JamesHarland">James Harland</author>
+<author orcid="0000-0002-7699-6444" pid="02/2279">John Thangarajah</author>
+<title>Checking The Correctness of Agent Designs Against Model-Based Requirements.</title>
+<pages>953-954</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-953</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#AbusharkWMHT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/AdamczewskiMM14" mdate="2021-04-09">
+<author pid="150/5954">Kamil Adamczewski</author>
+<author pid="150/5879">Szymon Matejczyk</author>
+<author orcid="0000-0002-5288-0324" pid="69/391">Tomasz P. Michalak</author>
+<title>How good is the Shapley value-based approach to the influence maximization problem?</title>
+<pages>955-956</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-955</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#AdamczewskiMM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ArtaleBMSR14" mdate="2018-11-02">
+<author pid="65/6588">Alessandro Artale</author>
+<author orcid="0000-0003-2253-9878" pid="85/1483">Davide Bresolin</author>
+<author pid="68/27">Angelo Montanari</author>
+<author orcid="0000-0002-9221-879X" pid="70/3651">Guido Sciavicco</author>
+<author pid="58/3023">Vladislav Ryzhikov</author>
+<title>DL-Lite and Interval Temporal Logics: a Marriage Proposal.</title>
+<pages>957-958</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-957</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ArtaleBMSR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BaldoniBC14" mdate="2017-05-24">
+<author pid="b/MatteoBaldoni">Matteo Baldoni</author>
+<author pid="b/CristinaBaroglio">Cristina Baroglio</author>
+<author pid="92/10588">Federico Capuzzimati</author>
+<title>Social Computing in JaCaMo.</title>
+<pages>959-960</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-959</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BaldoniBC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BarerSSF14" mdate="2019-10-19">
+<author pid="47/7441">Max Barer</author>
+<author pid="73/9853">Guni Sharon</author>
+<author orcid="0000-0003-0043-8179" pid="95/1348">Roni Stern</author>
+<author orcid="0000-0003-0065-2757" pid="43/5063">Ariel Felner</author>
+<title>Suboptimal Variants of the Conflict-Based Search Algorithm for the Multi-Agent Pathfinding Problem.</title>
+<pages>961-962</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-961</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BarerSSF14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BenferhatLT14" mdate="2017-05-24">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="26/6968">Sylvain Lagrue</author>
+<author pid="88/410">Karim Tabia</author>
+<title>Analysis of interval-based possibilistic networks.</title>
+<pages>963-964</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-963</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BenferhatLT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BenferhatTKT14" mdate="2017-05-24">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="88/410">Karim Tabia</author>
+<author pid="143/2162">Mouaad Kezih</author>
+<author pid="03/96">Mahmoud Taibi</author>
+<title>Post-processing a classifier's predictions: Strategies and empirical evaluation.</title>
+<pages>965-966</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-965</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BenferhatTKT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BenferhatBPW14" mdate="2017-05-24">
+<author pid="95/5613">Salem Benferhat</author>
+<author pid="134/4606">Zied Bouraoui</author>
+<author pid="09/6707">Odile Papini</author>
+<author pid="11/3223">Eric W&#252;rbel</author>
+<title>Assertional-based Prioritized Removed Sets Revision of DL-LiteR Knowledge Bases.</title>
+<pages>967-968</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-967</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BenferhatBPW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BistarelliRS14" mdate="2017-12-19">
+<author orcid="0000-0001-7411-9678" pid="53/6380">Stefano Bistarelli</author>
+<author orcid="0000-0002-8445-0142" pid="99/155">Fabio Rossi</author>
+<author orcid="0000-0002-3935-4696" pid="95/4886">Francesco Santini 0001</author>
+<title>A First Comparison of Abstract Argumentation Reasoning-Tools.</title>
+<pages>969-970</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-969</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BistarelliRS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BoltR14" mdate="2021-10-14">
+<author pid="08/4637">Janneke H. Bolt</author>
+<author orcid="0000-0003-4339-8146" pid="08/4459">Silja Renooij</author>
+<title>Sensitivity of Multi-dimensional Bayesian Classifiers.</title>
+<pages>971-972</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-971</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BoltR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BonisoliGSS14" mdate="2017-06-02">
+<author pid="142/3169">Andrea Bonisoli</author>
+<author pid="73/3274">Alfonso Emilio Gerevini</author>
+<author pid="62/6020">Alessandro Saetti</author>
+<author orcid="0000-0002-7785-9492" pid="76/6410">Ivan Serina</author>
+<title>A Privacy-preserving Model for the Multi-agent Propositional Planning Problem.</title>
+<pages>973-974</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-973</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BonisoliGSS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BoscKRBT14" mdate="2017-05-24">
+<author pid="144/4710">Guillaume Bosc</author>
+<author pid="00/6831">Mehdi Kaytoue-Uberall</author>
+<author pid="76/1132">Chedy Ra&#239;ssi</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<author pid="91/5016">Philip Tan</author>
+<title>Mining Balanced Sequential Patterns in RTS Games.</title>
+<pages>975-976</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-975</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BoscKRBT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BottcherMN14" mdate="2017-05-24">
+<author pid="69/10020">Bj&#246;rn B&#246;ttcher</author>
+<author pid="17/11271">Natalia Moriz</author>
+<author pid="62/3034">Oliver Niggemann</author>
+<title>From Formal Requirements on Technical Systems to Complete Designs - A Holistic Approach.</title>
+<pages>977-978</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-977</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BottcherMN14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BozzatoS14" mdate="2018-11-02">
+<author orcid="0000-0003-1757-9859" pid="53/4111">Loris Bozzato</author>
+<author pid="s/LucianoSerafini">Luciano Serafini</author>
+<title>Combining Reasoning on Semantic Web Metadata.</title>
+<pages>979-980</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-979</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BozzatoS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/BrysTN14" mdate="2017-06-15">
+<author pid="117/4932">Tim Brys</author>
+<author orcid="0000-0001-8946-0211" pid="46/4287">Matthew E. Taylor</author>
+<author pid="95/232">Ann Now&#233;</author>
+<title>Using Ensemble Techniques and Multi-Objectivization to Solve Reinforcement Learning Problems.</title>
+<pages>981-982</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-981</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#BrysTN14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ChenHWTL14" mdate="2022-03-08">
+<author pid="05/8743-1">Siqi Chen 0001</author>
+<author pid="21/7664">Jianye Hao</author>
+<author pid="07/2055">Gerhard Weiss 0001</author>
+<author orcid="0000-0001-7929-1944" pid="t/KTuyls">Karl Tuyls</author>
+<author orcid="0000-0003-4914-2934" pid="l/HofungLeung">Ho-fung Leung</author>
+<title>Spatial evolutionary game-theoretic perspective on agent-based complex negotiations.</title>
+<pages>983-984</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-983</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ChenHWTL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ChengZNG14" mdate="2019-12-27">
+<author pid="73/4342">Kan-Leung Cheng</author>
+<author orcid="0000-0002-9999-1750" pid="06/5114">Inon Zuckerman</author>
+<author pid="n/DanaSNau">Dana S. Nau</author>
+<author pid="48/2412">Jennifer Golbeck</author>
+<title>Predicting Agents' Behavior by Measuring their Social Preferences.</title>
+<pages>985-986</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-985</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ChengZNG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ColucciGDS14" mdate="2017-06-02">
+<author orcid="0000-0002-8774-4816" pid="c/SimonaColucci">Simona Colucci</author>
+<author pid="40/10704">Silvia Giannini 0001</author>
+<author pid="d/FrancescoMDonini">Francesco M. Donini</author>
+<author orcid="0000-0002-5484-9945" pid="s/EugenioDiSciascio">Eugenio Di Sciascio</author>
+<title>A deductive approach to the identification and description of clusters in Linked Open Data.</title>
+<pages>987-988</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-987</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ColucciGDS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/CzarneckiP14" mdate="2017-06-02">
+<author orcid="0000-0002-2641-9542" pid="43/8484-1">Wojciech M. Czarnecki</author>
+<author pid="99/2808">Igor T. Podolak</author>
+<title>Adaptive Active Learning as a Multi-armed Bandit Problem.</title>
+<pages>989-990</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-989</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#CzarneckiP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/DeagustiniMFS14" mdate="2020-10-25">
+<author pid="117/7529">Cristhian A. D. Deagustini</author>
+<author orcid="0000-0003-2819-4735" pid="01/5870">Maria Vanina Mart&#237;nez</author>
+<author pid="60/6432">Marcelo A. Falappa</author>
+<author pid="s/GuillermoRicardoSimari">Guillermo Ricardo Simari</author>
+<title>Inconsistency resolution and global conflicts.</title>
+<pages>991-992</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-991</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#DeagustiniMFS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Delden14" mdate="2017-05-24">
+<author pid="133/2546">Andr&#233; van Delden</author>
+<title>Quality in Quantity - Relative Direction Constraints using Sector Sets around Oriented Points.</title>
+<pages>993-994</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-993</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Delden14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/DennisF14" mdate="2018-11-02">
+<author pid="58/1750">Louise A. Dennis</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<title>Actions with Durations and Failures in BDI Languages.</title>
+<pages>995-996</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-995</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#DennisF14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/DuA14" mdate="2017-06-15">
+<author orcid="0000-0002-6300-3503" pid="119/1325">Heshan Du</author>
+<author pid="a/NatashaAlechina">Natasha Alechina</author>
+<title>A Logic of Part and Whole for Buffered Geometries.</title>
+<pages>997-998</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-997</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#DuA14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/EfstathiouL14" mdate="2017-06-02">
+<author pid="150/5911">Ioannis Efstathiou</author>
+<author orcid="0000-0001-9497-4743" pid="36/6352">Oliver Lemon</author>
+<title>Learning non-cooperative behaviour for dialogue agents.</title>
+<pages>999-1000</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-999</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#EfstathiouL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/EveraereKM14" mdate="2019-12-27">
+<author pid="07/5567">Patricia Everaere</author>
+<author orcid="0000-0002-2590-1222" pid="36/1515">S&#233;bastien Konieczny</author>
+<author pid="37/6177">Pierre Marquis</author>
+<title>Propositional Merging and Judgment Aggregation: Two Compatible Approaches?</title>
+<pages>1001-1002</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1001</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#EveraereKM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/FagundesOM14" mdate="2022-04-09">
+<author pid="11/2749">Moser Silva Fagundes</author>
+<author orcid="0000-0003-2483-9508" pid="o/SaschaOssowski">Sascha Ossowski</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<title>Analyzing the tradeoff between efficiency and cost of norm enforcement in stochastic environments.</title>
+<pages>1003-1004</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1003</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#FagundesOM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/FanT14" mdate="2018-11-02">
+<author pid="35/6803">Xiuyi Fan</author>
+<author orcid="0000-0001-8194-1459" pid="t/FrancescaToni">Francesca Toni</author>
+<title>On Computing Explanations in Abstract Argumentation.</title>
+<pages>1005-1006</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1005</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#FanT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GarbajosaRF14" mdate="2021-11-25">
+<author pid="150/5883">Alberto Garbajosa</author>
+<author pid="31/6645">Tom&#225;s de la Rosa</author>
+<author orcid="0000-0002-3856-2629" pid="83/4276">Raquel Fuentetaja 0001</author>
+<title>Planning with Ensembles of Classifiers.</title>
+<pages>1007-1008</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1007</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GarbajosaRF14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Garcia-GasullaATFGBV14" mdate="2020-10-25">
+<author orcid="0000-0001-6732-5641" pid="16/9515">Dario Garcia-Gasulla</author>
+<author orcid="0000-0001-9946-9703" pid="17/2386">Sergio &#193;lvarez-Napagao</author>
+<author pid="118/8397">Arturo Tejeda-G&#243;mez</author>
+<author pid="00/8362">Luis Oliva Felipe</author>
+<author pid="55/6156">Ignasi G&#243;mez-Sebasti&#224;</author>
+<author orcid="0000-0001-5281-3888" pid="63/4278">Javier B&#233;jar</author>
+<author orcid="0000-0003-1732-9446" pid="98/3205">Javier V&#225;zquez-Salceda</author>
+<title>Social network data analysis for event detection.</title>
+<pages>1009-1010</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1009</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Garcia-GasullaATFGBV14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GeierRB14" mdate="2023-01-05">
+<author pid="66/9447">Thomas Geier</author>
+<author pid="141/2178">Felix Richter 0001</author>
+<author pid="37/5274">Susanne Biundo</author>
+<title>Conditioned Belief Propagation Revisited.</title>
+<pages>1011-1012</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1011</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GeierRB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GeorgievskiL14" mdate="2017-05-24">
+<author pid="54/9080">Ilche Georgievski</author>
+<author pid="55/6272">Alexander Lazovik</author>
+<title>Utility-Based HTN Planning.</title>
+<pages>1013-1014</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1013</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GeorgievskiL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GjoreskiKLG14" mdate="2022-01-03">
+<author orcid="0000-0002-0770-4268" pid="48/9923">Hristijan Gjoreski</author>
+<author pid="18/9922">Simon Kozina</author>
+<author pid="l/MitjaLustrek">Mitja Lustrek</author>
+<author pid="43/1312">Matjaz Gams</author>
+<title>Using multiple contexts to distinguish standing from sitting with a single accelerometer.</title>
+<pages>1015-1016</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1015</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GjoreskiKLG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/GregoireLM14" mdate="2017-05-24">
+<author pid="g/EricGregoire">&#201;ric Gr&#233;goire</author>
+<author pid="28/7480">Jean-Marie Lagniez</author>
+<author pid="50/4396">Bertrand Mazure</author>
+<title>Enforcing Solutions in Constraint Networks.</title>
+<pages>1017-1018</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1017</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#GregoireLM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HaberlandML14" mdate="2020-10-25">
+<author orcid="0000-0002-3874-0683" pid="120/2905">Valeriia Haberland</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<title>Negotiation to Execute Continuous Long-Term Tasks.</title>
+<pages>1019-1020</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1019</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HaberlandML14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HarutyunyanBVN14" mdate="2017-05-24">
+<author pid="121/3997">Anna Harutyunyan</author>
+<author pid="117/4932">Tim Brys</author>
+<author pid="85/562">Peter Vrancx</author>
+<author pid="95/232">Ann Now&#233;</author>
+<title>Off-Policy Shaping Ensembles in Reinforcement Learning.</title>
+<pages>1021-1022</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1021</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HarutyunyanBVN14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HerpsonFC14" mdate="2020-08-12">
+<author pid="00/7439">C&#233;dric Herpson</author>
+<author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author>
+<author pid="15/6998">Vincent Corruble</author>
+<title>ADS2 : Anytime Distributed Supervision of Distributed Systems that Face Unreliable or Costly Communication.</title>
+<pages>1023-1024</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1023</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HerpsonFC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HilliardGN14" mdate="2017-05-24">
+<author pid="134/7463">Elizabeth M. Hilliard</author>
+<author pid="g/AmyRGreenwald">Amy Greenwald</author>
+<author pid="88/2874">Victor Naroditskiy</author>
+<title>An Algorithm for the Penalized Multiple Choice Knapsack Problem.</title>
+<pages>1025-1026</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1025</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HilliardGN14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HoferAPW14" mdate="2021-04-12">
+<author orcid="0000-0001-5144-059X" pid="90/8164">Birgit Hofer</author>
+<author orcid="0000-0003-3734-3157" pid="00/6243">Rui Abreu 0001</author>
+<author orcid="0000-0002-5809-0550" pid="120/0747">Alexandre Perez</author>
+<author orcid="0000-0002-0462-2283" pid="w/FranzWotawa">Franz Wotawa</author>
+<title>Generation of Relevant Spreadsheet Repair Candidates.</title>
+<pages>1027-1028</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1027</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HoferAPW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HoferW14" mdate="2018-11-02">
+<author orcid="0000-0001-5144-059X" pid="90/8164">Birgit Hofer</author>
+<author orcid="0000-0002-0462-2283" pid="w/FranzWotawa">Franz Wotawa</author>
+<title>Comparing Models for Spreadsheet Fault Localization.</title>
+<pages>1029-1030</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1029</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HoferW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HongHMMLZ14" mdate="2022-06-23">
+<author pid="54/1309">Xin Hong</author>
+<author pid="75/6434">Yan Huang</author>
+<author orcid="0000-0003-4600-398X" pid="95/2994">Wenjun Ma</author>
+<author pid="28/1901-3">Paul Miller 0003</author>
+<author orcid="0000-0001-8356-1361" pid="l/WeiruLiu">Weiru Liu</author>
+<author orcid="0000-0003-1634-9840" pid="36/1648">Huiyu Zhou 0001</author>
+<title>Video Event Recognition by Dempster-Shafer Theory.</title>
+<pages>1031-1032</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1031</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HongHMMLZ14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HunterT14" mdate="2020-12-29">
+<author orcid="0000-0001-5602-7446" pid="23/4530">Anthony Hunter</author>
+<author pid="07/1317">Matthias Thimm</author>
+<title>Probabilistic Argumentation with Incomplete Information.</title>
+<pages>1033-1034</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1033</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HunterT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Ismaili14" mdate="2017-05-24">
+<author pid="131/5300">Anisse Ismaili</author>
+<title>Multiobjective Prices of Stability and Anarchy for Multiobjective Games.</title>
+<pages>1035-1036</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1035</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Ismaili14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/JabbourMRS14" mdate="2022-02-04">
+<author pid="35/2227">Sa&#239;d Jabbour</author>
+<author pid="08/6794-9">Yue Ma 0009</author>
+<author pid="52/9798">Badran Raddaoui</author>
+<author pid="s/LakhdarSais">Lakhdar Sais</author>
+<title>Prime Implicates Based Inconsistency Characterization.</title>
+<pages>1037-1038</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1037</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#JabbourMRS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/JiS14" mdate="2020-10-25">
+<author orcid="0000-0002-1515-0402" pid="16/1844">Jianmin Ji</author>
+<author pid="52/4232">Hannes Strass</author>
+<title>From Default and Autoepistemic Logics to Disjunctive Answer Set Programs via the Logic of GK.</title>
+<pages>1039-1040</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1039</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#JiS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/JobczykBLK14" mdate="2017-09-16">
+<author pid="150/6022">Krystian Jobczyk</author>
+<author pid="70/6184">Maroua Bouzid</author>
+<author orcid="0000-0002-6573-4246" pid="50/3182">Antoni Ligeza</author>
+<author pid="36/3915">Jerzy Karczmarczuk</author>
+<title>Fuzzy Logic for Preferences expressible by convolutions.</title>
+<pages>1041-1042</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1041</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#JobczykBLK14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/KaliaZS14" mdate="2020-06-18">
+<author pid="118/4007">Anup K. Kalia</author>
+<author pid="87/5809-4">Zhe Zhang 0004</author>
+<author orcid="0000-0003-3599-3893" pid="s/MunindarPSingh">Munindar P. Singh</author>
+<title>Estimating Trust from Agents' Interactions via Commitments.</title>
+<pages>1043-1044</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1043</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KaliaZS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/KlerxAB14" mdate="2017-05-24">
+<author pid="139/7037">Timo Klerx</author>
+<author pid="40/4639">Maik Anderka</author>
+<author pid="k/HKleineBuning">Hans Kleine B&#252;ning</author>
+<title>On the Usage of Behavior Models to Detect ATM Fraud.</title>
+<pages>1045-1046</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1045</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KlerxAB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/KontarinisBMM14" mdate="2017-05-24">
+<author pid="118/2709">Dionysios Kontarinis</author>
+<author pid="63/6902">Elise Bonzon</author>
+<author pid="93/1858">Nicolas Maudet</author>
+<author pid="74/6150">Pavlos Moraitis</author>
+<title>On the Use of Target Sets for Move Selection in Multi-Agent Debates.</title>
+<pages>1047-1048</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1047</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KontarinisBMM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/KremplKS14" mdate="2017-05-24">
+<author pid="03/8005">Georg Krempl</author>
+<author pid="150/6042">Daniel Kottke</author>
+<author pid="s/MyraSpiliopoulou">Myra Spiliopoulou</author>
+<title>Probabilistic Active Learning: A Short Proposition.</title>
+<pages>1049-1050</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1049</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KremplKS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Laborie14" mdate="2017-05-24">
+<author pid="64/37">Philippe Laborie</author>
+<title>An Optimal Iterative Algorithm for Extracting MUCs in a Black-box Constraint Network.</title>
+<pages>1051-1052</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1051</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Laborie14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LandiGZ14" mdate="2021-04-09">
+<author pid="35/1004">Claudio Landi</author>
+<author pid="81/3406">Arjan J. C. van Gemund</author>
+<author orcid="0000-0003-3896-3913" pid="23/565">Marina Zanella</author>
+<title>Heuristics to Increase Observability in Spectrum-based Fault Localization.</title>
+<pages>1053-1054</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1053</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LandiGZ14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LangSV14" mdate="2021-12-21">
+<author pid="55/5701">J&#233;r&#244;me Lang</author>
+<author orcid="0000-0003-2548-8623" pid="40/2794">Marija Slavkovik 0001</author>
+<author pid="17/2951">Srdjan Vesic</author>
+<title>A weakening of independence in judgment aggregation: agenda separability.</title>
+<pages>1055-1056</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1055</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LangSV14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LesaintMOV14" mdate="2022-04-19">
+<author pid="90/3690">David Lesaint</author>
+<author pid="59/139">Deepak Mehta 0001</author>
+<author orcid="0000-0002-0090-2085" pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<author pid="53/1100">Vincent Vigneron</author>
+<title>A Decomposition Approach for Discovering Discriminative Motifs in a Sequence Database.</title>
+<pages>1057-1058</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1057</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LesaintMOV14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/LipovetzkyG14" mdate="2020-10-25">
+<author orcid="0000-0002-8667-3681" pid="57/7560">Nir Lipovetzky</author>
+<author orcid="0000-0001-9851-8219" pid="g/HectorGeffner">Hector Geffner</author>
+<title>Width-based Algorithms for Classical Planning: New Results.</title>
+<pages>1059-1060</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1059</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#LipovetzkyG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MaL14" mdate="2022-06-23">
+<author orcid="0000-0003-4600-398X" pid="95/2994">Wenjun Ma</author>
+<author orcid="0000-0001-8356-1361" pid="l/WeiruLiu">Weiru Liu</author>
+<title>An Intelligent Threat Prevention Framework with Heterogeneous Information.</title>
+<pages>1061-1062</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1061</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MaL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MalialisDK14" mdate="2019-10-19">
+<author orcid="0000-0003-3432-7434" pid="133/1921">Kleanthis Malialis</author>
+<author orcid="0000-0002-7769-3090" pid="64/7502">Sam Devlin</author>
+<author pid="46/2964">Daniel Kudenko</author>
+<title>Coordinated Team Learning and Difference Rewards for Distributed Intrusion Response.</title>
+<pages>1063-1064</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1063</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MalialisDK14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MalitskyOPM14" mdate="2020-02-24">
+<author pid="59/2173">Yuri Malitsky</author>
+<author orcid="0000-0002-0090-2085" pid="o/BarryOSullivan">Barry O'Sullivan</author>
+<author pid="29/9729">Alessandro Previti</author>
+<author pid="s/JoaoPMarquesSilva">Jo&#227;o Marques-Silva 0001</author>
+<title>Timeout-Sensitive Portfolio Approach to Enumerating Minimal Correction Subsets for Satisfiability Problems.</title>
+<pages>1065-1066</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1065</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MalitskyOPM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MatteiNW14" mdate="2017-05-24">
+<author pid="54/7115">Nicholas Mattei</author>
+<author pid="87/3366">Nina Narodytska</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>How Hard Is It to Control an Election by Breaking Ties?</title>
+<pages>1067-1068</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1067</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MatteiNW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/MehlmannJBHAG14" mdate="2020-12-04">
+<author pid="11/8434">Gregor Mehlmann</author>
+<author orcid="0000-0001-5985-4973" pid="12/7360">Kathrin Janowski</author>
+<author orcid="0000-0002-2797-605X" pid="130/6286-1">Tobias Baur 0001</author>
+<author pid="90/8434">Markus H&#228;ring</author>
+<author pid="a/EAndre">Elisabeth Andr&#233;</author>
+<author pid="95/5908">Patrick Gebhard</author>
+<title>Modeling Gaze Mechanisms for Grounding in HRI.</title>
+<pages>1069-1070</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1069</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#MehlmannJBHAG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ObraztsovaRM14" mdate="2020-10-25">
+<author pid="12/9925">Svetlana Obraztsova</author>
+<author orcid="0000-0002-1796-8013" pid="93/4009">Zinovi Rabinovich</author>
+<author orcid="0000-0002-3210-2955" pid="150/5930">Alexandra Madunts</author>
+<title>Faustian Dynamics in Sarkar's Social Cycle.</title>
+<pages>1071-1072</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1071</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ObraztsovaRM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/OsmanGS14" mdate="2022-09-08">
+<author orcid="0000-0002-2766-3475" pid="02/2098">Nardine Osman 0001</author>
+<author pid="16/8361">Patricia Gutierrez</author>
+<author orcid="0000-0003-0839-6233" pid="s/CarlesSierra">Carles Sierra</author>
+<title>Trustworthy Advice.</title>
+<pages>1073-1074</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1073</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#OsmanGS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/OuYangLL14" mdate="2020-09-02">
+<author pid="46/3783">Jihong Ouyang</author>
+<author pid="48/7828-3">You Lu 0003</author>
+<author pid="130/1013">Ximing Li</author>
+<title>Momentum Online LDA for Large-scale Datasets.</title>
+<pages>1075-1076</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1075</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#OuYangLL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PachetR14" mdate="2017-05-24">
+<author pid="48/124">Fran&#231;ois Pachet</author>
+<author pid="56/2284">Pierre Roy</author>
+<title>Imitative Leadsheet Generation with User Constraints.</title>
+<pages>1077-1078</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1077</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PachetR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Paredis14" mdate="2017-05-24">
+<author pid="58/2013">Jan Paredis</author>
+<title>(Co)evolution Leads towards ROMAs.</title>
+<pages>1079-1080</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1079</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Paredis14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/QahtanWCZ14" mdate="2019-10-07">
+<author pid="121/4198">Abdulhakim Ali Qahtan</author>
+<author pid="27/1836">Suojin Wang</author>
+<author pid="40/3853">Raymond J. Carroll</author>
+<author orcid="0000-0002-3574-5665" pid="74/1890-1">Xiangliang Zhang 0001</author>
+<title>A New Study of Two Divergence Metrics for Change Detection in Data Streams.</title>
+<pages>1081-1082</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1081</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#QahtanWCZ14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/RadoszyckiPS14" mdate="2017-05-24">
+<author pid="150/5997">Julia Radoszycki</author>
+<author pid="77/36">Nathalie Peyrard</author>
+<author pid="64/3227">R&#233;gis Sabbadin</author>
+<title>Finding good stochastic factored policies for factored Markov decision processes.</title>
+<pages>1083-1084</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1083</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#RadoszyckiPS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/RaymondKO14" mdate="2022-10-02">
+<author orcid="0000-0003-1005-6705" pid="p/RRHPutra">Rudy Raymond</author>
+<author pid="64/3728">Teruo Koyanagi</author>
+<author pid="95/5631">Takayuki Osogami</author>
+<title>An Approximate Counting for Big Textual Data Streams.</title>
+<pages>1085-1086</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1085</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#RaymondKO14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/RodriguesSBR14" mdate="2019-10-19">
+<author orcid="0000-0002-9039-4570" pid="05/9077">Christophe Rodrigues</author>
+<author orcid="0000-0001-8505-948X" pid="23/5819">Henry Soldano</author>
+<author pid="05/5583">Gauvain Bourgne</author>
+<author pid="r/CelineRouveirol">C&#233;line Rouveirol</author>
+<title>Multi Agent Learning of Relational Action Models.</title>
+<pages>1087-1088</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1087</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#RodriguesSBR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SchneiderR14" mdate="2022-10-18">
+<author pid="s/MarkusSchneider5">Markus Schneider 0005</author>
+<author pid="22/2488">Fabio Ramos 0001</author>
+<title>Transductive Learning for Multi-Task Copula Processes.</title>
+<pages>1089-1090</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1089</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SchneiderR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SchumannLP14" mdate="2017-06-15">
+<author pid="40/3087">Anika Schumann</author>
+<author pid="02/3657">Freddy L&#233;cu&#233;</author>
+<author orcid="0000-0002-6320-8891" pid="38/2379">Joern Ploennigs</author>
+<title>Exploiting the Semantic Web for Systems Diagnosis.</title>
+<pages>1091-1092</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1091</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SchumannLP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SchwarzentruberS14" mdate="2018-11-02">
+<author orcid="0000-0002-1228-4333" pid="35/485">Fran&#231;ois Schwarzentruber</author>
+<author pid="124/0186">Caroline Semmling</author>
+<title>STIT is dangerously undecidable.</title>
+<pages>1093-1094</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1093</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SchwarzentruberS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SebastiaoGM14" mdate="2020-11-30">
+<author orcid="0000-0001-5717-1415" pid="83/1897">Raquel Sebasti&#227;o</author>
+<author orcid="0000-0003-3357-1195" pid="g/JGama">Jo&#227;o Gama 0001</author>
+<author orcid="0000-0001-7539-7549" pid="53/4551">Teresa Mendon&#231;a</author>
+<title>Comparing Data Distribution Using Fading Histograms.</title>
+<pages>1095-1096</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1095</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SebastiaoGM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SieversWH14" mdate="2017-05-24">
+<author pid="117/4987">Silvan Sievers</author>
+<author pid="01/5971">Martin Wehrle</author>
+<author pid="21/4581">Malte Helmert</author>
+<title>Bounded Intention Planning Revisited.</title>
+<pages>1097-1098</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1097</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SieversWH14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/StanescuBB14" mdate="2017-06-02">
+<author pid="138/4651">Marius Stanescu</author>
+<author orcid="0000-0002-1914-3840" pid="40/7660">Nicolas A. Barriga</author>
+<author pid="26/2020">Michael Buro</author>
+<title>Introducing Hierarchical Adversarial Search, a Scalable Search Procedure for Real-Time Strategy Games.</title>
+<pages>1099-1100</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1099</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#StanescuBB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SuterNPAGMK14" mdate="2019-10-19">
+<author pid="150/5998">Christoph Suter</author>
+<author pid="150/5925">Alexander Navarini</author>
+<author orcid="0000-0002-9520-4799" pid="40/1674">Marc Pouly</author>
+<author pid="42/1426">Ruedi Arnold</author>
+<author pid="150/5929">Florian S. Gutzwiller</author>
+<author pid="20/207">Ren&#233; Meier</author>
+<author pid="63/933">Thomas Koller</author>
+<title>Detection and Quantification of Hand Eczema by Visible Spectrum Skin Pattern Analysis.</title>
+<pages>1101-1102</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1101</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SuterNPAGMK14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/TavcarKKSG14" mdate="2017-06-02">
+<author pid="124/6219">Ales Tavcar</author>
+<author pid="49/7498">Bostjan Kaluza</author>
+<author orcid="0000-0001-6917-498X" pid="11/8878">Marcel Kvassay</author>
+<author pid="53/2267">Bernhard Schneider</author>
+<author pid="43/1312">Matjaz Gams</author>
+<title>Surrogate-Agent Modeling for Improved Training.</title>
+<pages>1103-1104</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1103</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#TavcarKKSG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/TTBFD14" mdate="2017-05-24">
+<author pid="150/6021">Ars&#232;ne Fansi Tchango</author>
+<author pid="44/445">Vincent Thomas</author>
+<author pid="35/5418">Olivier Buffet</author>
+<author pid="97/2011">Fabien Flacher</author>
+<author pid="24/5229">Alain Dutech</author>
+<title>Simultaneous Tracking and Activity Recognition (STAR) using Advanced Agent-Based Behavioral Simulations.</title>
+<pages>1105-1106</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1105</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#TTBFD14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/TolpinBFS14" mdate="2019-10-19">
+<author pid="25/7117">David Tolpin</author>
+<author pid="150/6028">Oded Betzalel</author>
+<author orcid="0000-0003-0065-2757" pid="43/5063">Ariel Felner</author>
+<author pid="08/1674">Solomon Eyal Shimony</author>
+<title>Rational Deployment of Multiple Heuristics in IDA.</title>
+<pages>1107-1108</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1107</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#TolpinBFS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/TongMSI14" mdate="2018-11-02">
+<author pid="78/1232">Bin Tong</author>
+<author pid="36/1501">Tetsuro Morimura</author>
+<author pid="s/EinoshinSuzuki">Einoshin Suzuki</author>
+<author orcid="0000-0001-8993-2776" pid="i/TsuyoshiIde">Tsuyoshi Id&#233;</author>
+<title>Probabilistic Two-Level Anomaly Detection for Correlated Systems.</title>
+<pages>1109-1110</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1109</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#TongMSI14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/TozickaJK14" mdate="2017-11-06">
+<author pid="37/5893">Jan Tozicka</author>
+<author orcid="0000-0002-8848-5537" pid="88/7998">Jan Jakubuv</author>
+<author pid="96/5384">Anton&#237;n Komenda</author>
+<title>Generating Multi-Agent Plans by Distributed Intersection of Finite State Machines.</title>
+<pages>1111-1112</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1111</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#TozickaJK14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/UsbeckNRGCAB14" mdate="2022-12-07">
+<author orcid="0000-0002-0191-7211" pid="65/9656">Ricardo Usbeck</author>
+<author pid="65/4336">Axel-Cyrille Ngonga Ngomo</author>
+<author pid="138/4906">Michael R&#246;der</author>
+<author pid="70/8503">Daniel Gerber</author>
+<author orcid="0000-0001-8437-9481" pid="146/4209">Sandro Athaide Coelho</author>
+<author orcid="0000-0002-0698-2864" pid="05/6406">S&#246;ren Auer</author>
+<author pid="07/4780">Andreas Both 0001</author>
+<title>AGDISTIS - Agnostic Disambiguation of Named Entities Using Linked Open Data.</title>
+<pages>1113-1114</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1113</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#UsbeckNRGCAB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/UzunR14" mdate="2021-06-04">
+<author pid="150/5920">Tha&#237;s Gobet Uzun</author>
+<author orcid="0000-0002-5760-8426" pid="22/5107">Carlos Henrique Costa Ribeiro</author>
+<title>Community Detection based on a Naming Game.</title>
+<pages>1115-1116</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1115</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#UzunR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/VallatiCG14" mdate="2023-01-31">
+<author orcid="0000-0002-8429-3570" pid="13/7563">Mauro Vallati</author>
+<author orcid="0000-0003-0755-0358" pid="97/18">Federico Cerutti 0001</author>
+<author orcid="0000-0003-4771-4265" pid="77/1121">Massimiliano Giacomin</author>
+<title>Argumentation Frameworks Features: an Initial Study.</title>
+<pages>1117-1118</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1117</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#VallatiCG14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/VicientM14" mdate="2019-09-25">
+<author pid="52/10715">Carlos Vicient</author>
+<author orcid="0000-0003-3945-2314" pid="82/6899">Antonio Moreno</author>
+<title>Unsupervised semantic clustering of Twitter hashtags.</title>
+<pages>1119-1120</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1119</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#VicientM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/VittautM14" mdate="2017-05-24">
+<author pid="12/3351">Jean-No&#235;l Vittaut</author>
+<author pid="67/9142">Jean M&#233;hat</author>
+<title>Fast Instantiation of GGP Game Descriptions Using Prolog with Tabling.</title>
+<pages>1121-1122</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1121</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#VittautM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/VolgmannPNR14" mdate="2017-05-24">
+<author pid="150/5894">S&#246;ren Volgmann</author>
+<author pid="63/8242">Francisco M. Rangel Pardo</author>
+<author pid="62/3034">Oliver Niggemann</author>
+<author pid="05/3463">Paolo Rosso</author>
+<title>Emotional Trends in Social Media - A State Space Approach.</title>
+<pages>1123-1124</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1123</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#VolgmannPNR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/WeiD14" mdate="2019-12-04">
+<author pid="38/7021-1">Hui Wei 0001</author>
+<author pid="27/1207-3">Zheng Dong 0003</author>
+<title>Local Image Descriptor Inspired by Visual Cortex.</title>
+<pages>1125-1126</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1125</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#WeiD14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/WestphalH14" mdate="2017-05-24">
+<author pid="25/4612">Matthias Westphal</author>
+<author pid="42/3464">Julien Hu&#233;</author>
+<title>A Concise Horn Theory for RCC8.</title>
+<pages>1127-1128</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1127</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#WestphalH14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/YanLJ14" mdate="2022-11-14">
+<author pid="150/5919">Fuhan Yan</author>
+<author pid="02/9552-1">Zhaofeng Li 0001</author>
+<author pid="10/3757">Yichuan Jiang</author>
+<title>Noised Diffusion Dynamics with Individual Biased Opinion.</title>
+<pages>1129-1130</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1129</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#YanLJ14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Yang14" mdate="2019-09-25">
+<author pid="13/9959">Yongjie Yang 0001</author>
+<title>Election Attacks with Few Candidates.</title>
+<pages>1131-1132</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1131</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Yang14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/YaoLT14" mdate="2021-12-08">
+<author orcid="0000-0002-2705-6245" pid="25/4120-7">Yuan Yao 0007</author>
+<author pid="81/6813">Brian Logan 0001</author>
+<author orcid="0000-0002-7699-6444" pid="02/2279">John Thangarajah</author>
+<title>SP-MCTS-based Intention Scheduling for BDI Agents.</title>
+<pages>1133-1134</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1133</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#YaoLT14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ZengO14" mdate="2017-06-15">
+<author pid="01/6528">Cheng Zeng</author>
+<author orcid="0000-0002-4854-9014" pid="93/2933">Nir Oren</author>
+<title>Dynamic Taxi Pricing.</title>
+<pages>1135-1136</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1135</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ZengO14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ZhangXHL14" mdate="2017-08-21">
+<author pid="50/4782">Yulin Zhang</author>
+<author pid="61/3906-3">Yang Xu 0003</author>
+<author pid="150/6045">Haixiao Hu</author>
+<author pid="150/5942">Xianggen Liu</author>
+<title>Semantical Information Graph Model toward Fast Information Valuation in Large Teamwork.</title>
+<pages>1137-1138</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1137</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ZhangXHL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Zhou14" mdate="2017-05-24">
+<author pid="01/1901">Yi Zhou</author>
+<title>From Disjunctive to Normal Logic Programs via Unfolding and Shifting.</title>
+<pages>1139-1140</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1139</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Zhou14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/EvenPH14" mdate="2017-05-24">
+<author pid="135/6238">Caroline Even</author>
+<author pid="121/5530">Victor Pillac</author>
+<author pid="h/PVHentenryck">Pascal Van Hentenryck</author>
+<title>NICTA Evacuation Planner: Actionable Evacuation Plans with Contraflows.</title>
+<pages>1143-1148</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1143</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#EvenPH14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/HrncirSZNJ14" mdate="2017-05-24">
+<author pid="125/2273">Jan Hrnc&#237;r</author>
+<author pid="150/5904">Qing Song</author>
+<author pid="150/5865">Pavol Zilecky</author>
+<author pid="150/5916">Marcel Nemet</author>
+<author pid="87/141">Michal Jakob</author>
+<title>Bicycle Route Planning with Route Choice Preferences.</title>
+<pages>1149-1154</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1149</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#HrncirSZNJ14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/NatarajanLK14" mdate="2017-05-24">
+<author pid="118/3932">Prabhu Natarajan</author>
+<author pid="97/4877">Kian Hsiang Low</author>
+<author pid="09/3613">Mohan S. Kankanhalli</author>
+<title>No One is Left &#34;Unwatched&#34;: Fairness in Observation of Crowds of Mobile Targets in Active Camera Surveillance.</title>
+<pages>1155-1160</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1155</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#NatarajanLK14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/NinausFSRLWS14" mdate="2017-05-24">
+<author pid="74/10947">Gerald Ninaus</author>
+<author pid="71/915">Alexander Felfernig</author>
+<author pid="130/0873">Martin Stettinger</author>
+<author pid="79/10701">Stefan Reiterer</author>
+<author pid="90/1121">Gerhard Leitner</author>
+<author pid="53/10945">Leopold Weninger</author>
+<author pid="150/5977">Walter Schanil</author>
+<title>INTELLIREQ: Intelligent Techniques for Software Requirements Engineering.</title>
+<pages>1161-1166</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1161</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#NinausFSRLWS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/OsogamiR14" mdate="2022-10-02">
+<author pid="95/5631">Takayuki Osogami</author>
+<author orcid="0000-0003-1005-6705" pid="p/RRHPutra">Rudy Raymond</author>
+<title>Efficient Policy Iteration for Periodic Markov Decision Processes.</title>
+<pages>1167-1172</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1167</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#OsogamiR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/RichardsonS14" mdate="2017-05-24">
+<author pid="36/3983">Ariella Richardson</author>
+<author pid="05/3050">Uzy Smilansky</author>
+<title>Geometrical Feature Extraction for Cuneiforms.</title>
+<pages>1173-1178</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1173</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#RichardsonS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/Sanchez-MaronoAFBPC14" mdate="2017-06-15">
+<author orcid="0000-0003-4025-1405" pid="24/3394">Noelia S&#225;nchez-Maro&#241;o</author>
+<author orcid="0000-0003-0950-0012" pid="04/4614">Amparo Alonso-Betanzos</author>
+<author pid="65/805">Oscar Fontenla-Romero</author>
+<author pid="150/5882">C. Brinquis-N&#250;&#241;ez</author>
+<author orcid="0000-0002-8596-0590" pid="42/5426">J. Gareth Polhill</author>
+<author pid="45/3857">Tony Craig</author>
+<title>Influence of internal values and social networks for achieving sustainable organizations.</title>
+<pages>1179-1184</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1179</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#Sanchez-MaronoAFBPC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/StrussSFSK14" mdate="2018-11-02">
+<author pid="s/PeterStruss">Peter Struss</author>
+<author pid="150/5938">Raymond Sterling</author>
+<author pid="150/6037">Jes&#250;s Febres</author>
+<author pid="150/5972">Umbreen Sabir</author>
+<author orcid="0000-0002-6785-3484" pid="20/3146">Marcus M. Keane</author>
+<title>Combining Engineering and Qualitative Models to Fault Diagnosis in Air Handling Units.</title>
+<pages>1185-1190</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1185</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#StrussSFSK14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/TligBS14" mdate="2017-05-24">
+<author pid="27/10718">Mohamed Tlig</author>
+<author pid="35/5418">Olivier Buffet</author>
+<author pid="s/OlivierSimonin">Olivier Simonin 0001</author>
+<title>Stop-Free Strategies for Traffic Networks: Decentralized On-line Optimization.</title>
+<pages>1191-1196</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1191</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#TligBS14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/VelikovaNHLHM14" mdate="2017-05-24">
+<author pid="13/4228">Marina Velikova</author>
+<author pid="47/2805-1">Peter Nov&#225;k 0001</author>
+<author pid="150/6012">Bas Huijbrechts</author>
+<author pid="39/4245">Jan Laarhuis</author>
+<author pid="150/5884">Jesper Hoeksma</author>
+<author pid="04/7662">Steffen Michels</author>
+<title>An Integrated Reconfigurable System for Maritime Situational Awareness.</title>
+<pages>1197-1202</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1197</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#VelikovaNHLHM14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/AkasiadisC14" mdate="2022-06-23">
+<author orcid="0000-0003-0785-4036" pid="17/11285">Charilaos Akasiadis</author>
+<author orcid="0000-0002-0716-2972" pid="92/2998">Georgios Chalkiadakis</author>
+<title>Stochastic Filtering Methods for Predicting Agent Performance in the Smart Grid.</title>
+<pages>1205-1206</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1205</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#AkasiadisC14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/KrcEP14" mdate="2018-11-02">
+<author pid="150/4020">Pavel Krc</author>
+<author orcid="0000-0003-4602-748X" pid="150/3963">Krystof Eben</author>
+<author pid="84/3912">Emil Pelik&#225;n</author>
+<title>Clustering weather situations with respect to prediction of solar irradiance by multiple NWP models.</title>
+<pages>1207-1208</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1207</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KrcEP14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PlchMOCGB14" mdate="2018-12-01">
+<author pid="45/7657">Tom&#225;s Plch</author>
+<author pid="150/5937">Matej Marko</author>
+<author pid="150/5981">Petr Ondr&#225;cek</author>
+<author orcid="0000-0002-8886-7797" pid="60/11424-1">Martin Cern&#253; 0001</author>
+<author pid="49/3327">Jakub Gemrot</author>
+<author orcid="0000-0001-5945-0514" pid="51/2735">Cyril Brom</author>
+<title>Modular Behavior Trees: Language for Fast AI in Open-World Video Games.</title>
+<pages>1209-1210</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1209</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PlchMOCGB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/PloennigsSL14" mdate="2017-06-15">
+<author orcid="0000-0002-6320-8891" pid="38/2379">Joern Ploennigs</author>
+<author pid="40/3087">Anika Schumann</author>
+<author pid="02/3657">Freddy L&#233;cu&#233;</author>
+<title>Extending Semantic Sensor Networks for Automatically Tackling Smart Building Problems.</title>
+<pages>1211-1212</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1211</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#PloennigsSL14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SadikovGZMGPB14" mdate="2021-10-14">
+<author pid="34/5829">Aleksander Sadikov</author>
+<author orcid="0000-0001-8925-926X" pid="34/8487">Vida Groznik</author>
+<author pid="15/280">Jure Zabkar</author>
+<author pid="82/554">Martin Mozina</author>
+<author pid="28/10107">Dejan Georgiev</author>
+<author pid="84/10107">Zvezdan Pirtosek</author>
+<author pid="b/IvanBratko">Ivan Bratko</author>
+<title>ParkinsonCheck Smart Phone App.</title>
+<pages>1213-1214</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1213</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SadikovGZMGPB14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/VlasselaerMLR14" mdate="2020-10-25">
+<author pid="150/5902">Jonas Vlasselaer</author>
+<author orcid="0000-0001-9560-3872" pid="82/334">Wannes Meert</author>
+<author orcid="0000-0002-7583-7003" pid="29/11214">Rocco Langone</author>
+<author orcid="0000-0002-6860-6303" pid="r/LucDeRaedt">Luc De Raedt</author>
+<title>Condition Monitoring with Incomplete Observations.</title>
+<pages>1215-1216</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1215</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#VlasselaerMLR14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/WoudenbergGFE14" mdate="2017-05-24">
+<author pid="43/9811">Steven P. D. Woudenberg</author>
+<author pid="g/LindaCvanderGaag">Linda C. van der Gaag</author>
+<author pid="23/3319">Ad Feelders</author>
+<author pid="74/11033">Armin R. W. Elbers</author>
+<title>Real-time Adaptive Problem Detection in Poultry.</title>
+<pages>1217-1218</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1217</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#WoudenbergGFE14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ArztBFFGLW14" mdate="2019-12-27">
+<author pid="39/2208">Andreas Arzt</author>
+<author orcid="0000-0001-6707-5427" pid="15/9952">Sebastian B&#246;ck</author>
+<author pid="22/8885">Sebastian Flossmann</author>
+<author pid="118/2616">Harald Frostel</author>
+<author pid="18/2115">Martin Gasser</author>
+<author pid="36/9954">Cynthia C. S. Liem</author>
+<author orcid="0000-0003-3531-1282" pid="w/GerhardWidmer">Gerhard Widmer</author>
+<title>The Piano Music Companion.</title>
+<pages>1221-1222</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1221</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ArztBFFGLW14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/ChertesF14" mdate="2018-11-02">
+<author pid="133/0988">Florin Chertes</author>
+<author orcid="0000-0001-7656-8338" pid="42/3132">Ingo Feinerer</author>
+<title>VMAP: A Visual Schema Mapping Tool.</title>
+<pages>1223-1224</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1223</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#ChertesF14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/JakobHORZF14" mdate="2017-06-15">
+<author pid="87/141">Michal Jakob</author>
+<author pid="125/2273">Jan Hrnc&#237;r</author>
+<author pid="181/2404">Luis Oliva</author>
+<author orcid="0000-0001-5037-9061" pid="66/2469">Francesco Ronzano</author>
+<author pid="150/5865">Pavol Zilecky</author>
+<author pid="70/5859">Jason Finnegan</author>
+<title>Personalized Fully Multimodal Journey Planner.</title>
+<pages>1225-1226</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1225</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#JakobHORZF14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/KliegrK14" mdate="2017-05-24">
+<author pid="46/3161">Tom&#225;s Kliegr</author>
+<author pid="118/9541">Jaroslav Kuchar</author>
+<title>Orwellian Eye: Video Recommendation with Microsoft Kinect.</title>
+<pages>1227-1228</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1227</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#KliegrK14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/NyklJH14" mdate="2017-05-24">
+<author pid="150/6025">Jan Nykl</author>
+<author pid="87/141">Michal Jakob</author>
+<author pid="125/2273">Jan Hrnc&#237;r</author>
+<title>Advanced Public Transport Network Analyser.</title>
+<pages>1229-1230</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1229</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#NyklJH14</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/ecai/SchallerH14" mdate="2017-05-24">
+<author pid="45/8326">Richard Schaller</author>
+<author pid="25/6455">Martin Hacker</author>
+<title>Mobile Tourist Guide: Bridging the Gap between Recommending, Planning and User-Centered Interaction.</title>
+<pages>1231-1232</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-419-0-1231</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#SchallerH14</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

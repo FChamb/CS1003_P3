@@ -1,0 +1,276 @@
+<bht key="db/conf/soco/sc2008.bht" title="SC@ETAPS 2008">  
+<h1>7th <ref href="db/conf/soco/index.html">SC</ref>@<ref href="db/conf/etaps/index.html">ETAPS</ref> 2008:
+Budapest, Hungary</h1> <dblpcites><r><proceedings key="conf/soco/2008" mdate="2020-06-25">
+<editor pid="p/CesarePautasso">Cesare Pautasso</editor>
+<editor pid="t/EricTanter">&#201;ric Tanter</editor>
+<title>Software Composition - 7th International Symposium, SC@ETAPS 2008, Budapest, Hungary, March 29-30, 2008. Proceedings</title>
+<volume>4954</volume>
+<year>2008</year>
+<isbn>978-3-540-78788-4</isbn>
+<booktitle>SC@ETAPS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/978-3-540-78789-1</ee>
+<url>db/conf/soco/sc2008.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Composition Languages</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/soco/Lumpe08" mdate="2020-06-25">
+<author pid="l/MarkusLumpe">Markus Lumpe</author>
+<title>Growing a Language: The GLooPerspective.</title>
+<pages>1-19</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_1</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#Lumpe08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/ApelL08" mdate="2020-06-25">
+<author pid="a/SvenApel">Sven Apel</author>
+<author pid="l/CLengauer">Christian Lengauer</author>
+<title>Superimposition: A Language-Independent Approach to Software Composition.</title>
+<pages>20-35</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_2</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#ApelL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/LoughranSGF08" mdate="2020-11-06">
+<author pid="85/798">Neil Loughran</author>
+<author pid="35/2658-2">Pablo S&#225;nchez 0002</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author orcid="0000-0002-5677-7156" pid="59/1161">Lidia Fuentes</author>
+<title>Language Support for Managing Variability in Architectural Models.</title>
+<pages>36-51</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_3</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#LoughranSGF08</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Composition Middleware</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/soco/RouvoyEFHS08" mdate="2021-10-14">
+<author orcid="0000-0003-1771-8791" pid="52/2030">Romain Rouvoy</author>
+<author pid="92/3357">Frank Eliassen</author>
+<author pid="08/1884">Jacqueline Floch</author>
+<author pid="64/4690">Svein O. Hallsteinsen</author>
+<author orcid="0000-0001-9957-6744" pid="47/4566">Erlend Stav</author>
+<title>Composing Components and Services Using a Planning-Based Adaptation Middleware.</title>
+<pages>52-67</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_4</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#RouvoyEFHS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/ParrendF08" mdate="2020-06-25">
+<author pid="83/6244">Pierre Parrend</author>
+<author pid="57/4393">St&#233;phane Fr&#233;not</author>
+<title>Component-Based Access Control: Secure Software Composition through Static Analysis.</title>
+<pages>68-83</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_5</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#ParrendF08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/WorzbergerEH08" mdate="2020-06-25">
+<author pid="w/ReneWorzberger">Ren&#233; W&#246;rzberger</author>
+<author pid="33/3621">Nicolas Ehses</author>
+<author pid="41/4858">Thomas Heer</author>
+<title>Adding Support for Dynamics Patterns to Static Business Process Management Systems.</title>
+<pages>84-91</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_6</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#WorzbergerEH08</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Service Composition</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/soco/ForghanizadehW08" mdate="2020-06-25">
+<author pid="96/2867">Sara Forghanizadeh</author>
+<author pid="w/EricWohlstadter">Eric Wohlstadter</author>
+<title>Interface Composition for Web Service Intermediaries.</title>
+<pages>92-108</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_7</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#ForghanizadehW08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/NanzT08" mdate="2020-06-25">
+<author pid="79/1959">Sebastian Nanz</author>
+<author pid="32/1100">Terkel K. Tolstrup</author>
+<title>Goal-Oriented Composition of Services.</title>
+<pages>109-124</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_8</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#NanzT08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/AndreAA08" mdate="2021-10-14">
+<author pid="08/6436">Pascal Andr&#233;</author>
+<author pid="14/3009">Gilles Ardourel</author>
+<author orcid="0000-0002-7815-1752" pid="18/1312">J. Christian Attiogb&#233;</author>
+<title>Composing Components with Shared Services in the KmeliaModel.</title>
+<pages>125-140</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_9</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#AndreAA08</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Performance Optimization</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/soco/ChenBC08" mdate="2020-06-25">
+<author pid="34/1910-2">Sheng Chen 0002</author>
+<author pid="80/6207">Liang Bao</author>
+<author pid="33/3675">Ping Chen</author>
+<title>OptBPEL: A Tool for Performance Optimization of BPEL Process.</title>
+<pages>141-148</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_10</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#ChenBC08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/LobryP08" mdate="2020-06-25">
+<author pid="06/4747">Olivier Lobry</author>
+<author pid="77/3860">Juraj Polakovic</author>
+<title>Controlling the Performance Overhead of Component-Based Systems.</title>
+<pages>149-156</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_11</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#LobryP08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/AnderssonEKL08" mdate="2020-06-25">
+<author pid="49/6212">Jesper Andersson</author>
+<author orcid="0000-0003-1173-5187" pid="11/565">Morgan Ericsson</author>
+<author pid="k/ChristophWKessler">Christoph W. Ke&#223;ler</author>
+<author pid="l/WelfLowe">Welf L&#246;we</author>
+<title>Profile-Guided Composition.</title>
+<pages>157-164</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_12</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#AnderssonEKL08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/BaresiT08" mdate="2020-06-25">
+<author orcid="0000-0001-6467-837X" pid="b/LucianoBaresi">Luciano Baresi</author>
+<author pid="02/2374">Giordano Tamburrelli</author>
+<title>Loose Compositions for Autonomic Systems.</title>
+<pages>165-172</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_13</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#BaresiT08</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Applications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/soco/Chatty08" mdate="2020-06-25">
+<author pid="03/3302">St&#233;phane Chatty</author>
+<title>Supporting Multidisciplinary Software Composition for Interactive Applications.</title>
+<pages>173-189</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_14</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#Chatty08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/JacksonS08" mdate="2020-06-25">
+<author pid="16/762">Ethan K. Jackson</author>
+<author pid="s/WolframSchulte">Wolfram Schulte</author>
+<title>Compositional Modeling for Data-Centric Business Applications.</title>
+<pages>190-205</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_15</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#JacksonS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/BalasubramaniamDM08" mdate="2020-06-25">
+<author pid="03/427">Dharini Balasubramaniam</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author pid="82/2183">Ronald Morrison</author>
+<title>A Composition-Based Approach to the Construction and Dynamic Reconfiguration of Wireless Sensor Network Applications.</title>
+<pages>206-214</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_16</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#BalasubramaniamDM08</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Aspect-Oriented Programming</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/soco/GraceLTJ08" mdate="2020-10-25">
+<author orcid="0000-0003-2363-0630" pid="42/1409">Paul Grace</author>
+<author orcid="0000-0002-2543-6658" pid="49/6710">Bert Lagaisse</author>
+<author pid="43/5593">Eddy Truyen</author>
+<author pid="13/86">Wouter Joosen</author>
+<title>A Reflective Framework for Fine-Grained Adaptation of Aspect-Oriented Compositions.</title>
+<pages>215-230</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_17</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#GraceLTJ08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/KammullerS08" mdate="2020-06-25">
+<author pid="47/6815">Florian Kamm&#252;ller</author>
+<author pid="96/6080">Henry Sudhof</author>
+<title>Composing Safely - A Type System for Aspects.</title>
+<pages>231-247</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_18</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#KammullerS08</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/soco/SchmiedH08" mdate="2021-09-17">
+<author pid="52/11163">Andreas Ingmar Schmied</author>
+<author pid="h/FranzJHauck">Franz J. Hauck</author>
+<title>Practical Conflict Resolution for the Composition of Program Transformations.</title>
+<pages>248-262</pages>
+<year>2008</year>
+<booktitle>SC@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78789-1_19</ee>
+<crossref>conf/soco/2008</crossref>
+<url>db/conf/soco/sc2008.html#SchmiedH08</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

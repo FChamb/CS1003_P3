@@ -1,0 +1,302 @@
+<bht key="db/conf/spin/spin2009.bht" title="16. SPIN 2009: Grenoble, France">  
+<h1>16th <ref href="db/conf/spin/index.html">SPIN</ref> 2009:
+Grenoble, France</h1> <dblpcites><r><proceedings key="conf/spin/2009" mdate="2019-05-14">
+<editor pid="03/4368">Corina S. Pasareanu</editor>
+<title>Model Checking Software, 16th International SPIN Workshop, Grenoble, France, June 26-28, 2009. Proceedings</title>
+<volume>5578</volume>
+<year>2009</year>
+<ee>https://doi.org/10.1007/978-3-642-02652-2</ee>
+<isbn>978-3-642-02651-5</isbn>
+<booktitle>SPIN</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/spin/spin2009.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Invited Contributions</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/spin/Godefroid09" mdate="2018-06-26">
+<author pid="20/1639">Patrice Godefroid</author>
+<title>Software Model Checking Improving Security of a Billion Computers.</title>
+<pages>1</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02652-2_1</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#Godefroid09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/Kwiatkowska09" mdate="2017-05-17">
+<author pid="k/MartaZKwiatkowska">Marta Z. Kwiatkowska</author>
+<title>On Quantitative Software Verification.</title>
+<pages>2-3</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_2</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#Kwiatkowska09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/Sifakis09" mdate="2018-06-26">
+<author pid="s/JosephSifakis">Joseph Sifakis</author>
+<title>The Quest for Correctness-Beyond a Posteriori Verification.</title>
+<pages>4</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02652-2_3</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#Sifakis09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/Visser09" mdate="2018-06-26">
+<author pid="54/5019">Willem Visser</author>
+<title>Who Really Cares If the Program Crashes?.</title>
+<pages>5</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02652-2_4</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#Visser09</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+<h2>Regular Papers</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/spin/Ben-Ari09" mdate="2017-05-17">
+<author pid="b/MBenAri">Mordechai Ben-Ari</author>
+<title>Tool Presentation: Teaching Concurrency and Model Checking.</title>
+<pages>6-11</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_5</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#Ben-Ari09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/DillingerM09" mdate="2020-06-23">
+<author pid="37/2340">Peter C. Dillinger</author>
+<author pid="40/4888">Panagiotis Manolios</author>
+<title>Fast, All-Purpose State Storage.</title>
+<pages>12-31</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_6</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#DillingerM09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/BosnackiES09" mdate="2017-05-17">
+<author pid="38/2132">Dragan Bosnacki</author>
+<author pid="98/3919">Stefan Edelkamp</author>
+<author pid="47/32">Damian Sulewski</author>
+<title>Efficient Probabilistic Model Checking on General Purpose Graphics Processors.</title>
+<pages>32-49</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_7</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#BosnackiES09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/FaragoS09" mdate="2017-05-17">
+<author pid="28/7125">David Farag&#243;</author>
+<author pid="s/PeterHSchmitt">Peter H. Schmitt</author>
+<title>Improving Non-Progress Cycle Checks.</title>
+<pages>50-67</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_8</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#FaragoS09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/GanaiK09" mdate="2017-05-17">
+<author pid="34/7032">Malay K. Ganai</author>
+<author pid="82/3612">Sudipta Kundu</author>
+<title>Reduction of Verification Conditions for Concurrent System Using Mutually Atomic Transactions.</title>
+<pages>68-87</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_9</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#GanaiK09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/HahnHZ09" mdate="2017-05-17">
+<author pid="78/6159">Ernst Moritz Hahn</author>
+<author pid="h/HolgerHermanns">Holger Hermanns</author>
+<author pid="76/4015-1">Lijun Zhang 0001</author>
+<title>Probabilistic Reachability for Parametric Markov Models.</title>
+<pages>88-106</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_10</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#HahnHZ09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/HeussnerGS09" mdate="2017-05-17">
+<author pid="16/4771">Alexander Heu&#223;ner</author>
+<author pid="48/4007">Tristan Le Gall</author>
+<author pid="58/953">Gr&#233;goire Sutre</author>
+<title>Extrapolation-Based Path Invariants for Abstraction Refinement of Fifo Systems.</title>
+<pages>107-124</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_11</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#HeussnerGS09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/KiddLTR09" mdate="2017-05-17">
+<author pid="12/1884">Nicholas Kidd</author>
+<author pid="49/5258">Peter Lammich</author>
+<author pid="23/6190">Tayssir Touili</author>
+<author pid="r/TWReps">Thomas W. Reps</author>
+<title>A Decision Procedure for Detecting Atomicity Violations for Communicating Processes with Locks.</title>
+<pages>125-142</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_12</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#KiddLTR09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/KovseVVB09" mdate="2017-06-15">
+<author pid="26/7126">Tim Kovse</author>
+<author orcid="0000-0002-8401-1465" pid="31/7074">Bostjan Vlaovic</author>
+<author pid="72/1847">Aleksander Vreze</author>
+<author pid="94/5214">Zmago Brezocnik</author>
+<title>Eclipse Plug-In for Spin and st2msc Tools-Tool Presentation.</title>
+<pages>143-147</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_13</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#KovseVVB09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/LimLR09" mdate="2017-05-17">
+<author pid="94/2026">Junghee Lim</author>
+<author pid="27/1008">Akash Lal</author>
+<author pid="r/TWReps">Thomas W. Reps</author>
+<title>Symbolic Analysis via Semantic Reinterpretation.</title>
+<pages>148-168</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_14</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#LimLR09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/PelanekR09" mdate="2019-06-02">
+<author orcid="0000-0001-8877-4729" pid="23/6970">Radek Pel&#225;nek</author>
+<author pid="03/4067">V&#225;clav Roseck&#253;</author>
+<title>EMMA: Explicit Model Checking Manager (Tool Presentation).</title>
+<pages>169-173</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_15</ee>
+<ee>https://www.wikidata.org/entity/Q62039397</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#PelanekR09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/RungtaMV09" mdate="2017-05-17">
+<author pid="66/4832">Neha Rungta</author>
+<author pid="m/EricMercer">Eric G. Mercer</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Efficient Testing of Concurrent Programs with Abstraction-Guided Symbolic Execution.</title>
+<pages>174-191</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_16</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#RungtaMV09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/RybalchenkoS09" mdate="2017-05-17">
+<author pid="r/AndreyRybalchenko">Andrey Rybalchenko</author>
+<author pid="25/7056">Rishabh Singh</author>
+<title>Subsumer-First: Steering Symbolic Reachability Analysis.</title>
+<pages>192-204</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_17</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#RybalchenkoS09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/SchmerlVK09" mdate="2017-05-17">
+<author pid="33/1375">Sebastian Schmerl</author>
+<author pid="08/3">Michael Vogel</author>
+<author pid="k/HartmutKonig">Hartmut K&#246;nig</author>
+<title>Identifying Modeling Errors in Signatures by Model Checking.</title>
+<pages>205-222</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_18</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#SchmerlVK09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/SharmaLMDBMS09" mdate="2020-10-25">
+<author pid="53/937">Oliver Sharma</author>
+<author pid="97/4717">Jonathan Lewis</author>
+<author orcid="0000-0002-0941-1717" pid="83/3062">Alice Miller 0001</author>
+<author pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0002-5093-0906" pid="03/427">Dharini Balasubramaniam</author>
+<author pid="82/2183">Ronald Morrison</author>
+<author pid="s/JSSventek">Joe Sventek</author>
+<title>Towards Verifying Correctness of Wireless Sensor Network Applications Using Insense and Spin.</title>
+<pages>223-240</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_19</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#SharmaLMDBMS09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/GaravelT09" mdate="2017-05-17">
+<author pid="83/127">Hubert Garavel</author>
+<author pid="24/3859">Damien Thivolle</author>
+<title>Verification of GALS Systems by Combining Synchronous Languages and Process Calculi.</title>
+<pages>241-260</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_20</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#GaravelT09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/VechevYY09" mdate="2017-05-17">
+<author pid="93/2189">Martin T. Vechev</author>
+<author pid="54/5133">Eran Yahav</author>
+<author pid="50/6710">Greta Yorsh</author>
+<title>Experience with Model Checking Linearizability.</title>
+<pages>261-278</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_21</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#VechevYY09</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/spin/YangCGW09" mdate="2017-05-17">
+<author pid="16/4505">Yu Yang</author>
+<author pid="47/3525">Xiaofang Chen</author>
+<author pid="g/GGopalakrishnan">Ganesh Gopalakrishnan</author>
+<author pid="w/ChaoWang">Chao Wang 0001</author>
+<title>Automatic Discovery of Transition Symmetry in Multithreaded Programs Using Dynamic Analysis.</title>
+<pages>279-295</pages>
+<year>2009</year>
+<booktitle>SPIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02652-2_22</ee>
+<crossref>conf/spin/2009</crossref>
+<url>db/conf/spin/spin2009.html#YangCGW09</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

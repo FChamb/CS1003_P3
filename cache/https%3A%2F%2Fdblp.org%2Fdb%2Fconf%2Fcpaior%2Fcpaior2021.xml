@@ -1,0 +1,405 @@
+<bht key="db/conf/cpaior/cpaior2021.bht" title="CPAIOR 2021">  
+<h1>18th <ref href="db/conf/cpaior/index.html">CPAIOR</ref> 2021:
+Vienna, Austria</h1> <dblpcites><r><proceedings key="conf/cpaior/2021" mdate="2021-06-17">
+<editor pid="s/PeterJStuckey">Peter J. Stuckey</editor>
+<title>Integration of Constraint Programming, Artificial Intelligence, and Operations Research - 18th International Conference, CPAIOR 2021, Vienna, Austria, July 5-8, 2021, Proceedings</title>
+<booktitle>CPAIOR</booktitle>
+<publisher>Springer</publisher>
+<year>2021</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12735</volume>
+<isbn>978-3-030-78229-0</isbn>
+<isbn>978-3-030-78230-6</isbn>
+<ee>https://doi.org/10.1007/978-3-030-78230-6</ee>
+<url>db/conf/cpaior/cpaior2021.html</url>
+</proceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BjornerLLRV21" mdate="2022-04-14">
+<author pid="51/912">Nikolaj S. Bj&#248;rner</author>
+<author pid="256/4523">Maxwell Levatich</author>
+<author pid="77/2149">Nuno P. Lopes</author>
+<author pid="r/AndreyRybalchenko">Andrey Rybalchenko</author>
+<author pid="166/9316">Chandrasekar Vuppalapati</author>
+<title>Supercharging Plant Configurations Using Z3.</title>
+<pages>1-25</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_1</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#BjornerLLRV21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/HillTV21" mdate="2021-10-14">
+<author pid="157/9632">Alessandro Hill</author>
+<author orcid="0000-0002-7158-5830" pid="295/0951">Jordan Ticktin</author>
+<author pid="18/4010">Thomas W. M. Vossen</author>
+<title>A Computational Study of Constraint Programming Approaches for Resource-Constrained Project Scheduling with Autonomous Learning Effects.</title>
+<pages>26-44</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_2</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#HillTV21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/KarlssonR21" mdate="2021-07-13">
+<author orcid="0000-0002-9498-1924" pid="223/0126">Emil Karlsson</author>
+<author orcid="0000-0002-2081-2888" pid="41/6378">Elina R&#246;nnberg</author>
+<title>Strengthening of Feasibility Cuts in Logic-Based Benders Decomposition.</title>
+<pages>45-61</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_3</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#KarlssonR21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/DrielDY21" mdate="2021-07-13">
+<author pid="253/2057">Ronald van Driel</author>
+<author orcid="0000-0003-1587-5582" pid="115/4370">Emir Demirovic</author>
+<author orcid="0000-0002-1814-3515" pid="95/5096">Neil Yorke-Smith</author>
+<title>Learning Variable Activity Initialisation for Lazy Clause Generation Solvers.</title>
+<pages>62-71</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_4</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#DrielDY21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/HornR21" mdate="2021-06-17">
+<author pid="87/3261">Matthias Horn</author>
+<author pid="88/6934">G&#252;nther R. Raidl</author>
+<title>A<sup>*</sup>-Based Compilation of Relaxed Decision Diagrams for the Longest Common Subsequence Problem.</title>
+<pages>72-88</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_5</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#HornR21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/HoshinoF21" mdate="2021-06-17">
+<author pid="76/5981">Richard Hoshino</author>
+<author pid="274/6684">Irene Fabris</author>
+<title>Partitioning Students into Cohorts During COVID-19.</title>
+<pages>89-105</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_6</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#HoshinoF21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/WangLBC21" mdate="2021-06-17">
+<author pid="39/8600">Keliang Wang</author>
+<author pid="08/906">Leonardo Lozano</author>
+<author pid="70/9555">David Bergman</author>
+<author pid="70/8044">Carlos Cardonha</author>
+<title>A Two-Stage Exact Algorithm for Optimization of Neural Network Ensemble.</title>
+<pages>106-114</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_7</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#WangLBC21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/CohenB21" mdate="2021-06-17">
+<author pid="195/8189">Eldan Cohen</author>
+<author pid="43/2165">J. Christopher Beck</author>
+<title>Heavy-Tails and Randomized Restarting Beam Search in Goal-Oriented Neural Sequence Decoding.</title>
+<pages>115-132</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_8</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#CohenB21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/KlankeBYE21" mdate="2021-07-13">
+<author orcid="0000-0003-1016-0502" pid="295/1476">Christian Klanke</author>
+<author orcid="0000-0002-5203-3889" pid="295/1104">Dominik R. Bleidorn</author>
+<author orcid="0000-0003-4950-8393" pid="295/1157">Vassilios Yfantis</author>
+<author orcid="0000-0002-3125-9846" pid="73/3172">Sebastian Engell</author>
+<title>Combining Constraint Programming and Temporal Decomposition Approaches - Scheduling of an Industrial Formulation Plant.</title>
+<pages>133-148</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_9</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#KlankeBYE21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/LambersRS21" mdate="2021-06-17">
+<author pid="276/5181">Roel Lambers</author>
+<author pid="242/1025">Laurent Rothuizen</author>
+<author pid="25/6435">Frits C. R. Spieksma</author>
+<title>The Traveling Social Golfer Problem: The Case of the Volleyball Nations League.</title>
+<pages>149-162</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_10</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#LambersRS21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/NekkacheJSK21" mdate="2021-07-13">
+<author orcid="0000-0003-3527-9649" pid="207/0865">Ikram Nekkache</author>
+<author orcid="0000-0002-8389-8332" pid="35/2227">Sa&#239;d Jabbour</author>
+<author orcid="0000-0003-2879-8627" pid="s/LakhdarSais">Lakhdar Sais</author>
+<author orcid="0000-0003-3608-8895" pid="98/6742">Nadjet Kamel</author>
+<title>Towards a Compact SAT-Based Encoding of Itemset Mining Tasks.</title>
+<pages>163-178</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_11</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#NekkacheJSK21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/StanczakP0B21" mdate="2021-06-17">
+<author pid="262/9516">Marvin Stanczak</author>
+<author pid="12/5282">C&#233;dric Pralet</author>
+<author pid="09/5817-1">Vincent Vidal 0001</author>
+<author pid="262/9688">Vincent Baudoui</author>
+<title>A Pipe Routing Hybrid Approach Based on A-Star Search and Linear Programming.</title>
+<pages>179-195</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_12</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#StanczakP0B21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/FormentiRR21" mdate="2021-07-13">
+<author orcid="0000-0002-1007-7912" pid="98/3810">Enrico Formenti</author>
+<author orcid="0000-0001-6204-5894" pid="20/6918">Jean-Charles R&#233;gin</author>
+<author orcid="0000-0003-2133-8089" pid="263/2613">Sara Riva</author>
+<title>MDDs Boost Equation Solving on Discrete Dynamical Systems.</title>
+<pages>196-213</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_13</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#FormentiRR21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/HanenKP21" mdate="2021-07-13">
+<author orcid="0000-0003-2482-5042" pid="19/5198">Claire Hanen</author>
+<author orcid="0000-0002-2170-6366" pid="m/AlixMunierKordon">Alix Munier Kordon</author>
+<author orcid="0000-0002-4567-1823" pid="295/1208">Theo Pedersen</author>
+<title>Two Deadline Reduction Algorithms for Scheduling Dependent Tasks on Parallel Processors.</title>
+<pages>214-230</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_14</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#HanenKP21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/GillardCSC21" mdate="2021-07-13">
+<author orcid="0000-0002-4493-6041" pid="249/1832">Xavier Gillard</author>
+<author orcid="0000-0001-5050-0001" pid="269/4586">Vianney Copp&#233;</author>
+<author orcid="0000-0002-3153-8941" pid="78/2903">Pierre Schaus</author>
+<author orcid="0000-0001-5993-4295" pid="87/2502">Andr&#233; Augusto Cir&#233;</author>
+<title>Improving the Filtering of Branch-and-Bound MDD Solver.</title>
+<pages>231-247</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_15</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#GillardCSC21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/PesantMM21" mdate="2021-06-17">
+<author pid="02/6567">Gilles Pesant</author>
+<author pid="129/1623">Kuldeep S. Meel</author>
+<author pid="295/0474">Mahshid Mohammadalitajrishi</author>
+<title>On the Usefulness of Linear Modular Arithmetic in Constraint Programming.</title>
+<pages>248-265</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_16</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#PesantMM21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Silvestri0M21" mdate="2021-06-17">
+<author pid="259/2514">Mattia Silvestri</author>
+<author pid="l/MicheleLombardi">Michele Lombardi 0001</author>
+<author pid="m/MichelaMilano">Michela Milano</author>
+<title>Injecting Domain Knowledge in Neural Networks: A Controlled Experiment on a Constrained Problem.</title>
+<pages>266-282</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_17</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#Silvestri0M21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/BracherFR21" mdate="2021-06-17">
+<author pid="295/1504">Adrian Bracher</author>
+<author pid="256/1246">Nikolaus Frohner</author>
+<author pid="88/6934">G&#252;nther R. Raidl</author>
+<title>Learning Surrogate Functions for the Short-Horizon Planning in Same-Day Delivery Problems.</title>
+<pages>283-298</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_18</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#BracherFR21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/KronqvistMT21" mdate="2021-07-13">
+<author orcid="0000-0003-0299-5745" pid="175/3360">Jan Kronqvist</author>
+<author orcid="0000-0001-5612-5417" pid="04/8800">Ruth Misener</author>
+<author orcid="0000-0003-2848-2809" pid="204/0777">Calvin Tsay</author>
+<title>Between Steps: Intermediate Relaxations Between Big-M and Convex Hull Formulations.</title>
+<pages>299-314</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_19</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#KronqvistMT21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/AvgerinosMZ21" mdate="2021-06-17">
+<author pid="295/0701">Ioannis Avgerinos</author>
+<author pid="77/2783">Ioannis Mourtos</author>
+<author pid="117/5875">Georgios Zois</author>
+<title>Logic-Based Benders Decomposition for an Inter-modal Transportation Problem.</title>
+<pages>315-331</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_20</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#AvgerinosMZ21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/JungR21" mdate="2021-07-13">
+<author pid="295/1575">Victor Jung</author>
+<author orcid="0000-0001-6204-5894" pid="20/6918">Jean-Charles R&#233;gin</author>
+<title>Checking Constraint Satisfaction.</title>
+<pages>332-347</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_21</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#JungR21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/AkgunEJMPZ21" mdate="2021-07-14">
+<author orcid="0000-0001-9519-938X" pid="35/9923">&#214;zg&#252;r Akg&#252;n</author>
+<author orcid="0000-0002-0266-3292" pid="35/3842">Jessica A. Enright</author>
+<author orcid="0000-0003-2979-5989" pid="03/5951">Christopher Jefferson</author>
+<author orcid="0000-0002-6106-4871" pid="119/4841">Ciaran McCreesh</author>
+<author orcid="0000-0003-4460-6912" pid="14/3015">Patrick Prosser</author>
+<author orcid="0000-0001-9062-6637" pid="32/2945">Steffen Zschaler</author>
+<title>Finding Subgraphs with Side Constraints.</title>
+<pages>348-364</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_22</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#AkgunEJMPZ21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/Astrand0F21" mdate="2021-06-17">
+<author pid="212/6344">Max &#197;strand</author>
+<author pid="53/764-1">Mikael Johansson 0001</author>
+<author pid="07/10825">Hamid Reza Feyzmahdavian</author>
+<title>Short-Term Scheduling of Production Fleets in Underground Mines Using CP-Based LNS.</title>
+<pages>365-382</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_23</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#Astrand0F21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/PorrmannR21" mdate="2022-01-03">
+<author pid="295/0738">Till Porrmann</author>
+<author orcid="0000-0001-8369-7939" pid="23/10085">Michael R&#246;mer</author>
+<title>Learning to Reduce State-Expanded Networks for Multi-activity Shift Scheduling.</title>
+<pages>383-391</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_24</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#PorrmannR21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ChalumeauCCR21" mdate="2021-06-17">
+<author pid="286/1636">F&#233;lix Chalumeau</author>
+<author pid="286/1052">Ilan Coulon</author>
+<author pid="164/5606">Quentin Cappart</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<title>SeaPearl: A Constraint Programming Solver Guided by Reinforcement Learning.</title>
+<pages>392-409</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_25</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#ChalumeauCCR21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/FitzpatrickAC21" mdate="2021-07-13">
+<author orcid="0000-0002-9419-7005" pid="280/8410">James Fitzpatrick</author>
+<author orcid="0000-0001-7269-4150" pid="24/2712">Deepak Ajwani</author>
+<author orcid="0000-0003-1029-1668" pid="07/10085">Paula Carroll</author>
+<title>Learning to Sparsify Travelling Salesman Problem Instances.</title>
+<pages>410-426</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_26</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#FitzpatrickAC21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/KadiogluKW21" mdate="2021-06-17">
+<author pid="35/5878">Serdar Kadioglu</author>
+<author pid="258/7375">Bernard Kleynhans</author>
+<author pid="10/5630">Xin Wang</author>
+<title>Optimized Item Selection to Boost Exploration for Recommender Systems.</title>
+<pages>427-445</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_27</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#KadiogluKW21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/ParjadisCRB21" mdate="2021-06-17">
+<author pid="295/0945">Augustin Parjadis</author>
+<author pid="164/5606">Quentin Cappart</author>
+<author pid="34/688">Louis-Martin Rousseau</author>
+<author pid="70/9555">David Bergman</author>
+<title>Improving Branch-and-Bound Using Decision Diagrams and Reinforcement Learning.</title>
+<pages>446-455</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_28</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#ParjadisCRB21</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/cpaior/GeibingerKKMMW21" mdate="2022-12-07">
+<author orcid="0000-0002-0856-7162" pid="240/2079">Tobias Geibinger</author>
+<author pid="200/7256">Lucas Kletzander</author>
+<author pid="295/1714">Matthias Krainz</author>
+<author orcid="0000-0003-1166-3881" pid="236/6877">Florian Mischek</author>
+<author pid="64/493">Nysret Musliu</author>
+<author pid="155/2010">Felix Winter</author>
+<title>Physician Scheduling During a Pandemic.</title>
+<pages>456-465</pages>
+<year>2021</year>
+<booktitle>CPAIOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78230-6_29</ee>
+<crossref>conf/cpaior/2021</crossref>
+<url>db/conf/cpaior/cpaior2021.html#GeibingerKKMMW21</url>
+</inproceedings>
+</r>
+</dblpcites>
+</bht>
+

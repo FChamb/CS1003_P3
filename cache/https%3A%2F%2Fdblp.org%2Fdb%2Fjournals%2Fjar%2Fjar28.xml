@@ -1,0 +1,228 @@
+<bht key="db/journals/jar/jar28.bht" title="JAR, Volume 28"> 
+<h1><ref href="db/journals/jar/index.html">Journal of Automated Reasoning (JAR)</ref>, Volume 28</h1> 
+<h2>Volume 28, Number 1, January 2002</h2> 
+<dblpcites><r style="ee"><article key="journals/jar/Yahya02" mdate="2020-09-02">
+<author pid="y/AdnanHYahya">Adnan H. Yahya</author>
+<title>Duality for Goal-Driven Query Processing in Disjunctive Deductive Databases.</title>
+<pages>1-34</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1</number>
+<url>db/journals/jar/jar28.html#Yahya02</url>
+<ee>https://doi.org/10.1023/A:1020109502432</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/Eker02" mdate="2020-09-02">
+<author pid="65/6546">Steven Eker</author>
+<title>Single Elementary Associative-Commutative Matching.</title>
+<pages>35-51</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1</number>
+<url>db/journals/jar/jar28.html#Eker02</url>
+<ee>https://doi.org/10.1023/A:1020122610698</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/ShenYY02" mdate="2020-09-02">
+<author pid="12/4493">Yi-Dong Shen</author>
+<author pid="y/LiYanYuan">Li-Yan Yuan</author>
+<author pid="y/JiaHuaiYou">Jia-Huai You</author>
+<title>SLT-Resolution for the Well-Founded Semantics.</title>
+<pages>53-97</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>1</number>
+<url>db/journals/jar/jar28.html#ShenYY02</url>
+<ee>https://doi.org/10.1023/A:1020116927466</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 28, Number 2, February 2002</h2> 
+<dblpcites><r style="ee"><article key="journals/jar/GentW02" mdate="2020-09-02">
+<author orcid="0000-0002-5604-7006" pid="30/3076">Ian P. Gent</author>
+<author pid="86/2576">Toby Walsh</author>
+<title>Satisfiability in the Year 2000.</title>
+<pages>99</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>2</number>
+<url>db/journals/jar/jar28.html#GentW02</url>
+<ee>https://doi.org/10.1023/A:1015051815026</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/CadoliSGG02" mdate="2020-09-02">
+<author pid="c/MarcoCadoli">Marco Cadoli</author>
+<author orcid="0000-0002-2016-1966" pid="00/2963">Marco Schaerf</author>
+<author pid="58/648">Andrea Giovanardi</author>
+<author pid="90/744">Massimo Giovanardi</author>
+<title>An Algorithm to Evaluate Quantified Boolean Formulae and Its Experimental Evaluation.</title>
+<pages>101-142</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>2</number>
+<url>db/journals/jar/jar28.html#CadoliSGG02</url>
+<ee>https://doi.org/10.1023/A:1015019416843</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/GiunchigliaTG02" mdate="2022-10-02">
+<author orcid="0000-0001-5758-2556" pid="g/EnricoGiunchiglia">Enrico Giunchiglia</author>
+<author orcid="0000-0001-9487-331X" pid="35/5174">Armando Tacchella</author>
+<author pid="g/FaustoGiunchiglia">Fausto Giunchiglia</author>
+<title>SAT-Based Decision Procedures for Classical Modal Logics.</title>
+<pages>143-171</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>2</number>
+<url>db/journals/jar/jar28.html#GiunchigliaTG02</url>
+<ee>https://doi.org/10.1023/A:1015071400913</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/HorrocksP02" mdate="2022-04-12">
+<author orcid="0000-0002-2685-7462" pid="h/IanHorrocks">Ian Horrocks 0001</author>
+<author pid="78/850">Peter F. Patel-Schneider</author>
+<title>Evaluating Optimized Decision Procedures for Propositional Modal K(m) Satisfiability.</title>
+<pages>173-204</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>2</number>
+<url>db/journals/jar/jar28.html#HorrocksP02</url>
+<ee>https://doi.org/10.1023/A:1015063215934</ee>
+<ee>https://www.wikidata.org/entity/Q56988904</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/HustadtS02" mdate="2020-09-02">
+<author pid="h/UllrichHustadt">Ullrich Hustadt</author>
+<author orcid="0000-0002-6673-3333" pid="s/RenateASchmidt">Renate A. Schmidt</author>
+<title>Using Resolution for Testing Modal Satisfiability and Building Models.</title>
+<pages>205-232</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>2</number>
+<url>db/journals/jar/jar28.html#HustadtS02</url>
+<ee>https://doi.org/10.1023/A:1015067300005</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 28, Number 3, April 2002</h2> 
+<dblpcites><r style="ee"><article key="journals/jar/CremannsO02" mdate="2020-09-02">
+<author pid="41/3988">Robert Cremanns</author>
+<author pid="03/67">Friedrich Otto</author>
+<title>A Completion Procedure for Finitely Presented Groups That Is Based on Word Cycles.</title>
+<pages>235-256</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<url>db/journals/jar/jar28.html#CremannsO02</url>
+<ee>https://doi.org/10.1023/A:1015741511536</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/JanicicB02" mdate="2020-09-02">
+<author orcid="0000-0001-8922-4948" pid="90/5732">Predrag Janicic</author>
+<author pid="b/AlanBundy">Alan Bundy</author>
+<title>A General Setting for Flexibly Combining and Augmenting Decision Procedures.</title>
+<pages>257-305</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<url>db/journals/jar/jar28.html#JanicicB02</url>
+<ee>https://doi.org/10.1023/A:1015707001763</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/SutcliffeSP02" mdate="2021-04-09">
+<author orcid="0000-0001-9120-3927" pid="s/GeoffSutcliffe">Geoff Sutcliffe</author>
+<author pid="72/1649">Christian B. Suttner</author>
+<author pid="14/2354">Francis Jeffry Pelletier</author>
+<title>The IJCAR ATP System Competition.</title>
+<pages>307-320</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<url>db/journals/jar/jar28.html#SutcliffeSP02</url>
+<ee>https://doi.org/10.1023/A:1015736313131</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/BarendregtB02" mdate="2020-09-02">
+<author pid="b/HendrikPieterBarendregt">Henk Barendregt</author>
+<author pid="24/1493">Erik Barendsen</author>
+<title>Autarkic Computations in Formal Proofs.</title>
+<pages>321-336</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<url>db/journals/jar/jar28.html#BarendregtB02</url>
+<ee>https://doi.org/10.1023/A:1015761529444</ee>
+</article>
+</r>
+</dblpcites>
+
+<h2>Volume 28, Number 5, May 2002</h2> 
+<dblpcites><r style="ee"><article key="journals/jar/Knapik02" mdate="2020-09-02">
+<author pid="29/919">Teodor Knapik</author>
+<title>Checking Simple Properties of Transition Systems Defined by Thue Specifications.</title>
+<pages>337-369</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>5</number>
+<url>db/journals/jar/jar28.html#Knapik02</url>
+<ee>https://doi.org/10.1023/A:1015850228563</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/HookerRCS02" mdate="2020-09-02">
+<author pid="h/JohnNHooker">John N. Hooker</author>
+<author pid="68/5757">G. Rago</author>
+<author pid="45/1439">V. Chandru</author>
+<author pid="14/4973">A. Shrivastava</author>
+<title>Partial Instantiation Methods for Inference in First-Order Logic.</title>
+<pages>371-396</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>5</number>
+<url>db/journals/jar/jar28.html#HookerRCS02</url>
+<ee>https://doi.org/10.1023/A:1015854101244</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/MontanariPS02" mdate="2020-09-02">
+<author pid="68/27">Angelo Montanari</author>
+<author pid="56/317">Alberto Policriti</author>
+<author pid="76/3038">Matteo Slanina</author>
+<title>Alternative Translation Techniques for Propositional and First-Order Modal Logics.</title>
+<pages>397-415</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>5</number>
+<url>db/journals/jar/jar28.html#MontanariPS02</url>
+<ee>https://doi.org/10.1023/A:1015849504706</ee>
+</article>
+</r>
+<r style="ee"><article key="journals/jar/Goldberg02" mdate="2020-09-02">
+<author pid="g/EugeneGoldberg">Eugene Goldberg</author>
+<title>Proving Unsatisfiability of CNFs Locally.</title>
+<pages>417-434</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>J. Autom. Reason.</journal>
+<number>5</number>
+<url>db/journals/jar/jar28.html#Goldberg02</url>
+<ee>https://doi.org/10.1023/A:1015803927637</ee>
+</article>
+</r>
+</dblpcites>
+</bht>
+

@@ -1,0 +1,369 @@
+<bht key="db/conf/sisap/sisap2022.bht" title="SISAP 2022"> 
+<h1>15th <ref href="db/conf/sisap/index.html">SISAP</ref> 2022, Bologna, Italy</h1> <dblpcites><r><proceedings key="conf/sisap/2022" mdate="2022-10-04">
+<editor orcid="0000-0002-6591-0879" pid="s/TomasSkopal">Tom&#225;s Skopal</editor>
+<editor orcid="0000-0001-6258-5313" pid="32/4659">Fabrizio Falchi</editor>
+<editor orcid="0000-0002-3558-4144" pid="00/1649">Jakub Lokoc</editor>
+<editor orcid="0000-0002-7621-3753" pid="s/MariaLuisaSapino">Maria Luisa Sapino</editor>
+<editor orcid="0000-0002-8074-1129" pid="b/IlariaBartolini">Ilaria Bartolini</editor>
+<editor orcid="0000-0003-2655-0759" pid="p/MPatella">Marco Patella</editor>
+<title>Similarity Search and Applications - 15th International Conference, SISAP 2022, Bologna, Italy, October 5-7, 2022, Proceedings</title>
+<booktitle>SISAP</booktitle>
+<publisher>Springer</publisher>
+<year>2022</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>13590</volume>
+<isbn>978-3-031-17848-1</isbn>
+<isbn>978-3-031-17849-8</isbn>
+<ee>https://doi.org/10.1007/978-3-031-17849-8</ee>
+<url>db/conf/sisap/sisap2022.html</url>
+</proceedings>
+</r>
+</dblpcites>
+ 
+<h2>Applications</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/LalandeD22" mdate="2022-10-18">
+<author orcid="0000-0001-6676-1484" pid="228/9300">Florian Lalande</author>
+<author orcid="0000-0002-2446-6820" pid="00/100">Kenji Doya</author>
+<title>Numerical Data Imputation: Choose kNN over Deep Learning.</title>
+<pages>3-10</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_1</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#LalandeD22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/BartoliniMPSV22" mdate="2022-10-04">
+<author pid="b/IlariaBartolini">Ilaria Bartolini</author>
+<author pid="97/4042">Vincenzo Moscato</author>
+<author pid="287/1073">Marco Postiglione</author>
+<author pid="121/0078">Giancarlo Sperl&#236;</author>
+<author pid="330/1558">Andrea Vignali</author>
+<title>COSINER: COntext SImilarity data augmentation for Named Entity Recognition.</title>
+<pages>11-24</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_2</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#BartoliniMPSV22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/LeH22" mdate="2022-10-18">
+<author pid="330/2016">My Hong Le</author>
+<author orcid="0000-0003-4817-0116" pid="37/2076">Alexander Hinneburg</author>
+<title>An Application of Learned Multi-modal Product Similarity to E-Commerce.</title>
+<pages>25-39</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_3</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#LeH22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/MoroS22" mdate="2022-10-18">
+<author orcid="0000-0002-3663-7877" pid="m/GianlucaMoro">Gianluca Moro</author>
+<author orcid="0000-0003-3731-9528" pid="26/7423">Stefano Salvatori</author>
+<title>Deep Vision-Language Model for Efficient Multi-modal Similarity Search in Fashion Retrieval.</title>
+<pages>40-53</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_4</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#MoroS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/RuizMC22" mdate="2022-10-04">
+<author pid="10/1079">Ubaldo Ruiz 0001</author>
+<author pid="32/3825">St&#233;phane Marchand-Maillet</author>
+<author pid="95/1963">Edgar Ch&#225;vez</author>
+<title>Stable Anchors for Matching Unlabelled Point Clouds.</title>
+<pages>54-63</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_5</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#RuizMC22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/BudikovaKRS22" mdate="2022-10-18">
+<author orcid="0000-0003-1523-1744" pid="09/8611">Petra Bud&#237;kov&#225;</author>
+<author pid="330/1795">Daniel Klepac</author>
+<author pid="330/1067">David Rusnak</author>
+<author pid="330/1960">Milan Slovak</author>
+<title>Visual Exploration of Human Motion Data.</title>
+<pages>64-71</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_6</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#BudikovaKRS22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Foundations</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/ThordsenS22" mdate="2022-10-18">
+<author orcid="0000-0003-1639-3534" pid="257/4209">Erik Thordsen</author>
+<author orcid="0000-0001-9143-4880" pid="61/5820">Erich Schubert</author>
+<title>On Projections to Linear Subspaces.</title>
+<pages>75-88</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_7</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#ThordsenS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/MicZ22" mdate="2022-10-04">
+<author pid="169/1176">Vladimir Mic</author>
+<author pid="z/PZezula">Pavel Zezula</author>
+<title>Concept of Relational Similarity Search.</title>
+<pages>89-103</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_8</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#MicZ22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/VadicamoDC22" mdate="2022-10-18">
+<author orcid="0000-0001-7182-7038" pid="152/1401">Lucia Vadicamo</author>
+<author orcid="0000-0002-1157-2421" pid="d/AlanDearle">Alan Dearle</author>
+<author orcid="0000-0003-4734-8103" pid="c/RCHConnor">Richard Connor 0001</author>
+<title>On the Expected Exclusion Power of Binary Partitions for Metric Search.</title>
+<pages>104-117</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_9</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#VadicamoDC22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/KrenkovaMZ22" mdate="2022-10-04">
+<author pid="330/1659">Mark&#233;ta Krenkov&#225;</author>
+<author pid="169/1176">Vladimir Mic</author>
+<author pid="z/PZezula">Pavel Zezula</author>
+<title>Similarity Search with the Distance Density Model.</title>
+<pages>118-132</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_10</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#KrenkovaMZ22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/FosterSK22" mdate="2022-10-04">
+<author pid="327/3774">Cole Foster</author>
+<author pid="136/8750">Berk Sevilmis</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>Generalized Relative Neighborhood Graph (GRNG) for Similarity Search.</title>
+<pages>133-149</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_11</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#FosterSK22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/Connor22" mdate="2022-10-04">
+<author pid="226/1729">Richard Connor</author>
+<title>A Ptolemaic Partitioning Mechanism.</title>
+<pages>150-163</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_12</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#Connor22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/Marchand-Maillet22" mdate="2022-10-04">
+<author pid="32/3825">St&#233;phane Marchand-Maillet</author>
+<author pid="95/1963">Edgar Ch&#225;vez</author>
+<title>HubHSP Graph: Effective Data Sampling for Pivot-Based Representation Strategies.</title>
+<pages>164-177</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_13</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#Marchand-Maillet22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Indexing and Clustering</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/ChegraneHYBN22" mdate="2022-12-07">
+<author pid="139/0638">Ibrahim Chegrane</author>
+<author pid="300/2540">Imane Hocine</author>
+<author orcid="0000-0002-1772-0579" pid="13/10703">Sa&#239;d Yahiaoui</author>
+<author pid="19/5439">Ahc&#232;ne Bendjoudi</author>
+<author pid="40/4561">Nadia Nouali-Taboudjemat</author>
+<title>Graph Edit Distance Compacted Search Tree.</title>
+<pages>181-189</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_14</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#ChegraneHYBN22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/LenssenS22" mdate="2022-10-18">
+<author orcid="0000-0003-0037-0418" pid="325/6789">Lars Lenssen</author>
+<author orcid="0000-0001-9143-4880" pid="61/5820">Erich Schubert</author>
+<title>Clustering by Direct Optimization of the Medoid Silhouette.</title>
+<pages>190-204</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_15</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#LenssenS22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/Schubert22" mdate="2022-12-07">
+<author orcid="0000-0001-9143-4880" pid="61/5820">Erich Schubert</author>
+<title>Automatic Indexing for Similarity Search in ELKI.</title>
+<pages>205-213</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_16</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#Schubert22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/CarraraVGA22" mdate="2022-11-18">
+<author orcid="0000-0001-5014-5089" pid="167/9297">Fabio Carrara</author>
+<author orcid="0000-0001-7182-7038" pid="152/1401">Lucia Vadicamo</author>
+<author orcid="0000-0002-3715-149X" pid="68/4499">Claudio Gennaro</author>
+<author orcid="0000-0003-0171-4315" pid="54/685">Giuseppe Amato 0001</author>
+<title>Approximate Nearest Neighbor Search on Standard Search Engines.</title>
+<pages>214-221</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_17</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#CarraraVGA22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/KnezevicBSR22" mdate="2022-10-18">
+<author orcid="0000-0002-4854-6577" pid="274/5953">Dusica Knezevic</author>
+<author orcid="0000-0001-5244-3725" pid="330/1764">Jela Babic</author>
+<author orcid="0000-0003-1267-5411" pid="120/1877">Milos Savic 0001</author>
+<author orcid="0000-0003-2225-7803" pid="79/5222">Milos Radovanovic</author>
+<title>Evaluation of LID-Aware Graph Embedding Methods for Node Clustering.</title>
+<pages>222-233</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_18</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#KnezevicBSR22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/MarquesZCS22" mdate="2022-12-05">
+<author orcid="0000-0002-8273-5814" pid="164/7471">Henrique O. Marques</author>
+<author orcid="0000-0001-7713-4208" pid="27/4179">Arthur Zimek</author>
+<author orcid="0000-0003-0266-3492" pid="c/RicardoJGBCampello">Ricardo J. G. B. Campello</author>
+<author orcid="0000-0003-4068-7268" pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<title>Similarity-Based Unsupervised Evaluation of Outlier Detection.</title>
+<pages>234-248</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_19</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#MarquesZCS22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Learning</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/LaganiGFA22" mdate="2022-11-18">
+<author pid="248/4135">Gabriele Lagani</author>
+<author pid="68/4499">Claudio Gennaro</author>
+<author pid="63/8105">Hannes Fassold</author>
+<author pid="54/685">Giuseppe Amato 0001</author>
+<title>FastHebb: Scaling Hebbian Training of Deep Neural Networks to ImageNet Level.</title>
+<pages>251-264</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_20</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#LaganiGFA22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/ShethGDCCL22" mdate="2022-10-18">
+<author orcid="0000-0002-6186-6946" pid="285/5124">Paras Sheth</author>
+<author orcid="0000-0002-8522-6142" pid="167/4378">Ruocheng Guo</author>
+<author orcid="0000-0001-6684-6752" pid="234/6878">Kaize Ding</author>
+<author orcid="0000-0002-2503-2522" pid="17/4969">Lu Cheng</author>
+<author orcid="0000-0003-4977-6646" pid="c/KSelcukCandan">K. Sel&#231;uk Candan</author>
+<author orcid="0000-0002-3264-7904" pid="92/309-1">Huan Liu 0001</author>
+<title>Causal Disentanglement with Network Information for Debiased Recommendations.</title>
+<pages>265-273</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_21</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#ShethGDCCL22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/OlhaSGAD22" mdate="2022-12-05">
+<author orcid="0000-0003-1824-468X" pid="213/7480">Jaroslav Olha</author>
+<author orcid="0000-0003-0502-1145" pid="294/1977">Ter&#233;zia Slanin&#225;kov&#225;</author>
+<author pid="326/8841">Martin Gendiar</author>
+<author orcid="0000-0002-1380-5647" pid="184/3424">Matej Antol</author>
+<author orcid="0000-0001-7768-7435" pid="17/2447">Vlastislav Dohnal</author>
+<title>Learned Indexing in Proteins: Substituting Complex Distance Calculations with Embedding and Clustering Techniques.</title>
+<pages>274-282</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_22</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#OlhaSGAD22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/MoroVRCM22" mdate="2022-10-18">
+<author orcid="0000-0002-3663-7877" pid="m/GianlucaMoro">Gianluca Moro</author>
+<author orcid="0000-0003-0309-771X" pid="303/6744">Lorenzo Valgimigli</author>
+<author pid="323/7755">Alex Rossi</author>
+<author pid="297/3348">Cristiano Casadei</author>
+<author pid="330/1754">Andrea Montefiori</author>
+<title>Self-supervised Information Retrieval Trained from Self-generated Sets of Queries and Relevant Documents.</title>
+<pages>283-290</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_23</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#MoroVRCM22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+
+<h2>Doctoral Symposium</h2> 
+<dblpcites><r style="ee"><inproceedings key="conf/sisap/Hedzic22" mdate="2022-10-18">
+<author orcid="0000-0001-8017-7989" pid="330/1877">Armin Hedzic</author>
+<title>Discovering Knowledge Graphs via Attention-Driven Graph Generation.</title>
+<pages>293-298</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_24</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#Hedzic22</url>
+</inproceedings>
+</r>
+<r style="ee"><inproceedings key="conf/sisap/Abluton22" mdate="2022-10-18">
+<author orcid="0000-0001-8525-9940" pid="330/1202">Alessandro Abluton</author>
+<title>Visual Recommendation and Visual Search for Fashion E-Commerce.</title>
+<pages>299-304</pages>
+<year>2022</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17849-8_25</ee>
+<crossref>conf/sisap/2022</crossref>
+<url>db/conf/sisap/sisap2022.html#Abluton22</url>
+</inproceedings>
+</r>
+</dblpcites>
+
+</bht>
+
