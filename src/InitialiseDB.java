@@ -6,11 +6,12 @@ import java.util.Scanner;
 
 public class InitialiseDB {
     public static void main(String[] args) {
-        File file = new File("CS1003_P3DataBase");
+        String fname = "CS1003_P3DataBase";
+        File file = new File(fname);
         if (file.exists()) {
             file.delete();
         }
-        file = new File(file.getName());
+        file = new File(fname);
         try {
             file.createNewFile();
         } catch (IOException e) {
@@ -19,27 +20,18 @@ public class InitialiseDB {
         Scanner scan = null;
         Connection connection = null;
         try {
-            scan = new Scanner(file);
+            scan = new Scanner(new File("CreateDataBase.txt"));
             String path = "jdbc:sqlite:" + file.getName();
             connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
-            statement.executeUpdate("DROP TABLE IF EXISTS popStars");
-            statement.executeUpdate("CREATE TABLE IF NOT EXISTS popStars(Name VARCHAR(100) NOT NULL PRIMARY KEY, Label VARCHAR(100) NOT NULL, HighestNum INTEGER)");
-            statement.close();
-            statement = connection.createStatement();
-            ResultSet result = statement.executeQuery("SELECT * FROM popStars");
-            System.out.println("\ncontents of table:");
-            while (result.next()) {
-                String name = result.getString(1);
-                String label = result.getString(2);
-                int highest = result.getInt("HighestNum");
-                System.out.println("name: " + name);
-                System.out.println("label: " + label);
-                System.out.println("highest: " + highest);
-                System.out.println();
+            while (scan.hasNext()) {
+                statement.executeUpdate(scan.nextLine());
             }
             statement.close();
-        } catch (SQLException | FileNotFoundException e) {
+            System.out.println("OK");
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         } finally {
             if (connection != null) {
