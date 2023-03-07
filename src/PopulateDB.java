@@ -82,9 +82,8 @@ public class PopulateDB {
                 if (authorName.getNodeType() == Node.ELEMENT_NODE) {
                     Element element = (Element) authorName;
                     author = element.getElementsByTagName("author").item(0).getTextContent();
-                    //System.out.print(author);
                     URL newURL = new URL(element.getElementsByTagName("url").item(0).getTextContent() + ".xml");
-                    callToPubl(newURL);
+                    callToPubl(newURL, author);
                 }
             }
         } catch (Exception e) {
@@ -92,7 +91,7 @@ public class PopulateDB {
         }
     }
 
-    public void callToPubl(URL url) {
+    public void callToPubl(URL url, String name) {
         try {
             int publications = 0;
             String newEncodedURL = URLEncoder.encode(String.valueOf(url), StandardCharsets.UTF_8);
@@ -111,17 +110,13 @@ public class PopulateDB {
             NodeList nodeList = document.getElementsByTagName("r");
             for (int i = 0; i < nodeList.getLength(); i++) {
                 Node venueName = nodeList.item(i);
-                if (venueName.getNodeType() == Node.ELEMENT_NODE) {
-                    Element element = (Element) venueName;
-                    //if (element.hasAttribute("inproceedings") || element.hasAttribute("article")) {
-                        //publications += element.getElementsByTagName("title").getLength();
-                    //}
-		   publications += element.getElementsByTagName("title").getLength();
-
+                if (venueName.getTextContent().equals("inproceedings") || venueName.getTextContent().equals("article")) {
+                    publications += 1;
+                } else {
+                    i++;
                 }
             }
             System.out.println(publications);
-            //System.out.println(" - " + publications + " publications with " + coAuthors + " co-authors.");
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
