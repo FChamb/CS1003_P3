@@ -30,6 +30,8 @@ public class PopulateDB {
     public static void main(String[] args) {
         PopulateDB queryDBLP = new PopulateDB();
         queryDBLP.searchAuthor("Alan Dearle");
+        queryDBLP.searchAuthor("Ian Gent");
+        queryDBLP.searchAuthor("Ozgur Akgun");
     }
 
     public void searchAuthor(String authorName) {
@@ -94,6 +96,9 @@ public class PopulateDB {
     public void callToPubl(URL url, String name) {
         try {
             int publications = 0;
+            String title = null;
+            int NumOfAuth = 0;
+            String year = null;
             String newEncodedURL = URLEncoder.encode(String.valueOf(url), StandardCharsets.UTF_8);
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = factory.newDocumentBuilder();
@@ -109,14 +114,22 @@ public class PopulateDB {
             document.getDocumentElement().normalize();
             NodeList nodeList = document.getElementsByTagName("r");
             for (int i = 0; i < nodeList.getLength(); i++) {
-                Node venueName = nodeList.item(i);
-                if (venueName.getTextContent().equals("inproceedings") || venueName.getTextContent().equals("article")) {
-                    publications += 1;
-                } else {
-                    i++;
+                Node publication = nodeList.item(i);
+                NodeList noderList = publication.getChildNodes();
+                for (int j = 0; j < noderList.getLength(); j++) {
+                    Node type = noderList.item(j);
+                    if (type.getNodeType() == Node.ELEMENT_NODE) {
+                        Element element = (Element) noderList;
+                        if (element.getTextContent().equals("inproceedings") || element.getTextContent().equals("article") && publication.getNodeType() == Node.ELEMENT_NODE) {
+                            publications += 1;
+                            title = element.getElementsByTagName("title").item(0).getTextContent();
+                            NumOfAuth = element.getElementsByTagName("author").getLength();
+                            year = element.getElementsByTagName("year").item(0).getTextContent();
+                        }
+                    }
                 }
+                //System.out.println("Publications (" + publications + ") + title:" + title + ", numOfAuth:" + NumOfAuth + ", year:" + year);
             }
-            System.out.println(publications);
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
