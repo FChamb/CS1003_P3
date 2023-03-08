@@ -94,7 +94,7 @@ public class PopulateDB {
     }
 
     public void callToPubl(URL url, String name) {
-        String venueURL = "http://dblp.org/";
+        String venueURL = "https://dblp.org/";
         try {
             int publications = 0;
             String title = null;
@@ -147,7 +147,7 @@ public class PopulateDB {
                 }
                 //System.out.println("Publications (" + publications + ") + title:" + title + ", numOfAuth:" + NumOfAuth + ", year:" + year);
             }
-            //insertIntoDBAuth(name, publications);
+            insertIntoDBAuth(name, publications);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -169,15 +169,8 @@ public class PopulateDB {
                 writeXMLtoCache(document, outputStream);
             }
             document.getDocumentElement().normalize();
-            NodeList nodeList = document.getElementsByTagName("h1");
-            for (int i = 0; i < nodeList.getLength(); i++) {
-                Node venueName = nodeList.item(i);
-                if (venueName.getNodeType() == Node.ELEMENT_NODE) {
-                    Element element = (Element) venueName;
-                    title = element.getElementsByTagName("h1").item(0).getTextContent();
-                }
-                System.out.println(title);
-            }
+            title = document.getElementsByTagName("h1").item(0).getTextContent();
+            insertIntoDBVenue(title);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -205,14 +198,17 @@ public class PopulateDB {
         }
     }
 
-    public void insertIntoDBVenue(String VenID, String name) {
+    public void insertIntoDBVenue(String name) {
         File file = new File("CS1003_P3DataBase");
         Connection connection = null;
         try {
             String path = "jdbc:sqlite:" + file.getName();
             connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
-            statement.executeUpdate("INSERT INTO Venues VALUES ('" + VenID + "','" + name + "');");
+            int num = statement.executeUpdate("SELECT count(*) FROM Venues WHERE Name = '" + name + "';");
+            if (num == 0) {
+                statement.executeUpdate("INSERT INTO Venues VALUES ('" + name + "');");
+            }
             statement.close();
         } catch (SQLException e) {
             throw new RuntimeException(e);
