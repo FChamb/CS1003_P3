@@ -30,8 +30,8 @@ public class PopulateDB {
     public static void main(String[] args) {
         PopulateDB queryDBLP = new PopulateDB();
         queryDBLP.searchAuthor("Alan Dearle");
-        queryDBLP.searchAuthor("Ian Gent");
-        queryDBLP.searchAuthor("Ozgur Akgun");
+        //queryDBLP.searchAuthor("Ian Gent");
+        //queryDBLP.searchAuthor("Ozgur Akgun");
     }
 
     public void searchAuthor(String authorName) {
@@ -55,7 +55,7 @@ public class PopulateDB {
             }
             callToAuthorAPI(document);
         } catch (Exception e) {
-            System.out.println(e.getMessage());
+            e.printStackTrace();
         }
     }
 
@@ -89,11 +89,12 @@ public class PopulateDB {
                 }
             }
         } catch (Exception e) {
-            System.out.println(e.getMessage());
+            e.printStackTrace();
         }
     }
 
     public void callToPubl(URL url, String name) {
+        String venueURL = "http://dblp.org/";
         try {
             int publications = 0;
             String title = null;
@@ -112,37 +113,101 @@ public class PopulateDB {
                 writeXMLtoCache(document, outputStream);
             }
             document.getDocumentElement().normalize();
-            NodeList nodeList = document.getElementsByTagName("r");
+            NodeList nodeList = document.getElementsByTagName("inproceedings");
+            NodeList nodeList1 = document.getElementsByTagName("article");
             for (int i = 0; i < nodeList.getLength(); i++) {
                 Node publication = nodeList.item(i);
-                NodeList noderList = publication.getChildNodes();
-                for (int j = 0; j < noderList.getLength(); j++) {
-                    Node type = noderList.item(j);
-                    if (type.getNodeType() == Node.ELEMENT_NODE) {
-                        Element element = (Element) noderList;
-                        if (element.getTextContent().equals("inproceedings") || element.getTextContent().equals("article") && publication.getNodeType() == Node.ELEMENT_NODE) {
-                            publications += 1;
-                            title = element.getElementsByTagName("title").item(0).getTextContent();
-                            NumOfAuth = element.getElementsByTagName("author").getLength();
-                            year = element.getElementsByTagName("year").item(0).getTextContent();
-                        }
-                    }
+                if (publication.getNodeType() == Node.ELEMENT_NODE) {
+                    Element element = (Element) publication;
+                    publications += 1;
+                    title = element.getElementsByTagName("title").item(0).getTextContent();
+                    NumOfAuth = element.getElementsByTagName("author").getLength();
+                    year = element.getElementsByTagName("year").item(0).getTextContent();
+                    String nextURL = element.getElementsByTagName("url").item(0).getTextContent();
+                    nextURL = nextURL.substring(0, nextURL.indexOf(".html"));
+                    nextURL += venueURL + nextURL + ".xml";
                 }
                 //System.out.println("Publications (" + publications + ") + title:" + title + ", numOfAuth:" + NumOfAuth + ", year:" + year);
             }
+            for (int i = 0; i < nodeList1.getLength(); i++) {
+                Node publication = nodeList1.item(i);
+                if (publication.getNodeType() == Node.ELEMENT_NODE) {
+                    Element element = (Element) publication;
+                    publications += 1;
+                    title = element.getElementsByTagName("title").item(0).getTextContent();
+                    NumOfAuth = element.getElementsByTagName("author").getLength();
+                    year = element.getElementsByTagName("year").item(0).getTextContent();
+                    String nextURL = element.getElementsByTagName("url").item(0).getTextContent();
+                    nextURL = nextURL.substring(0, nextURL.indexOf(".html"));
+                    nextURL += venueURL + nextURL + ".xml";
+                }
+                //System.out.println("Publications (" + publications + ") + title:" + title + ", numOfAuth:" + NumOfAuth + ", year:" + year);
+            }
+            insertIntoDBAuth(name, publications);
         } catch (Exception e) {
-            System.out.println(e.getMessage());
+            e.printStackTrace();
         }
     }
 
-    public void insertIntoDBAuth(String name, int NumOfPubl, String AuthorID) {
+    public void callToVenue(URL url) {
+        try {
+            String name = null;
+            String newEncodedURL = URLEncoder.encode(String.valueOf(url), StandardCharsets.UTF_8);
+            DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+            DocumentBuilder builder = factory.newDocumentBuilder();
+            Document document;
+            if (checkCache()) {
+                File file = new File(this.cachePath + "/" + newEncodedURL);
+                document = builder.parse(file);
+            } else {
+                FileOutputStream outputStream = new FileOutputStream(this.cachePath + "/" + newEncodedURL);
+                document = builder.parse(url.openStream());
+                writeXMLtoCache(document, outputStream);
+            }
+            document.getDocumentElement().normalize();
+            NodeList nodeList = document.getElementsByTagName("hit");
+            for (int i = 0; i < nodeList.getLength(); i++) {
+                Node venueName = nodeList.item(i);
+                if (venueName.getNodeType() == Node.ELEMENT_NODE) {
+                    Element element = (Element) venueName;
+                    name = element.getElementsByTagName("venue").item(0).getTextContent();
+                }
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void insertIntoDBAuth(String name, int NumOfPubl) {
         File file = new File("CS1003_P3DataBase");
         Connection connection = null;
         try {
             String path = "jdbc:sqlite:" + file.getName();
             connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
-            statement.executeUpdate("INSERT INTO Authors VALUES ('" + name + "','" + NumOfPubl + "','" + AuthorID + "');");
+            statement.executeUpdate("INSERT INTO Authors VALUES ('" + name + "','" + NumOfPubl + "');");
+            statement.close();
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        } finally {
+            if (connection != null) {
+                try {
+                    connection.close();
+                } catch (SQLException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+        }
+    }
+
+    public void insertIntoDBVenue(String VenID, String name) {
+        File file = new File("CS1003_P3DataBase");
+        Connection connection = null;
+        try {
+            String path = "jdbc:sqlite:" + file.getName();
+            connection = DriverManager.getConnection(path);
+            Statement statement = connection.createStatement();
+            statement.executeUpdate("INSERT INTO Authors VALUES ('" + VenID + "','" + name + "');");
             statement.close();
         } catch (SQLException e) {
             throw new RuntimeException(e);
