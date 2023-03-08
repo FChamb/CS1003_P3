@@ -125,7 +125,9 @@ public class PopulateDB {
                     year = element.getElementsByTagName("year").item(0).getTextContent();
                     String nextURL = element.getElementsByTagName("url").item(0).getTextContent();
                     nextURL = nextURL.substring(0, nextURL.indexOf(".html"));
-                    nextURL += venueURL + nextURL + ".xml";
+                    nextURL = venueURL + nextURL + ".xml";
+                    URL theNextURL = new URL(nextURL);
+                    callToVenue(theNextURL);
                 }
                 //System.out.println("Publications (" + publications + ") + title:" + title + ", numOfAuth:" + NumOfAuth + ", year:" + year);
             }
@@ -139,11 +141,13 @@ public class PopulateDB {
                     year = element.getElementsByTagName("year").item(0).getTextContent();
                     String nextURL = element.getElementsByTagName("url").item(0).getTextContent();
                     nextURL = nextURL.substring(0, nextURL.indexOf(".html"));
-                    nextURL += venueURL + nextURL + ".xml";
+                    nextURL = venueURL + nextURL + ".xml";
+                    URL theNextURL = new URL(nextURL);
+                    callToVenue(theNextURL);
                 }
                 //System.out.println("Publications (" + publications + ") + title:" + title + ", numOfAuth:" + NumOfAuth + ", year:" + year);
             }
-            insertIntoDBAuth(name, publications);
+            //insertIntoDBAuth(name, publications);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -151,7 +155,7 @@ public class PopulateDB {
 
     public void callToVenue(URL url) {
         try {
-            String name = null;
+            String title = null;
             String newEncodedURL = URLEncoder.encode(String.valueOf(url), StandardCharsets.UTF_8);
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = factory.newDocumentBuilder();
@@ -165,13 +169,14 @@ public class PopulateDB {
                 writeXMLtoCache(document, outputStream);
             }
             document.getDocumentElement().normalize();
-            NodeList nodeList = document.getElementsByTagName("hit");
+            NodeList nodeList = document.getElementsByTagName("h1");
             for (int i = 0; i < nodeList.getLength(); i++) {
                 Node venueName = nodeList.item(i);
                 if (venueName.getNodeType() == Node.ELEMENT_NODE) {
                     Element element = (Element) venueName;
-                    name = element.getElementsByTagName("venue").item(0).getTextContent();
+                    title = element.getElementsByTagName("h1").item(0).getTextContent();
                 }
+                System.out.println(title);
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -207,7 +212,29 @@ public class PopulateDB {
             String path = "jdbc:sqlite:" + file.getName();
             connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
-            statement.executeUpdate("INSERT INTO Authors VALUES ('" + VenID + "','" + name + "');");
+            statement.executeUpdate("INSERT INTO Venues VALUES ('" + VenID + "','" + name + "');");
+            statement.close();
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        } finally {
+            if (connection != null) {
+                try {
+                    connection.close();
+                } catch (SQLException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+        }
+    }
+
+    public void insertIntoDBPubl(String title, int NumOfAuth, String YearOfOcc, String AuthorID, String VenID) {
+        File file = new File("CS1003_P3DataBase");
+        Connection connection = null;
+        try {
+            String path = "jdbc:sqlite:" + file.getName();
+            connection = DriverManager.getConnection(path);
+            Statement statement = connection.createStatement();
+            statement.executeUpdate("INSERT INTO Publications VALUES ('" + title + "','" + NumOfAuth + "','" + YearOfOcc + "','" + AuthorID + "','" + VenID + "');");
             statement.close();
         } catch (SQLException e) {
             throw new RuntimeException(e);
