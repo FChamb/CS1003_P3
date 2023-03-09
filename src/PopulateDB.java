@@ -10,16 +10,13 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 import java.net.URL;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.sql.*;
-import java.time.Year;
 import java.util.HashSet;
-import java.util.Scanner;
 
 public class PopulateDB {
     private final String cachePath = "../cache";
@@ -111,7 +108,9 @@ public class PopulateDB {
             }
             document.getDocumentElement().normalize();
             NodeList nodeList = document.getElementsByTagName("inproceedings");
+            System.out.println(nodeList.getLength());
             NodeList nodeList1 = document.getElementsByTagName("article");
+            System.out.println(nodeList1.getLength());
             for (int i = 0; i < nodeList.getLength(); i++) {
                 Node publication = nodeList.item(i);
                 PublID = publication.getAttributes().getNamedItem("key").getTextContent();
@@ -127,6 +126,7 @@ public class PopulateDB {
                     URL theNextURL = new URL(nextURL);
                     VenID = callToVenue(theNextURL);
                 }
+                insertIntoDBPubl(title, NumOfAuth, year, PublID, VenID);
             }
             for (int i = 0; i < nodeList1.getLength(); i++) {
                 Node publication = nodeList1.item(i);
@@ -206,10 +206,11 @@ public class PopulateDB {
             String path = "jdbc:sqlite:" + file.getName();
             connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
-            venues.add(name);
-            //int num = statement.executeUpdate("SELECT count(*) FROM Venues WHERE Name = '" + name + "';");
-            if (!venues.contains(name)) {
-                statement.executeUpdate("INSERT INTO Venues VALUES ('" + name + "');");
+            ResultSet resultSet = statement.executeQuery("SELECT Name FROM Venues WHERE Name = '" + name.replaceAll("'", "''") + "';");
+            if (resultSet.getString(1) == null) {
+                PreparedStatement stat = connection.prepareStatement("INSERT INTO Venues VALUES (?)");
+                stat.setString(1, name);
+                stat.executeUpdate();
                 statement.close();
             }
             statement.close();
@@ -233,13 +234,16 @@ public class PopulateDB {
             String path = "jdbc:sqlite:" + file.getName();
             connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
-            PreparedStatement stat = connection.prepareStatement("INSERT INTO Publications VALUES(?, ?, ?, ?, ?)");
-            stat.setString(1, title);
-            stat.setInt(2, NumOfAuth);
-            stat.setString(3, YearOfOcc);
-            stat.setString(4, PublID);
-            stat.setString(5, VenID);
-            stat.executeUpdate();
+            ResultSet resultSet = statement.executeQuery("SELECT Title FROM Publications WHERE PublID = '" + PublID + "';");
+            if (resultSet.getString(1) == null) {
+                PreparedStatement stat = connection.prepareStatement("INSERT INTO Publications VALUES(?, ?, ?, ?, ?)");
+                stat.setString(1, title);
+                stat.setInt(2, NumOfAuth);
+                stat.setString(3, YearOfOcc);
+                stat.setString(4, PublID);
+                stat.setString(5, VenID);
+                stat.executeUpdate();
+            }
             statement.close();
         } catch (SQLException e) {
             throw new RuntimeException(e);
