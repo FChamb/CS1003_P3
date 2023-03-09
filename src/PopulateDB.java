@@ -16,10 +16,7 @@ import java.io.OutputStream;
 import java.net.URL;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Scanner;
 
 public class PopulateDB {
@@ -205,9 +202,13 @@ public class PopulateDB {
             String path = "jdbc:sqlite:" + file.getName();
             connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
-            int num = statement.executeUpdate("SELECT count(*) FROM Venues WHERE Name = '" + name + "';");
-            if (num == 0) {
+            //System.out.println(name);
+            ResultSet resultSet = statement.executeQuery("SELECT 1 FROM Venues WHERE Name = '" + name + "';");
+            //int num = statement.executeUpdate("SELECT count(*) FROM Venues WHERE Name = '" + name + "';");
+            //System.out.println(num);
+            if (resultSet.getString(1).equals(null)) {
                 statement.executeUpdate("INSERT INTO Venues VALUES ('" + name + "');");
+                statement.close();
             }
             statement.close();
         } catch (SQLException e) {
