@@ -108,9 +108,7 @@ public class PopulateDB {
             }
             document.getDocumentElement().normalize();
             NodeList nodeList = document.getElementsByTagName("inproceedings");
-            System.out.println(nodeList.getLength());
             NodeList nodeList1 = document.getElementsByTagName("article");
-            System.out.println(nodeList1.getLength());
             for (int i = 0; i < nodeList.getLength(); i++) {
                 Node publication = nodeList.item(i);
                 PublID = publication.getAttributes().getNamedItem("key").getTextContent();
@@ -126,11 +124,13 @@ public class PopulateDB {
                     URL theNextURL = new URL(nextURL);
                     VenID = callToVenue(theNextURL);
                 }
+                insertIntoDBOwner(name, PublID);
                 insertIntoDBPubl(title, NumOfAuth, year, PublID, VenID);
             }
             for (int i = 0; i < nodeList1.getLength(); i++) {
                 Node publication = nodeList1.item(i);
-                PublID = publication.getAttributes().getNamedItem("key").getTextContent();
+                String[] PublicID = publication.getAttributes().getNamedItem("key").getTextContent().split("\\/");
+                PublID = PublicID[PublicID.length - 1];
                 if (publication.getNodeType() == Node.ELEMENT_NODE) {
                     Element element = (Element) publication;
                     publications += 1;
@@ -143,10 +143,10 @@ public class PopulateDB {
                     URL theNextURL = new URL(nextURL);
                     VenID = callToVenue(theNextURL);
                 }
+                insertIntoDBOwner(name, PublID);
                 insertIntoDBPubl(title, NumOfAuth, year, PublID, VenID);
             }
             insertIntoDBAuth(name, publications);
-            insertIntoDBOwner(name, PublID);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -234,7 +234,7 @@ public class PopulateDB {
             String path = "jdbc:sqlite:" + file.getName();
             connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
-            ResultSet resultSet = statement.executeQuery("SELECT Title FROM Publications WHERE PublID = '" + PublID + "';");
+            ResultSet resultSet = statement.executeQuery("SELECT Title FROM Publications WHERE PublID = '" + PublID + "'");
             if (resultSet.getString(1) == null) {
                 PreparedStatement stat = connection.prepareStatement("INSERT INTO Publications VALUES(?, ?, ?, ?, ?)");
                 stat.setString(1, title);
