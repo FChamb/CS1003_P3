@@ -36,7 +36,7 @@ public class QueryDB {
     public void Query1(Connection connection) {
         try {
             Statement statement = connection.createStatement();
-            ResultSet resultSet = statement.executeQuery("SELECT count(*) FROM Publications");
+            ResultSet resultSet = statement.executeQuery("SELECT count(DISTINCT Title) FROM Publications");
             resultSet.next();
             int num = resultSet.getInt(1);
             System.out.println("Total Number of Publications by “Ozgur Akgun” or “Ian Gent” or “Alan Dearle”: " + num);
