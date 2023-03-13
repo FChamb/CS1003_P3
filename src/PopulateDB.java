@@ -24,6 +24,11 @@ public class PopulateDB {
     String encodedURL = "";
     HashSet<String> venues = new HashSet<>();
 
+    /**
+     * Main method in PopulateDB which creates a new PopulateDB object. Using that object, searchAuthor, is
+     * called three times with the specification required author searches.
+     * @param args - command line arguments for the method. They are never used or needed for program to function.
+     */
     public static void main(String[] args) {
         PopulateDB queryDBLP = new PopulateDB();
         queryDBLP.searchAuthor("Alan Dearle");
@@ -258,6 +263,11 @@ public class PopulateDB {
         }
     }
 
+    /**
+     * Insert into DB Owner takes two string parameters and creates a connection to the
+     * @param AuthorID
+     * @param PublID
+     */
     public void insertIntoDBOwner(String AuthorID, String PublID) {
         File file = new File("CS1003_P3DataBase");
         Connection connection = null;
@@ -283,6 +293,14 @@ public class PopulateDB {
         }
     }
 
+    /**
+     * THIS METHOD WAS TAKEN FROM MY SUBMISSION OF CS1003P2
+     * Write XML to cache has a try-catch loop to check transformer issues. A new TransformerFactory,
+     * Transformer, DOMSource, and StreamResult are created with the source xml and future cache location.
+     * The transformer puts the xml data into the new cache file for future reference.
+     * @param document - the xml document given by search for reading
+     * @param output - the output stream which contains the location of where to put the new cached file
+     */
     public void writeXMLtoCache(Document document, OutputStream output) {
         try {
             TransformerFactory transformerFactory = TransformerFactory.newInstance();
