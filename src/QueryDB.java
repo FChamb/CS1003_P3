@@ -76,7 +76,7 @@ public class QueryDB {
         try {
             String year = String.valueOf(Year.now().getValue() - 3);
             Statement statement = connection.createStatement();
-            ResultSet resultSet = statement.executeQuery("SELECT DISTINCT(Venues.Name) FROM Venues INNER JOIN Publications ON Venues.Name = Publications.VenID INNER JOIN AuthorOwner ON AuthorOwner.PublID = Publications.PublID WHERE AuthorOwner.AuthorID = 'Özgür Akgün' AND Publications.YearOfOcc > " + year);
+            ResultSet resultSet = statement.executeQuery("SELECT DISTINCT(Venues.Name) FROM Venues INNER JOIN Publications ON Venues.Name = Publications.VenID INNER JOIN AuthorOwner ON AuthorOwner.PublID = Publications.PublID WHERE AuthorOwner.AuthorID = 'Özgür Akgün' AND Publications.YearOfOcc >= " + year);
             while(resultSet.next()) {
                 System.out.println(resultSet.getString(1));
             }

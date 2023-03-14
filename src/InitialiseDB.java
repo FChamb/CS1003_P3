@@ -63,12 +63,12 @@ public class InitialiseDB {
         String command = "SELECT Name FROM sqlite_master WHERE type = 'table' AND Name = Authors";
         try {
             Statement statement = connection.createStatement();
-            statement.executeUpdate(command);
+            //statement.executeUpdate(command);
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
 
 
-        return false;
+        return true;
     }
 }
