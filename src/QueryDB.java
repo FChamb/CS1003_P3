@@ -36,7 +36,7 @@ public class QueryDB {
     public void Query1(Connection connection) {
         try {
             Statement statement = connection.createStatement();
-            ResultSet resultSet = statement.executeQuery("SELECT count(DISTINCT Title) FROM Publications");
+            ResultSet resultSet = statement.executeQuery("SELECT count(DISTINCT Title) FROM Publications INNER JOIN AuthorOwner ON AuthorOwner.PublID = Publications.PublID WHERE AuthorOwner.AuthorID != 'Ian Gent'");
             resultSet.next();
             int num = resultSet.getInt(1);
             System.out.println("Total Number of Publications by “Ozgur Akgun” or “Ian Gent” or “Alan Dearle”: " + num);
@@ -91,7 +91,7 @@ public class QueryDB {
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery("SELECT Publications.Title, Venues.Name FROM Publications INNER JOIN Venues ON Publications.VenID = Venues.Name INNER JOIN AuthorOwner ON AuthorOwner.PublID = Publications.PublID WHERE AuthorOwner.AuthorID = 'Özgür Akgün'");
             while(resultSet.next()) {
-                System.out.println(resultSet.getString(1));
+                System.out.println(resultSet.getString(1) + "               " + resultSet.getString(2));
             }
             statement.close();
         } catch (SQLException e) {

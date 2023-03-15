@@ -35,7 +35,8 @@ public class InitialiseDB {
                 statement.executeUpdate(scan.nextLine());
             }
             statement.close();
-            if (checkInitialized(connection, fname)) {
+            InitialiseDB check = new InitialiseDB();
+            if (check.checkInitialized(connection)) {
                 System.out.println("OK");
             } else {
                 throw new FileNotFoundException("Database not formatted properly!");
@@ -54,16 +55,40 @@ public class InitialiseDB {
     }
 
     /**
-     * checkInitialized is the second half of this class. It takes a file name for the database and
-     * checks to see if it has been properly initialized. If 
-     * @param fname
-     * @return
+     * checkInitialized is the second half of this class. It takes a connection and a file name for the database and
+     * checks to see if it has been properly initialized. By looking at the sqlite_master file this method can determine
+     * whether the required tables have been created and initialized properly. Should any one of the tables not match
+     * a false is returned.
+     * @param connection - A link to the database so that the program can run sql commands.
+     * @return boolean - A boolean value to represent proper initialization. True to yes, false otherwise.
      */
-    public static boolean checkInitialized(Connection connection, String fname) {
-        String command = "SELECT Name FROM sqlite_master WHERE type = 'table' AND Name = Authors";
+    public boolean checkInitialized(Connection connection) {
+        String command = "SELECT Name FROM sqlite_master WHERE type = 'table' AND Name = 'Authors'";
         try {
             Statement statement = connection.createStatement();
-            //statement.executeUpdate(command);
+            ResultSet result = statement.executeQuery(command);
+            result.next();
+            if (!result.getString(1).equals("Authors")) {
+                return false;
+            }
+            command = "SELECT Name FROM sqlite_master WHERE type = 'table' AND Name = 'Venues'";
+            result = statement.executeQuery(command);
+            result.next();
+            if (!result.getString(1).equals("Venues")) {
+                return false;
+            }
+            command = "SELECT Name FROM sqlite_master WHERE type = 'table' AND Name = 'AuthorOwner'";
+            result = statement.executeQuery(command);
+            result.next();
+            if (!result.getString(1).equals("AuthorOwner")) {
+                return false;
+            }
+            command = "SELECT Name FROM sqlite_master WHERE type = 'table' AND Name = 'Publications'";
+            result = statement.executeQuery(command);
+            result.next();
+            if (!result.getString(1).equals("Publications")) {
+                return false;
+            }
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }

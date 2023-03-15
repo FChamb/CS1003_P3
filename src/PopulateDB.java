@@ -22,7 +22,6 @@ public class PopulateDB {
     private final String cachePath = "../cache";
     String url = "https://dblp.org/search/author/api?format=xml&c=0&h=40&q=";
     String encodedURL = "";
-    HashSet<String> venues = new HashSet<>();
 
     /**
      * Main method in PopulateDB which creates a new PopulateDB object. Using that object, searchAuthor, is
@@ -36,6 +35,17 @@ public class PopulateDB {
         queryDBLP.searchAuthor("Ozgur Akgun");
     }
 
+    /**
+     * THIS METHOD WAS TAKEN FROM MY SUBMISSION OF CS1003P2
+     * searchAuthor is the method that sets the appropriate url, checks the cache directory, creates a document
+     * builder, decides if the cache contains a search inquiry, and if not calls to the author API
+     * search method. If the cache directory does not exist an error message is printed and the program terminates.
+     * A try-catch loop creates a Document Build Factory and Builder for reading the xml file. A check then sees
+     * if the cache directory contains the search inquiry. If it does, the document is parsed the cached file. If not,
+     * the document is parsed an url link to the api and a call to writeXMLtoCache creates an instance of the data in
+     * cache.
+     * @param authorName
+     */
     public void searchAuthor(String authorName) {
         this.url += authorName.replace(" ", "+");
         this.encodedURL = URLEncoder.encode(this.url, StandardCharsets.UTF_8);
@@ -78,13 +88,16 @@ public class PopulateDB {
             String author = "";
             document.getDocumentElement().normalize();
             NodeList nodeList = document.getElementsByTagName("hit");
-            Node authorName = nodeList.item(0);
-            if (authorName.getNodeType() == Node.ELEMENT_NODE) {
-                Element element = (Element) authorName;
-                author = element.getElementsByTagName("author").item(0).getTextContent();
-                URL newURL = new URL(element.getElementsByTagName("url").item(0).getTextContent() + ".xml");
-                callToPubl(newURL, author);
+            for (int i = 0; i < nodeList.getLength(); i++) {
+                Node authorName = nodeList.item(i);
+                if (authorName.getNodeType() == Node.ELEMENT_NODE) {
+                    Element element = (Element) authorName;
+                    author = element.getElementsByTagName("author").item(0).getTextContent();
+                    URL newURL = new URL(element.getElementsByTagName("url").item(0).getTextContent() + ".xml");
+                    callToPubl(newURL, author);
+                }
             }
+
         } catch (Exception e) {
             e.printStackTrace();
         }
