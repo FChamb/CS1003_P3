@@ -3,8 +3,24 @@ import java.sql.*;
 import java.time.Year;
 
 public class QueryDB {
+    /**
+     * Main method in QueryDB which creates a new QueryDB object. First the command
+     * line argument is found and if it is a valid choice, it is sent to the switch
+     * case which decides the appropriate method to call. If the command line argument
+     * is not a valid option the appropriate error message will print to terminal.
+     * @param args - command line arguments for the method. Used to determine choice of query.
+     */
     public static void main(String[] args) {
-        int choice = Integer.parseInt(args[0]);
+        int choice = -1;
+        try {
+            if (Integer.parseInt(args[0]) >= 1 && Integer.parseInt(args[0]) <= 5) {
+                choice = Integer.parseInt(args[0]);
+            } else {
+                throw new IllegalArgumentException("Not a valid query choice!");
+            }
+        } catch (IllegalArgumentException e) {
+            e.printStackTrace();
+        }
         QueryDB queryDB = new QueryDB();
         File file = new File("CS1003_P3DataBase");
         String path = "jdbc:sqlite:" + file.getName();
@@ -14,25 +30,20 @@ public class QueryDB {
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
-        if (choice == 1) {
-            queryDB.Query1(connection);
-        } else if (choice == 2) {
-            queryDB.Query2(connection);
-        } else if (choice == 3) {
-            queryDB.Query3(connection);
-        } else if (choice == 4) {
-            queryDB.Query4(connection);
-        } else if (choice == 5) {
-            queryDB.Query5(connection);
-        } else {
-            try {
-                throw new Exception("Not a valid query option!");
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
+        switch (choice) {
+            case 1 -> queryDB.Query1(connection);
+            case 2 -> queryDB.Query2(connection);
+            case 3 -> queryDB.Query3(connection);
+            case 4 -> queryDB.Query4(connection);
+            case 5 -> queryDB.Query5(connection);
         }
     }
 
+    /**
+     * Query1 takes a connection parameter and using a hard coded sql command the number of total publications
+     * from Ozgur Akgun, Ian Gent, and Alan Dearle is printed to the terminal.
+     * @param connection - connection to the database
+     */
     public void Query1(Connection connection) {
         try {
             Statement statement = connection.createStatement();
@@ -46,6 +57,11 @@ public class QueryDB {
         }
     }
 
+    /**
+     * Query2 takes a connection parameter and using a hard coded sql command the number of total publications
+     * from Ozgur Akgun is printed to the terminal.
+     * @param connection - connection to the database
+     */
     public void Query2(Connection connection) {
         try {
             Statement statement = connection.createStatement();
@@ -59,6 +75,12 @@ public class QueryDB {
         }
     }
 
+    /**
+     * Query3 takes a connection parameter and using a hard coded sql command the distinct publication titles
+     * from Ozgur Akgun are printed to the terminal. Join is used in this statement to link AuthorOwner and
+     * Publications.
+     * @param connection - connection to the database
+     */
     public void Query3(Connection connection) {
         try {
             Statement statement = connection.createStatement();
@@ -72,6 +94,13 @@ public class QueryDB {
         }
     }
 
+    /**
+     * Query4 takes a connection parameter and using a hard coded sql command the distinct venue names
+     * which Ozgur Akgun published at in the last three years are printed to the terminal. Join is used
+     * twice in this statement to link AuthorOwner, Publications, and Venues. A year object is found and
+     * used to determine if the publication was published in the past three years.
+     * @param connection - connection to the database
+     */
     public void Query4(Connection connection) {
         try {
             String year = String.valueOf(Year.now().getValue() - 3);
@@ -86,6 +115,12 @@ public class QueryDB {
         }
     }
 
+    /**
+     * Query5 takes a connection parameter and using a hard coded sql command the publication titles and venue
+     * names from Ozgur Akgun are printed to the terminal. Join is used twice in this statement to link
+     * AuthorOwner, Publications, and Venues.
+     * @param connection - connection to the database
+     */
     public void Query5(Connection connection) {
         try {
             Statement statement = connection.createStatement();

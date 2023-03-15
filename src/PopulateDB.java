@@ -16,7 +16,6 @@ import java.net.URL;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.sql.*;
-import java.util.HashSet;
 
 public class PopulateDB {
     private final String cachePath = "../cache";
@@ -44,7 +43,7 @@ public class PopulateDB {
      * if the cache directory contains the search inquiry. If it does, the document is parsed the cached file. If not,
      * the document is parsed an url link to the api and a call to writeXMLtoCache creates an instance of the data in
      * cache.
-     * @param authorName
+     * @param authorName - String value containing the name of the author to insert into database.
      */
     public void searchAuthor(String authorName) {
         this.url += authorName.replace(" ", "+");
@@ -53,6 +52,21 @@ public class PopulateDB {
             System.out.println("Cache directory doesn't exist: " + this.cachePath);
             System.exit(1);
         }
+        Document document = checkDocument();
+        if (document != null) {
+            callToAuthorAPI(document);
+        }
+        this.url = "https://dblp.org/search/author/api?format=xml&c=0&h=40&q=";
+    }
+
+    /**
+     * checkDocument is a new method created in this practical that uses code from my CS1003P2
+     * submission. This method uses a Document builder factory and builder to create a document.
+     * If the file is in the cache, the document is parsed the saved xml file. Otherwise, the file
+     * is pulled API.
+     * @return Document - A Document object is returned. Either it contains a xml file or is null if it could not be parsed.
+     */
+    public Document checkDocument() {
         try {
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = factory.newDocumentBuilder();
@@ -65,24 +79,44 @@ public class PopulateDB {
                 document = builder.parse(new URL(this.url).openStream());
                 writeXMLtoCache(document, outputStream);
             }
-            callToAuthorAPI(document);
+            return document;
         } catch (Exception e) {
             e.printStackTrace();
         }
-        this.url = "https://dblp.org/search/author/api?format=xml&c=0&h=40&q=";
+        return null;
     }
 
+    /**
+     * THIS METHOD WAS TAKEN FROM MY SUBMISSION OF CS1003P2
+     * This method checks that the provided cache directory exists and is a directory.
+     * @return boolean - returns a boolean value, true if the directory exists, false otherwise
+     */
     public boolean checkDirectory() {
         File directory = new File(this.cachePath);
         return directory.isDirectory();
     }
 
+    /**
+     * THIS METHOD WAS TAKEN FROM MY SUBMISSION OF CS1003P2
+     * This method checks if the current search query has already been called. In other terms,
+     * this method ensures that the cache directory contains a file titled the encoded url.
+     * @return boolean - returns a boolean value, true if the file exists in the cache, false otherwise
+     */
     public boolean checkCache() {
         String path = this.cachePath + "/" + this.encodedURL;
         File file = new File(path);
         return file.exists();
     }
 
+    /**
+     * THIS METHOD WAS TAKEN FROM MY SUBMISSION OF CS1003P2 AND MODIFIED
+     * Instances of looking at an author xml file. This method retrieves the data for an author search.
+     * A try-catch loop exists as a new URL is created later on. The document is normalized and a list of nodes
+     * pertaining to "hit" is found. For every hit, the item is grabbed and checked to see if it is an element
+     * node. Then it is cast to an element and the author name is retrieved and saved. A newURL is created with
+     * the element url under the author and sent to callToPubl() with the author's name.
+     * @param document - the xml document given by search for data retrieval
+     */
     public void callToAuthorAPI(Document document) {
         try {
             String author = "";
@@ -97,12 +131,24 @@ public class PopulateDB {
                     callToPubl(newURL, author);
                 }
             }
-
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
+    /**
+     * THIS METHOD WAS TAKEN FROM MY SUBMISSION OF CS1003P2 AND MODIFIED
+     * Another instance of looking at a xml file. This particular method retrieves publication data. The document
+     * is normalized, and then two list of nodes are created from the tag name "inproceedings" or "article". Using
+     * two for loop, every hit checks if the node is an element. Then the node is cast to an element and the number
+     * of authors, the title of the publication and year of occurrence is retrieved. These are saved and then passed
+     * to insertIntoDBPubl. The name of the author which is given as a parameter to this method is passed along with
+     * the PublID to insertIntoDBOwner. A new URL is created with the element url under the author and sent to
+     * callToVenue() which returns the VenID. Finally, at the very end, the author name and total number of publications
+     * is passed to insertIntoDBAuth().
+     * @param url - the url for the publication information
+     * @param name - String value containing the name of the Author
+     */
     public void callToPubl(URL url, String name) {
         String venueURL = "https://dblp.org/";
         String VenID = null;
@@ -112,17 +158,10 @@ public class PopulateDB {
             int NumOfAuth = 0;
             String year = null;
             String PublID = null;
-            String newEncodedURL = URLEncoder.encode(String.valueOf(url), StandardCharsets.UTF_8);
-            DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-            DocumentBuilder builder = factory.newDocumentBuilder();
-            Document document;
-            if (checkCache()) {
-                File file = new File(this.cachePath + "/" + newEncodedURL);
-                document = builder.parse(file);
-            } else {
-                FileOutputStream outputStream = new FileOutputStream(this.cachePath + "/" + newEncodedURL);
-                document = builder.parse(url.openStream());
-                writeXMLtoCache(document, outputStream);
+            this.encodedURL = URLEncoder.encode(String.valueOf(url), StandardCharsets.UTF_8);
+            Document document = checkDocument();
+            if (document == null) {
+                throw new Exception("Document is not valid!");
             }
             document.getDocumentElement().normalize();
             NodeList nodeList = document.getElementsByTagName("inproceedings");
@@ -152,7 +191,7 @@ public class PopulateDB {
                 if (publication.getNodeType() == Node.ELEMENT_NODE) {
                     Element element = (Element) publication;
                     publications += 1;
-                    title = element.getElementsByTagName("title").item(0).getTextContent();
+                    title = element.getElementsByTagName("title").item(0).getTextContent().replace("\n", " ");
                     NumOfAuth = element.getElementsByTagName("author").getLength();
                     year = element.getElementsByTagName("year").item(0).getTextContent();
                     String nextURL = element.getElementsByTagName("url").item(0).getTextContent();
@@ -170,23 +209,25 @@ public class PopulateDB {
         }
     }
 
+    /**
+     * THIS METHOD WAS TAKEN FROM MY SUBMISSION OF CS1003P2 AND MODIFIED
+     * The final instance of looking at a xml file. For finding the venue information, the document is first
+     * normalized. Then the title of the venue is stored by getting the element from tag name "h1". This name
+     * replaces all new line characters with a space to improve format. This value is then passed to
+     * insertIntoDBVenue. Finally, the title is returned so that it can be given to the publications.
+     * @param url - the url for the venue information
+     * @return String - A string value containing the title of the venue
+     */
     public String callToVenue(URL url) {
         try {
             String title = null;
-            String newEncodedURL = URLEncoder.encode(String.valueOf(url), StandardCharsets.UTF_8);
-            DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-            DocumentBuilder builder = factory.newDocumentBuilder();
-            Document document;
-            if (checkCache()) {
-                File file = new File(this.cachePath + "/" + newEncodedURL);
-                document = builder.parse(file);
-            } else {
-                FileOutputStream outputStream = new FileOutputStream(this.cachePath + "/" + newEncodedURL);
-                document = builder.parse(url.openStream());
-                writeXMLtoCache(document, outputStream);
+            this.encodedURL = URLEncoder.encode(String.valueOf(url), StandardCharsets.UTF_8);
+            Document document = checkDocument();
+            if (document == null) {
+                throw new Exception("Document is not valid!");
             }
             document.getDocumentElement().normalize();
-            title = document.getElementsByTagName("h1").item(0).getTextContent();
+            title = document.getElementsByTagName("h1").item(0).getTextContent().replace("\n", " ");
             insertIntoDBVenue(title);
             return title;
         } catch (Exception e) {
@@ -195,12 +236,16 @@ public class PopulateDB {
         return null;
     }
 
+    /**
+     * insertIntoDBAuth takes two parameters and creates a connection to the database. A sql statement
+     * with a hard coded command is filled with the name and number of publications. This statement
+     * is executed and finally the connection is closed.
+     * @param name - String value containing the name of the author
+     * @param NumOfPubl - integer value containing the number of publications an author worked on
+     */
     public void insertIntoDBAuth(String name, int NumOfPubl) {
-        File file = new File("CS1003_P3DataBase");
-        Connection connection = null;
+        Connection connection = createConnection();
         try {
-            String path = "jdbc:sqlite:" + file.getName();
-            connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
             statement.executeUpdate("INSERT INTO Authors VALUES ('" + name + "','" + NumOfPubl + "');");
             statement.close();
@@ -211,18 +256,22 @@ public class PopulateDB {
                 try {
                     connection.close();
                 } catch (SQLException e) {
-                    throw new RuntimeException(e);
+                    e.printStackTrace();
                 }
             }
         }
     }
 
+    /**
+     * insertIntoDBVenue takes one parameter and creates a connection to the database. A check to ensure
+     * that the venue does not already exist in the database is executed and if the result is null then
+     * a sql statement inserts the name into the database. This statement is executed and finally the
+     * connection is closed.
+     * @param name - String value containing the name of the venue
+     */
     public void insertIntoDBVenue(String name) {
-        File file = new File("CS1003_P3DataBase");
-        Connection connection = null;
+        Connection connection = createConnection();
         try {
-            String path = "jdbc:sqlite:" + file.getName();
-            connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery("SELECT Name FROM Venues WHERE Name = '" + name.replaceAll("'", "''") + "';");
             if (resultSet.getString(1) == null) {
@@ -239,18 +288,26 @@ public class PopulateDB {
                 try {
                     connection.close();
                 } catch (SQLException e) {
-                    throw new RuntimeException(e);
+                    e.printStackTrace();
                 }
             }
         }
     }
 
+    /**
+     * insertIntoDBPubl takes 5 parameters and creates a connection to the database. A check to ensure
+     * that the publication does not already exist in the database is executed and if the result is null then
+     * a sql statement inserts the values into the database. This statement is executed and finally the
+     * connection is closed.
+     * @param title - String value containing the title of the venue
+     * @param NumOfAuth - integer value containing the number of authors that worked on this publication
+     * @param YearOfOcc - String value containing the year published
+     * @param PublID - String value containing the publication id
+     * @param VenID - String value containing the venue id
+     */
     public void insertIntoDBPubl(String title, int NumOfAuth, String YearOfOcc, String PublID, String VenID) {
-        File file = new File("CS1003_P3DataBase");
-        Connection connection = null;
+        Connection connection = createConnection();
         try {
-            String path = "jdbc:sqlite:" + file.getName();
-            connection = DriverManager.getConnection(path);
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery("SELECT Title FROM Publications WHERE PublID = '" + PublID + "'");
             if (resultSet.getString(1) == null) {
@@ -270,40 +327,55 @@ public class PopulateDB {
                 try {
                     connection.close();
                 } catch (SQLException e) {
-                    throw new RuntimeException(e);
+                    e.printStackTrace();
                 }
             }
         }
     }
 
     /**
-     * Insert into DB Owner takes two string parameters and creates a connection to the
-     * @param AuthorID
-     * @param PublID
+     * insertIntoDBOwner takes two parameters and creates a connection to the database. A sql statement
+     * with a hard coded command is filled with the name and the publication's id. This statement
+     * is executed and finally the connection is closed.
+     * @param AuthorID - String value containing the author id
+     * @param PublID - String value containing the publication id
      */
     public void insertIntoDBOwner(String AuthorID, String PublID) {
-        File file = new File("CS1003_P3DataBase");
-        Connection connection = null;
+        Connection connection = createConnection();
         try {
-            String path = "jdbc:sqlite:" + file.getName();
-            connection = DriverManager.getConnection(path);
-            Statement statement = connection.createStatement();
             PreparedStatement stat = connection.prepareStatement("INSERT INTO AuthorOwner VALUES(?, ?)");
             stat.setString(1, AuthorID);
             stat.setString(2, PublID);
             stat.executeUpdate();
-            statement.close();
+            stat.close();
         } catch (SQLException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         } finally {
             if (connection != null) {
                 try {
                     connection.close();
                 } catch (SQLException e) {
-                    throw new RuntimeException(e);
+                    e.printStackTrace();
                 }
             }
         }
+    }
+
+    /**
+     * createConnection() creates a connection variable that is linked to the
+     * database. This value is returned for use of insertion.
+     * @return Connection - a connection object with a link to the database
+     */
+    public Connection createConnection() {
+        File file = new File("CS1003_P3DataBase");
+        Connection connection = null;
+        try {
+            String path = "jdbc:sqlite:" + file.getName();
+            connection = DriverManager.getConnection(path);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return connection;
     }
 
     /**
