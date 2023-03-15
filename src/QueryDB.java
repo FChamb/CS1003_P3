@@ -13,6 +13,9 @@ public class QueryDB {
     public static void main(String[] args) {
         int choice = -1;
         try {
+            if (args.length == 0) {
+                throw new IllegalArgumentException("Not a valid query choice!");
+            }
             if (Integer.parseInt(args[0]) >= 1 && Integer.parseInt(args[0]) <= 5) {
                 choice = Integer.parseInt(args[0]);
             } else {
