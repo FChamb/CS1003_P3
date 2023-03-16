@@ -1,3 +1,4 @@
+import java.io.File;
 import java.sql.*;
 
 public class Test {
@@ -29,8 +30,11 @@ public class Test {
             Connection connection = DriverManager.getConnection(path);
             output = test.checkInitialized(connection);
             connection.close();
-        } catch (Exception e) {
-            e.printStackTrace();
+        } catch (NullPointerException e) {
+            System.out.println("Database file does not exist!");
+            System.exit(0);
+        } catch (SQLException ex) {
+            ex.printStackTrace();
         }
         System.out.println("Database has been properly initialized: " + output);
     }
@@ -38,7 +42,7 @@ public class Test {
     /**
      * This method creates a new PopulateDB object and creates a connection to the
      * database. The test object is called to insert an author with a random set
-     * of variables. Then using the connection to the database all of the author's
+     * of variables. Then using the connection to the database all the author's
      * information is pulled.
      */
     public void loadAuthors() {
