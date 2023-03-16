@@ -68,6 +68,10 @@ public class Test {
         }
     }
 
+    /**
+     * Creates a new QueryDB object and uses it to call each individual query.
+     * Their responses are printed to the terminal in a neat format.
+     */
     public void printAllQuery() {
         QueryDB test = new QueryDB();
         try {
