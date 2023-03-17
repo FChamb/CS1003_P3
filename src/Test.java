@@ -2,6 +2,10 @@ import java.io.File;
 import java.sql.*;
 
 public class Test {
+    /**
+     * Main method of class runs all the test methods.
+     * @param args - the command line arguments, never used.
+     */
     public static void main(String[] args) {
         Test test = new Test();
         System.out.println("----------Testing Initialization----------");
@@ -12,6 +16,9 @@ public class Test {
         System.out.println("------------------------------------------");
         System.out.println("-----------Testing Print Query------------");
         test.printAllQuery();
+        System.out.println("------------------------------------------");
+        System.out.println("-------Testing Query w/No Arguments-------");
+        test.testNoArgQuery();
         System.out.println("------------------------------------------");
     }
 
@@ -94,5 +101,17 @@ public class Test {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+    }
+
+    /**
+     * Creates a new QueryDB object and uses it to call the main method
+     * in QueryDB. An empty args array is created and passed to the main method.
+     */
+    public void testNoArgQuery() {
+        System.out.println("Creating new arguments with no input...");
+        String[] args = new String[1];
+        args[0] = "";
+        System.out.println("Testing Query...");
+        QueryDB.main(args);
     }
 }

@@ -21,6 +21,9 @@ public class QueryDB {
             } else {
                 throw new IllegalArgumentException("Not a valid query choice!");
             }
+        } catch (NumberFormatException ex) {
+            System.out.println("Not a valid query choice!");
+            System.exit(1);
         } catch (IllegalArgumentException e) {
             e.printStackTrace();
         }
